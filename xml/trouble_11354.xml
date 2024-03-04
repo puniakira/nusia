@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11354</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/07/14 13:22:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>24592</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/07/14 13:19:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110618]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所１号機は、第３３回定期検査中の平成２３年６月１８日、運転員の巡視点検において、新廃棄物処理建屋地下１階 濃縮廃液貯蔵タンク室（Ｄ）室内の床面に滴下跡（約３０ｃｍ×約３０ｃｍに数滴滴下跡が点在）を確認した。
+　タンク室内の状況確認を行ったところ、当該タンク上部に接続されたタンクベント配管（以下「当該配管」という。）に析出物の付着を確認した。
+　なお、析出物から、床面への滴下は継続しておらず、濃縮廃液貯蔵タンク室の放射能濃度は、検出限界値未満であり異常はなかった。
+　このため、濃縮廃液貯蔵タンク室床面の滴下跡の表面汚染密度、及び空気中の放射能濃度を測定し、検出限界値未満であることを確認するとともに、当該配管の析出箇所、及び床面について、養生を実施した。
+
+　原因調査の結果　析出物の成分が濃縮廃液貯蔵タンク水と同様の薬品成分（硫酸イオン等）であることまた、肉厚測定の結果、ライニングの無い水平配管底部に減肉が確認されたことから、原因は、濃縮廃液貯蔵タンク内薬品成分（硫酸イオン等）を含む気体が当該配管に移送され配管の水平部で凝縮し、硫酸イオンにより腐食が進展し、配管外面に析出物が付着したものと推定される。
+
+　減肉が認められた当該配管については新品の配管に取替えるとともに、取替えるまでの間応急補修を行う。
+　また、類似のタンクベント系の配管について、減肉調査を行い、必要な対策を実施する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[濃縮廃液貯蔵タンク（Ｄ）タンクベント配管からの析出物について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/07/14 13:22:34]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

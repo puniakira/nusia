@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9630</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/04/23 10:13:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4155</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/03/07 15:56:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200803070940]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/04/23 10:13:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　４号機（沸騰水型、定格出力110万キロワット）は、平成20年２月３日より第15回定期検査を実施しているが、平成20年３月７日９時40分に「主蒸気管放射能高高トリップ」の警報が発生した。
+　運転中に主蒸気管の放射線レベルを監視するモニタの点検作業後に、点検に伴う警報の発生を防止するために接続していた配線を当社社員が誤ってはずしたため、警報が発生したものと推定している。
+　発生した警報は、誤ってはずした配線を再び接続したことで解除した。
+
+　本事象は警報のみ発生したもので、安全上の問題はない。
+　なお、当該号機は定期検査中で、原子炉内の燃料は全て取り出されており、主蒸気管内に蒸気は流れておらず、当該モニタによる監視が必要のない状態だった。
+
+　また、これによる外部への放射能の影響はない。
+
+　調査の結果、以下のことがわかった。
+・当該モニタの電源（以下、電源）が切れた状態で当該配線をはずした場合、警報が発生すること。
+・当該モニタの点検作業を行った協力企業作業員は、電源を切った状態で点検作業を終了したこと。
+・当該モニタの点検作業終了後、点検作業を管理している当社社員Ａは電源が入っているものと思い込み、電源の状態を確認しないまま点検作業が終了したことを当社社員Ｂに連絡したこと。
+・当社社員Ｂは、電源の状態を確認しないまま、当社社員Ａからの依頼にもとづき、当該配線をはずしたこと。
+
+　当該モニタの点検終了後、作業関係者間において電源の状態の連絡ならびに確認をしなかったこと、および当社社員Ｂが電源の状態を確認しないまま当該配線をはずしたため、警報が発生したものと推定した。
+
+　当該モニタの点検の際には、電源を入れた状態で点検を終了することを点検要領書に記載するとともに、当該配線をはずす際の注意事項として、電源の状態を確認することを、作業を指示する札に記載することとする。
+　また、本事象について、事例検討会を実施し、事例を周知する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S120]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の誤警報（主蒸気管放射能高高トリップ）の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/03/10 09:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

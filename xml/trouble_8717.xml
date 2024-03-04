@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[ これまで実施してきた屋外設置の窒素補給用配管に対する保全活動において、技術基準で規定される必要最小厚さを下回るような腐食事象を把握出来なかった原因について調査を行った。
+
+１　保全計画について
+　炭素鋼配管の腐食等に対する保全管理は、
+（１）内部流体による配管内表面からの減肉事象に対する管理
+（２）発錆による配管外表面からの腐食事象に対する管理を行っている。
+
+　窒素補給用配管は、内部流体が窒素ガスであり、内部流体による減肉は問題とならないため、配管外表面からの腐食に対する管理を行っている。
+　外表面からの腐食事象に対する管理は、点検計画に基づく毎定期点検における配管外表面に対する目視点検と、塗装計画にて３年ごとの再塗装を行うこととしていた。また、塗装計画の見直し要否を確認するため、毎年塗装点検を実施していた。
+　なお、窒素ガス供給装置の点検計画は、原子炉格納容器バウンダリー外の屋外設置設備であり技術基準の適用範囲外との認識から、要求事項の欄には「省令６２号要求（技術基準の適用）なし」と記載されていた。
+
+２　保全実績について
+　上記保全計画に従い、点検計画に基づき第１回定期点検より毎定期点検において窒素ガス供給装置附属配管に対する点検を実施し、塗装計画に基づき運転開始以来３年ごとに合計６回の再塗装を実施していた。
+
+３　保全内容について
+（１）点検について
+　点検は、配管外表面に対する目視点検を実施していたが、その点検範囲は、窒素ガス供給装置の基礎ベース上の配管に対して行われており、基礎ベースから原子炉建屋までの屋外設置の配管については点検対象としていなかった。
+
+（２）塗装について
+　塗装は、一般的な屋外機器に対する仕様にて素地調整後、下塗り・中塗り・上塗りを実施していた。腐食部は素地調整のケレンにより腐食部を除去し、当社は腐食部除去後の素地状況の確認を行っていた。その際の確認は、配管外面に腐食箇所が残っていないことの確認であり、腐食部の配管肉厚測定は行っていなかった。また、原子炉建屋貫通部近傍の屋外設置配管は、塗装計画に基づく再塗装の範囲から外れていた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8717</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/04/17 14:34:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3722</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/03/22 15:50:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070307]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１　点検計画の充実
+　窒素ガス供給装置に係る点検計画に、配管点検範囲が明確にされていなかったことから、屋外設置の配管については、全ての範囲について目視点検するよう点検計画に明記する。また、技術基準の適用範囲外との認識から、「省令６２号要求（技術基準の適用）なし」と記載されていたことから、技術基準（第９条）の要求を点検計画に明記する。
+　また、毎定検時に行う目視点検において、外表面からの腐食が確認された際の肉厚測定及びその判定基準についても点検計画に規定する。
+
+２　塗装計画範囲の見直し
+　屋外の窒素補給用配管のうち、原子炉建屋貫通部近傍については塗装計画の範囲より外れていたため、今後塗装範囲に含め定期的に再塗装を実施していく。
+
+３　その他の屋外設置配管への展開
+　技術基準に規定（構造に関する規定：第９条、第３４条）される設備のうち、屋外に設置されている炭素鋼配管については、不活性ガス系配管以外は、塗装計画に基づく配管外表面からの再塗装と、その塗膜の健全性を点検計画に基づき確認することで配管の健全性を確認することとしてきたが、外表面からの腐食が確認された際の肉厚測定及びその判定基準については、不活性ガス系配管と同様、明確に規定されていない。　　
+　このため、不活性ガス系配管の点検計画同様、目視点検において、外表面からの腐食が確認された場合の肉厚測定及びその判定基準について点検計画に規定するとともに、前述の規定を盛り込んだ点検計画に基づく目視点検を、塗装計画の見直し要否を確認するため行っている毎年の塗装点検に加え、毎定期点検時に行う。
+　なお、本事象に鑑み、運転中の３、４号機については設備が供用されてから時間が経過しているため、前述の規定に準じた配管点検を、早期に実施する。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/04/17 14:34:08]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備について、データ改ざん、必要な手続きの不備、その他同様な問題がないかを評価・検討するための調査の中で、平成１８年に実施した浜岡３・４号機の窒素補給用配管（※１）の一部取替工事において、必要な手続きが行われていなかったことを確認した。
+　上記事象に係る一環として、平成１９年２月２８日より窒素補給用配管の点検を実施した結果、屋外に施設されている配管で、外面の一部に局部的な腐食があることを確認した。
+　このため、平成１９年３月７日、当該腐食箇所の肉厚測定を実施したところ、肉厚が減少し、２箇所については、技術基準（※２）上の必要肉厚３．０ｍｍ以上（※３）に対し、現在の肉厚が下回っていること（それぞれ１．０ｍｍ、 ２．２ｍｍ）を確認した。
+
+　当該配管は、窒素補給用配管の一部取替工事における手続きの不備により、隔離を行い使用していないこと、また当該配管を使用できない場合でも、窒素補給系とは別の計装用圧縮空気系等が作動用ガスの補給をバックアップする設計となっており、プラント運転に影響を及ぼすものではない。
+
+※１　窒素補給用配管は、原子炉格納容器内（運転中は窒素ガスで置換）に設置されている主蒸気隔離弁や主蒸気逃がし安全弁の作動用窒素ガスを補給する配管。
+※２　技術基準とは、原子力発電設備が、その設計段階、建設段階および供用期間中おいても維持しなければならない技術的な基準である。また、電気事業法に基づき実施される検査や工事計画の審査等において、その施設の設置段階で要求される基準である。
+※３　配管内の窒素ガスの使用圧力を考慮した必要肉厚は０．８ｍｍ以上であり、現状の肉厚はこれを上回っているので、強度上問題となるものではない。なお、必要肉厚を３．０ｍｍとしているのは、配管の腐食代を考慮した値である。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-M021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１　推定原因
+　原因調査の結果、屋外設置の窒素補給用配管に確認された技術基準で規定される必要最小厚さに達するような腐食事象を、これまでの窒素ガス供給装置の保全活動において把握出来なかった原因は、以下のとおりと推定した。
+
+（１）窒素補給用配管は技術基準の適用範囲外との認識から、点検計画に基づき毎定期点検において目視点検を実施することとなっているが、その点検範囲について明確に規定はされていない。このため、窒素ガス供給装置の点検に同調して行われる配管点検は、窒素ガス供給装置廻り近傍の配管のみを実施しており、それ以外の屋外に設置された窒素補給用配管は点検を実施していなかった。
+
+（２）窒素補給用配管は、屋外に設置されていることから、塗装計画に基づき３年毎に再塗装を実施しており、その際の腐食部の処置は、素地調整により腐食部を除去し、腐食部除去後の素地の状況を当社が確認しているが、塗装を目的とした素地状態の確認（配管外表面に腐食箇所が残っていないことの確認）であったため、配管肉厚測定を行うなど、配管厚さに対する確認は行っていなかった。
+　
+　以上より、屋外設置の窒素補給用配管全体に対する目視点検は行われず、塗装状態の確認のみとなっていた。また、塗装状態の確認に際しても、配管自身の強度（板厚）確保状況までは行われていなかった。このため、屋外に設置された配管の外表面の腐食による経年劣化状況を適切に把握できておらず、必要最小厚さを下回るような事象が発生したものと推定される。
+
+２　当該部の措置
+　腐食が確認された箇所のうち、必要最小厚さ３．０mmを満足していない６箇所及び、顕著な腐食（厚さ３．５ｍｍを割るもの）が確認された６箇所については、技術基準に適合する材料のうち、短期間で調達可能な配管（ＳＴＳ４１０）に取り替える。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[３・４号機　窒素補給配管外面の腐食について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/26 10:56:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>8717</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8717</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納容器調気系（不活性ガス系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[147]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8717</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0609]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+				<SORT_NO>27</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0609]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[腐しょく]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8717</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8717</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8717</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

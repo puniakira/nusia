@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10642</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/03/26 15:29:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/10/20 19:19:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910170941]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/03/26 15:29:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　定期検査中の１号機において、平成21年10月17日午前９時41分頃、海水熱交換器建屋（非管理区域）１階の残留熱除去海水系配管から海水が７～８秒に１滴程度、床に滴下していることを、付近で作業をしていた協力企業作業員が確認した。
+　このため、漏えい箇所の調査を開始するとともに、午後４時50分頃、当該配管へ海水を流している残留熱除去系海水ポンプを停止し、漏えいは停止した。
+　その後、当該配管の周辺を覆っている保温材を取り外して漏えい箇所の調査をおこなったところ、10月18日午前10時頃、配管表面に直径約２mm程度の孔を確認した。
+
+　漏えいした海水は放射性物質を含んでおらず、本事象による外部への放射能の影響はない。
+
+（対応状況）
+　当該配管の応急処置を行うとともに、漏えい確認を実施して異常のないことを確認した。
+　原因を調査した結果、孔が開いた原因は、当該箇所の上流側近傍にオリフィスが設置されていることから、オリフィス下流部で流れの乱れが生じたために配管内面に施されているゴムライニングが損傷し、配管が海水にさらされて腐食したためと推定した。
+　対策として、プラント起動前までに当該配管の取替を実施することとした。
+　また、今後、類似箇所（海水系の配管であってオリフィス等の流量の絞り機構が設置されている箇所）の抽出を行い、順次点検を実施し、海水系配管における通常の保全計画への反映を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S035]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　海水熱交換器建屋（非管理区域）残留熱除去海水系配管からの海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/22 09:03:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

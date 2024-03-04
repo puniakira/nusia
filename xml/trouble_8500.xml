@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8500</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/11/24 09:56:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2006/11/06 20:18:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611021000]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/11/24 09:56:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の４号機の海水熱交換器建屋において、平成18年11月２日午前10時頃、残留熱除去系の海水ポンプの点検作業を行っていた協力企業作業員４名が、ポンプの回転軸（長さ約6.7ｍ、重さ約450kg）を専用の台車２台に載せて手で押さえながら移動していたところ、１台の台車が傾いて回転軸が落下し、作業員のうち１名が回転軸と床との間に右手の小指をはさみ負傷した。
+　このため、同日午前10時15分頃、業務車で病院に搬送した。
+　診察の結果、「右小指挫創」と診断され、通院加療することになった。
+　なお、当該作業員に放射性物質による汚染はなかった。
+　
+　調査の結果、移動作業を始めた際に台車が傾いて回転軸が落下し、回転軸と床との間に右手の小指をはさんで負傷するに至った原因は、以下のように推定した。
+　・回転軸の専用台車（車輪４個）の各車輪にはストッパーが付属するが、回転軸を移動する準備として台車のストッパーを解除すべきところ、ロック／解除の位置が確認しづらかったため、誤って一部の解除位置にあったストッパーをロック側にしてしまった。
+　・回転軸を載せた台車を移動する際、回転軸に直接力を加えて台車を移動しようとした。
+
+　対策として、当該台車について、車輪ストッパーのロック／解除の位置を確認しやすくするとともに、台車に直接力を加えて安定した移動ができるように大型化し、手すりを取り付けることとする。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S049]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[協力企業作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/11/07 12:18:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

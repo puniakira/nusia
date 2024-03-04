@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11821</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/10/17 15:12:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>42182</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/10/17 15:11:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201309251056]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成25年9月25日10時頃より３号機放水口放射線モニタの指示値が上昇し始め、10時56分に「放水口モニタ放射能高」警報(※1)が点灯し、11時01分に「放水口モニタ放射能高高」警報(※2)が点灯した。その後、指示値は更に上昇し、11時15分頃、約45cpsで安定した。(放水口放射線モニタ指示値は通常8cps程度)
+　
+　現場確認の結果、放水口放射線モニタのサンプリング装置（混合槽）内に砂が堆積していることを確認したため、混合槽の上澄み水および堆積した砂をサンプリングし、放射能分析をしたところ、天然核種以外は検出されなかった。
+　また、警報点灯時、液体放射性廃棄物処理系からの放出は実施しておらず、発電所敷地内に設置しているモニタリングポストの指示にも有意な変動が無かったことから、発電所からの放射性物質の放出ではないことを確認した。
+　なお、3号機以外の放水口放射線モニタの指示値に有意な変動はなかった。
+
+＜原因＞　
+　放水口モニタの混合槽から繋がる水サンプラ内にも砂が堆積していることを確認したため、水サンプラ内の水および砂と比較用に採取した発電所周辺の海岸の砂について放水口モニタで測定した結果、以下の通りであった。
+　・水サンプラ内の水　： 7cps(通常と同程度)　
+　・水サンプラ内の砂　：43cps(警報点灯時と同程度)
+　・発電所周辺海岸の砂：37cps(水サンプラ内の砂と同程度)
+　以上より、3号機の循環水ポンプが全停中であったことから、荒天により放水路に砂が持ち込まれ、放水口モニタの水サンプラ内に砂が堆積し指示値が上昇したものと推定する。
+　　
+※1　設定値：17cps
+※2　設定値：25cps]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-中部-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所３号機　放水口放射線モニタの警報点灯について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/10/17 15:12:08]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

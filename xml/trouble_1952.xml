@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．Ｂ－ＣＲＤＭ冷却ファン過電流トリップの原因調査結果
+（１）外観点検、ハンドターニング、モータコイルの抵抗および絶縁抵抗測定結果
+　特に異常は認められなかった。
+（２）しゃ断器本体の外観およびＯＣＴ整定値確認調査結果
+　しゃ断器本体の付属の計器用変流器（以下「ＣＴ」という）を確認したところ、Ｂ－ＣＲＤＭ冷却ファンのＣＴが本来ＣＴ比８００Ａ／５Ａのところ、４００Ａ／５Ａであることが確認された。
+　また、しゃ断器本体（ＯＣＴ含む）とフェースプレートの製番およびＯＣＴの整定値を確認したところ、Ｂ－ＣＲＤＭ冷却ファンと３４Ｂ安全補機開閉器室空調ファンのしゃ断器が入れ替わっていることが確認された。
+　以上のことから、Ｂ－ＣＲＤＭ冷却ファンの本来のＣＴ比が８００Ａ／５Ａであるべきところ４００Ａ／５Ａであったことから、検出電流が２倍となりＯＣＴが動作して過電流トリップしたものと考えられる。
+２．しゃ断器本体が入れ替わった原因調査結果
+（１）平成１１年度に実施した４号機第５回定検における所内開閉装置定検工事にて、８月２８日にＢ－ＣＲＤＭ冷却ファンと３４Ｂ安全補機開閉器室空調ファンの２台のしゃ断器を同時に分解点検しており、その際フェースプレートが干渉するため取り外していることが確認された。
+　通常多数のしゃ断器の分解点検を実施する場合は、本体側に名称を書き込んだテープを貼り付けることにより識別が可能なようにしているが、今回は２台のみの分解点検であったため、紛れないと考え、テープによる識別を行わずに作業をしていた。
+（２）分解点検後のしゃ断器単体開閉試験及びＯＣＴ試験のため、しゃ断器本体を点検架台に乗せた状態で分解作業場所から試験エリアへ移動した。この際、フェースプレートは試験に必要なく、しゃ断器点検架台に収納できないため近くの場所に仮置きしていたが、試験後しゃ断器本体を元の位置とは異なる位置に置いたため、フェースプレートとの相対位置が変わってしまい、誤って異なるフェプレートを取り付け、気がつかなかったものと推定される。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[229]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1952</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/22 13:30:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2535</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199911040101]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．Ｂ－ＣＲＤＭ冷却ファンしゃ断器を、ＣＴ比８００Ａ／５Ａの予備しゃ断器（ＯＣＴ整定値の設定含む）に入替えて起動試験を行い、異常のないことを確認した後、定期切替を実施した。
+２．３４Ｂ安全補機開閉器室空調ファンしゃ断器を、ＣＴ比４００Ａ／５Ａの予備しゃ断器（ＯＣＴ整定値の設定含む）に入替えて異常のないことを確認した。
+３．今回のパワーセンタと同型（ＤＳ－４１６型）のしゃ断器全数について調査を行い、当該２台以外は問題ないことを確認した。また、当社プラントにおいてＤＳ－４１６型しゃ断器は高浜３・４号機のパワーセンタで使われているが、同機については従来から手順書により製造番号の照合確認が行われており、問題はない。
+４．ＤＳ－４１６型しゃ断器本体及びＯＣＴに機器名称の銘板を貼り付けると共に、作業手順書にフェースプレート取り付け時に、フェースプレートの銘板、製番としゃ断器本体及びＯＣＴに取り付けた銘板、製番を照合、確認する旨追記する。なお、念のため現在、しゃ断器と盤の組合せについて名称照合を行っている等問題のない手順書についても、注意喚起及び作業者の役割分担の明確化の観点で手順書の記載を充実することとした。
+５．３・４号機パワーセンタしゃ断器のフェースプレートに機器名称照合の注意喚起札を取付ける。
+６．３・４号機パワーセンタしゃ断器本体の点検時に本体とフェースプレートを分散して置かなくてもよいように本体の点検架台にフェースプレートを収納できるよう改良する。
+７．３・４号機パワーセンタしゃ断器について、しゃ断器点検終了後、盤に納めた状態で整定値の確認を行うと共に、プラント起動時にも再度整定値を確認する。
+８．当社作業員及び協力会社作業員に周知し、今回の事例について教育を実施する。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯発電所４号機は定格出力運転中（定格出力１１８０ＭＷ）のところ、換気空調設備の定期切替（１回／２ヶ月）に伴い、制御棒駆動装置冷却ファン（以下「ＣＲＤＭ冷却ファン」という）をＡ機（運転中）からＢ機（待機中）へ切り替えるため、平成１１年１１月４日０１時０１分にＢ－ＣＲＤＭ冷却ファンを起動したが、９秒後に「換気空調設備補機トリップ」（中央制御室換気空調盤）の警報が発信し、自動停止した。しゃ断器を確認したところ、過電流保護装置（以下「ＯＣＴ」という）が動作していた。
+　ただちに、現地点検（格納容器内）を行い、異常が認められなかったので、確認のため同日０１時４７分に同冷却ファンを再起動したが、再び同警報が発信し、自動停止した。再度、しゃ断器を確認したところ、ＯＣＴが動作していた。
+　なお、Ａ－ＣＲＤＭ冷却ファンは運転中であり、プラント運転に支障はない。
+（ＣＲＤＭ冷却ファンは２台設置されており、通常は１台運転、１台待機）
+　今回の事象による環境への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1999-関西-M014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　平成１１年度の４号機第５回定検の所内開閉装置定検工事において、Ｂ１パワーセンタのしゃ断器を点検した際、Ｂ－ＣＲＤＭ冷却ファンと３４Ｂ安全補機開閉器室空調ファンのフェースプレートと、しゃ断器本体の組み合わせを誤って取り付けた。このため、しゃ断器本体が機器名称と異なったものとなり、本来ＣＴ比８００Ａ／５Ａであるべきところ、ＣＴ比４００Ａ／５Ａが取り付けられたため、Ｂ－ＣＲＤＭ冷却ファンの起動電流（ＣＴの２次側出力電流）が２倍となったことから、ＯＣＴが作動したものである。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ｂ制御棒駆動装置冷却ファン不調について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報発信）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/22 13:30:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[249]]></KIKI_CODE>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[変成器（ＰＴ，ＣＴ等）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1952</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[249]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の遮断器・断路器]]></KIKI_NAME>
+				<SORT_NO>9</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納容器換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[229]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[229]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1952</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

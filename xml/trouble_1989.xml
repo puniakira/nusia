@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検・調査結果
+（１）火災発生時の状況確認
+　当日は９時３０分より、雑固体廃棄物を収納したドラム缶８本を固体廃棄物貯蔵庫に搬出するための作業を行っており、ドラム缶をＡｎ／Ａ地下１階のドラム缶充填エリアからＡｎ／Ａ１階のトラックエリアに、ドラムハンドリング装置を使用して移動していた。１本目の移動を終了し、２本目のドラム缶の移動作業に入ったところで、Ａｎ／Ａ１階のドラムハンドリング操作室にいた作業員が異臭に気づき、Ａｎ／Ａ１階の計重器エリアおよびトラックエリアの確認を実施したところ、トラックエリアの固化系インバータ盤より発煙しており、盤内部で発火しているのを発見し中央操作室に連絡した（１０時５１分）。
+　なお、発煙・発火を確認する前の１０時４７分に、中央操作室に「４８０Ｖ　Ａｎ／Ａ－Ｂ２　ＭＣＣ　５Ｂ－３－２故障」警報が発生していた。また、１０時５７分には火災警報「＃８９　Ａｎ／Ａ　１ＦＬ　トラックエリア」が発生していた。
+　警報が発生したモータコントロールセンタ（以下、「ＭＣＣ」という）は、固化系インバータ盤内の固化ドラム移載装置用（走行用）電源であり、その後、当該装置用のＭＣＣしゃ断器がトリップ位置になっていることを確認した。
+（２）焼損インバータの詳細調査
+　焼損した固化ドラム移載装置用（走行用）インバータをメーカ工場に持ち込み詳細点検を行った結果、直流回路のノイズ吸収コンデンサ２個（直列接続）が焼損し炭化しており、限流抵抗器はノイズ吸収コンデンサ側のケース（陶器製）に割れが生じ、ノイズ吸収コンデンサの溶解物が付着していることが確認された。また、整流回路のＲ相ダイオード（整流素子）が導通状態で短絡故障となっており、サイリスタ制御回路の抵抗と限流抵抗には導通がなく、断線しているものと推定された。
+　なお、Ｒ相ダイオードを含む整流回路は一体型の部品としてインバータ内の基板に取り付けられているが、外観に損傷は確認されなかった。
+２．インバータの焼損原因調査
+　損傷が確認されたＲ相ダイオード，ノイズ吸収コンデンサ，限流抵抗の各々について、考えられる故障モードとその結果として生ずる事象を評価した結果、ノイズ吸収コンデンサに不具合（開放）があり、インバータ装置に流入するサージ電圧が十分に低減できないと、サイリスタ制御回路に不具合が発生する可能性があり、これにより限流抵抗に負荷電流が流れ続けると今回のような事象が発生する可能性があることが判明した。
+（１）サイリスタ制御回路の不具合発生の可能性
+　限流抵抗はインバータ装置起動時の起動電流抑制のために設けられているもので、通常は起動後の極く短時間（約１０ｍｓｅｃ）のみ電流が流れ、その後はサイリスタ制御回路の動作によりサイリスタが通電状態となり、限流抵抗に電流は流れなくなる。
+　当該インバータ装置の耐サージ設計条件は、１μｓおよび５０ｎｓのインパルスノイズに対して±１５００Ｖ（各１０分間）、１．２／５０μｓ（耐電圧値の１０％～９０％までの時間／耐電圧値の５０％以上での継続時間）のサージノイズには±１０００Ｖ（各１０回：１分間間隔）であるのに対し、実測サージ電圧の最大値は約１０００Ｖと、設計サージノイズ条件に近い電圧が確認され、サイリスタ制御回路に不具合が発生する可能性があることが判明した。
+（２）サージ発生原因の詳細調査
+　サージ発生箇所及びサージ伝搬経路を特定するため実機調査を実施した結果、小容量電動機の起動停止時に動作する電磁接触器の開閉動作に伴い発生するサージであること、発生したサージは電路での誘導作用かＭＣＣ母線経由またはその重畳により伝搬されることが判明した。
+　なお、この発生サージ電圧は、電動機端では最大約４６００Ｖであり、当該インバータ装置では１１００Ｖ前後であることが確認された。
+（３）サージ電圧影響確認試験
+　実機において発生しているサージ電圧により、サイリスタ制御回路に不具合が発生する可能性があることが判明したため、インバータ装置の運転状態を模擬し、インバータ装置電源にノイズ電圧を重畳させるサージ電圧影響確認試験を実施した。
+　この結果、ノイズ吸収コンデンサが正常である場合は２０００Ｖを印加しても異常は発生しないが、ノイズ吸収コンデンサの不良（開放）を模擬した場合、１０００Ｖの印加時には異常は発生しないものの、２０００Ｖの印加では今回の発生事象と酷似した事象（限流抵抗の過熱とその輻射によるコンデンサの発火・焼損）の発生が確認された。この時、サイリスタ制御回路の抵抗が断線していることが確認され、これによりサイリスタが動作せず、限流抵抗に負荷電流が流れていたことが判明した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[176]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1989</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/27 11:46:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199909201051]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）固化ドラム移載装置用（走行用）インバータを新品に取り替える。
+（２）コンデンサ単体の不具合が存在した場合でも、同インバータ装置に流入するサージ電圧による影響を制限するよう、インバータ装置入力側に交流リアクトルを設置する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　５号機は定格出力（１１００ＭＷｅ）にて運転中のところ、平成１１年９月２０日１０時５１分に、現場作業員が原子炉建屋付属棟（以下、「Ａｎ／Ａ」という）１階のトラックエリアに設置されている固化系インバータ盤より発煙・発火しているのを確認し、中央操作室に連絡するとともに、直ちに初期消火を行い、１１時０２分に当直員が消火を確認した。
+　また、中央操作室より１０時５６分に消防署に火災発生を通報し、１１時２５分に消防署による鎮火確認を受けた。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1999-東京-M012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　固化系インバータ盤内の固化ドラム移載装置用（走行用）インバータが焼損した原因は、以下の通りと推定される。
+（１）ノイズ吸収コンデンサに単体不具合が発生或いは存在していた。
+（２）このため、固化ドラム移載装置（走行用）インバータに流入するサージ電圧が十分低減できなくなり、同装置運転時に設計サージノイズを超える電圧が流入した時点で、サイリスタ制御回路の抵抗が断線に至った。
+（３）これによりサイリスタが動作せず、限流抵抗に負荷電流が流れ続け限流抵抗が過熱し、この輻射熱でノイズ吸収コンデンサが発火・焼損した。
+　なお、整流回路のダイオードの不具合は、コンデンサの焼損・炭化により直流回路が短絡し熱破壊（ｐｎ接合破壊）したもので、この時の短絡電流によりＭＣＣしゃ断器がトリップしたものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[固化系インバータ盤の火災について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[確認]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[5]]></UNITS>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/27 11:45:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1989</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納施設以外の建屋]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[176]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1989</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1989</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1989</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1989</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

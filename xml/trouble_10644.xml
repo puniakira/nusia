@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10644</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/03/26 15:24:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/10/20 19:29:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910200510]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/03/26 15:24:52]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　平成21年10月20日午前５時10分頃、１号機非常用取水路の地盤改良工事に従事していた協力企業作業員が、ボーリングの準備作業として、ボーリングマシンの先端部を回転させてジョイント部へ仮止めする作業を行った際、回転防止のための送水管を取り付けていなかったため、ジョイント部がボーリングマシンの先端部と連動して回転してしまい、ボーリングマシン本体とジョイント部の間に左手親指先端をはさみ負傷した。
+　左手親指先端部より出血していたことから、業務車で作業員を病院に搬送した。
+
+（対応状況）
+　病院での診察の結果、左手親指挫創（指先１cm程度の傷）と診断され、４針の縫合治療を受けた。
+　原因を調査した結果、ジョイント部の交換中に送水管も取り外すという稀な状態において、追加のＫＹ活動が行われていなかったことから、危険を抽出できず、作業員が送水管を取り付けていない状態でジョイント部を油圧モーターに取り付けようとしたため、と推定した。
+
+　今後、対策として以下のことを行う。
+・当社は元請に対して、作業の途中で新たな事象が発生した場合には、必ず作業を中断して追加のＫＹ活動を行い、安全確認を行ってから作業を開始するよう指導する。
+・元請は作業班長に対して、作業の途中で新たな事象が発生した場合には、必ず元請と協議するよう指導する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　非常用取水路（屋外）におけるけが人の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/26 11:23:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

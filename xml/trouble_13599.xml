@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該装置の異常信号の発信について、以下の調査を実施した。
+
+（１）事象発生時の状況調査
+ａ．信号発信状況
+　伊方発電所３号機中央制御室に当該装置の異常を示す「ルースパーツモニタ装置」の信号が発信したため、運転員にて現場の状況を確認したところ、ルースパーツモニタ盤において「システム警報」表示（※６）が「点灯」していることを確認した。また、当該装置のプリンタ出力にて「異常内容：通信異常」「詳細内容：解析装置 － Ａ／Ｄ変換装置－２　通信異常」を確認した。
+　信号の詳細を調査するため、保修員がルースパーツモニタ盤内の各装置について状態確認およびセンサ（全２１個）の指示確認、通信経路の確認を行ったところ、Ａ／Ｄ変換装置－２が正常に動作していないことを確認した。
+
+※６　「システム警報」表示
+　当該装置において、センサ異常や装置間の通信異常など、監視機能に影響がある異常が発生した場合に点灯する。
+
+ｂ．再起動操作の実施
+　ａ項の調査から、Ａ／Ｄ変換装置－２が正常に動作していないことにより、当該装置の解析装置とＡ／Ｄ変換装置－２の間における通信に不具合が発生したと判断したため、当該装置の再起動を実施し復旧した。
+　なお、事象の発生から復旧まで（１２月２６日４時１２分～８時１９分）の間、再起動操作中(１２月２６日７時４４分～８時１４分の間)を除き、当該装置は解析装置、Ａ／Ｄ変換装置－１、入力部、センサは健全であったため、指示の欠測なく監視できている状態であり、ルースパーツが発生した場合においてもＡ／Ｄ変換装置－１にてデータ採取が可能であった。
+
+　当該装置は、１次冷却材系統内のルースパーツの早期発見を行うことを主目的として自主設置している設備であり、安全上重要な設備ではない。また、当該装置が故障等で停止している状況でルースパーツが発生した場合においても、ルースパーツは１次冷却材系統を循環するものであり、１次冷却材ポンプの振動に兆候が出るなど、関連するプラントパラメータからも異常を検知できるものと考えている。
+
+
+（２）不具合原因の詳細調査
+　不具合原因を詳細に調査するため、当該装置を構成する解析装置、判定装置、Ａ／Ｄ変換装置－１、Ａ／Ｄ変換装置－２の４台（以下、「各装置」という。）をメーカへ送付し調査を実施した。
+
+ａ．ハードウェアの状態確認
+　各装置のハードディスク、冷却ファンの動作状況および電源電圧の確認を実施したが、各装置に異常は見られなかった。
+
+ｂ．ソフトウェアの状態確認
+　各装置のソフトウェア動作状況、メモリ使用状況、ハードディスク記憶域状況の確認を実施したが、各装置に異常は見られなかった。
+
+ｃ．ログの確認
+　各装置の制御アプリケーションのログにおいて、システム警報発信時に解析装置とＡ／Ｄ変換装置－２の通信で、Ａ／Ｄ変換装置－２からの応答が無い状態となっていることを確認した。しかし、Ａ／Ｄ変換装置－２が正常に動作しなかった原因については不明であった。
+
+ｄ．再現性の確認
+　Ａ／Ｄ変換装置－２について、令和５年３月１０日～２３日の期間、電源を投入した状態での再現性確認を実施した結果、同様の事象は確認されなかった。
+
+　調査結果として、メーカから以下の回答があった。
+・Ａ／Ｄ変換装置－２は正常動作しており、ログの確認結果においても異常を示す記録は確認できなかったため、正常に動作しなかった原因についての特定はできなかった。
+・ログ確認の結果、Ａ／Ｄ変換装置－２の通信が突発的に遮断されていることが確認できたことから、制御アプリケーションによるものではない。
+・考えられる要因検討（ＣＰＵ、メモリ、アプリケーション、ハードディスク等の不調）を実施した結果、何らかの原因でハードディスクに一過性の異常が発生した可能性が高いと推定した。
+・再起動操作によって不具合が解消され正常動作に戻ったことから、今後同様な事象が発生した場合においては、再起動操作を実施することで当該装置の使用継続に問題はない。
+
+
+（３）保守状況の調査
+　当該装置は伊方発電所３号機第１４回定検において、設備更新を行っており、平成３１年１月に設置が完了した。
+　当該装置の点検は、定期点検毎に実施を計画しており、前回の点検は伊方発電所３号機第１５回定検（令和３年９月）に実施し、問題はなかった。現在、伊方発電所３号機第１６回定検（令和５年２月～６月(予定)）にて点検を実施している。
+
+（４）過去の類似事象の調査
+　伊方発電所における当該装置の過去事象を調査したところ、類似事象がないことを確認した。
+
+（５）類似設備の調査
+　伊方発電所３号機において、当該装置を構成するＡ／Ｄ変換装置－２と同じ型式の機器を調査したところ、当該装置のＡ／Ｄ変換装置－１、解析装置および判定装置以外に類似設備はないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[220]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13599</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2023/05/17 11:11:47]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[ルースパーツモニタ装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2023/01/10 11:45:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202212260412]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　同時期に発生した類似事象である「2022-四国-S009：伊方発電所３号機　ルースパーツモニタ装置の異常信号の発信について」と併せて、以下の再発防止対策を実施する。
+
+（１）メーカ調査の結果より、当該装置の解析装置とＡ／Ｄ変換装置－２のハードディスク交換を行う。また、念のため同型式である当該装置の判定装置とＡ／Ｄ変換装置－１についてもハードディスク交換を行う。
+
+（２）各装置が同じ事象を起こした場合において、適切かつ速やかに対応するために、当該装置の再起動操作について社内マニュアルを作成する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/05/17 11:11:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所３号機は、通常運転中のところ、令和４年１２月２６日４時１２分に、中央制御室に「ルースパーツモニタ装置」の異常を示す信号が発信した。保修員が現場を確認したところ、ルースパーツモニタ装置（※１）（以下、「当該装置」という。）の解析装置（※２）とＡ／Ｄ変換装置（※３）－２の間に通信の不具合があったことを確認した。
+　その後、当該装置を再起動させたところ、当該装置の機能に異常がないことを確認できたため、同日８時１９分に通常状態に復旧した。
+　本事象は、当該装置の解析装置とＡ／Ｄ変換装置－２の間に通信の不具合が発生したものであり、１次冷却材系統内のルースパーツによる異常な振動を検知したものではない。また、本事象によるプラントへの影響および環境への放射能の影響はなかった。
+
+※１　ルースパーツモニタ装置
+　１次冷却材系統内にルースパーツ（機器や装置の部品が脱落したもの）が発生した場合、１次冷却材系統内を構成する配管内壁等に衝突する際の振動を検知する装置。センサ（※４）、解析装置、判定装置（※５）およびＡ／Ｄ変換装置などで構成されている。
+
+※２　解析装置
+　１次冷却材系統に設置されているセンサからの検知信号を受信した際、Ａ／Ｄ変換装置から受け取った波形データの解析を行う。解析した結果、ルースパーツの可能性がある振動を検知した場合には、中央制御室への信号発信およびプリンタ出力を行う。
+上記の機能に関する制御アプリケーションおよびＡ／Ｄ変換装置から送られてくるデータ等がハードディスクに保存されている。
+
+※３　Ａ／Ｄ変換装置（アナログ信号／デジタル信号変換装置）
+　通常監視状態においても常時Ａ／Ｄ変換を実施しており、判定装置からデータ採取命令を受信した際、波形データを解析装置に保存する。
+　なお、Ａ／Ｄ変換装置は２台設置している。
+　上記の機能に関する制御アプリケーションおよびＡ／Ｄ変換された波形データ等がハードディスクに保存されている。
+
+※４　センサ
+　加速度センサ。なお、伊方発電所３号機には２１個設置されている。加速度センサとは、物体の傾きや速度の時間変化、振動を検知するセンサ。
+
+※５　判定装置
+　１次冷却材系統に設置されているセンサからの検知信号に対して、あらかじめ設定された閾値を用いて警報判定を実施する。警報判定された場合、Ａ／Ｄ変換装置にデータ採取命令を出力する。その後、解析装置に警報情報を送信する。
+上記の機能に関する制御アプリケーション等がハードディスクに保存されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-四国-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果から、Ａ／Ｄ変換装置－２に不具合が発生し、当該装置の異常を示す信号が発信したことが分かった。
+　メーカ調査の結果、異常は確認されず、再現はなく、原因の特定には至らなかったが、考えられる要因検討を実施した結果、Ａ／Ｄ変換装置－２のハードディスクに一過性の異常が発生したものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　ルースパーツモニタ装置の異常信号の発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>926</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>115848</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/01/10 11:45:14]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>13623</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>13599</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[ルースパーツモニタ装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>13599</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[Ａ／Ｄ変換装置]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13599</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[運転監視補助装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[220]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[ハードディスクの一過性の異常]]></S_GENIN_NAME>
+			<TROUBLE_ID>13599</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他偶発的要因]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[偶発的な燃料のピンホール、シートの当たりが変化したことによるシートパス等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13599</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13599</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[298]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

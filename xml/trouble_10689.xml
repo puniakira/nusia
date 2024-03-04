@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[＜インジケータ弁からの潤滑油漏れに対する原因調査結果＞
+　Ｄ／Ｇディーゼル機関のインジケータ弁から漏れ出した潤滑油は，シリンダ内に溜まっていた潤滑油か，インジケータ弁近傍配管内の残油のいずれかであり，このうち，シリンダ内に潤滑油が溜まる経路としては揺れ腕装置側潤滑油系統，ピストン側潤滑油系統の異常による流入が考えられる。
+　また，今回のインジケータ弁からの潤滑油漏れは，平成２１年１０月１４日に発生した同様な事象と共通要因の可能性もあることから，予備品と交換したＢ１シリンダのシリンダヘッドの調査を行うこととする。
+　これを踏まえて，インジケータ弁からの潤滑油漏れの要因について，要因分析図に基づき調査を実施した。
+　Ｄ／Ｇ（Ａ），Ｄ／Ｇ（Ｂ）で共通要因でない可能性もあることから，調査結果の比較もあわせて行い，また，Ｄ／Ｇ（Ｃ）についてはインジケータ弁からの潤滑油漏れが確認されていないが，構造上の違いがないことから，念のため点検を実施し，Ｄ／Ｇ（Ａ），Ｄ／Ｇ（Ｂ）の調査結果との比較を行った。
+
+　インジケータ弁からの漏えいについて要因分析を行い、調査を実施した結果、以下のことを確認した。
+ａ．圧力制御逆止弁の動作点確認における加圧不可
+　Ｄ／Ｇ（Ａ）Ｂ列の圧力制御逆止弁の弁動作設定値を確認するため，手動ポンプに接続し昇圧を行ったところ，圧力制御逆止弁の弁出口側から加圧媒体が漏れ加圧できなかった。このため，圧力制御逆止弁の弁体を数回強制的に手で動作させたところ，弁内部で引っかかる状態であった。
+　このことから，Ｄ／Ｇ（Ａ）Ｂ列の圧力制御逆止弁は，弁体の弁箱内部での動作がスムーズでなく，完全に弁体が着座せずに止っていたと推定される。
+
+ｂ．圧力制御逆止弁の吹き止り圧力の低下
+　圧力制御逆止弁動作確認を実施した結果，Ｄ／Ｇ（Ａ）Ｂ列の吹き止り圧力は０．１２ＭＰａであり，Ｄ／Ｇディーゼル機関停止直後の機関入口潤滑油圧力０．１３ＭＰａより低かった。また，Ｄ／Ｇ（Ｂ）Ｂ列の圧力制御逆止弁の吹き止り圧力は０．１６ＭＰａ～０．２３ＭＰａとばらつきが大きく，実機においてはＤ／Ｇディーゼル機関停止直後の機関入口潤滑油圧力０．１３ＭＰａを下回っていた可能性がある。
+　このことから，Ｄ／Ｇ（Ａ）Ｂ列，Ｄ／Ｇ（Ｂ）Ｂ列の圧力制御逆止弁は，Ｄ／Ｇディーゼル機関停止後，潤滑油プライミングポンプによる機関入口潤滑油圧力まで潤滑油圧力が低下した後も，吹き止らず，弁体が完全に着座していない状態を維持していたと推定される。
+
+ｃ．圧力制御逆止弁の分解時における弁箱内面の摺動痕および異物の確認
+　Ｄ／Ｇ（Ａ）Ａ列，Ｂ列，Ｄ／Ｇ（Ｂ）Ｂ列，Ｄ／Ｇ（Ｃ）Ａ列の圧力制御逆止弁を分解した結果，弁箱内面の弁開閉時の弁体位置に相当する部分に摺動痕を確認した。摺動痕は，弁体が弁箱内部で傾いた状態で接する部分に認められ，弁体の開閉動作の方向に幅をもったものであった。
+　このことから，圧力制御逆止弁は，弁体が弁箱内部で傾いた状態で開閉動作をしていたものと推定された。
+　弁体が弁箱内部で傾いた状態で開閉動作をしていた理由は，開閉動作時に，ばねが圧縮されてばねに荷重が発生すると，ばねの中心線からわずかに位置がずれてしまういわゆる偏心が発生するためと考えられる。
+　また，潤滑油中には切削粒子，シビア粒子のような金属摩耗粒子が確認されている。これらはディーゼル機関の潤滑油に通常含まれているものであることを確認したが，摺動痕の発生に影響を与えている可能性がある。
+　さらに，圧力制御逆止弁の内部から，異物として鉄酸化物を確認したことから，これらの異物が，弁体と弁箱内面の摺動抵抗に影響を与え，弁体のスムーズな動作を阻害していた可能性がある。
+　なお，圧力制御逆止弁分解点検，潤滑油分析において，鉄酸化物以外の異物も確認したが，圧力制御逆止弁の動作や弁シート機能に影響しないものであった。
+
+ｄ．圧力制御逆止弁に関連する保守および設計上の不備
+　圧力制御逆止弁の機能不良に関連する保守管理計画を確認した結果，圧力制御逆止弁について，定期的な点検の計画がなく実績もなかった。分解点検の結果，弁箱内面に摩耗が確認されたことから，定期的な取替を計画しておく必要があったと考えられる。
+　また，圧力制御逆止弁の内部流体であるＤ／Ｇディーゼル機関の潤滑油についても，定期的に新油へ交換する計画がなかったが，潤滑油中に含まれる金属摩耗粒子は運転に伴い徐々に増加すると考えられることから，これに着目して，念のため定期的な潤滑油交換を計画しておく必要もあったと考えられる。
+　さらに，建設段階の潤滑油系統の検討において，圧力制御逆止弁の動作圧力を変更した際，ディーゼル機関の原設計を行った製造メーカの技術提携会社には，変更後の圧力に合致する圧力制御逆止弁の使用実績がなかったことから，製造メーカの常用ディーゼル機関の過給機の潤滑油系統において採用実績のある圧力制御逆止弁をＤ／Ｇディーゼル機関に採用していた。
+　当該圧力制御逆止弁の採用時に，経年的な吹き止り圧力の低下により着座不良が発生する可能性があること，および供用後には定期的な取替えが必要となることについての配慮が不足していた。
+
+＜圧力制御逆止弁内への異物混入の原因調査結果＞
+　インジケータ弁からの油漏れの要因調査において，圧力制御逆止弁内部への異物の混入を確認した。圧力制御逆止弁は，フィルタの下流に設置されていることからフィルタ以降の経路について，圧力制御弁の弁動作に影響する可能性のある異物の混入の要因分析を行い，調査を実施した。
+
+　圧力制御逆止弁内部への異物の混入について要因分析を行い，調査を実施した結果，異物混入の明確な要因は確認されなかったが，圧力制御逆止弁内部で確認された異物の性状から，Ｄ／Ｇディーゼル機関製造時に機関内部に混入した可能性は否定できない。また，定期検査時に現場にて実施したフィルタ取付け，取外し作業や，圧力制御逆止弁の取付け，取外し作業においても，微細な鉄錆のような異物，布ウエスおよび紙ウエスがほつれて糸状になった微細な繊維のような異物については，接続配管内の異物確認時に見落としてしまった可能性も否定できない。
+　このことから，圧力制御逆止弁内部に混入した異物は，製造時に機関内部に混入した，または定期検査時に現場にて実施した作業において，開口部から混入したものと推定される。
+　潤滑油中には２５μｍ以下の摺動抵抗に影響を与える恐れがある金属摩耗粒子が多数含まれていることが確認された。
+　また，Ｄ／Ｇ（Ｃ）Ａ列の圧力制御逆止弁の弁箱内から回収した付着物には摺動抵抗を助長する恐れがある鉄酸化物の異物も確認されている。
+
+＜圧力制御逆止弁動作不良の再現性確認試験＞
+　インジケータ弁からの漏えいについての調査の結果，圧力制御逆止弁が着座不良の状態であり，下流側に潤滑油が流れていた可能性があることを確認した。また，弁箱内面には摺動痕が認められており，吹き止り圧力にも低下が認められた。
+　潤滑油中には金属摩耗粒子が含まれており，鉄酸化物のような摺動抵抗に影響を与える恐れがある微細な金属粉も確認されている。
+　このことから，弁箱内面に確認された状況と，弁体の着座不良，吹き止り圧力の低下の関連性について確認するため，圧力制御逆止弁の動作不良の再現性確認試験を実施した。
+　再現性確認試験では，潤滑油中に新品の圧力制御逆止弁を設置し，弁体を機械的に繰返し開閉動作させ，この時の弁体のストロークと荷重の関係を求めた。試験には，実機のフィルタ通過後の状態を模擬するため，Ｄ／Ｇ（Ａ）に使用されていた潤滑油を２０μｍのフィルタでろ過した潤滑油を用いた。
+
+（１）既設の圧力制御逆止弁の試験結果
+　試験の結果，開方向の動作について，弁体が弁座から離れた後，弁体が弁箱内面に接触した状態となり開方向へ移動する際の摺動抵抗による荷重の増加を確認した。また，閉方向の動作についても，同様に摺動抵抗による荷重の減少を確認した。この傾向は，繰返し回数の増加とともに強くなったことから，経年的に摺動抵抗が増えることが確認できた。
+　さらに，閉動作において，弁体が傾いた状態から弁座の一部と接触した後，完全に着座するまでには弁体の立ち上がり動作が行われるが，この際，弁箱内面接触部の摩耗による摺動抵抗の増加有無がこの動作に影響すると考えられる。試験の結果，この弁体が傾いた状態から弁体と弁座の一部が接触し，荷重が減少した後の，着座動作における摺動抵抗も繰返し回数の増加とともに増えることが確認できた。
+　また，実機では運転に伴い潤滑油内の微細な金属粉の量が増加する。この状態を模擬するため，微細な鉄粉を加えた試験を実施した結果，摺動抵抗は開方向，閉方向ともに更に増加することを確認した。
+　試験ではフィルタ通過後の潤滑油の状態を模擬したが，これに今回，圧力制御逆止弁内部から確認された鉄酸化物のような異物が加わると，摺動抵抗の増加は更に大きくなると推定される。
+
+（２）類似弁の試験結果
+　上記試験の後，既設の圧力制御逆止弁に比べ，弁体が傾きにくいようスプリングの巻数を多くし，かつ弁体と弁箱内面が接触しないよう間隙を大きくした構造の類似弁について，同様な試験を実施した。この結果，繰返し回数４００回の開閉動作を実施しても荷重に顕著な変化は認められず，この類似弁のように弁体が傾きにくく，弁体と弁箱内面との間隙が大きい場合は，摺動が発生しにくいことを確認した。
+　また，既設弁の試験と同様に微細な鉄粉を加え，引き続き，２００回の開閉動作を実施した場合についても，荷重に顕著な変化は認められなかった。
+
+（３）再現性確認試験後の弁動作確認結果
+　（１）の試験に使用した圧力制御逆止弁の吹き止り圧力を確認した結果，１回目は０．１０ＭＰａであったが，漏れが残り，完全には停止しなかった。その後，２回目以降は，０．１６ＭＰａであった。同ロットの新品の圧力制御逆止弁について同様に吹き止り圧力を確認した結果，０．２１～０．２３ＭＰａであったことから，既設の圧力制御逆止弁は，開閉動作の繰り返しにより，吹き止り圧力が低下することを確認した。よって，既設の圧力制御逆止弁は経年的に吹き止り圧力が低下する傾向にあると考えられる。
+　（２）の試験に使用した類似弁について吹き止り圧力を確認した結果，試験前は０．３３ＭＰａであり，試験後は０．２９～０．３０ＭＰａであった。このことから，類似弁は既設の圧力制御逆止弁と比べて，開閉動作の繰り返しによる経年的な吹き止り圧力の低下が小さいことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[定期検査調整運転中。]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10689</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/04/30 15:48:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成21年11月12日
+16時03分　Ｄ／Ｇ（Ａ）のＢ３シリンダのインジケータ弁から潤滑油が漏出
+16時43分　保安規定に定める運転上の制限を満足していないと判断
+21時06分　原子炉隔離時冷却系について動作可能であることを確認
+　　　　　　　Ｄ／Ｇ（Ｂ）のＢ２シリンダのインジケータ弁から潤滑油が漏出
+平成21年11月13日
+00時05分　Ｄ／Ｇ（Ｂ）も動作可能であることが確認できないと判断
+01時30分　原子炉を手動停止することを決定
+07時00分　出力降下開始
+21時09分　全制御棒を全挿入とし、原子炉を安全に手動停止し、原子炉の未臨界および平均出力領域モニタが0％であることを確認
+平成21年11月14日
+07時50分　高温停止から冷温停止に移行したことに伴い、非常用ディーゼル発電機に係る保安規定の運転上の制限は「３台動作可能」から「２台動作可能」に移行したが、Ｄ／Ｇ（Ｃ）のみが動作可能
+平成21年11月21日
+04時20分　Ｄ／Ｇ（Ａ）の点検・復旧が完了し動作可能と確認できたため、保安規定に定める運転上の制限を満足する状態に復帰
+]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[2]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[なし]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>37257</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/11/16 10:06:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200911130130]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１） 使用していた圧力制御逆止弁は，経年的な吹き止り圧力の低下により着座不良が発生したことから，再使用せず交換する。この際，圧力制御逆止弁を，Ｄ／Ｇディーゼル機関の軸受等の摺動部から通常発生する程度の大きさの微細な金属粉が存在しても弁体と弁箱内面の摺動が発生しにくい構造の弁に変更する。また，圧力制御逆止弁は構造上分解点検できないため，今後は定期的に圧力制御逆止弁を交換することとする。
+
+（２） Ｄ／Ｇディーゼル機関停止時に一旦潤滑油プライミングポンプを停止し，潤滑油圧力を下げ，確実に圧力制御逆止弁を閉止させることとする。
+
+（３） 潤滑油内の金属摩耗粒子および異物が，圧力制御逆止弁の弁体と弁箱内面の摺動部の摩耗に影響を与えた可能性があることから，潤滑油を新油に交換し，圧力制御逆止弁への潤滑油供給ラインのフラッシングを実施した。また，今後は念のため，定期的に潤滑油を新油に交換することとする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/04/30 15:48:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　志賀原子力発電所２号機は、第２回定期検査中の定格電気出力１２０６ＭＷｅで調整運転中のところ、平成２１年１１月１２日、非常用ディーゼル発電設備Ａ号機（以下、「Ｄ／Ｇ（Ａ）」という。）の定例試験としてターニング※を開始したところ、１６時０３分にディーゼル機関のＢ列Ｎｏ．３シリンダ（以下、シリンダ列とＮｏ．を省略し「Ｂ３シリンダ」のように示す。）のインジケータ弁から潤滑油約１００ｃｃが漏れ出したため、試験を中止することとし、同日１６時４３分に志賀原子力発電所原子炉施設保安規定（以下、「保安規定」という。）に定める運転上の制限を満足していないと判断した。
+　これに伴い、保安規定に定める措置を実施することとし、同日２１時０６分原子炉隔離時冷却系について、動作可能であることを確認した。その後、非常用ディーゼル発電設備Ｂ号機（以下、「Ｄ／Ｇ（Ｂ）という。」の動作確認として、ターニングを開始したところ、Ｂ２シリンダのインジケータ弁から潤滑油４ｃｃが漏れ出したため、Ｄ／Ｇ（Ａ）と同様に動作確認を中止することとし、翌１３日０時０５分、Ｄ／Ｇ（Ｂ）についても動作可能であることが確認できないと判断した。
+　２台の非常用ディーゼル発電設備（以下、「Ｄ／Ｇ」という。）が動作可能と判断できない状態となったため、保安規定に従い、原子炉を手動停止することを同日１時３０分に決定し、同日７時００分から出力降下を開始し、同日２１時０９分に全制御棒を全挿入とし、原子炉を安全に手動停止し、原子炉の未臨界および平均出力領域モニタが０％であることを確認した。
+　なお、本事象による排気筒モニタの指示値に異常はなく、外部への放射性物質の影響はなかった。
+
+　なお、１１月１４日７時５０分に、保安規定上の原子炉の状態が「高温停止」から「冷温停止」に移行したことに伴い、Ｄ／Ｇに係る保安規定の運転上の制限は「３台動作可能」から「２台動作可能」に移行したが、この時点では非常用ディーゼル発電設備Ｃ号機（以下、「Ｄ／Ｇ（Ｃ）という。」のみが動作可能であった。
+　その後、Ｄ／Ｇ（Ａ）の点検・復旧が完了し、１１月２１日４時２０分に動作可能と確認できたため、Ｄ／Ｇについて保安規定に定める運転上の制限を満足する状態に復帰した。
+
+※： Ｄ／Ｇディーゼル機関起動前には，潤滑油や水などがシリンダ内に溜まっていないことを確認するため，インジケータ弁を確認しながら，ターニングを行う手順としている。
+
+（１）ターニング時におけるインジケータ弁からの漏えい状況
+ａ．Ｄ／Ｇ（Ａ）の状況
+　平成２１年１１月１２日 １６時０２分，Ｄ／Ｇ（Ａ）の定例試験としてターニングを開始したところ，約１０秒後にＢ３シリンダのインジケータ弁より約１００ｃｃの潤滑油が漏れ出したことを確認しターニングを停止した。
+　その後，他のシリンダのインジケータ弁からの潤滑油漏れの有無を確認するため，翌１１月１３日 ２時１０分からターニングを約５分間実施したが，潤滑油漏れは確認されなかった。
+　漏れ出した潤滑油の量を計測した結果，１１５ｃｃであった。
+　なお，その後の調査において，シリンダ内に溜まっていた油を分析し，動粘度，赤外線吸収スペクトルを確認した結果，インジケータ弁から漏れ出した油は潤滑油であり，燃料油や水の混入がないことを確認した。
+
+ｂ．Ｄ／Ｇ（Ｂ）の状況
+　平成２１年１１月１２日 ２３時２４分，Ｄ／Ｇ（Ｂ）が動作可能であることを確認するため，ターニングを開始したところ，約３０秒後にＢ２シリンダのインジケータ弁より約２ｃｃの潤滑油が漏れ出したことを確認しターニングを停止した。
+　その後，同日２３時３４分からターニングを約５分間実施したところ，Ｂ２シリンダのインジケータ弁より約２ｃｃの潤滑油漏れを確認したが，他のシリンダのインジケータ弁からの潤滑油漏れは確認されなかった。
+　漏れ出した潤滑油の量を計測した結果，約４ｃｃであった。
+
+ｃ．Ｄ／Ｇ（Ｃ）の状況
+　平成２１年１１月２１日，Ｄ／Ｇ（Ｃ）の定例試験としてターニングを約５分間実施したが，各シリンダのインジケータ弁からの潤滑油漏れは確認されなかった。　なお，定例試験としてＤ／Ｇ（Ｃ）を運転した結果，異常は認められなかった。
+
+（２）事象発生時のＤ／Ｇディーゼル機関の機能の健全性について
+　シリンダ内に潤滑油が溜まった場合，シリンダ内の空間容積が減少するため，Ｄ／Ｇディーゼル機関起動時にシリンダ内の圧力が異常に上昇しシリンダ安全弁が動作する可能性がある。シリンダ内に潤滑油が溜まった原因が圧力制御逆止弁の漏えいの場合，シリンダ安全弁が動作することなくＤ／Ｇディーゼル機関を健全に起動できるシリンダ内の潤滑油許容量を評価した結果，４００ｃｃまでであればシリンダ安全弁動作圧力に到達することはなく問題ないことを確認した。
+　事象発生時には原因が圧力制御逆止弁の漏えいと断定できなかったことから，ターニング操作によってシリンダ内に通常は存在しない潤滑油が存在していることを確認したことをもって，安全最優先の観点からＤ／Ｇの動作確認を中止し，動作可能とは判断できないとした。
+　しかしながら，今回，インジケータ弁からの潤滑油漏れを確認した時点でシリンダ内に溜まっていた潤滑油量は，インジケータ弁から漏れ出さずに構造上シリンダ内に溜まる量（２１０ｃｃ）に実際に漏れ出した量を加えた量となり，Ｄ／Ｇ（Ａ）Ｂ３シリンダは３２５ｃｃ，Ｄ／Ｇ（Ｂ）Ｂ２シリンダは２１４ｃｃと推定される。この潤滑油量は，上記許容量より少なかったことから，今回，ターニングによるインジケータ弁からの潤滑油漏えい有無を確認せずに，Ｄ／Ｇディーゼル機関を起動していたとしても，シリンダ安全弁が動作することなくＤ／Ｇディーゼル機関は健全に起動できた，すなわちＤ／Ｇは動作可能であったと考える。
+　なお，今後，インジケータ弁から潤滑油漏れを確認したときには，原因を特定するため点検を実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-北陸-T011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　建設段階の潤滑油系統の検討において，今回問題となった圧力制御逆止弁の動作圧力を変更した際，製造メーカの技術提携会社には，当該圧力に設定された圧力制御逆止弁の使用実績はなかったことから，製造メーカのディーゼル機関において採用実績のある圧力制御逆止弁を採用した。
+　当該圧力に設定された圧力制御逆止弁の設計時には，製造メーカのディーゼル機関では使用実績があるものの，設計段階においては，当該弁には経年的な吹き止り圧力低下により着座不良が発生する可能性があること，および供用後には定期的な取替えを行うことが必要となることについて配慮が不足していたと考えられる。
+　なお，当該の圧力制御逆止弁は，再現性確認試験にて，吹き止り圧力が動作回数と共に低下する特性が確認されている。今回の運転実績では，４～５サイクル程度の期間で事象が顕在化しているため，それまでに取替えなどの適切な保守管理を実施することが必要だったと考えられる。
+　調査の結果からインジケータ弁からの潤滑油漏えいの原因は，以下のとおりであると推定した。
+
+・微細な金属粉が含まれるＤ／Ｇディーゼル機関の潤滑油内で圧力制御逆止弁の弁体と弁箱内面が摺動することにより，経年的に摺動面に摩耗を発生させ，摺動抵抗が増加する。
+　また，圧力制御逆止弁に混入した異物はこの摺動面の摩耗を助長したと考えられる。
+
+・この摩耗による摺動抵抗の増加を考慮した定期的な取替えが実施されていなかったため，圧力制御逆止弁に吹き止り圧力の低下および着座不良が発生した。
+
+・この圧力制御逆止弁の吹き止り圧力が，Ｄ／Ｇディーゼル機関停止後のプライミングポンプ運転時の機関入口潤滑油圧力０．１３ＭＰａより低下し，弁体が完全に着座していない状態が続いた。
+
+・これにより，Ｄ／Ｇディーゼル機関待機中に揺れ腕装置に潤滑油が供給され，給・排気弁の弁棒と弁案内ブッシュの隙間を通じてシリンダ内に流入し，この状態でターニングを行った。
+
+・このため，ピストンの上昇に伴いインジケータ弁から潤滑油が漏れ出したと推定される。
+
+・なお，潤滑油を定期的に新油に交換する計画がなく，潤滑油内の金属粉が徐々に増加していくことも上記原因に関係すると考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[志賀原子力発電所２号機の手動停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1206</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>37266</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/18 10:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[志賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>8</SORT_NO>
+		<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[志賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10711</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[071]]></KIKI_CODE>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[圧力制御逆止弁]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10689</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[071]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[非常用ディーゼル]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[703]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[703]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ディーゼル発電機装置]]></KIKI_NAME>
+					<SORT_NO>5</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10689</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北陸電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北陸]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北陸電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>50</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8404</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/10/17 15:50:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3574</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/08/23 20:36:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200608171755]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/10/17 15:50:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の5号機の中央操作室において、平成18年8月17日午後5時55分に原子炉格納容器内に設置されているドレンサンプの水位上昇を示す警報が発生したため、運転員が現場を確認したところ、原子炉格納容器内のペデスタル（原子炉圧力容器の台座）の外側に水漏れがあることを確認した。
+　発生時、ペデスタルでは起動領域中性子束モニタ＊の交換作業を行っており、作業で出る炉水を仮設ホースをつかってドレンサンプに流していたが、流入する水の量が多少多くドレンサンプに入る際に飛散したものとみられる。
+　ただちにドレンサンプに導かれていた仮設ホースの弁を閉じたところ、午後6時8分頃、水漏れが停止したことを確認した。
+　なお、漏えいした水の量は約10リットル、放射能量は約4×10＾5ベクレルで、拭き取りによる清掃を実施した。
+ 
+　調査の結果、以下のことがわかった。
+・事象発生当時、原子炉内で起動領域中性子束モニタの検出器取替作業を実施しており、その際に発生する排水を仮設ホースにてペデスタル内のドレンサンプへ導いていた。
+・仮設ホースに取り付けられた弁の操作は、当該検出器の装荷作業時に、原子炉建屋５階の作業指揮者から連絡を受けた同１階の作業指揮者（以下、当該指揮者）の指示に基づき、ペデスタル内の作業員が実施していたが、当該指揮者が誤って通常より早いタイミングで弁の開操作を指示した。
+・排水先であるドレンサンプへの仮設ホースの固定が不十分であった。
+
+　当該指揮者が弁を開操作する指示のタイミングを誤った原因は、当該検出器の取替作業のチェックシートにおいて、検出器の装荷および引き抜き作業時に弁を開状態にする工程があったことから、当該指揮者は、原子炉建屋５階の作業指揮者から検出器の装荷準備が完了したとの連絡を受けた際、引き抜き作業の準備が完了したものと勘違いし、通常より早いタイミングで弁の開操作を指示したことによるものであった。
+　このため、通常より多い排水が当該ドレンサンプへ流入し、排水の勢いで仮設ホースが浮き出たことにより、排水の一部が飛散し、ペデスタル外へ漏えいしたものと推定した。
+　
+　対策として、作業のチェックシートを各ステップごとに確認できるよう改訂するとともに、排水の飛散防止策として仮設ホースをドレンサンプに確実に固定することとした。
+
+＊　起動領域中性子束モニタ
+原子炉の停止中および低出力運転時に中性子の量を測定する装置。
+検出器は８チャンネルあり、１系列４チャンネルずつで２系列に分かれている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S030]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉格納容器内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/08/24 10:30:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

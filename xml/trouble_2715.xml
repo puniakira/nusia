@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2715</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/07/21 13:37:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3103</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/01/21 18:45:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200412141140]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/07/21 13:37:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の５号機原子炉格納容器内で、原子炉再循環系配管応力改善＊１の準備作業のために使用した化学除染装置＊２仮設ラインから水が漏れたことを、協力企業の作業員が確認した。
+　調査の結果、原子炉再循環系配管内の化学除染水を浄化した後、排水処理を実施する際、排水処理ラインの事前確認が不十分だったため、誤って別のラインの弁を開け、原子炉再循環系配管内の水が養生用ビニール袋から漏れ出たことがわかった。
+　なお、漏えいは速やかに当該弁を閉めたことで停止した。
+　対策として、複雑な系統構成をともなう仮設ラインの弁を操作する際は、作業表示札を取り付けるなど、誤操作防止を実施する。
+
+　漏れた水の量は約６リットル、放射能量は約5.5×10^5ベクレルであった。
+　これによる外部への放射能の影響はなかった。
+
+＊１　応力改善
+　原子炉再循環系配管の応力腐食割れ対策として応力改善が未実施の部分について、配管の溶接部近傍に残っている応力（引張り力）を改善すること。
+
+＊２　化学除染装置
+　作業員の被ばく低減のため、原子炉再循環系配管内の鉄さび等を取り除く薬品を循環させる仮設装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S087]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉格納容器内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/05/30 23:50:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

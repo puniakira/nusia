@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[〇調査結果
+（１）事象発生時の状況調査
+ａ．警報発信状況
+伊方発電所第１，２号機予備変圧器は待機状態中のところ、１，２号機中央制御室に予備変圧器の異常を示す「予変ガス検出」の警報が発信した。
+
+ｂ．１，２号機予備変圧器の状況
+（ａ）外観確認
+１，２号機予備変圧器の外観の確認を行い、油漏れ等の異常はないことを確認した。
+
+（ｂ）１，２号機予備変圧器内のガスの発生状況の確認
+「予変ガス検出」警報の検出元である気体検出器（２台）の確認を行い、気体検出器の点検窓でガスが発生していないことを確認した。
+
+ｃ．気体検出器の状況
+（ａ）外観確認
+気体検出器（２台）の外観には異常は確認されなかった。
+
+（ｂ）警報発信回路の確認
+ガスを検出した際に動作するマイクロスイッチの接点間の導通を確認したところ、２台ある気体検出器のうち１台について回路が導通状態（警報発信状態）であることを確認した。
+
+（２）気体検出器の詳細調査
+上記（１）ｃ（ｂ）項の状況確認により、１台の気体検出器のマイクロスイッチ回路に不具合があることが確認されたことから、取替えた気体検出器２台（健全側含む）をメーカの工場に送り詳細調査を実施した。
+ａ．外観確認
+２台とも傷・変形など異常なし。
+
+ｂ．端子部の状況確認
+２台とも端子部の腐食、発錆などの異常なし。
+
+ｃ．乾燥剤（※５）挿入口の状況確認
+不具合のあった気体検出器の乾燥剤挿入口のカバーを取り外そうと工具でねじ　　を回した際に、カバーの一部が分かれるような割れが確認された（カバー取り外し時に割れたのか、以前より割れが発生していたのかは特定できない）。また、乾燥剤挿入口およびカバーに錆が多量に付着していることが確認された。
+健全側の気体検出器には、カバーの割れおよび錆の付着は確認されなかった。
+
+※５　乾燥剤
+マイクロスイッチ室内を乾燥させるために製作時入れるもの。定期的に取替えするものではない。
+
+ｄ．マイクロスイッチ室
+２台ともマイクロスイッチ室内の腐食などの異常なし。
+
+ｅ．マイクロスイッチ
+２台ともマイクロスイッチ接点に錆の付着は無く異常なし。
+
+ｆ．絶縁抵抗測定
+マイクロスイッチの絶縁抵抗測定を実施し、不具合が発生した気体検出器の絶縁抵抗の低下が確認された。マイクロスイッチ室を開放し調査を実施するため、開放前後で絶縁抵抗測定を実施した。
+
+（３）保守状況の調査
+１，２号機予備変圧器の気体検出器の点検は、２号廃止措置点検で点検を実施しており、至近では２０２０年１２月～２０２１年３月で点検しているが、乾燥剤挿入口のカバーの破損は確認されなかった。
+また、当該気体検出器の取替えは、１，２号機予備変圧器のオーバーホールに合わせて実施することとしており、前回は２０００年９月に取替えを実施している。
+
+（４）類似機器の調査
+伊方発電所において、１，２号機予備変圧器の気体検出器と同型式の気体検出器を使用している機器を調査したところ、計７台（１，２号機予備変圧器の気体検出器２台は除く。）を確認したため、外観点検を実施し、異常がないことを確認した。
+また、２号機の起動変圧器以外の５台について、至近の運転状況および点検記録により、警報発信がないこと、および警報発信回路の絶縁抵抗に異常がないことを確認した。２号起動変圧器については、２０２２年３月～５月で計画している点検において回路を切り離して絶縁抵抗測定を実施する予定としている。
+
+（類似機器７台の内訳と至近の点検時期）　
+２号機　起動変圧器：気体検出器２台（至近の点検：２０２０年１２月）　
+３号機　主変圧器　：気体検出器１台（至近の点検：２０２０年８月）
+３号機　所内変圧器：気体検出器１台（至近の点検：２０２０年９月）
+３号機　予備変圧器：気体検出器２台（至近の点検：２０２０年１月）
+非常用変圧器　　　：気体検出器１台（至近の点検：２０１９年３月）
+
+（５）過去の類似事象
+伊方発電所における過去事象の調査を行い、類似事象がないことを確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13327</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[208]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2021/10/21 07:57:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2021/07/14 13:28:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202106201624]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[〇対策
+（１）１，２号機予備変圧器の気体検出器（健全側を含む２台）について、同型式の新品に取替えを実施した。
+（２）１，２号機予備変圧器の気体検出器と同型式の気体検出器を使用している他の変圧器の気体検出器７台の外観点検を実施し、異常がないことを確認した。
+（３）３号機主変圧器、所内変圧器、予備変圧器および非常用変圧器は、引き続き変圧器点検で回路の絶縁抵抗測定を実施することとする。また、２号機起動変圧器および１，２号機予備変圧器は、今後、変圧器の点検において回路の絶縁抵抗測定を追加し、絶縁抵抗値の傾向監視を行うことで、気体検出器の警報発信回路の健全性の確認を行うこととする。
+（４）変圧器点検等の作業時は、気体検出器等の計器に注意するとともに、必要に応じて防護措置を実施して作業することを関係者に周知する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/10/21 07:57:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[６月２０日１３時３０分、１，２号機中央制御室に１，２号機予備変圧器（※１）内でガスを検出する警報の発信を確認した。警報発信時、予備変圧器は待機状態であり、１、２号機の所内電源は他の送電線より受電していたことから、本事象による１、２号機所内電源の受電状況に影響はなかったが、念のための処置として予備変圧器を隔離した。
+また、保修員にて現場確認を行い、１６時０８分、設備担当課長が１，２号機予備変圧器内でガスを検出する気体検出器（※２）の詳細な点検が必要であると判断した。
+
+点検を実施した結果、予備変圧器内でガスは発生しておらず、気体検出器が変圧器内で発生したガスを検知した際に、１，２号機中央制御室に警報を発生する機能に不具合があることを確認したため、気体検出器を取替えるとともに、詳細な調査を実施することとした。
+また、上記の不具合箇所以外に予備変圧器に異常がないことから、気体検出器の取替えが完了するまでの間は、定期的にガスが発生していないことを確認することとし、６月２５日１９時１４分に予備変圧器を通常の待機状態に復旧した。
+
+その後、気体検出器を新品に取替えし、７月３０日１５時３７分、通常状態に復旧した。本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１　１，２号機予備変圧器
+起動変圧器が使用できない場合、６６ｋＶ送電線から受電し、１，２号機所内へ電力を供給する変圧器。起動変圧器が使用できる場合は基本的に待機状態となっている。また、１，２号機予備変圧器には、気体検出器が２台取り付けられている。
+
+※２　気体検出器
+変圧器内部の微小事故で発生するガスの検知を目的として設置している。
+変圧器内部において電気的な異常により放電等が発生すれば、変圧器内部の絶縁油の熱分解によりガスが発生し、検出器内部にガスが侵入することで気体検出器のフロート（※３）が下がり、マイクロスイッチ（※４）を動作させ警報出力する。気体検出器本体の点検窓にて変圧器内にガスが発生していないことを確認する事が可能である。
+
+※３　フロート
+気体検出器内部の油面により上下するもの。
+
+※４　マイクロスイッチ
+フロートの低下に連動しているスイッチで動作すると警報発信する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[〇推定原因
+調査の結果、当該気体検出器の乾燥剤挿入口カバーの割れ箇所に錆の付着が確認されたことから、乾燥剤挿入口カバーの割れ箇所より外気が侵入し、マイクロスイッチ室内が徐々に吸湿したことで、マイクロスイッチの接点間の絶縁が低下して回路が導通し、警報発信に至ったものと推定される。
+乾燥剤挿入口カバーの割れが発生した時期について、特定することは困難であるが、
+・錆の付着の状況からかなり前に発生したものと推定されること
+・当該検出器の取替時（２０００年９月）には、外観点検等で異常はなかったこと
+・定期検査時の変圧器点検等の作業以外で、当該気体検出器近傍に立ち入ることはないこと
+から、変圧器点検等の作業時に、当該箇所に接触することなどにより割れが発生し、その後の点検において実施した補修塗装により、割れが発見できなかったものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所１、２号機 予備変圧器のガス検出警報発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>102175</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/07/14 13:29:12]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[233]]></KIKI_CODE>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ガス検出器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13327</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[233]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[予備（非常用）変圧器]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[230]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[230]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[変圧器装置]]></KIKI_NAME>
+					<SORT_NO>14</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[264]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[非接触状態で割れが生じ、その後の点検において補修塗装により割れが発見できなかったこと]]></S_GENIN_NAME>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13327</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[298]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

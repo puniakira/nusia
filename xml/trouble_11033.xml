@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　事象の原因について、次の通り調査を実施した。
+１．事象発生後の状況調査
+（１）警報確認結果
+　当該保護装置を確認した結果、「出力回路」「表示回路」の故障を示す表示が点灯していることを確認した。また、「サイリスタユニット」の状態を示す表示灯の点灯（通常は消灯）状態に異常（表示灯点滅）があることを確認した。
+
+（２）故障記録確認結果
+　当該保護装置内に保存されていた故障記録を確認した結果、「表示回路」「整定回路」「シーケンスＣＰＵ」「リレーＣＰＵ」「サイリスタユニット」のいずれかに異常があることが確認された。
+
+（３）不具合部位特定調査結果
+　警報確認及び故障記録確認から、要因分析表に基づき調査を行った結果、表示回路で示された状態を視覚的に表す部位である「表示パネル」の交換を行った。その際に当該異常表示が復帰したことから、当該保護装置故障異常発生の原因は「表示パネル」の故障であると特定した。
+　なお「整定回路」「シーケンスＣＰＵ」「リレーＣＰＵ」「サイリスタユニット」には異常が認められなかった。
+
+２．工場調査結果
+　「表示パネル」に異常があることが特定できたことから、「表示パネル」の故障部位及び原因を特定するため、「表示パネル」を工場に持ち出し、詳細な点検・試験を行った。
+（１）事象再現試験
+　不具合が確認された「表示パネル」を同型式の保護装置に実装し、当該事象再現の有無について確認を行った結果、「出力回路」「表示回路」の故障を示す表示の点灯および「サイリスタユニット」の状態を示す表示灯の点滅が再現した。
+
+（２）健全性確認試験
+　「表示パネル」を構成する各回路の健全性確認を実施した結果、制御回路に使用されているディジタルＩＣを新品に交換したことにより故障が解消されたこと、及びその他の回路に異常は認められなかったことから、「表示パネル」故障の原因は、制御回路に使用されているディジタルＩＣの故障によるものと推定した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11033</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/08/24 18:47:29]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[後備保護装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第５８条
+原子炉運転時において、外部電源（発電所外からの送電線の回線数と主発電機（当該原子炉の主発電機を除く）の合計数）が２系列動作可能であることが要求されており、７月１５日３時４６分に外部電源の２系列の内の１系列を停止したため、運転上の制限からの逸脱に移行した。なお、動作可能である電源が１系列のみの場合は、１０日以内に外部電源２系列が動作可能な状況に復旧することが要求されている。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>17503</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/07/16 10:42:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201007150123]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　不具合の確認された表示回路の「表示パネル」を新品の「表示パネル」に交換を実施した。
+　なお、原子炉運転中において夜の森線１系列を停止しても、外部送電線から受電する２系列の電源が動作可能となるように、所内電源の改造を計画した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/08/24 18:47:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の福島第一原子力発電所６号機（沸騰水型、定格出力110万キロワット）において、平成22年７月15日午前１時23分、６号機の所内へ外部から電気を供給する送電線（外部送電線）２系列のうち１系列の後備保護装置の異常を示す警報が発生した。午前３時46分に当該保護装置の点検を行うため、外部送電線１系列を停止した。
+　６号機においては、保安規定に基づき、原子炉運転時において、外部送電線から受電する２系列の電源が動作可能であることが要求されていることから、午前３時46分に運転上の制限からの逸脱に該当するものと判断した。
+　なお、動作可能である電源が１系列のみの場合は、10日以内に２系列が動作可能な状態に復旧することが要求されている。
+　　
+　その後、不具合の確認された後備保護装置の表示用部品を交換し、同装置が正常に動作することを確認したことから、停止した送電線１系列を復旧した。
+　これにより、７月16日午後４時45分、外部送電線から受電する２系列の電源が動作可能な状態に復旧したと判断した。
+
+　本事象はプラントの運転に影響を及ぼすものではなく、また、本事象による外部への放射性物質の影響もない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　表示パネルの制御回路に使用されているディジタルＩＣの偶発的な故障により、信号が誤出力され、その信号を後備保護装置内の「表示回路」及び「出力回路」が回路異常と検出したことにより、後備保護装置の異常警報（「夜の森線１号後備保護装置異常」）が発生したものと推定した。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機における外部送電線の保護装置の不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[事象発生時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1144</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>17505</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/07/16 15:55:58]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[918]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[後備保護装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>11033</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[表示回路]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11033</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[918]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[168]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11033</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1600]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[電気計装品の静的素子の故障]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[発生頻度が極めて少なく、原因が不明確で再現性のない動作不良または故障]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1600]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11033</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11033</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11033</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

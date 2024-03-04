@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12842</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/11/12 08:03:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2018/10/12 15:22:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20180810]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　非常用ディーゼル発電機(以下、「D/G」という。)(※1)(A)屋外排気管サポート部の修理を行うため、屋外排気管の保温材および外装材を取り外し、手入れをしたところ、排気ガス測定に用いる点検口外面に直径0.5mm程度の腐食孔を確認した。
+　事象の原因としては、当該箇所は、屋外排気管外装材と点検口外装材の継ぎ目となる箇所であり、雨水や湿った空気に晒された状態となっていたため、腐食が進行したものと推定した。
+　再発防止対策として、D/G屋外排気管の腐食孔が確認された排気管の点検口について、取替修理を実施し、外観点検および肉厚測定を保全計画に反映した。
+
+　その後の保全計画に基づき実施したD/G(A)(B)屋外排気管の点検において、以下の①～④の腐食が認められたことから、補修または、健全性を確認し、機能に影響ないことを確認した。
+　引き続き、保全計画に従い、外観点検および肉厚測定を実施し、点検結果により必要に応じ補修および取替等の修理を実施していく。
+
+①D/G(A)屋外排気管の腐食孔
+　当該屋外排気管の肉厚測定のため、ケレン作業を実施したところ、排気管外面に約80mm×30mmの腐食孔を確認した。腐食孔が確認された箇所について、取替修理を実施した。
+
+②D/G(B)消音器入口配管上流側フランジ
+　当該フランジを点検した結果、腐食による減肉を確認した。腐食が確認された箇所について、フランジ部の補修塗装を実施した。
+
+③D/G(B)消音器入口フランジ上流側配管
+　当該配管を点検した結果、公称肉厚の半分程度まで腐食が進行している箇所を確認したが、必要肉厚は確保されていることから機能に影響を与えるものではないことを確認した。
+
+④D/G(B)消音器出口配管フランジボルト
+　当該フランジボルトに腐食を確認したが、腐食はボルトの頭部のみであり、ナット締め付け部まで腐食が進展していないことから、機能に影響を与えるものではないことを確認し、ボルトの取替は不要と判断した。
+
+(※1)非常用ディーゼル発電機は、外部からの電源供給が停止した場合等に自動的に起動し、主要な機器（非常用炉心冷却系ポンプ等）に電力を供給する非常用の発電機のこと。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-中部-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機(A)(B)屋外排気管等の腐食]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/11/12 08:03:19]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

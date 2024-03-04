@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[事象発生時の状況より止水板からの雨水浸入に至る要因を抽出し、その要因について要因分析図に基づき調査を実施した。
+
+（１）止水板本体に関する調査
+ａ．止水板の損傷
+外観目視点検の結果、止水板本体に漏水の原因となる損傷は確認されなかった。
+ｂ．止水板の劣化
+外観目視点検の結果、ゴムの劣化要因である外力作用・酸素・オゾン・紫外線等による亀裂、損傷がないことを確認した。また、ゴム硬度の計測結果は、６０°～７２°（平均値６５°）であり判定基準６０°～７２°を満足していた。
+ｃ．施工不良（取り付け不良）
+外観目視点検及び隙間ゲージによる確認の結果、事象①の箇所の一部（２箇所）にボルト孔に変形が見られ密着不良箇所が確認されたものの、その他の箇所では密着不良は確認されなかった。
+密着不良が発生した原因について、関係者へのヒアリングにより確認したところ、建設時に次工程への引き渡し等の関係から、施工期間に制約があったことがわかった。そのためボルトへ無理に止水板を取り付けたにもかかわらず確認不足により密着不良を発見できなかったと推察される。
+
+（２）ボルト・ナットに関する調査
+ａ．ボルト・ナットの損傷
+外観目視点検の結果、ボルト・ナットに損傷が無いことを確認した。
+ｂ．ナットの緩み
+平成２５年７月２２日に事象①、事象②のエリアの止水板を固定するナットの締め付けトルク値を確認したところ、全てのナットにおいて建設時の締め付けトルク値１５０Ｎ・ｍを下回っていることを確認した。
+そのため、ナットの締め付け方法について関係者へのヒアリング実施した結果、建設時の締め付けは電動インパクトレンチによる１回締めであったことを確認した。
+
+そこで、施工要領書の記載内容について確認した結果、止水板の取り付けに使用しているボルトは、Ｍ２２＠２４０ｍｍ（建設当時のメーカ標準仕様、１～７号機共通）であり、号機で相違がなかったこと、一方、施工要領書で定めている締め付けトルク値は、１～５号機が２３０Ｎ・ｍ～２５０Ｎ・ｍであるのに対し、６／７号機では１５０Ｎ・ｍであり、号機により相違があったことが確認された。
+なお、２号機の施工要領書では「１５０Ｎ・ｍで締め付けることにより十分な止水性能が発揮されるがパッキンのクリープを考慮に入れ２３０Ｎ・ｍで本締め」と記載されていたことをふまえると、締め付けトルク値の号機による相違は、締め付けトルク値の設定にあたり、止水板のクリープによる応力緩和の考慮を失念したものと思われる。
+
+以上をふまえると、ナットの締め付け方法の違いによる影響が大きいと考えられることから、以下の通り、応力緩和試験を実施した。その結果、以下の特性が確認された。
+①建設時の初期締め付けトルクの違いによる影響
+初期締め付けトルクを１５０Ｎ・ｍとした場合と１８０Ｎ・ｍとした場合の２パターンについて、応力緩和量の変化傾向の測定を実施した結果、応力緩和量の変化傾向に違いは確認されなかった。
+②初期締め付け１回締めによる影響
+初期締め付けの１回のみの場合、応力緩和量の変化傾向に２０％程度のバラツキが確認された。
+なお、バラツキの下限ラインにて約２０年後の応力緩和傾向を推定した結果、応力緩和量は最大で９０％程度となる。（１５０Ｎ・ｍで締め付けた場合、約２０年後に最大１５Ｎ・ｍまで締め付けトルクが低下する可能性あり。）
+③締め付け回数（増し締めの有無）の違いによる影響
+初期締め付けを実施した３日後に、再度同じトルクにて増し締めを実施した場合の応力緩和量の変化傾向の測定を実施した結果、応力緩和量の変化傾向のバラツキが１０％程度と小さくなることが確認された。
+また、バラツキの下限ラインにて約２０年後の応力緩和傾向を推定した結果、応力緩和量についても最大５３％程度と小さくなることが確認された。
+
+以上のことから、１回締めでは応力緩和量、バラツキともに大きくなり、増し締めを実施した場合には応力緩和量、バラツキとも小さくなること、このような影響は、初期締め付けトルクの値に関係ないことがわかった。
+したがって、全てのナットにおいて建設時の締め付けトルク値１５０Ｎ・ｍを下回っていた要因は、1回締めによる応力緩和の影響と考える。
+
+なお、中越沖地震による影響を確認した結果、地震により発生した原子炉建屋とタービン建屋の相対変位量が止水板の許容変位量（１０ｃｍ）以内であることをふまえると、中越沖地震の影響によるナットの緩みの可能性はないと考える。
+
+ｃ．締め付けトルクと止水性能の関係
+調査の過程において、締め付けトルクに対する限界止水性能を把握できていなかったことから、締め付けトルクと止水性能の特性を評価するために止水性能試験を実施した。その結果、以下のような特性が確認された。
+①直線部の評価、入隅部の評価において、限界止水性能の有意な違いは確認されなかった。
+②設計条件である０．１５ＭＰａ（水頭１５ｍ）の止水性能を満足させるために必要な締め付けトルクは４０Ｎ・ｍであることが確認された。
+③津波浸水高さを考慮した０．３０ＭＰａ（水頭３０ｍ）の止水性能を満足させるために必要な締め付けトルクは１２０Ｎ・ｍであることが確認された。
+
+以上のことから、津波浸水高さを考慮した場合の止水性能０．３０ＭＰａ（水頭３０ｍ）を満足させるために必要な締め付けトルクは１２０Ｎ・ｍとの結果が得られた。
+
+したがって、応力緩和試験による評価結果と止水性能試験の評価結果を考慮すると、初期締め付け時と増し締め時の締め付けトルクを２００Ｎ・ｍとし、３日後の点検時における残存トルクが１６０Ｎ・ｍ以上あることが確認できれば、２０年後においても０．３０ＭＰａの止水性能が維持可能であると評価される。
+
+ｄ．施工不良（締め付け忘れ）
+建設時にナットの締め付け忘れについて施工要領書の記載内容及び関係者へのヒアリングにより確認したところ、検査記録が残っていないことや記憶が定かでないことから建設時にナットの締め付け忘れが発生したかについては、特定することができなかった。
+
+（３）コンクリート部に関する調査
+ａ．コンクリート躯体の損傷
+外観目視点検の結果、止水板周辺のコンクリート躯体に漏水の原因となる有害なひび割れがないことを確認した。
+ｂ．施工不良（ジャンカ※）
+外観目視点検の結果、止水板周辺のコンクリート躯体に漏水の原因となるジャンカ等不良箇所がないことを確認した。
+
+※コンクリート打設時（流し込む時）に粗骨材（砂利）とモルタルペーストが分離して、硬化したコンクリートにモルタルペーストが満たされない粗骨材のみの部分ができる欠陥]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>5</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[建屋間エキスパンションジョイント]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11740</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:39:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/06/21 13:29:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201306191000]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）応急処置
+止水板からの雨水流入に対する応急処置として、以下の対策を実施した。
+ａ．平成２５年６月１９日以降、屋外排水設備工事に使用していた仮設ポンプについては、夜間も含めて常時運転とする運用に変更した。また、平成２５年７月２７日、工事に伴い切断していた排水路を別ルートにて仮復旧したことにより、以降はトランスヤード周辺に水溜まりは発生していない。
+ｂ．事象①で確認された止水板の密着不良箇所については、止水板にズレが生じていたため、平成２５年７月３０日、止水板の取付位置を正規の位置に修正した。
+ｃ．雨水の流入箇所と推定した建屋とＭＭＲの間の隙間については、平成２５年８月２日、コーキング材にて充填補修を実施した。
+ｄ．平成２５年８月９日、事象①、事象②のエリアの止水板を固定するナットについて、建設時の締め付けトルク値１５０Ｎ・ｍにて増し締めを実施した。
+
+（２）是正措置
+６／７号機止水板の取り付け状態及び締め付けトルク値の確認を実施する。
+ａ．止水板の取り付け状態の確認
+止水板取り付け状態を以下のように確認する。
+・直線部は、止水板本体の変形・ゆがみによる躯体との密着不良がないことを確認する。
+・入隅部は、締着板を取り外し、ボルト及び止水板の孔の位置が適切であることを確認する。
+・更に隙間ゲージ（０．０５ｍｍ）を用いて止水板と躯体が密着していることを確認する。
+・なお、上記作業にあたっては、当社監理員が立ち会いにより確認する。
+ｂ．締め付けトルク値の確認
+応力緩和試験により得られた知見と津波影響を考慮し、締め付けトルク値を確認し、新たに２００Ｎ・ｍで増し締めを行う。
+締め付けトルク値の確認については、全てのボルトに対し計測記録を作成し、抜き取りにより当社監理員が確認する。
+また、締め付け忘れ防止のため、締め付けは返し締めを行うこととし、再締め付け後ナットにマーキングを実施する。
+
+＜今後の対応＞
+全号機の止水板に対し、定期点検により継続的に締め付けトルク値を確認するとともに応力緩和傾向を把握し知見の拡充に努めるとともに、管理方法の適正化をはかる。
+（１）締め付けトルク値の確認
+全号機の止水板に対し次の要領で止水板の締め付けトルク値を抜き取りにより確認する。
+（２）対象部位
+ボルト本数に応じ、下記の本数で抜き取りを行う。
+（３）抜き取り率
+ＪＩＳ　Ｚ　９０１５－１「計数値検査に対する抜取検査手順－第1部：ロットごとの検査に対するＡＱＬ指標型抜取検査方式」より、通常検査水準、なみ検査ＡＱＬ２．５、１回抜取方式の抜取数のまとめを以下に示す。
+
+数量　　　　　　　抜取数　不合格数
+９０～１５０　　　　２０　　　　２
+１５１～２８０　　　３２　　　　３
+２８１～５００　　　５０　　　　４
+５０１～１２００　　８０　　　　６
+
+（４）試験方法
+増締めトルク法。
+（５）点検頻度
+原則、１回/年とし、その後の点検結果の応力緩和状況により頻度を見直す。
+（６）管理トルク値
+津波の影響を考慮し１２０Ｎ・ｍ
+（７）判定基準
+上記の抜取数の表における不適合数未満は合格とする。
+（８）否の場合の対応
+全数検査を実施。
+
+上記点検についてマニュアルへ反映する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:39:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の６号機において、平成２５年６月１９日午前１０時頃、協力企業作業員からタービン建屋地下２階配管トレンチ室（管理区域）に水溜まりを発見したとの連絡を受けた。午前１１時、当社運転員が現場を確認したところ、当該箇所の水溜まりを確認するとともに上階のタービン建屋中地下２階配管トレンチ室（管理区域）において約８００リットルの水溜まりを発見した。（以下、「事象①」と記す。）
+平成２５年６月２１日、上記事象①の水平展開として当社運転員が現場確認を実施したところ、定期検査中の７号機タービン建屋地下２階（管理区域）において、約３５０リットルの水溜まりを確認した。（以下、「事象②」と記す。）
+発見した水溜まりは測定の結果、放射性物質を含んでおらず、雨水と推定した。
+
+平成２５年６月１９日に実施した屋外調査の結果、６号機原子炉建屋とコントロール建屋の間にあるトランスヤード周辺に水溜まりが生じていることを確認した。事象発生当時は屋外排水設備工事に伴い排水路を切断していたため仮設ポンプによる排水を行っていたが、夜間は仮設ポンプを停止する運用としていたことから、前日の降雨が排水されずトランスヤード周辺に水溜まりが生じたものと思われる。
+当該トランスヤードは人造岩盤（以下、「ＭＭＲ」と記す。）で埋め戻されているため、地表面に溜まった雨水は土中に浸透しにくいことから、建屋とＭＭＲの間の隙間に流入し、エキスパンションジョイント止水板（以下、「止水板」と記す。）内側へ流入したものと考えられる。
+
+事象①では、壁立ち上がりの入隅部においてコンクリート躯体と止水板の密着不良箇所が確認され、この密着不良箇所から雨水が流入していることを確認した。
+また、事象②では、コントロール建屋と廃棄物処理建屋の間に設置している止水板を介して事象①の止水板と繋がっていることから、トランスヤード周辺に溜まった雨水が事象①の止水板とコントロール建屋と廃棄物処理建屋の止水板を経由して事象②の止水板に雨水が流入したものと考えられる。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-M039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査結果より、当該事象が発生したメカニズムは、以下のとおりと推定される。
+
+①建設当時、止水板のクリープによる応力緩和が考慮されていない締め付けトルク値が反映された施工要領書を用いたため、本来、止水板のナットを２３０Ｎ・ｍ以上で締め付けなければならないところ、１５０Ｎ・ｍで締め付けた。
+②さらに建設当時、次工程への引き渡し等の関係から、施工期間に制約があったことにより、確認不足が生じ、止水板が密着不良の状態で締め付けられた。
+③経年に伴い、止水板のクリープによる応力緩和の影響で、ナットが弛み始めた。
+④屋外排水設備工事に伴う排水路の切断の影響で排水されなかったトランスヤード周辺の雨水が、コントロール建屋とトランスヤード基礎の隙間に浸入した。
+⑤その後、浸入した雨水は建屋とＭＭＲの間の隙間に徐々に蓄積された。
+⑥さらにエキスパンションジョイントへと浸入した雨水が、止水板とコンクリート躯体の密着不良箇所や止水板の締め付け不足箇所から建屋内に流入した。
+
+以上より、漏水の発生原因は「止水板の施工不良」、「締め付けトルクの低下」によるものと考えられる。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６号機タービン建屋（管理区域）における水溜まり（雨水）の発見について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[事象発見日時]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6,7]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[なし]]></S_KEITO_NAME>
+	<PRESS_ATTACH_ID>46547</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/06/24 08:40:05]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11740</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11740</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3052</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/29 19:45:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3227</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/06/23 16:04:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20050609]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/29 19:45:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[運転中において、タービン機器冷却水熱交換器（※１）（Ａ）内で冷却水（淡水）が海水側に流れ出ていること（※２）を確認した。このため、熱交換器（Ａ）への冷却水の供給を停止し、点検を行うこととした。
+本事象は原子炉の安全性に関係するものではなく、外部への放射能の影響もない。
+その後、熱交換器（Ａ）を分解して、伝熱管（４０００本）の点検を実施した結果、このうち１本の伝熱管に微小な孔（約１ｍｍ程度）が１箇所あいていることを確認した。
+この原因は、海水とともに伝熱管に流入した貝などが伝熱管内表面に付着し、伝熱管内の海水の流れに乱れが生じ、伝熱管の一部が浸食（※３）され、微小な孔に至ったものと推定。
+その後、孔のあいた伝熱管の両端に閉止栓を取り付け、冷却水が海水側（伝熱管内）に流れ込まないようにした。また、点検で浸食が認められた１６本の伝熱管についても予防保全の観点から閉止栓を取り付けた。残りの伝熱管についても全て清掃（貝などの除去）を行った。
+これらの作業を終えた後、６月２１日に熱交換器（Ａ）を復旧した。
+今回の閉止栓の取り付けは、熱交換器の機能上、問題となることはない。
+なお、念のため、熱交換器（Ｂ）についても今後、点検・清掃を実施する。
+
+※１　タービン機器冷却水熱交換器は、タービン系機器（ポンプ、モータ等）の冷却に使用された冷却水を、海水との熱交換により冷却するための設備で、（Ａ）、（Ｂ）の２基設置している。
+※２　海水側に流れ出ている冷却水の量は、１時間当たり約６０リットルの冷却水が海水側へ流れ出ていたと推定した。この冷却水には放射能は含まれていない。
+※３　浸食とは、流水などにより表面が削られる現象。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン機器冷却水熱交換器内における冷却水（淡水）の海水側への流出について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/06/28 14:32:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

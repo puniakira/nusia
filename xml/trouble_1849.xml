@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．運転中における発電機電圧変動の挙動について
+　発電機電圧変動の挙動の分析を行った結果、変動の現れ方が電圧設定値に対し低め側の片極性であること、及び変動の方向が上下両方向（電圧の低下と復帰）であることが確認された。
+２．現地調査結果
+　計画停止時における発電機解列後の無負荷運転状態において、ＡＶＲ電圧比較回路の加熱試験等を実施した。
+　この結果、電圧比較回路の可変抵抗器ＲＨ５（電圧校正抵抗器２）の加熱試験時に発電機電圧変動事象の発生が確認された。この事象はＡＶＲ偏差信号が突変することで発電機電圧が変動するものであり、その挙動は運転中に発生した電圧変動事象の挙動と類似していることが確認された。
+　このことから、原因箇所はＡＶＲの電圧比較回路の可変抵抗器ＲＨ５であり、この抵抗値が変動したために、発電機電圧が変動したものであることが判明した。
+　なお、発電機電圧に±０．０５～±０．２ｋＶ程度の変動を生じさせる可変抵抗器ＲＨ５の抵抗値変化は、約１３～５０オームであると推定された。
+３．工場調査結果
+　ＡＶＲ電圧比較回路の可変抵抗器ＲＨ５について、次の調査を実施した。
+（ａ）分解点検結果
+ａ．目視点検・顕微鏡観察結果
+　可変抵抗器の構成部品について点検を行った結果、異常は確認されなかった。
+　なお、抵抗体と可動接触子の接触面に塗布されているグリスに、経年劣化によると思われる変色、固化が確認された。
+ｂ．グリス調査結果
+　接触面の塗布グリスについて調査を行った結果、基油にジエステル油、増ちょう剤にシリコン系剤を使用したグリスであることが確認された。
+ｃ．酸化皮膜観察結果
+　接触面の酸化皮膜形成状態を観察した結果、問題となる酸化皮膜は確認されなかった。　
+（ｂ）再現性確認試験結果
+　劣化グリスが可変抵抗器の接触抵抗値に及ぼす影響について、実機の状態を模擬し再現性試験を行った。
+ａ．可変抵抗器塗布グリスの接触抵抗値測定結果
+　可変抵抗器ＲＨ５より採取したグリス（劣化グリス）を塗布した場合と新品グリスを塗布した場合の接触抵抗値を測定した結果、可変抵抗器ＲＨ５の劣化グリスでは平均約１５オームを示したのに対し、新品グリスでは０．１オーム以下の低い抵抗値を示した。
+ｂ．グリスの使用年数による接触抵抗値測定結果
+　新品グリスを用いて加速劣化試験を行った結果、使用年数１７年付近で接触抵抗値は平均１７オームを示した。
+以上の試験結果から、使用年数の経過に伴うグリスの基油成分の蒸発により、増ちょう剤成分（シリコン）の濃度が増加し、接触抵抗値が増加することが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1849</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/27 21:58:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[19970219]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．不具合のあった可変抵抗器ＲＨ５を新品に取り替えた。
+　また、念のため可変抵抗器ＲＨ５以外のＡＶＲの各設定用可変抵抗器および差電圧検出基板を新品に交換した。
+交換後、ＡＶＲに模擬電源装置により電圧を印加し、加熱試験・打診試験ならびに回路の入出力特性試験を実施し、健全性を確認した。
+２．グリスを使用したＡＶＲの可変抵抗器については、今後、定期的に交換を実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は定格出力（１１００ＭＷ）にて運転中のところ、平成９年２月下旬より発電機電圧が若干変動し、これに伴い無効電力も変動する事象が確認された。
+　この電圧変動は、発電機電圧（通常約１９ｋＶ）が±０．０５～±０．２ｋＶ程度の微小な変動幅で、断続的（２～７分程度継続後、通常値に復帰）に変動しているものであり、運転継続に支障を及ぼすものではないが、発電機関連パラメータの連続監視を実施するとともに、変動要因を検討した。
+　その結果、発電機電圧の変動要因としては、発電機自動電圧調整装置（ＡＶＲ）、交流励磁機、ＡＶＲに信号を入力している外部回路等の不調が挙げられたが、要因分析結果から、ＡＶＲの電圧比較回路（発電機電圧と基準電圧とを比較し、その偏差信号を出力するためのブリッジ回路）の差電圧検出基板、電圧設定用可変抵抗器（９０Ｒ）あるいは各電圧校正抵抗器（可変抵抗器ＲＨ２，５）に不調があるものと推定された。
+　このため、４月１２日からの計画停止時において、点検、調査を実施した。
+　なお、運転中における警報の発生はなく、また発電機出力をはじめ、他の主要なパラメータにも変化は認められなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1996-東京-M019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果から、発電機電圧変動の原因は以下の通りと推定される。
+［１］　可変抵抗器の長期的使用により、グリスの劣化（基油の蒸発、固化）が進展し、塗布グリスの接触抵抗値が上昇した。
+［２］　このグリスが可動接触子と抵抗体との接触面に介在したことと微少な振動により接触抵抗値が増加した。
+［３］　その結果、差電圧検出回路は発電機電圧が基準電圧に比べ高くなっていると判定し、ＡＶＲは励磁下げの偏差信号を出力して発電機電圧を降下させた。
+　以上のように、可変抵抗器ＲＨ５に塗布されたグリスの劣化により、可動接触子の接触抵抗値が変化したことでＡＶＲは、発電機電圧を下げたり、通常に復帰したりの事象を繰り返したものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[発電機電圧変動事象について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/27 21:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[抵抗*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1849</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[主発電機・励磁機]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[090]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[090]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[主タービン発電機装置]]></KIKI_NAME>
+					<SORT_NO>8</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1849</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

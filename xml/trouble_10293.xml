@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10293</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/04/09 08:55:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4426</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/04/07 16:38:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090406]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/04/09 08:55:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[女川原子力発電所１号機（沸騰水型、定格電気出力５２万４千ｋＷ）は、第１８回定期検査の調整運転中、給水加熱器ドレンポンプ＊１（Ｂ）軸封部（メカニカルシール）＊２からシール水がわずかにしみ出していることを確認した。
+漏えい量はわずかであり、給水加熱器ドレンポンプ（Ｂ）の機能に影響を与えるものではnないが、漏えい量の監視を強化していく。
+なお、この事象による発電所周辺への放射能の影響はない。
+また、本事象は法律に基づく報告事象ではない。
+
+　これまで、漏えい量を監視しておりましたが、漏えい量はわずかで、減少傾向にあり、給水加熱器ドレンポンプ（Ｂ）の機能に影響を与えるものではないことから、継続して漏えい量の監視強化を行いながら４月８日に発電機出力を上昇させることとした。
+
+＊１ 原子炉へ供給する水（給水）を所定の温度まで上昇させるために設置された給水加熱器において、給水の加熱に用いた凝縮水を下流側の給水加熱器へ移送するために設置されたポンプ。
+＊２ 軸封部（メカニカルシール）とは、ポンプ内部を流れる冷却水が回転軸の隙間を通してポンプ外部に出ないようにするために設けられている部品。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東北-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[給水加熱器ドレンポンプ（Ｂ）軸封部の監視強化について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/04/08 13:49:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

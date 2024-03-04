@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12054</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/12/20 13:24:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>72398</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/06/04 18:37:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20140404]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/12/20 13:24:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・サイトバンカ建屋の定例巡視において，サイトバンカ貯蔵プールの固体廃棄物移送容器ピット※１側の漏えい検出配管出口より水が滴下していることを発見しました。（平成２６年４月４日）
+・その後，監視を継続していたところ，サイトバンカ貯蔵プールの減容ピット※２側の漏えい検出配管出口からも水が滴下していることを確認しました。（平成２６年４月１５日）
+・滴下水がプール水であるかを確認するため，４月２８日にプール内へ蛍光染料を投入し，漏えい検出配管からの滴下水の分析を行った結果，滴下水より蛍光染料が検出されたことから，滴下水はプール水であると判断しました。（平成２６年５月１日）
+・滴下量は，１日あたり２～３リットル程度であり，固体廃棄物の水中貯蔵保管に支障はありません。
+・また，滴下水は，ドレンサンプピット内に回収されており，外部への放射能の影響はありません。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（平成２６年５月１３日お知らせ済み）
+
+【滴下の推定原因】
+・サイトバンカ建屋内のほこり等が，東北地方太平洋沖地震の揺れにより，プールに落下。
+・プールに落下したほこり等が，長い時間をかけて，徐々にプール水の排水流路にある金網に集積し，金網を閉塞したことから，プール水を浄化し循環させる系統へ水が排出されなくなり，プールの水位が通常よりも上昇。
+・プールの水位が上昇したことにより，プール上部のスカッパ※３と躯体の間からプール水が浸入し，スカッパとあて板※４とのすき間から漏えい。
+・漏えいしたプール水はスカッパと躯体の間を通って漏えい検知溝に至り，ドレンサンプピットに滴下。
+
+【漏えい防止対策】
+・プールの水位が上昇した場合においても，スカッパと躯体の間からプール水が浸入しないよう，その接合部を溶接した。
+・なお，漏えい防止対策を実施後，３カ月間監視を継続し，再度滴下が発生していないことを確認しております。
+
+※１：固体廃棄物移送容器を搬出入するためのスペース
+※２：将来的に、使用済チャンネルボックス等を減容するための装置を設置するためのスペース
+※３：地震時等に発生するプール水の揺らぎを緩和するための雨樋状の構造物
+※４：スカッパと躯体を固定させるためのＬ字型の構造物]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東北-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[サイトバンカ貯蔵プール漏えい検出配管からの水の滴下（対応結果）]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/06/10 10:31:02]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

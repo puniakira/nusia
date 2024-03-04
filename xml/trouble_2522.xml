@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2522</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/04/26 08:59:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/09/07 11:12:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200409051907]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/04/26 08:59:45]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１６年９月５日午後７時７分頃に紀伊半島沖を震源とした地震が、また午後１１時５７分頃に東海道沖を震源とした地震が発生したが、浜岡原子力発電所への影響はなかった。
+地震発生後、施設の巡視点検を実施したが、異常は認められなかった。
+外部への放射能の影響はありません。
+
+発電所の運転状況およびこれらの地震により観測された最大加速度（原子炉建屋地下２階面での値）は次のとおり。
+
+　号機　運転状況	観測された最大加速度(gal(※１)）
+　　　　　　　　　　　紀伊半島沖の地震	東海道沖の地震
+１号機	定期点検中　：	５ gal（※２）	７ gal（※２）
+２号機	定期点検中　：（１，２号共用）　（同左）	
+３号機	運転中	　　　：　８ gal	　　　　８ gal
+４号機	運転中	　　　：　３ gal	　　　　５ gal
+５号機	試験運転中　：	６ gal	　　　　８ gal
+
+※１　地震による揺れの尺度として用いられている加速度の単位。　１gal（ガル）＝1cm／秒＾２
+※２　１号機　原子炉建屋地下２階面での観測値
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[紀伊半島沖及び東海道沖を震源とした地震について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/09/09 08:42:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

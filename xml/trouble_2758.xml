@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2758</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/11 19:09:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/02/16 10:42:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502071620]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/11 19:09:43]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は定期検査中の平成17年２月７日、発電所の屋外に設置してある主変圧器の点検において、絶縁油の抜き取り作業を実施中、協力企業作業員が午後４時20分頃変圧器基礎部上へ油が漏れていることを発見し、午後４時45分頃当社社員がこれを確認した。その後、当社より午後４時50分頃に消防本部へ連絡した。
+　漏えいは、主変圧器油抜きの元弁を閉めたことにより停止した。
+　現場を調査したところ、防油堤内の床に残留した油の量は約２．５リットルで、防油堤内の側溝より回収した油の量は約５６リットルであった。
+　なお、漏えいした油については清掃を実施した。
+
+　原因は、絶縁油の抜き取り作業前に当該油分析のために配管を取外し、採油を行ったが、当該配管を取付ける前に、現場状況の十分な確認をしないまま絶縁油の抜き取り作業を開始したため、外れていた配管部分より漏えいしたものと判断した。
+　今後は、最終判断者の確実な確認を得ることおよびチェックリストを用いることにより確実な確認を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S103]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主変圧器点検作業中の油漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/18 13:36:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

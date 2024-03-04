@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8861</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/05/31 21:08:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3789</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/30 15:53:52]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20000501]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+２号機第１７回定期検査（平成１２年）の総合負荷性能検査前に局部出力領域モニタ（以下、「LPRM」という）が故障したことから、許容バイパス数より少ない数ではあるが、抵抗を設置し模擬信号を出したとの証言があった。なお、抵抗は当該検査終了後に取り外し、以降は正規の運用に基づきバイパス運用したとのことであった。
+また、３号機第１回定期検査（昭和６３年）において、抵抗が設置されていたとの証言もあった。
+これらの証言に基づき関係書類の調査を行ったところ、証言に該当する書類は見つからなかったが、３号機第３回定期検査（平成３年４月）の総合負荷性能検査終了後、抵抗を設置した４個のLPRMについて正規の運用に基づきバイパス運用していく、とのメモが残されていた。このメモによると、３個については原子炉出力を監視をする平均出力領域モニタ（以下、「ＡＰＲＭ」という。）に入力されていた。
+これらの行為は、総合負荷性能検査前に抵抗を設置していたことから、故障した事実を検査官に知られないようにすることが目的であったと推定される。
+上述以外に抵抗を使用していた時期を特定する証言や書類はなかった。平成１２年に抵抗を設置したのが最後であるとの証言から、平成１２年までにおいては総合負荷性能検査前にＬＰＲＭが故障し、当該検査までにＬＰＲＭが復旧しない場合には、正規の運用であるバイパス運用とせずに、抵抗を設置するという行為が１号機から３号機において行われていたものと推定した。
+*バイパスとは、当該ＬＰＲＭについて使用できないように除外することをいう。
+
+２．原因分析
+（１）企業倫理遵守・企業風土上の問題
+　バイパス運用すれば問題ないところ、ルールに従った対応をとらなかったこと、および同じことが繰り返されていたことから、倫理上・組織風土上の問題があった。故障した事実が検査官に知られないように、模擬的な信号を出す抵抗を取り付け、説明責任を回避していた。
+（２）安全文化の醸成・定着上の問題
+　ルールに従いバイパス運用するよう是正すべきところ、管理職が責任を果たしていなかった。
+
+３．再発防止対策
+○コンプライアンス意識の醸成
+　平成１４年度「コンプライアンス推進会議」を設置し全社的にコンプライアンス推進に取り組んでいる。この取組の中で、今回の事例をもとに啓発活動を進め、引き続きコンプライアンスの徹底を推進する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-中部-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[昭和５０年代から平成１２年までの
+核計装（ＬＰＲＭ）の故障時の不適切な対応について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/31 21:08:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

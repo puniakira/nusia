@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12401</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/05/02 13:04:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2016/03/25 14:18:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20160318]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/05/02 13:04:35]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象
+　当社は、平成２８年度の玄海原子力発電所低レベル放射性廃棄物※１の搬出に向けた準備として、日本原燃株式会社に対し、同社が原子力規制委員会へ廃棄物埋設確認申請を行うための放射能量データを提出していた。その後、提出した廃棄体１，７２０本のデータのうち１本に誤りを確認したことから、一旦データを取り下げた。
+　なお、このことを受け、日本原燃株式会社から原子力規制委員会へ提出された廃棄物埋設確認申請書※２についても、取り下げられた。
+　また、当社は、過去に搬出した廃棄体データを調査した結果、安全上問題となる廃棄体がないことを確認し、日本原燃株式会社へ報告した。
+
+２．原因
+　廃棄体の放射能量の測定に用いた演算プログラムが、一部正常に処理を行わなかったものと判明した。
+
+３．対策
+　廃棄体の放射能量の測定に用いた演算プログラムの改修を行った。
+　また、改修した同プログラムを用いて廃棄物埋設確認申請に必要な放射能量を測定し、日本原燃株式会社へデータを提出した。
+　　　　
+※１：低レベル放射性廃棄物
+　原子力発電所で発生した廃液や焼却灰、金属片などの放射能レベルが低い廃棄物をドラム缶に収納したもの。発電所から日本原燃株式会社へ搬出し、青森県六ヶ所村の低レベル放射性廃棄物埋設センターに埋設される。
+※２：廃棄物埋設確認申請書
+　埋設する廃棄体が法令に定める技術基準に適合していることの確認を受けるため、廃棄体の搬出元（当社）が測定した放射能のデータ等をもとに、埋設を実施する日本原燃株式会社が申請書を作成し、原子力規制委員会へ提出する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-九州-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[玄海原子力発電所に係る廃棄物埋設確認申請データの取り下げについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/03/25 14:19:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

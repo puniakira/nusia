@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10102</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/12/12 08:44:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4379</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/12/11 13:26:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20081104]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・８９ユニットある制御棒駆動水圧系水圧制御ユニット内の各種弁の開閉操作を実施したところ、１ユニットの排水配管止弁および３ユニットのアキュムレータ充填水配管止弁の計４弁（以下､「当該弁Ａ～Ｄ」という。）に次の事象を発見した。
+●発見日：１１月４日／当該弁：Ａ／弁種類：排水配管止弁／発見した事象：弁駆動部の固着
+●発見日：１１月４日／当該弁：Ｂ／弁種類：アキュムレータ充填水配管止弁／発見した事象：弁駆動部の固着
+●発見日：１１月５日／当該弁：Ｃ／弁種類：アキュムレータ充填水配管止弁／発見した事象：下流側配管へのしみ出し
+●発見日：１１月７日／当該弁：Ｄ／弁種類：アキュムレータ充填水配管止弁／発見した事象：下流側配管へのしみ出し
+・当該弁Ａ～Ｄの分解点検を実施した結果、当該弁Ａ、Ｂの固着の原因は、弁が全閉状態で、弁棒の摺動部に微細な異物が噛み込んで固着したものと推定した。また、当該弁Ｃ、Ｄのしみ出しの原因は、弁が全閉に若干満たない状態で、弁棒の摺動部に微細な異物が噛み込んで固着したため、弁シート部に僅かなすき間が生じたものと推定した（１１月１０日）。
+・本事象は、制御棒の緊急停止機能に影響を与えるものではないが、当該弁Ａ～Ｄの点検・手入れを実施した（１１月１９日）。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東北-S062]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒駆動水圧系水圧制御ユニット内弁の弁駆動部の固着等について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/12/12 08:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

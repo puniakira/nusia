@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10363</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/14 11:19:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4465</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/05/28 21:09:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200905280650]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/14 11:19:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（発生状況）
+　定期検査中の５号機において、平成21年5月28日午前6時50分頃、原子炉付属建屋2階の冷凍機室（非管理区域）において、当直員が機器冷却用冷凍機の油圧検出配管元弁付近から潤滑油が漏れている（配管をつたう程度）ことを確認した。このため、当直員は、潤滑油の漏れを止めるために当該元弁のキャップを取り外そうとしたところ、元弁とキャップが一緒にまわってしまい、元弁と配管の接合部（直径約1cm）が折損し、潤滑油が床面に漏れた。その後、直ちに当該元弁を閉めたことにより、潤滑油の漏れは停止した。
+　床面に漏れた潤滑油の量は約１８リットルであった。
+　なお、漏れた潤滑油は放射性物質を含んでおらず、本事象による外部への放射能の影響はない。
+
+（対応状況）
+　床面に漏れた潤滑油は拭き取りによる清掃を実施した。
+　潤滑油が滲み出た原因は、過去の点検に伴い弁体と配管の着脱を繰り返したため接合部のシール面に荒れが発生し、そこに運転による振動等が加わったため、接合部に僅かな隙間が生じたことによるものと推定した。
+　また、接合部が折損した原因は、潤滑油の漏洩を確認した当直員が、速やかに弁を操作しようとして弁体をレンチ等で固定せずにキャップを回したために、キャップと弁本体が一緒に回ったことによるものと推定した。
+　対策として、潤滑油の滲みを防止するために、折損した配管接続部の取替えを実施し、接合部のシール面についても今後、点検の際に確認することとした。
+　なお、今後、同型の弁を操作する際には、弁体をレンチ等で固定して操作するよう当直員に周知徹底した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所５号機　原子炉付属建屋（非管理区域）における潤滑油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/05/29 13:34:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

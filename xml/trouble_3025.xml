@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3025</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/22 17:33:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/06/15 21:41:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200506081150]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は、平成１７年４月２３日より第２１回定期検査中のところ、６月８日、原子炉格納容器内で作業員２名で小口径配管等の点検作業（作業件名「原子炉建屋小口径配管点検工事」）をしていた。６月８日１１時５０分頃線量計＊１を確認したところ、作業員（Ａ）の線量計の指示値が、警報設定値0.7mSvに対し1.25mSvであり、１日の線量管理目安値（１mSv）＊２を超えていることを確認した。このため、作業を中断し退域した。また、同時に作業を行っていた作業員（Ｂ）の線量計の指示値は、0.35mSvであった。
+　なお、線量計は警報設定値になった場合、警報音を発する機能を有しているが、警報が発報したと思われる時刻に電動工具（グラインダー）使用作業を実施しており、その音により警報音が聞こえなかったと考えられる。
+　＊１：線量計はカード型(80dB)と多機能型(100dB)があり、今回の作業はカード型線量計を携行していた。
+　＊２：所内基準として1日の線量管理目安値は１ｍSｖ／日と定めている。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-原電-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[日の線量管理目標値１ｍＳｖの超過について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/06/22 17:33:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

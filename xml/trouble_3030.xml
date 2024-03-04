@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3030</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/09/27 19:17:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/06/17 10:25:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200312170900]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成15年12月17日(水)午前９時頃、定期検査中の６号機原子炉建屋４・５階の空調ダクトより水が滴下していることを現場作業員が確認した。その後午前10時50分、当社社員が現場を確認し、漏れた水の総量および全放射能量を評価した結果、漏れた水の量は約９リットル、全放射能量は約８×10^3ベクレル（ラジウム温泉の約80mlに相当する量）であり、国への報告が求められる基準3.7×10^6ベクレルに比べ十分低い値であることを確認した。
+
+　水漏れの原因については、制御棒駆動機構ハウジングスタブチューブ点検(*1)に関連する作業で使用した水槽(*2)の水を６階にある使用済燃料貯蔵プール側にホースで排水したところ、ホースの先端が使用済燃料貯蔵プール上部側面にある空調ダクト(*3)の方向に向いてしまったため、ホースから出た水が当該空調ダクトへ入り込み４・５階の空調ダクトに伝わったものとわかった。
+　なお、これによる外部への放射能の影響はなかった。
+  また、原子炉建屋換気空調系への影響もなかった。
+                      　
+＊１制御棒駆動機構ハウジングスタブチューブ点検
+　制御棒駆動機構ハウジングスタブチューブとは、制御棒駆動機構が納められている筒（ハウジング）を原子炉圧力容器に固定するための継ぎ手であり、中部電力（株）浜岡原子力発電所１号機のスタブチューブ下部溶接部に割れが発見された事象の水平展開として、下部溶接部の目視点検および残留応力の改善を実施したもの。
+                        　
+＊２水槽
+　制御棒駆動機構ハウジングスタブチューブ点検装置の校正に使用するもの。
+                        　
+＊３空調ダクト
+　使用済燃料貯蔵プールから蒸発した水分を処理するために設けられたもの。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S047]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/09/27 19:17:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

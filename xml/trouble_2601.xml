@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[(1)調査結果より、当該フランジ部からの漏えいメカニズムを推定した。
+a.事象発生時、反エレベータ側の蒸気側水室の表面温度が約１８０℃であり、復水側水室の表面温度は約３０℃であったことから、この１５０℃の温度差によりフランジ部のシール面にわずかな歪みが生じた。
+b.この歪みの発生によりフランジ面のメタルガスケットの面圧が低下し、２次系水の漏えいが発生したものと推定される。
+(2)非常用復水器Ｂの蒸気側水室の温度が約１８０℃まで上昇した要因として、蒸気側水室内の水位が低下しているか、または蒸気が流れるルートが形成され、原子炉圧力容器からの蒸気により加温されたものと推定されるが、その要因としては以下の事象が考えられる。
+　なお、これらの要因について、原子炉起動後の確認により異常のないことを確認しているが、１０月１２日に実施した系統水張り以降、原子炉起動前までの間の状態は確認されていない。
+a.復水出口弁のシートパス
+　非常用復水器本体は、原子炉建屋４階に設置されており、復水出口配管は原子炉格納容器２階（原子炉建屋２階に相当）で原子炉再循環系配管と接続されている。
+　また、原子炉水位は、原子炉建屋４階よりも低い位置であるため、系統水張り後、原子炉との隔離弁である非常用復水器Ｂ復水出口弁（ＭＯＶ－１３０１－３Ｂ）に微少なシートパスがあった場合、その位置関係から、蒸気側及び復水側の水室内の水が原子炉圧力容器側に流出することが考えられる。
+　なお、事象発生時、原子炉圧力が約６．９ＭＰａ（約７０ｋｇ／ｃｍ２）の状態で、非常用復水器Ｂの胴側温度及び復水戻り温度が約３０℃であったことから、原子炉起動後、同弁にシートパスは発生していない。
+b.復水出口配管ドレン弁のシートパス
+　復水器出口配管には水抜きのためのドレン配管が復水出口弁の上流側に設置されており、このドレン配管にあるドレン弁がシートパスしていた場合、蒸気側及び復水側の水室内の水が原子炉建屋機器ドレンタンクに流出することが考えられる。
+　１０月１１日に系統確認として各弁の状態を確認した後、ドレン弁の操作は行っていない。また、その後の巡視点検において、ドレン弁にシートパスが発生していないことを確認している。
+c.蒸気ドレントラップのシートパス
+　非常用復水器の蒸気側水室入口近傍の蒸気入口配管には蒸気ドレントラップが設置されており、蒸気ドレン配管は最終的に主復水器に接続されている。この蒸気ドレントラップがシートパスしていた場合、原子炉圧力容器からの蒸気が非常用復水器の蒸気入口配管、蒸気ドレン配管を介して主復水器へ流れ込むラインが形成される。
+　この主復水器へのラインが構成されると、蒸気の流れ及び配管構成により非常用復水器の両側にある蒸気側水室が加温される。
+　隔離復旧後、各蒸気ドレントラップに排出音がないことを確認しており、シートパスは発生していない。
+d.蒸気ドレントラップバイパス弁のシートパス
+　蒸気ドレントラップにはバイパス弁が設置されており、このバイパス弁がシートパスしていた場合、蒸気ドレントラップのシートパスと同様に、主復水器への蒸気流入ラインが構成され、蒸気の流れにより非常用復水器の両側にある蒸気側水室が加温される。
+　１０月１１日に系統確認として各弁の状態を確認した後、各蒸気ドレントラップバイパス弁の操作は行っておらず、隔離復旧後、各蒸気ドレントラップバイパス弁に排出音がないことを確認しており、シートパスは発生していない。
+e.蒸気側水室の水張り不足
+　非常用復水器は、原子炉圧力容器漏えい検査前に、復水出口配管側より純水にて蒸気入口配管最頂部までの水張りを行っているが、この水張りが不十分な場合、蒸気側水室内の水位が確保できない。
+　復水出口配管側からの水張り操作は、運転手順書に従い実施しており、１０月１２日に水張りを実施した際も、蒸気入口配管に設置されたベント管より水の流出を確認していることから、水張り不足ではない。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[111]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2601</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/06/20 16:50:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[１０月２５日　　９時０６分　非常用復水器（Ｂ）出口配管付近の２箇所から水が滴下していることを確認
+１０月２５日　　９時５２分　非常用復水器（Ｂ）待機除外
+１０月２６日　１２時００分　非常用復水器（Ｂ）待機状態に復帰
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3039</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/11/04 10:47:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200410250906]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1)漏えいの確認されたフランジ部（２箇所）について、増し締めを実施した。
+(2)蒸気側水室の水位低下及び温度上昇を防止するため、以下の対策を行う。
+a.蒸気側水室の水張り後の水位低下が懸念されたことより、原子炉起動前に、蒸気側水室の水張りを再度行うこととし、その旨を運転手順書に反映する。
+b.原子炉起動後の昇温過程において、蒸気ドレントラップの動作状況を確認する。
+c.原子炉起動前の系統確認において、蒸気ドレントラップバイパス弁が確実に閉弁していることを確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/20 16:50:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２９回定期検査作業後の原子炉起動中、１０月２５日、非常用復水器Ｂ出口配管付近の２箇所から水が滴下していることを確認したため、同復水器を待機除外としたところ、水の滴下が止まったことを確認した。
+　当該箇所の点検の結果、復水器の胴本体と伝熱管水室との取り合いフランジ部からの微小な漏えいであることを確認し、当該フランジ部の増し締めを行った。
+　その後、当該部からの漏えいがないことを確認し、非常用復水器Ｂ系の健全性を確認した後、１０月２６日に非常用復水器Ｂ系を待機状態に復帰した。
+　なお、漏えいした水を分析した結果、放射能を含んでおらず、非常用復水器内の二次系（純水）であることを確認した。また、非常用復水器Ａについては漏えいは無かった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-原電-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[調査結果より、以下の原因により非常用復水器Ｂの復水器本体と水室との取り合いフランジ部から２次系水が漏えいしたと推定される。
+(1)非常用復水器Ｂ復水出口弁（ＭＯＶ－１３０１－３Ｂ）、蒸気ドレントラップ等のシートパスが一時的に発生し、原子炉起動時、同復水器の蒸気側水室内の水位が低い状態、蒸気が流れるルートが構成された状態にあった。
+(2)原子炉起動に伴い、原子炉圧力容器からの蒸気で非常用復水器Ｂの蒸気側水室が加温され、原子炉出力上昇とともに徐々に蒸気側水室の温度が上昇した。
+(3)この温度上昇により、蒸気側水室の温度が約１８０℃となり、復水側水室との温度差が約１５０℃となったことから、フランジ部のシール面にわずかな歪みが発生し、フランジ面のメタルガスケットの面圧が低下したことにより、当該フランジ部より２次系水が漏えいした。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[非常用復水器Ｂ系待機除外について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（漏えい確認日時）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/11/07 20:10:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ガスケット・パッキン*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2601</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用復水器系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[111]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[111]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2601</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

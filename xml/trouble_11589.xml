@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11589</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/10/22 18:28:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2012/10/22 16:48:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201107071430]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[７月７日午後１４時頃、原子炉建屋付属棟にある高圧炉心スプレイ系高圧電源盤の現場状況を確認していたところ、同盤内にある母線連絡（他電源盤からの受電用）回路の高圧ケーブル接続導体絶縁部に火花放電が断続的に発生していることを発見した。
+
+原因調査のため、同日午後５時37 分頃、残留熱除去系（Ｂ）を一時停止し、１７時４４分頃、当該しゃ断器に受電している連絡しゃ断器を開放した。
+
+（調査結果）
+・当該電源盤は、海水の流れ込みがあった部屋に設置されており停止していたが、当該電源盤受電側回路は他の健全な電源盤（残留熱除去系（Ｂ）の電源等）への電源供給ケーブルと接続しているため、充電されていたこと。
+・当該電源盤受電側回路のケーブル接続導体絶縁部に放電痕跡と絶縁カバー内に塩分の付着が確認されたこと。
+・同室内は、震災直後から空調機が停止していたため室内湿度が高く、電源盤の設置環境としては良い状態ではなかったこと。
+
+（推定原因）
+当該電源盤受電側回路のケーブル接続導体絶縁部は、高圧充電部となっていたことから、感電の危険性があり絶縁カバー内部の点検を実施していなかった。そのため、当該接続部への塩分の付着が確認できず、その後、室内で発生した結露水が吸着した。このことから、当該電源盤受電側回路のケーブル接続導体絶縁部の絶縁抵抗が低下し火花放電に至ったものと推定した。
+
+（対策）
+・当該電源盤受電側回路に接続しているケーブルを切り離した。
+・また、類似箇所についても、同様に受電側回路に接続しているケーブルを切り離した。
+・他にも類似箇所がないか再度確認し、サーモグラフィ診断等による健全性の確認を実施する。
+ケーブル切り離し後、同日１９時１５分頃、残留熱除去系（Ｂ）を復帰しました。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-S030]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１号機　高圧炉心スプレイ系高圧電源盤（Ｍ／Ｃ）内高圧ケーブルの放電発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/10/22 18:28:13]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8768</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/04/26 20:08:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3742</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/04/09 23:36:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704090827]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/04/26 20:08:44]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は定期検査のところ、４月５日より原子炉圧力容器内のジェットポンプのビーム交換作業の準備中、４月９日午前８時27分頃、ビームをジェットポンプに取り付けているボルトを固定する金具のボルトが付いていないことを確認し、当該ビームの近傍にて当該ボルトらしきものを発見した。
+　その後、当該ボルトらしきものを回収し、４月11日午前10時20分頃、当該ボルトであることを確認した。
+　
+　調査の結果、当該ボルトが外れた原因については、以下のとおりと推定した。
+・当該ボルトの締め付け時（建設時）に、締め付け不足等によりボルトに緩みが発生した。その後、プラント運転時にジェットポンプ本体の振動によって、ボルトのネジ山が徐々に摩耗した。
+・摩耗の増大により振動が更に大きくなったため、金具を留めていた当該ボルトの回り止め溶接部が破損し、当該ボルトが外れた。
+
+　当該金具については、定期検査時にビームを単独で取り外す際、ビーム取り付けボルトの位置ずれ防止のために設置していましたが、ビームとビーム取り付けボルトを一体で交換することにより、ビーム取り付けボルトの位置を保持することがなくなったため、今回の定期検査で撤去する予定だった。
+
+　なお、当該ボルトが原子炉内に混入した場合の影響を評価した結果、ジェットポンプ等の機能に影響を与えることはなく、また、ボルトが原子炉内の燃料部分に運ばれることもないことから、プラントの運転に影響を与えるものではなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉圧力容器内における異物の確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/12 13:42:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8903</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/12 13:50:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3824</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/07 21:00:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20020201]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備についてデータ改ざん、必要な手続きの不備、その他同様な問題がないかを評価するための調査の中で、以下の事象が確認された。
+  第２７回定期検査中(平成１４年２年２６日より４年１９日)に点検作業のため、安全保護系の電気的隔離を行おうとしたところ、誤って格納容器隔離の電気的隔離行ってしまったため、格納容器隔離及び非常用ガス処理系（ＳＧＴＳ）が作動した。当日は、燃料は全て使用済燃料プールに取り出されており、炉心に燃料がなかったことから、安全上の問題はなく、各機器の運転状態は直ぐに元の状態に復旧されたことから、運転日誌に記載されなかった。また、運営管理課長に連絡されなかったため、対外報告も行われなかった。　
+　本件は、定期検査中で格納容器の隔離機能が求められる状態ではなかったが、格納容器隔離信号が発信したことから情報提供するべきであった。
+現在は通報連絡三原則を徹底して遵守することにより同様な情報未提供はない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2001-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の誤信号による格納容器隔離事象の情報未提供]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 13:50:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

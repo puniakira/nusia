@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9281</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/10/23 10:01:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3959</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/09/10 18:29:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070910]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/10/23 10:01:15]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成19年９月10日、定期検査中の福島第一原子力発電所１号機タービン建屋地下１階において、排風機を点検作業中の協力企業作業員が排風機のベルトとベルト車の間に右手の指を挟まれ負傷したため、同日15時15分頃、救急車にて病院へ搬送した。
+　診察の結果、右手中指切断、薬指・小指骨折と診断された。
+
+　なお、当該作業員に放射性物質による汚染はなかった。
+
+　調査の結果、以下のことがわかった。
+・当該作業員は停止中の排風機（Ａ）のベルトを交換するために、巻き込まれ防止用の保護カバーを取り外した後、排風機（Ａ）出口側の送風管の継手部を取り外して内部を確認しようとした際、排風機（Ａ）が回り始めたことに気づかずベルト部に手を添えてしまい指を巻き込まれ負傷したこと。
+・排風機（Ａ）の入口側の弁が開いた状態であったところに、排風機（Ａ）出口側の送風管の継手部を取り外したため、運転中の排風機（Ｂ）の影響で、排風機（Ａ）の出口側から入口側へ空気の流れが生じ回り始めたこと。
+・施工要領書に、巻き込まれ防止用の保護カバーおよび継手部を取り外す手順が明記されていなかったこと。
+・当社および協力企業において、危険予知の観点からの安全処置の検討および確認が十分でなかったこと。
+
+　対策として、下記の内容を当該作業の施工要領書に明記し、実施することとした。
+・当該排風機を点検する際は、原則として２台とも停止し、排風機の入口側の弁を必ず閉める。
+・排風機出口側の送風管継手部を取り外した後に、巻き込まれ防止用の保護カバーを取り外す。　
+
+　また、本事例を周知するとともに、当社および協力企業において事例検討会を実施し再発防止の徹底を図ることとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S059]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１号機協力企業作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/09/11 17:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

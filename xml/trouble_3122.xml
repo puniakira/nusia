@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3122</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/07/25 14:12:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[G]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[GCR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/07/16 12:14:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200507071630]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海発電所は、廃止措置工事実施中の平成１７年７月７日１６時３０分、建屋換気設備として運転中の生体遮へい冷却ファンが停止した。発電室長より連絡を受けた廃止措置室長は、１６時３２分、保安規定第２３条に基づき工事の制限を行なった。事象発生時、当日の廃止措置室の工事は終了しており、保修室は該当する工事を実施していなかった。
+これに伴う外部への放射能の影響はなく、けが人の発生もなかった。
+その後、各機器に異常のないことを確認、停止した機器の復旧操作を実施し、生体遮へい冷却ファンについても再起動した。
+このため、廃止措置室長は、平成１７年７月８日８時５０分、保安規定に基づく工事の制限を解除した。
+事象発生時、発電所周辺では激しい雷雨が発生しており、東海発電所が受電している66kV系について、送電線への落雷による瞬時電圧低下が確認されており、この瞬時電圧低下に伴い当該冷却ファンや各機器の開閉器が開放し停止したものと推定される。
+　]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-原電-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[生体遮へい冷却ファンの停止について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/07/25 14:12:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>16</SORT_NO>
+		<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[G]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

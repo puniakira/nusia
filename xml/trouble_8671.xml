@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8671</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/02/28 14:31:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3696</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/20 20:34:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20061115]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１８年１１月１５日、使用済燃料ピットで水中カメラによる燃料集合体外観検査（※１）を行っていたところ、燃料集合体下部に金属屑らしき異物が付着していることを確認しました。この異物を回収するため、当該燃料集合体を検査場所から回収作業を行うのに十分な広さのあるキャスクローディングエリア（※２）へ移動し、再度、水中カメラで確認したところ、異物は確認されませんでした。このため使用済燃料ピット内および燃料集合体全数を点検しましたが、発見には至りませんでした。なお、この点検において、他の燃料集合体２体から２個の金属屑の付着が確認されたため、回収しました。
+
+回収できなかった異物は、ピット底部に残存しているものと推定されますが、ピット底部に水の流れはなく、ピット底部と燃料集合体下部との間に十分な距離があることから、再度、燃料集合体に付着するようなことはないと考えております。
+
+異物の混入経路について調査した結果、混入経路の特定には至りませんでしたが、原子炉格納容器内に設置されている燃料取替クレーン上の狭隘部に過去の作業で発生した金属屑が確認されたこと、また、原子炉補助建屋内に設置されている使用済燃料ピットのクレーン上で使用する工具等に金属屑が付着していた可能性が否定できないことから、これらの金属屑が落下し燃料集合体に付着した可能性があると推定しました。
+
+対策として、燃料取替クレーン上の狭隘部について清掃を実施するとともに、より確実な異物混入防止を図るため、今回の事例を関係者に周知し、工具等への付着物を含めた異物管理の重要性を再徹底しました。
+
+※１　燃料集合体外観検査：燃料集合体を水中カメラで外観上異常がないことを確認する検査。
+※２　キャスクローディングエリア：使用済燃料輸送容器の取り扱い場所。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[燃料集合体での異物発見について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/28 14:31:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

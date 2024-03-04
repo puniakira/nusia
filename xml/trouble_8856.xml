@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8856</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/05/31 21:01:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3783</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/30 14:51:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20030201]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+昭和５０年代から平成１５年２月まで、以下の行為が行われていた。
+運転員は、２時間に１回実施するプラントデータ採取（社内記録）時に、取放水温度差が「環境影響評価書」記載値（１、２号機は７．９℃、３、４号機は７．０℃。以下、「評価値」という。）を超過する場合には、評価値を記載していた。また、復水器の逆洗で一時的に復水器への循環水流量が低下して取放水温度差が上昇する場合においても同様であった。これらの行為は先輩社員からの指導で多くの運転直内で行われていたと推定される。
+計測担当部署は、取放水温度差が評価値を超えそうになった場合、関連する部署の依頼により、取放水温度差が小さくなるように、記録計を調整していた。また、「前面海域調査委員会」（漁業協同組合等で構成されている）へ、年４回提出している「温排水調査」のデータにおいても、上記社内記録に基づいて報告していた。
+
+２．推定原因
+この不適切な行為の原因は以下のとおりと推定した。
+（１）品質保証上の問題
+取放水温度差の管理に関する考え方を明確にしてこなかった。
+（２）企業倫理遵守・企業風土上の問題
+安全に関わらないデータであることから、問題意識が薄く「社会に対する説明責任」を果たしていなかった。（説明回避）
+外部へ正しい値を報告していなかったこと、制限を超えないように、記録計を調整していたことは、倫理上の問題があった。
+（３）安全文化の醸成・定着上の問題
+不適切であると感じながらも、長年慣例のように続けられていたことは、「問いかける姿勢」が欠如していた。
+
+３．再発防止対策
+（１）品質保証上の対策
+○平成１５年２月以降、取放水温度差が主復水器逆洗時に一時的に評価値を超えても、社内記録の記載および対外報告において、そのままの数値を報告することとした。
+○平成１５年１０月に、取放水温度について、取放水温度差および排熱量（取放水温度差×放水流量）がそれぞれ評価値および評価値をベースとした排熱量（評価値×放水流量）で管理することとした。
+○計器の校正について、品質保証システムに則り実施することとしている。
+（２）コンプライアンス意識の醸成
+平成１４年度「コンプライアンス推進会議」を設置し全社的にコンプライアンス推進に取り組んでいる。この取組の中で、今回の事例をもとに啓発活動を進め、引き続きコンプライアンスの徹底を推進する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-中部-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[昭和５０年代から平成１５年２月までの
+取放水温度差の不適切な管理について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/31 21:01:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

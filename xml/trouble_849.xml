@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）各種設定値の確認を行った結果、湿分々離器ドレンタンク非常用水位制御弁
+　　の設定値が基準値（３．５±０．２ｋｇ／ｃｍ＾２ｇ）に対し、
+　　５．８ｋｇ／ｃｍ＾２ｇと大巾にずれていたほか、Ｂ計器用空気圧縮機
+　　自動起動圧力が基準値（６．２±０．２ｋｇ／ｃｍ＾２ｇ）に対し、
+　　許容値内ではあるが、若干下方側（６．０６ｋｇ／ｃｍ＾２ｇ）に設定されて
+　　いたことを確認した。
+
+（２）計器用空気圧力の低下に伴い、作動した非常用水位制御弁は、湿分々離器
+　　ドレンタンク、Ａ、Ｂ－湿分々離加熱器ドレンタンク、６Ａ－高圧給水
+　　ヒータの４つの弁であり、これらの圧力設定値はすべて
+　　５．５ｋｇ／ｃｍ＾２ｇ以上となっており湿分々離器ドレンタンク非常用
+　　水位制御弁以外は、全て基準値の許容範囲内であった。
+
+（３）湿分々離器ドレンタンク非常用水位制御弁のトランスファ弁４個（計器用
+　　空気圧力が低下した場合に、当該弁を急速させるための弁）を調べた結果、
+　　開き始めと全開時との圧力差が１．３～１．５ｋｇ／ｃｍ＾２ｇとかなり
+　　大きいこと、及び本来、開き始めで設定すべきところ、全開時の圧力で
+　　設定していることを確認した。
+
+（４）Ａ計器用空気圧縮機起動時に、出口弁が所要開度まで開けられていなかった。
+
+（５）計器用空気負荷に対し計器用空気圧縮機の容量に不足はなく、計器用空気
+　　系統の漏えいはなかった。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[266]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>849</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/25 17:42:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>1150</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[198206111645]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）計器用空気系の信頼性向上を図る観点から、計器用空気圧縮機の予備機自動
+　　起動圧力の引上げ（６．２→６．４ｋｇ／ｃｍ＾２ｇ）、起動後のアンロー
+　　ディング時間の短縮（３０→２０秒）を図るほか、「ヘッダ計器空気圧力低」
+　　の警報値の引上げ（５．５→６．０ｋｇ／ｃｍ＾２ｇ）及び湿分々離加熱器
+　　ドレンタンク非常用水位制御弁の駆動部変更による設定値の引下げ
+　　（５．８→５．５ｋｇ／ｃｍ＾２ｇ）を実施する。
+
+（２）湿分々離器ドレンタンク非常用水位制御弁トランスファ弁を、開き始めと
+　　全開時との圧力差の小さい新型に取り替えた。その他の弁についても、次回
+　　定検時に同様のトランスファ弁に取り替える。また、トランスファ弁の作動圧
+　　の設定方法については、作業手順書に明記する等により徹底を図るものとする。]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格出力（８２６ＭＷ）運転中、６月１１日、Ａ計器用空気圧縮機月例点検終了後、運転機をＢ機からＡ機に切り替えるため、１６時３６分頃Ａ機を起動し、１６時４０分頃Ｂ機を停止したところ、計器用空気圧力が低下し、１６時４５分「Ａ計器用コンプレッサ注意」の警報が発信した。計器用空気圧力の低下に伴い、湿分々離器ドレンタンク等の非常用水位制御弁が作動し、その結果、タービン効率の低下を招き、発電機出力が減少し、１６時５２分には７６７ＭＷまで低下した。その後、Ｂ計器用空気圧縮機の自動起動による計器用空気圧力の復旧によって、非常用水位制御弁が閉止し、それに伴って発電機出力も回復に向い１７時２５分定格出力に復帰した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1982-関西-T007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　Ａ計器用空気圧縮機出口弁が所要開度まで開いていない状態で、Ａ機を起動したこと及びＢ機の自動起動圧力が幾分低目に設定されていたことにより計器用空気圧力低下後の値が、予想値より若干低目となった。計器用空気圧力の低下により、湿分々離器ドレンタンク、Ａ、Ｂ－湿分々離加熱器ドレンタンク、６Ａ－高圧給水ヒータの４つの非常用水位制御弁が作動し、各ドレンが復水器へ流入したためタービン効率の低下を生じ、発電機出力が減少した。特に、湿分々離器ドレンタンクの非常用水位制御弁は、設定値がずれており早目に作動した。設定値ずれの原因は、当該弁のトランスファ弁の設定圧力を開き始めの圧力で設定すべきところ、全開側で設定したため、開き始め圧力が高くなったものと思われる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[発電機出力降下について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/25 17:42:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+			<TROUBLE_ID>849</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>849</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>849</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[手動弁]]></KIKI_NAME>
+				<SORT_NO>14</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[計装用空気系（制御用空気系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[266]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[266]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>849</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>849</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>849</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[20]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力低下]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>849</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

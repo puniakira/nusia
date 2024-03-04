@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12520</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/11/07 11:32:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>64392</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/11/07 11:26:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201609260912]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成28年9月26日9時12分頃、巡視中の運転員が、原子炉補助建屋１階（管理区域）の通路に水溜りを発見した。
+近傍の機器ドレン蒸発装置予熱器※１補助蒸気ラインの復水サンプリング弁（以下「サンプリング弁」という。）の下流から１秒に約１滴の水の滴下があったことから、直ちにサンプリング弁を閉とし、9時18分に滴下が停止した。滴下した水は、補助蒸気が凝縮したものであり、放射能はなく、拭き取りにより回収（1.1ﾘｯﾄﾙ）した。
+現場状況を確認したところ、当該補助蒸気ラインに設置されている逆止弁を点検するため、入口・出口隔離弁（３弁）を閉止し、サンプリング弁を開としていた。また、補助蒸気を止めて行う必要があった別の点検作業が終了したことから、前日夜に補助蒸気を復旧していた。
+補助蒸気系統を停止し隔離弁を点検した結果、入口隔離弁（２弁）のシート面に赤錆が付着していたことから、隔離弁のシール機能が低下して補助蒸気が予熱器に流入し、凝縮水が開状態のサンプリング弁から滴下したものと推定した。
+対策として、入口隔離弁（２弁）についてシート面の手入れを行い、シール機能が回復したことを確認した。補助蒸気系統の隔離機能を有する弁については、今後定期的に点検・手入れを行っていく。
+なお、本事象による周辺環境への影響はありません。
+
+　※１：機器ドレン蒸発装置予熱器は、蒸発効率を高めるため、機器ドレン貯蔵タンクより給水される廃
+　　　　液の温度を、補助蒸気との熱交換により、約102℃まで上昇させるための機器。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[機器ドレン蒸発装置補助蒸気ラインからの水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/11/07 11:32:41]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

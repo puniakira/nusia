@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10842</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/11/05 15:31:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/02/17 15:26:45]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001252006]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/11/05 15:31:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２２年１月２５日午後８時６分頃、「モニタリングポスト（※１）(IC)放射能高」の警報が点灯した。
+　状況を確認したところ、発電所敷地北側に設置しているモニタリングポストＮｏ．４の指示が、通常値約70nGy/h（※２）のところ、約270nGy/h（警報値：200nGy/h）まで瞬時に上昇し、その後、下降していた。
+　また、その他のモニタリングポスト（Ｎｏ．１～３，５～７）および排気筒モニタ、放水口モニタの指示に変動はなかった。
+　なお、モニタリングポストＮｏ．４の指示は、同日午後８時１０分頃に通常値（約70nGy/h）へ復帰した。
+
+　当該検出器を点検した結果、測定設備に異状はなく、その他のモニタリングポストおよび排気筒モニタ、放水口モニタの指示にも変動がないことから、自然放射線の影響等による一時的な指示変動であると推定した。
+
+  本事象については短期間に平成２２年１月３日にも発生（ＮＵＣＩＡ通番：１０７６１）していることから、設備の電気的なノイズや人工的な電磁波等の影響の可能性についても、調査を行った。
+　その結果、設備面に異状はなく、人工的な電磁波等による影響も確認されなかった。
+　以上から、当初推定どおり一時的な指示変動は、自然放射線によるものと判断した。
+　このため、今回得た自然放射線によるモニタリングポストの指示変動幅を踏まえ、これまで200nGy/h※2としていた警報値の設定を自然放射線による影響を受けにくい500nGy/h※3に変更しました。
+
+
+※１　モニタリングポストは、２４時間連続で環境中の放射線を測定する設備で、発電所敷地内の７箇所に設置している。
+モニタリングポストでの測定は、NaIシンチレーション検出器とIC（電離箱）検出器の独立した二つの測定系統で行われている。
+※２　Gy（グレイ）は、放射線が物質に当たったときに、その物質に吸収されたエネルギーの量（吸収線量）を表す単位である。nGy/hは、1時間あたりの吸収線量を表す。また、n（ナノ）は、10億分の1を表す。
+※３　今回、警報値の設定を変更したのは、ＩＣ（電離箱）検出器であり、500ｎＧｙ/ｈとは原子力災害特別措置法第10条第1項に基づく通報基準の10分の1に相当する値のため、ＩＣ（電離箱）検出器の放射線監視への影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-S019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[モニタリングポストＮｏ．４の一時的な指示変動について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/02/23 17:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

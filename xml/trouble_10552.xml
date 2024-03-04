@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10552</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/28 17:19:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4557</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/09 13:50:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200909071025]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/28 17:19:50]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成21年９月７日、運転中の１号機タービン建屋３階の空調用設備室（管理区域）において、協力企業作業員が２台ある中央制御室換気空調系冷凍機のうち、停止中の予備機の補修作業を行っていたところ、当該冷凍機の銅配管の接続部より潤滑油が漏れ出した。
+　当社社員が現場を確認した結果、漏れた油の量は約９リットルで、潤滑油の漏れは既に停止していた。
+　なお、漏れた潤滑油に放射性物質は含まれていなかったが、潤滑油とともに、冷凍機の冷媒（フロン）約700キログラムが漏れ出したことを確認した。
+漏れた油については、拭き取り等により処理した。
+（平成21年９月８日お知らせ済み・公表区分３）
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+・８月１６日に、当該配管から潤滑油が滴下しているのを発見したことから（平成21年８月17日公表区分「その他」の不適合事象としてお知らせ済み）、９月７日に補修材を塗布する作業を実施していたこと。
+・補修作業中に、当該配管が接続部のナットから引き抜けたことにより、配管内の潤滑油と冷媒が漏えいしたこと。
+・引き抜けた当該配管の先端部（ラッパ状に広がっている部分）を確認したところ、肉厚が減少するとともに、その外径が接続部のナットの内径と同等の寸法まで小さくなっていたこと。
+・冷凍機に接続されている銅配管の通常の点検項目は、「発錆、変形、油漏れ等の有無」のみで、先端部の寸法確認等が定められていなかったこと。また、点検時の取外・取付作業における施工管理方法が明確に定められていなかったこと。
+
+３．推定原因
+　調査の結果、以下の原因により、当該配管が接続部から引き抜け、潤滑油と冷媒の漏えいに至ったものと推定した。
+・当該配管は、過去の点検において、寸法確認や接続部のナット締め付け等の施工管理が十分なされていない中で、繰り返し取外・取付作業を行ったことで、先端部の外径が小さくなるとともに肉厚が減少した。
+・この状態で、冷凍機運転時の振動等の影響が加わり、配管先端部が接続部から徐々に抜け始めていたことにより、当初（８月１６日）の油滴下に至った。
+・こうした中、９月７日の補修作業で、当該配管に補修材を塗布した際に外力が加わった結果、接続部のナットから引き抜けた。
+
+４．対策
+　引き抜けた当該配管を含め、当該冷凍機で使用している同様の銅配管を全て新品と交換する。
+
+　調査結果をふまえ、今後の点検において以下の対策を実施する。
+・点検等で取り外した銅配管を再度取り付ける際は、先端部の外径が規格通りであることを確認するとともに、ナット締め付け等の施工管理を的確に行うこととし、当社が定める仕様書に明記する。
+・銅配管の接続部を取り外す際には、事前に冷凍機内部の潤滑油および冷媒を回収することとし、当社が定める仕様書に明記する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S026]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機タービン建屋における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/09 17:39:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

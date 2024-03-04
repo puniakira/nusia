@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場での点検調査結果
+（１）事象発生後に、ポンプ・駆動用電動機、ＲＩＰ－ＡＳＤ（Ｄ）の主回路及び待機状態にある１系の制御装置について、運転記録の確認、外観目視点検等を実施した結果、異常は認められなかった。
+（２）制御回路が切り替わったときの履歴データを確認した結果、以下のことが判明した。
+　［１］インバータ出力電流は、減少後に一定に定まらずに変動し、制御回路履歴データの取り込み範囲を超え増加していた。また、出力電流減少時に、インバータ直流電圧は上昇していた。このことから、出力電流変動の原因は、誤点弧（インバータ短絡）ではなく、ゲートパルスの欠相と推定された。
+　［２］波形整形回路のパルス波形は、インバータ出力電流が変化している間も正常なデータを示していたことから、不具合箇所は、波形整形回路以降と推定された。
+（３）第１回定期検査において、ＲＩＰ－ＡＳＤ（Ｄ）の制御を２系から１系（不具合発生時の制御系）に切り替え、波形整形回路及びゲートドライバについて、パルス波形測定，打振試験を実施した結果、異常は認められなかった。
+　以上のことから、波形整形回路以降で何らかの不具合によりゲートパルス欠相が発生し、「インバータ短絡」を検出するレベルまでインバータ出力電流が増加し、制御系が切り替わったものと推定された。
+２．原因調査結果
+（１）シミュレーション解析
+　シミュレーション解析の結果、１サイクルを超える２パルス以上のゲートパルス欠相を模擬した場合において、制御回路履歴データと同様な挙動が確認された。なお、誤点弧を模擬した場合には、同様な挙動は確認されなかった。
+（２）ゲートパルス欠相に至る要因の検討
+　波形整形回路以降（波形整形回路及びゲートドライバ）について、工場での調査を行った。
+　ａ．波形整形回路
+　工場にて外観目視点検、電気特性試験等を実施した結果、異常は認められなかった。なお、当該回路については、ノイズ等による一過性の不具合が考えられるが、その時間は非常に短いためゲートパルス欠相には至らない。
+　ｂ．ゲートドライバ（タンタルコンデンサ、水銀リレー含む）
+　工場にて外観目視点検、電気特性試験等を実施した結果、異常は認められなかった。また、構成部品について検討した結果、以下のことが判明した。
+　［１］トランジスタ、アナログＩＣについては、ノイズ等による一過性の不具合が考えられるが、その時間は非常に短いためゲートパルス欠相には至らない。
+　［２］また、アルミ電解コンデンサは、誘電体が液体であり一過性の不具合は発生しない。
+　［３］タンタルコンデンサについては、シンチレーション（放電）・セルフヒーリング（自己回復）の発生により短絡する可能性があり、これが発生するとゲートパルス欠相に至る。また、当該コンデンサのシンチレーションを模擬した試験においてもゲートパルスの欠相に至ることを確認した。しかしながら、このような場合、当該コンデンサにセルフヒーリングの痕跡が残るが、解体調査した結果、痕跡は認められず、当該コンデンサはパルス欠相の要因ではないことが確認された。
+　［４］水銀リレーについては、水銀が気化して水銀滴が接点間に付着することで、瞬時接点が接触（瞬接）する可能性があり、これが発生するとゲートドライバが停止し、サイリスタへの点弧信号が出力されなくなるため、ゲートパルス欠相に至る。また、当該水銀リレー接点の瞬接を模擬した試験においてもゲートパルスの欠相に至ることを確認した。しかしながら、当該プラントにおいてはこれまでに同様な事象の発生はなく、また水銀リレーを加熱した試験を実施しても瞬接事象が確認されていないことから、水銀リレーの瞬接事象の発生は希なものと考えられるものの一過性の不具合の可能性は明確に否定できなかった。なお加熱試験については、今後も継続実施する。
+　以上より、ゲートパルス欠相は、波形整形回路に異常はなく、水銀リレー以外のゲートドライバ構成部品には特段不具合の痕跡等がなかったことから、本事象は水銀リレーの瞬接によるものと推定される。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1893</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/27 20:54:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199803211133]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該制御装置１系において、不具合が発生した当該ゲートドライバを新品と交換した。
+（２）ＲＩＰ－ＡＳＤ全台について、水銀リレーを撤去した。（水銀リレーは、ゲートパルスが不要な場合にゲートドライバを停止させる役割を行っていたが、プラント運転中においては、ゲートドライバは常に運転状態にあるため、撤去しても問題ない。）
+（３）ゲートドライバのタンタルコンデンサは、一過性の不具合を起こす可能性を有していることから、念のため第１回定期検査時にＲＩＰ－ＡＳＤ全台について、一過性の不具合のおそれがないアルミ電解コンデンサに変更した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　７号機は、定格出力（１，３５６ＭＷｅ）にて運転中のところ、平成１０年３月２１日１１時３３分頃、中央制御室において、「ＲＩＰ－ＡＳＤ軽故障」＊警報が発生するとともに、ＲＩＰ－ＡＳＤ（Ｄ）の制御装置（２重系）が制御中の１系から待機中の２系に自動切替した。直ちに、ＲＩＰ－ＡＳＤ（Ｄ）現場制御盤を確認したところ、「制御系異常（切替）」，「制御系異常（運転継続）」，「インバータ短絡」（注）警報が発生していた。
+　なお、ＲＩＰ－ＡＳＤ（Ｄ）の制御装置は２系により正常に運転され、プラントは定格出力にて安定に運転継続された。
+＊　ＲＩＰ：原子炉冷却材再循環ポンプ（Ｒｅａｃｔｏｒ　Ｉｎｔｅｒｎａｌ　Ｐｕｍｐ）
+　　ＡＳＤ：可変周波数電源装置（Ａｄｊｕｓｔａｂｌｅ　Ｓｐｅｅｄ　Ｄｒｉｖｅ）
+（注）インバータ内での短絡又はインバータ出力電流の増加で検出される。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1997-東京-M025]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回の事象に至った原因は、以下の通りと推定される。
+（１）プラント起動後、ゲートドライバで使用している水銀リレーは、常時励磁状態でおかれていたため、水銀リレーの接点が瞬接した。
+（２）水銀リレーの瞬接によって、ゲートドライバが停止したため、ゲートパルスが欠相した。
+（３）この欠相が１サイクルを超える２パルス以上継続したため、インバータ出力電流が一定に定まらず、インバータ短絡検出レベルに至り制御回路が自動切替した。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉冷却材再循環ポンプ可変周波数電源装置（Ｄ）の制御切替について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃警報発生]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[7]]></UNITS>
+	<DENKI_OUTPUT_NBR>1356</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/27 20:54:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉冷却材再循環系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[104]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1893</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1893</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1893</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1893</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

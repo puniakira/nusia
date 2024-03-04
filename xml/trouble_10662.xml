@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10662</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/11/09 17:51:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4603</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/11/04 14:00:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091011]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の１０月１１日１８時１５分頃、巡回点検中の運転員が３台ある給水ポンプ＊１のうち、運転中のＡ－給水ポンプの排水管からの蒸気漏れを発見したため、予備機であるＣ－給水ポンプを起動したのち、Ａ－給水ポンプを停止し系統から切り離す作業（隔離）を実施しました。
+　漏れ箇所は、暖気ライン＊２への分岐箇所（Ｔ字継ぎ手）の溶接部で、その表面に周方向の長さ約８mmの割れを確認しました。放射線透過試験＊３および金属組織観察＊４を行った結果、溶接部の内面には溶け込み不足があり、割れはその箇所から外面に向かって貫通しており、破面には高サイクル疲労の特徴である組織状模様が確認されました。また、排水管の継ぎ手周辺を点検したところ、排水管を固定するＵボルトが緩んでいることが確認され、その影響を評価した結果、給水ポンプのミニマムフロー運転＊５時における振動で、当該溶接部に繰り返し応力が作用し疲労割れが発生する可能性があることがわかりました。
+　これらのことから、当該溶接部の内面にある溶け込み不足と、Uボルトの緩みにより生じた給水ポンプのミニマムフロー運転時の繰り返し応力が相まって疲労割れが発生し、貫通したものと推定しました。
+対策として、当該排水管を固定するＵボルトのナットを１つから２つに増やし、緩みの発生を防止するとともに、定検毎に緩みがないことを確認することとしました。また、給水ポンプの振動の影響が小さくなるよう、暖気ライン分岐箇所を排水管下流側に変更し、変更後のミニマムフロー運転時に振動を測定して、問題がないことを確認しました。さらに、継ぎ手の溶接形状を差し込みタイプから、溶け込み不足が生じにくくかつ応力に強い突き合わせタイプに変更しました。
+　なお、ＢおよびＣ－給水ポンプの排水管については、放射線透過試験を実施し割れがないことやＵボルトに緩みがないことを確認しましたが、念のため、次回定期検査時にＡ－給水ポンプと同様の対策を実施することとします。
+本事象によるプラントの運転への影響はありませんでした。
+
+＊１ 蒸気発生器へ水を供給するポンプ。美浜２号機には３台（Ａ，Ｂ，Ｃ）あり、原子炉運転中は２台が運転、１台は予備機として停止している（待機状態）。
+＊２ 初期起動時に系統水（高温）とポンプ内部水（常温）との温度差による熱影響を緩和させるため、ポンプを暖めるための系統。（通常運転中は使用していない）
+＊３ 検査対象物を透過する放射線の強度分布を画像化することにより、検査対象物の内部構造等を検査する手法。
+＊４ 肉眼あるいは低倍率の拡大鏡（２０倍程度まで）を使用して金属組織を観察する試験。
+＊５ ポンプを運転するために最低流量を確保した運転のこと。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ａ－給水ポンプ排水管からの蒸気漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/09 17:51:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

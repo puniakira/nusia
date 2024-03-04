@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１　状況調査結果
+１．１　事象発生時の状況調査結果
+ 事象発生時のＡＰＲＭ（Ｂ）を含む核計装モニタ装置(※4)（Ｂ）及び関連する装置の状況は以下のとおり。
+（１）核計装モニタ装置（Ｂ）
+　ア．ＬＰＲＭ(※5)／ＡＰＲＭ（Ｂ１）ユニット
+　事象発生直後に，運転員が中央制御室に設置されている核計装モニタ装置（Ｂ）を確認したところ，ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニット画面に「システム　イニシャライズ(※6)中」が表示されていた。
+  
+　イ．ＬＰＲＭ（Ｂ２）～（Ｂ４）ユニット
+　保修員がＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットのイニシャライズ中に，ＬＰＲＭ（Ｂ２）～（Ｂ４）ユニットの各ユニット画面にてＬＰＲＭ全チャンネルの指示値に異常のないこと，及び異常診断（故障履歴）に異常表示がないことを確認した。
+
+（２）関連する装置
+　保修員がＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットのイニシャライズ中に，以下の状況を確認した。
+　ア．制御棒引抜監視装置(※7)（以下，「ＭＲＢＭ」という。）（Ａ）及び（Ｂ）ユニット
+　両ユニットとも，ユニット画面の異常診断（故障履歴）にて「警報　ＡＰＲＭ（区分(※8)２）伝送エラー（断線）」を表示していた。
+
+　イ．伝送ユニット（以下，「ＤＣＦ」という。）（Ｂ）
+　ユニット前面にて「軽故障」ランプが点灯していたため，ユニット内のカードランプを確認したところ，「ＡＰＲＭ－ＤＣＦ間伝送タイムアウト」が発生していた。
+
+　上記調査結果より，核計装モニタ装置（Ｂ）においては，ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットのイニシャライズ以外に異常は認められなかった。また，関連する装置の異常は，当該ユニットがイニシャライズ中のために発生したものであるため，本事象はＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットの異常により発生したものと判断し，当該ユニットを予備品へ取り替えることとした。
+
+１．２　現地調査結果
+　ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットの取り外し前に，当該ユニットを外観目視にて確認したところ異常は認められなかった。また，接続されているケーブル及びコネクタについても，異常（変色，変形，緩み）がないことを確認した。
+
+　当該ユニット取り外し後に，ユニット内部を目視にて確認したところ，異常は認められなかった。
+
+　以上の調査後，ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットを予備品に取り替え，定期事業者検査にて機能確認を行った後，平成１９年７月８日午前１１時４６分より出力上昇を行い，７月９日午後１時０５分に定格熱出力一定運転における運転管理目標値（３，９２２ＭＷｔ）に復帰した。
+
+２　原因調査
+　取り外したＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットの原因調査のため，ユニット製造メーカの工場にて，当該ユニットを接続した実機模擬試験装置を構成させ，事象再現確認を実施したところ，イニシャライズが１回発生した。
+　
+　中央演算処理装置（以下，「ＣＰＵ」という。）のメモリダンプの履歴(※9)から，ウォッチドックタイマー(※10)（以下，「ＷＤＴ」という。）エラー信号により，イニシャライズが発生したことが判明した。また，ＷＤＴエラー信号は，計２回発生していることが確認されたが，この内の１回は今回の事象再現確認時に発生したものであるため，それ以前にも１回発生していることが確認された。なお，メモリダンプの履歴には，ソフトウェアの処理情報に異常がないことが確認された。
+
+　よって，ＡＰＲＭ（Ｂ）動作不能に関しては，状況調査結果及び工場での事象再現確認結果から，ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットのイニシャライズによるものと判明したため，イニシャライズに至った原因究明のための要因分析表を作成し，以下のイニシャライズ発生要因について調査を行った。
+
+２．１　ＣＰＵの異常処理(※11)
+　ＣＰＵの異常処理によりイニシャライズが発生する。メモリダンプの履歴にてＣＰＵの異常処理がなかったかを確認した結果，異常処理の履歴がないことを確認した。
+
+２．２　電源の異常
+　電源の異常（電源の瞬停）によりイニシャライズが発生する。電源異常に至る以下の要因について調査を実施した。
+（１）ユニット外部の電源異常　　　　
+　ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットと同じ外部電源により動作しているＬＰＲＭ（Ｂ２）～（Ｂ４）ユニットに異常がないことから，ユニット外部の電源に異常がなかったことを確認した。
+
+（２）ユニット内部の電源異常
+　ユニット内部の電源基板の単体試験及び電源電圧を変動（電源異常の自己診断許容値：定格±１０％以内）させた試験時のＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットの動作状況を確認した結果，異常は認められなかった。
+
+２．３　ＷＤＴエラー信号発生
+　ＷＤＴエラー信号発生によりイニシャライズが発生する。ＷＤＴエラー信号の発生に至る以下の要因について調査を実施した。
+（１）ソフトウェア不良
+　ソフトウェア不良の場合，ソフトウェアが正常に動作しなくなり，ＷＤＴリセット信号が発信せず，ＷＤＴエラー信号が発生する可能性があるが，設計時において，ソフトウェアの検証及び妥当性確認を実施しており，１０年以上の使用実績があることを確認した。
+
+（２）伝送処理基板不良
+　ＣＰＵ基板からのデータをＭＲＢＭ及びＤＣＦへ伝送処理する伝送処理基板が不良の場合，ソフトウェアが正常に動作しなくなり，ＷＤＴリセット信号が発信せず，ＷＤＴエラー信号が発生する可能性があるが，２．３（１）項よりソフトウェアは正常であること，及び基板単体試験の結果，全ての判定基準を満足していることを確認した。
+
+（３）ＣＰＵ基板不良
+　ＣＰＵ基板不良の場合，ソフトウェアが正常に動作しなくなり，ＷＤＴリセット信号が発信せず，ＷＤＴエラー信号が発生する可能性があるが，２．３（１）項よりソフトウェアは正常であること，及び基板単体試験の結果，全ての判定基準を満足していることを確認した。
+
+　ＷＤＴ回路は，通常約５０ｍｓの間隔でＷＤＴリセット信号を発信しており，その状態をＷＤＴ素子で監視している。この信号が約２２４ｍｓの間，ＷＤＴ素子に受信されない場合，ＷＤＴ素子からＷＤＴエラー信号を発生する。
+
+　メモリダンプの履歴より，ＷＤＴリセット信号は正常な間隔で発信されているにもかかわらず，ＷＤＴリセット信号発信から約２６ｍｓ後にＷＤＴエラー信号が発生していることが確認された。このため，ＷＤＴエラー信号が発生した要因の特定を以下のとおり実施した。
+　ア．ＣＰＵ不良
+　ＣＰＵが不良の場合，ソフトウェアが正常に動作しなくなり，ＷＤＴリセット信号を発信できなくなるが，メモリダンプの履歴からはＷＤＴリセット信号が定期的に発信されていることを確認した。　　　
+
+　イ．ＣＰＵチップセット(※12)不良
+　ＣＰＵチップセットが不良の場合，ＣＰＵチップセットはＣＰＵと連携して動作していることから，ソフトウェアが正常に動作しなくなり，ＷＤＴリセット信号が発信できなくなるが，メモリダンプの履歴からはＷＤＴリセット信号が定期的に発信されていることを確認した。　
+
+　ウ．クロック素子(※13)不良
+　クロック素子が不良の場合，ＣＰＵが動作しなくなり，ＷＤＴリセット信号が発信できなくなるが，メモリダンプの履歴からはＷＤＴリセット信号が定期的に発信されていることを確認した。
+
+　エ．ＰＬＤ素子(※14)不良
+　ＰＬＤ素子が不良の場合，クロック素子からＣＰＵチップセットまでのＷＤＴリセット信号が定期的に発信されていても，ＷＤＴ素子にＷＤＴリセット信号が発信されないため，ＷＤＴエラー信号が発生する。
+　しかし，メモリダンプの履歴では，事象発生時のＰＬＤ素子の異常の有無は残らないため，確認できなかった。
+　なお，強制的にＷＤＴエラー信号を発生させる試験（以下，「強制試験」という。）において異常はなく，ＷＤＴリセット信号の波形も異常は認められなかった。　　　
+
+　オ．ＷＤＴ素子不良
+　ＷＤＴ素子が不良の場合，クロック素子からＰＬＤ素子までのＷＤＴリセット信号が定期的に発信されていても，ＷＤＴエラー信号が発生する。
+　しかし，メモリダンプの履歴では，事象発生時のＷＤＴ素子の異常の有無は残らないため，確認できなかった。
+　なお，強制試験において異常はなく，ＷＤＴエラー信号の波形も異常は認められなかった。　　　
+
+　カ．ノイズ影響　　
+　ノイズにより，ＷＤＴリセット信号及びＷＤＴエラー信号に影響を与える可能性がある。ノイズの影響がある場合，クロック素子からＣＰＵチップセットの間のＷＤＴリセット信号にも影響がでるが,ア～ウの調査結果からクロック素子からＣＰＵチップセットの間は正常に動作していた。　　
+　なお，強制試験におけるＷＤＴリセット信号及びＷＤＴエラー信号の波形の確認において，ノイズがないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9216</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/03/11 13:59:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第２７条の２　計測及び制御設備（５号炉）第１項
+（１）７月５日　午前８時５８分：原子炉平均出力モニタ（Ｂ）動作不能
+　　　（運転上の制限の逸脱）
+（２）７月５日　午前９時００分：原子炉平均出力モニタ（Ｂ）バイパス
+　　　（運転上の制限内へ復帰）
+（３）７月５日　午前１１時０７分：炉心流量急減信号の動作可能であるべきチャンネル数が３チャンネルであることを確認
+　　　（運転上の制限の逸脱）
+（４）７月５日　午後０時００分：出力降下開始
+　　　（保安規定の要求に基づく措置）
+（５）７月５日　午後０時４１分：原子炉熱出力が７５％未満であることを確認
+　　　（運転上の制限内へ復帰）
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3942</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/08/22 11:06:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707050858]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　本事象は，ＣＰＵ基板内に取り付けられているＰＬＤ素子とＷＤＴ素子のいずれかの故障であると推定した。対応措置としては，動作不能期間を最短とするため，ＰＬＤ素子とＷＤＴ素子を含む，動作不能となったＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットを，予備品に取り替えた。
+
+　なお，５号機の安全保護系については，区分１～４の内２区分が動作した場合にスクラムする構成（２ ｏｕｔ ｏｆ ４）となっている。この４区分の内，１区分が故障又は点検により動作不能となった場合には，それを除外し，残りの３区分の内，２区分が動作すればスクラムする構成（２ ｏｕｔ ｏｆ ３）としており，本事象のような単一故障も想定した設計となっていることから，本事象に鑑みた設備設計面での措置は，上述の予備品への取替にて十分な対策が講じられている。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/03/11 13:59:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所５号機（定格電気出力１，２６７ＭＷｅ）は，定格熱出力一定で調整運転中（電気出力１，３０８ＭＷｅ）のところ，平成１９年７月５日午前８時５８分，一括警報「ＮＭＳ(※1)」が発生した。警報確認画面を確認したところ，「ＡＰＲＭ（Ｂ）軽故障」であった。
+
+　発電指令課長は，系統トレンド画面にてＡＰＲＭ（Ｂ）チャンネルのデジタル指示を確認したところ，通常わずかに振れている指示が一定状態であったことから，全４チャンネルの内１チャンネルについて動作不能であると判断し，午前８時５８分に原子炉施設保安規定（以下，「保安規定」という。）に定める運転上の制限逸脱を宣言した。午前９時００分，ＡＰＲＭ（Ｂ）チャンネルをバイパス(※2)する操作を行ったことから，同時刻，発電指令課長は運転上の制限逸脱からの復帰を宣言した。
+
+　原因調査を進める中で，保安規定上４チャンネルが動作可能であることが要求されている「炉心流量急減(※3)」の信号についても，本事象の発生により，１チャンネルが動作不能であることを確認したことから，発電指令課長は同日午前１１時０７分，保安規定に定める運転上の制限からの逸脱を宣言した。
+
+　その後，保安規定で要求される運転上の制限を逸脱した際の措置として，４時間以内に原子炉熱出力を７５％未満にするため，同日午後０時００分から出力降下を開始し，午後０時４０分に出力降下を完了した。（熱出力２，８４１ＭＷｔ，電気出力９１８ＭＷｅ）
+ 
+　この出力抑制措置に伴い，発電指令課長は同日午後０時４１分，運転上の制限逸脱からの復帰を宣言した。
+
+　なお，排気筒モニタ，モニタリングポストの指示値に異常はなく，本事象に伴う外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-T008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果，ＣＰＵ基板単体試験，強制試験及び波形確認において異常が確認されなかったが，メモリダンプの履歴からＷＤＴリセット信号は，クロック素子～ＣＰＵチップセットまでは正常であるにもかかわらず，ＷＤＴエラー信号が発生していることが確認された。したがって，メモリダンプの履歴では確認できないＣＰＵ基板内のＰＬＤ素子とＷＤＴ素子のいずれかの故障によりＷＤＴエラー信号が発生し，ＬＰＲＭ／ＡＰＲＭ（Ｂ１）ユニットがイニシャライズされたものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[運転上の制限逸脱による出力抑制措置について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1308</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/08/24 18:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ＣＰＵ基板]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9216</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[核計装系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[124]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[21]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力抑制]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>9216</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[再評価を実施した結果，影響の度合いは小さく，評価基準値を十分満足しており，構造強度に問題がなく，安全上の問題がないことを確認した。（別紙１参照）
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9798</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[199]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/09/23 10:26:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4219</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/06/02 10:53:52]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080410]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(１）当該メーカにおける再発防止対策
+・当該計算機プログラムで誤りのあった補助プログラムに関して，プログラム間の受け渡しデータの整合性チェックシートを作成し，符号の反転処理以外に不整合がないことを確認した。また，その他の主，補助プログラムに問題のないことを確認した。
+・プログラム改良に伴う検証作業においては，専門的な知識を有する技術者による評価会議を引き続き実施し，プログラム間の受け渡しデータの整合性を含め検証する。
+・今後の計算機プログラムの検証においては，今回作成したプログラム間の受け渡しデータの整合性チェックシート等を作成・運用し，社内の規格にも定める。
+
+（２）当社における再発防止対策
+・許認可に係る解析において次の事項を実施することを当社の社内マニュアルに規定し，遂行する。
+? 使用実績を有する計算機プログラムについても，使用実績の有無のみでなく，メーカがどのような検証を行ったかまで踏み込んで確認する。
+? 以下の事項を当社の調達要求事項として購入仕様書等に明記し，予めメーカに伝達する。
+a.使用する計算機プログラムについては事前に検証を行ったものであり，検証方法および検証結果の記録を提出できるものに限ること
+b.当社は設計検証の一部としてその記録を確認すること
+
+・当該メーカが行うこととした今回の対策が，品質マネジメントシステムに反映され，実施されていることを監査等で確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/09/23 10:26:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（１）経　緯
+・東京電力柏崎刈羽原子力発電所７号機における配管の構造強度評価結果の一部が誤っていることが確認された。
+・構造強度評価結果が誤っていた原因は，解析を実施したメーカの計算機プログラムの一部に問題があったものである。この計算機プログラムは，当社女川原子力発電所３号機の主蒸気系配管解析にも使用されていたことから，プログラムのデータ処理を修正したうえで，配管の構造強度を再評価した結果，誤りの影響は小さく，評価基準値を十分満足していることを確認した。
+・このたびの事象を踏まえ，４月10日，原子力安全・保安院から，当該メーカが過去に実施した構造強度評価に関して，問題のあった計算機プログラムのデータ処理を修正したうえ，構造強度の再評価を実施し報告すること，ならびに根本的な原因究明と再発防止対策について併せて報告する旨の指示文書を受領した。
+
+（２）影響範囲
+今回の不適合事象に係る影響範囲は以下のとおりである。
+・昭和55年に旧告示501号が制定された以降のクラス１配管（旧告示第１種管）の分岐部を含む応力解析
+（旧告示制定により、クラス１配管（旧告示第１種管）の分岐部の応力算定について、モーメントの符号の扱いについて規定された。）
+・平成6年に旧告示501号が改正された以降のクラス２配管（旧告示第３種管）の分岐部を含む応力解析
+（旧告示改正により、クラス２配管（旧告示第３種管）の分岐部の応力算定について、モーメントの符号の扱いについて規定された。）
+
+（３）指示文書への対応
+・ 原子力安全・保安院からの指示に基づき，当該メーカが上記影響範囲において実施した女川３号機工事計画認可申請書添付書類（第４回分割申請分，平成９年１０月認可）に記載の主蒸気系配管のうちの１モデル（クラス２配管）の配管分岐部の一次応力評価について，構造強度評価の再評価を実施した。
+・ 根本的な原因究明を行い，再発防止対策の検討を実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東北-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）当該メーカにおける調査結果
+・昭和50年に現在の計算機プログラムの原型が完成し，複数の主プログラムとその主プログラム間のデータ授受のための補助プログラムから構成されている。（別紙２参照）
+・昭和55年に告示501号が制定され，配管分岐部の評価式が新たに規定されたことから，計算機プログラムの必要な改良を実施した。その際，同告示の規定を反映するために，補助プログラムに符号を反転させる処理が必要であったが，処理されなかった。
+・計算機プログラムの改良後の検証作業においても，符号を反転させる処理が抜けていることを確認できなかった。
+
+（２）当社における調査結果
+・女川３号機工事計画認可申請書作成当時は，使用する計算機プログラムが十分な使用実績があることをもって，プログラムが適正であると判断したため，本不適合を発見できなかったものと考える。
+・現状の当社による許認可に係る解析業務の検証においても，既に使用実績を有する計算機プログラムは，その使用実績の有無確認をもって評価としている場合があり，メーカにおいて十分な検証がなされていることまでの確認は徹底されていないため，現状のままでは，今回の事象は，当社では発見できない恐れがある。
+
+（３）根本的な原因究明の結果
+当該メーカにおける以下の対応が不十分であった。
+・計算機プログラム作成業務において，プログラム間の受け渡しデータの仕様（単位，桁数，符号）等を明確にして，整合性を確認する具体的な要領が不明確であった。
+・プログラム検証業務において，プログラム間の受け渡しデータの整合性確認の方法・結果に対する検討が不十分であった。
+・告示等の応力評価の考え方や計算式が変更された時の計算機プログラムに対する影響評価，検討が不十分であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[配管の構造強度評価結果の一部誤りに関する再評価結果および原因と再発防止対策]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/06/03 11:15:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9798</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9798</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9798</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

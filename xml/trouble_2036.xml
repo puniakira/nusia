@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地調査結果
+（１）供給電圧の測定を行った結果、供給電圧の異常は認められなかった。
+（２）電動機の外観点検を行った結果、異常は認められず、サーマルリレーも作動していなかったことから、過負荷運転されていないことを確認した。
+（３）ホイスト用の電源ケーブルの断線、外傷の有無、及び電源盤、分電盤等の端子台の接続状況について外観点検を行った結果、異常は認められなかった。
+（４）主回路、制御回路、故障検出回路について、インターロックの確認および再現試験を行い、異常のないことを確認した。また、再現試験を実施した結果、１、２号機用取扱工具を吊ってホイストを下降中、低速から高速へ切り替えた際に、荷重変動により、ホイスト吊り荷の荷重がＳＦＰクレーンのスラックケーブル設定値に達し、チャタリングが発生することを確認した。
+　なお、２０８体目に発生した「クロスチェック異常」警報※の詳細警報は、「ホイスト運転中不一致」であった。
+　※：荷重監視装置は、Ａ系統とＢ系統の２系統で構成（２重化）されており、両系統の運転状況等を示す信号を荷重監視装置内のクロスチェック機能部でチェックし、一致していない場合に「クロスチェック異常」警報を発信し、ホイストを停止することにより、信頼性を向上させている。
+　以上のことから、スラックケーブル設定値と１、２号機用取扱工具の水中重量が接近していたため、ホイスト速度の切り替え時に生じる荷重変動により、断続的にスラックケーブルが作動し、チャタリングが発生したものと推定される。
+２．スラックケーブル設定値に関する要因調査
+（１）１、２号機用取扱工具は、１、２号機の使用済燃料構内移送専用に製作したため、燃料取扱機能のみとし、３号機用取扱工具に取り付けられている回転ベアリングは取り付けられていないことから、１、２号機用取扱工具の水中重量は約１７０ｋｇで、３号機用取扱工具の水中重量約２２０ｋｇに比べ、約５０ｋｇの重量差が生じていた。
+（２）１、２号機用取扱工具の水中重量は約１７０ｋｇであり、スラックケーブル設定値（約１６０ｋｇ）に対し、約１０ｋｇの余裕があることを確認しており、ホイスト動作中、ホイスト吊り荷重がスラックケーブル設定値以下となれば、ホイストが停止するという安全側の設定であるため、特に変更の必要性はないと判断していた。
+　しかし、ホイスト速度の切り替え時に生じる荷重変動に対する検討がなされていなかったことから、チャタリングによるホイスト動作の不調につながるとの認識が不十分であった。
+（３）燃料移送作業開始前にＳＦＰクレーン、使用済燃料取扱工具単体の使用前点検を実施して問題のないことを確認していたが、１、２号機用取扱工具を吊った状態での動作確認を実施していなかったことから、チャタリング発生を事前に予見することができなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[221]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2036</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/25 14:17:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2642</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200008281050]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．スラックケーブル設定値を１、２号機使用済燃料取扱時、３号機使用済燃料取扱時とも共通の値とし、約１１０ｋｇに変更する。
+２．燃料取扱作業開始前の事前確認において、燃料取扱設備、工具等の単体の確認だけでなく、可能な限り実際の使用状況に応じた確認を実施することとする。この旨を作業要領書に明記する。
+３．ワンポイントレッスンを作成し、燃料取扱作業前にスラックケーブル設定値変更の経緯について周知徹底を図る。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方３号機では、使用済燃料ピット貯蔵能力増強工事において、Ｂピットの工事完了に伴い、平成１２年８月２６日から、使用済燃料ピットクレーン（以下、ＳＦＰクレーンという）によりＡピットからＢピットに使用済燃料を移送していた。移送予定の使用済燃料２９９体のうち２０９体目の使用済燃料を移送するため、Ａピット側で１，２号機用使用済燃料取扱工具（以下、取扱工具という）の位置決め中の８月２８日１０時５０分、ＳＦＰクレーンが不調となり作業を中断した。現場調査の結果、当該クレーンのホイストに設置している燃料の着底を検知し、ホイストを停止するための機能（スラックケーブル）が作動したものであることが判明した。
+　なお、本事象による環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-四国-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［保守不完全］
+　１、２号機用と３号機用取扱工具の水中重量が相異しており、１、２号機用取扱工具の水中重量とスラックケーブル設定値が接近していたため、ホイスト速度の切り替え時に生じる荷重変動により、断続的にスラックケーブルが作動してチャタリングが発生したものと推定される。
+　また、「クロスチェック異常（ホイスト運転中不一致）」警報の発信については、チャタリングに伴うホイスト起動信号が瞬時の「入」「切」の繰り返しとなることから、荷重監視装置への入力信号用補助リレーの接点の動作タイミングにずれが生じ、いずれか一方の接点だけが動作することにより、ホイスト運転中の入力信号に不整合が生じ、警報を発信したものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[使用済燃料ピットクレーンの不調について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報の発信）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>890</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/25 14:17:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[燃料取扱装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[221]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2036</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2036</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2036</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2036</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[燃料設備]]></SETSUBI_NAME>
+		<SORT_NO>6</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

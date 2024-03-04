@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8035</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/03/13 16:58:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3397</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/12/22 19:25:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200512212026]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/03/13 16:58:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成17年12月21日午後８時26分頃、1,2号機廃棄物処理設備建屋ボイラ棟地下２階（非管理区域）にある、ボイラのサンプリング水等を溜めて排水するポンプおよびタンクが設置されているピット内に水が流入したことを示す警報が発生したため、当該設備の委託運転員＊が現場を確認したところ、ピット内に水（非放射性）が溜まっていることを確認した。流入した量については約40リットルと考え、当社へ連絡の上、22日に排水することとした。
+　本日、ピット内の水の流入量を再確認したところ、約520リットルであることを当社社員が確認した。（添付「概略図」参照）
+　水が流入した原因は、当該ポンプ軸受の潤滑水が排水配管の詰まりによりタンクに排水されず、ピット内に流入したものと推定した。
+　ピット内に溜まっていた水は、当該タンクへ排水するとともに排水配管の詰まりについては清掃を実施した。
+　なお、これによる外部への放射能の影響はなかった。
+
+　排水配管が詰まった原因について調査したところ、当該排水配管は曲がった構造になっており、錆等の汚れにより閉塞しやすくなっていたことを確認した。なお、廃棄物処理設備建屋にある他の排水ポンプの排水配管については直管構造であり、閉塞が無いことを確認した。
+
+　また、溜まり水について調査したところ、当該ピット内に溜まっていた結露水に当該ポンプ軸受潤滑水の流入水が加わったものと推定した。警報発生時の量と翌日確認したピット内の水量に相違が見られた原因については、現場を確認した当該委託運転員からの報告が「溜まり水は深さ10cm程度」と深さのみであり、過去に他のピットで結露水により警報が発生した際の排水処理量が約40リットルであったことから同程度の事象であると判断したものだった。
+
+　これらのことから、当該排水配管については閉塞しにくい直管に近い構造に変更するとともに、ピットの結露水については、計画的に確認・清掃することとする。
+　また、溜まり水等の確認および報告は、「縦×横×深さ」で確実に行うよう事例検討会で周知し、徹底する。
+
+＊：委託運転員　当社から廃棄物処理設備の運転を委託している協力会社作業員
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S084]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所1,2号機廃棄物処理設備建屋ボイラ棟内ピットへの水の流入について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/12/26 14:31:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

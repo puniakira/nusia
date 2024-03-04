@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9301</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/09/21 09:21:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3968</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/09/19 10:45:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200709151137]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１９年９月１５日 午前１１時３７分、廃棄物減溶処理装置建屋（第２建屋）（※１）地下２階の不燃物仕分け室（放射線管理区域内）において、火災報知器（煙感知器）が作動したが、直ちに現場の確認を行い火災ではないことを確認した。
+
+【時系列】
+午前１１時３７分：火災報知器作動
+午前１１時４０分：消防署に火災報知器作動の連絡・自衛消防隊消火チーム招集
+午前１１時４３分：火災でないことを確認
+午前１１時４４分：消防署に非火災報であることを連絡・自衛消防隊消火チーム招集解除
+
+【原因】
+　作業に伴って発生する粉塵により、火災報知器が誤作動しないように作業現場に監視員を配置した上で、当該火災報知器にキャップを取り付けて作業を行っていた。午前中の作業終了に伴い、キャップを取り外したところ、火災報知器が作動した。
+　取り外した当該キャップの内側を確認したところ、キャップの縁に付いていた布状の隙間材が劣化していたため、ほこりが溜まりやすい状態になっていた。
+　このため、キャップを取り外した際ほこりが舞い、火災報知器が作動したものと推定される。
+
+【再発防止対策】
+　火災報知器の誤作動防止用のキャップについて、取り付け前に隙間材が劣化していないことを確認し、劣化しているものは使用しないように徹底する。
+
+※１　廃棄物減溶処理装置建屋は、発電所で発生する低レベル放射性廃棄物の焼却焼却処理等を行う施設で、当所では第１建屋と第２建屋がある。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物減溶処理装置建屋（第２建屋）地下２階における火災報知器の作動（非火災報）について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/09/21 09:21:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

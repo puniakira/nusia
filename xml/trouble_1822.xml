@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　警報発信する要因を検討し、原因調査を実施した結果、次のとおりであった。
+（１）電源カード，リードラグカードの入出力信号の測定を実施した結果、異常な信号は認められなかった。
+　また、リードラグカードの入出力信号の測定時におけるバイステーブルカードの表示灯を確認した結果、異常な動作は認められなかった。
+（２）電源カード，リードラグカード及びバイステーブルカードについて取付状態でのタッピングを行った結果、異常な信号は認められなかった。
+　以上の調査からは異常は認められなかったが、警報発信時において、Ａ－主蒸気圧力の指示値に変化はなく、また、バイステーブルカード表示灯が点灯，消灯を繰り返していたことから、リードラグカードまたはバイステーブルカードに不良があるものと考えられたため、カードの単体試験を実施した結果、リードラグカードの出力に異常な信号が認められた。
+　このため、当該リードラグカードを工場へ持ち帰り詳細調査を実施した結果、次のとおりであった。
+　（１）　当該カードの外観目視検査の結果、汚損、発錆、変色、破損および半田はく離等の異常は認められなかった。
+　（２）　当該カードの単体試験を実施した結果、異常な信号は認められなかった。
+　（３）　通電状態タッピング検査で実施した結果、異常な信号は認められなかった。
+　（４）　温度変化を与える急冷／急加熱試験を実施した結果、異常な信号は認められなかった。
+　（５）　電源電圧を変化させる電源変動試験を実施した結果、異常な信号は認められなかった。
+　（６）　高温でのエージング試験を実施した結果、異常な信号は認められなかった。
+　（７）　５～６０℃のヒートサイクル試験（１０サイクル）を実施した結果、異常な信号は認められなかった。
+　（８）　ヒートサイクル試験と電源変動試験を合わせた複合試験を実施した結果、異常な信号は認められなかった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[215]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1822</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/22 16:16:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2388</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199611290635]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　リードラグカードおよびバイステーブルカードを取替え、異常のないことを確認し復旧した。
+]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯３号機は定格出力（１，１８０ＭＷ）運転中のところ、平成８年１１月２９日６時３５分に「工学的安全施設パーシャル作動」警報が発信した。
+（その後数回発信，復帰を繰り返したが、９時５６分以降、警報発信せず。）
+　直ちにコンピュータにより状況を確認したところ、「Ａ－主蒸気ライン圧力低安全注入作動パーシャル（３）」警報表示および「Ａ－主蒸気圧力低バイステーブルｃｈ－III　ＰＢ４６７Ａ動作」表示が確認された。
+　また、Ａ－主蒸気圧力指示値を確認したところ、I～IVチャンネル共指示値に変化はなく他のパラメータも異常は認められなかったことから、プラントには異常がなく信号ラインに異常があるものと考えられた。
+　なお、環境への影響もなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1996-関西-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　今回の警報が発信したのは、リードラグカードからの異常信号が出力されたことによるものであり、リードラグカードは偶発的な要因により故障したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[「工学的安全施設パーシャル作動」警報発信について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報発信）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/22 16:16:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[工学的安全施設作動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[215]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1822</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1822</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1822</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

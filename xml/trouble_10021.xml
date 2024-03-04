@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10021</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/17 13:39:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/10/10 14:37:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200809041630]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の概要
+  平成２０年９月４日（木）１６時３０分から１７時２０分に、宮丘モニタリングステーション（ＥＭＳ－４：以下、「宮丘ステーション」という。）の以下の測定データについて、北海道原子力環境センターへの伝送不良が発生しました。
+（伝送不良データ）
+  ・低線量率、高線量率、感雨
+  その後、本事象は宮丘ステーションに設置されているテレメータ子局（以下、「子局」という。）と発電所に設置されているテレメータ親局（以下、「親局」という。）の間の連絡に使用している通話装置※１のうち、子局の通話装置の入・切により１７時３０分に復帰しました。
+
+ ※１：通話装置
+ 点検時等に作業員が使用する親局および子局間の連絡装置（電話）。
+
+２．原因と対策
+  原因の調査を行った結果、子局と親局の回線接続器※２および親局の回線多重化ボード※３のいずれかの不具合によりデータ伝送不良が発生したものと推定しました。
+このため、対策として回線接続装置および回線多重化ボードの交換を行いました。
+
+ ※２：回線接続器
+ モニタリングステーションで収集されたデータを専用回線により送信するため、専用回線との接続を行う装置。
+ ※３：回線多重化ボード
+ 親局と子局間の通話装置を接続するための設備。
+
+
+（参　考）発電所からのデータ伝送について
+　　泊発電所では、モニタリングステーションやモニタリングポストでの環境放射
+  線などのデータをリアルタイムで北海道原子力環境センターに伝送しています。
+    さらに、これらのデータは、北海道原子力環境センターから地元自治体の役場な
+  どへ伝送され公開されているほか、北海道のホームページでも公開されています。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-北海道-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[宮丘モニタリングステーション(EMS-4)のデータ伝送不良について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/17 12:10:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

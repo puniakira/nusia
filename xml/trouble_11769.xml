@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査
+火災発生状況の聞き取りおよび照明器具の状況について調査を実施した。
+（１）現場状況聞き取り
+　　ａ．運転員がパトロール時に蛍光灯より発火を確認した。消火器を準備中に火は消
+　　　　えており、焦げ臭を確認した。
+　　ｂ．事象発生当時、蛍光灯は点灯中であった。発火を確認後、火は消え、火が消え
+　　　　た時には既に蛍光灯は消灯していたが、室内入口スイッチの「切」を実施した。
+
+（２）照明器具調査結果
+　　当該照明器具について、仕様を含め、事象発生前の点検状況について調査を行った。
+　　ａ．器具仕様　　４０Ｗ×２灯用，２００Ｖ
+　　ｂ．器具の交換履歴はなく、１７年以上使用していることを確認した。なお、蛍光
+　　　　灯の交換は平成２１年６月２５日に実施した。
+　　ｃ．外観点検実施時においては、蛍光灯に割れがなく，異常ないことを確認した。
+　　ｄ．回路の絶縁抵抗を分電盤しゃ断器より、当該器具以外を含む３２台の器具を一括
+　　　　で測定し０．２ＭΩであった。なお、測定値は電気設備技術基準で定められた値
+　　　　（対地電圧１５０Ｖ以下で０．１ＭΩ以上）以上であることを確認した。
+　　ｅ．安定器の外観点検では塵埃等の付着がないことを確認した。
+
+２．原因調査
+（１）当該安定器について分解調査を実施した。　　
+　　ａ．コイルに焦げ跡が確認され、コイル巻線に断線が確認された。焦げ跡が確認された
+　　　　部位の状況から、コイル巻線の断線は漏電によるものではなく、絶縁劣化による
+　　　　コイル巻線間のショート（コイルレアショート）が原因と推定した。
+　　ｂ．その他、構成部品（コンデンサ、絶縁材、ケーブル）においては、有意な異常は
+　　　　確認されなかったものの、絶縁材の表面に変色が確認された。これは、使用期間
+　　　　中の熱影響による変色と考えられ、今回の事象によるものではないと推定した。
+
+（２）照明器具メーカへの聞き取り調査
+　　ａ．照明器具の過去発火事例
+　　　使用年数８～３０年においてコイル巻線又はコンデンサの劣化により発煙に至った
+　　　事例があった。
+　　ｂ．照明器具設計
+　　　・日本照明器具工業会のガイド「建築物等に施設する照明器具の耐用年限」によれ
+　　　　ば、照明器具は経年により劣化が進行するため、一般的に耐用の限度は１５年と
+　　　　しているが、常時又は必要時点灯、あるいは使用温度、湿度、電源品質、汚損等
+　　　　の環境条件によっても劣化の度合いが異なる。
+　　　・使用温度環境設計は５～３５℃であり、安定器の耐用年数は温度による影響を
+　　　　受ける。
+　　　・一般的には、照明器具内の安定器やランプソケットの劣化が進むと以下の現象が
+　　　　生ずる。
+　　　　①ビニル電線の被覆が熱のために変形する。
+　　　　②コイル巻線部表面のエナメル被覆が熱劣化のために硬化し部分的にはく離が
+　　　　　発生する。
+　　　　③ランプソケットの汚損がひどい場合、クラックが発生する。
+　　ｃ．照明器具寿命末期における発火メカニズム
+　　　　照明器具メーカでは、安定器の寿命末期の現象について整理しており、主に
+　　　　絶縁物の劣化により発煙事故に至る可能性がありうるとのことだった。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[174]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11769</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:46:49]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[蛍光灯]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/07/31 15:35:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201307291849]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）短期対策
+発電所内の照明器具について劣化度合に応じて優先付けし交換を早急に行う。具体的には劣化の進行が早いとされる使用温度・湿度が高いエリアに設置の蛍光灯器具から交換を実施する。
+
+（２）長期対策
+発電所建物照明は故障対応（点灯しなくなったら交換）としてきたが、今回の事象を踏まえ、今後計画的に交換を進める。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:46:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２５年７月２９日午後６時４９分頃、定期検査中の６号機タービン建屋１階空気抽出器室において、パトロール中の当社社員が蛍光灯からの発火を発見した。このため、速やかに消防署へ連絡をするとともに、現場では、初期消火の為に消火器を準備したが、その間に火が消えていることを確認した。
+消防署による現場確認の結果、午後７時５４分に鎮火確認、午後９時１０分に火災と判定された。原因調査の結果、蛍光灯の安定器のみ焦げ跡があり、周囲への延焼はない。
+なお、けが人はおらず、外部への放射能の影響はない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[蛍光灯の長期使用（１７年以上）に伴い、コイルの絶縁物の機能が低下し、コイル巻線間のショートによる発熱により絶縁材が発火したものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６号機　タービン建屋１階空気抽出器室における蛍光灯からの発火について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[発見時刻]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>41928</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/07/31 15:35:41]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[蛍光灯]]></S_KIKI_NAME>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[安定器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11769</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[通信・照明装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[174]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11769</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11780</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/08/29 10:01:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>40780</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/08/27 10:59:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20130612]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２５年６月１２日、平成２５年度第１回保安検査において、品質マネジメントシステムの運用状況として、設計管理の状況を抜き取りで確認したところ、「Ｋ－５ ＲＰＶ（原子炉圧力容器）ヘッドスプレイベント配管設置について」において、２次マニュアルに基づき設計活動を文書化した記録として作成する“設計管理シート”が作成されていなかった。
+「Ｋ－５ ＲＰＶ（原子炉圧力容器）ヘッドスプレイベント配管設置について」に関する設計活動にかかる記録は、各種会議議事録や技術検討書等によりすべてトレースが可能であり、それらの記録を確認した結果、設計活動自体は適切に実施されていることが確認できている。
+また、他に同様のケースがないか、過去３年分の「設計件名リスト」（以下「台帳」と略す）に記載の件名について“設計管理シート”の作成状況を確認したところ、全２１５件中３件作成されていないことが確認された。これらの３件については、本不備と同様、各種会議議事録や技術検討書等により、すべてトレースが可能であり、設計活動自体は適切に実施されていることが確認できている。
+
+
+【事象が発生した原因】
+①担当者が“設計管理シート”の作成を失念した場合に、担当者以外の者がこれに気付く仕組みが弱かった。
+②２次マニュアルでは台帳にて進捗を管理するとされていたが、管理を誰が行うのかが明記されておらず、実質的に担当者のみにより行われるケースがあった。
+
+
+【対策】
+①発注仕様書の作成チェックシートに設計管理要否を記載する欄を設けることで、“設計管理シート”及び“台帳”への設計件名入力の失念を防止する対策を平成２５年７月より開始した。
+②“台帳”との照合を管理者が３ヶ月毎に実施して設計活動の進捗を的確に管理することで、“設計管理シート”の確実な作成および紛失を防止する対策を平成２５年４月より開始した。
+
+なお、現在実施している対策については、継続的に実施されていること、対策が有効に機能していることを、今後、部長が計画的に評価し有効性を確認していく。加えて、管理者および担当者双方のマニュアルに関する理解を深める取り組みを展開していく。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所５号機　設計管理における不備について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/08/29 10:01:11]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

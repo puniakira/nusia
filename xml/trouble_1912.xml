@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場状況の調査
+（１）ホットワークショップでは、東海第二発電所から撤去した燃料取替機の除却作業を行うため、仮設ハウスを２基設営し、一方でプラズマ溶断機及びガス溶断機による鋼材の切断を、他方でドライアイスを用いた塗装除去（ドライアイスブラスト）作業を行うこととしていた。仮設ハウスは、ハウス側面の下部に吸い込み口のある局所排風機と、ハウス上部に吸い込み口のある局所排風機を、２基設置していた。なお、仮設ハウス内の換気を効果的に行うため、下部の局所排風機も運転していた。
+（２）防火対策として、防炎シート養生、下部の局所排風機の吸い込み口への鉄板の養生、消火器・防火用水の配備を行っていた。
+２．火報発報時の作業
+　仮設ハウス側面下部の局所排風機吸い込み口近傍にて、プラズマ溶断作業を行っていた。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1912</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[399]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/19 13:56:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[G]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[GCR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2490</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199811200956]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）今回設置した２基の仮設ハウスのうち、一方を溶断作業（火気作業）専用、他方をドライアイスブラスト専用とし、区別する。
+（２）当該溶断作業を行う仮設ハウスについて、以下の防火養生の改善を行う。
+　［１］　局所排風機吸い込み口と火元間に十分な距離をとる。
+　［２］　局所排風機吸い込み口先端に、専用の飛び火防護用金属板を取り付ける。
+　［３］　本作業の前に、溶接・溶断火花による飛火状況の確認を行い、局所排風機吸い込み口への火花の流入がないことを確認する。
+（３）上記（２）の対策を発電所員及び協力会社に周知するとともに、今後、仮設ハウス内で行う溶接・溶断作業の工事要領書にも記載する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海発電所（平成１０年３月３１日営業運転終了）の中央制御室で、平成１０年１１月２０日（金）、９時５６分頃、「ホットワークショップＦＩＲＥ」の火報が発報した。
+　火報発報現場であるホットワークショップ（機械工作作業場）の状況を確認したところ、作業場内の仮設ハウスに接続した局所排風機内フィルタからの発煙を確認した現場の作業員が、事前に用意しておいた防火用水（バケツ１杯）をかけ、発煙を止めていた。なお、東海村消防本部により同日１１時００分に、鎮火が確認された。
+　また、局所排風機に接続された仮設ダクトは本設の排気ダクトに接続されていたが、鎮火後、本設の排気ダクト下流側に設置されているフィルタの放射性物質濃度を測定したところ、検出限界未満であり環境への影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-原電-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　仮設ハウスに設置した局所排風機のフィルタから発煙した原因は、以下のとおりと考えられる。
+（１）仮設ハウスにはドライアイスブラスト作業と溶断作業のいずれもできるように、仮設ハウスの下部にドライアイスブラスト作業用の局所排風機吸い込み口を設けていた。
+（２）この発煙した当該仮設ハウス下部の局所排風機吸い込み口は、鉄板で養生していたが、プラズマ溶断作業による火花と局所排風機吸い込み口の養生鉄板が近かったこと、及び下部の局所排風機を運転していたことから、溶断作業による火花が局所排風機吸い込み口に入った。
+（３）この火花が局所排風機のフィルタに移り、フィルタの発煙に至った。
+ホットワークショップ（機械工作作業場）での火災について中央制御室で、「ホットワークショップＦＩＲＥ」の警報が発報した。現場を確認したところ、作業場内の仮設ハウスに接続した局所排風機フィルタからの発煙を確認した現場の作業員が、事前に用意しておいた防火用水（バケツ１杯）をかけ、発煙を止めていた。発煙した当該仮設ハウス下部の局所排風機吸い込み口は、鉄板で養生していたが、プラズマ溶断作業による火花と局所排風機吸い込み口の養生鉄板が近かったこと、および下部の局所排風機を運転していたことから、溶断作業による火花が局所排風機の吸い込み口に入りフィルタに移ったものと考えられる。今回設置した２基の仮設ハウスのうち、一方を溶断作業（火気作業）専用、他方をドライアイスブラスト専用とし、区別する。また、仮設ハウスについて防火養生の改善等を実施する。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ホットワークショップ（機械工作作業場）での火災について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（火報発報）]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/19 13:56:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>16</SORT_NO>
+		<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[G]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1912</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[311]]></KIKI_CODE>
+			<TROUBLE_ID>1912</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ファン・ブロワ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1912</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[311]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[フィルタ（メッシュ細）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[310]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[310]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[フィルタ・ストレーナ装置]]></KIKI_NAME>
+					<SORT_NO>20</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1912</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1912</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

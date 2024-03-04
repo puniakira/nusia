@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　事象発生時におけるプラント状況および操作内容について，関係者への聞き取りおよび記録から調査を行った結果，以下のことが確認された。
+
+１．共通制御電源を切ってしまった「運転上の制限」の逸脱に至るまでの状況
+（１）平成19年6月29日３，４号機共通の起動用電源点検に係わる当直員は，ミーティングにより操作準備に伴う以下の内容を確認した。
+　　ａ．手順書の確認。
+　　ｂ．人員の配置を確認。
+　　ｃ．作業申請書内容の確認。　
+（２）当該操作関係者は，7月2日午前6時30分に中央制御室に集合（訓練班８名）し，ミーティングにより以下の内容を再確認した。
+　　ａ．手順書のM/C 3SA-1，M/C 3SA-2の停止手順から開始することを確認。
+　　ｂ．人員の配置の再確認。（人員の変更なし） 
+　　ｃ．注意事項周知（M/C 3SA-1，M/C 3SA-2停止後に作業申請書に関する安全処置実施する等）　　
+（３）訓練班主機操作員は，午前7時25分頃に当直長からの指示により，中央制御室にて「M/C 3SA-1」の停止操作を実施した。
+（４）訓練班主機操作員は，午前7時36分頃に当直長からの指示により，中央制御室にて「M/C 3SA-2」の停止操作を実施した。
+（５）訓練班主任は，午前7時41分頃に，訓練班補機操作員Ａ，Ｃへ「M/C 3SA-1(1B)」と「M/C 3SA-2(1B)」のしゃ断器の投入／開放用制御電源「切」（以下「オフ」という）及び操作位置からの取り外し（以下「ラックアウト」という）の実施を指示した。
+（６）訓練班補機操作員Ａ及び訓練班補機操作員Ｃは，上記操作を実施し，訓練班主任に連絡を実施した。
+（７）訓練班主任は，午前7時42分頃に，訓練班補機操作員Ａへ「起動用変圧器からの母線連絡しゃ断器4C」(以下「M/C 4C(1B)」という)の投入／開放用制御電源の「オフ」，「ラックアウト」，「M/C 4C(1B)」盤内のスペースヒーター「オフ」を電話にて指示した。また訓練班補機操作員Ｂ，Ｃには別の機器を操作するように指示した。
+（８）訓練班補機操作員Ａは，午前7時51分頃に当該機器である「M/C 4C(1B)」の投入／開放用制御電源の「オフ」，「ラックアウト」，「M/C 4C(1B)」盤内のスペースヒーター「オフ」の操作開始を訓練班主任へ電話にて連絡した。
+（９）訓練班補機操作員Ａは，午前7時51分頃に操作禁止タグと現場の名称を確認し，「M/C 4C(1B)」の投入／開放用制御電源の「オフ」操作を行うため，盤面の扉を開して正面に見えた「ＤＣ１２５Ｖ制御電源（「M/C 4C」の共通の制御電源）」(以下「M/C 4C共通制御電源」という)を「オフ」にした後，「M/C 4C(1B)」の盤面の扉を閉して，前面の状態表示ランプの確認をしたところ，停止予定のしゃ断器以外の状態表示ランプも消灯していることに気がついた。
+（１０）午前7時51分に中央制御室にて「6.9kv M/C 4C母線電圧低」他の警報が発生した。当直副長が中央制御室制御盤にて「M/C 4C」の状態確認及び負荷確認を指示し，当直長へ状況報告を実施した。　　　　
+（１１）当直副長は，現場の状態を確認するため，訓練班主任から訓練班補機操作員Ａへ操作内容を確認させたところ，M/C 4C共通制御電源を「オフ」にしたこと　が判明した。
+（１２）当直長の指示により訓練班主任は，訓練班補機操作員Ａ，Ｂ，Ｃに電源切替操作の中止を指示し，訓練班補機操作員Ａ，Ｂ，Ｃは電源切替の操作を中止した。
+
+２．操作面の要因について　　　　　　　　
+　「M/C 4C(1B)」しゃ断器の操作について聞き取り調査を行った結果，以下のことが確認された。
+ａ．訓練班補機操作員Ａは，「M/C４C(1B)」の制御盤と操作禁止タグを照合し，扉を開け正面に見えた「DC125V制御電源」を確認し「M/C４C(1B）」の制御電源と思いこみ「オフ」操作した。
+　尚，訓練班補機操作員Ａはこの操作の直前に，３号機にて「M/C 3SA-2(1B)」の停止操作を実施しており，投入／開放用制御電源が扉を開けた正面にあるタイプのしゃ断器操作を行っていた。
+ｂ．訓練班補機操作員Ａは，M/Cしゃ断器の投入／開放用制御電源の「オフ」およびラックアウト操作を，過去に行った経験があり，十分実施可能な操作であると訓練班主任は認識していた。
+ｃ．「M/C 4C(1B)」の投入／開放用制御電源の「オフ」およびラックアウト操作は，点検周期表に基づき４定検に１度実施されるM/C点検時に行われる操作であり，操作する機会が少なかったため，訓練班補機操作員Ａが当該の「M/C 4C(1B)しゃ断器」の電源停止操作を行った経験はなかった。
+
+３．設備面の要因について　　　　　　　　　　
+　「M/C 4C(1B)」の，制御盤内における設備の状態について調査を行った結果，以下のことが確認された。
+ａ．「M/C 4C(1B）」制御盤内には，誤って操作したM/C 4C共通制御電源と投入／開放用制御電源の２種類の制御電源が存在していた。M/C 4C共通制御電源は扉を開けた時，見えやすい位置に設置されていたが，投入／開放用制御電源は，しゃ断器盤の扉に付いており，扉を開けた時に見えづらい場所に設置されていた。
+ｂ．３号機と４号機の，M/Cの制御電源の位置に設備的な違いがあった。（３号機の場合，M/Cの共通制御電源は，操作しにくい場所に設置されている。）
+ｃ．「M/C 4C(1B）」のしゃ断器盤内には，M/C 4C共通制御電源と投入／開放用制御電源の２種類が存在することについて，操作員に注意を促すための掲示等はなかった。
+ｄ．「M/C 4C(1B）」の共通制御電源であるM/C 4C共通制御電源の銘板には「DC125V制御電源」と表示，投入／開放用制御電源の銘板には「制御」の表示となっていた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9108</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/10/10 16:27:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　４号機（沸騰水型，定格出力110万キロワット）は，定格熱出力一定運転中のところ，平成19年７月２日，３，４号機共通の起動用電源の点検準備作業を実施中の，午前７時51分頃，誤って４号機の非常用電源の共通制御電源を切ってしまった。
+　このため，４号機の非常用電源に負荷としてつながっている低圧注水系（Ａ系），低圧炉心スプレイ系および非常用ディーゼル発電機（Ａ系）が動作可能な状態にないことから，午前８時13分，保安規定第39条および第60条に定める「運転上の制限」を満足していないと判断した。
+　また，復旧手順を確認していたところ，非常用ディーゼル発電機計装が動作可能な状態にないことを確認したことから，午後０時10分，保安規定第27条に定める「運転上の制限」を満足していないと判断した。
+　保安規定にもとづき，要求される措置を実施していたが，４号機の非常用電源の共通制御電源を復旧したことから，午後０時51分，「運転上の制限」満足していない状態から復帰したと判断した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3872</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/04 12:27:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707020813]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）M/C 4C共通制御電源である制御電源については『M/C 4C共通DC125V制御電源』，投入／開放用の制御電源「制御」については『M/C 4C(1B)しゃ断器制御電源』と表示し，明確に識別した。
+（２）『M/C』の共通制御電源及び投入／開放用制御電源位置について，運転員に対し現場にて事例検討会を実施した。
+（３）『M/C4C』のラックアウトおよび投入／開放用制御電源の「オフ」操作に使用する手順書の操作項目に，「M/C 4C(1B)受電しゃ断器」内に「制御電源のスイッチが２つあるため注意する」旨を記載する。また，現場の銘板名称と手順書に記載の名称を統一する。
+（４）「『M/C』の共通制御電源」と「投入／開放用制御電源」が混在する受電しゃ断器盤内については，しゃ断器盤扉に制御電源の配置図を掲示した。　
+（５）本店主管部門は，法令上の報告事象・保安規定違反などの重大な不適合事象の水平展開については，速やか且つ確実に各サイトに周知し，是正処置を実施することとした。
+（６）今後の操作員の育成に当たっては，補機操作員の要員化研修中に実施する研修項目に，同一ユニット内にM/C共通制御電源と投入／開放用制御電源が混在する設備について研修する項目を追加する。　
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/10/10 16:27:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　４号機（沸騰水型，定格出力110万キロワット）は，定格熱出力一定運転中のところ，平成19年７月２日，３，４号機共通の起動用電源の点検準備作業を実施中の，午前７時51分頃，誤って４号機の非常用電源の共通制御電源を切ってしまった。
+　このため，４号機の非常用電源に負荷としてつながっている低圧注水系（Ａ系），低圧炉心スプレイ系および非常用ディーゼル発電機（Ａ系）が動作可能な状態にないことから，午前８時13分，保安規定第39条および第60条に定める「運転上の制限」を満足していないと判断した。
+　また，復旧手順を確認していたところ，非常用ディーゼル発電機計装が動作可能な状態にないことを確認したことから，午後０時10分，保安規定第27条に定める「運転上の制限」を満足していないと判断した。
+　保安規定にもとづき，要求される措置を実施していたが，４号機の非常用電源の共通制御電源を復旧したことから，午後０時51分，「運転上の制限」満足していない状態から復帰したと判断した。　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　訓練班補機操作員Ａは，４号機の制御電源を操作する前に３号機の受電しゃ断器の制御電源を操作していた。３号機の受電しゃ断器の制御電源は，扉を開けた正面に投入／開放用制御電源が設置されているタイプであったことから，４号機の受電しゃ断器についても同様のタイプであると思い込んでしまった結果，疑問を持たずに操作を行ってしまったものと推定される（４号機の受電しゃ断器においては投入／開放用制御電源は扉に設置されており，扉を開けた正面の電源は共通制御電源であった）。
+　また，福島第一原子力発電所４号機において，以前同様に共通制御電源を誤開放してしまった不適合が発生していたが，その際の対策（共通制御電源と投入／開放用制御電源を明確に識別すること，運転員に対し現場で研修を行い制御電源の配置を確認することなど）が水平展開されていなかったことから，再発を引き起こしやすい状況にあったと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[所内非常用母線制御電源誤操作による運転上の制限の逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限からの逸脱を判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1105</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/07/06 10:56:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[遮断器・断路器*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9108</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9108</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

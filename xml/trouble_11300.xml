@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11300</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/05/07 13:51:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>23208</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/05/05 05:07:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201103161440]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　当所においては、定期的に各建屋の排気口および主排気筒からの排気について放射能測定を実施している。
+　平成23年３月16日午後２時40分頃、定期検査中の３号機サービス建屋排気口および定格熱出力一定運転中の５号機主排気筒放射線モニタのサンプリング測定において、３号機サービス建屋排気口のサンプリング結果として、ヨウ素131が検出限界値4.6×10-9ベクレル／cm3をわずかに超えるごく微量（5.1×10-9ベクレル／cm3）を検出、５号機主排気筒放射線モニタのサンプリング結果として、ヨウ素131が検出限界値3.6×10-9ベクレル／cm3をわずかに超える量（1.9×10-8ベクレル／cm3）を検出した。
+
+（評価結果）
+　当該測定データをもとに周辺監視区域外における濃度を評価したところ、約４×10-15ベクレル／cm3であり、この値は空気中の濃度限度５×10-６ベクレル／cm3（告示濃度）に比べ約12億分の１と極めて低い値であった。また、今回確認されたヨウ素から受ける放射線量は、約２×10-８ミリシーベルトであり、自然界から１年間に受ける放射線量2.4ミリシーベルトの約１億分の１であり、胸のエックス線検診（１回）で受ける放射線量（0.05ミリシーベルト）と比べても十分低い値である。
+
+（外部への影響）
+　発電所敷地境界に設置され空間線量率を測定するモニタリングポストやダスト放射線モニタの指示値は通常の変動の範囲内であり、周辺環境への影響はない。
+
+
+＜対応状況＞
+　昨日（３月15日）、３号機サービス建屋において、東北地方太平洋沖地震で被災した福島の原子力発電所の応援で対応した当所所員（30名）について、当所に戻った際の体表面等に放射性物質が付着していないかの検査を実施しており、また、５号機のタービン建屋大物搬入口において、同様に福島の原子力発電所で使用した資機材の除染作業を行っていた。
+　これらの検査や除染作業の際の測定において放射性物質の付着が確認されており、今回の検出については、これらの影響であると推定している。
+
+　なお、３号機は定期検査中でありヨウ素131が発生する作業は行っていないこと、また、５号機については原子炉水のヨウ素濃度測定値に異常がないこと、高感度オフガスモニタおよび排ガス放射線モニタの指示値は通常の変動の範囲内であること、建屋内のエリア毎の放射線量を測定しているモニタ（エリア放射線モニタ、ダスト放射線モニタ）は通常の変動の範囲内であることから、いずれもプラントからの影響によるものではないと考えている。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S049]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所　３号機サービス建屋排気口および５号機主排気筒からのヨウ素の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[3,5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/05/07 13:51:09]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

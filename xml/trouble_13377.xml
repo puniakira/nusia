@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13377</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/11/15 09:31:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>102214</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/11/15 09:31:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202108040830]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[8月4日午前8時30分頃、2号機原子炉建屋西側にあるサブドレンピットNo.18、19のサンプリングを実施した際、採取器に油らしき物を確認したことから、当該サブドレンピットの油分分析を行ったところ、微量の油分が検出された。
+また、当該ピットから汲み上げた水を集水しているNo.3中継タンク内を確認したところ油らしき物と、においを確認。
+これらを踏まえ、当該サブドレンピット周辺土壌に油が存在し地下水に混入した可能性が否定できないことから、油が地下に浸透した場合に該当すると午後3時30分に判断。
+なお、No.3中継タンクの下流側にあるサブドレンサンプルタンクにおいては、排水前に分析を行い異常がないことを確認した上で排水を行っており、直近の排水時における油分分析結果は検出限界値未満（検出限界値0.1mg/L）であることを確認している。
+サブドレンピットNo.18、19からの水の汲み上げを午前8時32分に停止させるとともに、No.3中継タンクから集水タンクへの水の移送を午前8時54分に停止。
+当該ピットから汲み上げた水を集水しているNo.3中継タンク内の油分分析をした結果、検出限界値未満（検出限界値0.3mg/L）であることを確認。
+また、No.18、19以外のNo.3中継タンクに接続している他7箇所のサブドレンピットについても停止し、油分分析をした結果、検出限界値未満（検出限界値0.3mg/L）であることを確認。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東京-S022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[サブドレンピットにおける油分の確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/11/15 09:31:36]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

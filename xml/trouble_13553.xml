@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13553</TROUBLE_ID>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2022/09/14 17:48:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<ATTACH_ID>111142</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/09/14 17:47:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202204211510]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[4月21日午後3時10分、3号機起動変圧器（B）から絶縁油（PCB含有）が漏えいしていることを当社社員が発見。
+状況は以下のとおり。
+・漏えい範囲		約5m×5m（防油堤内の地面に染み込んでいる。）
+・拡大防止処置		受け容器を設置
+・漏えい継続の有無	鉛筆の芯1本程度で漏えいが継続している
+・双葉消防本部への連絡時刻　午後3時12分（119番通報）
+漏えいについては、受け容器を設置して以降、周辺に漏えい拡大のないことを確認。
+4月22日午前1時40分頃、漏えい箇所の応急処置が完了し漏えい量は減少し、午前6時時点で2秒に1滴程度となっている。
+4月22日、絶縁油漏えいの影響確認のため、3号機起動変圧器（B）周辺にあるサブドレンピット（8箇所）及びNo.4中継タンクの分析を実施したところ、サブドレンピットNo.40において32mg/Lの油分を検出。なお、他の7箇所（No.45,51,210～214）及びNo.4中継タンクについては、検出限界値未満（検出限界値0.3mg/L）であることを確認。
+3号機起動変圧器（B）周辺にあるサブドレンピット（8箇所）からの汲み上げ･移送を停止しているが、油分が検出されたNo.40ならびにその近傍にあるNo.210,211以外の設備については順次運転を再開。
+サブドレンピットNo.40について、今後、油分が検出された原因調査、および油分の詳細分析を実施するとともに、清掃を実施。
+4月27日午前11時39分頃、漏えい箇所の修理を実施し漏えいの停止を確認。
+4月27日午後2時25分、双葉消防本部により「危険物漏えい事象」と判断されたことを確認。
+サブドレンピットNo.40の油分分析をした結果、油分に含まれるPCB濃度が0.56mg/kgであることを確認。
+この結果、サブドレンピットNo.40から検出された油分については、3号機起動変圧器（B）から漏えいした絶縁油(PCB濃度：0.6mg/kg)の影響によるものと推定。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-東京-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[01]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[中間報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[起動変圧器（B）からの絶縁油（PCB含有）漏えい事象]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/09/14 17:48:16]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13553</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+</KNT_TROUBLE>

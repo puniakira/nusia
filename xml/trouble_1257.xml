@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）２号発電機運転中の調査
+（１）　ＡＶＲ盤の点検　………ＡＶＲ盤のロータアングル制御回路，電圧制御回路，自動追従回路の特性試験およびアンプの入出力試験の結果，異常は認められなかった。
+（２）　ロータアングル検出器回路の特性試験　………［１］内部位相角を測定したところ６０゜以内の基準に対し１２０゜であった。　［２］このため検出器の固定子を動かしロータアングル指示計（ＭＣＲ）０゜となる位置にし，その後検出器固定子を再び０゜の位置から９０゜へ９０゜の位置から０゜へ動かしたところ，ロータアングル指示計がこれに追従して０゜から９０゜、９０から０゜へ変化することから，その出力特性に異常のないことを確認した。
+（２）２号発電機停止後の調査
+［１］　ロータアングル検出器を分解点検したところ負荷側ベアリングのグリースの黒色化，シールド板の変形，内外輪の摩耗，外輪転送面のフレーキング等の損傷が確認された。
+［２］　駆動軸と回転子をつなぐ固定ビスが切損していた。
+［３］　駆動軸，回転子，固定子，ギヤカップリングなどには異常は認められなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1257</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[399]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/19 11:01:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[G]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[GCR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>1657</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[198508010612]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）　運転実績がある予備（１号発電機に使用していたもの）のロータアングル検出器に取替えた。
+（２）　ロータアングル検出器に使用しているベアリングについては，今後，加工を必要としないベアリングサイズ
+（インチサイズよりミリサイズ）型式のものに変更することを検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第１８回定検作業終了に伴い７０ＭＷｅ（２号発電機出力，１号発電機停止中）で調整運転中の昭和６０年８月１日６時１２分『ＡＶＲ　ＴＲＩＰ　ＴＯ　ＨＡＮＤ』『ＲＯＴＯＲ　ＡＮＧＬＥ　ＬＩＭＩＴＴＥＲ　ＯＰＥＲＡＴＩＮＧ』の警報が発報し，２号発電機の自動電圧調整器が自動から手動に切替った。
+これは発電機の内部位相角を制限するロータアングル検出回路に何らかの原因によって内部位相角増加の信号が入力されたため，ロータアングル制限器が警報（設定値６０゜）を発生させると共に，ＡＶＲ自動増幅器へ電圧増加の信号を出力した。このためＡＶＲ自動増幅器は発電機の電圧を上昇させると同時に手動側調整器の設定を自動回路に追従させようとしたが，発電機電圧は既に上昇しており，電圧の継続上昇を阻止するため差動継電器が動作したことによりＡＶＲが自動から手動へ切替ったものと考えられた。
+このことからロータアングル検出器系統を点検したところ，同検出器から僅かの異音が発生していることが判明した。調整運転を継続しつつ同検出器の点検を行うため，１号発電機を８月２日０時０３分併入し２号発電機は同日２時００分解列した。（点検補修後，８時２６分再併入）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1985-原電-T009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の結果から原因は以下の様に推定される。
+（１）　ロータアングル検出器の負荷側ベアリングに異常が発生し，これにより回転子（３０００ｒｐｍ）の拘束力が増大した。
+（２）　回転子側の拘束により駆動軸にかかるトルクが増大したため，駆動軸と回転子を固定するビスが切損した。
+（３）　この結果，駆動軸と回転子の相対位置が初期の位置よりずれ見かけ上の内部位相角が大きくなったため，発電機電圧を上昇させるようＡＶＲが動作したが発電機電圧の上昇が継続したため保護装置が働き，自動から手動に切替ったものである。
+尚，今回のトラブルの引き金となった負荷側ベアリングの異常発生の原因についてはベアリング加工時（開放型から密閉型）の異物混入による可能性が大きい。
+当該ベアリングは毎定検時，取替えを行っているが国産品のインチサイズベアリングには密閉型がないため，従来からインチサイズの開放型ベアリングにシールド板をとりつけ，密閉型に加工したものを使用している。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[２号発電機自動電圧調整器の不調について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>70</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/19 11:01:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>16</SORT_NO>
+		<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[G]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[409]]></KIKI_CODE>
+			<TROUBLE_ID>1257</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[軸受*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1257</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[409]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>5</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1257</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1257</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1257</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[21]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力抑制]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>1257</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

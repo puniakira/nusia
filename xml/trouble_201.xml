@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．運転状況及びＰ／Ｃ　１Ｄ－１現場調査結果
+（１）プラント運転状況調査結果
+　Ｐ／Ｃ　１Ｄ－１がトリップする直前（１４時１４分頃）より、非常用ディーゼル発電機１Ｂの定例試験を開始していたことが確認された。これによる補機の起動に伴い、Ｐ／Ｃ　１Ｄ－１トリップ時には、負荷電流が増加していたと想定された。また、Ｐ／Ｃ　１Ｄ－１トリップに伴い、当該Ｐ／Ｃの負荷である交流１２０Ｖ中央制御室計測用分電盤１Ｂの電源が喪失したため、排ガス復水器出口弁及び活性炭式希ガスホールドアップ塔入口弁，出口弁が、自動で全閉となったことが確認された。
+（２）Ｐ／Ｃ　１Ｄ－１現場調査結果
+　Ｐ／Ｃ　１Ｄ－１の受電しゃ断器の状態を確認した結果、同しゃ断器の静止型過電流引外し装置が動作していたことが確認された。
+２．Ｐ／Ｃ　１Ｄ－１受電しゃ断器トリップ調査結果
+　「Ｐ／Ｃ　１Ｄ－１受電しゃ断器トリップ」（静止型過電流引外し装置動作）に至った原因を究明するため、要因分析表に基づき点検調査を行った結果、静止型過電流引外し装置変流器の各相の直流抵抗測定において、Ｓ相，Ｔ相が約３．０ｋオームであるのに対し、Ｒ相は６００ｋオーム、とアンバランスであり、Ｒ相コイルに異常が認められた。
+　なお、他の要因については異常が認められなかった。
+　以上の結果から、静止型過電流引外し装置変流器の異常が今回の事象の原因であると判明したため、９月４日に当該変流器を健全なものと交換することによりＰ／Ｃ　１Ｄ－１を復旧した。これによりプラント全体が通常状態に復旧したことから、９月４日１２時より出力上昇を開始し、９月５日１７時にプラントを定格出力に復帰させた。
+３．工場調査結果
+　Ｐ／Ｃ　１Ｄ－１の受電しゃ断器用静止型過電流引外し装置変流器に異常が発生した原因を調査するため、要因分析表に基づき、工場において詳細な点検調査を行った結果、以下のことが確認された。
+（１）巻線の直流抵抗を測定した結果、判定基準値３．０ｋオーム±２０％に対して１０～１１Ｍオームと判定基準を逸脱しており、巻線に異常があることが確認された。
+（２）巻線の分解点検を実施した結果、鉄心コーナー部において第三層巻線の溶断が確認されるとともに、第一層と第三層の巻線周辺に、溶断時の放電により生じたと思われる焦げが確認された。また、この放電により巻線第一層と第三層間の層間短絡に至った可能性があることが確認された。
+　なお、他の要因については異常が認められなかった。
+４．故障履歴調査結果
+　Ｐ／Ｃ　１Ｄ－１の受電しゃ断器用過電流引外し装置変流器の製造メーカにおける類似型を含めた変流器約１４４００個の故障履歴調査を行った結果、他に今回の事象と同様の故障履歴はないことを確認した。
+５．点検調査結果のまとめ
+　以上の調査結果から、当該設計及び類似型の変流器には相当の使用実績があり、今回の事象は極めて希であると評価される一方で、工場調査の結果から、巻線の溶断時の放電により生じたと思われる焦げが確認されていること、及び設計，使用環境，経年変化といった巻線の製造段階に起因する以外の要因は考えられないことから、今回の事象の要因としては、巻線の製造段階より、巻線の一部に極めて希に発生する傷が内在していた可能性が考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>201</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/10/02 15:10:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>397</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199909021416]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　異常の認められたＰ／Ｃ　１Ｄ－１受電しゃ断器の静止型過電流引外し装置変流器を健全なものに交換した。
+]]></SB_TAISAKU_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/10/02 15:10:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は、定格出力（１，１００ＭＷｅ）にて運転中、平成１１年９月２日１４時１６分頃にパワーセンタ１Ｄ－１（以下、「Ｐ／Ｃ　１Ｄ－１」という。）がトリップし、「４８０Ｖ　Ｐ／Ｃ　１Ｄ－１受電しゃ断器トリップ」，「４８０Ｖ　Ｐ／Ｃ　１Ｄ－１母線電圧低」等の警報が発生した。また、その後復水器真空度の低下により、発電機出力が徐々に低下しているのが確認されるとともに、１４時２６分に「主復水器Ａ真空度低」，「主復水器Ｂ真空度低」、１４時２８分に「主復水器Ｃ真空度低」の警報が発生した。このため、同日１４時２７分頃から、手動により更に発電機出力を降下させた。
+　その後、復水器真空度が回復したことから、発電機出力約７００ＭＷｅにて運転を継続するとともに、原因調査を行うこととした。
+　また、Ｐ／Ｃ　１Ｄ－１の電源喪失に伴い、低圧注水系（Ｂ），低圧注水系（Ｃ），格納容器スプレイ系（Ｂ），原子炉隔離時冷却系，非常用ディーゼル発電機（Ｂ），可燃性ガス濃度制御系（Ｂ），非常用ガス処理系（Ｂ）が待機除外となったことから、原子炉施設保安規定に従って、低圧注水系（Ａ），低圧炉心スプレイ系，高圧炉心スプレイ系，格納容器スプレイ系（Ａ），可燃性ガス濃度制御系（Ａ），非常用ガス処理系（Ａ）並びに非常用ディーゼル発電機（Ａ）及び高圧炉心スプレイ系ディーゼル発電機について試験を行い、作動可能であることを確認した。
+　なお、本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1999-東京-T011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果、Ｐ／Ｃ　１Ｄ－１受電しゃ断器の静止型過電流引外し装置変流器が不具合に至った原因は以下の通りと推定される。
+［１］巻線の一部に傷が内在したため、運転時の二次電流により傷内在部分に局部加熱が生じていた。
+［２］非常用ディーゼル発電機１Ｂの定例試験による補機起動に伴う電流増加のため、当該部分の加熱が増加し、素線が溶断（巻線の断線）するとともに、溶断部分で放電が発生し、溶断部分周辺に炭化が生じた。
+［３］炭化の進展により第一層と第三層間の層間短絡が生じ、巻線巻数が減少したことにより変流器二次電流が増大して過電流となり、静止型過電流引外し装置が作動し、受電しゃ断器のトリップに至った。
+　なお、復水器の真空度低下により発電機出力が低下した原因は、Ｐ／Ｃ　１Ｄ－１受電しゃ断器トリップに伴い、気体廃棄物処理系の弁が自動で全閉となり、復水器中の排ガス抽出が出来なくなったためであることが判明した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[復水器真空度低下に伴う出力制限について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（警報発生）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+			<TROUBLE_ID>201</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[Ｐ／Ｃ遮断器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>201</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>201</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>201</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>201</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[20]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力低下]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>201</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

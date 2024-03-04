@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１）止めねじの外観検査及び破面観察（ＳＥＭ）等
+破断位置は，首下細径部の始点にあたる丸み部（以下「首下丸み部」という）で，破断面は水平断面に対して僅かに傾斜していた。又，破断部の全面にわたり粒界割れ（ＳＣＣ）が認められた。
+なお，当該止めねじの首下丸み部の半径は０．２ｍｍ（製造管理値；０．７ｍｍ以下）であり，この場合の応力集中係数は２．２５と評価される。
+２）当該材料のＳＣＣ特性に関する調査
+インコネルＸ－７５０は，実験データによればＢＷＲの水質環境において，応力が約６０ｋｇ／ｍｍ２の場合１０Ｅ４～１０Ｅ５時間でＳＣＣが発生する可能性がある。
+３）チャネルファスナ取り付けに関する調査
+当該チャネルファスナは，水中遠隔取り付け（ファスナ取り付けレンチを使用）で行っており，同手順で取り付けた場合の締め付けトルクは，管理値（８６±５ｋｇ・ｃｍ）を超え極端な場合，１２０ｋｇ・ｃｍ程度まで締まることが判明した。なお，締め付けトルクが一定であっても個々の止めねじの摩擦係数の差異によって，軸力はある程度の幅を持ってバラツクことが判明した。
+４）周部応力の評価
+チャネルファスナの水中遠隔取り付け時，過剰締め付けが生じた場合最も厳しいケース（首下丸み部の半径が０．２ｍｍで軸力のバラツキが最大時）では，局部応力が６１ｋｇ／ｍｍ２（管理値での締め付け時；５０．９ｋｇ／ｍｍ２）となりＳＣＣ発生の可能性がある応力に達する。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[101]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1521</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 17:38:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2022</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[19880822]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１）チャネルファスナの水中遠隔取り付け手順を過剰締め付け防止の観点から見直し，その徹底を図った。
+又，水中遠隔取り付けを行った次サイクル使用チャネルファスナ全数の止めねじについて，規定のトルクで締め直しを実施した。
+２）過剰締め付け防止を確実にするため，水中遠隔取り付け用治具を早急に改良し適用する。
+３）従来，止めねじ首下丸み部は上限値０．７ｍｍのみ規定していたが応力集中を緩和するため，今後は下限値を設け０．４～０．７ｍｍの範囲で製造を行う。
+４）なお，念のため炉内滞在期間が３サイクルを超え４サイクル使用に入る水中取り付けしたチャネルファスナ７７個を新チャネルファスナと交換した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第９回定期検査中の昭和６３年８月２２日，使用済燃料プール内で炉心より取り出した燃料体の上部を点検したところ，燃料体にチャネルボックスを固定する金具（チャネルファスナ）の止めねじ（インコネルＸ－７５０）が折損し，止めねじの頭部とワッシャが紛失している燃料体１体（ＴＫＥ２２９）を発見した。
+当該止めねじは，前回の定期検査における燃料体炉内配置検査時（昭和６２年５月）には折損していないことが確認されていること及び残存していたチャネルファスナの止めねじ破面部の酸化物の付着状況から前回の定期検査以降の運転中に折損したものと推定された。
+このため，紛失した止めねじ頭部及びワッシャの流出可能範囲，滞留可能範囲について検討し，探査範囲を定め水中ＴＶを用いて点検を実施した結果，９月３日に原子炉圧力容器内の下部炉心支持板とシュラウド壁との隙間で止めねじ頭部を発見し同月１８日に回収したが，ワッシャを発見することはできなかった。
+なお，今後のプラントの運転中にワッシャ（重量；約２ｇ，外径；原形１５ｍｍ，高さ；原形３．７ｍｍ）が炉内構造物，機器等に与える影響について評価した結果，安全上及び運転上支障とならないとの結果を得ている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1988-原電-T003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[上記の調査結果から，今回の事象はチャネルファスナの過剰締め付けに加え，軸力のバラツキが大きく，首下丸み部の半径が小さいという厳しい条件が重なって過大な局部応力が発生し，ＳＣＣによる折損が生じたものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[燃料チャネルファスナ止めねじの折損について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 17:38:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[燃料]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[101]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1521</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1521</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1521</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

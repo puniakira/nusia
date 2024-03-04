@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10858</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/04/21 11:13:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>53132</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/03/04 09:44:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201002190930]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/04/21 11:13:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[(1)事象の概要
+　平成２２年１月５日，パトロール中の当社社員が，タービン建屋１階復水器室（放射線管理区域）において，低圧第１給水加熱器水位調整弁（※１）のグランド部（※２）から水のにじみがあることを確認した。
+このため，以降，当該部を１週間あたり３回の頻度で状況を確認するとともに，２週間ごとに１回の頻度で当該部の増し締めを行っていた。
+　２月１８日に，にじみ量の増加傾向（約2cc／時間→約15cc／時間)を確認し，当該部を増し締めしたことで，にじみ量は減少（約1cc／時間）した。
+　しかし，今後，にじみ量が増加する可能性があることから，２月１９日午前９時３０分に当該部の監視強化を開始した。
+　なお，当該の低圧第１給水加熱器水位調整弁は正常に動作しており，プラントの運転への影響はなく，安定運転を継続している。
+
+　当該部からにじみ出た水は，シール水（※３）であり，放射能を測定した結果，検出限界以下であることを確認した。監視強化中，当該部からにじみ出た水は，専用の容器に集めて液体廃棄物処理系で適切に処理する。
+　本事象による外部への放射能の影響ならびに当社社員および関係者等の被ばくはなかった。
+
+(2)原因（原因調査含む）
+　にじみの発生箇所はグランド押さえと弁棒の隙間であり，グランド部のパッキン（黒鉛パッキン）の増し締めにより，黒鉛が砕け一時的にリーク量は減少するが，時間経過により黒鉛が封水とともにでてくる状態である。
+　これより，にじみの発生原因として，以下のとおり推定した。
+　①高頻度の摺動により，グランド部のパッキンを押さえる圧力が低下した
+　②異物の噛み込みにより，弁棒に傷が生じた
+　　ただし，定期点検時に当該弁を点検したところ，弁棒に傷，摩耗はみられなかったことから，②の可能性は低い。
+　
+(3)対策
+　①グランド部のパッキンを，シール性のよい「ライブロードパッキン」へ変更した。
+
+※１　低圧給水加熱器は、プラントの熱効率を向上させるために、原子炉への給水をタービンからの蒸気の一部（抽気）で加熱する機器であり、第１段から第４段まであり、各段（Ａ系）～（Ｃ系）の３基、合計１２基設置されている。
+水位調整弁は、低圧給水加熱器内の水位を調整しているもので、通常使用しているものの他に予備のものがある。
+
+※２　グランド部は、弁棒と弁蓋貫通部とのすき間をシールし弁内部と弁外部を封止している部分。
+
+※３　当該の低圧第１給水加熱器水位調整弁の下流には復水器があり、弁の内部が負圧となることから、弁および系統に空気が混入しないようグランド部でシール水によって封止されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-S021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[低圧第１給水加熱器（Ａ）水位調整弁グランド部の監視強化について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/03/12 09:55:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

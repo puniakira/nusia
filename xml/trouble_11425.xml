@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[今回の事象に対し、要因分析表に基づき以下のとおり原因調査を行った。
+（１）弁本体の原因調査
+ａ．分解点検による確認
+弁本体の摺動抵抗増加の可能性、弁内部の異物噛み混みの有無を確認するため、分解点検を行った。
+・ベローズについて、外観点検を行った結果、ベローズの変形及び破れが認められたが、弁棒廻り止めの外観点検の結果、緩んだ形跡や弁棒が回転した痕跡がないことから、今回の不具合事象とは別の原因によるものと考えられる。過去の不具合事例を調査したところ、第３回定検時（平成元年）にF035A、第11回定検時（平成12年）にF035B でベローズのピッチ乱れが確認されており、流体の力がベローズに働いている状態で弁の開閉動作を繰り返すうちに変形した可能性が考えられる。なお、当該弁についてはベローズの上部にパッキンがあり、ベローズが変形した場合でも当該弁のシール性は確保される。
+・パッキン押さえ、パッキンハメ輪、パッキン押さえ輪、弁体、弁体押さえについて外観点検を行った結果、傷や錆、汚れ等は確認されず、また、パッキン潤滑剤の劣化等の異常は認められなかった。
+・弁内部の異物等を確認した結果、異物の混入は認められなかった。また、弁座の変形等の異常も認められなかった。
+（２）駆動部の原因調査
+ａ．駆動用電動機の健全性確認
+・駆動用電動機主回路の絶縁抵抗及びMCC２次側から駆動用電動機巻線間
+の抵抗を測定した結果、異常は認められなかった。
+ｂ．駆動部単体の動作確認
+・弁本体から駆動部を取り外した状態で手動操作による駆動部各部の動作状況を確認した結果、動作状態に異常は認められなかった。
+ｃ．工場での詳細点検
+・工場にて駆動部のトルク試験を行った結果、動作に異常は認められなかった。また、分解点検による詳細調査より、ギア及びシャフト等に損傷、有害な傷、痕跡等は認められなかった。なお、駆動部のグリースの状態を確認したところ、経年劣化による分離、変色、固着が確認されたが、通常の劣化範囲内であり、今回の事象の要因となるものではなかった。
+（３）制御回路の原因調査
+ａ．電磁接触器の動作確認
+・駆動部内部の制御回路上で弁の全開、全閉状態を模擬し、全開用および全閉用電磁接触器（88O,88C）の動作を確認したところ、全開用電磁接触器（88O）の動作に異常は認められなかったが、全閉用電磁接触器（88C）については、励磁が解除されない事象が２回認められた。このため、再試験（電磁接触器コイルの両端にオシロを接続）を20回実施したところ、励磁・解除の動作に異常は認められなかった。
+・電磁接触器単体での手動操作による開閉動作及び同時投入防止機構における沈み量の触診を実施したところ、動作は円滑であり異常は認められなかった。
+ｂ．MCC ユニットの内部確認
+・MCC ユニット内部の過熱痕、ケーブルの損傷等について外観点検及び導通確認を行った結果、異常は認められなかった。また、MCC ユニットの絶縁抵抗を測定した結果、異常は認められなかった。
+ｃ．制御ケーブルの健全性確認
+・駆動部内・中操パネル内及びMCC内における制御ケーブル・コネクタ類・端子部等の損傷や混触、異物の有無等について確認した結果、異常は認められなかった。
+ｄ．トルクスイッチ・リミットスイッチの健全性確認
+・現場においてトルクスイッチ・リミットスイッチの接点導通確認及び外観点検を行った結果、異常は認められなかった。また、接点部への異物等の混入も認められなかった。
+・現場にて弁全閉状態での接点の位置を確認した結果、異常は認められなかった。
+・現場から弁本体と駆動部を取り外した状態で手動操作によるリミットスイッチの動作状況を確認した結果、動作は良好であり、異常は認められなかった。
+ｅ．過電流継電器の設定値確認
+・過電流継電器の設定値を確認した結果、設定値は正しく設定されていた。
+ｆ．工場での詳細点検
+・工場にてMCCユニットの詳細調査を行った結果、外観・電気特性等に異常は認められなかった。
+・工場での電磁接触器の分解点検による詳細調査より、接点部・部品等への異物等の混入、回り込み変形等の異常は認められなかった。
+・工場にて駆動部のトルク試験を行った結果、トルク値、電流値に異常はなく正常に動作することを確認した。また、分解点検による詳細調査より、トルクスイッチ・リミットスイッチ及び電線等の電機部品に損傷、有害な傷や痕跡等の異常は認められなかった。
+（４）電磁接触器（88C）全閉模擬解除時の励磁継続事象に対する原因調査原因調査の過程で実施した電磁接触器の動作確認時、全閉模擬を解除しても電磁接触器(88C)の励磁が解除されない事象が認められたため、本事象について要因分析表に基づき原因調査を行った。
+ａ．制御ケーブルの健全性確認
+・（３）ｃ．のとおり、駆動部内、中操パネル内及びMCC 内における制御ケーブル・コネクタ類の損傷や混触等について確認した結果、異常は認められなかった。
+・制御回路端子間でケーブルの絶縁抵抗を測定したところ、異常は認められなかった。
+ｂ．制御ケーブル端子部の健全性確認
+・（３）ｃ．のとおり、駆動部内、中操パネル内及びMCC 内の端子部の損傷や導通痕の有無等について確認した結果、異常は認められなかった。
+・（３）ｃ．のとおり、駆動部内、中操パネル内及びMCC 内の端子部の異物の有無等について確認した結果、異常は認められなかった。
+以上のとおり、当該弁全閉模擬解除時に電磁接触器（88C）の励磁が解除されない事象の直接原因は見出すことができなかったが、一連の調査の中で、当該弁のMCCユニットを収納するMCC 1C-1-5(6C)の上部端子箱に隣接する端子箱等から金属片等の異物が確認された。また、事象発生前より当該MCC 上部で津波対策工事に関わる作業が行われていたこと、及び今定検中にMCC １C-1-5（６Ｃ）の上部端子箱（MCC内端子部）の扉を作業に伴って開閉していることが確認された。ＭＣＣ上部で作業を行う場合には、これまでMCC 通電中の放熱を考慮し異物混入防止のための養生は特に行っていなかったことから、作業に伴うＭＣＣ内端子部の扉の開閉によって当該MCC 内端子部に異物等が混入した可能性は否定できない。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11425</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/01/08 14:41:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>27500</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/10/13 03:48:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201110061746]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[今回の事象の原因特定には至らなかったが、原因調査の過程で分解点検したMCCユニットと弁について、念のため下記のとおり交換する。
+・当該弁のMCCユニットを予備品と交換する。
+なお、MCC内端子部に異物等が混入した可能性は否定できないことから、当該MCCを含め、MCC上部で作業を行っていたMCCについて、MCC内端子部を清掃する。また、MCC上部で作業を行う場合には、MCC内端子部を養生するなどして異物等の混入防止を実施する。
+・当該弁の弁体・弁棒等を交換する。また、当該事象によって発生したものではないが、当該弁の外観点検を実施した際にベローズに変形、破れが確認されていることから、当該弁と同型のRHR（B）（C）系最小流量バイパス弁(E11-F035B/C)について、弁を開放し点検を実施する。点検の結果、ベローズ等の変形等が発見された場合には、補修等を実施する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/01/08 14:41:43]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成23年10月6日、圧力抑制プール内での作業終了に伴い、RHR（A）系の系統復旧を開始し、同日17時23分、当直員が中央制御室（以下「中操」という）にてRHR(A)系の最小流量バイパス弁(E11-F035A)の開操作を実施したところ、中操の当該弁操作スイッチの開閉表示ランプが両点灯した。このため、当該弁の閉／開操作を２回実施したが、中操の当該弁操作スイッチの開閉表示ランプが両点灯する事象は再現しなかった。
+17時45分、保全部員立会のもと再現性確認のため一旦当直員が当該弁の閉操作を行い、17時46分、当該弁の開操作を行ったところ、中操の当該弁操作スイッチの開閉表示ランプが両点灯し、4秒以上経過しても状態表示ランプは全開状態とならなかった。引き続き、再度閉操作を行ったところ、「RHR 系A 電動弁 過負荷／トリップ」、「480V CA-B3 MCC 1C-1-5 故障」の警報が発生した。
+その後、現場にて当該弁の電源ユニット（MCC 1C-1-5(6C)）の状況を確認したが、異音、異臭、振動、発煙等の異常は認められなかった。また、現場にて弁駆動部を確認したところ、当該弁のストロークが全閉位置を超えていること及び開度指示計の指示がマイナス50％程度閉側であることが認められた。
+平成23年10月12日より、当該弁の弁本体を分解し外観点検を行ったところ、弁棒の一部、シール部材（ベローズ）及びヨーク部に変形が確認された。一方、弁内部の弁座・弁体には損傷は認められなかった。このため、弁本体の詳細点検を行ったところ、以下が確認された。
+・ ヨーク部について、外観点検を行った結果、ヨーク部の廻り止め溶接２箇所中１箇所に破損、弁フタと弁ヨーク部の取り付け部に浮き上がり及びヨークが伸びている痕跡（ヨーク湾曲部の塗装剥がれ）が認められた。また、寸法測定を行った結果、ボンネットフランジと駆動部取り付けフランジ間の寸法が設計値に対して約10mm 伸びており、駆動部取り付けフランジの外周部が最大3.7mm 傾いていることが認められた。
+・弁棒廻り止め等について、外観点検及び寸法測定を行った結果、弁棒廻り止め中央部に膨らみが認められた。
+・弁棒について、液体浸透検査及び寸法測定、曲がり測定を行った結果、弁棒先端側に最大0.39mm の曲がりが認められた。
+
+なお、事象発生時の状況より当該弁は全閉状態にあり、事象発生後の外観点検においても弁座・弁体に損傷が認められなかったことから、当該弁の閉止機能に問題はなかった。このため、この状態でRHR(A)系を運転した場合でも、当系統に必要な系統流量は確保でき、本事象によるRHR(A)系の系統としての機能（原子炉の停止後の除熱機能、炉心冷却機能、放射性物質の閉じ込め機能、放射線の遮へい及び放出低減機能）への影響はなかった。また、事象発生時、保安規定で要求される定期検査中の原子炉注水機能や除熱機能は他系統により確保されていた。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の結果から、今回の事象について原因の特定には至らなかった。
+しかし、原因調査の過程においてRHR(A)系の最小流量バイパス弁(E11-F035A)の全閉模擬時に電磁接触器(88C)の励磁が解除されない事象が２回確認された。また、事象発生前より当該MCC 上部で津波対策工事に関わる作業を実施しており、当該弁のMCC ユニットの上部端子箱（MCC内端子部）の扉を作業に伴って開閉していること、及び当該MCC ユニットの上部端子箱に隣接する端子箱等から金属片等の異物があったことが確認された。
+従って、当該MCC内端子部の扉を開けた際に端子部内に異物等が混入し、端子間が一時的に導通したことにより当該弁の全閉操作時に電磁接触器(88C)が無励磁にならず、駆動用電動機が駆動を継続して今回の事象発生に至った可能性は否定できない。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　定期検査中における残留熱除去系（Ａ）最小流量バイパス弁の不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[動作不良が認められた時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>28867</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/10/13 21:59:28]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+			<TROUBLE_ID>11425</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11425</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[652]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[制御回路]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>113</SORT_NO>
+						<BUHIN_CODE><![CDATA[652]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御用電気回路]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[残留熱除去系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[106]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11425</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[調査しても原因が明らかでないもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+					<SORT_NO>8</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11425</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11425</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11425</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

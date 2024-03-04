@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10047</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/11/11 16:10:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4345</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/11/10 09:21:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200806201230]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方３号機は通常運転中のところ、６月２０日１２時３０分頃タービン建屋１階に設置されている、機器用水＊１配管から水漏れがあることを保修員が確認した。
+当該配管の保温を取り外したところ、機器用水配管の分岐配管溶接部近傍から水が２秒に１滴程度（推定約２．４リットル）漏れていることを確認した。
+このため、当該配管の漏えい箇所について応急補修材による補修を実施した後、６月２１日１４時３０分に漏えいのないことを確認した。
+その後、３号機第１１回定検にて当該配管をステンレス製配管に取替を行い、１０月２日１３時３０分に漏えいのないことを確認し、通常状態に復旧した。
+
+＊１ 機器用水
+町水道や海水淡水化装置から供給された水をタンクに貯蔵しておき、作業時に必要に応じて機器の洗浄や原子炉補助建屋の冷房用水等に使用する水
+
+原因は当該配管は炭素鋼配管であり内面腐食が経年的に発生進展し、貫通に至ったものとと推定される。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋内機器用水配管からの水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/11/11 16:11:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

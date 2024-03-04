@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[(1) 低電圧リレー（２７Ｍ）誤動作
+　　プロセスコンピュータの記録を調査した結果、しゃ断器６１３開放後、メタクラ２Ａ母線が停電し、低電圧リレーが動作したことが判明した。
+(2) しゃ断器６１３手動開放
+　　しゃ断器６１３の全ての操作スイッチ及びテストスイッチについてスイッチの位置及びスイッチ近傍での作業状況等を確認し、しゃ断器６１３
+　手動開放となる操作を実施していないことを確認した。
+(3) しゃ断器６１３の工場調査
+　　当該しゃ断器を工場に持ち込み詳細点検をした結果、異常は認められなかった。
+(4) しゃ断器６１３制御回路点検
+　　しゃ断器６１３トリップ回路の外観点検を実施した結果、ロックアウトリレー（８６Ｅ）の端子（Ｌ２１）にアーク痕と推定される痕跡が認められ
+　た。また、所内盤内の異物の有無を確認した結果、ケーブルシールドの断片（幅最大約１６ｍｍ：８６Ｅ端子間間隙約１３ｍｍ）が、床面で発
+　見され、当該断片を拡大観察したところ、先端部に僅かな変色が認められた。
+(5) しゃ断器６１３開放に係る作業
+　　当該事象発生時、中央制御室の所内盤内における作業を確認した結果、ロックアウトリレー（８６ＳＡ，８６ＳＢ）取替に係る準備作業とし
+　て、ロックアウトリレー（８６ＳＡ）のビニールシート養生作業が行われており、ケーブルシールドの断片が、ロックアウトリレー（８６Ｅ）の端子
+　部に接触する可能性のあることが判明した。
+(6) 端子（Ｌ２１）部アーク痕の再現性確認試験
+　　所内盤内で発見されたケーブルシールドの断片と同じ形状・寸法の試験片を作成し、アーク痕の発生について再現試験を実施した結果、
+　ロックアウトリレーの２本ある端子の１本にアーク痕跡が発生することが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1909</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/30 11:06:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2486</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199809240956]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1) 今定期検査期間中に重要な制御盤内の異物点検を実施した。
+(2) 盤内作業に際して、「1)作業前の作業エリア内の異物確認を実施する、2)作業時は線クズ等が散逸しないように十分な養生を行い、必
+　要に応じて粘着マットなどを併用する、3)線クズ等の回収は作業中においても適宜行う、4)作業後の異物確認は、狭隘部や死角になる
+　部分の確認を十分に行う」ことについて受注者は工事要領書に記載し、当社はその内容を確認することとした。
+(3) 当社電気作業担当課員に対し、盤内作業時の誤短絡・地絡防止の措置に加え、作業前・中・後の異物確認及び狭隘部や死角になる部分
+　の異物確認を十分に行うことを「電気保修課員の基本動作」に追記し、周知、徹底を図ることとした。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、第９回定期検査において、起動変圧器点検のため、所内６．９ｋＶ母線の電源を予備変圧器より受電中のところ、９月２４日９時５６分、６．９ｋＶメタクラ２Ａ母線のしゃ断器６１３開放並びに中央制御室に「安全系６．９ｋＶ母線電圧低」及び「安全系４８０Ｖ母線電圧低」の警報が発報し、６．９ｋＶメタクラ２Ａ母線の低電圧により運転中の主要機器が自動停止するとともに、非常用ディーゼル発電機２Ａが自動起動し、６．９ｋＶメタクラ２Ａ母線への供給しゃ断器６１０が自動投入され、自動停止した主要機器はブラックアウトシーケンスにより、順次、正常に再起動した。
+　その後、しゃ断器を予備に取替え、６．９ｋＶメタクラ２Ａ母線は、予備変圧器から受電し、非常用ディーゼル発電機２Ａを待機状態とした。
+　なお、本事象による環境への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-原電-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　事象発生当時、ロックアウトリレー（８６ＳＡ，８６ＳＢ）取替に係る準備のため、所内盤内でビニール養生作業を実施中に、残存していたケーブルシールドの断片が養生シート上へ落下し、予備変圧器ロックアウトリレー（８６Ｅ）下面に滑り込んだ。取替対象リレー下面と下部ケーブルダクト間への養生シートの押込みにより、隣接８６Ｅ下部の養生シートが持ち上がり、８６Ｅ下面へ接触し、８６Ｅ端子Ｌ２１とＬ２２間がケーブルシールドの断片により短絡したため、しゃ断器６１３の引外コイルが励磁し、当該しゃ断器が開放した。その結果、６．９Ｋｖメタクラ２Ａ母線が低電圧となり、運転中の主要機器が自動停止するとともに、非常用ディーゼル発電機２Ａが自動起動し、６．９ｋＶメタクラ２Ａ母線に給電したものと推定される。
+６．９ｋＶメタクラ２Ａ母線低電圧による非常用ディーゼル発電機２Ａの起動・給電について定検中、起動変圧器点検のため、所内６．９ｋＶ母線の電源を予備変圧器より受電中のところ、６．９ｋＶメタクラ２Ａ母線のしゃ断器開放並びに「安全系６．９ｋＶ母線電圧低」等の警報が発報し、運転中の主要機器が自動停止するとともに非常用ディーゼル発電機２Ａが自動起動し６．９ｋＶメタクラ２Ａ母線への供給しゃ断器が自動投入された。所内盤内でビニール養生作業の実施中に、残存していたケーブルシールドの断片が養生シート上に落下し、予備変圧器ロックアウトリレー（８６Ｅ）下面に滑り込んだ。養生シートの押込みにより８６Ｅの端子がケーブルシールドの断片により短絡し、しゃ断器の引外コイルが励磁し、当該しゃ断器が開放したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[６．９ｋＶメタクラ２Ａ母線低電圧による非常用ディーゼル発電機２Ａの起動・給電について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/30 11:06:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[211]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[非常用ディーゼル発電機]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[リレー*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1909</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1909</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[６０００Ｖ級遮断器（Ｍ／Ｃ）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[261]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1909</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

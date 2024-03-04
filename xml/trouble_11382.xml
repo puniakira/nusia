@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11382</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/11/21 10:48:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/07/29 11:26:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110311]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・中央制御室に設置されている低線量記録計において、モニタリングポスト（以下「ＭＰ」という）Ｎｏ．６の測定値を線形目盛で記録しているチャンネル６の指示値が一時的に変動し、その後、一定の値から変化していないことを確認した。（３月１７日）
+・当該記録計は、ＭＰ－１～６の測定値について、それぞれ線形目盛と対数目盛の合計１２チャンネルの記録を行っており、ＭＰ－６の測定値は対数目盛用のチャンネルでも記録されていること、また、発電所の事務所内に設置している放射線管理用計算機でも測定値の記録を行っていることから､ＭＰ－６の測定値の監視および記録に問題はない。
+・なお、当該チャンネル以外の測定値の記録に問題がないことを確認している。（３月１７日）
+・ＭＰ－６の低線量測定に係る機器および伝送路の点検を実施したところ、信号変換器に異常は無かった。しかし，ＭＰ－６現地局舎内の測定装置から伝送装置間のケーブルコネクタのロック部分が破損し、ケーブルコネクタが緩んでいることを確認した。（８月２４日）
+・ 破損していたケーブルコネクタを接続し直したうえで、緩まないよう固縛を実施し、当該チャンネルの指示値を復帰させた。（８月２４日）
+・ 破損していたケーブルコネクタ部分の交換を実施した。（１０月７日）]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東北-S065]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[【東日本大震災関連】モニタリングポスト（チャンネル６）信号変換器の故障に伴う指示不良]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/11/21 10:48:11]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

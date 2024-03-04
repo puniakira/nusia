@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[これまでの状況確認の結果は、以下のとおり。
+（１） 発電長の指示に基づきＲ／Ｗ制御室運転員が廃液放出のためＤＤポンプ（Ａ）起動のため、ＣＳカバーを外して操作しようとしていたところ、訓練運転員が現場記録採取から戻ってきた。このため、オン・ジョブ・トレーニングのため廃液放出操作を訓練運転員に指示した。
+（２） 訓練運転員は、「放出許可」ランプが点灯していること及びＤＤＴ（Ａ）放出開始の発電長指示を確認した上で、放出対象のＤＤポンプ（Ａ）のＣＳを起動位置にしようとして、誤って隣のＤＤポンプ（Ｂ）のＣＳを起動位置とした。運転手順に従い、引き続き、放出廃液流量調節弁を「ＨＩ－ＦＬＯＷ」に選択して放出廃液出口弁を開にした後、ＤＤポンプ（Ｂ）出口弁を開として廃液放出を開始した。この間、訓練運転員は間違いに気づくことはなかった。
+（３） 別のタンクの受け入れ状況を監視していたＲ／Ｗ制御室運転員が、廃液放出状況を確認したところ、誤ってＤＤＴ（Ｂ）の廃液が放出されていることに気付き、直ちに訓練運転員にポンプ停止を指示し、放出を停止させた。ほぼ同じタイミングで、中央制御室運転員は、中央制御室の廃液処理設備監視盤画面で誤ってＤＤＴ（Ｂ）が放出されていることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[3]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[区分3]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10805</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/10/13 16:25:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>17637</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/02/02 17:53:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200912181720]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．速やかに実施する対策
+今回の事象は、訓練運転員が操作を実施する際の監視・確認の仕組みが十分でなかったことが直接的な原因と考えるため、再発防止対策が検討・実施されるまでの間は、放射性液体廃棄物の系外放出操作に当っては、以下の監視強化を行う。
+１） 現場操作員１名、操作監視員１名（現場）及び中央制御室で遠隔監視する運転員１名を配置する。
+２） 中央制御室運転員は、現場運転員に放出する廃液・系統名を明確にした上で放出を指示する。この際、３方向コミュニケーションにより、「指示、指示内容の復唱、復唱確認」を行い、現場運転員に放出廃液の指示内容を確実に伝達する。
+３） 現場操作員は、ポンプ起動時、出口弁開操作時等においては、機器銘板を指差呼称することにより確実な操作を行う。操作監視員は、現場操作員の傍で操作が正しく実施されていることを確認する。（ピアチェックの実施）。中央制御室運転員はＩＴＶモニタ装置及び廃液処理設備監視盤画面で運転操作が正しく実施されていることを確認する。
+ポンプ起動時、出口弁開操作時に、現場操作員、操作監視員及び中央制御室運転員が適切に操作または監視していることを確認し、その結果を確認シートに記載する。
+
+２．原因分析に基づく対策
+より確実な再発防止対策を講じるため、要因分析を実施した結果、以下の直接的な原因（７件）が明らかとなった。また、これらの原因分析で抽出された直接原因のうち、ハードウェアの直接原因（（３），（４），（５））を除く運転管理プロセス上の問題点を起点とした背後要因や組織的要因について、根本原因を分析した結果、以下の２件が抽出された。
+２－１．直接原因
+（１）発電室において右手人差し指で操作する対象機器を指差し、銘板を省略せず読み上げ、合わせて操作内容も声を出して呼称するという具体的なやり方が、明文化されていなかった。
+是正処置：QMS規程「運転員の基本手引書」に、指差の対象、呼称内容、呼称の仕方を記載する。
+（２）発電室として訓練運転員の単独操作の禁止が取扱書に明文化されていなかった。
+是正処置：QMS規程「発電室員教育取扱書」に単独操作の禁止、操作途中からのＯＪＴ教育禁止など訓練運転員について、運転員ではないという位置付け、ＯＪＴ指導要領を定める。
+（３）中央制御室にある放出許可キースイッチを「許可」にするタイミングが、Ｒ／Ｗ制御室でポンプを起動し、出口弁を「開」とする一連の放出操作の前になっていた。
+是正処置：QMS規程「液体廃棄物系運転手順書」の｢洗濯廃液ドレンタンク放出｣手順で、中央制御室にある放出許可キースイッチの操作は、ポンプを起動した後、起動したポンプをＩＴＶで確認した後に、許可位置に切り替える手順に変更する。
+予防処置：他の放出系統（廃液サンプルタンク，床ドレンサンプルタンク，凝縮水サンプルタンク，溶融炉排ガス洗浄廃液サンプルタンク）についても洗濯廃液ドレンタンク放出手順と同様に手順を変更する。
+（４）中央制御室にある放出許可キースイッチが、Ｒ／Ｗ制御室での放出を一括許可する方式だった。(系統毎、機器毎に許可するようになっていなかった)
+是正処置：中央制御室にある系外放出用の出口弁全てに個別の放出許可インターロックを設け、許可されたタンクのみが放出出来るインターロックとする。
+・洗濯廃液ドレンタンクＡ／Ｂ
+予防処置：洗濯廃液ドレンタンクＡ／Ｂ以外の下記タンクについても同様の対策を実施する。
+・廃液サンプルタンクＡ／Ｂ
+・床ドレンサンプルタンクＡ／Ｂ
+・凝縮水サンプルタンク
+・溶融炉排ガス洗浄廃液サンプルタンクＡ／Ｂ
+（５）運転員は、放出許可の連絡を受けた後、ＤＤＴポンプ(Ａ)の｢放出許可申請中：操作スイッチカバー｣と｢放出許可申請中：表示｣を取り外したが、｢放出許可済：操作スイッチカバー｣と｢放出許可済：表示｣を取り付けなかった。
+是正処置：QMS規程「運転管理業務運用取扱書」に、誤操作防止用の操作スイッチカバー及び注意札の運用を判りやすく見直す。
+（６）訓練運転員は運転員ではないという位置付けが明文化されていなかった。
+是正処置：QMS規程「発電室員教育取扱書」に単独操作の禁止、操作途中からのＯＪＴ教育禁止など訓練運転員について、運転員ではないという位置付け、ＯＪＴ指導要領を定める。
+（７）運転員教育の中で、トラブル事例など操作の重要性を教えるタイミングについて配慮されていなかった。
+是正処置：事例教育として、訓練運転員全員に平成２０年１０月６日に発生したＤＤＴ廃液放射能測定データ取り違いによる誤放出の内容を教育する。今後は当該操作のＯＪＴを実施する前の適切なタイミングで教育を行う。
+
+２－２．根本原因
+（１）訓練運転員に対する教育において、教育訓練を行う内容と時期などが体系的に整備されておらず、一部不十分な教育システムとなっていた。
+是正処置：発電室は、訓練運転員に対するＯＪＴにおける基本動作の重要性、訓練運転員の位置付けや操作を行う際の注意点などの教育・訓練を行う内容と時期などを明確にし、体系的なマニュアルを作成し、それに基づき教育・訓練を実施する。
+予防処置：各室においても若年層への教育マニュアルに基本動作の正しい方法や重要性、実施する意味などを含める。
+（２）訓練運転員を教育する指導員に対する指導内容が体系立って整理されておらず、また、指導方法を教育する仕組みがなかった。
+是正処置：発電室は、訓練運転員への指導内容をまとめた指導要領を定めると共に、指導方法を教育する仕組みを教育システムに反映し、訓練運転員を教育する指導員に対して、教育を実施する。
+　更に、定期的にアンケートなどにより教育効果を確認し、必要があれば教育プログラムの見直しを図り教育を実施する。
+予防処置：各室においても若年層を教育する指導内容をまとめた指導要領を定め、指導方法を教育する仕組みを教育システムに反映して、各室の指導員に対し教育を実施する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/13 16:25:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第２４回定期検査中の平成２１年１２月１８日１７時２０分頃、発電長は放射線・化学管理グループからの放出廃液放射能測定結果の通知（放出低減目標値未満）に基づき、洗濯廃液ドレンタンク（Ａ）の廃液放出処理を許可した。Ｒ／Ｗ制御室運転員は、オン・ジョブ・トレーニングとして訓練運転員に操作を指示したところ、間違えて洗濯廃液ドレンタンク(Ｂ) （以下、「ＤＤＴ（Ｂ）」という。）の廃液放出操作を１７時２３分に行った。放出直後に、訓練運転員に指示した運転員は、当該の廃液放出操作が誤りであることに気付き、１７時２４分に廃液放出を停止した。
+その後、誤って放出したＤＤＴ（Ｂ）の廃液放射能濃度を測定した結果、検出限界値（9.6×10^-3Bq/cm3）未満であることを１８時１０分に確認した。また、トリチウム放射能濃度を測定した結果、検出限界値（5.5×10^-2Bq/cm3）未満であることを１２月１９日０時５８分に確認した。
+なお、廃液放出中並びに、放出前後において放水口モニタの指示値に異常は見られなかったことから、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[－
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[洗濯廃液放出に係る保安規定違反事象について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[保安規定第８８条（放射性液体廃棄物の管理）において発電長は、放射性液体廃棄物を放出する場合は、放射性物質濃度の測定など管理した状態で行うこととしているが、放射性液体廃棄物の放出操作を誤り、管理されていない状態で放出した。
+]]></IHAN_SHOSAI_TXT>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>17650</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/02/05 14:50:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10027</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[522]]></KIKI_CODE>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[タンク]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10805</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[522]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[水タンク]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[520]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[520]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[タンク・槽・アキュムレータ装置]]></KIKI_NAME>
+					<SORT_NO>33</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10805</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

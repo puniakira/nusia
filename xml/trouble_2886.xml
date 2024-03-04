@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2886</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/04/05 17:28:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3160</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/04/01 16:13:30]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503150351]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１７年３月１５日午前３時５１分、定期点検中の２号機（沸騰水型、定格電気出力８４万ｋＷ）タービン建屋１階（放射線管理区域内）において、火災報知器が作動した。
+直ちに現場の確認を行い、火災ではないことを確認した。
+
+現場調査の結果、以下のことが判明した。
+(1)火災報知器作動の際、現場を確認したところ、火災報知器を作動させた感知器の真下にある廃液収集用の升（ファンネル（a））から湯気が出ており、ファンネル（a）の上部にある配管に水滴が付いていた。
+(2)火災報知器が作動する前に、別の部屋（補助ボイラ室：放射線管理区域外）において補助ボイラ（※１）を起動した。この際に、補助ボイラに温水を供給するためのポンプ（補助ボイラ給水ポンプ）の駆動軸まわりから温水（約５０℃の放射能を含まない水）が通常より多く漏れ、ポンプの下にあるファンネル（b）に流入していた。
+(3)湯気が出ていたファンネルの排水管には封水（※２）がなかった。
+
+これらの結果から、火災報知器が作動した原因は、以下によるものと推定される。
+(1)補助ボイラ給水ポンプ駆動軸部のパッキンの劣化により漏れた温水が、ポンプの下部にあるファンネル（b）に流れ込んだ後に排水管をつたわり、自然乾燥により封水がなくなっていたファンネル（a）より湯気が立ち上がった。
+(2)この湯気により部屋の湿度が上昇し、ファンネル（a）の真上付近の天井に設置されている感知器（煙感知型）の中で結露が生じ、火災報知器が作動した。
+
+対策として、ファンネル（a）に水を注いで封水するとともに、温水が漏れた補助ボイラ給水ポンプ駆動軸部のパッキンの取替を行うこととした。また、当該感知器の取替を行った。
+なお、今回の事象による外部への放射能の影響はない。
+
+　※１補助ボイラ：空調用等に必要な蒸気（放射能は含まれていない蒸気）を供給する装置
+　※２封水：　排水管を通して空気が他の部屋と循環しないようにファンネルにためている水
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S040]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋１階における火災報知器の作動（非火災報）について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/04/05 17:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

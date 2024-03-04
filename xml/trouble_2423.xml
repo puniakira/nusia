@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2423</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/06/18 16:21:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/06/08 11:34:30]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200402162300]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１６年２月１６日２３時００分、北海道原子力環境センターに、１号機主排気筒モニタ（＊１）計数率の誤ったデータが送信されました。
+ただちに、中央制御室で監視しているプラントの運転状況および１号機主排気筒モニタデータに異常がないことを確認するとともに、その前後のデータが正常に送信されていることを確認しました。
+なお、排気筒モニタデータの北海道原子力環境センターへの送信は、放射線管理システム（以下、「放管システム」という。）から、送信局装置を経由して行いますが、当日は放管システムの点検作業を実施していました。
+
+原因は、プロセス入出力装置（＊２）内の電子部品（コンデンサ）の容量が不適切であったことにより、装置の電源を入れた際に実際の計数率とは違う値が、北海道原子力環境センターに送信されることが判明しました。従って、当該部品を適切なものに交換するとともに、他の同様な部品についても交換を実施しました。また、今後、プロセス入出力装置の点検を行う場合は、北海道原子力環境センターへの送信を一時中断した上で実施することとし、復旧時には正しい値がプロセス入出力装置から出力されていることを確認した後に、北海道原子力環境センターに送信する旨を作業手順書に明記します。
+
+（＊１）排気筒モニタ：主排気筒から排出される建屋換気等の空気中の放射能を監視する装置。
+
+（＊２）プロセス入出力装置：検出器からのデータ信号を入力し、デジタル信号等に変換して出力する装置。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-北海道-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主排気筒モニタ計数率の誤ったデータの送信]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/06/18 16:21:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

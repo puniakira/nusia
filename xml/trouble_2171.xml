@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．１次冷却系統の圧力低下に伴う各パラメータの調査
+　系外への漏えいを示す格納容器サンプ水位、モニタ等の各パラメータについて確認した結果、何れも異常は認められず、配管、機器の損傷等による系外への漏えいが無いことを確認した。また、各機器のパラメータを確認した結果、加圧器逃がしタンクの圧力、温度、水位が何れも有意に上昇し、加圧器逃がし弁（以下「逃がし弁」という）２台の出口温度が上昇していたこと及び開閉表示灯の「赤」が点灯したことを確認した。
+　以上より、閉状態（自動待機状態）にあるべき逃がし弁が一時的に開状態となり、１次冷却材が逃がし弁を経由して加圧器逃がしタンクに流入し、１次冷却系統の圧力が低下したことが判明したため、逃がし弁に関係する定検作業を調査したところ、当該回路へ模擬信号を入力する加圧器圧力回路試験（以下、「当該作業」という）において入力した模擬信号により閉状態（自動待機状態）にあった逃がし弁が一時的に開状態となったことが判明した。なお、これまでの定検での当該作業は、１次冷却系統圧力が大気圧となる時期に実施していたが、今回は、点検作業の平準化を図る観点から、従来よりも早い時期に実施するよう計画していた。
+２．作業計画段階での要因の調査
+（１）保修員
+　従来は、ＲＣＰＳ点検作業に係る全ての隔離作業について、一括して隔離操作票を作成していたが、一連の隔離操作票の中で実際の隔離操作時期が異なる場合が混在していたことから、点検作業時期に対する制限事項が注記されていた反面、管理が複雑になっていた。このため、管理レベル向上の観点からプラント状態の変化に合わせて段階的に管理できる隔離操作票に再編集した。また、加圧器圧力回路の点検作業については、これまで、１次冷却系統圧力が大気圧の状態で、逃がし弁を動作させない措置を講じた時期に実施してきたことから、隔離操作票に逃がし弁を動作させない措置に関する記載は不要と考え、点検作業時期に対する制限事項を注記しなかった。作業許可申請書及び隔離操作票には作業対象機器名は記載されていたが、具体的な作業内容がわかり難いことに加え、作業工程表を添付していなかった。
+　定検班へ隔離操作票を提出した後、逃がし弁が１月３０日までは自動待機状態であることを失念していたため、加圧器圧力回路を隔離する１月２９日以降、当該作業が実施可能であると誤って認識しており、点検業者から当該作業の実施可能時期についての問い合わせに対し、１月２９日以降実施可能である旨を回答した。
+　これを受けて、点検業者から従来の定検と比べて前倒し変更となる１月２９日に当該作業を実施する計画とした工事要領書が提示されたが、１月２９日以降であれば実施可能と誤って認識していたため、問題ないと判断した。さらに、当該作業の実施時期が変更となったことを定検班員に連絡していなかった。
+（２）定検班員
+　提出された隔離操作票を検討する際、当該作業はこれまで１次冷却系統圧力が大気圧の状態で実施されており、今回も同じ時期に実施される予定となっていたため、隔離操作票に逃がし弁を動作させない措置に関する記載が無くても問題ないと考え、隔離操作票に「逃がし弁が自動待機状態を解除された時期に実施する」旨の注記もしなかった。
+（３）保修員の管理者
+　ＲＣＰＳ点検作業は標準化されていることから、当該作業の隔離操作票に問題はないと考えており、工事要領書の承認時においては、作業体制を確認したものの工程変更については確認しなかった。
+（４）定検班員の管理者
+　ＲＣＰＳ点検作業は、標準化された作業であることから、作業内容及び作業時期については従来どおりと認識していた。
+３．作業許可段階における要因の調査
+（１）保修員は１月２８日にＲＣＰＳ点検作業の作業許可書発行を定検班員に依頼したが、その際、１月２９日に加圧器圧力回路試験を実施することは連絡していなかった。
+（２）定検班員は、隔離操作票に加圧器圧力回路に係わる作業が含まれていたが、許可する作業は加圧器圧力計の計器弁の閉止操作のみであることから、逃がし弁待機中は回路試験を実施させない旨を当直長に説明し、作業許可を得た。
+（３）定検班員は、作業許可書を保修員に交付する際、回路試験は逃がし弁待機中には実施しないことを保修員も認識していると思い込み、保修員には伝えていなかった。
+（４）作業許可を受けた保修員は、１月２９日、計画どおりに当該作業を実施した。
+（５）当直長は、逃がし弁待機中は、加圧器圧力計の計器弁の閉止操作のみであると定検班員から聞き、これを条件に作業許可を行った。
+４．１次冷却系統圧力低下に伴う関連機器への影響について
+　１次冷却材ポンプＢの軸封部等の点検を行った結果、Ｎｏ．１シールの回転リングと固定リングのシール面に接触跡が認められたものの割れ等の損傷は認められなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[216]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2171</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[206]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード５]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/06/04 18:18:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2798</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200301291419]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．今回の事象について「ワンポイントレッスン」等により所内関係者に周知するとともに「定検時の隔離作業等実施マニュアル」に以下の項目を反映した。
+（１）作業条件の十分な検討を行う観点から、定期的な点検作業でプラント状態が異なる時期への変更等、従来と異なる条件で作業する場合は、作業可能かどうか、保修課において、副長または主任を含めて確認する。また、必要に応じ、作業条件または隔離操作票を再検討する。
+（２）作業許可申請書や隔離操作票の記載事項の明確化を図る観点から、作業許可条件がある点検作業については、隔離操作票に明記する。また、作業許可申請書及び隔離操作票は、作業内容がわかる記載にするとともに作業時期がわかる点検工程表等を作業許可申請書に添付する。
+（３）保修員と定検班員の情報連絡の徹底を図る観点から、作業許可にあたっては、注意事項の有無について、保修員と定検班員で確認し合う。また、作業条件の変更については、認識の齟齬が生じないよう遅滞なく定検班に連絡する。
+２．１次冷却材ポンプＢについては、接触跡の認められたＮｏ．１シール（回転リング及び固定リング）を新品に取り替えた。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/06/04 18:18:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第２号機は定期検査中、１次冷却材の脱ガス運転を行っていたところ、１月２９日１４時１９分、１次冷却材ポンプ、加圧器逃がしタンク等の運転パラメータの異常を示す警報が発信するとともに１次冷却系統の圧力が約２８ｋｇ／ｃｍ＾２から約２ｋｇ／ｃｍ＾２まで低下した。このため、運転中の１次冷却材ポンプＢを手動で停止するとともに、原因調査を行った結果、加圧器圧力回路試験において入力した模擬信号により、本来閉止状態にあるべき加圧器逃がし弁２台が一時的に開状態となり、１次冷却材が加圧器逃がしタンクに流入、１次冷却系統の圧力が低下したことが判明した。その後、１次冷却系統の圧力を当初の圧力まで回復させて系統の健全性を確認した後、１次冷却材ポンプＡを起動し、１月３０日７時１５分、正常状態に復旧した。
+　なお、本事象による周辺環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-四国-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［作業者の過失］
+　保修員は、当初、従来どおりの時期に回路試験を計画していたが、作業時期の変更に際して、作業の制約となる逃がし弁が自動待機状態であることを失念していたため、問題がないと判断した。また、保修員の管理者は、作業時期の変更の確認をしなかった。
+　保修員及び定検班員は計画段階での隔離操作票の作成において、今回も当該作業は従来と同じ時期に実施される予定となっていたため、作業許可条件となる逃がし弁を動作させない措置に係る記載は不要と考えて隔離操作票を作成した。また、作業許可申請書及び隔離操作票は、作業対象機器名は記載されていたが、具体的な作業内容がわかり難いものであった。
+　作業内容と実施時期について保修員から定検班員への情報連絡が不十分であったこと、定検班員が当直長に加圧器圧力計の計器弁の閉止操作のみの作業と説明し、当直長は、作業許可の段階で計器弁の閉止操作のみの作業許可を行ったが定検班員は、この条件を保修員に伝えなかった。
+　その結果、加圧器圧力回路試験が実施されたため、加圧器逃がし弁が一時的に開状態となった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査中の加圧器逃がし弁の誤動作について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報発信）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/25 14:02:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[216]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2171</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2171</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2171</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2171</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9027</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/11/29 13:53:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/06/25 17:03:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702071437]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査期間中，原子炉建屋地下３階復水補給水系復水移送ポンプ室および燃料プール補給水ポンプ室の排水受口から水が溢れているのを確認した。溢れた水の量は約４３リットルで，放射能量は約２．１×１０^６Ｂｑ。
+　事象発生の原因は，残留熱除去系と燃料プール冷却浄化系の連絡配管の洗浄に伴う排水作業と，制御棒駆動機構分解点検に伴う排水作業を同時に実施していましたが，関係者間の事前調整が不十分であったため，それぞれの水を同時期に流したことによって，排水受タンクへの水はけが悪くなり，タンクの近くにある排水受口から水が溢れ出たものと推定した。
+　今後の対策は，定期検査の工程を調整する会議において，作業に伴う排水時間，排水量，排水場所等の事前確認を行い，同じ排水管に対して排水作業が重ならないように調整するとともに，単独作業においても排水流量を調整して作業を行うこととした。また，これらの手順を定期検査業務に関わる手順書等に反映した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東北-S087]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[復水補給水系復水移送ポンプ室等の排水受口からの溢水について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/29 13:53:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東通]]></PLANT_RYAKU_NAME>
+		<SORT_NO>3</SORT_NO>
+		<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東通発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

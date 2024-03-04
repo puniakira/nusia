@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2724</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/06 17:10:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/01/26 10:41:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200501240256]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/06 17:10:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の５号機において、平成17年１月24日午前２時56分、「原子炉水位高トリップ」の警報が発生したが、午前６時26分に自然に警報は解除された。その後、午後３時59分に再度、同警報が発生した。
+　事象発生時、定期検査作業にともない全燃料が取り出され、原子炉水は圧力容器底部まで抜かれている状態であり、安全上の問題はなかった。また、警報発生時に作業等は実施していなかった。
+
+　原子炉水位検出器を調査した結果、平成16年12月15日以降、点検の準備として当該検出器の計器ラック入口弁を閉じ、原子炉と切り離した状態となっており、計器ラック入口弁から検出器までの配管内の水は密閉された状態となっていた。また、平成17年１月18日から、原子炉建屋の暖房を開始していた。
+　当該検出器は、原子炉圧力容器の水位を上部と下部の圧力差により検出しているが、室温の上昇にともなう密閉された配管内の水の膨張により配管内の圧力が上昇した際、配管内に存在する微少な空気により、配管内の圧力変動に差が生じたため、見かけ上原子炉水位が上昇し、警報が発生したものと推定した。
+
+　今後の対策として、計器ラック入口弁を閉止する場合は、上部と下部の配管に圧力変動の差が生じないよう検出器の均圧弁を開ける運用とし、要領書に反映することとした。
+　なお、当該検出器は点検を行い、異常がないことを確認した。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S097]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[「原子炉水位高トリップ」警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/01/31 10:02:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

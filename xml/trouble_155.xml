@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査
+　現場およびホットラボにおいて以下の調査を行った。
+（１）現地調査
+ａ．外観観察結果
+　目視で確認の結果、亀裂は認められなかった。
+Ｂ．浸透探傷検査（ＰＴ）結果
+　キャノピーシール溶接部に沿って約φ２ｍｍの指示が確認された。
+Ｃ．キャノピーシール内の水分析
+　特に問題ないことを確認した。
+（２）ホットラボ調査
+ａ．内外面観察結果
+　ＰＴの結果、亀裂は外面約１．５ｍｍ、内面約３．５ｍｍの長さで、内外面共、昭和５９年の部分補修溶接部近傍の部位にあることが判明した。
+Ｂ．渦流探傷検査（ＥＣＴ）検査性の調査結果
+　従来型ＥＣＴの検査性は、部分補修溶接部近傍ではノイズの影響により、欠陥判定が困難であることが確認された。
+Ｃ．断面観察結果
+　損傷部は、鋭敏化域であり、全面的に粒界に沿った貫通亀裂が確認された。
+　また、損傷部は鋭敏化度が他の部位よりも高いことが確認された。
+Ｄ．破面観察結果
+　損傷部破面は、ほぼ全面にわたって粒界割れであることが認められた。尚、付着物に塩素は認められなかった。
+Ｅ．材料調査結果
+　鋭敏化度（ＥＰＲ値）を測定した結果、損傷部は他の部位よりも高いことが確認された。
+　また、化学成分、硬さ分布に問題はなかった。
+２．原因調査
+（１）材料評価（鋭敏化度）
+　損傷部の鋭敏化度が高かったことは、当初のシール溶接と昭和５９年に実施した部分補修溶接の熱影響が重畳した影響と考えられる。
+（２）環境評価
+　昭和５９年の部分補修後にキャノピーシール内部は、一時的に溶存酸素濃度が高い環境になったと考えられる。その後のプラントの運転に伴いキャノピーシール内部は、溶存酸素濃度の低い一次冷却材と置換され、それ以降の定期検査ではキャノピーシール内部の水は抜けずに残ることから、溶存酸素濃度は高くなるとは考えられない。
+（３）応力評価
+　損傷部は、シール溶接による残留応力等から、ＳＣＣが発生する可能性があると考えられる。また、有限要素法（ＦＥＭ）による応力解析により、ＳＣＣが発生する可能性のある領域にあるという結果が得られている。
+（４）昭和５９年当時の補修溶接方法調査
+　部分補修溶接の施工記録により、補修要領どおり施工されていること及び補修溶接後の検査（外観、ＰＴ等）で異常のないことを確認した。（残りの文章は事象の原因に転記）]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[202]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>155</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/09/01 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>306</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199809030310]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当初計画どおり今回の定期検査において原子炉容器上部ふたを取替えることとしており、当該原子炉容器上部ふたは、制御棒駆動装置ハウジング等を耐食性に優れた材質のものにするとともにキャノピーシールを廃止した構造とする。
+]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[発生日時；平成１０年９月３日０３時１０分頃（損傷確認）
+
+　大飯発電所２号機は、平成１０年８月２９日から第１４回定期検査中のところ、８月２９日から８月３１日に実施した原子炉格納容器内点検において、８月３０日に原子炉容器上部蓋サーモカップル（炉内計装用温度計）ハウジング（Ｌ－１５）キャノピーシール部近傍に幅約６ｃｍ、下方向に長さ約１６ｃｍ程度（目測による）ほう酸析出が認められた。
+　大飯発電所２号機は定格出力運転中において、３月頃より格納容器じんあいモニタ（Ｒ－１１）の指示値並びに７月頃より格納容器サンプに流入するドレン量（格納容器サンプ水位上昇率）が通常値に比べて、わずかに高めの値で推移していたため、運転停止まで関連パラメータの監視強化を実施し、確認のため点検を行ったものある。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-関西-T006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（原因調査の概要の続き）
+　当時は、部分補修溶接による鋭敏化を最小限に抑えるよう、低入熱溶接法により実施した。
+
+（事象の原因）
+　損傷原因は、当初のシール溶接と昭和５９年に実施した部分補修溶接の熱影響が重畳したことにより、当該部の熱影響重畳部の鋭敏化度が高くなったこと、また、キャノピーシール部の応力と一時的に溶存酸素濃度の高い環境下にあったことが要因となり応力腐食割れ（ＳＣＣ）が発生し、その後の運転において、徐々に割れが進展し貫通に至ったものと推定される。
+　なお、昭和５９年当時は鋭敏化度が３０Ｃ／ｃｍ＾２・ＧＢＡ以下ではＳＣＣの感受性は低いものと評価していた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉容器サーモカップル（炉内計装用温度計）管台キャノピーシール部の損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[660]]></KIKI_CODE>
+			<TROUBLE_ID>155</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[660]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[原子炉圧力容器付属構造物]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[722]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[722]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[炉内構造物]]></KIKI_NAME>
+					<SORT_NO>39</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[202]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[202]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>155</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>155</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>155</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>155</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

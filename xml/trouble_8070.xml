@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[当該フランジ部の損傷原因について、以下の調査を実施した。
+（１）原因調査
+ ア．漏油発生箇所の点検
+（ア）外観目視点検
+   漏油部他、変圧器、ＧＩＳ各部の外観目視点検を実施した結果、漏油部のボルト周辺絶縁物に過熱痕が認められた。
+（イ）電位測定
+  漏油部周辺の対地電圧測定を実施した結果、通常は約０ボルトの電圧を示すところが、Ｖ相で約２００ボルト、Ｕ相およびＷ相で約５００ボルトの電圧が認められた。
+
+ イ．主要変圧器停止後の調査
+   発電機解列後に主要変圧器の通電を停止した後、絶縁油の抜き取りを実施し、１月２２日より当該フランジ部の分解点検を開始した。
+（ア）外被サージ用アレスタ動作状況確認
+高圧ブッシングタンクの絶縁抵抗測定および工場での電圧－電流特性試験により外被サージ用アレスタ（以下、「アレスタ」という。）の動作状況を確認した結果、Ｕ相およびＷ相のアレスタは動作・損傷していたが、Ｖ相では損傷は確認されなかった。
+（イ）絶縁部材点検
+ボルト・絶縁パイプ・コルクパッキン等の部材の損傷状況を確認した結果、各部に過熱劣化が認められた。
+
+（２）製造・組立状況調査
+ ア．設計製作図確認
+ 接地線施工図を確認した結果、本来高圧ブッシングタンクは接地されていなければならないにも関わらず、非接地の状態となっていることを確認した。
+ イ．現地据え付け記録の確認
+ 現地据え付け記録を確認した結果、施工図どおりに据え付けられていることを確認した。
+ ウ．絶縁部材の物性確認
+ 過熱劣化していた当該フランジ部のボルト・絶縁パイプ・コルクパッキン等の部材の物性を確認した結果、所定の材質であることを確認した。
+
+（３）聞き取り調査
+  施工メーカーの設計担当者に聞き取り調査を実施したところ、変圧器とＧＩＳで設計所掌が異なっており、当該接地部が施工図面に分割して記載されていたため、総合的な設計、施工管理に支障を来たした可能性があった。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8070</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/03/03 14:57:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3411</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/01/16 11:12:40]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200601131120]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[設計・製作・試験の各段階におけるチェック機能が十分機能するよう、以下の対策にて行うこととした。
+
+（１）施工メーカーの設計段階におけるチェック機能の強化
+ ア．絶縁部表示の徹底
+  変圧器とＧＩＳの接地部は、施工図面に分割して記載されていたため、取り合い部の施工状況が不明確となり確認が不十分となった。よって、今後は統合した図面にて一元管理を図る。
+ イ．設計チェックシートの充実
+  図面作成時のチェックシートに、接地設計等、必要な確認項目を明記することにより、チェックの徹底を図る。
+
+（２）試験段階におけるチェック機能の強化
+ ア．現地試験での最終チェックの実施
+  施工メーカーによる現地での確認は、構造面についての図面との照合を実施していたが、今後は機器の据え付け完了時の状態において、図面との照合の他に導通チェックによる実際の接地状況を確認する。また、当社が最終チェックの状況について記録確認する。
+
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[今回の事象の水平展開として、１号機から５号機の大型変圧器周りおよび開閉所設備についての接地状況について、図面の妥当性確認ならびにその図面による現場との照合により、問題がないことを確認した。
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/03/03 14:57:08]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[浜岡原子力発電所５号機（定格電気出力１３８万kW、定格熱出力一定運転中）において、屋外に設置された主要変圧器の周りに油が漏れていることを当社社員がパトロールで確認した。直ちに設備担当課にて現場の状況について確認したところ、１１時２０分頃、主要変圧器高圧側ブッシングフランジ部から油がしみ出ていることが確認された。油のしみ出た範囲は、約5m×約1m（2滴/秒程度のしみ出し）。
+現状、当該ブッシング部の油量は十分確保されており、プラントの運転上問題となることはないが漏えい防止剤を塗布し油漏れは止まった。プラント停止（平成１８年１月１６日第１回定期点検のため停止予定）までの期間、継続監視する。
+今後、第１回定期点検において当該事象の原因について調査し、必要な修理を実施する。
+
+なお、しみ出た油には放射能は含まれておらず、本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[推定原因
+ 今回の事象発生の原因は、ＧＩＳの設計段階において高圧ブッシングタンクを接地するよう設計する必要があったにも関わらず、それが実施されていなかったことが直接の原因であり、漏油に至ったメカニズムについては、以下の通りと推定される。
+
+（１）当該フランジ部からの漏油について
+    油漏れに至る概要は以下のとおり
+○高圧ブッシングタンクの非接地
+○絶縁取付ボルト穴内部への水分浸入による絶縁抵抗低下
+○電路への電圧印加により高圧ブッシングタンクに誘導電圧発生
+○アレスタの動作電圧以下で絶縁パイプが短絡
+○絶縁パイプへの電流連続通電
+○絶縁パイプ周囲のパッキン・絶縁板の過熱劣化
+○パッキンの劣化進行による油漏れルートの形成
+　　　→　油漏れ発生
+
+（２）Ｖ相のみでの漏油発生について
+  高圧ブッシングタンクは３相とも接地が施されていなかったが、Ｖ相のみ漏油に至った原因は、下記のとおりと推定される。
+【Ｖ相】
+  アレスタが動作・損傷する前に絶縁部材取付部で電流が流れたと推定されるが、これは通常許容される範囲の微量な水分の浸入による絶縁取付部内部の抵抗低下が原因と推定される。
+【Ｕ相およびＷ相】
+  現地据え付け後の初充電時に誘導電圧によりアレスタが動作・損傷し、それを通じて高圧ブッシングタンクが低抵抗の状態で接地したため、絶縁取付部に影響を及ぼさない５００Ｖ程度の電圧で早期に安定したと推定される。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[主要変圧器高圧側ブッシングフランジ部からの油の漏えいについて]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1410</DENKI_OUTPUT_NBR>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/01/17 17:10:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>8070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[168]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8070</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8070</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8070</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

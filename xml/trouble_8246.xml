@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8246</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/06/05 18:07:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3490</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/05/26 16:56:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200605171108]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２３回定期検査中の５月１７日、原子炉冷却系統の漏えい検査準備のため、２次系配管への水張り作業を行っていたところ、１１時５分に、タービン建屋一階床面の排水口目皿から溢水があることを協力会社作業員が発見し、直ちに当社社員が現地を確認した。また、１１時８分頃、空気抜き用として開放していたＡ，Ｂ－主蒸気逃がし弁※の排気管から水が漏れていることを発見し、直ちに当該弁を閉止するとともに水張りを停止した。これにより、漏えいは停止した。
+
+作業の状況を確認したところ、主蒸気ヘッダ室の運転員が主蒸気逃がし弁近くまで水が張れたことを確認し、中央制御室の運転員に連絡した。この連絡を受け、中央制御室の運転員は水張りポンプの流量を減らす操作を行うところ、今回はタービン建屋１階床面の排水口から水が溢れているとの連絡があったため、その調査を優先し、水張りを停止するまで流量を減らす操作が行われていなかった。これにより、Ａ，Ｂ－主蒸気逃がし弁排気管に多量の水がたまり、ゴム製の保護膜が破損し漏水したものと判明した。
+
+漏えい範囲は、中間建屋２階主蒸気ヘッダ室、１階格納容器冷却水ポンプ付近およびタービン建屋１階給水ポンプ付近で、漏えい量は約1.4ｍ3と推定している。
+
+対策としては、水張り作業を確実に実施するよう運転マニュアルを変更するとともに、運転員への教育において水張り時の注意事項や役割分担等を再徹底することとする。
+
+　なお、漏えいした水は放射能を含んでおらず、設備への影響はなく、また、環境への放射能の影響もなかった。
+
+　※主蒸気逃がし弁
+　　　主蒸気系の圧力が上昇した場合、蒸気を直接大気へ放出し、圧力上昇を抑制する弁。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[２次系配管水張り作業での水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/06/05 18:07:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8379</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/11/01 10:40:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3555</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/08/08 18:22:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[2006080811]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/11/01 10:40:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　４号機は定格出力にて運転中、廃棄物処理建屋地下１階にて液体廃棄物処理系の配管に設置された弁の分解点検を実施していたところ、平成18年８月８日午前11時頃、点検中の弁の開放部より水が漏えいしたが、すぐに漏えいは停止した。
+　このため、当該弁の点検を中断し、弁を復旧した。
+　また、漏えい時に飛散した水が点検作業中の協力企業作業員（２名）の体にかかったが、放射能測定の結果、汚染はなかった。
+　なお、漏えいした水は堰内にとどまっており、漏えい量は約31リットル、放射能量は約6.2×10^5ベクレルだった。
+　これによる外部への放射能の影響はない。
+
+　調査の結果、以下のことがわかった。
+　・当該弁が設置された配管は、原子炉格納容器機器サンプなどの排水配管と接続され、廃液収集タンクに導かれていた。
+　・本事象発生時、原子炉格納容器機器サンプの水位が上昇してサンプポンプが自動起動したため、当該弁の配管に水が流入し、点検中の弁の開放部より水が漏えいした。また、当該サンプポンプが自動停止したことにより漏えいは停止した。
+　・作業主管グループは、原子炉格納容器機器サンプの排水配管は直接廃液収集タンクに導かれていると思い込んでいた。
+
+　水漏れの原因は、作業主管グループの作業計画の段階において、液体廃棄物処理系では排水配管が直接タンクへ導かれているものが多いことから、原子炉格納容器機器サンプの排水配管も同様に敷設されていると思い込み、配管の敷設状況について図面等による十分な確認をせず、原子炉格納容器機器サンプポンプの自動起動を考慮しなかったことによるものと推定した。
+　
+　対策として、作業計画の段階においては配管敷設図により、水の流入の可能性について十分に確認することを徹底する。
+　また、当該弁の点検はプラント停止中の原子炉格納容器機器サンプポンプの点検時などにあわせて実施することとし、類似の弁についても、点検時期を見直すこととする。
+　なお、本事象については関係者による事例検討会を実施し、再発防止に努める。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S028]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所４号機廃棄物処理建屋における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/08/09 11:50:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8059</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/08/23 15:03:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3404</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/01/12 16:10:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20051129]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/08/23 15:03:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯発電所においては、ダイオキシン類対策特別措置法に基づき、１回／年の頻度で大飯発電所１、２号機および３、４号機の復水処理装置再生排水処理設備※からの排出ガスと排水の試料採取を行い、成分分析を行っている。
+　平成１７年度の分析については、平成１７年９月１５日～１６日に試料採取を行い、分析会社により試料の成分分析を行っていたが、１１月２９日、分析会社より、同設備からの排出ガス中に基準値を上回るダイオキシンが検出されたとの報告（速報）を受けた。
+　当社は、同設備の運転を停止するとともに、同設備周辺をロープで区画し、立ち入り制限を行った。
+
+※ 復水処理装置再生排水処理設備：
+　プラント運転中に、２次系統水中の不純物を除去する復水処理装置の、イオン交換樹脂を再生する際に発生した廃液を焼却処理する設備であり、プラント運転中は連続運転を行っている。
+
+＜復水処理装置再生排水処理設備の運転状況＞
+　当該設備は、平成１６年１１月に実施した定期点検終了後、処理運転を開始しており、ダイオキシンの発生に影響を与える燃焼炉温度低（設定値９００℃）の警報発信はなく、試料採取日および至近の１ヶ月間においては、燃焼炉温度は、約９６０℃（通常運転値）で安定しており、良好な運転状態であった。
+
+＜調査の結果、対策＞
+調査の結果、放水口付近の海域や敷地境界付近の大気、敷地内の土壌におけるダイオキシン濃度が基準値を十分下回っていることを確認するとともに、ダイオキシンの発生メカニズムを以下の通り推定した。
+・廃液噴霧ノズルが腐食し、ノズル噴霧穴が拡大・変形した。
+・ノズル噴霧角度が変わり、燃焼炉内の耐火材と接触することなどにより廃液が液状に滴下する状態になった。
+・廃液の噴霧状態が不良になったことから混入した樹脂が不完全燃焼し、ダイオキシンが発生した。
+
+上記結果を踏まえ、廃液噴霧ノズルの材質変更、取り付け位置変更、樹脂混入防止用ストレーナなどの設置を行い、復旧することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-関西-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[復水処理装置再生排水処理設備からの排出ガスおよび排水中のダイオキシン濃度測定結果について]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/01/12 16:13:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

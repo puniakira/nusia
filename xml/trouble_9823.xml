@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　次の通り、調査を実施した。
+１．状況調査
+（１）１回目の自動停止発生時
+ａ．今回の定期検査において励磁装置の取替工事を行っており、タービン起動後において、励磁装置の試験を実施することとしていた。
+ｂ．事象発生までのタービンの運転状態に異常はなく、また発電機の故障を示す警報は発生していなかった。
+ｃ．界磁しゃ断器の投入から約7秒経過後に発電機予熱保護リレー（※１）（以下、「６４Ｇ／Ｐ」という。）（設定値：約8.9V）が動作し、タービン・発電機が自動停止した。
+ｄ．６４Ｇ／Ｐの動作は正常であり、また保護リレー動作からタービン・発電機の自動停止までの動作も正常であった。
+ｅ．６４Ｇ／Ｐの設定値を確認したところ、判定基準を満足しており、また前回の点検時のデータと比較しても有意な差はなく動作に問題はなかった。
+ｆ．発電機固定子巻線の絶縁抵抗値は、前回測定時のデータと比較しても有意な差はなく、絶縁抵抗に異常はなかった。
+
+（２）２回目の自動停止発生時
+ａ．６４Ｇ／Ｐの設定値および発電機固定子巻線の絶縁抵抗に問題がなかったことから、実際に６４Ｇ／Ｐに発生する電圧を測定することとした。また、６４Ｇ／Ｐの動作により発電機ロックアウトリレー８６Ｇ１（※２）（以下、「８６Ｇ１」という。）が動作しないように安全処置を実施した上で、再度タービンを起動することとした。
+ｂ．タービンの運転状態に異常はなく、また発電機の故障を示す警報は発生していなかった。
+ｃ．界磁しゃ断器の投入から約9秒後に発電機地絡保護リレー（※３）（以下、「６４Ｇ」という。）（設定値：約10V）が動作し、タービン・発電機が自動停止した。
+　なお、１回目の事象において６４Ｇが動作しなかったのは、６４Ｇ／Ｐの設定値の方が低く、６４Ｇよりも早く動作するためである。
+ｄ．保護リレーの動作は正常であり、また保護リレー動作からタービン・発電機自動停止までの動作も正常であった。
+
+２．原因調査
+　発電機地絡に関する保護リレーが２回動作したこと、および採取したデータより発電機に地絡が発生している可能性が高いことが判明したことから、地絡箇所を確認するために要因分析表に基づき調査を行った。
+
+２－１．要因分析表に基づく調査
+（１）主発電機本体の地絡
+　主発電機本体の地絡の有無を確認するため、固定子コイル絶縁抵抗測定、発電機機内漏えい点検および固定子の相電圧測定を行った結果、外観及び絶縁抵抗に異常はなかった。
+　また、発電機冷却水の機内への漏えいもなく、相電圧の不平衡もなかった。
+
+（２）主要変圧器一次側・所内変圧器一次側・励磁電源変圧器一次側・相分離母線の地絡
+　地絡の有無を確認するため、主要変圧器・所内変圧器・励磁電源変圧器・相分離母線（以下「ＩＰＢ」という。）の外観点検を行った結果、主要変圧器・所内変圧器・励磁電源変圧器・ＩＰＢの外観に異常はなかったものの、今回の定期検査において新設した励磁電源変圧器の一次側にあるＩＰＢのうち、Ｕ相（※４）の導体のサポート用絶縁碍子（以下「碍子」という）に養生用のブリキ製の板（以下「養生材」という）が巻かれており、養生材に地絡痕が確認された。
+　巻かれていた養生材を外し調査した結果、ＩＰＢ導体とＩＰＢ導体を囲む缶体およびＩＰＢ導体を支持する碍子の取付ボルトにおいても地絡痕が確認された。
+　また、養生材が残っていた箇所以外の同様な箇所（28ヵ所）には養生材はなかった。
+
+（３）耐電圧試験
+　主発電機から各変圧器（相分離母線含む）の三相を一括とした範囲において、耐電圧装置を用いて電圧試験を実施した結果、異常は確認されなかった。また、耐電圧試験後に絶縁抵抗測定においても、絶縁抵抗に異常はなかった。
+
+（４）計器用変圧器の不良および地絡
+　計器用変圧器の不良および地絡の有無を確認するため、外観点検、絶縁抵抗測定、巻線抵抗測定を行った結果、外観、絶縁抵抗および巻線抵抗に異常はなかった。
+
+（５）サージアブソーバー（アレスタおよびコンデンサ）（※５）の不良および地絡
+　サージアブソーバーの異常の有無を確認するため、アレスタおよびコンデンサの外観点検、アレスタの漏れ電流測定、絶縁抵抗測定およびコンデンサの静電容量測定を行った結果、外観、漏れ電流、絶縁抵抗および静電容量に異常はなかった。
+
+（６）主発電機中性点接地回路の地絡
+　中性点接地回路の異常の有無を確認するため、絶縁抵抗測定を行った結果、絶縁抵抗に異常はなかった。
+
+（７）保護リレー（６４Ｇ／Ｐ，６４Ｇ）整定値不良
+　保護リレーの整定値異常の有無を確認するため、６４Ｇ／Ｐおよび６４Ｇ単体の整定値確認試験および絶縁抵抗測定を行った結果、整定値、絶縁抵抗に異常はなかった。
+
+　以上の調査結果から、地絡が発生した箇所以外に異常はなく、また同様な箇所（28箇所）について目視点検を行った結果、当該箇所以外に養生材が残されている箇所はなかったことから、養生材が残っていた当該部にて地絡が発生したものと考えられた。
+
+２－２．養生材が残っていたことに関する調査
+　サポート用絶縁碍子に養生材が残っていたことから、養生材の状況および養生材が残っていたことについて調査を行った。
+（１）残っていた養生材の調査
+ａ．今回の定期検査において、励磁装置の取替工事に伴い励磁電源変圧器を新設しており、励磁電源変圧器と発電機を接続するため、ＩＰＢダクトとの溶接作業を行った。その際、溶接で発生するノロによる碍子の破損および外力による破損を防止する目的で碍子に養生材板を巻いていた。
+ｂ．点検の結果、Ｕ相の当該部のみに養生材が残っており、当該部と同様な箇所の養生材は全て撤去されていた。
+ｃ．当該部は点検口から奥まった位置にあり、また、点検口からは死角となって見難い位置にあった。
+
+　以上の状況から、溶接作業終了後、当該部の養生材について撤去することを失念したと考えられた。
+
+（２）撤去を失念したことに関する調査
+　当該部の作業に係わる施工要領書（以下、「要領書」という。）の確認、当該部の作業を行った作業員および当社監理員に聞き取り調査を行ったところ、以下のことが分かった。
+ａ．要領書の確認結果
+（ａ）要領書には溶接作業を行うに際し、火災予防の観点から難燃シートを使用することとしていたものの、ブリキ製の板を養生材として使うことは記載されていなかった。
+（ｂ）要領書には内部清掃、補修塗装のステップにおいて、碍子を清掃する旨の記載があった。
+（ｃ）内部清掃、補修塗装のステップにおいて、チェックシートを用いて持込品の搬出確認をする旨記載があったが、持込品を確認するチェックシ－トが添付されていなかった。
+（ｄ）次ステップの構造検査においてもチェックシートに基づき、碍子の取付状態・損傷・汚損がないか確認する旨の記載があった。
+（ｅ）最終ステップである確認試験において、ダクト内へ注水後に浸水がないこと、接続部からの漏えいがないことを確認することのみが記載されていた。
+
+　なお、今回の励磁電源変圧器の新設工事は、当初から閉所における作業ではなく、開口部が多い状態で工事が始まり、溶接工事が進むに従って徐々に閉所となるような作業環境であった。そのため、要領書において持込品の管理が必ずしも十分な記載とはならず、持込品のチェックシ－トが添付されていなかったため、最終ステップでの異物確認が記載されていなかったものと考えられる。
+
+ｂ．聞き取り調査
+（ａ）要領書にはブリキ製の板を使用することとはなっていなかったが、作業班長は溶接作業が火気作業を伴うため、溶接時のノロ発生による影響を考慮し、さらに碍子の保護の観点から、難燃シートではなくブリキ製の板を養生材として使用した。なお、ブリキ製の板は溶接時の養生材としては難燃シ－トよりも好ましいことであったが、要領書を改訂せずに使用したことは適切ではなかった。
+（ｂ）作業員は内部清掃、補修塗装のステップで作業班長の指示に従い碍子の清掃を行ったが、当該箇所だけは清掃は行っていなかった。
+　当該箇所は見難い場所に設置されていたことに加え、作業班長は碍子の場所について具体的な指示をしなかった。
+（ｃ）作業班長は工事終了後、養生材の撤去作業の際に撤去するよう指示したものの、持込品のチェックとしては、工具については「工具・機材管理チェックシート」および「異物混入防止チェックシート」により管理していたが、養生材については管理対象としていなかったため管理されていなかった。
+（ｄ）内部清掃、補修塗装のステップの最後に行うべき内部養生撤去の確認、および次ステップである構造検査は要領書のステップ通りに行われず、実際には最終ステップの確認試験において行われる漏えい確認に合わせて行われた。この確認において、作業班長は点検口から内部の状態を確認できる範囲で確認し、異常のないことを工事担当者へ報告した。
+　作業班長から報告を受けた工事担当者は、内部の状態確認と漏水確認を行うため、ダクト内部に自ら入り、内部の状態を確認した。この時、漏水確認に重点をおいたため、当該養生材に気がつかなかった。
+（ｅ）当社監理員は、内部清掃、補修塗装のステップの最後に行うべき内部養生撤去の確認、および次ステップである構造検査を最終ステップの確認試験において行われる漏えい確認に合わせて行う旨、工事担当者から連絡を受けたが、工事担当者に要領書の見直し指示を行わず、作業ステップの変更を容認した。
+　また、上位職に対する報告、連絡、相談を行わなかった。
+（ｆ）内部清掃、補修塗装のステップの最後に行うべき内部養生撤去の確認および次ステップである構造検査は、要領書のステップ通りに行われず、実際には最終ステップの確認試験において行われる漏えい確認に合わせて行われた。当社監理員は作業班長、工事担当者とともに励磁電源変圧器の注水試験後の漏水確認にあわせて内部最終確認を行っていたが、内部への漏水確認に重点をおいて確認を行っており、下部点検口より確認した際、当該養生材に気がつかなかった。
+
+
+※１：発電機予熱保護リレー（６４Ｇ／Ｐ）
+発電開始前に発電機における地絡が発生した場合に発電機を保護するため、８６Ｇ１を動作させる装置。
+
+※２：発電機ロックアウトリレー８６Ｇ１
+発電機における地絡（発電機固定子巻線から漏電し、大地に電気が流れる事象）等の故障が発生した場合に発電機を保護するため、タービン・発電機を自動停止させる装置。
+
+※３：発電機地絡保護リレー（６４Ｇ）
+発電機における地絡が発生した場合に発電機を保護するため、８６Ｇ１を動作させる装置。
+
+※４：Ｕ相
+ＩＰＢは三相に分かれているため、それぞれの導体をＵ相・Ｖ相・Ｗ相と呼称している。
+
+※５：サージアブソーバー（アレスタおよびコンデンサ）
+雷などによる急峻な侵入電圧を吸収する機器。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9823</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/06 17:07:03]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4229</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/06/19 11:35:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200806080500]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）地絡の原因となっていた養生材を取り外し、導体，缶体の地絡痕を磨く等の処置を実施した。なお、他に地絡箇所がないこと、および地絡が発生した箇所の処置後の健全性を確認するため、耐電圧試験を行い、異常がないことを確認した。
+
+（２）作業の最終ステップにおいて、異物がないことを確実に確認できるよう要領書の既存のチェックシートを改善する。また、作業の進捗によって、開口状態から閉所・密閉状態に移行する新規組立作業等、異物管理状態が変更となる場合には、工事実施前より徹底した異物混入防止管理（養生材含む）を実施するとともに、工事終了後の最終確認にあたっては、当社立ち会いのもと確実に実施することとし、その旨を要領書に記載する。
+
+（３）当社関係者および協力企業に対し本事象を紹介し、要領書通り作業を行うことの重要性を再徹底する。また、要領書の作成にあたっては、現場の実態を十分反映すること、および複数の確認行為をあわせて行う際には、それぞれの目的にあった適切な方法で確認することを周知する。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/06 17:07:03]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成20年６月５日より起動操作中の福島第一原子力発電所５号機（沸騰水型、定格出力78万４千キロワット）は、平成20年６月８日５時頃よりタービンを起動し、発電開始前に行う発電機に係わる試験の準備を行っていたところ、８時57分頃、発電機保護に関する警報が発生し、タービンが自動停止した。その後、調査のために再度タービンを起動したところ、発電機保護に関する別の警報が発生し、タービンが自動停止した。
+　発電機に関する設備を詳細に調査する必要があるため、平成20年６月９日20時15分原子炉を手動停止した。
+　本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上の調査結果から、原因は以下の通りと推定された。
+（１）地絡が発生したメカニズム
+ａ．励磁電源変圧器の新設工事終了の際、養生材の撤去を失念し、碍子に取り付けたままとなった。
+ｂ．養生材はブリキ製の導電性であったことから、界磁しゃ断器を投入した際、導体に電圧が印加され、養生材と導体間（又は缶体間）の隙間（空隙）が発電機電圧上昇に伴い絶縁が破壊され地絡が発生した。
+
+（２）養生材の撤去を失念した要因
+ａ．要領書に持込品のチェックシ－トがなく、養生材の持込および撤去の際の管理が不十分となった。
+ｂ．要領書に作業の最終ステップ（注水試験後）において、異物がないことを確認する旨の記載がなかった。
+ｃ．当該ダクトの清掃を行った際、当該箇所は見難い場所に設置されていたことに加え、作業班長は碍子の場所について具体的な指示をしなかったため、碍子の清掃時に当該のブリキ製の板に気づかなかった。
+ｄ．内部清掃、補修塗装のステップの最後に行うべき内部養生撤去の確認、および次ステップの構造検査を要領書のステップ通り行わず、注水試験後の漏水確認と合わせて行ったため、工事担当者、作業班長および当社監理員のいずれもが、漏水確認に重点が置かれ、当該部位の碍子に養生材が巻かれたままになっていることを確認することができなかった。
+ｅ．当社監理員は、工事担当者から作業ステップの変更に関する連絡を受けていたにも関わらず、要領書の変更の指示を行わず、上位職に対する報告、連絡、相談を怠った。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[起動操作中における発電機の保護に関する警報の発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/14 09:07:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[発電機・励磁機*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9823</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[主発電機・励磁機]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[090]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[090]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[主タービン発電機装置]]></KIKI_NAME>
+					<SORT_NO>8</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>9823</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

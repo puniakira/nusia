@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11779</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/09/20 10:37:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>41523</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/08/08 11:49:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201308071044]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/09/20 10:37:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所１､２､３号機は、定期検査中のところ、平成２５年８月７日１０時４４分、雑固体処理建屋１階（管理区域内）の圧縮減容固化設備において、高圧圧縮減容装置 ＊１ で放射性固体廃棄物を圧縮していたところ、廃棄体が落下して当該装置の駆動用の油を供給するホースと接触し、少量の油が漏れていることを運転員が確認した。
+　調査の結果、ドラム缶圧縮後に通常上昇することのない廃棄体が、金枠・金型と一緒に上昇した後落下し、駆動用の油を供給するホースに接触したことを確認した。また、駆動用の油を供給するホースについて、外観を確認したところ損傷はなく、継手部よりホース内の油が漏れ出ていたことを確認した。
+　このため、当該継手部を増し締めし、油圧をかけて漏えい試験を行い、当該ホースおよび継手部に漏えいはなく異常がないことを確認した。
+　今回、漏えいした油は約１８０ｃｃであり、全て拭き取って回収した。また、廃棄体表面を測定した結果、放射性物質は検出されなかった。　
+　なお、本事象による環境への放射能の影響はなかった。
+
+＊１ 高圧圧縮減容装置
+不燃性の低レベル放射性固体廃棄物（配管・ケーブル等）を圧縮減容するための油圧プレス機
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-四国-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高圧圧縮減容装置の油圧系統継手部からの油漏れについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/08/08 11:50:51]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

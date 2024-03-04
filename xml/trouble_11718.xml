@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11718</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/05/27 20:03:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/05/27 19:49:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201305170855]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２５年５月１７日午前８時５５分頃、構内散水作業準備中の当社社員が、５・６号機側屋外に設置しているＲＯ装置処理水タンク（Ｄ７タンク）オーバーフロー配管から水が溢れていることを確認した。その後、午前９時頃、弁を閉止したところ、水の漏えい停止を確認した。
+漏れた水は、構内散水に使用しているＲＯ装置による処理後の水であり、地面（砂利）に約３ｍ×約20ｍの範囲で染み込んでいるが、周辺に排水溝等はなく、海洋までの距離が約100ｍあることから、海洋への流出はないと判断した。漏えい量は27.5ｍ3と推定。（前日までの当該タンク水位と処理水の移送量から推定）
+核種分析結果
+　γ（代表）のセシウム137：検出限界値未満（検出限界値：1.5×10-3Bq/cm3）
+　全β線放射能濃度：検出限界値未満（検出限界値：2.4×10-2Bq/cm3）
+
+原因
+処理水タンクは合計８基（Ｄ１～Ｄ８）あり、前日予定していたＤ７タンクからＤ８タンクへの切替操作を失念したことから、Ｄ７タンクオーバーフロー配管より水が溢れた。
+
+対策
+ＲＯ装置運転データ確認のチェックシートにＲＯ処理水タンク切替に関する確認項目を追加し、ＲＯ処理水タンク切替の失念を防止する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　５／６号機ＲＯ装置処理水タンクにおける水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5,6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/05/27 20:03:34]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

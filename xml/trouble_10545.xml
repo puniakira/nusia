@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）前回までの定期試験の状況
+今サイクルは、平成２０年８月１１日に同事象が発生している。その際は、発生の翌日にＦ０４２Ａの均圧操作を実施したところ問題なく均圧ができた。その後は、今回定期試験まで再発はなかった。
+（２）運転員からの聞取り
+通常、ドレン弁からの圧抜きは２０秒程度で大気圧まで減圧できるが、今回は１回目に４分程度ドレン弁を開としていたが減圧できなかった。
+その後、系統構成を確認した上で再度ドレン弁を開としたが、１分程度経過した時点でドレン配管の温度上昇が確認されたため、定期試験手順書に基づき試験を中断した。
+なお、健全性確認試験を行った（Ｂ）、（Ｃ）については通常通り２０秒程度で減圧ができた。
+（３）要因分析に基づく点検調査
+Ｆ０４２Ａの均圧操作ができなかった原因について、要因を分析したうえで点検調査を実施した。
+１）Ｆ０４１Ａのシートパス
+Ｆ０４１Ａを開した後に弁間圧抜きを実施したところ、２回目で弁間圧力を降下することができた。このため、シート面に微小な異物が存在したか、一時的なシート不良が発生した可能性が考えられる。
+なお、弁間圧抜き時、温度計によりドレン配管の圧抜き前後における変化を確認したところ有意な温度上昇はなく、ドレン配管に原子炉側からの高温水が流入していないことを確認した。
+
+２）Ｆ０４１Ａの閉止不良
+Ｆ０４１Ａについて、至近３回の定期検査での点検記録を確認した結果、問題は無かった。
+また、Ｆ０４１Ａについて分解点検を行っている至近２回の定期検査（第１２回、第１９回定検）の点検記録を確認した結果、問題は無かった。
+さらに、２４日に実施した作動確認で状況が改善されたことから、Ｆ０４１Ａの閉止不良は要因としては考え難い。
+
+３）ＦＦ０２７Ａの閉止不良
+ＦＦ０２７Ａについて、至近３回の定期検査での点検記録を確認した結果、問題は無かった。
+また、ＦＦ０２７Ａについて分解点検を行っている至近２回の定期検査（第１８回、第２１回定検）の点検記録を確認した結果、問題は無かった。
+さらに、２４日に実施した作動確認で状況が改善されたことから、ＦＦ０２７Ａの閉止不良は要因としては考え難い。
+４）ＦＦ０２７Ａシートパス
+ＦＦ０２７Ａを開した後に弁間圧抜きを実施したところ、２回目で弁間圧力を降下することができた。このため、シート面に微小な異物が存在したか、一時的なシート不良が発生した可能性が考えられる。
+なお、弁間圧抜き時、温度計によりドレン配管の圧抜き前後における変化を確認したところ有意な温度上昇はなく、ドレン配管に原子炉側からの高温水が流入していないことを確認した。
+
+５）差圧指示計不良
+Ｆ０４２Ａ弁前後の差圧を示す指示計（ＤＰＴ－Ｅ１２－Ｎ０５８Ａ）の指示値が正常かを確認するため差圧計の均圧を実施した結果、零点指示は正常であり、異常は見られなかった。
+
+なお、圧抜き後、Ｆ０４１Ａ及びＦＦ０２７Ａの作動試験を行い、動作に問題ないことおよびＦ０４２Ａの前後に４．９ＭＰａ以上の差圧（約７．０ＭＰａ）が発生し維持されていることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10545</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/09/13 18:34:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[発電長はＲＨＲ（Ａ）電動弁作動試験の一環として、Ｆ０４２Ａの開閉試験を行うために、Ｆ０４２Ａの均圧操作を実施したところ、Ｆ０４２Ａの前後間の差圧が約７．０ＭＰａのまま変動せず、均圧できないことを確認した。このためＲＨＲ（Ａ）の定期試験手順書に基づき定期試験を中断するとともに、原子炉施設保安規定第３９条の運転上の制限からの逸脱を宣言し、速やかに保安規定第３９条第３項に基づき、低圧注水系（Ｂ）、（Ｃ）について健全性確認試験を実施し、問題のないことを確認した。
+
+この後、調査を行った結果、F041Aまたはその均圧弁であるFF027Aの弁シート面への異物噛み込みまたは一時的なシート不良が原因と考えられ、作動確認により弁シート面の状態が改善されたことを確認し、２４日２３時０５分から低圧注水系（Ａ）の健全性確認試験を行い、健全であることが確認できたことから、運転上の制限の逸脱解除を宣言した。
+
+平成２１年８月２４日１２時０２分運転上の制限を満足していないと判断（運転上の逸脱を宣言）
+平成２１年８月２５日　０時１２分運転上の制限の逸脱解除を宣言した。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>15832</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/02 16:38:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908241202]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[２４回定期検査でＦ０４１Ａ及びＦＦ０２７Ａを分解点検した結果、Ｆ０４１Ａ弁開放時弁箱内及びシート面近傍に水垢のようなものが確認されたが、シート面に異物等の傷跡及び異物はなく、当たり及び作動試験でも異常がなかった。このため、原因は定期試験時の弁開閉によりシート面に水垢が混入し、ドレン弁極微開での微差圧状態でのシート性が一時的に良好でなかったためと考える。
+このため、再発防止対策として、従来の運転手順では、均圧のためのドレン操作を徐々に行なう事としていたが、
+今回の点検結果を踏まえ、均圧操作を短時間で行なう手順に見直しを行いＦ０４１Ａ前後に差圧を生じやすくする事で、シート性を向上するよう運転手順書を改訂した。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/09/13 18:34:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海第二発電所は定格熱出力一定運転中のところ、平成２１年８月２４日残留熱除去系（以下、「ＲＨＲ」という。）（Ａ）の定期試験の実施に伴い、９時４２分頃より電動弁作動試験を実施していた。電動弁作動試験の一環として、ＲＨＲ（Ａ）低圧注水系注入弁Ｆ０４２Ａ（以下、「Ｆ０４２Ａ」という）の開閉試験を行うために、Ｆ０４２Ａの均圧操作※１を実施したところ、Ｆ０４２Ａの前後間の差圧が約７．０ＭＰａのまま変動せず、均圧できないことを確認した。
+このため、発電長はＲＨＲ（Ａ）の定期試験手順書に基づき定期試験を中断するとともに、平成２１年８月２４日１２時０２分、原子炉施設保安規定第３９条の運転上の制限からの逸脱を宣言し、速やかに保安規定第３９条第３項に基づき、低圧注水系（Ｂ）、（Ｃ）について健全性確認試験を実施し、問題のないことを確認した。
+その後、要因分析図に基づく調査を行った結果、今回の事象はテスタブル逆止弁Ｆ０４１Ａ（以下、「Ｆ０４１Ａ」という）またはその均圧弁であるＦＦ０２７Ａ（以下、「ＦＦ０２７Ａ」という）の弁シート面への異物噛み込みまたは一時的なシート不良が原因と考えられ、Ｆ０４１ＡおよびＦＦ０２７Ａの作動確認（弁シート面のフラッシング）により弁シート面の状態が改善されたことを確認した。
+このため、２４日２３時０５分から低圧注水系（Ａ）の健全性確認試験を行い、健全であることが確認できたことから、２５日０時１２分運転上の制限の逸脱解除を宣言した。
+※１：通常運転中のＲＨＲ待機状態では、Ｆ０４２Ａ下流側（原子炉側）圧力が約７．０ＭＰａ、上流側（ＲＨＲ（Ａ）ポンプ側）圧力が約０．５ＭＰａ以下となっている。この状態ではＦ０４２Ａの上流側と下流側の差圧が４．９ＭＰａ以上であるために差圧大のインターロックにより開閉できないことから、Ｆ０４２ＡとＦ０４１Ａ間のドレン弁から圧抜操作を行うことにより、Ｆ０４２Ａ前後の均圧を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[以上より、前回７月１４日に実施した定期試験では問題がなかったことから、７月１４日以降から８月２４日までの間※２でＦ０４１ＡまたはＦＦ０２７Ａのシート面にクラッド等の微小な異物が挟まれたか、一時的なシート不良が発生し、シートパスを生じたと推定される。
+
+※２：７月１８日から８月１９日の間は原子炉停止状態にあった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[残留熱除去系（Ａ）の運転上の制限の逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限からの逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1105</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>15994</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/02 16:46:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>9951</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[502]]></KIKI_CODE>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁シート面]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10545</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[502]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[空気作動弁（窒素作動弁）]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[残留熱除去系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[106]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[弁シート面への一時的な水垢の混入]]></S_GENIN_NAME>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他偶発的要因]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[偶発的な燃料のピンホール、シートの当たりが変化したことによるシートパス等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10545</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

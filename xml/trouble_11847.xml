@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11847</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/04 15:44:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58609</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/11/09 07:20:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201310040643]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/04 15:44:45]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[10月４日午前６時43分頃、多核種除去設備（ＡＬＰＳ）Ｃ系について、工程異常の警報が発生して停止。漏えい等の異常は確認されていない。多核種除去設備（ＡＬＰＳ）Ｃ系の停止について、原因調査および再発防止対策の検討が終了し、その後、暫定対策の実施が終了したことから、10月４日午後６時31分、多核種除去設備（ＡＬＰＳ）Ｃ系を起動。
+
+・多核種除去設備（ＡＬＰＳ）は、排水タンクレベルが自動で排水する水位以上で、かつバッチ処理タンクレベルが「Ｈ」（高レベル）でない時に、バッチ処理タンク入口弁が開くロジックとなっている。「工程異常」警報発生当時、吸着塔（７Ｃ）の差圧が高めだったことから、当該吸着塔の逆洗を行っており、逆洗後の水が排水タンクに送られ、排水タンクの水位が自動で排水するレベルとなっていました。なお、排水タンクの移送先は、「バッチ処理タンク２Ｃ」を選択。
+・一方、バッチ処理タンク２ＣのＲＯ濃縮水受入工程において、ＲＯ濃縮水受入により水位が上昇したため受入を停止する信号を検知（レベルＨ）して移送が停止し、薬液注入工程へ移行。薬液注入工程開始に伴いバッチ処理タンク攪拌機が起動したため、液面が上下して、一時的にバッチ処理タンクレベルＨ信号（受入を停止する信号）がリセットされた。
+・排水タンクのレベルが自動で排水する水位以上であり、かつ移送先として選択されていたバッチ処理タンク２Ｃの受入を停止する信号がリセットされたため、バッチ処理タンクへ移送するラインの入口弁が「開」となった。このため、バッチ処理タンク２Ｃへの受入が出来ない状態で、当該弁が「開」となったことから、「工程異常」の警報が発生し、系統が自動停止に至った。なお、同警報が発生した際、当該弁は自動的に閉じている。
+・以上から、排水タンクの受入先として連続処理中のＣ系統のバッチ処理タンクを選択し、かつ排水タンクレベルが自動で排水する水位以上で、受入先のバッチ処理タンクの受入を停止する信号がリセットされた場合、このようなことが発生することが判明。
+
+原因調査結果をふまえ、以下の再発防止対策を実施。
+・暫定対策として、排水タンクの受入先を、停止中のＢ系バッチ処理タンク（１Ｂ）とする。また、排水タンク送水ポンプの電源を「断」とし、さらに、排水タンク出口弁（手動弁）を「閉」とする。
+・暫定対策では、Ｂ系のホット試験再開時に同様のことが発生する可能性があることから、恒久対策として、以下の処置を実施する。
+①排水タンクの受入先は、受入可能なバッチ処理タンクを自動で選択する「多核種入口」とする運用とし、「多核種入口」が選択されていない場合は、ガイダンスを表示させるよう、ロジックを変更する。
+②排水タンクの受入先を「各バッチ処理タンク」とする場合、処理実施中（連続処理中）は排水タンクに受け入れない（移送ラインの入口弁が開にならない）ようなロジックに変更する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S061]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　多核種除去設備Ｃ系「工程異常」警報発生について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/11/21 17:55:36]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

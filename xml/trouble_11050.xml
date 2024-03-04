@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>11050</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/18 10:32:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>17900</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/07/30 09:17:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201007281140]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/18 10:32:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年７月28日午前11時40分頃、３・４号機主排気筒における毎週１回行っている放射性の粒子状物質の定期測定において、７月21日から７月28日の期間に採取した試料採取フィルタからガンマ線を放出する物質（銀110m）を検出した。
+　その後、粒子状物質を放出する可能性がある作業内容について調査を行っていたが、８月４日午前11時８分頃、当該排気筒における定期測定において、７月28日から８月４日の期間に採取した試料採取フィルタからガンマ線を放出する物質（銀110m、コバルト60、マンガン54）を検出した。
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+（１）１回目（７月28日検出）の調査
+・３号機原子炉建屋換気空調系の試料採取フィルタにおいて、銀110mが検出されていたこと。
+・原子炉建屋各エリアの放射性物質測定記録を調査したところ、オペレーティングフロアにおいて、７月21日および７月22日に採取した試料に銀110mが検出されていたこと。
+・７月21日および７月22日は、３号機原子炉圧力容器に接続された弁(水没弁)点検のため、原子炉圧力容器内の水を抜く作業を実施していたこと。
+・原子炉圧力容器内の水抜きを開始した７月21日午後６時頃から22日午前９時頃にかけて、作業区域内からの放射性物質の拡散防止を図るために設置している高性能粒子フィルタ付局所排風機を運転していなかったこと。
+・原子炉圧力容器内の水抜き作業時に、高性能粒子フィルタ付局所排風機を設置することについては工事施行要領書に記載されていたものの、運転を開始する時期については記載されていなかったこと。
+
+（２）２回目（８月４日検出）の調査
+・７月28日以降、３号機原子炉建屋換気空調系の試料採取の頻度を週１回から週３回に変更したこと。それに伴い、７月28日から８月４日の期間に採取した試料の一部から銀110m、コバルト60、マンガン54が検出されたこと。
+・当該期間において、銀110m、コバルト60、マンガン54が含まれている可能性がある水を内包する機器の点検で、かつ放射性物質が舞い上がる可能性がある作業は、水没弁点検、原子炉圧力容器仮開放作業および原子炉冷却材浄化系ポンプ（Ｂ）点検であること。
+・水没弁点検および原子炉圧力容器仮開放作業については、作業区域で当該期間中の放射性物質測定記録に異常はなかったこと。
+・原子炉冷却材浄化系ポンプ（Ｂ）点検において、高性能粒子フィルタ付局所排風機の吸い込み口が当該点検箇所から離れていたこと。
+
+３．推定原因
+　放射性物質検出（１回目）の原因は、原子炉圧力容器内の水を抜いたことにより、原子炉圧力容器内壁などからはく離・浮遊した放射性物質が、高性能粒子フィルタ付局所排風機を運転していなかったために、原子炉建屋換気空調系に流れ込んだものと推定した。
+　また、放射性物質検出（２回目）の原因は、原子炉冷却材浄化系ポンプ（Ｂ）点検において、拡散した放射性物質が、高性能粒子フィルタ付局所排風機の吸い込み口が当該点検箇所から離れていたために、原子炉建屋換気空調系に流れこんだものと推定した。
+
+４．対策
+　以下の対策を実施することとする。
+（１）原子炉圧力容器内の水抜きの際は、高性能粒子フィルタ付局所排風機を水抜き直後から作業後の水張り完了するまで、常時運転するよう工事施行要領書に反映する。
+（２）放射性物質が舞い上がる可能性のある作業を実施するときは、高性能粒子フィルタ付局所排風機の吸い込み口を当該点検箇所に近づける、あるいは局所排風機で十分吸引できるよう点検場所を区画するよう工事施行要領書に反映する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S018]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所３・４号機主排気筒における微量な放射性物質の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/08/02 10:50:33]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

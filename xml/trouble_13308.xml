@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[「事象の原因」に記載。]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13308</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2023/06/13 16:37:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2021/06/29 16:09:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20210519]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（要因１に対する対策）
+１．管理の強化（組織としての情報共有・体制面強化）
+　(1)ＴＬは、メンバーの力量を判断の上、現場出向の人員を配置し、ＧＭは作成された直営作業の作業予定表・防護指示書にて人員体制が適正であることを確認の上承認する運用とする
+２．危険エリアに対する感度向上
+　(1)ＧＭは、作成された作業予定表・防護指示書にリスクの抽出漏れがないか確認(問い掛け)し、承認する運用とする。（当該部は即日から実施）
+　(2)直営作業の作業予定表・防護指示書に「線量当量率」「ダスト濃度」「表面汚染」の項目を追加する運用とし、ミーティングにて関係者全員に周知する
+３．安全な作業環境が確保されていない危険エリアの明確化
+　(1)今回の事象を踏まえ当該部において、構内全域の現場出向エリアを対象に現場確認を実施、建屋平面図に危険エリアを反映した危険エリアマップを作成し、当該部内へ危険マップを周知する
+４．複数名による現場出向基準の明確化及び徹底
+　(1)今回作成した危険エリアマップを協力企業及び所員が閲覧可能なハザードマップに反映し、危険エリアについては、複数名にて出向する現場出向基準について周知する
+
+（要因２に対する対策）
+１．「作業予定表・防護指示書」変更内容の管理、徹底
+　(1)作業内容や体制等に変更が生じる場合、再ミーティングにて作業予定表・防護指示書を修正、作業再開前に関係者全員に周知する運用とした。（当該部は即日から実施）
+
+（要因３に対する対策）
+１．放射線防護上の事例紹介による注意喚起
+　(1)当該監理員に対し、「放射線防護のふるまいに関する教育」の再教育を実施する
+　(2)本事例を「マスク着脱手順の反復教育時に使用する教育資料」へ追加する
+　(3)本事例を「放射線防護のふるまいに関する教育資料」へ追加する
+
+（要因４に対する対策）
+１．現場表示の取付
+　(1)当該建屋内の当該移送配管排水先までの移動導線に表示を取付る
+　(2)当該建屋内の扉出口近傍に避難経路の表示を取付る
+　(3)当該建屋の扉入口に「単独入域禁止」の表示を取付る
+２．現場環境の改善
+　(1)当該建屋内に照明及び誘導灯を設置する]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/06/13 16:37:15]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[事象概要
+2021年3月10日、主管グループのグループ員(以下「社員A」という。)が、単独でプロセス主建屋(以下「当該建屋」という。)において現場調査を実施していたところ、調査終了後に、当該建屋出口へ向かっている途中で帰路が分からなくなり、警報付個人線量計が警報設定値に達したことから、復旧班長へ連絡した。その後、迎えに来た社員2名と合流し、当該建屋から屋外へ退出したが、全身及び鼻腔に汚染があることが確認された。
+　当該建屋は高線量かつ高汚染の環境下であるが、社員Aは当該建屋出ロへの帰路が分からなくなった際、発汗により全面マスクの視界が悪くなったことから、汚染したゴム手袋で全面マスク及び眼鏡の位置調整を行い、顔面等に触れたことにより顔面が汚染したものである(内部被ばくによる預託実効線量:0.43mSv)。3月11日、放管部門は、内部被ばく線量は記録レベル2mSv未満であり、有意な取り込みはないと判断した。
+　当日の作業前ミーティングにおいて、主管ＧのＴＬ、社員A及び社員Bは、現場調査の内容、体制、注意事項、装備等を「作業予定表・防護指示書」及び「KYシート」により確認し、当該建屋内は暗いため照明を持参すること及び現場調査は2名で実施することとしていた。社員A及び社員Bは現場調査に向かい、途中で当該建屋入口の鍵を借用することを忘れたことに気づき、午前中は当該建屋周囲の調査のみを実施して新事務本館に戻った。
+昼休憩中に社員AはTLに再度現場へ出向する必要がある旨を報告し、社員Bが午後不在になることを本人から聞いていたことから、単独で免震重要棟に向かった。TLは、午後の現場調査の要員として社員Cを選定していたが、社員Aが自席にいなく、昼休憩による不在と考えていたため、速やかに社員Aへ連絡を取らなかったが、13時20分頃、TLは社員Aへ電話で居場所確認の連絡をしたところ、社員Aは免震重要棟にて当該建屋への入域準備中であった。
+　TLは、社員Aが当該建屋内は暗所であることは理解しており、「作業予定表・防護指示書」の注意事項である照明を2つ以上用意していることと、過去3回の調査実績があることから、単独での現場調査を容認した。ただし、過去3回の現場調査は複数人によるものであった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東京-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[・当該監理員は、放射線管理上のルールでマスクの取扱いについては理解していたが、発汗により全面マスクが曇り、視界が悪くなったことから、汚染したゴム手袋で全面マスクおよび眼鏡の位置調整をしたことにより、身体に汚染が伝搬した。
+・プロセス主建屋内は照明が無い上、マスクの曇りにより視界が悪い中でAPDが設定値に達し鳴動したことから、ＡＰＤの値を確認しようと汚染したゴム手袋でカバーオールのチャックを開けたことにより、下着に汚染が伝搬した。
+また、APDが設定値に達したことにより焦りが生じ、移動する際に周辺の構造物に身体を接触させてしまった。
+
+（背後要因）
+・物揚場排水路PSFモニタ高警報対応として、水移送ラインの現場調査のため、単独で現場へ出向した。
+・管理者が単独での現場出向を把握していなかった。管理者はプロセス主建屋入域前に居場所確認の連絡を取り、作業予定表・防護指示書上2名体制としていたが、入域経験のあるエリアであること、ヘッドライトと懐中電灯を持っていること、本人に経験があり問題ないとの意思を確認した上で力量があると判断し、現場調査開始を容認した。
+・当該監理員は、プロセス主建屋内の調査は過去に3回実施した経験があり、単独で可との思い込みがあった。
+・予定通りの作業内容の場合は、適切なAPD設定値（0.2mSv）であったが、想定外の事を加味した設定ではなかった。
+・調査を完了した後、出口までのルートに迷ってしまったことから焦りが生じ、冷静な判断力を失った。
+
+以上の内容を踏まえ、主たる要因を下記とする。
+・要因１：危険箇所を危険と感じることが出来ない意識（感度）の低さ
+・要因２：「作業予定表・防護指示書」の変更管理未実施
+・要因３：放射線防護上のルールを理解していたが、焦りによりルール逸脱
+・要因４：プロセス主建屋が暗所かつ複雑なため迷い]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[プロセス主建屋における顔面汚染事象]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[令和2年度第4四半期実施計画検査の検査指摘事項として、「軽微な違反（監視）」と判定（2021.5.19規制委） 　　]]></IHAN_SHOSAI_TXT>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>113282</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/06/29 16:09:20]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13308</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[なし]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[放射線管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[放射線管理業務に関する同上の問題]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13308</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

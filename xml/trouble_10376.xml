@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10376</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/10/19 17:19:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4478</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/06/02 09:39:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[2009031511]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[根本原因の対策
+ａ．計画外作業に対する計画・承認プロセス不十分
+ 計画外作業の計画立案プロセス（具体的には作業対象系統の状況確認、調査
+計画立案、適切なレビューメンバーの選任、作業実施の要否、作業対象系統の
+状況確認、リスク確認等）および承認プロセス（具体的にはリスク確認、計画
+外作業の検討ルール等）を明確にするために現行要領書を見直すことなどによ
+り、計画外作業においても計画・承認を確実に行うようにする。
+ｂ．当直のバリア機能に関するプロセス不十分
+ 当直のバリア機能に関するプロセス（具体的には想定外警報発生時の作業中
+断等の指示、プラント状況変化に応じた盤面監視、計画外作業における保修作業
+票の運用）を明確にするために現行要領書を見直すことなどにより、プラント監
+視および管理の強化・充実を図る。
+ｃ．コミュニケーション不十分
+ 計画外作業に限らず、保安活動を実施する上で重要な情報を関係者が相互に
+情報伝達を行うことの重要性について、安全文化醸成活動の中で継続的に意識付
+けを行っていく。
+ｄ．個別根本原因
+ 原因が不明な場合の保修作業依頼票の記載内容（プロセス）について、プロ
+セスを明確にする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/10/19 17:19:09]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．概要
+女川１号機第１８回定期検査中において，平成２１年３月１５日１１時頃，残留熱除去系（Ｂ）ポンプ出口圧力計の点検を実施したところ，残留熱除去系（Ｂ）へ最高使用圧力（３．１ＭＰａ）を超える圧力が加わっていたことが判明した。
+このため，直ちに系統内の圧力を抜き，通常圧力に戻した。（約６．９ＭＰａ→
+１．０ＭＰａ）
+なお，残留熱除去系の当該範囲に最高使用圧力以上の圧力が加わったことから，残留熱除去系（Ｂ）の健全性評価を実施し，問題のないことを確認した。
+
+２．時系列
+　３月１０日
+　２２時２０分頃
+　残留熱除去系ポンプ（Ａ）（Ｃ）を起動し，運転手順書に基づき，原子炉停止時 冷却モードでの両系注入を開始した。
+
+３月１２日
+　２１時３０分頃
+運転直の引継ぎの際，中央制御室の盤面確認を行っていた運転員が残留熱除去系（Ｂ）ポンプ出口圧力計の指示値が振り切れていることを発見し，発電課長に報告した。
+引継ぎ終了後，現場計装ラックの外観，弁の開閉状態を調査したが異常はなく，また，これまで残留熱除去系停止時冷却モード両系注入における運用において系統の圧力が上昇した経験がなかったことから，計器の異常と考えられたため，保修作業依頼票を発行した。
+この時，残留熱除去系（Ａ）は停止時冷却モードで運転中であり，出口圧力は約１．３ＭＰａで正常であった。
+なお，残留熱除去系停止時冷却モードの両系注入は，これまでにも実績のある運用であり，運転手順書に基づき実施した。
+また，３月１２日８時頃の中央制御室の盤面確認においては，残留熱除去系（Ｂ）ポンプ出口圧力は振り切れていないことを運転員の聞き取りにより確認している。
+３月１３，１４日
+電気保修課が残留熱除去系（Ｂ）ポンプ出口圧力発信器の取替え準備を実施
+した。
+
+　３月１５日
+　１０時３０分頃
+電気保修課が残留熱除去系（Ｂ）ポンプ出口圧力発信器の取替え，耐圧試験および計器校正を実施した。
+
+　１１時００分頃
+残留熱除去系（Ｂ）ポンプ出口圧力発信器をインサービスしたところ，再度，圧力が振り切れた。
+このため，当該圧力発信器（ＰＴ－Ｎ０２６Ｂ）にデジタル圧力試験器を設置し，圧力を確認したところ，６．８７ＭＰａが検出され，同一ラインの圧力発信器（ＰＴ－Ｎ０３４Ｂ）においても６．７５ＭＰａが検出された。
+以上より，実際に約６．９ＭＰａの圧力がかかっている可能性が高いことが判明した。
+このため，残留熱除去系（Ｂ）熱交換器ベントラインから圧力を抜き，１．０
+ＭＰａまで低下した。
+
+　１５時４９分～１６時１５分頃
+残留熱除去系ポンプ（Ａ），（Ｃ）を停止し，その後，残留熱除去海水系ポンプ（Ｄ），残留熱除去系ポンプ（Ｂ）を起動して残留熱除去系（Ｂ）の運転状態確認および塩素濃度分析を実施した。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東北-M013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[３．圧力上昇のメカニズム
+残留熱除去系（Ｂ）の系統内圧力が上昇した要因について検討した結果，次のとおり残留熱除去系（Ａ）停止時冷却モードによる運転時の伝熱により系統内の水温が上昇し，それに伴い系統内圧力が上昇したものと推定される。
+（１）運転手順書に基づき，残留熱除去系（Ｂ）の一部の系統を隔離した。
+（２）残留熱除去系ポンプ（Ａ）（Ｃ）を起動し，停止時冷却モード両系注入を開始し
+た。
+（３）停止時冷却モード両系注入により，循環している原子炉水と接続されている配管，
+弁を通して隔離されている系統内の水に熱が伝わった。
+（４）原子炉の水温は起動しているポンプのジュール熱により徐々に上昇し，それに伴
+い，残留熱除去系（Ｂ）系内の水温も上昇し，最高で約５２℃に達した。
+（５）残留熱除去系（Ｂ）の水温上昇により圧力も上昇した。　　
+これまでも運転手順書に基づき，同様な運転操作を実施してきており，温度の上昇については同様の傾向であったが，今回のような圧力上昇の経験はないことから，　原因について検討した。
+今回，圧力が上昇した範囲の水密性が従来よりも高かった可能性がある。当該範囲は大口径の逆止弁２台，玉形弁１台，仕切弁１台で形成されているが，今定検ではその内３台を点検したことから従来より水密性が高かったと思われる。なお，一定検でこれら４台のうち，３台以上を点検したことは近年ではない。
+
+【ＲＣＡの実施】
+　本事象については，安全上重要な設備であるにも係わらず，異常な加圧状態に長期間気づけなかったことに鑑み，根本原因分析を実施することとした。根本原因の結果については以下のとおり。
+ａ．計画外作業に対する計画・承認プロセス不十分
+（ａ）計画外作業に係わる調査計画の作成段階において、当該系統の状況確認を行
+う等の検討プロセスが明確でなかったことから、電気保修課は、保修作業依
+頼票の誤った情報を基に判断した
+ｂ．当直のバリア機能に関するプロセス不十分
+（ａ）当直は、定期検査時におけるプラント状況の変化に応じた盤面監視のポイント（プロセス）が明確でなかったことから、圧力の上昇傾向に気がつかなかった（例：運転しているＲＨＲ Ａ系の温度がゆるやかに上昇している際に、停止しているＲＨＲ Ｂ系の圧力等の監視のポイントが明確になっていなかった。）。
+ｃ．コミュニケーション不十分
+（ａ）電気保修課は、現在の系統状態を把握するための当直とのコミュニケーショ
+ンが不十分だった。
+ｄ．個別根本原因
+（ａ）原因が不明な場合の保修作業依頼票の記載内容（プロセス）が明確でなかっ
+たことから、当直は、誤った推定原因に基づく保修作業依頼票を電気保修課
+に発行した
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[女川原子力発電所１号機残留熱除去系（Ｂ）系統圧力の上昇について
+]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/06/02 10:10:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[残留熱除去系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[106]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10376</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10376</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10376</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

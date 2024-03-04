@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12545</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/12/17 15:43:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>65381</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/11/29 13:08:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201611281056]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/12/17 15:43:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２８年１１月２８日１０時５６分頃，定期検査中の女川原子力発電所１号機の原子炉建屋地下２階において、海水約１２．５立方メートルが漏えいしていることを確認しました。
+　本事象は，原子炉建屋内のポンプ・モーター等を冷却する系統の点検終了後に，熱交換器に接続する配管内に海水を通したところ，閉じておくべき配管上の弁が開いた状態となっていたため，排水用の配管に流入し，排水しきれなかった海水が溜め升より溢れ出たものです。
+　なお，漏えいした海水には放射性物質は含まれていないため，発電所周辺環境への影響はありませんでした。
+　本事象に係る原因および再発防止対策を取り纏めましたので，以下のとおりお知らせいたします。
+　当社としては，今回策定した再発防止対策を確実に実施し，同様の事象が発生しないよう努めてまいります。
+
+【原因】
+　海水の通水作業にあたり閉じておくべき「入口弁（Ａ）」が開いた状態となっていた原因は，以下のとおりです。なお，海水の漏えいに至った経緯は別紙のとおりです。
+
+１. 弁番号の聞き間違い
+　運転員①および②の２名は，通水前に弁の開閉状態を確認した際，運転員①が，弁の番号を「入口弁（Ｄ）全閉」と運転員②に報告したところ，運転員②は 「Ｄ（デー）」を「Ａ（エー）」と聞き間違えた。弁の番号を聞き間違えた運転員②は，弁の開閉状態を確認するリストの「入口弁（Ａ）」の欄に「全閉」と記入した。
+
+２．相互確認の不足
+　運転員②は，自ら「入口弁（Ｄ）」の開閉状態を直接確認しなかった。
+　また，運転員①が「入口弁（Ａ）全開」を確認し運転員②に報告したが，運転員②は，リスト上，空欄となっていた「入口弁（Ｄ）」の欄に「全開」と記入した。この際にも，運転員②は，自ら当該弁の状態を直接確認しなかった。
+
+３．通水前における弁状態の確認手段が不明確
+　通水前の弁の開閉状態を確認する手段として，通水作業の順序や，通水前に弁がどのような状態にあるべきかを纏めた「通水手順書」と，弁の名称や番号，場所等を記載している「弁リスト※」があるが，弁の開閉状態を確認する際に，どちらを用いるか明確に定めていなかった。
+　今回，系統全体の弁の開閉状態を把握するため「弁リスト」を用いたが，同リストでは，通水時に弁がどのような状態にあるべきかの確認ができなかった。
+
+【再発防止対策】
+１．アルファベットの読み方の変更
+　作業時には，設備や弁等の番号を聞き間違えないよう，航空無線等で用いられているアルファベットの読み方を使用していく。
+（例：Ａ＝アルファ、Ｂ＝ブラボー、Ｃ＝チャーリー、Ｄ＝デルタ…）
+
+２．教育の実施
+　運転員の基本行動を徹底するため，ヒューマンエラー防止に向けた教育内容（相互確認の重要性や指差呼称による確認方法等）を充実させ，継続的に実施していく。
+
+３．通水前における弁状態の確認手段の明確化
+　弁の開閉状態を示した「配管系統図」を作成し，弁状態の確認前に「通水手順書」との整合性を確認する。
+　また，弁状態の確認時には，弁リストではなく，「通水手順書」と「配管系統図」を現場に携行し，弁の開閉状態を確実に確認するとともに，確認の都度，「通水手順書」の確認欄にチェックする。
+
+※ 発電所の運転に係る手順書の一部で，弁の名称や番号，場所等を記載している一覧表。
+ 　 今回は，弁の開閉状態を確認するために用いた。
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以　上
+
+［別紙］女川原子力発電所１号機における海水漏えいの経緯]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東北-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所１号機における海水の漏えいに関する原因と対策について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/11/29 13:10:03]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

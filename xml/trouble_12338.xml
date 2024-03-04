@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12338</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/02/16 20:28:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>59935</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2015/11/11 09:17:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201510201155]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/02/16 20:28:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の伊方発電所１，２号機純水装置（屋外）において、純水装置の異常を示す警報が発信したため、保修員により現地を確認したところ、１０月２０日１１時５５分頃、塩酸移送ポンプに異常があることを確認した。なお、塩酸の漏えいはなかった。
+
+調査の結果、純水装置の脱塩塔のイオン交換樹脂を再生するため、塩酸移送ポンプにて、塩酸を通薬していたところ、当該ポンプの主軸と軸受が固着したことにより、モーターが過負荷となり停止したことを確認した。
+過負荷の原因は、塩酸受入タンク出口弁が「閉」となっていたことから、液体のない空運転の状態となり、主軸と軸受けの固着に至ったものと推定した。
+
+塩酸受入タンク出口弁が「閉」となっていた原因は以下のとおり。
+・委託運転員が、停電作業の復旧時に、当該弁を含む近接した２つの弁の「開」操作に対して「１指令１操作に対する認識が不足していたこと」から、操作前に隔離操作票に操作済みのチェックを入れ、一方の弁は「開」として隔離タグの回収を実施したが、もう一方の当該弁の復旧を失念した。
+・復旧作業後の再確認を行わなかったため、当該弁は「閉」のままとなった。
+
+対策は以下のとおり。
+・塩酸移送ポンプを新品に取り替えた。
+・隔離・復旧時は、操作者以外の者が隔離操作票の記載内容と隔離タグの照合を行い再
+確認することとした。
+・隔離・復旧操作の重要性を再認識するため、作業関係者に対して年１回実施している
+教育に、「１指令１操作」等の基本動作を追加した。
+・委託先である関係会社において、隔離復旧に係るマニュアルを新規に制定し、本事象
+について関係者に周知した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-四国-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所１、２号機 純水装置における塩酸移送ポンプの不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/11/11 09:18:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

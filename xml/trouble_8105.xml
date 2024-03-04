@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8105</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/02/27 15:28:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3424</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/02/14 17:37:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200602112349]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、定格熱出力一定運転中のところ、平成１８年２月１１日２３時４９分、５００ｋＶ原電敦賀線１号及び２号の２回線が落雷の影響により、両方の送電線遮断器が開放したことから負荷が喪失し、所内単独運転状態となり、制御棒が自動挿入された。その後、運転手順書に基づき原子炉出力約３５％で手動で整定させた。
+　送電線は、同日２３時５３分に原電敦賀線１号、２３時５４分に原電敦賀線２号が復旧された。
+　プラント運転状態及び構内開閉所内機器等、送電線に異常のないことを確認した後、翌１２日１時１２分に原電敦賀線１号、１時１４分に原電敦賀線２号の送電系統に並列した。
+　その後、発電設備に異常のないことを確認したことから、２月１２日４時００分より出力上昇を再開し、２月１３日１２時３０分に定格熱出力一定運転に復帰した。
+　なお、所内単独運転に伴う制御棒の自動挿入により、一時的に敦賀発電所原子炉施設保安規定「制御棒の挿入限界」の運転上の制限から逸脱したが、制御棒等の手動調整により、運転上の制限内に復帰した。
+　制御棒挿入限界の運転上の制限からの逸脱は、本事象による急激な負荷変動が生じたことから1次冷却材温度と基準温度の差が大きくなり、制御棒が速い速度で挿入されたため、一時的に運転上の制限から逸脱したものであり、プラントの状況に異常が認められたことによるものではない。
+　また、本事象による周辺環境への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-原電-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[送電系統事故による所内単独運転について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/27 15:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

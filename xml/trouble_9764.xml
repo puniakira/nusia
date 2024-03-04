@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[２．再評価結果
+　再評価を実施した結果は、いずれの発生応力も許容値を十分満足しており、構造強度に問題がなく、安全上の問題がないことを確認した。（別紙参照）
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[配管設備]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9764</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[199]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[他社トラブル水平展開]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2013/05/16 11:56:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>37644</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/05/15 14:43:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080410]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[４．再発防止対策
+　（１）当該メーカにおける再発防止対策
+・計算機プログラム作成業務において、プログラム間の受け渡しデータの整合を確実に図るようにするため、計算機プログラムの作成・検証においては、プログラム間の受け渡しデータの整合性チェックシートの運用等の具体的な要領を社内規格に定め実施する。
+なお、当該計算機プログラムで誤りのあった補助プログラムに関して、プログラム間の受け渡しデータの整合性チェックシートを用い、符号の反転処理以外に不整合がないことを確認した。また、その他の主、補助プログラムに問題のないことを確認した。
+
+・告示等が変更された時の計算機プログラムに対する影響評価・検討を、専門的な知識を有する技術者による評価会議で確認する。
+
+・プログラム検証におけるプログラム間の受け渡しデータの整合性確認方法・結果に対する検討を、専門的な知識を有する技術者による評価会議で確認する。
+
+（２）当社における再発防止対策
+・今後、原子炉設置許可申請及び工事計画認可申請に係る機器等の設計、評価を実施する際は、役務調達時にメーカに対し、使用するプログラムの作成・変更管理と十分な検証を実施することを要求することとし、メーカで実施したプログラムの作成・変更管理及び検証に係る状況に関する記録を提出させることとした。
+
+・調達する上記役務の検証時に、これまで実施してきた設計条件、入出力データの確認及び解析の手順等の確認に加え、今回メーカで実施する再発防止対策も含め、プログラムの作成・変更管理の状況及び検証方法と検証結果の妥当性について確認することとした。
+
+・これらについて、社内規則に明記した。
+
+（３）その他のプログラムの点検
+　当該メーカにおいては、現在、計算機プログラムの開発、改良にあたっては、専門的な知識を有する技術者による評価会議等を実施し、適正な品質管理が行われているものの、今回の不適合は昭和55年に改良された計算機プログラムであることに鑑み、その他の計算機プログラムについて点検を行った。
+
+・志賀原子力発電所の当該メーカが許認可に伴う解析に使用しているプログラム４８件のなかから同種の補助プログラム１０件を抽出し、プログラム間の受け渡しデータの整合性の確認を行った結果、今回不適合が確認された計算機プログラムの当該補助プログラムをそのまま移植した表計算ソフトを使用している同じ内容の不適合１件を確認した。
+当該表計算ソフトを使用して応力解析を実施している２号機のドライウェルスプレイ管及びサプレッションチェンバスプレイ管について再評価を実施した結果は、許容値を十分満足しており、構造強度に問題がなく、安全上の問題がないことを確認した。（別紙参照）
+上記表計算ソフト以外については、プログラム間の受け渡しデータの整合性に同様の不適合がないこと、主プログラムについては適切な方法で検証が行われていることを確認した。
+
+・志賀原子力発電所の許認可に伴う解析に使用している主プログラムのうち、当該メーカが開発した主プログラム２７件について、適切な方法で検証が行われ、信頼性が確保されていることを確認した。
+なお、他のメーカが開発した主プログラムやプログラム間の受け渡しデータの整合性についても、適切な検証が行われ信頼性は確保されていると考えられるが、念のため、引続き点検を行っていくこととする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/05/16 11:56:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．経緯および指示文書への対応
+（１）経　緯
+・平成19年７月16日に発生した新潟県中越沖地震を踏まえ、東京電力(株)において、柏崎刈羽原子力発電所における各設備の点検・評価を実施しているが、同発電所７号機における配管の構造強度評価結果の一部が誤っていることが確認された。
+これを受け、当社も調査を行ったところ、志賀原子力発電所における配管の構造強度評価結果の一部が誤っていることを確認した。
+
+・構造強度評価結果が誤っていた原因は、解析を実施したメーカの計算機プログラムの一部に問題があったものである。このため、プログラムのデータ処理を修正したうえで、配管の構造強度を再評価した結果、誤りの影響は小さく、評価基準値を十分満足していることを確認した。
+
+・このたびの事象を踏まえ、４月10日、原子力安全・保安院から、当該メーカが過去に実施した構造強度評価に関して、問題のあった計算機プログラムのデータ処理を修正したうえ、構造強度の再評価を実施し報告すること、ならびに根本的な原因究明と再発防止対策について併せて報告する旨の指示文書を受領した。
+
+（２）影響範囲
+　今回の不適合事象に係る影響範囲は以下のとおりである。
+・昭和55年に旧告示501号が制定された以降のクラス１配管（旧告示第１種管）の分岐部を含む応力解析
+旧告示制定により、クラス１配管（旧告示第１種管）の分岐部の応力算定について、モーメントの符号の扱いについて規定された。
+
+・平成６年に旧告示501号が改正された以降のクラス２配管（旧告示第３種管）の分岐部を含む応力解析
+旧告示改正により、クラス２配管（旧告示第３種管）の分岐部の応力算定について、モーメントの符号の扱いについて規定された。
+
+（３）指示文書への対応
+・原子力安全・保安院からの指示に基づき、当該メーカが上記影響範囲において実施した志賀原子力発電所１号機及び２号機の構造強度評価における次の資料について、構造強度評価の再評価を実施した。
+ａ．工事計画認可申請書における配管分岐部の構造強度評価
+ｂ．能登半島地震を踏まえた志賀原子力発電所の耐震安全性確認における配管分岐部の構造強度評価
+ｃ．「発電用原子炉施設に関する耐震設計審査指針」の改訂に伴う耐震安全性評価結果　中間報告書における配管分岐部の構造強度評価
+・根本的な原因究明を行い、再発防止対策の検討を実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-北陸-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[３．原　因
+（１）当該メーカにおける調査結果
+・昭和50年に現在の計算機プログラムの原型が完成し、複数の主プログラムとその主プログラム間のデータ授受のための補助プログラムから構成されている。（下図参照）
+
+・昭和55年に告示501号が制定され、配管分岐部の評価式が新たに規定されたことから、主プログラムＤの必要な改造を実施した。その際、同告示の規定を反映するために、補助プログラムＣに符号を反転させる処理が必要であったが、処理されなかった。
+
+・主プログラムＤの改造後の検証作業においても、符号を反転させる処理が抜けていることを確認できなかった。
+
+（２）当社における調査結果
+・メーカから提出された工事計画認可申請に係る図書の確認に際し、設計条件、入出力データ等の情報提供を予めメーカに求め、確認を実施している。
+
+・当該計算機プログラムは、十分な使用実績があり、妥当と判断していた。また、プログラムの内容は専門的であり当社が確認する事項とはしていなかったため、当該メーカから提出された図書の確認に際しては、入力データに誤りがないこと及び評価結果が基準等を満足していることは確認したが、モーメントの符号の取り違えに気付かなかった。
+
+（３）根本的な原因究明の結果
+　当該メーカにおける以下の対応が不十分であった。
+・計算機プログラム作成業務において、プログラム間の受け渡しデータの仕様（単位、桁数、符号）等を明確にして、整合性を確認する具体的な要領が不明確であった。
+
+・告示等の応力評価の考え方や計算式が変更された時の計算機プログラムに対する影響評価、検討が不十分であった。
+
+・プログラム検証業務において、プログラム間の受け渡しデータの整合性確認の方法・結果に対する検討が不十分であった。
+　また、当社においては、現在実施している入出力データの確認では今回の不適合のように解析結結果に与える影響がわずかであるような事象は発見できなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[配管設計の応力解析における不備（計算機プログラムの不備）]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[1号機冷温停止，2号機運転中]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1206</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[主配管]]></S_KEITO_NAME>
+	<PRESS_ATTACH_ID>37645</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/15 16:59:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[志賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>8</SORT_NO>
+		<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[志賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>9764</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[051]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[配管]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>35</SORT_NO>
+						<BUHIN_CODE><![CDATA[051]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[設計不良]]></S_GENIN_NAME>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[設計不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[設計上の不備によるもの（管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9764</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北陸電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北陸]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北陸電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>50</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．詳細調査
+（１）異物影響範囲調査
+①その他の範囲の異物確認
+MSIV制御用電磁弁に繋がるIA系弁以外への異物の流入を確認するため、原子炉建屋内IA系について異物が混入した場合でも供給先に影響がない配管ルートを選択の上、確認範囲を拡大し、フラッシングを実施した結果、異物は確認されなかった。
+上記のIA系の範囲を拡大したフラッシングの結果、異物が確認されなかったことより、黒い破片状の異物の発生源は、MSIV制御用電磁弁に繋がるIA系の配管または弁であるものと推測した。
+
+②MSIVフレキシブルチューブ内部及びIA窒素供給弁開放による内部点検
+上記「①」の調査結果を踏まえ、サンプルとしてMSIV（B21-F002A）の電磁弁用IA窒素供給用フレキシブルチューブ（2本）および電磁弁用IA窒素供給弁（P52-F304）について、内部確認を実施した。
+その結果、フレキシブルチューブ内には、異物は確認されなかったが、P52-F304の下流に設置された配管エルボ部及び逆止弁（B21-F024A）内部に黒い破片状の異物が確認された。
+　　
+③類似弁（フラッシング操作に使用したIA窒素供給元弁）の内部点検
+上記「②」の調査結果を受け、MSIV内弁IA窒素供給元弁（P52-F304）と同じ使用状況にあるMSIV　B21-F002DとB21-F003Dの電磁弁用IA窒素供給弁であるP52-F307及びP52-F231について二分解（弁箱と弁蓋の取り合いフランジのみの分解）を実施し、配管内部を確認したところ、P52-F304の調査結果と同様に黒い破片状の異物が確認された。またP52-F307の弁蓋上部機構について開閉操作を繰り返し実施したところ、弁内側の弁蓋と弁棒の間隙（約0.5ｍｍ）からフラッシング時に確認されたものと同じ黒い破片状の異物が確認された。
+上記の調査より、黒い破片状の異物の発生源は、MSIVのIA窒素供給元弁の弁蓋上部機構であり、弁の開閉操作を実施した際に発生する可能性があることが確認できた。
+
+（２）弁開閉操作に伴う黒い破片状の異物発生についての再現性確認
+再現性確認の実施にあたっては、MSIVのIA窒素供給元弁（全8台：P52-F229～F232、F304、F305、F307、F308）について分解点検を実施し、使用するグランドパッキンについては、劣化状態を模擬することが困難であるため従来品の新品グランドパッキンを組み込み弁開閉操作を行った。
+その結果、再現性確認を実施した弁8台の内、3台（P52-F304、F305、F307）にグランドパッキン端部の解れ防止のために巻かれているテープ片が剥離し、弁内側の弁蓋と弁棒の間隙より出てくる事象が確認された。
+上記より、グランドパッキンの新旧に関わらず、弁の開閉操作により、グランドパッキン構成部品の一部が破損することが判明した。
+　　　
+（３）成分分析
+P52-F304の分解点検を実施した際に取り出したグランドパッキンとフラッシング時に確認された黒い破片状の異物についてSEM（走査型電子顕微鏡）観察及びEDS（エネルギー分散X線分光分析装置）による成分分析を行った。
+①SEM観察結果
+グランドパッキン表面と黒い破片状の異物の表面を比較したところ、異なる様相を呈しているが、何れも組織表面が荒れている状態が確認された。
+
+②EDS分析結果
+EDS分析結果から黒い破片状の異物の主成分としてグランドパッキンの主成分でもある炭素及びフッ素が確認された。
+　　
+上記、SEM観察及びEDS分析の結果より、グランドパッキンと黒い破片状の異物ともに組織表面の肌荒れが確認され、グランドパッキンと黒い破片状の異物のEDS分析で確認された炭素とフッ素の質量濃度の比率は異なるものの、どちらも炭素とフッ素で構成されたフッ素化合物であることが確認された。
+またIA系コンプレッサー出口に設置されている除湿装置用フィルタのメッシュは、5〔μｍ〕であり、今回確認された黒い破片状の粒径が1～2〔mm〕程度であることを考慮すると、黒い破片状の異物の発生源は、除湿装置用フィルタよりも下流に存在するものと考えられ、除湿装置用フィルタ下流においてフッ素化合物が使用されている設備としては、弁のグランドパッキンのみであることを確認している。以上より、フラッシング時に確認された黒い破片状の異物は、弁のグランドパッキンであるものと判断した。　　
+
+（４）調査のまとめ
+以上の詳細調査の結果より、以下の2点について確認ができた。
+・フラッシング時に確認された黒い破片状の異物は、弁蓋内部に装着されているグランドパッキンの剥離片である。
+・弁の開閉操作に伴い、グランドパッキンの剥離片およびグランドパッキン端部に巻かれているテープ片が、何かしらの原因で破損し、弁蓋と弁棒の間隙から弁内部に落下する。
+
+２．原因調査
+（１）要因分析
+グランドパッキンが剥離する可能性について要因分析を行った結果、以下の4点がグランドパッキン剥離の推定要因となった。
+
+①弁メーカ提示のトルク管理値について確認した結果、グランドボルトネジ部にボルトとナットのカジリ防止を目的とした焼付防止剤の塗布を考慮しないトルク管理値であることが確認された。一方、当該弁は、点検手順においてグランドボルトネジ部に焼付防止剤を塗布しているため、弁メーカ提示のトルク管理値（焼付防止剤無）でグランドパッキンの締め付けを実施した場合、ボルト締め付け時の摩擦抵抗が小さくなるため、グランドパッキンに設計面圧以上の面圧が掛かっている可能性がある事が判明した。
+以上より、グランドパッキン締付け時の面圧（パッキン最上面に負荷した時の軸方向の面圧）がパッキンメーカ推奨の面圧よりも高い場合、グランドパッキンと弁棒の摺動抵抗が増加し剥離が発生する可能性がある。
+
+②当該弁のスタフィングボックス（グランドパッキン収納部）下部の面取部にグランドパッキンが入り込む事で弁棒と摺動しグランドパッキンの剥離が発生する可能性がある。
+
+③グランドパッキン製造時及びグランドパッキンの弁への組込み時におけるグランドパッキン端部の解れ防止目的でテープを使用しているが、このテープ端面の巻き終わり位置が弁棒側にある場合、テープが弁棒の摺動により剥離する可能性がある。
+
+④グランドパッキン締め付けによるグランドパッキンに含有する油分の減少が、グランドパッキンと弁棒の摺動抵抗を増加させ、グランドパッキンの剥離を発生させる可能性がある。
+
+（２）モックアップ
+要因分析の結果を踏まえ、本事象の発生要因を絞り込むため、以下のとおり工場にてモックアップ試験を実施した。
+
+①試験内容
+モックアップは、当該事象と同型の弁（弁箱がない状態）にグランドパッキンを組込み、弁開閉操作を実施した。前述（１）項の要因を検証する為、以下に示す条件を組合わせることによりモックアップ試験を実施した。
+
+ａ．締付け面圧による影響
+メーカ提示のトルク管理値の前提条件である焼付防止剤を塗布しない場合の　面圧（20.28MPa）と当該事象発生時と同様、焼付防止剤を塗布した場合の面圧（36.93MPa）におけるグランドパッキンへの影響を比較する。
+
+ｂ．スタフィングボックス下部の面取り有無の影響
+スタフィングボックス下部の面取りの有無によるグランドパッキンへの影響を比較する。
+
+ｃ．テープ端部の巻き終わり位置の影響
+テープ端面の巻き終わり位置が弁棒側にある場合と外側にある場合におけるグランドパッキンへの影響を比較する。
+
+ｄ．油分量による影響
+新品取り付け時におけるグランドパッキンの油分（約7〔重量%〕）と第７回定検時に新品グランドパッキンを組込み、今回の事象を受けて分解点検を実施した際に取り出したグランドパッキンの油分（約4〔重量%〕）の差におけるグランドパッキンへの影響を比較する。
+
+②試験結果
+以上のモックアップ試験の結果を以下に示す。
+
+ａ．締付け面圧が小さい場合（弁メーカ指定のトルク管理値の下限値にてグランド締め付けを実施した場合）、グランドパッキンの剥離に至らなかったが、締付け面圧が大きい場合（弁メーカ指定のトルク管理値の上限値にてグランド締め付けを実施した場合）、グランドパッキンの剥離が発生した。
+
+ｂ．スタッフィングボックス下部の面取の有無により、開閉試験を行ったが何れの条件でも剥離物が確認された。
+
+ｃ．テープ端部の巻き終わり位置に依らず、弁の開閉操作によりテープが剥離する。
+
+ｄ．油分量が減少しているグランドパッキンは、油分量が通常のグランドパッキンに比べて弁開閉操作回数が少ない段階で剥離が発生するものの、何れの条件でも剥離する。
+
+③試験結果からの考察
+　以上のモックアップ試験の結果を踏まえた考察を以下に示す。
+
+ａ．締付け面圧が小さい場合（弁メーカ指定のトルク管理値の下限値にてグランド締め付けを実施した場合）、グランドパッキンと弁棒の摺動抵抗が低いことより、グランドパッキンの剥離に至らないが、締付け面圧が大きい場合（弁メーカ指定のトルク管理値の上限値にてグランド締め付けを実施した場合）、摺動抵抗が増加しグランドパッキンの剥離が発生する。
+
+ｂ．スタッフィングボックス下部の面取の有無により、弁の開閉試験を行ったが何れかの条件でも剥離物が確認された。よって面取の有無が、グランドパッキン剥離の主要因とはならないと考えられる。
+
+ｃ．テープは何れの条件でも剥離が発生している。テープ端部の巻き終わり位置に係らず弁の開閉操作を行った際、テープが剥離しやすい状態になっていると考えられる。なお、モックアップ試験の際に剥離したテープを確認したところ、テープと共にPTFEが剥離していた。PTFEが、弁棒との摺動抵抗低減を主目的として使用されていることを考慮するとPTFEが剥離することで剥離した箇所の摺動抵抗の増加が考えられる。
+
+ｄ．油分量が減少しているグランドパッキンは、油分量が通常のグランドパッキンと比較し、弁開閉操作回数が少ない段階でグランドパッキンの剥離が発生するが、油分量に関係なく剥離が発生していることより、油分量が直接的なグランドパッキン剥離の主要因とはならないと考えられる。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[170]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11567</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/01/08 14:58:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2012/08/31 15:40:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20120420]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．本事象の原因を考慮し、下記内容を対策として実施する。
+①トルク管理値の適正化
+焼付防止剤塗布を考慮した適正トルク管理値の見直しを行う。
+以下に従来トルク管理値と見直し後のトルク管理値を示す。
+
+50Aの場合	
+従来	　14.7～17.6【トルク（N・m）】  31.02～37.14 【面圧（MPa）】
+見直し後	 　9.6～11.5【トルク（N・m）】  20.26～24.27 【面圧（MPa）】
+
+上記の面圧はグランドパッキン最上面に負荷した時の面圧を示す。
+
+②当該弁下流の健全性確認
+・当該弁下流側に設置されている機器の内、動的機器及び計器の健全性を確認する。
+・弁点検後下流の配管フラッシングを行い、グランドパッキンの剥離片がないことを確認する。
+・フラッシング実施後、弁下流の動的機器及び計器の作動確認を行う。
+
+なお、適正な面圧で締め付けることによりグランドパッキンの剥離を防止することができるが、より確実にグランドパッキンの剥離を防止するため、既設弁に使用されているグランドパッキン（グランドパッキン端部テープ有）を対策品（グランドパッキン端部テープ無）のグランドパッキンに交換する。
+
+２．水平展開
+下記の条件の全てを満たす弁について以上の再発防止対策を反映することとする。
+・同じグランドパッキン（グランドパッキン端部テープ有り）を使用している弁。
+・弁の点検手順においてグランドボルトに焼付防止剤を塗布している弁。
+・トルク管理値がグランドボルトへの焼付防止剤の塗布を考慮していない弁。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/01/08 14:58:50]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成24年4月20日　6号機第10回定検時の主蒸気隔離弁（以下、MSIV）点検後の復旧作業において、MSIV制御用電磁弁に繋がる計装用圧縮空気系（以下、IA）配管のフラッシング作業を実施したところ、黒い破片状の異物（粒径1～2mm程度）が確認された。
+上記の事象を受けて、通常、MSIV１弁あたり10分程度のフラッシングを実施するところフラッシング実施時間を延長し（約30分）、異物の有無について確認したところ、MSIV（全8台）について断続的に黒い破片状の異物が確認された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-東京-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[バルブ製造メーカ指定のグランドパッキンの締め付けトルク値が、ボルト焼付防止剤の塗布を考慮しないものであったため、グランドパッキンに設計面圧よりも過大な面圧が掛かり、グランドパッキンと弁棒の摺動抵抗が増加した。また、グランドパッキン端部に取付けられた成型テープ（グランドパッキンの解れ防止用）にPTFE（グランドパッキンの炭素繊維の定着及び摺動抵抗の低減目的）が付着した状態で剥離が発生した際、グランドパッキンの炭素繊維と弁棒の摺動及び上記のグランドパッキン締め付けトルク値による摺動抵抗の増加が相まってグランドパッキンの剥離事象に至った。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ＩＡ配管フラッシング時の黒い破片の確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/09/03 16:10:59]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11567</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[108]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[ガスケット・パッキン]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>41</SORT_NO>
+						<BUHIN_CODE><![CDATA[108]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[手動弁]]></KIKI_NAME>
+				<SORT_NO>14</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[計装用空気系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[170]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[170]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11567</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

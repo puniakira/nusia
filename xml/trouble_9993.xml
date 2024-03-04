@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<TROUBLE_ID>9993</TROUBLE_ID>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/09/22 14:58:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4318</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/09/19 09:40:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070522]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．炉内作業における結合作業について（添付２）
+（１）作業体制の見直し
+　以下の項目を作業手順に反映した。
+　ア．炉内作業について、作業実施グループとは別に、作業の適切性を確認する専従の監視人を設定する。
+　イ．水中カメラによる制御棒の高さ確認について、これまでの請負者の確認に加え、当社での確認も行う。
+
+（２）作業確認方法の改善
+　各作業ステップの確認方法を改善するため、作業手順に以下の項目を反映した。
+　ア．カップリング状態における荷重値の記載。
+　イ．水中カメラによる制御棒高さ確認時のカメラ位置の統一。
+
+２．結合確認時における誤判定について（添付２）
+（１）ＰＩＰの動作不良が発生した場合においてもカップリング判定を確実に行うため、　以下の監視を行うこととし、作業手順の確認事項に反映した。
+　ア．中央制御室主盤のＦＤ画面での確認に加え、現場に設置されている制御盤で「アンカップル」信号が点灯しないことを確認する。
+　イ．中央制御室に設置されている制御棒操作・監視盤で「ＰＩＰ異常」の表示がないことを確認する。
+
+　なお、上記対策は平成19年6月時点のものであり、平成20年9月12日に原子力安全・保安院から受領した指示文書「東京電力株式会社柏崎刈羽原子力発電所６号機における制御棒駆動機構と制御棒の結合不良を受けた対応について」を受け、以下の対策を追加する。（添付３）
+
+・制御棒の結合作業を原子炉上部から行う場合は、従来の確認方法に加え、結合部が適切に結合していることを水中カメラによる映像等を用い目視で確認する。（設備対策が終了するまで）
+・浜岡５号機第３回定期検査（平成20年9月8日～）の期間中において、原子炉の起動前までに全制御棒が結合されていることを確認する。また、今後は結合作業を行った制御棒の結合確認を定期事業者検査として実施する。
+・制御棒駆動機構と制御棒の結合を確実に実施・検知するための設備の導入を検討する。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２回定期点検中の５号機（定格電気出力１２６．７万ｋＷ）において、制御棒33体の取替作業を実施し、その後、平成19年5月22日に、燃料装荷前の確認として、制御棒と制御棒駆動機構の結合確認（※１）を行ったところ、制御棒（座標２６－１１）ＰＩＰ（※２）の異常を示す警報が点灯した。また、制御棒と制御棒駆動機構の結合状態を中央制御室主盤に設置されているフラットディスプレイ（以下，「ＦＤ」という。）画面にて確認したところ、結合が正常であることを意味する「カップリング」を表示していた。
+　このため、警報の点灯はＰＩＰの不良によるものと判断し、当該ＰＩＰを取り替えることとし、燃料装荷を行った。（添付１）
+
+　燃料装荷終了後に当該ＰＩＰの取り替えを行い、再度、当該制御棒の結合確認を実施したところ、ＰＩＰの異常を示す警報が点灯するとともに、ＦＤ画面にて制御棒と制御棒駆動機構の結合不良を示す「アンカップル」を表示していることを確認した。（添付１，２）
+　このため、当該制御棒と制御棒駆動機構が結合不良になっているものと判断し、当該制御棒の結合作業を実施した。
+
+※１　制御棒全引き抜き状態から更に引き抜き、中央制御室の表示で制御棒と制御棒駆動機構が結合されているか否かの確認を行う。
+※２　ＰＩＰは、制御棒の位置を確認するための検出器。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．推定原因
+（１）炉内作業における結合作業について
+　当該制御棒は第２回定期点検にて取替を実施したが、制御棒と制御棒駆動機構を結合する作業で、以下の作業・確認不良により結合不良が発生したものと推定された。
+　ア．結合作業時に、制御棒を巻き下げるところ、誤って巻き上げた
+　イ．結合状態における荷重値の確認が正しく行われていなかった
+　ウ．水中カメラによる制御棒の高さ確認を行っていなかった
+
+（２）結合確認時における誤判定について
+　ＰＩＰ内部に異物が混入したことにより、結合不良時に動作するスイッチが正常に動作しなかったため、ＦＤ画面は「カップリング」を表示したものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒(座標26-11)のPIP異常表示、及び結合不良について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/09/22 14:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>9993</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9993</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9993</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9993</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

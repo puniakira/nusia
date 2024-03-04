@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2912</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/09/27 09:14:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/04/08 16:17:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200504071740]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/09/27 09:14:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成17年４月７日、運転中の６号機で、「地震加速度大＊１」および「原子炉Ａ系自動スクラム＊２」の警報が発生しました。
+　「地震加速度大」警報はただちに自動解除されました。また、当時、地震の発生はなく、プラントの運転状態も安定していたため、「原子炉Ａ系自動スクラム」警報を解除しました。
+　警報発生の原因は計器の誤動作によるものと推定しましたが、今後、詳細調査を行い、対策を講じることとしておりました。（４月８日お知らせ済み）
+　
+　原子炉建屋内に設置されている４台の地震計のうち、動作した１台について新品へ交換し、取り外した地震計の内部を分解して調べたところ、警報を発生させる電源回路のハンダ付け接合部に割れを確認しました。
+　このため、今回の警報は、当該接合部に発生したハンダ割れにより一時的に接触不良が発生し、警報を発生させる回路の電源の供給がしゃ断されたことにより発生したものと推定いたしました。
+　今後、同型の地震計については、次回定期検査時に当該電源回路の接合部に異常のないことを確認いたします。
+
+＊１　地震加速度大
+　　原子炉建屋内に設置された地震計が高震度を感知したとき、原子炉を緊急停止するために発生する信号。
+
+＊２　原子炉Ａ系自動スクラム
+　　原子炉を緊急停止するための信号が片系統だけ発生した状態であり、制御棒は動作しない。
+　　スクラム信号はＡ・Ｂ両系が同時に発生することで制御棒を全挿入し、原子炉を緊急停止させる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/04/08 18:45:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+　サンプルポンプ(A)がトリップした原因について，要因分析表に基づき調査を実施した結果，以下のことが確認された。
+
+（１）事象発生時の状況調査
+ａ．運転員の現場対応状況
+　事象発生時のサンプルポンプ(A)の対応状況を運転員に確認した結果，以下のことが確認された。
+（ａ）平成16年12月5日（日）6時50分，「プロセス放射線モニタ異常」の警報が発生したため，運転員が現場を確認したところ，約61リットルN/minに調整していたサンプルポンプ(A)の吸込流量が約54リットルN/minに低下していることを確認した。
+　このため，流量調節弁(F196)及び圧力補償弁(F208)を操作して，吸込流量を54リットルN/min から59リットルN/minに調整するとともに，中央操作室内の監視カメラにてサンプルポンプ(A)吸込圧力の監視を開始した。
+　尚，吸込流量調整時，弁付属のロックハンドル※による固定は実施していなかった。
+　　　　※ロックハンドル：流量調整後に吸込流量が減少しないよう流量調整弁の開度を固定するため弁に付属されているもの。
+（ｂ）吸込流量の調整操作を実施した約50分後の8時28分に，再度，「プロセス放射線モニタ異常」等の警報が発生したため，サンプルポンプ(A)の吸込圧力を監視カメラにて確認したところ，指示値がゼロであることが確認されたため，直ちに運転員が現場を確認した結果，サンプルポンプ(A)がトリップしていることが確認された。
+（ｃ）その後，サンプルポンプ(A)の起動操作を実施したが，吸込圧力低(約50cmHgVAC)により再度，トリップしたためサンプルポンプ(B)を起動した。
+（ｄ）サンプルポンプ(B)を起動した後，流量調節弁(F196)及び圧力補償弁(F208)にて吸込圧力を33cmHgVAC※，吸込流量を56リットルN/minに調整し運転状態に異常がないことを確認した。
+　尚，吸込流量調整時，弁付属のロックハンドルによる弁開度の固定は実施していなかった。
+　　　　　　※　単位換算：1mmHg　→　0.133322kPa　以下同様
+ｂ．吸込流量調整方法の聞き取り
+　吸込流量の調整方法を保守員及び運転員に確認した結果，以下のことが確認された。
+（ａ）吸込流量は流量調整弁がなじむまで振動等により変動すること。又，吸込流量調整の際には，流量調節弁及び圧力補償弁の操作は，ロックハンドルを固定しながら実施しないと吸込流量がずれる可能性があることが確認された。
+（ｂ）吸込流量が60リットルN/min以下付近の場合，急に54リットルN/min程度まで低下することが，平成16年11月26日（金）の実施したサンプルポンプ切替後の流量調整時※に確認されていた。
+　　　　※：当所2号機のサンプルポンプトリップ事象の水平展開として(B)から(A)に切替えを実施。
+
+（２）圧力スイッチの誤動作
+　サンプルポンプ(A)トリップ後，サンプルポンプ(B)に切替え後の吸込圧力／吸込流量を確認した結果，吸込圧力／吸込流量とも安定していたことから，圧力スイッチに異常がないことが確認された。
+
+（３）分解点検履歴
+　前回の第12回定期検査時（H15.2.1～H16.11.30）に実施（H16.2.24）したサンプルポンプ(A)の分解点検記録を確認した結果，異常のないことが確認された。
+　又，サンプルポンプ(A)出入口フィルタ及びブレード等の消耗品を交換しており，平成16年11月26日（金）にサンプルポンプを(B)から(A)に運転を切替えるまで，サンプルポンプ(A)の運転実績がないことが確認された。
+
+（４）フィルタの詰まり
+　サンプルポンプ(A)トリップ後に出入口フィルタを取外し目視にて確認したところ，詰まりのないことが確認された。
+
+（５）圧力補償弁の不良
+　圧力補償弁を手動にて開閉操作した結果，動作がスムーズであったことから圧力補償弁の不良の可能性は低いものと推定された。
+
+２．詳細調査
+　原因調査の結果から，圧力スイッチの誤動作，フィルタの詰まり等によりサンプルポンプ(A)がトリップした可能性がないことが確認されたが，サンプルポンプ(A)トリップ前に流量変動及びトリップ後の再起動時に過負荷(約50cmHgVAC)によりサンプルポンプ(A)がトリップしていることが確認されている。
+　このことから，サンプルポンプ(A)がトリップした原因としてサンプルポンプ(A)本体の不具合，流量調節弁の調整不良によるものと推定されたたため，詳細調査を実施した。
+　尚，詳細調査は，保安規定第74条（予防保全を目的とした保全作業を実施する場合）に基づき，計画的に運転上の制限外へ移行した後に実施した。
+
+（１）サンプルポンプ分解点検
+　サンプルポンプ(A)を分解点検しポンプ本体及びポンプブレード，軸受ベアリング等について目視点検した結果，異常は確認されなかった。
+　尚，ポンプブレード，軸受ベアリング及び出入口フィルタ等の消耗品については，念のため，新品と交換した。
+
+（２）吸込圧力安定性試験
+　サンプルポンプ切替後の流量調整時(H16.11.26)，吸込流量が低下したことが確認されていたことから，吸込圧力を一定(34.5cmHgVAC)に保持した後，吸込流量を変化(54リットルN/min～66リットルN/min)させ，吸込流量指示値の安定性を確認した。
+　尚，指示値は，ロックハンドルを固定／非固定とした状態で，流量調節弁本体への振動（打振）前後の指示変化を確認した。
+
+　その結果，吸込流量が62リットルN/minの状態では，ロックハンドル実施に関係なく打振前後とも吸込流量の指示値に変化は認められなかったが，62リットルN/min以外では吸込流量が変化することが確認された。
+
+（３）サンプルポンプ連続運転試験
+ａ．サンプルポンプ切替後の再現試験
+　サンプルポンプ切替後の運転点（吸込圧力34.5cmHgVAC，吸込流量62リットルN/min，流量調整弁ロックハンドル固定あり）で連続運転を行い，吸込圧力計及び吸込流量計に仮設の記録計を設置しデータを採取した結果，吸込圧力及び吸込流量とも変化せず安定に運転していたことが確認された。
+ｂ．事象発生直前の再現試験
+　サンプルポンプトリップ発生直前の運転点（吸込圧力34.5cmHgVAC，吸込流量59リットルN/min，流量調整弁ロックハンドル固定なし）で連続運転を行いデータを採取した結果，吸込圧力及び吸込流量とも多少変化したことが確認されたが，発生事象を再現することは出来なかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2666</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/05/30 14:19:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　平成16年12月5日午前8時28分、「プロセス放射線モニタ異常」の警報が発生し、「換気系排気筒入口放射線モニタサンプルポンプＡ」の吸い込み圧力計がゼロを示していることを運転員が確認し、当該ポンプは停止していると判断するとともに保安規定第27条に定める「運転上の制限」を満足していないと判断した。
+　その後、サンプルポンプＢを起動し、異常がないことを確認したことから運転上の制限を満足していると午前９時５分に判断した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3072</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/12/14 12:26:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200412050828]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　これまでの調査結果から，流量調整弁の一時的な性能変化によりサンプルポンプ(A)がトリップした可能性が高いと考えられるが，本事象を再現するまでのデータが得られていないため，今後，以下の対策を実施する。
+
+（１）是正措置
+（ａ）サンプルポンプ(A)の運転設定点は，吸込圧力安定性試験及び連続運転試験により確認された安定運転点（吸込圧力：34.5cmHgVAC，吸込流量：62リットルN/min）とするとともに，流量調整弁がロックハンドルにて固定されていることを確認した。
+（ｂ）今回の定期検査時に当該モニタ測定系の流量調整の信頼性を向上させるため，現状の流量調整弁よりも安定に流量調整できる方式に変更する。
+　それまでの期間、当該モニタの欠測をなるべく低減させるよう吸込圧力高／低によるサンプルポンプトリップのインターロックを除外する。
+　尚，インターロック除外後の当該系統の運転状態については，既設の吸込流量異常の警報にて監視するとともに，警報発生時には中央操作室の監視カメラにて吸込流量及び吸込圧力を仮設の記録計にて確認し，現場にて吸込流量及び吸込圧力を調整する。
+　また，ポンプが過負荷となった場合には，電源部に設置されているポンプ保護回路（過電流）によりポンプが停止することから，ポンプの保護機能は保たれており，吸込圧力高／低によるポンプトリップのインターロックを除外した場合においても問題となるものではない。
+
+（２）予防措置
+（ａ）当該流量調整弁と同一型式の2号機についても，次回定期検査時に当該モニタ測定系の流量調整の信頼性を向上させるため，現状の流量調整弁よりも安定に流量調整できる方式に変更する。
+　それまでの期間、当該モニタの欠測をなるべく低減させるよう吸込圧力高／低によるサンプルポンプトリップのインターロックを除外する。
+　尚，インターロック除外後の当該系統の運転状態については，既設の吸込流量異常の警報にて監視するとともに，警報発生時には中央操作室の監視カメラにて吸込流量及び吸込圧力を仮設の記録計にて確認し，現場にて吸込流量及び吸込圧力を調整する。
+　また，ポンプが過負荷となった場合には，電源部に設置されているポンプ保護回路（過電流）によりポンプが停止することから，ポンプの保護機能は保たれており，吸込圧力高／低によるポンプトリップのインターロックを除外した場合においても問題となるものではない。
+　今回の原因調査時に当所2号機のサンプルポンプ(A)トリップ事象の水平展開として停止したサンプルポンプ(B)を分解点検し異常がないこと，及びブレード，ベアリング並びに出入口フィルタ等の消耗品を新品と交換するとともに，分解点検組立後に起動し運転状態に異常がないことを確認した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/30 14:19:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所４号機は，定格熱出力一定運転中のところ平成16年12月5日（日）8時28分，「プロセス放射線モニタ異常」の警報が中央制御室に発生したため，運転員が中央制御室内の監視カメラにて換気系排気筒入口放射線モニタサンプルポンプ(A)（以下，「サンプルポンプ(A)」という。）の吸込圧力計を確認したところ指示値がゼロを指していたことから，直ちに当直長へ連絡した。
+　このため当直長は，サンプルポンプ(A)がトリップしているものと判断し，同日8時28分，保安規定第27条第１項の「運転上の制限を満足していない」と判断した。
+　その後，運転員が現場を確認したところサンプルポンプ(A)がトリップしていることを確認するとともに，サンプルポンプ(B)を起動して異常のないことを確認したことから，当直長は同日9時05分，運転上の制限を満足していない状態から復帰したと判断した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M049]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果から，発生事象は再現することは出来なかったが，流量調節弁の流量調整範囲で流量変動が発生することが判った。
+　このことから，事象発生時に流量調整弁に何らかの性能変化が発生したために，サンプルポンプ(A)の吸込流量が減少し吸込圧力低（38cmHgVAC）のトリップ設定まで過負圧となりトリップしたものと推定される。
+　尚，再現試験を実施しても事象が再現しないのは，サンプルポンプ(A)のトリップ後に流量調整を実施したために流量調整弁の運転状態が変わり，その後，安定状態に回復したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[サンプルポンプ停止に伴う運転上の制限の逸脱]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1113</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/12/15 20:18:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2666</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[プロセス放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[131]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2666</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0970]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[097]]></GENIN_DAI_CODE>
+				<SORT_NO>36</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0970]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[097]]></GENIN_DAI_CODE>
+					<SORT_NO>11</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2666</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2666</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2666</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

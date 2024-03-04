@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10624</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/10/19 15:52:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4583</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/10/14 18:09:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090817]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[３号機において、タービン機器冷却水系（※１）の冷却水（脱塩水（※２））を補給するタンク（以下、タンク）の水位低下量が通常より多くなっていることを、８月１３日に、運転員が確認した。
+調査の一環として、タービン機器冷却水熱交換器（※３）（Ａ）（以下、熱交換器（Ａ））を隔離したところ、タンク水位の低下が緩やかになったことから、本日、午前９時５０分、冷却水が熱交換器（Ａ）内部の伝熱管を通じて海水側へ流出していたものと推定した。
+なお、熱交換器（Ａ）を隔離し、熱交換器（Ｂ）を使用しており、冷却水の海水側への漏えいはない。
+また、タンクの水位低下は、その変化量を詳細に確認したところ、８月４日頃から同様に推移しており、８月１１日の地震による影響で発生したものではないと判断した。
+
+海水側に流出したと推定される冷却水（脱塩水）は、放射能を含んでおらず、また放水口に設置している放射線モニタの指示にも変化がないことから、外部への放射能の影響はなかった。
+
+※１：タービン機器冷却水系は、タービン機器（各種熱交換器，ポンプ，モータ）に脱塩水を供給して冷却を行うための系統。
+※２：脱塩水は、不純物等を取り除いた水で、放射能を含んでいない。
+※３：タービン機器冷却水熱交換器は、タービン機器冷却水系の機器を冷却するための冷却水と海水との間で伝熱管を介して熱交換を行うことにより冷却水を冷却する装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン機器冷却水系冷却水補給タンクの水位低下について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/19 15:53:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

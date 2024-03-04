@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査
+　1.1 定期検査における当該弁の操作状況の調査
+　　　事象発生当日の９時４２分に当該弁の開操作を行っているが、操作後の弁開度指示は100%を指示していた。　その後、ＭＤＲＦＰ（Ｂ）出口流量制御弁を開操作しても給水流量に変化がなかったことから、当該弁の状況を確認するため、当該弁を電動で閉操作したところ異常を示す兆候はなく、電動で開操作したところ開度計は100%を指示したが弁は停止せず、100%を超えた段階で弁棒が回転することを確認した。
+　1.2 当該弁開放結果
+　　　当該弁の動作が正常でないことを確認したため、系統の冷却、隔離、水抜きを行った後、当該弁を開放したところ、以下のとおりの状況であった。
+　　　・弁棒のバックシート直上部で破断していた。
+　　　・弁体、弁座について、点検を実施した結果、弁動作の異常に繋がるような状況は認められなかった。
+　　　・弁体の弁棒接合部を目視点検した結果、摩耗、変形等の異常は認められなかった。
+　　　・弁ふたバックシート部の浸透探傷試験の結果、指示は認められなかった。
+　1.3 当該弁の仕様及び点検履歴調査
+　(1) 当該弁の仕様
+　　　・弁仕様：型式…ウェッジゲート弁、口径…16B
+　　　・弁　棒：材質…ＳＵＳ４０３（Ｈ）※２（マルテンサイト系ステンレス鋼）
+　　　　　　　　　　径…φ75mm　　　　　　　　　
+　　　　　　　　　　ネジ条数…3条
+　　　　　　　　　　速度…686mm/min（設計値）
+　　　・駆動部：出力…12kW　　極数…2極
+　　　　　　　　　 停止回路…開側：トルク、閉側：トルク　
+　　　　　　※２：弁棒の引張り強さを上げるため、ＪＩＳ材のＳＵＳ４０３に熱処理を施したもの。 
+　(2) 当該弁の点検履歴
+　　　一般的に弁の点検は、これまでの運転保守経験、メーカーからの推奨等に基づき、点検頻度、点検内容を定め実施している。　当該弁の分解点検については、点検頻度に関してメーカーからの推奨はなく、通常運転中常時開状態で使用し、定期検査でも隔離弁として使用してないことから、作動試験等で異常が認められた場合に実施することとしており、分解点検実績はなかった。従って、当該弁の弁棒は、運転開始以降点検は行われていなかった。なお、作動試験、弁グランドパッキン交換作業及び駆動装置点検手入れは定期的に行われていた。
+２．原因調査
+　2.1 破面詳細観察結果
+　　　開放点検の結果、当該弁の弁棒の破断が確認されたことから、破面の詳細観察を行った。
+　(1) 破面マクロ観察結果
+　　　破面観察の結果、金属光沢部、黒色部及び薄黒色部の３領域が確認された。それぞれの特徴を以下に示す。
+　 1) 金属光沢部
+　　　・ほとんどの部分に変色が認められず、金属光沢部内の一部のくぼんだ部分に茶褐色部が確認された。
+　　　・金属光沢部内に二次割れ部及び段差部が確認された。　　　　　　 
+　　　・金属光沢部内にやや光沢の強い領域が確認された。
+　 2) 黒色部及び薄黒色部　
+　　　・全周にわたり断続的に複数の黒色部が確認された。　 　　
+　　　・黒色部の内側（およそ45°～180°の範囲）に薄黒色部が確認された。
+　　　・一部（約330゜～150゜付近）にひだ状部分（ラチェット状模様（複数のき裂発生起点の破面が合体して生じた段々））が確認された。また、その端部は金属光沢が確認された。
+　 3) 破面マクロ観察の考察
+　　　金属光沢部は、ほとんどの部分に変色がないことから、最終的な破断により、形成されたと考えられる。一部の茶褐色部は、くぼんだ部分に多く存在しているため、弁棒破断後に実施した系統の冷却、隔離、水抜き中に堆積した鉄さびと考えられる。二次割れ部及び段差部は、複数発生したき裂が最終破断の際に発生したと考えられる。やや光沢が強い領域は、事象発生時の当該弁の閉操作を実施した際に、破面同士のこすれによって潰され発生したものと考えられる。
+　　　黒色部及び薄黒色部は、破面形成後比較的長時間高温の水に接していたことによる変色と考えられる。
+　　　ひだ状部分は、端部が金属光沢を呈していることから、き裂が同じ斜め方向に進展した状態で最終破断時に合体して形成されたものと推定される。 
+　(2) 破面ミクロ観察
+　　　破断した当該弁の弁棒の駆動部側及び弁体側について、走査型電子顕微鏡（ＳＥＭ）を用いて状況を観察した。結果は次のとおり。
+　 1) 駆動部側
+　　　・破面はロックキャンディと呼ばれる粒界に沿った割れ（ロックキャンディと呼ばれる粒界に沿った割れは、主に脆性破壊若しくは粒界型応力腐食割れ（ＳＣＣ）によるき裂発生時に見られる。）が主であった。また、変色部（黒色部及び薄黒色部）の破面の一部の粒界境界面は比較的鮮明であった。
+　　　・一部に付着物が確認された。
+　　　・破面のごくわずかな部分に延性破面特有のディンプル模様が確認された。
+　　　・疲労破面に特有のストライエーション状の模様は認められなかった。
+　 2) 弁体側　　
+　　　・付着物の多い変色部分の破面を確認するため、破面を洗浄して付着物を除去した後にＳＥＭ観察した結果、駆動部側と同様な特徴であった。
+　 3) 破面ミクロ観察結果まとめ　
+　　　破面は、ＳＣＣあるいは脆性破壊に見られるロックキャンディと呼ばれる粒界に沿った割れが主であり、疲労破面に特有なストライエーション状の模様は確認されなかった。
+　(3) 破断面断面金相観察結果
+　　　当該弁の弁棒き裂部断面の金相観察を行った結果、き裂は粒界に沿って進展しており、一部でき裂の進行方向とは異なる方向に進む枝分かれき裂が確認された。
+　2.2 当該弁の弁棒破断要因調査結果
+　　　破断面詳細観察結果から、破面は、ＳＣＣあるいは脆性破壊に見られるロックキャンディと呼ばれる粒界に沿った割れが主であったことから、それらの要因について要因分析に基づき工場及び現地にて詳細点検を行った。
+　(1) 材料不良
+　　　成分不良・熱処理不良による強度不足が考えられることから、材料調査を行った。
+　 1) ミルシート確認
+　　　・当該弁の弁棒のミルシートを確認した結果、問題はなかった。また、スパーク放電発光分光分析による外周及び中央側の化学成分を分析した結果、ＪＩＳに定めた化学成分の許容範囲内であった。
+　 2) 断面金相観察
+　　　・当該弁の弁棒を破断面上部約30mmの位置で切断し、断面の組織を観察した結果、一様にマルテンサイトの組織が確認された。　
+　 3) 機械試験
+　　　・当該弁の弁棒破断面上部から試験片を切り出し、引張り試験を実施したところ、引張り強さは約879N/mm2であり、規格値（785N/mm2以上）を満足していたが、シャルピー衝撃試験を実施した結果、衝撃値は約4～7J/cm2（弁メーカー材料試験成績書規格値：4kg･m/cm2、ＳＩ単位換算で39.2J/cm2以上）であった。なお、その他の値（硬さ、伸びなど）は弁メーカー材料試験成績書規格値を満足していた。
+ 　　　さらに、当該弁の弁棒のその他の部位について同様の試験を実施した結果、その他の部位は弁メーカー材料試験成績書規格値をすべて満足していた。
+　 4) 熱処理
+　　　・当該弁の弁棒製作当時の熱処理状況について、当時の弁棒のＱＣチェックを実施した者に手順等の聞き取り調査を行った結果、手順通りに熱処理が適切に行われていたことを確認した。
+　(2) 製品不良
+　 1) 内部介在物調査
+　　　・破面には茶褐色の付着物はあるものの、内部介在物は認められなかった。念のため、破面上の、黒色部、薄黒色部、金属光沢部の付着物をエネルギー分散型蛍光Ｘ線分析（ＥＤＸ分析）した結果、付着物はいずれも鉄の酸化物であり異常な元素は検出されなかった。
+　 2) 外部表面傷調査
+　　　・当該弁の弁棒の外表面を詳細観察した結果、初期欠陥となり得る弁棒加工時の傷、打痕などは確認されなかった。
+　 3) 製作状況調査
+　　　・弁棒くびれ部は応力集中箇所であり、その部位で破断していたため、設計図書を確認したところ、応力集中緩和措置として、弁棒くびれ部に所定の曲率（Ｒ寸法。弁体側3mm以上、駆動部側1mm以上。他プラントの損傷事例などから、最近の設計では応力集中を緩和するため、弁棒くびれ部の曲率はさらに大きく取っている。）が指示されていた。このため、弁棒くびれ部のＲ寸法を測定した結果、設計指示通りの加工が行われていた。なお、その他の寸法も測定したが、すべて設計図書どおりの値であった。
+　(3) 疲労
+　 1) 低ｻｲｸﾙ疲労、高ｻｲｸﾙ疲労
+　　　・破面観察の結果から、低サイクル疲労、高サイクル疲労割れに特有のストライエーション状の模様は確認されなかった。
+　 2) ﾌﾚｯﾃｨﾝｸﾞ疲労
+　　　・破断位置は弁ふたバックシート部など他の部品と接触することはなく、またその接触痕も確認されなかった。
+　(4) 水素脆化
+　　　材料の破損形態として水素脆化が考えられるが、当該弁の破面観察結果から、水素脆化の特徴を示す擬へき開破面は認められなかった。また、水素の影響を排除するため試験片を加熱保持したのち室温でシャルピー衝撃試験を実施した結果、衝撃値は有意に上昇しなかった。
+　(5) 過大応力
+　 1) 電動駆動による過大応力の発生
+　[1]駆動部工場点検結果
+　　　駆動部を工場に搬出して点検した結果以下の事項が判明した。
+　　　・トルクスイッチの作動試験を実施した結果、トルクスイッチはその設定許容範囲内で作動した。
+　　　・分解点検した結果、駆動ギヤ等の摩耗はなく、異常は認められなかった。
+　　　・スラスト試験の結果、当該弁は高速の電動弁のため、電動弁停止信号が入力されても慣性による惰走が大きく、トルクスイッチが設定値で作動した後も弁棒に加わるスラスト荷重が増加し続け、最終的にはトルクスイッチ設定値（425kN）の２倍を超える荷重（軸力約1,070kN、応力換算で約255MPa：480V換算）となった。
+　　　・駆動部電動機拘束時（トルクスイッチを除外した状態で駆動部電動機に電源を印加した状態）のスラスト荷重を測定した結果、480V換算で約2,844kN（応力換算で約680MPa）であった。
+　[2]点検要領、記録の確認結果
+　　　・過去の点検状況、点検要領など詳細をメーカー指導員に聞き取りにて確認した結果、トルクスイッチを除外して過大応力を加えたことはないとのことであった。
+　　　・これまでの運転履歴で運転中に隔離を行っており、隔離のためその出口弁である当該弁を増し締めした可能性がある。この場合、増し締め後の電動による開操作で通常より大きな応力（最大約680MPa）が発生する。
+　[3]圧力ロッキング事象の有無確認結果
+　　　・運転操作等の弁開操作において、圧力ロッキング（弁ふた内が加圧、加熱されて、弁体が押し付けられる現象）による過大応力が考えられるが、下流側へのバランス弁（常時開）が付いており、弁ふた内が高温・高圧で開操作することはありえないためロッキング現象は考えられない。
+　 2) 手動操作による過大応力の発生
+　　　運転操作を確認した結果、開状態の弁を手動でさらに開操作した記録は確認されなかった。
+　(6) 応力腐食割れ
+　 1) 破面観察結果
+　　　破面詳細観察の結果、ロックキャンディと呼ばれる粒界に沿った割れが確認された。一部でき裂の進行方向とは異なる方向に進む枝分かれき裂が確認された。
+　 2) 環境条件等調査結果
+　　　［材料面］当該弁の弁棒はマルテンサイト系ステンレス鋼であり、引張り強度を上げるために550℃で焼戻しを行っていた。
+　　　［環境面］給水中の溶存酸素濃度は20～50ppb、プラント運転中のＭＤＲＦＰ待機時の温度は約190℃である。
+　　　［応力面］プラント運転中バックシートが効いた状態で常時約183MPa※３の平均引張応力が弁棒に作用している（バックシート直上くびれ部の応力集中を考慮すると500MPaを超える）。
+　　　　※３：定期検査中（冷温状態：室温）の通常の開操作では約255MPaの応力が発生するが、プラント運転時の熱膨張を考慮すると応力が緩和され、約183MPaとなる。
+　 3) 文献調査
+　　　マルテンサイト系ステンレス鋼について文献調査の結果、以下のことが判明した。
+　　　［材料面］550℃付近の温度で焼戻しを行うと、ＳＣＣの感受性が高くなる（鋭敏化）。
+　　　［環境面］高温水中における鋭敏化材のＳＣＣ感受性は150℃～200℃で最も高くなる。
+　　　［応力面］50kgf/mm2（約490MPa）程度の応力があればＳＣＣが発生する可能性がある。
+　 4) 希硝酸腐食試験（ハッカライネン試験）
+　　　以上の結果から、当該弁の弁棒は、ＳＣＣ発生の可能性があることから、ＳＣＣ感受性を確認するため、当該弁の弁棒の破断部近傍から採取した試験片を希硝酸溶液に一定時間浸漬した後、その断面観察を行い粒界の浸食深さを測定した。その結果、ＳＣＣ感受性を有するとされる目安（浸食深さ50μm）を超える浸食が確認された。
+　2.3 ＭＤＲＦＰ（Ａ）出口弁点検結果
+　　　当該弁と同様な状況にあると推定されたＭＤＲＦＰ（Ａ）出口弁（以下、「Ａ弁」という。）について、分解調査を行った。
+　　　その結果、弁棒の破断はなかったものの、弁棒くびれ部のほぼ全周にわたりひびが確認され、その後破面観察を行った結果も当該弁と同様、ロックキャンディと呼ばれる粒界に沿った割れが確認され、疲労破面に特有なストライエーション状の模様は確認されなかった。
+　　　き裂部断面の金相観察を行った結果、き裂は粒界に沿って進展しており、一部でき裂の進行方向とは異なる方向に進む枝分かれき裂が確認された。
+　　　また、当該弁で実施した確認試験（シャルピー衝撃試験や希硝酸腐食試験など）をＡ弁でも同様に実施したところ、当該弁と同様な状況が確認された。
+　2.4 破断要因調査結果まとめ
+　　　以上の調査結果から、次の事項が特記事項として挙げられる。
+　(1) 当該弁及びＡ弁の破断面は、ごくわずかな範囲で延性破面が認められるが、ＳＣＣ若しくは脆性破面に見られるロックキャンディと呼ばれる粒界に沿った割れが主である。また、一部でき裂の進行方向とは異なる方向に進む枝分かれき裂が確認された。 
+　(2) 当該弁及びＡ弁の弁棒は、材料・環境・応力の状況からＳＣＣ発生の可能性が高い状況であり、確認試験により鋭敏化していることが確認された。
+　　　 1) 焼戻し温度が550℃であり、ＳＣＣの感受性を有する材料である。
+　　　 2) プラント運転中ＭＤＲＦＰ待機時における当該弁周囲の水の温度は約190℃であり、マルテンサイト系ステンレス鋼のＳＣＣが発生し得る環境となっている。
+　　　 3) 開操作時はトルクスイッチ作動で停止すること、及び、通常運転中は開状態であることから、常に引張り応力が作用している。 
+　(3) 当該弁及びＡ弁ともに高速作動の電動弁のため、慣性による惰走が大きく、通常の電動開動作時のスラスト荷重は最終的に、トルクスイッチ作動時の２倍を超える値となっている。 
+　(4) 当該弁及びＡ弁ともにシャルピー衝撃試験結果から、破断部位の靭性が低い。
+３．き裂発生進展評価
+　3.1 き裂発生進展評価のための試験
+　　　当該弁の弁棒の物性値を確認し、き裂発生進展評価するため、以下の試験を実施した。
+　(1) 繰返し荷重試験
+　　　繰返し荷重によるき裂の発生の可能性を検討するために、当該弁の弁棒から試験片を取り出し、繰返し荷重による寿命データを採取した。その結果、き裂を発生させるためには、通常操作※４では考えにくい1,000MPaを超える応力振幅が60回以上必要であった。
+　　　※４：通常考えられ得る操作で最大の応力は約680MPaである。
+　(2) 破壊靭性確認試験
+　　　当該弁の弁棒から試験片を取り出し、破壊靱性値の測定を行った。その結果、当該弁の弁棒の最終破断時の破壊靱性値は、負荷速度依存性はあるものの、約78MPa√mであることが確認された。
+　3.2 開閉操作によるき裂の発生・進展評価
+　　　前項で確認された試験結果から、弁棒にき裂が10mm生じている状態で、増し締め状態から電動開操作した場合（若しくはトルクスイッチをバイパスした状態で全開操作した場合）、脆性破壊により破断に至る可能性がある。しかしながら、今定期検査でそのような操作を行った履歴は確認されなかった。
+　　　き裂が20mm（破面の黒色部＋薄黒色部に相当）生じている状態で、通常開操作による全開時の荷重が加わると、靭性値が78MPa√mの場合、荷重のばらつきの範囲（約10%程度）で脆性破壊により破断に至る可能性がある。
+　　　なお、初期き裂が発生するためには、繰り返し試験結果から、1,000MPaを超える応力振幅で60回以上付加する必要があるが、通常考えられる操作での最大応力が約680MPaであることから、応力によってき裂は発生しない。なお、これまでの調査で判明した弁開閉操作の繰返し応力は約255MPaであり、操作回数は80回程度である。
+　3.3 ＳＣＣき裂発生・進展評価
+　(1) ＳＣＣによる初期き裂発生
+　　　当該弁の弁棒は製作時の焼戻し温度からＳＣＣ感受性が高い状態にあった。また、当該弁はプラント運転（待機中、給水温度約190℃）中、バックシートが効いた状態で常時約183MPaの平均引張応力が弁棒に作用しており、くびれ部の応力集中を考慮すると、鋭敏化したマルテンサイト系ステンレス鋼でＳＣＣが発生するとされる応力（約490MPa）を上回る。
+　　　このことから、これまでの運転期間内でＳＣＣが発生した可能性が高い。 
+　(2) ＳＣＣき裂進展
+　　　当該弁の弁棒内応力分布及び応力拡大係数をＦＥＭ解析により評価した結果、ほとんどすべての領域（表面から0.1mm以上）において、マルテンサイト系ステンレス鋼の下限界応力拡大係数ＫＩ IGSCC（約3.4MPa√m）を上回っていた。これは、ＳＣＣが発生するとそのき裂は停止せず、進展し得ることを示している。
+　　　マルテンサイト系ステンレス鋼の文献によれば、き裂進展速度は1,000時間当り0.1～2.0mmであることが確認されており、今回の事象もその程度であったものと考えられる。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>3199</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/12/03 10:33:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3285</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/18 14:58:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200508101500]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1) 当該弁及びＡ弁の弁棒を新品に取り替えた。なお、弁棒くびれ部の曲率は引張り応力を低減させるために緩やかなものに変更するとともにくびれ部の径を太いものにした。
+(2) 当該弁及びＡ弁を含め、起動・停止時及び運転中に開閉する主要系統で分解点検の周期が定まっていない電動弁については、定期的に分解点検を実施することとする。
+(3) 当該弁を含め、同様な状況にある電動弁（計４弁）については、過大なスラスト荷重が加わらないように、トルクスイッチによる停止信号が働く前にリミットスイッチによる停止信号が働くようリミットスイッチ停止回路の追加を行った。なお、念のため、上記４弁中分解点検を行っていない２弁について、開放点検を実施した結果、異常はなかった。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/12/03 10:33:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は、第２１回定期検査中の調整運転のため、平成１７年８月９日２２時００分に原子炉を起動した。翌８月１０日、原子炉圧力上昇に伴い、原子炉への給水圧力を上昇する操作として、給水ポンプバイパスラインを経由する給水（給水ヘッダー圧力約5.5MPa）から、電動機駆動原子炉給水ポンプ（以下、「ＭＤＲＦＰ」という。）（Ｂ）（吐出圧力約14.9MPa）に切替えて給水する操作を開始した。
+　給水切替準備として、同日９時４２分、ＭＤＲＦＰ（Ｂ）出口弁（４－４Ｖ１７）（以下、「当該弁」という。）を開操作した。１０時２６分、原子炉圧力が約4MPaに到達したため、１０時３１分にＭＤＲＦＰ（Ｂ）を起動した。
+　その後、ＭＤＲＦＰ（Ｂ）出口流量制御弁によるＭＤＲＦＰ（Ｂ）からの給水を開始しようとしたが給水状況に変化はなかった。このため、ＭＤＲＦＰ（Ｂ）出口流量制御弁を閉とし、当該弁の状況を確認するため開閉操作した結果、１４時２０分、当該弁の動作が正常でない※１と判断した。
+　以上のことから、当該弁の点検のため、１５時００分から原子炉停止操作を開始し、１８時５４分原子炉を停止した。　
+　なお、排気筒モニタ及びモニタリングポストの指示に変化はなく、本事象に伴う環境への影響はなかった。
+　　※１：当該弁（電動弁）の開閉操作の際、弁棒の電動弁駆動部に接続されている部分と弁体が分離していることを示す事象（電動弁駆動部内ドライブスリーブと弁棒が同時に回転する事象）が確認された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-原電-T005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　前項の評価結果から、今回の原因は以下のとおりと推定される。
+　(1) 初期き裂発生及び進展
+　　　運転開始以降、ＳＣＣの発生条件である材料・環境・応力を満足していたため、粒界型ＳＣＣが発生し、進展した。
+　　　［材料］弁棒が550℃焼戻しにより鋭敏化
+　　　［環境］190℃の高温水との接触
+　　　［応力］運転中バックシートが効いた状態で常時引張り応力が作用
+　き裂が発生した時点（約0.1mm）で当該弁の弁棒内の応力分布が、マルテンサイト系ステンレス鋼の下限界応力拡大係数ＫＩ IGSCCを超えることから、き裂は停止することなく徐々に進展した。なお、この場合、通常考えうる操作の最大の荷重によってき裂進展を助長したことを完全には否定できない。
+　(2) 弁棒スラスト荷重の発生
+　　　当該弁は、弁棒駆動速度が高速のため、弁停止信号（トルクスイッチ作動）が発信しても惰走が大きく、通常の弁開操作ではトルクスイッチ設定値の２倍を超えるスラスト荷重が発生する。
+　(3) 最終破断
+　　　ＳＣＣによる弁棒のき裂が20mm程度まで進展した段階で、靭性値が低いこともあり、今回の定期検査での開操作によって発生する応力で脆性破壊し、弁棒が破断した。
+　(4) 当該弁の点検周期
+　　　当該弁の分解周期については、これまでの点検計画では作動試験で異常が認められたときのみ分解することとしており、作動試験で異常が無かったため、分解点検を行わなかった。このため、き裂を見つけられなかった。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[電動機駆動原子炉給水ポンプ(B)出口弁点検に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（原子炉停止操作開始）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/19 10:37:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁棒]]></S_BUHIN_NAME>
+					<TROUBLE_ID>3199</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[158]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>3199</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

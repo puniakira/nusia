@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13191</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/10/27 15:01:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>93843</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/10/23 15:52:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202009011818]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　9月1日午後6 時18 分、3 号機廃棄物地下貯蔵建屋に設置されているタンクに接続されている配管から同建屋内に、廃液が漏えいしていることを当社社員が確認。
+　漏えいしている廃液は震災前から貯蔵されていたもの。また、同建屋内の水位は、同建屋付近のサブドレン水位よりも十分低いことから、当該建屋外への流出はないと考えている。
+　当該建屋に溜まった水の放射能分析結果は以下のとおり。
+・セシウム134 ：検出限界値未満（検出限界値：2.6×10（+2乗）Bq/L）
+・セシウム137 ：9.9×10（+4乗）Bq/L
+・コバルト60 ：6.7×10（+4乗）Bq/L
+・全ベータ ：1.8×10（+5乗）Bq/L
+　当該建屋内の水位が、同建屋付近のサブドレン水位より高くならないよう、9 月1 日午後6時46 分、同建屋付近のサブドレンのくみ上げを念のため停止。
+　当該タンクに接続されている配管の上流側に弁等がないことから、漏えいは継続しており、1 時間に約20～30mm で同建屋内の水位が上昇しているが、9 月2 日午前8 時40 分、当該建屋に溜まった水を仮設ポンプにて3 号機廃棄物処理建屋へ移送を開始。
+　なお、当該建屋は外部との連通部がなく、漏えいした水は、当該建屋内に留まっていると考えている。
+　その後、当該建屋の水位が安定し、サブドレンとの水位差が十分確保できる状態になったことから、9 月3 日午前10 時24分、当該建屋付近のサブドレンのくみ上げを開始。
+　当該建屋内における配管からの漏えいについては、9 月3 日午後2 時28 分に漏えいが停止していることを確認。
+当該建屋内に溜まった水については、3 号機廃棄物処理建屋への移送を、10 月9 日午前10時39 分に開始、午前11 時57 分に完了。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東京-S019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉冷却材浄化系廃樹脂貯蔵タンク配管からの廃液の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/10/27 15:01:40]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

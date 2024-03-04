@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[原因分析表に基づき、「マニュアル・実績等のエビデンス確認」「当社社員・協力企業社員への聞取り」等を実施。]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[138]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12816</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[保安検査]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2020/10/08 14:09:39]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[給気処理装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2018/07/06 16:01:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20180516]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．工事施行要領書の確認不足
+【対策①】
+・工事担当者は、協力企業の工事施行要領書確認時に当社の工事追加仕様書の要求事項を満足していることを確認し、両方に各項目についてのレ点チェックをし、確認済であることを要領書に記載する。
+・上位職は、工事施行要領書の審査・承認時に工事追加仕様書の要求事項を満足していることを確認済であることを確認する。
+・本事象をＪＩＴ情報に登録し、社内関係者に情報共有することで再発防止を図る。
+・本事象と再発防止対策について、所内ホームページの保全部共通データベースに掲載し、保全部内で共有するとともに教育を計画的に実施する。
+
+２．系統運転時の立会未実施
+【対策②】
+・グループ会議等で工事監理マニュアルに関する教育を計画的に実施し、理解を深める。
+・グループマネージャー又はチームリーダーは非管理区域と管理区域の境界作業に該当する工事については、立会検査が必要かどうか確認を行う。
+
+３．非汚染系統開放エリア作業の記載漏れ
+【対策③】
+・グループ会議等で放射線管理仕様書に関する教育を計画的に実施し理解を深める。
+　また、本事象をＪＩＴ情報＊に登録し、社内関係者に情報共有することで再発防止を図る。
+・当社の工事事前検討会・ＴＢＭ－ＫＹ参加報告書に非汚染系統開放エリア作業の有無のチェック欄を追加し、工事事前検討会で必ず非汚染系統開放エリア作業か確認することとする。
+　非汚染系統開放エリア作業に該当する場合は本事象及び放射線管理仕様書に要求される遵守事項、管理区域と非管理区域の境界であることの重要性を周知し再発防止を図る。
+　工事施行要領書に「非汚染系統開放エリア作業を実施する際は防護指示書へ非汚染系統開放エリア作業であることを明記する」と記載されていることを確認する。
+・非汚染系統開放エリアの作業を行う際は、工事施行要領書にエリア設定・解除について記載されていることを確認する。
+　＊ＪＩＴ情報：過去のトラブルの教訓が簡潔にまとめられたもの
+
+４．点検口開放時のパッキン状態の確認
+【対策④】
+・管理区域と非管理区域の境界を維持している扉のうち、管理区域の空気を強制的に吸込むおそれのある設備のパッキンについては、材質・仕様を調査により明確にするとともにリストを作成し管理する。
+　また、工事施工要領書に反映させる。
+・さらに、「扉を開放した際はパッキンの劣化状況を確認する。また、劣化があった場合はパッキンの交換を行う。」と点検扉開閉時の扱いを，仕様書で要求するとともに工事施行要領書に反映させる。
+　
+５．空調設備の漏えい確認方法
+【対策⑤】
+・管理区域と非管理区域の境界を維持している扉のうち、管理区域の空気を強制的に吸込むおそれのある設備について、扉を開閉した場合は、可視化できる方法（インリークチェッカー等）で漏えいがないことを確認することを仕様書で要求するとともに工事施行要領書に反映させる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/10/08 14:09:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成29年度第4回保安検査において、2号機中央制御室給気処理装置（Ａ）の点検の際に、「工事監理マニュアル」に規定されている、工事監理員が実施すべき工事追加仕様書の要求事項が工事施行要領書に反映されていることの確認及び工事施工要領書に記載された手順が変更された場合の上位職の関与の工事監理に係るプロセスを満足していないこと等が確認され、保安規定違反判定表（様式－５）が発行された。なお、2号機中央制御室給気処理装置（Ａ）の点検時の不適合事象については、通番12779「換気空調系中央制御室給気処理装置点検口からの空気流入の可能性について」にて公開している。
+
+【事象の詳細内容】
+（１）平成３０年２月１３日、２号機タービン建屋３階の管理区域に設置している、２号機中央制御室給気処理装置（Ａ）（重要度分類指針：ＭＳ－１）の点検において、点検口から管理区域の空気が非管理区域の中央制御室へ流入している可能性があることが確認された事象について、２Ｆ－２Ｒ中操換気系ダクト点検修理工事の工事追加仕様書に記載された、「運転状態における漏えい確認を行い異常がないことを確認する。」に関して、「立会検査」を調達要求事項としているが、協力企業の工事施行要領書には、「記録確認」と記載されているのみで調達要求事項を十分に確認せずに承認している。このことは、「工事監理マニュアル」の「工事施行要領書の管理」に規定されている要求事項を満足していない。
+
+（２）工事監理員は、当該装置の漏洩確認が終了していないにもかかわらず、当直員に当該設備を引き渡（リリース）した。
+また、この手順の変更を上位職の者に確認することなく、現場で実施した。このことは、「工事監理マニュアル」のⅡ工事管理３．工事管理の実施　３．４ 品質保証活動の要求事項（工事が工事施行要領書に基づき施工されていることを確認する）を満足していなかった。
+
+（３）「放射線管理仕様書」に非汚染系統開放エリア作業を実施する場合には、「作業予定表・防護指示書」に非汚染系統開放エリア作業であることを明記することが要求されているが、「作業予定表・防護指示書」に記載されていなかった。このことは、工事監理員が、受注者から受理した「作業予定表・防護指示書」により、工事追加仕様書等で要求している事項に対して、満足していることを確認するという「工事監理マニュアル」の作業予定表・防護指示書の運用の要求事項を満足していない。
+また、非管理区域用の換気空調系を開放する場合は、「放射線管理仕様書」において、非汚染系統開放エリア※を設定することが、要求されているが、「工事施行要領書」に規定がないことを確認した。
+※非汚染系統開放エリア：機器の分解点検等の際に放射性物質の飛散を防止するため設置する作業エリア。
+
+（４）「工事施行要領書」には、ＭＳ－１である当該設備の点検扉を復旧する際、扉とパッキンとのシール部分の状態の確認に関する規定がなく、当該パッキンは、経年劣化が著しいにもかかわらず、確認せず点検扉を復旧しており点検扉の健全性が担保できない。
+
+（５）「工事施行要領書」には、漏洩確認の方法が規定されておらず、聞き取りによれば、漏洩音および触診により検査を実施するとのことであったが、漏洩検査については、リークチェッカー及びスヌープ等の機材により微少漏洩にも対応できる機材を使用する必要がある。
+また、非管理区域用の換気空調系を開放する場合は、「放射線管理仕様書」において、非汚染系統開放エリアを設定することが、要求されているが、「工事施行要領書」に規定がないことを確認した。
+
+【保安活動の問題点】
+　本事象は、「工事監理マニュアル」及び「放射線管理仕様書」等に定められた調達要求事項を満足しないまま点検が実施さ
+れており、点検扉の健全性が維持されていないことから、保安規定第１０７条８．保全の実施を満足するものではない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．工事施行要領書の確認不足
+【問題点①】
+　協力企業から工事施行要領書と工事追加仕様書との相違について申し出がなかったことから、「立会検査」が「記録確認」と記載されていることについて認識がなかった。
+　また、工事施行要領書上覧時の確認方法が明確でなかったことから、立会区分の記載誤りに気付くことができなかった。
+
+２．系統運転時の立会未実施
+【問題点②】
+　中央制御室ダクト点検の一環で中央制御室給気処理装置（Ａ）の内部点検を実施したため、中央制御室系統の空調機を起動する際に当社監理員が漏えい確認の現場立会を行うべきところ、業務が輻輳していたことにより、当直から空調機起動に関する連絡を受け起動するまでに現場に行く時間がなく、当直に起動時間の変更を行うことができなかった。
+
+３．非汚染系統開放エリア作業の記載漏れ
+【問題点③】
+　中央制御室給気処理装置（Ａ）の内部点検において、放射線管理仕様書に基づき非汚染系統開放エリア作業として運用していたが、放射線管理仕様書の「作業予定表・防護指示書に非汚染系統開放エリア作業と明記する」について理解していなかった。
+
+４．点検口開放時のパッキン状態の確認
+【問題点④】
+　中央制御室給気処理装置（Ａ）の内部点検作業は点検口を点検、改造するものではなく、作業後に作業前の閉状態に戻す（現状に復帰させる）ものであり、作業前の漏えい確認では漏えいが確認できなかったことから、健全性は担保されていると考えていたため、開放時にパッキンの状態を確認していなかった。
+　また、パッキンの仕様について、管理されている状況になかった。
+
+５．空調設備の漏えい確認方法
+【問題点⑤】
+　従来から空調系の点検後の漏えい確認は異音、触診により実施していたことから、確認内容が不足しているとは考えなかった。
+　なお、点検口閉後の漏えい確認方法と判断方法を工事施行要領書で明確に定めていなかった。
+　]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[２号機 中央制御室給気処理装置（Ａ）点検における工事管理の不備]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[原子力規制委員会による保安規定違反（監視）の判断日]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[本件は、保安規定第１０７条（保守管理計画）「８．保全の実施」「（２）組織は、保全の実施にあたって、以下の必要なプロセスを実施する。」において規定されているプロセスのうち、ｃ）調達管理及びｄ)工事管理の実施を満足してない。
+一方、本エリアは、定期的な空気中放射性物質濃度測定により、検出限界値未満であること及び作業前の非汚染系統開放エリア設定時にも、２号機中央制御室給気処理装置（Ａ）の点検口周辺の表面汚染密度を測定し、検出限界値未満であることを確認していることから、放射線管理に係る安全性への影響はなく、本条項の不履行が原子力安全に影響を及ぼすものでないことから、保安規定違反（監視）と判断する。]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>88460</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/07/06 16:15:26]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[901]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[給気処理装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[給気処理装置]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12816</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[901]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[701]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[701]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[給排気装置]]></KIKI_NAME>
+					<SORT_NO>3</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[中央制御室換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[138]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[138]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[調達管理]]></S_GENIN_NAME>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12816</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

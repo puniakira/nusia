@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象の経緯
+○昭和６３年６月２２日
+　第４回定期検査中において，全制御棒が全挿入の状態で，制御棒が誤動作しないように水圧制御ユニット（以下「ＨＣＵ」という。）の挿入側（１０１弁），引抜側（１０２弁）を全数閉弁とし，隔離状態とした。（図１）
+○昭和６３年７月９日
+（１）原子炉起動準備のため，１０時３分よりＨＣＵの隔離解除のため，全閉していた弁の復旧操作を開始した。（図２）
+（２）１０時９分に中央制御室で「制御棒ドリフト」警報が発生したため，制御棒位置を確認したところ，制御棒38-31の状態表示がドリフト状態となっており，02位置まで引抜かれていることを確認した。このため，中性子束モニタの確認を行い原子炉の中性子指示に変化がないことを確認するとともに，現場にＨＣＵ操作中止と操作したＨＣＵの弁を再度隔離状態とするよう指示した。その後，制御盤の表示にて，当該制御棒を含む２本の制御棒がドリフト状態となっていることを確認した。また，制御棒駆動水原子炉間差圧および制御棒冷却水原子炉間差圧指示が高い状態であり，現場において本操作に先立ち，１０時０３分原子炉への戻りラインの弁（V-80）を全閉としたため，系統圧力が上昇したものと判明したことから，１０時１５分に当該弁を全開とした。
+（３）ＨＣＵの弁についてすべて閉弁した後，「制御棒ドリフト」警報リセットを実施した。リセット後に確認した２本の制御棒位置は次のとおりであった。（図３）
+・制御棒38-31　02ポジション（１／２４引き抜けた状態）
+・制御棒26-03　18ポジション（約１／３　引き抜けた状態）
+（４）原子炉への戻りラインの弁（V-80）を全開したことにより，系統圧力が正常に復帰したことを確認して，１０時５５分に２本の制御棒について復旧を指示し，１１時０３分に制御棒を全挿入状態とした。
+
+２．事象発生時の原子炉の状態
+　原子炉は起動準備のため，原子炉圧力容器の蓋は閉まっており，制御棒が引抜かれた際の中性子束モニタ（中性子源領域モニタ）のチャートを確認したところ，中性子の指示値は変化していないことから，原子炉の状態に変化がなかったことを確認した。なお，事象発生時，ＨＣＵアキュムレータに圧力があったことからスクラム機能は有していた。
+
+３．事象の原因
+　制御棒駆動水圧系がノンリターン※運転の状態において，弁の隔離解除操作を行った。この際，引抜側の弁を開弁したことで，冷却水圧力により制御棒引き抜き側に力がかかり，制御棒が引き抜かれたと推定した。この原因は次のとおりと推定した。
+(1)制御棒を動作させるラインの弁開操作（ＨＣＵ隔離解除）に先立ち，原子炉への戻り配管入口弁（V-80）を全閉した。
+(2)この操作により制御棒駆動水圧系統が締め切り状態となり，系統圧力が上昇した。
+(3)最初に４本の制御棒について弁の開操作を行った。
+(4)このため，加圧状態にあった制御棒排水ラインから弁の開操作を行った制御棒の引き抜き側に圧力が加わり，２本の制御棒が引き抜き側に動作した。（全引き抜き４８位置に対して，３８－３１が０２位置まで，２６－０３が１８位置まで）
+
+※制御棒駆動水圧系の冷却水の一部を給水管を介して原子炉に注入する制御棒駆動水圧系の運転状態をリターン運転といい、制御棒駆動水圧系の系統水全量を制御棒駆動水圧系の冷却水とする運転状態をノンリターン運転という（図１参照）。　
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8708</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/03/19 16:29:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3713</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/03/19 13:55:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[198807091009]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[当時，この事象を踏まえて，制御棒駆動水圧系の運転手順書に注意事項として追加した。また，本事象を教育資料に取り上げ周知徹底を図った。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中，昭和６３年７月９日１０時０９分中央制御室において「制御棒ドリフト」の警報が発生し、１本の制御棒がドリフト状態となっていることが分かった。現場では，制御棒駆動水圧系水圧制御ユニットの弁を操作中であったことから，ただちに原子炉が未臨界であることを確認するとともに，現場運転員に当該弁操作の中止と操作した弁の再隔離を指示した。
+　再隔離後の盤面監視において，２本の制御棒がドリフト状態で引き抜かれた状態となっていることを確認したため，制御棒駆動水圧系および水圧制御ユニットの弁を操作し，引き抜かれた制御棒を全挿入とした。
+　なお，２本の制御棒が引き抜き状態となっている間，当該２本を含む水圧制御ユニット周りの隔離が解除された４本の制御棒（２本が当該の引抜状態：中間位置，残り２本が全挿入位置）については，原子炉を緊急停止させるスクラム機能は確保されおり，残り８５本の制御棒については全挿入の位置で隔離されており制御棒駆動水圧系の圧力の影響を受けることのない状態（スクラム機能を必要としない状態）であった。本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1988-東北-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　ＨＣＵの隔離解除前に，原子炉への戻りラインの弁を全閉としたため，制御棒駆動水圧系が締切り状態となり，ＨＣＵを隔離解除した際に，系統圧力が制御棒の引抜き側に加わり，制御棒が引抜かれたと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査中の制御棒の引抜事象]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/19 14:15:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>8708</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8708</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8708</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

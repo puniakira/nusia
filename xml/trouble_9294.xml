@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状態確認
+　放射線監視盤－３の状態を確認したところ、収納されているモニタ７台が全て停止しており、Ｂ系５Ｖ電源ユニットは停止し、レートメータカードのＣＰＵ作動ランプは消灯していた。
+
+２．カード点検結果
+　放射線監視盤—３に設置されている放射線モニタ７台について、レートメータカード、検出器Ｉ／Ｏカード、チャンネル警報カードの点検を行った結果、補助建屋排気筒高レンジガスモニタ（Ｒ－４３Ａ／Ｂ）のレートメータカード２枚に異常が認められた。
+　このため、異常が認められたレートメータカード２枚を工場に送り、調査した結果、制御ロジック書き込みＩＣの故障であり、当該ＩＣを交換したところ正常に動作することが確認された。当該ＩＣは、他の５枚のレートメータカードには使用されていないことから、他のカードは機能喪失しなかったものと推定される。
+
+３．電源点検結果
+　放射線監視盤—３に設置されている５Ｖ電源ユニット、１２Ｖ電源ユニット、１１５Ｖ電源系統の点検を行った結果、異常は認められなかった。
+　なお、動作停止していたＢ系５Ｖ電源ユニットについては、念のためメーカ工場に送り、定格出力電流試験等を実施した結果、異常は認められなかった。
+
+４．配線及びコネクタ点検結果
+　放射線監視盤—３の盤内の配線及びコネクタの外観点検を行った結果、Ｂ系５Ｖ電源の電圧フィードバック＋Ｓ信号の配線１本に断線を発見した。また、断線した配線のまわりの計１０本の配線の被覆に損傷及び短絡痕が認められた。このことから、５Ｖ電源のフィードバック配線の一部に短絡及び断線が発生したことを起因として電圧変動が発生したものと推定される。
+
+５．放射線監視盤－３の点検履歴等調査結果
+　放射線監視盤—３の点検履歴等を調査した結果、同盤は第１６回定期検査（平成７年１１月～平成８年２月）で盤を一式更新しているが、更新後に異常は認められていないことを確認した。
+また、メーカへの確認の結果、過去に同機種で同一盤内のモニタが全台機能停止した事象は発生していないことを確認した。
+  
+６．盤内配線短絡の発生に関する調査
+　初期に発生した盤内配線の短絡について、要因分析を行った結果、放射線監視盤の裏面には配線の保護カバーがないため、盤の保守点検時に盤内配線への不用意な接触による配線被覆の損傷を与える可能性が否定できないことが判った。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[225]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9294</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/10/16 11:02:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　放射線監視盤－３の故障によるインターロック動作に伴い、復水器排気ガスモニタ（Ｒ－１５）が動作し蒸気発生器ブローダウンが隔離されたことで、３種類ある蒸気発生器伝熱管漏えい監視装置のうち、復水器排気ガスモニタ（Ｒ－１５）及び蒸気発生器ブローダウン水モニタ（Ｒ－１９）が監視不能となった。そのため、原子炉施設保安規定に定める運転上の制限を逸脱していると判断した。
+  
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3966</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/09/16 17:37:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200709120403]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1)放射線監視盤－３の補助建屋排気筒高レンジガスモニタ（Ｒ－４３Ａ／Ｂ）のレートメータカードを取り替えた。
+(2)放射線監視盤－３の盤内の断線した１本及び被覆が損傷した配線１０本を取替えた。
+(3)念のため、放射線監視盤－３のＢ系５Ｖ電源を取替えた。
+(4)上記の対策後、放射線監視盤－３のシステム全体の機能確認を行い、健全性を確認した。
+(5)保守点検時に盤内配線への不用意な接触による配線の損傷を防止するため、次回定検時に保護部材を設けることとする。
+(6)放射線監視盤の盤内配線取り扱いの際の注意事項を作業手順書に追記する。
+(7)今回の事象について、品質保証教育等の機会を通じて周知徹底する。
+  
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/10/16 11:02:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　玄海原子力発電所１号機は、通常運転中のところ、平成１９年９月１２日４時０３分に放射線管理設備に関する警報が発信し、関連するインターロックが動作するとともに、放射線管理設備の一部（放射線監視盤－３）に故障表示灯の点灯を確認した。また、関連する他の計器の指示値に有意な変化がないことを確認した。
+
+　放射線監視盤－３の故障によるインターロック動作に伴い、復水器排気ガスモニタ（Ｒ－１５）が動作し蒸気発生器ブローダウンが隔離されたことで、３種類ある蒸気発生器伝熱管漏えい監視装置のうち、復水器排気ガスモニタ（Ｒ－１５）及び蒸気発生器ブローダウン水モニタ（Ｒ－１９）＊の２種類が監視不能となったことにより、原子炉施設保安規定に定める運転上の制限を逸脱していると判断した。
+　その後、同日５時０３分に蒸気発生器ブローダウンの隔離を解除し、蒸気発生器ブローダウン水モニタ（Ｒ－１９）＊による監視が可能となったため、運転上の制限の逸脱から復帰した。
+
+　なお、今回の事象による環境への放射能の影響はなかった。
+
+＊蒸気発生器ブローダウン水モニタ（Ｒ－１９）は、放射線監視盤－４に設置
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-九州-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[(1)放射線監視盤－３の５Ｖ電源のフィードバック配線の一部に短絡及び断線が発生したことを起因とした電圧変動により、放射線監視盤－３に設置されている放射線モニタ７台のレートメータカードのＣＰＵが停止したことで同盤の機能が喪失したものと推定される。
+(2)上記の電圧変動に伴い、放射線監視盤－３の補助建屋排気筒高レンジガスモニタ（Ｒ－４３Ａ／Ｂ）用の２枚のレートメータカードが故障したと推定される。
+  
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[玄海原子力発電所１号機　放射線監視盤故障による運転上の制限の逸脱について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>571</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/09/21 18:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[プロセス放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[225]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[225]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9294</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

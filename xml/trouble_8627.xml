@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8627</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/02/02 16:45:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3669</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/02 15:24:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702011138]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は定期検査中のところ、平成19年２月１日午前11時38分、「原子炉自動スクラム（Ｂ系）」の警報が発生した。当該警報は、原子炉圧力に関連する信号（「原子炉圧力高」）にともない発生したものだった。
+　調査の結果、原子炉保護系の計器点検の準備作業として、ジャンパー線をジャンパー線受け台に取り付けた際、端子部に接続されていたケーブルがゆるんで接触不良となり、一時的に電気回路が切れて、当該警報が発生したことがわかった。
+　接触不良の原因は、当該ケーブルがケーブル端部の金具（ドーナツ状）にねじを通さないで当該端子部に取り付けられていたため、ジャンパー線取り付け作業の繰り返しにより、ケーブルがゆるんで発生したものと推定した。
+　なお、ケーブルの取り付け不良が発生した時期は、平成５年に実施した制御盤の取り替え後と考えられるが、特定には至らなかった。
+　対策として、当該端子部については、ケーブル端部の金具にねじを通して適切に取り付けを行った。今後、毎定期検査時にケーブルの取り付け不良がないことを確認する。
+　なお、中央操作室内のジャンパー線受け台が取り付けてある端子部の点検を行った結果、１号機で１箇所、２号機で２箇所取り付け不良が確認されたことから、適切に取り付けを行った。
+　本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S070]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の福島第一原子力発電所１号機における原子炉自動スクラム（Ｂ系）警報の発生および調査結果について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/02 16:46:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

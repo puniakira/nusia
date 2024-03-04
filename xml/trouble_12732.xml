@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12732</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/01/17 13:23:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>72820</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/11/16 15:20:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201710261140]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/01/17 13:23:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２９年１０月２６日（木）午後１１時４０分に、泊発電所より北海道原子力環境センター（以下、「環境センター」という。）へ伝送している３号機放水口ポストの以下の測定データについて欠測が発生した。
+　その後、午後１１時５０分に自然復旧し、以降のデータは正常に伝送された。
+
+［伝送不良データ］
+・計数率
+
+原因調査のため、平成２９年１０月２７日（金）午前１時００分より環境センターへのテレメータ伝送を停止し、その後の復旧作業により、翌日１０月２８日（土）午前０時４０分に伝送を開始した。
+
+（参　考）発電所からのデータ伝送について
+　泊発電所では、モニタリングステーションやモニタリングポストでの環境放射線や放水口ポストなどのデータをリアルタイムで環境センターに伝送している。
+　さらに、これらのデータは、環境センターから岩宇４町村などへ伝送され公開されているほか、北海道および当社のホームページでも公開している。
+　なお、３号機放水口ポストの測定データは、専用港の３号機放水口モニタ建屋にある「３号機放水口ポスト監視盤」から専用回線（光回線）を介して、発電所に設置されている「３号機ユニット総合管理計算機※１」、「３号機環境監視テレメータ盤※２」等を経由し、「放射線管理システム※３」に収集される。（別紙－１参照）
+
+
+　※１：３号機ユニット総合管理計算機
+　　　プラントデータの収集等を行う設備
+　※２：３号機環境監視テレメータ盤
+　　　　環境の放射線データ等を収集する設備
+　※３：放射線管理システム
+　　　　放射線データ等を管理する設備]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-北海道-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[３号機放水口ポスト測定データの欠測]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/11/16 15:21:08]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

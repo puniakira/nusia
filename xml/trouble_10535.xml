@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[２．原因調査
+当該弁による自動制御が不調となった原因について、要因分析に基づき調査を行った。
+（添付資料－７）
+（１）	制御系調査結果
+ａ．水位コントローラ不調
+水位発信器について、信号出力値を確認したところ異常は認められなかった。
+また、制御装置についてエラーログを確認したところ、異常は認められなかった。これらのことから要因の可能性はないと判断した。
+
+ｂ．電空変換器不調
+電空変換器の入出力特性試験を行ったところ、異常は認められなかったことから要因の可能性はないと判断した。
+
+（２）弁摺動部の点検結果
+ａ．弁内部への異物混入
+弁を分解点検し内部を確認したところ、異物は認められなかったことから要因の可能性はないと判断した。
+
+ｂ．グランドパッキンの摩擦抵抗増加
+弁の分解点検時にグランド部の締め付けトルクを確認したところ、異常は認められなかった。
+また、ボンネットフランジ部、グランドフランジ部の隙間についても片締め等の異常は認められなかった。これらのことから要因の可能性はないと判断した。
+
+（３）弁駆動部の点検結果
+ａ．駆動部ピストンへの異物混入
+弁駆動部を分解点検し内部を確認したところ、異物は認められなかったことから要因の可能性はないと判断した。
+
+ｂ．駆動部付属品等の取り付け不良
+駆動部付属品の継手部および電空変換器の操作部からの空気漏れの有無を確認したところ、異常は認められなかった。
+また、付属品の外観、電空変換器端子台の緩み、弁グランド部の封水元弁開閉状況について確認したところ、異常は認められなかった。これらのことから要因の可能性はないと判断した。
+
+ｃ．ブースターリレー※の不良
+ブースターリレーの入出力特性（入力信号と現場調節弁開度の比較）を確認したところ、出力特性に変化はなかったことから要因の可能性はないと判断した。
+
+ｄ．ポジショナー※の不良
+ポジショナーの入出力特性（入力信号と現場調節弁開度の比較）を確認したところ、入力信号と現場調節弁開度に差異が認められ制御が不安定になることが確認された。
+
+※ブースターリレー：ポジショナーからの弁開度調整信号に対し、弁を動かすのに必要な空気流量にブースト（増幅）し、リレー（中継）出力する装置
+※ポジショナーとは、弁開度要求信号に対し、弁の開度状況を感知して、弁棒を上下に動作させ弁開度調整信号を出力する装置
+
+
+（４）給水加熱器のチューブリークに係る考察
+給水加熱器にチューブリークが発生した場合、水位が変動する可能性があるが、水位変動後の給水加熱器内の圧力および水位に異常はなく、また、弁開度が増方向になっていないことから、チューブリークの可能性はないと判断した。
+
+以上の調査結果から、今回の事象の原因はポジショナーの不良によるものと判断された。
+
+
+３．ポジショナー開放点検調査
+上記２．の調査結果より、ポジショナーの入出力特性に異常が認められたことから、ポジショナーの外枠を取り外し、詳細調査を行った。
+（添付資料－８）
+
+（１）	パイロットプラグの作動不良
+パイロットプラグのガイド部を確認したところ、異常は認められなかったことから要因の可能性はないと判断した。
+
+（２）	スプリングレバー軸受け不良
+スプリングレバーの動作状況を確認した結果、ストロークレバーの動きに対して、通常はスムーズにスプリングレバーが追随して動作すべきところ、動作していないことが確認された。
+
+（３）	ベローズからの空気漏れ、ストロークレバー軸受け不良等
+ベローズ、ベローズガスケット部を確認したところ空気漏れはなかった。
+また、ストロークレバーの動作を確認したところ異常は認められなかった。これらのことから、要因の可能性はないと判断した。
+
+以上の調査結果から、ポジショナー不良の原因はスプリングレバーの動作不良によるものと判断された。
+なお、当該ポジショナーを新品に交換し、入出力特性を確認したところ、入力信号と現場調節弁開度に差異はなく、制御が安定して行われることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[停止]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[154]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10535</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/09/07 14:30:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>216</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>16905</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/08/22 21:08:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200907220021]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[５．再発防止対策
+本事象の推定原因を踏まえ、次の対策を実施する。
+（１）当該ポジショナーについては、工場出荷前に内部開放点検を実施し、スプリングレバーの動作確認を行った新品と交換する。
+
+（２）今後、ポジショナーの取替えにあたっては、工場出荷前に内部開放点検を実施し、スプリングレバーの作動確認を行ったものを使用する。
+
+（３）今回の定期検査時に交換したポジショナー２５台のうち、当該ポジショナー以外のポジショナーについても、動作確認試験を行い異常がないことを確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/09/07 14:30:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+女川原子力発電所３号機は、第５回定期検査調整運転中（定格熱出力一定運転）の平成２１年７月２２日０時２１分頃、低圧第２給水加熱器（Ａ）水位調節弁（以下、「当該弁」という。）の自動制御が正常に行われないことを確認した。
+このため、低圧第２給水加熱器（Ａ）の水位変動により、ドレン水位制御を行っていた低圧第２および低圧第３給水加熱器（Ａ）の水位調節弁（復水器側）が開動作し、給水に回収されるべきドレンが復水器側に排出されたことにより、プラント熱効率が低下し、発電機出力が８５５ＭＷから８４４ＭＷ（最低値）まで一時的に低下した。
+その後、当該弁の制御を自動から手動に切り替え、低圧第２給水加熱器（Ａ）水位を安定制御させ、同日０時３８分頃に事象発生前の発電機出力（８５５ＭＷ）に復帰した。
+なお、原子炉熱出力に変動はなかった。
+
+当該弁による自動制御が不調となった原因を調査するため、原子炉を停止することとし、７月２３日１５時００分より発電機出力の降下を開始し、同日２３時２７分に発電機解列、７月２４日４時１６分に原子炉を停止した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>3</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東北-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[４．推定原因（メカニズム）
+発電機出力が低下したメカニズムは、以下のとおり、当該弁による自動制御が不調となったことによるものと推定される。
+
+（１）今回の定期検査時に、計画取替として新品のポジショナーを当該弁に取り付けた。その際の特性試験時には、特に異常は認められなかった。
+
+（２）	その後、ポジショナーのスプリングレバーの動作が悪化し、低圧第２給水加熱器（Ａ）の水位制御が安定しなくなった。
+
+（３）	当該弁の制御が正常に行われなくなったことにより、低圧第２給水加熱器（Ａ）のドレン水位が上昇し，通常水位（以後，ＮＷＬという）＋１２０ｍｍまで上昇したところで低圧第２給水加熱器（Ａ）高水位調節弁（高水位制御）が正常に開き始めたが、ドレン水位の変動が早かったため，ＮＷＬ＋２５０ｍｍで「低圧第２給水加熱器（Ａ）水位高」警報およびＮＷＬ＋５８０ｍｍで「低圧第２給水加熱器（Ａ）水位高高」警報が発生した。
+
+その後、低圧第２給水加熱器（Ａ）水位調節弁（通常水位制御）を調整し、
+低圧第２給水加熱器（Ａ）のドレン水位は約ＮＷＬ＋１２０ｍｍで安定した。
+
+また、「低圧第２給水加熱器（Ａ）水位高高」警報発生に伴い低圧第３給水
+加熱器（Ａ）水位調節弁が全閉したため、低圧第３給水加熱器（Ａ）のドレ
+ン水位も上昇したが，ＮＷＬ＋１２０ｍｍまで上昇したところで低圧第３給
+水加熱器（Ａ）高水位調節弁（高水位制御）が正常に開き始め、「低圧第３
+給水加熱器（Ａ）水位高」警報が発生したものの、その後、低圧第３給水加熱器（Ａ）のドレン水位は約ＮＷＬ＋１２０ｍｍで安定した。
+
+このように低圧第２および第３給水加熱器（Ａ）高水位調節弁（高水位制御）
+が開き、ドレン水を復水器側に排出したことにより、低圧タービン中段から
+の抽気量が増えたため、タービン効率が減少することにより発電機出力が一
+時的に低下した。
+ポジショナー不良の原因は，スプリングレバーとスプリングレバーポスト外径部の勘合部の隙間に異物が存在し，ポジショナーの作動に伴い異物を起点として磨耗粒が発生，その磨耗粒が更なる磨耗粒を発生させて連鎖的に磨耗粒が発生したことで，摺動抵抗が増加し固着に至った。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所３号機低圧第２給水加熱器（Ａ）水位調節弁点検に伴う原子炉停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>855</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/08/22 21:15:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[303]]></KIKI_CODE>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10535</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[013]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[伝達・リンク機構]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>11</SORT_NO>
+						<BUHIN_CODE><![CDATA[013]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[303]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[給水加熱器]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[300]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[300]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[熱交換器・冷却器装置]]></KIKI_NAME>
+					<SORT_NO>18</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[抽気及びヒータドレン・ベント系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[154]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[154]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[製作上の不備によるもの（メーカ工場におけるもので、管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10535</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

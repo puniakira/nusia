@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10036</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/29 15:31:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4339</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/10/23 18:15:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200810221045]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生時の状況】
+　第３回定期検査中の５号機において、平成２０年１０月２２日午前１０時４５分頃、発電機リークテスト（※）後の発電機内圧力の降圧操作に伴う弁操作（開弁）を実施したところ、発電機軸受部からタービン建屋内（放射線管理区域内）に油が漏えいしたことを確認した。このため、直ちに当該弁を閉弁し、油の漏えいが止まったことを確認した。
+
+　また、その後の現場確認の結果、発電機密封油系の空気抜き配管を経由して、タービン建屋屋上（非放射線管理区域）へも油が漏えいしていることを確認した。
+
+　発電機軸受部および同系統の空気抜き配管から漏れた油の総量は、約３０リットルであった。
+
+　なお、本事象による外部への放射能の影響はなかった。
+
+※　運転中の発電機内部には回転子冷却のために水素を封入しており、軸受部に油を供給することで軸封を行っている。
+　発電機リークテストとは、回転子冷却のための水素が運転中に漏えいしないことを確認するため、点検時に水素の代わりとして圧縮空気にて発電機内部に圧力をかけ、発電機軸受部の軸封機能が健全であることを確認する試験。
+
+【原因】
+　発電機リークテスト後の発電機内圧力降圧操作時に、発電機内部の圧力が高い状態で当該弁を開弁したため、発電機密封油系の戻り配管が加圧され油が逆流した。
+
+【対策】
+　操作前に発電機内部の圧力が低下したことを確認する旨の注意表示を当該弁に取り付けるとともに、開弁するタイミングを明確にした手順書を作成する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中部-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/29 15:31:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

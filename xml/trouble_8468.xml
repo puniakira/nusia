@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8468</TROUBLE_ID>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/10/18 08:23:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3601</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/10/11 21:18:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20060923]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　再発防止のため、以下の対策を実施する。
+（１）配管名称の表示を明確にする。
+（２）配管に記載されている名称の確認を徹底する。
+（３）使用前に再確認を促すため、当該部を含む３号機の全ての補給水元弁について施錠管理を実施する。また、他号機についても同様の施錠管理を実施する。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　午後３時４０分頃、運転員が、タービン建屋海水ドレンサンプ（※１）の放射能放出を監視する計器の指示が上昇していることを確認したため、現場状況を確認した後に、タービン建屋海水ドレンサンプポンプの運転を停止した。
+　調査したところ、点検したタービン建屋海水ドレンサンプポンプ（Ａ－２）出口逆止弁の漏えい確認の際、非放射性の水（用水、脱塩水（※２））を使用して漏えい確認を実施するところを、誤って補給水（※３）を使用していたことがわかった。この結果、補給水を放水路より海に放出した。
+　放水路より海に放出した補給水の量は、タービン建屋海水ドレンサンプポンプの運転実績から約７トンと推定している。この量から算出される放射能量は、約２．７×１０＾４ベクレルであり、原子炉施設保安規定に定める放射性液体廃棄物の放出管理目標値（トリチウムを除く）（※４）である１．８×１０＾１１ベクレル／年の約６００万分の１の量であった。
+　なお、放出された放射能量は極めて微量であるため、本事象による外部への放射能の影響はなく、作業者等への被ばくはなかった。
+
+※１　タービン建屋海水ドレンサンプとは、タービン建屋内で発生する海水廃液（放射性物質を含まない）を回収するための設備。
+※２　用水とは、作業用、消火用等で使用する水で、放射性物質を含んでいない。また、脱塩水とは不純物を取り除いた純度の高い水で、放射性物質を含んでいない。
+※３　補給水とは、発電所の運転に再利用している水で、放射性物質を含む水を液体廃棄物処理系で処理して使用する。
+※４　放出管理目標値とは、施設周辺の公衆が受ける線量当量を低く保つために設定された努力目標値（年間線量０．０５ミリシーベルト、自然放射線による年間線量２．４ミリシーベルトの約５０分の１）以下にするため、気体および液体の放射性廃棄物に含まれる放射性物質の年間の放出量を管理するための値である。
+なお、トリチウムは人体および環境に与える影響が非常に小さいことから、放出管理目標値は定められていない。今回放出されたと推定されるトリチウムは約８．４×１０＾８ベクレルであり、基準値である１．８×１０＾１３ベクレル／年の約２万分の１の量であった。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[用水を供給する元弁が使用禁止となっていたため、脱塩水を使用することとした。しかし、配管名称の表示が不明確であったため、補給水配管を脱塩水配管と誤認識して接続し、弁の点検作業に伴うサンプポンプの運転により、補給水を放水路より海に放出した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[３号機　タービン建屋海水ドレンサンプからの補給水の放出について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/10/18 08:23:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8468</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8468</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8468</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+</KNT_TROUBLE>

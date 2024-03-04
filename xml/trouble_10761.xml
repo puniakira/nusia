@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10761</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/12 09:24:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/01/05 09:55:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001031127]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[浜岡原子力発電所１，２号機廃止措置中，３，４号機定格熱出力一定運転中，５号機点検停止中において，平成２２年１月３日午前１１時２７分頃，「モニタリングポスト（※１）（ＩＣ）放射能高」の警報が点灯した。
+ただちに運転員がモニタリングポスト（以下，「ＭＰ」という。）盤の状況を確認したところ，ＭＰ（Ｎｏ．２）の放射能高を示す警報が点灯していた。
+指示値を確認したところ，通常値約８０ｎＧｙ／ｈ（※２）のところ，約３７０ｎＧｙ／ｈ（警報値：２００ｎＧｙ／ｈ）まで瞬時に上昇していた。その後，指示値は下降し，同日午前１１時３２分頃に通常値（約８０ｎＧｙ／ｈ）に復帰した。
+なお，その他のＭＰ（Ｎｏ．１，３～７），排気筒モニタおよび放水口モニタの指示に変動はなかった。
+
+当該検出器を点検した結果，測定設備に異状が認められなかったこと，その他のＭＰ（Ｎｏ．１，３～７），排気筒モニタおよび放水口モニタの指示に変動はなかったことから，自然放射線等の影響によるＭＰ（Ｎｏ．２）の一時的な指示変動であると推定した。
+
+
+※１：モニタリングポストとは，２４時間連続で環境中の放射線を測定する設備で，発電所敷地内の７箇所に設置している。
+モニタリングポストでの測定は，ＮａＩシンチレーション検出器とＩＣ（電離箱）検出器の独立した二つの測定系統で行われている。
+※２　ｎＧｙ／ｈとは，ナノグレイ／時間と読む。「グレイ」は，放射線が物質に当たったときに，その物資に吸収されたエネルギーの量（吸収線量）を表す単位。また，「ナノ」は，１０億分の１を表す。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[モニタリングポストＮｏ．２の一時的な指示変動について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/01/12 09:24:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

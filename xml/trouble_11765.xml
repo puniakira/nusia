@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11765</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/08/12 20:35:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>40265</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/07/26 18:23:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201305231510]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成25年５月23日午後３時10分頃、６号機使用済燃料プールにおいて、使用済燃料ラック点検を行っていたところ、当社社員が当該ラック点検記録ビデオの確認中に、使用済燃料プール東側底部に異物（アイナットのようなもの）を発見した。
+５月28日午後４時50分、当該異物（アイナット１個）を回収した。使用済燃料プール冷却浄化系運転状態、使用済燃料プール温度、水位に異常はなかった。
+６月12日、異物（板らしきもの）を発見し、７月10日、当該異物（下げ札２枚）を回収した。
+なお、当該異物及び５月28日に回収したアイナット１個については、使用済燃料や設備に影響を及ぼすものではない。また、当該点検において、テープ片、チューブ片や剥離片などの、設備や使用済燃料の健全性に影響を及ぼさないゴミくず類が発見されたが、全て回収が完了している。
+
+（原因調査）
+アイナット調査の結果，ＳＦＰ周辺の本設設備で，当該のアイナットは使用されていないことが分かった。従って，オペフロ上の工事で，持ち込まれた仮設設備に使用されていたものが，何らかの理由で，ＳＦＰ内に落下したものと思われるが，特定はできなかった。
+下げ札調査の結果、当該の下げ札は，６号機第３回定期検査（S58.1.8～S58.5.26）において，『出力領域計装（ＬＰＲＭ）修理工事』で使用されていたことが，分かった。従って，この作業中に混入したものと思われる。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機　使用済燃料プールにおける異物発見について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/08/12 20:35:42]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

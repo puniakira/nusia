@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10127</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/01/21 19:52:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4397</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/01/14 19:09:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200901112014]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定格熱出力一定運転中の平成２１年１月１１日２０時１４分に、「工学的安全施設パーシャル作動」（格納容器圧力異常高格納容器スプレイ作動パーシャル）警報※１が発信した。直ちに状況を確認したところ、４チャンネルある格納容器圧力異常高格納容器スプレイ作動信号のうち、１チャンネル（チャンネルＩ）が動作（設定値：１９３．５ｋＰａ）状態であることを確認した。同信号回路は、格納容器内の圧力を検出し、格納容器圧力の異常を示す信号を伝送するものであるが、検出されている格納容器圧力（１．１～２．１ｋＰａ）は正常であり、回路内から発信される他の警報等はなかった。また、その他の３チャンネルについては、格納容器圧力は正常であり、異常のないことを確認した。この状況から、チャンネルＩの格納容器圧力異常高格納容器スプレイ作動信号を発信する回路に故障の可能性があると判断し、点検を実施したところ、当該作動信号を発信する警報設定カード※２の入力側の信号は正常で、当該作動信号が発信しない状態であるにもかかわらず出力側で異常信号を発信していることが判明したことから、当該カードに偶発的な故障が発生し、警報が発信したものと推定した。このため、故障が確認された警報設定カードを予備品に取替え、健全性を確認した後、１月１２日２時２０分に通常状態に復旧した。
+
+本事象による環境への放射能の影響はなかった。
+
+※１ 格納容器圧力異常高格納容器スプレイ作動パーシャル警報
+格納容器圧力が異常に高くなったときに格納容器スプレイを作動させるための信号。４チャンネルで構成させており、そのうち、１チャンネルのみが動作したことを示す警報。なお、２チャンネル以上が動作した場合、格納容器スプレイ設備が作動する。
+
+※２ 警報設定カード
+入力された電気信号を設定値と比較し、警報信号を発信する装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[格納容器スプレイ作動パーシャル警報の発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/01/21 18:16:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

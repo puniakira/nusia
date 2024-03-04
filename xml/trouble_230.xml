@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．タービン制御油漏えいについての点検調査結果
+（１）溶接施工不良調査結果（外観目視点検、非破壊検査、溶接部観察）
+・目視点検にて、ドレン配管とＴ管継手の溶接部近傍に周方向のひび（長さ３７ｍｍ）が認められた。
+・ひびの認められた箇所を切断し工場において溶接部の浸透探傷検査を行った結果、溶接不良は認められなかった。尚、ドレン配管とＴ管継手の溶接部近傍に周方向のひび（長さ３７ｍｍ）及びその反対側の溶接止端部近傍に周方向のひび（長さ２４ｍｍ）の指示模様が認められた。
+・制御油配管溶接部及びドレン配管溶接部について、施工時の非破壊検査（浸透探傷検査）記録確認の結果、溶接部の異常は確認されなかった。
+・ドレン配管溶接部を軸方向に４分割し、光学顕微鏡により溶接部観察（金属組織断面観察）を行った結果、金属組織は溶接金属の組織であり溶け込み不足等の溶接施工不良は認められなかった。
+・ドレン配管溶接部について溶接部観察（溶接部形状計測）を行った結果、ひびが発生した溶接止端部の形状は、他の部位に比べてなめらかでないことが認められた。
+（２）当該配管の振動（破面観察、振動評価、応力評価）
+・ドレン配管について走査型電子顕微鏡により破面観察を行い振動の状況を確認した結果、高サイクル疲労の特徴である縞状模様（ストライエーション状模様）、無特徴破面及び粒界混在破面が確認された。また、配管外表面に高サイクル疲労の特徴である微小なひびが多発していること及び配管外表面からのすじ模様も発見された。破面観察からは地震に伴う応力過大で破断したものではないことが確認された。
+・ドレン配管について打振試験を行い振動数測定の結果、２５Ｈｚ近傍に固有振動数をもつことが分かった。
+・２号機と同型である３号機の通常運転時の振動測定を実施した結果、２０～３０Ｈｚに卓越した周波数分布を有することが分かった。
+・柏崎刈羽原子力発電所６号機の通常運転時及びタービンバイパス弁３０％開時の振動測定を実施した結果、同様に２０～３０Ｈｚに卓越した周波数分布を有することがわかった。
+・通常運転中にドレン配管にかかる応力［１０９Ｎ／ｍｍ＾２（１１．１ｋｇ／ｍｍ＾２）］では疲労強度［１６０Ｎ／ｍｍ＾２（１６．３ｋｇ／ｍｍ＾２）］を超えないが、タービンバイパス弁３０％開時の応力［１８５．１Ｎ／ｍｍ＾２（１８．８７ｋｇ／ｍｍ＾２）］は疲労強度を超えることが確認された。
+（３）その他部位の調査結果
+・今回の事象を踏まえ、周辺の溶接部について浸透探傷検査を行った結果、逆止弁近傍に長さ１０ｍｍ、３ｍｍの微少な指示模様が確認された。また、破面観察を行った結果、上述のドレン配管のひびと同様、高サイクル疲労の特徴である縞状模様（ストライエーション状模様）が確認された。なお、その他の調査結果には異常は認められなかった。
+２．漏えい（水たまり）の点検調査結果
+（１）漏えい箇所を特定するため、漏えい箇所付近の制御棒駆動水圧系制御ユニット（以下、ＨＣＵという）について外観目視点検した結果、ＨＣＵ４６－３９のスクラム排出逆止弁（以下、逆止弁という）フランジ部に若干の隙間が確認されたことから、当該逆止弁を空気で加圧し漏えい確認を行った結果、空気が漏えいすることを確認した。また、念のため両隣りのユニットについても空気で加圧し漏えい確認を行った結果、漏えいのないことを確認した。
+（２）当該逆止弁詳細調査結果
+ａ．ボルト・バネ座金、フランジ面、パッキンの部品不良の有無を確認した結果、異常は認められなかった。
+ｂ．組立不良の有無を調査した結果、次のことが確認された。
+・キャップとボディ間のフランジ面の隙間測定結果から、フランジ面の隙間寸法が均一でないことを確認した。
+・規定トルクによるボルト締付け確認の結果、ボルトの緩みが確認された。また、バネ座金２個について指先で上下に動くような緩みが確認された。
+・施工記録の確認を行った結果、異常は認められなかった。なお、不具合発生ＨＣＵの施工記録確認の結果、逆止弁、スクラム弁の他４機器のトルク確認項目が一括で記載されており、各機器毎に記載することとなっていなかった。
+・その他の調査結果には異常は認められなかった。
+ｃ．地震による応力過大に伴うボルトの変形の有無を確認した結果、異常は認められなかった。
+（３）ボルト締付け不足原因調査
+ａ．組立途中での締付け不足を模擬した試験及び施工時記録の確認の結果、組立途中で中止したとは考え難い。
+ｂ．組立後の緩めの可能性の有無を確認するため、模擬試験、聞き取り調査、施工時記録の確認を行った結果、以下のことが確認された。
+・規定トルクで組立て後、一旦緩めた場合を模擬した試験の結果、バネ座金２個が指先で上下に動くことが確認され、シングルロッドスクラム試験時相当の圧力では、漏えいは認められなかった。さらにスクラム時相当の圧力を模擬する昇圧過程で漏えいが認められた。これらは、不具合事象と一致することから、組立後の緩め作業で不具合が発生したものと推定される。
+・作業班長へ当時の作業状況の聞き取り調査を行った結果、詳細は記憶していなかったが、点検ユニットを指示する際に座標番号ではなく北側壁よりｎ番目という表現をする場合があるとのことであった。点検対象ユニットは、原子炉建屋の北側と南側に分かれて配置されており、また、北側と南側の構造が似ていることから、場所を間違える可能性がある。後戻り作業を実施したかどうか不明であった。また、組立後、作業班長の判断でフランジ面間チェックを行っており、このチェックにおいて不均一が認められた場合は、再び新しいパッキンに取り替えて再組立をすることがわかった。
+・施工記録では異常がなかった。なお、記録の保存期限が過ぎており、使用されたパッキンの数は確認できなかった。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>230</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/08/25 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>162</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>455</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200007232100]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．タービン制御油漏えいについての対策
+　当該ドレン配管溶接部近傍における応力集中係数を考慮しても、当該ドレン配管の固有振動数とタービンバイパス弁３０％開状態時にタービンバイパス弁を流れる蒸気の流体振動との共振による疲労割れを回避するため、当該ドレン配管系統の引廻し並びにサポート位置等を見直すこととする。
+２．スクラム排出逆止弁フランジ部からの漏えいについての対策
+（１）当該逆止弁フランジ部のパッキンを新品と交換するとともに、フランジ面を手入れし、適切に組み立てる。
+（２）以下の作業管理方法の改善を図る。
+ａ．ダブルチェックによる確認の強化
+ｂ．作業対象機器であることがわかるように個々の機器毎に現場表示を実施
+　（スクラム入口弁、スクラム出口弁、スクラム排出逆止弁、充填水逆止弁の個々への表示）
+ｃ．記録様式を機器毎・作業項目毎に記録するように見直す
+ｄ．締付け後のフランジ面間最終確認の記録の追加
+ｅ．最終据付確認の実施
+（３）指差し呼称の再徹底を行う。
+（４）制御棒駆動水圧系制御ユニットへの南北色別を実施する。]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２号機は発電機出力７８４ＭＷｅ（定格出力）で運転中のところ、平成１２年７月２３日１８時頃からタービン制御油タンクの油面記録計の指示に僅かな低下傾向が確認された。その後２０時３０分頃油面低下傾向が徐々に増加していることが認められたため、２０時５５分頃から現場確認を開始した。２１時０３分頃、タービン建屋１階タービンバイパス弁用蓄圧槽付近からタービン制御油が漏えいしていることを確認し、ほぼ同時刻に「タービン制御油タンク油面低」の警報が発生した。タービン制御油が喪失するとタービンの制御に支障が生じることから、２１時１０分から発電機出力降下を開始し、２１時１７分原子炉を手動停止し、２１時３１分当該部へのタービン制御油供給弁を閉めて漏えい箇所を隔離した。
+　その後、運転員による停止後の現場確認を行っていたところ、同日２２時２０分頃、原子炉建屋１階北側制御棒駆動水圧系制御ユニット付近において水たまりが確認された。水たまりの量は約１５０リットルで放射能量は約２．１×１０＾８ベクレルであることが確認された。その後この水たまりについては、床ドレン処理系で処理するとともに汚染された床面の除染を行った。
+　なお、本事象による外部への放射性物質の影響はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>43</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-東京-T008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．タービン制御油漏えいの推定原因［設備不備（製作不完全）］
+　福島第一原子力発電所３号機及び柏崎刈羽原子力発電所６号機の振動測定結果から、福島第一原子力発電所２号機も２０～３０Ｈｚ近傍に卓越した周波数分布をもつと考えられ、当該配管の固有振動数は２５Ｈｚであることから共振し易かった。
+　第４回（当該配管が施工された時期）から第１７回定期検査の起動停止時におけるタービンバイパス弁３０％開状態時、タービンバイパス弁を流れる蒸気の流体振動からの励振による当該ドレン配管の共振及び当該ドレン配管溶接部近傍における（配管表面への）応力集中の相乗効果により、当該部には１８５．１Ｎ／ｍｍ＾２｛１８．８７ｋｇ／ｍｍ＾２｝（通常運転中に発生する応力にタービンバイパス弁３０％開による影響及び溶接止端部がなめらかでない事による影響を考慮した値）の繰り返し応力が発生した。当該部の疲労強度は、１６０Ｎ／ｍｍ＾２｛１６．３ｋｇ／ｍｍ＾２｝であることから、タービンバイパス弁が３０％開いている間、当該部の繰り返し応力が疲労強度を上まわることによりひびが発生、進展した。
+　その後、通常運転中の主蒸気配管を流れる蒸気の流体振動からの励振による当該ドレン配管の共振により、当該部に１０９Ｎ／ｍｍ＾２｛１１．１ｋｇ／ｍｍ＾２｝の繰り返し応力が加わり、配管表面のひびが進展、貫通した結果、漏えいに至ったものと推定される。
+２．スクラム排出逆止弁フランジ部からの漏えいの推定原因［保守不備（保守不完全）］
+　当該逆止弁を最終確認した際、フランジ面間不均一に気付き再組立しようとしてボルトを緩めた。しかし、パッキンが現場にないことから後で復旧することとしたが、勘違いして別のユニットの逆止弁の再組立を行ってしまったため当該逆止弁のボルトが緩んだままになったか、或いは何らかの要因で当該逆止弁の再組立を忘れてしまいボルトが緩んだままになってしまった。
+　これにより、原子炉手動停止に伴う制御棒緊急挿入時の圧力上昇に伴い、フランジ部から漏えいに至ったものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン制御油漏えいに伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（出力降下開始）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>230</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[エルボ・分岐管・レデューサ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>230</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>3</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[フィッティング（接続部・溶接部）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>230</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[タービン制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>230</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>230</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

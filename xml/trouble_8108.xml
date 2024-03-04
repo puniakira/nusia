@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8108</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/11/24 10:52:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3425</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/02/17 16:55:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200602142244]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/11/24 10:52:35]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第１８回定期検査の調整運転中の伊方発電所２号機において、２月１４日２２時４４分、１次冷却材ポンプの封水注入流量の指示低下を示す信号が発信した。
+　このため、調査を行ったところ、１次冷却材ポンプに封水を注入している充てんポンプの内、Ｂ号機の出口にある逃がし弁に不具合があることが確認された。なお、充てんポンプＣ号機の逃がし弁にも微少なシートリークの徴候が確認された。
+　その後、当該Ｂ号機の逃がし弁を分解点検し、部品取替及び手入れを実施した後、ポンプの運転状態を確認した上で、２月２１日１０時３０分、復旧した。念のため、Ａ，Ｃ号機の出口逃がし弁についても分解点検、部品取替及び手入れを実施した。
+　なお、本事象によるプラント運転には支障はなく、環境への放射能の影響もなかった。
+　
+(参考）
+○充てんポンプ
+１次冷却系統から抽出した１次冷却水を浄化した後、再び一次冷却系統へ戻したり、１次冷却材ポンプの軸封部からの漏えい防止のための一次冷却系統よりも高い圧力の水（封水）を供給するためのポンプ。
+（Ａ､Ｂ､Ｃの３台設置しており、通常１～２台を運転し、残りは予備としている。）
+○逃がし弁
+圧力上昇によるポンプや配管の損傷を防止するため、系統内の流体、蒸気等の圧力を系統外に排出し、予め設定された圧力以下に下げる機能を有する弁。
+　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-四国-S020]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[封水注入流量の低下について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/17 17:24:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

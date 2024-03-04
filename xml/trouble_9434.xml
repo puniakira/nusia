@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．当該水位検出器（以下、当該ＬＳという）元弁が閉まっていたことについて
+　当該ＬＳ元弁が閉まっていたことについて、当直および保全部門の関係者への聞き取り調査や関連マニュアルの確認を行った結果、以下のことがわかった。
+・平成19年10月18日に、保全担当者は当該ＬＳの点検が終了したため、当直員Ａに安全処置（※１）の復旧を依頼した。
+　保全担当者は依頼内容を記載した操作予定表を当直員Ａへ渡したが、操作予定表には制御回路のジャンパーリフトをする安全処置No.1～30のみが記載されており、当該ＬＳ元弁の「閉」操作をする安全処置No.35～58については記載されていなかった。
+
+・10月26日に、当直員Ｃは操作予定表の通り、制御回路のジャンパーリフトの復旧（安全処置No.1～30）を当直員Ｄに指示した。この際、当直員Ｃは安全処置No.1～30の復旧により、当該ＬＳに関する安全処置が全て復旧されるものと考えていたため、当直員Ｄに対し安全処置の復旧後、当該要素のインターロックが除外中であることを示す注意喚起シート（※２）を中操制御盤から取り外すよう指示した。
+　なお、マニュアルでは「保安規定に係わるインターロックを復旧した場合は、注意喚起シートを取り外す」ことが定められている。
+
+・同日、当直員Ｄは指示の通り、安全処置No.1～30を復旧し、注意喚起シートを取り外した。当直員Ｃは当直員Ｄから復旧の報告を受け、注意喚起シートが取り外されていることを確認した。
+
+２．当該ＬＳ元弁の閉状態が継続したことについて
+　１．の経緯により、当該ＬＳ元弁の安全処置が復旧されず、11月7日に当直員が確認するまで閉まった状態が継続した。
+　この間、当直において当該要素が動作可能であることをチェックシートにより確認していたが、当該ＬＳの元弁が閉まっていたことについてはチェックできなかった。
+　このため、チェックシートの確認状況について、当直の関係者への聞き取り調査や関連マニュアルの確認を行った結果、以下のことがわかった。
+・燃料装荷を開始した10月29日に、当直にて管理基準適合状況チェックシートにて当該要素の確認を行ったが、中操制御盤から注意喚起シートが取り外されていたこと、関連警報が発生していないことから、当該要素に問題はないと考え、チェックシートにレ点を記入した。
+　また、この日以降についても、チェックシートにて確認を行っていたが、同様の判断でレ点を記入した。
+　なお、同チェックシートのマニュアルでは具体的な確認方法については定められていない。
+
+・11月5日に「原子炉停止余裕検査」の準備として、当直にて設備別操作手順書に基づきＨＣＵのインサービス操作を行った。ＨＣＵをインサービスすることにより、保安規定第27条に基づき当該要素が動作可能であることが要求されるが、手順書上は操作前に当該要素の確認を行うことは定められていない。
+　またＨＣＵインサービス後、当直にて原子炉停止余裕検査実施前チェックシートに基づき当該要素の確認を行った。同チェックシートのマニュアルには、確認項目として「原子炉保護系の要求される要素に係わる作業が行われていないこと」や「注意喚起シートの掲示がないこと」等が定められていたが、当直は中操制御盤から注意喚起シートが取り外されていたことから、当該要素に係わる作業が行われていないものと考え、チェックシートにレ点を記入した。
+
+・11月6日に「制御棒駆動機構機能検査」を行うにあたり、当直にて日常点検表に基づき当該要素の確認を行った。日常点検表のマニュアルには、確認項目として「当該設備に係わる作業の安全処置が実施されていないこと」や「注意喚起シートの掲示がないこと」等が定められていたが、当直は中操制御盤から注意喚起シートが取り外されていたことから、当該要素に係わる作業が行われていないものと考え、チェックシートにレ点を記入した。
+
+
+※１　安全処置
+　設備の点検を行う際に、人身および設備の安全を確保するために行う処置。
+
+※２　注意喚起シート
+　保安規定に定める電気回路について安全処置を実施した際に、当該電気回路が点検作業中である旨の情報共有を図るため、中央制御室の認識しやすい位置に掲示するシート。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9434</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/12/13 18:11:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4048</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/11/07 17:57:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711071427]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．保全部門は安全処置の全復旧を当直に依頼する場合は、操作予定表に「全復旧」の旨を明記することとする。
+
+２．（１）当直はスクラム要素に係わる作業を予め抽出・管理するとともに、燃料装荷前に以下の確認事項ａ～ｃをもって必要なスクラム要素が動作可能であることを確認する。
+ａ．予め抽出されたスクラム要素に係わる作業の安全処置のタグ札が回収（または廃棄）されていること
+ｂ．スクラム要素の制御回路の端子を確認し、安全処置（ジャンパー）が実施されていないこと
+ｃ．現場にてスクラム要素の検出器の元弁が開状態であること
+
+（２）当直は燃料装荷後に制御棒の引抜き操作を行う場合、以下の確認事項ａ，ｂをもって、保安規定第67条または第69条に基づく必要なスクラム要素が動作可能であることを確認する。また、この確認事項については原子炉停止余裕検査実施前チェックシートおよび日常点検表に関するマニュアルに反映することとする。
+ａ．（１）に基づき実施した燃料装荷前の確認結果により、必要なスクラム要素が動作可能であること
+ｂ．（１）の燃料装荷前の確認後において、新たにスクラム要素に係わる作業の安全処置が実施されていないこと
+
+３．注意喚起シートの取り外しにあたっては、当直は予め抽出されたスクラム要素に係わる作業の安全処置のタグ札が回収（または廃棄）されていることを確認した上で取り外すこととし、その旨を注意喚起シートに関するマニュアルに反映する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/12/13 18:11:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は定期検査中のところ、平成19年11月７日14時27分、原子炉保護系に係るスクラム排出容器のすべての水位高検出器（８個）の元弁（16個）が本来開いているべきところ、閉じていることを運転員が確認した。
+
+　原子炉内に燃料集合体が装荷され、制御棒が全挿入された状態であり、保安規定ではこの状態において当該検出器が動作可能であることが要求されている。
+　このため、連絡を受けた当直長は、当該検出器が動作不能であると判断し、同時刻、保安規定で定める「運転上の制限」からの逸脱を宣言した。
+　その後、当該検出器の元弁を開け、当該検出器が動作可能であると判断したことから、14時59分、保安規定で定める「運転上の制限」の逸脱からの復帰を宣言した。
+　なお、これによる外部への放射能の影響はなかった。
+
+　また、平成19年11月５日に実施済みの「原子炉停止余裕検査」及び「制御棒価値ミニマイザ機能検査」において、検査条件である「スクラムディスチャージボリューム水位高が動作不能でないこと」を満足していなかったことが判明した。
+　なお、検査時にスクラムディスチャージボリューム水位高が動作不能であったことについて、「原子炉停止余裕検査」及び「制御棒価値ミニマイザ機能検査」の検査要求事項について評価を実施した結果、検査の判定基準に影響を与えるものではなく、検査の目的（技術基準への適合性を含む）は達成されていることを確認した。
+
+　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M065]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該ＬＳ元弁の安全処置が復旧されなかったこと、および当該要素の確認時に当該ＬＳ元弁の閉をチェックできなかった原因は以下のとおりと推定された。
+（１）保全担当者が当該ＬＳの安全処置の復旧を当直に依頼する際、安全処置の全復旧を依頼するつもりだったが、操作予定表に復旧すべき安全処置の番号を誤って記載してしまったため、当該ＬＳ元弁の安全処置については復旧が行われなかった。
+
+（２）当該要素の確認において、「当該要素に係わる作業が行われていないこと」の確認方法が各チェックシートに具体的に定められていなかったことから、中操制御盤の注意喚起シートが取り外されていたことをもって作業が行われていないものと考え、当該ＬＳ元弁が復旧されていないことをチェックすることができなかった。
+
+（３）注意喚起シートを取り外す際の確認項目が具体的に定められていなかったため、当該ＬＳ元弁が復旧されていないことをチェックすることができず、注意喚起シートを取り外してしまった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[運転上の制限の逸脱ならびに復帰について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/12 22:06:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[406]]></KIKI_CODE>
+			<TROUBLE_ID>9434</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[406]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[レベル検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9434</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9434</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9434</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9434</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12340</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/11/20 21:05:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58329</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2015/11/18 15:03:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201511021121]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　11月2日午前11時21分頃、高性能多核種除去設備において、フィルターのラインの切替作業を行っていたところ、当該ラインに設置してあるベント配管(空気抜き配管)より、水が漏れていることを当社社員が発見した。水溜まりの範囲は、約５ｍ×約10ｍであり、堰内に留まっており、外部への流出はない。なお、高性能多核種除去設備の運転を停止したことにより、漏えいは停止していた。
+
+　原因を調査した結果、高性能多核種除去設備の前処理設備を構成する弁の一つ（以下、「当該弁」という。）が開動作しないことを確認した。これによって、前処理設備が締切運転となり、系統内の圧力が上昇したことで逃し弁が動作し、逃し弁の下流側にあるドレン配管を介して、ベント配管※へ回り込み、その先端に取り付けてある異物混入防止用スクリーンから溢れて、漏えいに至ったものと判断した。
+（※ベント配管：高性能多核種除去設備が停止中に発生する水素を排出させるために設置した配管）
+
+　当該弁が開動作しなかった原因としては、10月30日に実施した弁交換時に、弁駆動部と弁体を繋ぐアダプターを接続していなかったことにより、弁体側に駆動力が伝わらずに当該弁が動作しなかったもの。当該弁については、弁体にアダプターを接続し、正常に動作することを確認した。また、ベント配管の先端にある異物混入防止用スクリーンについては、逃し弁が動作した場合の溢水防止として、暫定的に閉止フランジを取り付けた。
+
+　本事象の発生に伴い、11月2日より高性能多核種除去設備を停止していたが、当該弁が正常に動作することが確認できたことから、11月12日午後より運転を再開する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-東京-S030]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所構内における高性能多核種除去設備の堰内漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/11/20 21:05:53]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

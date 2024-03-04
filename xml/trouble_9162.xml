@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9162</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/08/03 10:52:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3905</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/31 17:48:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707300226]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成19年７月30日２時26分、１・２号機中央操作室において、発電所敷地周辺に８台ある低線量モニタリングポストのうち、１台（No.6モニタリングポスト）の指示値の上昇を示す警報が発生した。
+　このため、当該モニタリングポストの指示計を確認したところ、約40～70ナノグレイ／毎時（通常値）から上昇傾向（最大で約160ナノグレイ／毎時）を示していることがわかった。なお、指示値はまもなく低下した。
+　この間、当該モニタリングポストを除く７台の低線量モニタリングポストならびにすべての高線量モニタリングポストの指示値に有意な変動はなく、各排気筒モニタの指示値にも異常がないことから、今回発生した指示値の上昇は、発電所の運転による影響ではないと判断した。
+　
+　その後の調査において、当該モニタリングポストの信号伝送回路に設置された、アナログ信号をデジタル信号に変換する装置内の基板に故障が認められたことから、指示値の上昇は当該基板の不良によるものと推定した。
+　このため、当該基板を取り替えるとともに、本日午前７時30分、当該モニタリングポストの健全性を確認した。
+　なお、当該基板の不良の原因は、偶発的に発生した故障によるものと推定している。
+
+　本事象については、警報発生から点検・復旧までの間、当該モニタリングポストが正しく測定されていなかったものと判断している。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S038]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　低線量モニタリングポスト１台の指示値の一時的な上昇について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/08/03 10:52:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

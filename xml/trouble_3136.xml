@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3136</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/01/10 13:53:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3257</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/07/26 19:10:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200507240000]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/01/10 13:53:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の概要
+ 運転中の３号機において、原子炉建屋１階　主蒸気管トンネル室（放射線管理区域）内にある給水系第２隔離弁（Ｂ）について、７月２４日午前０時頃からカメラによる監視を開始した。
+ 当該弁は、内側と外側の二重にグランド部がある。このうち、内側グランド部については、温度により監視しているが、この温度が通常約４０℃のところ、約６０℃まで上昇してきたことから、シール性能が低下したものと推定する。
+ 現状、外側グランド部により当該弁のシール性能は維持されており、当該弁からの水漏れはない。
+ 外側グランド部からの万一の水漏れを早期に確認するため、カメラによる監視強化を行うこととした。
+ なお、本事象による外部への放射能の影響はない。
+
+２．原因調査結果
+　３号機第１４回定期検査で、当該弁の分解点検を実施した結果、弁体の軸グランド部に異状は認められなかった。
+　この結果から、これまでグランド部の締め付け確認は、３サイクル毎に行っていたが、弁の使用によって内部グランド部の密閉性が低下したため漏えいが発生したと推定した。
+
+３．再発防止対策
+　当該弁を含む原子炉格納容器内および高線量エリアの弁について、従来３サイクルで実施していたグランド部の締め付け確認を、毎回の定期検査で実施することとした。
+　なお、当該弁については、パッキンの取替を行い、調整運転開始後の定格熱出力一定運転状態において、漏えいのないことを確認した。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[給水系第２隔離弁（Ｂ）グランド部の監視強化について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/07/27 19:25:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

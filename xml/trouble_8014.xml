@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>8014</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/06/10 09:37:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>38906</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/12/13 15:41:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200511070430]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/06/10 09:37:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１００％電気出力段階での試運転中のところ、平成１７年１１月７日午前４時３０分頃、電動機駆動原子炉給水ポンプ（Ａ）入口配管の支持構造物（以下「当該サポート」という。）溶接部にひびが生じていることを発見した。
+　原因は、当該ポンプの試験運転における振動調整時に、当該入口配管近傍にある原子炉給水ポンプバイパス配管で一時的に大きな振動が発生し、この振動がバイパス配管サポートから操作架台＊を介して当該サポートに伝わり、ひびが発生したことによるものと推定している。
+　当該サポートの他の溶接部及び当該サポートが支持する配管を点検した結果、異常は認められなかった。また、当該系統の他のサポートについても異常は認められなかった。
+　当該溶接部に対しては、補修溶接を行うと共に、念のため、補強材を設置し、１１月９日に復旧した。
+　なお、当該サポートが機能しなくても、配管全体のサポート設計には余裕があることから配管の健全性への影響はない。
+
+　＊バイパス配管サポート及び当該サポート等を脚とした弁の操作のための架台
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-北陸-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[志賀原子力発電所２号機　タービン建屋内配管支持構造物のひびについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/17 11:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北陸電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北陸]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北陸電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>50</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hrk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[志賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>8</SORT_NO>
+		<PLANT_CODE><![CDATA[hrksk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[志賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

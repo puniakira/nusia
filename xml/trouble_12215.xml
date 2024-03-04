@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12215</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/08/30 15:33:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2015/06/08 16:23:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20150604]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/08/30 15:33:59]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の概要
+　平成27年6月4日　原子炉給水ポンプ駆動用蒸気タービン（以降　RFP-T）（A）の「オイルフラッシング」（※１）を実施していたところ，前側軸受箱付近に油のにじみを確認した。
+　現場確認を実施した結果，前側軸受箱とガバナボックス（※２）との連結部に油のにじみ（7～8秒に1滴）が発生していたことから，主油ポンプを停止しオイルフラッシングを中止するとともに，消防本部へ連絡した。当該部からの油のにじみについては主油ポンプを止めたことにより停止した。
+なお，オイルフラッシングは6月3日から開始しており，前日の作業終了時及び当日の作業開始前の現場確認では，油のにじみは確認されていない。
+
+※１：機器分解点検により，機器軸受け・給排油配管に混入したチリ・ホコリ等を機器運転前に除去する作業。
+※２：制御機構が収納されている箱
+
+２．原因調査
+ａ．ゴムパッキン・パッキンホルダ取付状態確認
+　油のにじみが確認された箇所について目視確認を実施したところ，ゴムパッキン同士の合わせ面に約1.5～2.5mm，パッキンホルダの合わせ面に約1.5～2.5mmの隙間が確認された。
+
+ｂ．ゴムパッキン圧縮量確認
+　ゴムパッキンはホルダにより連結部に押し付けられることでシールすることから各部の寸法測定を実施し圧縮量の評価を実施した。
+　その結果，ゴムパッキン及びホルダの寸法に問題はなく，連結部に密着している個所のシール性は確保されていたものと考えられる。
+
+ｃ．ガバナボックス内部確認
+　ガバナボックス内のユニオン・フランジ等からの漏えいにより当該部に油が吹き付けている可能性が否定できないことから，ガバナボックス外に滲み出た油の供給源を特定するため，ガバナボックス側面にアクリル板を取付け，主油ポンプを起動しガバナボックス内部の状況確認を実施した。その結果，ドレンポット（※３）上部から油が飛散している状況ではあったが、ユニオン・フランジ等からの漏えいはなかった。
+　なお，ドレンポット上部からの飛散についてはオイルフラッシングのためにフラッシング弁を「中立位置」にすることで，油が直接ドレンラインを通りドレンポットへ排油されるために発生するものであり，機器の異常により発生したものではない。
+
+※３：機器の排油が集まる，円筒形の管。
+
+ｄ．ゴムパッキン劣化調査
+　連結部に使用されているゴムパッキンは，独立気泡型と呼ばれる仕様のものであり気泡の特性を保持していれば，空気・水等を通さない構造となっていることから拡大写真を撮影し気泡に割れが発生していないかを確認した。
+　その結果，ゴムパッキン表面及び断面に連続した気泡の割れは確認されなかったことから，独立気泡型の特性は維持されており本事象の原因となる劣化はなかった。
+
+３．推定原因
+　ガバナボックス内は，フラッシング弁を「中立位置」とすることで油飛散が発生する状況であることから，飛散した油がガバナボックス内の壁面を伝い，連結部のゴムパッキンの隙間から滲み出たものと考えられる。
+　隙間があった原因については，当該ゴムパッキン合わせ面の接着部が一部はがれたことおよび，隙間をなくすために実施するゴムパッキンの加工成形作業を当該収納箱の内側（狭隘部）で実施していたため，加工成形の精度が低くなり，隙間が生じてしまったと推定する。また，当該ゴムパッキンを第12回定検時に新品へ交換した際，その取付後に隙間の有無の確認が不十分であったこと推定される。
+
+４．対策処置
+　上記推定原因を踏まえ，以下の対策処置を実施する。
+
+ａ．ゴムパッキン長さ調整は専用の治具を使用し，ガバナボックスの外で長さ調整を行い隙間のないことを確認したうえで取り付けることとする。なお，設備の経年変化を考慮し，取り合い部の寸法確認を適切に実施する。 
+
+ｂ．ゴムパッキン交換作業の手順書を作成し，パッキン取り付け後に，合わせ面に隙間が無いことを確認することとした。
+
+５．対策処置の確認
+　上記対策処置を実施し，主油ポンプを起動して漏えい確認を実施したところ当該連結部からの油にじみは発生しなかったことから対策処置については十分な効果があり，油にじみの原因がパッキン合わせ面の隙間である事が確認できた。
+
+６．水平展開
+　水平展開については当該箇所と同一の構造となる，４，６号機ＲＦＰ－Ｔ（Ａ）（Ｂ）号機について外観点検を実施し，必要に応じ交換を実施する。５号機ＲＦＰ－Ｔ（Ｂ）号機については現時点で漏えいは確認されていないが，（Ａ）号機と同時期に交換作業を実施していることから「4．対策処置」に基づき交換を行った。なお，今回漏えいが確認された（８年使用）のパッキンに劣化は確認されていないが，４，６号機の点検結果を踏まえた適切な交換周期を定めパッキン交換を実施する。
+
+７．再発防止対策
+ゴムパッキン交換作業を実施する際には，「4．対策処置」に記載した対策処置を実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-東京-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所５号機　原子炉給水ポンプ駆動用蒸気タービン軸受箱付近からの油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/06/08 16:23:59]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

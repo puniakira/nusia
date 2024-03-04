@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2443</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/10/06 10:46:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/06/21 22:43:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200406181020]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６月１８日の格納容器高電導度廃液サンプ出口流量積算値が通常約４０リットル／日に対し１８リットル／日に減少する事象が発生した。
+本事象は、平成１６年５月１３日当所５号機で発生した格納容器高電導度廃液排水量測定装置故障事象（配管詰まり）と類似であると考えられたことから、当該測定装置の故障と判断した。当該測定装置の系統構成等について点検したが異常は認められず，また6月19日1時30分頃，積算値が通常通りに復帰していることを確認した。但し，再発が懸念されたため関連パラメータの監視を継続した。
+　他方当日は，格納容器高電導度廃液サンプ水のサンプリング作業を行っており，当該作業の影響が考えられたため，再現性の確認を行った結果，同様の事象が認められたことから、サンプリングにより当該測定装置の系統水が一時的に抜けたことが本事象の原因と判断し、当該装置故障からの復帰を宣言した。
+
+＜故障と判断した原因＞
+当該のサンプリング作業は、３号機試運転時以降初めて実施する作業であったにも関わらず、サンプリングの作業内容（量・時間等）についての確認不足があったため、運転員は通常行われている各系統サンプリングと同様な作業と認識し、サンプリング量は少量と思っていた。その結果、サンプリングから１５時間経過しているにも関わらず流量指示計に指示が出ていないことはサンプリングによる影響ではなく、当該装置の故障であると判断した。
+
+ ＜再発防止対策＞
+１．当所マニュアルに下記内容を反映。
+　１）試料採取量及びブロー量
+　２）採取後、トータルブロー量を中操に報告すること
+２．格納容器高電導度廃液サンプサンプリング時の排水量測定装置の挙動について、各号機へ周知を図った。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉格納容器高電導度サンプ流量積算計の動作不能について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/10/06 10:46:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

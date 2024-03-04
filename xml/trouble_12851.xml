@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12851</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/09/08 20:22:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>77665</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/08/29 14:56:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201808121008]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　8月12日午前10時8分、免震重要棟において１号機原子炉建屋周辺に設置しているサブドレンピットNo.206において、同サブドレン内に２つ設置している水位計の差が大きくなっていることを示す水位計偏差大の警報が発生。
+　・警報発生前　水位差　約150mm
+　・警報発生後　水位差　水位計偏差警報設定値200mmを超えた
+　・サブドレン水位は、近傍の1号機原子炉建屋内水位と水位差約3100㎜
+示している水位計の値は、近傍の原子炉建屋の水位よりも高い値であるものの、サブドレン水位の上昇幅等から、水位計が故障している可能性もあると考え、午前11時15分、実施計画第1編第26条（建屋に貯留する滞留水）表26-2で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」の監視が出来ない状態であると判断。
+
+　また念のため、午前10時14分に１号機原子炉建屋周辺の揚水ポンプを停止。プラントパラメータ、モニタリングポスト、排水路モニタなどについて異常なし。その後現場にて、当該サブドレンピットの水位を実測したところ、各建屋の滞留水水位が該当サブドレン水位を超えていないことを確認。同日午後0時3分に当該サブドレンのくみ上げは停止。
+
+状況については以下のとおり。
+
+サブドレン水位(午後3時20分)　T.P 5,161mm(実測値)
+
+１号機原子炉建屋(午後3時20分)
+滞留水水位　T.P   156mm(塩分補正後)
+水位差　        5,005mm
+
+１号機廃棄物処理建屋(午後3時20分)
+滞留水水位　T.P   176mm(塩分補正後)
+水位差　        4,985mm
+
+　また現場調査の結果、当該サブドレンピットNo.206の水位計の位置が下にずれている状態が確認された。午後10時26分に当該サブドレンピットNo.206水位計の元の位置への調整が完了。
+　当該水位計の位置調整が完了した後、当該水位計指示値に問題がないこと及び水位計偏差大警報が発生した8月12日午前10時08分から8月13日午後1時26分の間、建屋滞留水水位がサブドレン水位を超えていないことを確認。このため、実施計画第1編第26条（建屋に貯留する滞留水）26-2で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」の逸脱について、8月13日午後2時00分に運転上の制限の逸脱宣言の取り下げを判断した。
+
+　なお、No.206を除くその他のサブドレンピットの水位計についても、念のため水位計の設置状態を含めた点検を実施しており、健全な状態であることを午後3時15分に確認。準備が整ったことから、午後4時1分サブドレンの汲み上げを順次再開。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-S016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１号機原子炉建屋周辺のサブドレンの水位計偏差大の警報の発生について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/09/08 20:22:04]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

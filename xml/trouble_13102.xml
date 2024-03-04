@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13102</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/12/28 15:35:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2020/03/26 15:58:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202003191419]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/12/28 15:35:32]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所から、青森県六ケ所村にある日本原燃株式会社（以下、「日本原燃㈱」という）低レベル放射性廃棄物埋設センターへ2020年2月25日に搬出した低レベル放射性廃棄体（以下、「ドラム缶」という）1体の底部に錆による損傷（注）があること、また当該ドラム缶の表面汚染密度を測定した結果、検出限界値未満であることを確認した旨の連絡を日本原燃㈱より受けた。
+　このため、2020年5月9日に当該廃棄体を日本原燃株式会社の低レベル放射性廃棄物埋設センターから東海第二発電所へ返送された。
+　錆のあった箇所を詳細に確認した結果、錆により最も減肉した箇所であっても貫通しておらず、もとの厚さの半分程度が残存していることを確認した。
+　錆が発生した原因を調査した結果、過去のタッチアップペイント（補修塗装）時にドラム缶の母材表面の錆が十分除去されない状態で塗装したため、時間の経過とともに錆が進展して表面に現れたものと推定した。
+
+注：ドラム缶底部の観察結果
+　　底部（外面）：2か所の錆（大：直径約2㎝、小：直径約5㎜）及び塗装の盛り上がりを確認。
+　　　　　　　　　直径約2㎝の錆について、タッチアップペイントの形跡を確認。
+　　底部（内面）：中央部を除く範囲にて複数箇所の錆及び塗装の盛り上がりを確認。
+　　　　　　　　　底部（内面）に水滴の無いことを確認。
+　　底部以外　　：特に異常なし。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-原電-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[低レベル放射性廃棄体における錆による損傷の確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/03/26 15:58:20]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

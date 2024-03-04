@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場調査対応
+　事象の発生を受けて、当該ＨＰＣＳ　Ｄ／Ｇ起動回路に何らかの不適合が発生した可能性があることから状況調査を行った。状況調査において、異常は見られなかったが、状況調査前に確認した時系列とその状況により、８６Ｅに関する要因の可能性があることが判明した。
+
+２．メーカ工場調査対応
+　現場調査対応を基に、要因分析表に基づいて工場調査を行った。
+（１）調査項目および結果
+　ａ．外観点検：結果「良」
+　　　変形・破損等の異常なし。（側面に付着物を確認）
+
+　ｂ．絶縁抵抗測定：結果「良」
+　　　「コイル－ケース間」、「端子－ケース間」は、いずれも１００ＭΩ以上で異常なし。
+
+　ｃ．手動復帰動作確認：結果「（一部）不良」
+　　　１）『動作位置』から『復帰位置』操作時、ハンドルの途中停止を確認。（復帰手前16°）
+　　　２）操作不能および操作中の接点動作については異常なし。
+
+　ｄ．接触抵抗測定：結果「良」
+　　　全接点２Ω以下を確認し、異常なし。
+
+　ｅ．動作特性試験：結果「不良」
+　　　最小動作電圧・電流が安定せず、コイル用ｂ接点、ａ接点の動作判定値外れが発生した。
+　　　１）最小動作電圧：６６～７３Ｖ　　（判定基準：７０Ｖ以下）
+　　　２）最小動作電流：１．１～１．３Ａ（判定基準：１．２５Ａ以下）
+　　　３）動作時間　　：コイル用ｂ接点２９ｍｓ、ａ接点：２７ｍｓ、ｂ接点：２１ｍｓ
+　　（判定基準：コイル用ｂ接点：２０～３０ｍｓ、ａ接点：１６～２６ｍｓ、ｂ接点：１４～２４ｍｓ）
+
+　ｆ．トルク測定：結果「不良」（判定基準：動作停滞ないこと）
+　　　『復帰』から『動作』へ操作時、復帰位置から16°の位置で0（N・m）となり、
+　　　動作停滞が発生した。
+　　　また、『動作』から『復帰』へ操作時、復帰位置から16°の位置でトルクの
+　　　増加が確認された。
+
+　ｇ．解体調査：結果「不良」（判定基準：異常のないこと）
+　　　１）カムに筋状の摺動痕跡あり
+　　　２）接点１、２と５、６黒色に変色が発生していた。
+
+（２）解体調査結果の詳細
+　ａ．接点部カムの摺動痕について
+　　　接点部のカム回転方向に筋状の摺動痕跡が確認された。
+　　　１）カム形状に合わせて接点を動作させるように、ローラを取付けてあることから、
+　　　　　確認された筋状の摺動痕は回転すべきローラが回転せずカム上を摺動したものと
+　　　　　推察する。
+　　　
+　　　２）ローラの軸受として使用しているシャフト表面がローラと摺動する箇所のみ、
+　　　　　メッキ剥がれの様相が確認されたことから、長期間の使用により、ローラとの
+　　　　　摺動でシャフト表面が摩耗したものと推察する。
+　　　
+　　　３）接点部を取外した後、トルク測定を実施したところ、復帰位置手前16°付近での
+　　　　　途中停止事象の解消を確認した。
+
+　ｂ．接点の黒色変色の発生について
+　　接点1-2と5-6の可動および固定接触子面が黒色い変色していることを確認したこと
+　から、接点1-2について、元素分析を実施した結果、炭素・酸素・塩素・硫黄・銀成分
+　を確認した。
+　　　１）接触子は銀メッキ処理されているが、硫黄により硫化した場合、導電率の低い
+　　　　　硫化銀が生成される。硫黄は大気中に微量に存在しており、経年により硫化が
+　　　　　進展したものと推察する。
+　　　２）接点5-6についても同雰囲気中に曝されていることから、同様に硫化の影響が
+　　　　　あるものと推察する。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12119</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2020/02/07 16:02:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/10/10 09:45:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201410081035]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　５号機のＤ／Ｇロックアウトリレー（Ｄ／Ｇ（Ａ、Ｂ）「８６Ｇ」、「８６Ｅ」、ＨＰＣＳ　Ｄ／Ｇ「８６Ｇ」の計５台）については、既に交換予定であったため、順次今年度交換を実施する。
+　また、今回製造から３４年経過していたこともあり、６号機（約２２年経過）、７号機（約１６年経過）の類似品についても、製造から２５年までに順次交換を計画し、実施する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/02/07 16:02:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（発生状況）
+　平成２６年１０月８日午前１０時３５分頃、定期検査中の５号機において、高圧炉心スプレイディーゼル補機冷却海水系＊１の点検に伴い不待機状態としていた高圧炉心スプレイ系ディーゼル発電機（以下　ＨＰＣＳ　Ｄ／Ｇ）＊２について、同海水系の点検終了に伴う試運転のため起動操作を行ったところ、当該ディーゼル発電機が起動しないことを確認した。
+　また、起動前にＨＰＣＳ　Ｄ／Ｇ機関ロックアウトリレー（以下８６Ｅ）の復旧操作過程で以下の事象も発生していた。
+　①断線検出ホワイトランプが点灯せず。
+　②「ＨＰＣＳ　ディーゼル機関ロックアウトリレー断線」警報発生／クリア
+
+以上の事象から起動回路に何らかの不適合が発生した可能性があると考えられる。
+
+（安全性、外部への影響）
+　５号機用として別の２台の非常用ディーゼル発電機が待機状態であり、プラントの安全上の問題はない。
+　今回の不具合による外部への放射能の影響はない。
+
+（対応状況）
+　原因調査の結果、ＨＰＣＳ　Ｄ／Ｇの起動・停止回路に使用している継電器が長期の使用により、内部部品の摩擦抵抗増加や、継電器の接点の接触抵抗が増加したことにより、起動回路が成立しなかったものと推定した。
+　
+　当該継電器については、新品に交換し、動作に問題がないことを確認した。
+　
+　再発防止対策として、当該継電器についてはこれまで計画的に交換することとしていたが、それよりも早く不具合が確認されたことから、今後、交換周期を適正となる25年までを目安に定め、適切に管理していくこととした。
+
+＊１　高圧炉心スプレイディーゼル補機冷却海水系
+　高圧炉心スプレイ系は非常用炉心冷却系の１つで、原子炉水位が異常に低下した場合に、原子炉内に水を補給するための設備であり、所内電源喪失時にその系統のポンプ等に電源を供給するディーゼル発電機を間接的に海水で冷却するための設備。
+＊２　高圧炉心スプレイ系ディーゼル発電機
+　高圧炉心スプレイ系は非常用炉心冷却系の１つで、原子炉水位が異常に低下した場合に、原子炉内に水を補給するための設備であり、ディーゼル発電機は所内電源喪失時にその系統のポンプ等に電源を供給する発電機。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-M029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回の事象についての発生メカニズムは以下の通りと推察される。
+
+（１）復帰操作時における途中停止事象の発生メカニズム
+　ロックアウトリレー動作・復帰操作による接点部シャフト摩耗による摩耗粉が、ローラ回転を阻害する摩擦抵抗となり、回転軸の回転トルクが上昇し、復帰操作時における途中停止〔復帰位置手前16°（工場調査時の停止位置（実測値））〕が発生したものと推察する。
+
+（２）ロックアウトリレー断線検出ホワイトランプ不点灯および断線警報発生／クリアの発生メカニズム
+ａ．断線検出ホワイトランプについて
+　コイル用ｂ接点（1-2、5-6）に黒色変色（硫化）が確認されたことから、これによりコイルｂ接点の接触抵抗の増加が発生し、断線検出リレー（R44-K43）が動作せず、断線検出ランプ不点灯の発生に繋がったものと推察する。
+　その後、３回復帰操作を実施しているが、接触抵抗が徐々に回復したことにより、断線検出ランプが点灯したものと推察する。
+ｂ．断線警報発生／クリアについて
+　３回目の復帰操作後に、ｂ接点（9-10、断線検出警報用ｂ接点）の接点ONにより、断線検出タイマが動作したものと推察する。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所５号機　高圧炉心スプレイ系ディーゼル発電機の不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[起動操作を行った時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[5]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>77636</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/10/10 09:45:24]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12119</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[047]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[リレー]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>31</SORT_NO>
+						<BUHIN_CODE><![CDATA[047]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2060]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[摩耗]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>7</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[アブレッシブ摩耗、凝着摩耗、腐食摩耗、疲労摩耗]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2060]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2070]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>8</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[熱,放射線による劣化、熱劣化、樹脂の劣化、材料劣化、課電劣化、ゴムの劣化、性能劣化]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2070]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12119</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

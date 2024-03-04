@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11723</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/10/02 14:31:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>50036</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/05/30 09:50:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20130311]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/10/02 14:31:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成25年3月11日、浜岡原子力発電所5号機の使用済燃料貯蔵プールにおいて、ファイバースコープにて燃料集合体の確認（※）を行っていたところ、1体の燃料集合体の燃料棒とスペーサの間に長さ1cm程度の紐状の異物を確認した。また、12体の燃料集合体に付着物を確認した。
+　なお、ファイバースコープによる画像およびこれまでの原子炉水や燃料プール水の分析結果から、当該燃料棒からの放射性物質の漏えいはないと判断している。
+
+　その後、これらの異物及び付着物を回収・分析するため、回収装置を製作し、平成26年4月16日より異物及び付着物の回収作業を開始した。回収作業は、異物を確認した燃料集合体1体のほか、付着物を確認した燃料集合体12体のうち抜取りで3体を対象とし、回収後には異物及び付着物の分析を行った。
+
+　回収した異物の外観観察、材質の分析、脆さ確認等を実施した結果、鉄が主成分であり、切削片や資材片等の微小な金属屑であることが分かった。
+
+【燃料への影響評価】
+　異物は、脆さ確認の結果から燃料被覆管表面で連続的に振動して擦れることによる燃料被覆管破損（フレッティング破損）を起こすことはなく、燃料の健全性に影響を与えるものではないと評価した。なお、この異物は海水混入事象によるものではないと評価した。
+　回収した付着物について、異物と同様に燃料への影響評価を行い、その結果、異物と同様の微小な金属屑であり、燃料の健全性に影響を与えるものではないと評価した。
+
+※平成23年5月14日に発生した復水器細管損傷による海水混入事象による燃料集合体への影響の確認]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-中部-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所５号機　使用済燃料貯蔵プール内での異物確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/05/30 09:53:37]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

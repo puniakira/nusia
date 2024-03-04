@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．被災時の状況
+　１－１屋内開閉所の状況
+　東海第二発電所は外部電源として２７５ｋＶ系２回線（東海原子力線１号，２号）及び１５４ｋＶ系１回線が設置されている。このうち，東海原子力線１号及び２号の遮断器，断路器及び避雷器等が屋内開閉所内に設置されている。また，２７５ｋＶ系送電線を屋内開閉所内に引き込むためのブッシング及びこのブッシングを洗浄するための碍子洗浄装置が，屋内開閉所西側の屋外ブッシングエリアに設置されている。
+　東海第二発電所は，通常２７５ｋＶ系送電線を介して送受電しているが，２７５ｋＶ屋内開閉所機器他点検のため，平成３０年１１月１２日より１５４ｋＶ系１回線で受電しており，２７５ｋＶ系２回線による受電は停止していた。（２７５ｋＶ系東海原子力線１号は充電状態，東海原子力線２号は停電状態であった。）
+　東海原子力線１号の遮断器（以下，「遮断器－３」という）１台及び断路器２台（以下，それぞれ「断路器－３」及び「断路器Ｒ－３」という）が開放状態，断路器－３の送電線側は充電状態，断路器－３の付属装置である接地開閉器（以下，「Ａ接地」という）は開放状態であった。
+　また，東海原子力線２号の遮断器（以下，「遮断器－４」という）１台及び断路器２台（以下，それぞれ「断路器－４」及び「断路器Ｒ－４」という）が開放状態，断路器－４までの送電線は東海原子力線２号系機器点検のため線路停止中，断路器－４のＡ接地はＡ接地機器自体の点検及び断路器－４の点検に干渉するため開放状態であった。
+　さらに，東海原子力線２号機器点検時のＡ接地開放による感電を防止するための代替措置として，屋外ブッシング部近傍の引き込み線に作業用接地（以下，「代替Ｃ接地」※１という）で接地線接続箇所を介して，東海原子力線２号は大地間と接地している状態であった。
+　　※１：作業用接地には代替Ｃ接地の他に，Ａ接地投入状態又は代替Ｃ接地が付いた状態においても作業に伴い作業期間中念のために付ける接地がある。本報告書ではその接地と代替Ｃ接地を識別するため，その接地を「Ｃ接地（作業）」と呼称する。さらに，Ｃ接地（作業）の中でも１５４ｋＶ系の送電線事故時等に，停電中の２７５ｋＶ回線を緊急復旧できるよう，日々の作業終了の都度，接地を外しているものがある。このＣ接地（作業）を本報告書では「Ｃ接地（夜間復旧）」と呼称する。
+
+　１－２被災当日の作業予定
+　作業指示書※２の記録から，当日の作業は東海原子力線２号の避雷器点検作業，断路器点検作業及び碍子洗浄装置点検作業等を予定していた。
+　当日の受注者側の作業体制は，元請会社の現場作業責任者，一次協力会社の作業監督，二次協力会社の班長（被災者）及び三次協力会社作業員６名（以下，「作業員Ａ」，「作業員Ｂ」，「作業員Ｃ」，「作業員Ｄ」，「作業員Ｅ」，「作業員Ｆ」という）で組まれていた。
+　　※２：班長が当日の作業に関して実施内容，人員配置，安全対策事項等を記載したうえで，作業員関係者に実施を指示するため用いられる書類。
+
+　１－３被災に至るまでの状況
+　被災に至るまでの状況について，関係者からの聞き取り等を基に整理した。
+（１）事象発生までの時系列（概略）
+　　１）１２月１７日
+　　　・８時２０分頃，現場作業責任者，作業監督，班長（被災者），作業員（作業員Ａ，Ｃ，Ｄ，Ｅ，Ｆ）（以降「班長（被災者）」及び複数の「作業員」をまとめて総称する場合「作業員ら」という）は「２７５ｋＶ屋内開閉所機器他点検」のＴＢＭ※３を実施し，作業者全員の体調異常なしの確認及び当日の作業内容等を確認した。なお，作業員Ｂは，１２月１７日は不在のため，ＴＢＭに参加していない。
+　　　・「２７５ｋＶ屋内開閉所機器他点検」において，東海原子力線２号系機器点検のため，９時３２分に東海原子力線２号の線路停止（当社依頼による送配電事業者の操作）を実施した。
+　　　・安全措置として９時４４分に当社社員である運転員は発電長及び保修監理員立会いのもと，東海原子力線２号のＡ接地投入を実施した。
+　　　・１０時３０分頃から，作業員らは屋外ブッシングエリアにて機器点検のため，高所作業台の組み立てを開始した。
+　　　・１１時４６分頃に運転員及び保修監理員並びに現場作業責任者立会いのもと，作業員らは，後にＡ接地機器自体の点検及び断路器－４の点検に干渉するためＡ接地を開放する必要があることから，代替接地として屋外ブッシング部近傍の引き込み線に代替Ｃ接地を付けた。
+　　※３：ツールボックスミーティングの略。当日の作業開始前に作業内容・段取・問題点・危険のポイントについて話し合い，指示伝達を行うもの。
+
+　　２）１２月１８日
+　　　・８時３０分頃，現場作業責任者，作業監督，班長（被災者），作業員（作業員Ａ～Ｆ）は「２７５ｋＶ屋内開閉所機器他点検」のＴＢＭを実施し，全員の体調確認及び当日の作業内容を確認した。
+　　　・９時３５分頃，作業員らは現場作業責任者，保修監理員及び運転員立会いのもと，Ｃ接地（夜間復旧）を付けた。
+　　　・１３時５０分から作業員らは下記「（２）事象発生直前から事象発生時までの状況」に記載のとおり３班に分かれ作業を開始した。
+
+（２）事象発生直前から事象発生時までの状況
+　　１）１３時５０分頃から作業員らは３班に分かれ，屋内開閉所及び屋外ブッシングエリアにて作業を開始した。
+　　　　１班：避雷器点検作業（場所：屋内開閉所，作業者：班長（被災者），作業員Ａ）
+　　　　２班：断路器－４点検作業（場所：屋内開閉所，作業者：作業員Ｂ，Ｃ）
+　　　　３班：碍子洗浄装置点検作業（場所：屋外ブッシングエリア，作業者：作業員Ｄ，Ｅ，Ｆ）
+
+　　２）聞き取り調査から判明した状況
+　　　　作業員(Ａ～Ｆ)から得た証言をもとに判明した状況を以下のとおり整理した。
+　　　　①東海原子力線２号Ｔ相の避雷器の絶縁抵抗測定をしていた班長（被災者）は，作業補助をしていた作業員Ａに対し「ちょっと待って」と言って避雷器付近に待機させ，何らかの理由により屋外ブッシングエリアに移動した。
+　　　　②班長（被災者）は，Ｔ相の接地線接続箇所に接続された代替Ｃ接地の接地金具に触手し，その後，接地金具を外した※４。
+　　　　③この結果，東海原子力線２号Ｔ相は接地されていない状態となった。
+　　　　④班長（被災者）は，触れていた接地金具に東海原子力線２号の送電線に発生する誘導電圧※５と同じ電圧が加わったことで感電した。
+　　　　　※４：接地極側から接地線を外した場合，線路側の接地線を外すまでの間，接地線の充電部位が人体に接近した状態が継続することから，線路側から接地を外す手順としている。
+　　　　　※５：線路充電中の東海原子力線１号から線路停止中の東海原子力線２号への誘導により高電圧が発生する。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12905</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2019/12/06 16:14:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>80061</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/01/23 11:31:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201812181526]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[４．再発防止対策
+　「３．再発防止対策の検討」で，抽出された追加強化策に対し，具体的な再発防止対策は以下のとおりとする。
+（１）ハード面の対策
+　　　単一エラーにおいても簡単に代替Ｃ接地の接地極側を外させない対策。
+　　　【当社の対応】
+　　　　①接地極側を先に外すことができない機械的インターロックを持つ接地器具を採用する。
+　　　　②接地極側の接地線が，接触等により不用意に外れないように，接地線接続箇所にカバーを設置する。また，カバーには代替Ｃ接地外し禁止の表示を付ける。
+（２）ソフト面の対策
+　　　知識経験に関係なくエラーを起こさせないため，次の各プロセスで改善するとともに，代替Ｃ接地の重要性を繰り返し認知させることとする。
+　　１）代替Ｃ接地の重要性を鑑みた工事要領書への反映
+　　　【当社の対応】
+　　　　代替Ｃ接地を実施する作業がある場合は，工事要領書への注意事項（代替Ｃ接地を外さない旨）として社内規程に記載するとともに調達要求事項として調達仕様書へ記載する。
+　　　　元請会社から提出される工事要領書に注意事項（代替Ｃ接地を外さない旨）が記載されていることを確認する。
+　　　【元請会社の対応】
+　　　　代替Ｃ接地作業がある場合は，工事要領書に注意事項（代替Ｃ接地を外さない旨）の記載をする。
+　　２）代替Ｃ接地が付けられている期間中における管理の強化　　
+　　　【当社の対応】
+　　　　①日々のＴＢＭまたは，作業着手前の現場確認において注意事項（代替Ｃ接地を外さないこと，誘導電圧に関する安全配慮事項）について，情報共有することを調達要求事項として明記する。また，日々の作業指示書の記載等により情報共有の状況を確認するとともに，適宜立会い当社からも注意事項を伝える。
+　　　　②当社社員の許可なく代替Ｃ接地に接近させない権限が与えられた専従の監視人を配置することを調達要求事項として明記するとともに，適宜現場を確認する。
+　　　【元請会社の対応】
+　　　　①作業指示書での注意事項（代替Ｃ接地を外さないこと）を日々作業者内で情報共有する。
+　　　　②日々のＴＢＭまたは，作業着手前の現場確認において注意事項（代替Ｃ接地を外さないこと，誘導電圧に関する安全配慮事項）を周知する。
+　　　　③当社社員の許可なく代替Ｃ接地に接近させない権限が与えられた専従の監視人を配置させ，容易に外させない対策を講じる。
+　　３）隔離タグの管理方法強化
+　　　【当社の対応】
+　　　　作業員（Ａ～Ｆ）への聞き取り等から，作業員らの間で接地を外してはいけない旨徹底されており，接地は安全処置事項である旨認識されていたものの，その隔離所掌をより明確に現場で示すために，代替Ｃ接地等作業接地の安全処置事項を実施する場合は，各相（Ｒ相・Ｓ相・Ｔ相）に操作禁止タグを発効し，１枚で一括発効とはしない旨社内規程に明記する。
+　　　　また，安全処置事項に代替Ｃ接地とＣ接地（作業）を明確に区別して記載する。
+　　４）教育の充実
+　　　【当社の対応】
+　　　　特別高圧の作業に従事するものに対して，誘導電圧が発生する仕組みや災害事例及び接地取扱手順等を教育することを調達要求事項として明記するとともにその教育内容及び実績を確認する。
+　　　【元請会社の対応】
+　　　　特別高圧の作業に従事する作業員に対して，誘導電圧が発生する仕組みや災害事例及び接地取扱手順等を教育する。
+　　　　　
+　　さらに，当社は，発電所で働く者全員に対し，今回の事故を教訓として安全文化醸成の観点から以下の重要性を浸透させていく。
+　　・予定外作業は絶対禁止とすること。予定外作業を行う場合の安全への影響を考えること（当社が作業者に対し日々の現場作業監理の中で，作業手順遵守の重要性と予定から外れた場合には必ず立ち止まることを伝える　等）
+　　・発電所で働く者全員が安全に関し思ったことが言い合える職場風土を醸成すること（当社が現場に出向き，作業者と対話の中で危険がおよぶ時には作業者間で躊躇なく指摘しあう様に伝える　等）
+
+５．水平展開
+　今回策定した再発防止対策については，東海発電所及び東海第二発電所の他の特別高圧設備に対しても同様の対策を行う。　また，当社他発電所の特別高圧設備についても，必要性を確認した上で対策を行う。
+
+６．今後の対応
+　今回策定した再発防止対策については，接地金具を外した理由を究明することはできなかったものの，「接地線の接地極を先に外すこと」，「接地線を外すこと」を防止できることを念頭においた対策として検討を行っており，必要な対策はすべて抽出できていると考えているが，新たな事実が確認され，必要であれば追加の対策を行う。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/12/06 16:14:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は第２５回施設定期検査中の平成３０年１２月１８日１５時２０分頃，屋内開閉所（非管理区域）に付属する屋外ブッシングエリアにおいて，作業件名「特別な保全計画に伴う追加点検のうち電気設備点検その１」（以下，「２７５ｋＶ屋内開閉所機器他点検」という）に従事していた作業員１名（以下，「被災者」という）が倒れたことを同じ屋外ブッシングエリアでの同一作業件名の別作業「碍洗ノズル他点検」の監視業務を行っていた監視人が発見し，そばにいた作業員が事務所へ連絡した。連絡を受けた協力会社社員は，１５時２６分頃，中央制御室へその状況を連絡した。
+　このため，連絡を受けた発電長は速やかに公設消防へ連絡し，１５時４３分に公設消防（救急車と消防車）が発電所に到着した。その後，救急車は１５時５９分に発電所から搬送され，１６時１５分にひたちなか市内の病院へ到着し救命措置を実施していたが，１７時０９分に被災者の死亡が確認された。
+　なお，本事象は原子力発電工作物に係る電気関係報告規則第３条の規定により経済産業大臣及び原子力規制委員会に報告した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-原電-T002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[２．原因
+　「１－３（２）事象発生直前から事象発生時までの状況」に示すとおり，班長（被災者）が，接地金具を外したことにより，触れていた接地金具に線路充電中の東海原子力線１号から線路停止中の東海原子力線２号への誘導により電圧が加わったことで感電したものと推定される。
+　班長（被災者）は，作業員(Ａ～Ｆ)へＴＢＭ等を通じて代替Ｃ接地には触れないこと，外さないこと，断路器などの機器周辺の接近は注意することなどを周知していることが関係者からの聞き取りより判明しており，当日までの班長（被災者）の行動や振る舞いには問題がなく接地についての理解も十分あったものと推定されることから，接地金具を外した理由を究明することができなかった。　
+
+３．再発防止対策の検討
+　「２．原因」に記載したとおり，班長（被災者）の行動や振る舞いには問題がなく接地についての理解も十分にあったものと推定されることから，接地金具を外した理由を究明することはできなかった。このため，接地線の『「接地極側」を「外した」ことによる感電事象』を起点として管理面・物的面・人的面からの調査項目を抽出し問題点の有無を確認した。
+　その結果，問題点は抽出されなかったものの，「Ａ接地」の代替である「代替Ｃ接地」は単一エラーで重大事故につながることから，追加対策を検討した。
+　検討にあたっては，人命は必ず守るという強い信念のもと，心理的状況等個人の振る舞いにかかわらず，「接地線の接地極を先に外すこと」，「接地線を外すこと」を防止できることを念頭においた追加対策とした。
+（１）ハード面の対策
+　　　接地線の接地極側を先に外すことができないこと，また，接地線が不用意に外されないようなことを基本とした物的対策を追加する。
+（２）ソフト面の対策
+　　　接地線を計画外に外す行為は知識経験のみでは完全に防止できないことから，心理的状況等の影響も考慮し多重防護（管理）で人命を守ることを基本とした管理的対策を追加する。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[屋内開閉所における人身災害の発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[中央制御室が連絡を受けた時刻]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>80062</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/01/23 11:33:26]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[259]]></KIKI_CODE>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12905</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[536]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[電気的接続部]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>100</SORT_NO>
+						<BUHIN_CODE><![CDATA[536]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[259]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明のケーブル・導線]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[250]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[250]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[母線装置]]></KIKI_NAME>
+					<SORT_NO>16</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[168]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[調査しても原因が明らかでないもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+					<SORT_NO>8</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12905</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[010]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[原子力発電工作物に係る電気関係報告規則 第3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[1]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

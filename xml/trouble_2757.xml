@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2757</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/13 10:03:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/02/16 10:30:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200501181413]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/13 10:03:35]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は定期検査中の平成17年１月18日、原子炉冷却材浄化系の水張り作業実施中のところ、午後２時13分、原子炉建屋２階主蒸気隔離弁室のファンネルから床に水が漏れていることを現場作業員が確認した。
+　その後、当社社員が現場にて、原子炉冷却材浄化系と繋がる原子炉給水系のドレン弁が開いていたためにドレン弁下流側のファンネルから溢れたのが原因であることを確認し、当該ドレン弁を閉じることにより漏えいは停止した。
+　なお、漏えいした水は、約9.9リットル、放射能量は約4.3×10^5ベクレル（ラジウム温泉の約4.3リットルに相当する量）で、拭き取り清掃を実施した。
+
+　漏えいした原因について調査した結果、当該ドレン弁は、今回の定期検査時に新設されたもので、以下の要因により閉操作されず水張時に漏えいしたものと推定された。
+（１）当直は，系統構成時に使用するバルブチェックリストに弁番号や弁名称等を反映しなかった。
+（２）保全部の工事主管グループは，当該ドレン弁の新設工事に伴う改訂版Ｐ＆ＩＤをＰＴＷ調整用紙を用いて当直へ提出しなかった。
+（３）当直員が現場操作員に操作を指示する際、明確な指示をしなかった。
+
+　このため、対策として以下の項目を実施する。
+（１）当直は，改造工事に伴う設備の追加・変更がある場合には，改造図書差替ファイルにより図書を管理し，工事完了後，速やかに系統構成に必要なバルブチェックリスト等へ弁番号や弁名称等を反映することを三次マニュアルに記載する。
+（２）保全部の工事主管グループは，改造工事により設備の追加，変更が実施された場合には，ＰＴＷ調整用紙により安全処置の追加を行い，当直は安全処置の追加に伴う操作禁止タグを発行し管理することを徹底する。
+　又，ＰＴＷの申請・受付時には，必要な実施事項を記載したチェックリストを作成し，工事主管グループと当直は，このチェックリストに基づいて確認することを三次マニュアルに記載する。
+（３）当直員は，補機操作員に操作を指示する場合には，操作の目的や内容について具体的に指示し，誤解を与えないようにすることを再徹底する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S094]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内での水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/18 13:34:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

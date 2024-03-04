@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）当該電源ユニットの工場検査
+　天板に水滴が付着していた制御電圧発生器を取外して、工場に移送し点検を実施した。
+［１］電源ユニット単体試験
+　制御電圧発生器内の＋１５Ｖ，－１５Ｖ，２４Ｖ，４８Ｖの各電源ユニットについて、外観目視点検及び出力電圧の確認を行った。
+　外観目視点検の結果、２４Ｖ電源ユニットの天板に水滴痕が認められたが、それ以外の電源ユニットについては異常は認められなかった。出力電圧の確認試験の結果、２４Ｖ電源ユニットについては過電流発生により電源が投入できなかったが、それ以外の電源ユニットについては異常は認められなかった。
+［２］２４Ｖ電源ユニット点検結果
+　２４Ｖ電源ユニット内の過電流発生の要因となる全ての素子について、テスター等を用いた健全性確認を行った結果、スイッチング用の電界効果トランジスタ（ＦＥＴ）１個に不良（短絡）が認められ、接続端子に水滴痕が観察された。それ以外の素子については異常は認められなかった。
+［３］不良部品交換後の制御電圧発生器の機能試験
+　上記点検結果に基づき、２４Ｖ電源ユニットの不良が認められたＦＥＴを交換した後、制御電圧発生器の出力電圧の確認試験を行った結果、異常は認められず、他の電源ユニットは正常であった。また、ＮＦＢユニットにも異常は認められなかった。
+（２）当該制御電圧発生器を除くＡＶＲ盤の機能確認
+　工場に搬出した当該制御電圧発生器を除いて、ＡＶＲ盤内の界磁主回路及び界磁巻線について絶縁抵抗値の確認を現地で行った結果、異常は認められなかった。
+（３）水滴付着発生要因の調査
+　制御電圧発生器の２４Ｖ電源ユニット天板に水滴が付着していることが確認されたことから、水滴の発生要因を調査した結果、ＡＶＲ盤上部に排気ファンが設置されており、盤内の湿分が結露水となり排気ファンの周辺に付着していた。また、２４Ｖ電源ユニットは排気ファンの直下に位置する構造となっていた。
+　なお、プラント運転停止にともない建屋内温度も低く、結露しやすい状況であった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1962</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[399]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/19 13:58:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[G]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[GCR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2550</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199907031933]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）２４Ｖ電源ユニット内で見つかった不良ＦＥＴを新品に交換した。
+（２）非常用ディーゼル発電機ＡＶＲ盤内の結露対策を、以下の通り実施する。
+［１］１号非常用ディーゼル発電機ＡＶＲ盤内を除湿するため、仮設除湿機を設置した。
+［２］次回定期検査において、１号非常用ディーゼル発電機ＡＶＲ盤内を乾燥状態に維持するためのスペースヒーターを設置する。
+［３］２号非常用ディーゼル発電機ＡＶＲ盤についても、同様な対策を講じる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海発電所は、営業運転を終了し燃料取出し作業を行っていたところ、平成１１年７月３日（土）１９時３３分頃、中央制御室の「ＲＥＡＣＴ　ＤＣ　ＢＤ－１　ＥＡＲＴＨ　ＦＡＵＬＴ」，「ＲＥＡＣＴ　ＤＣ　ＢＤ－２　ＥＡＲＴＨ　ＦＡＵＬＴ」及び「ＤＩＥＳＥＬ－１　ＦＡＵＬＴ」の警報が発報した。
+　直ちに、現場を確認した結果、１号非常用ディーゼル発電機制御盤の「ＡＶＲ　ＴＲＯＵＢＬＥ」警報が発報し、励磁装置（ＡＶＲ）盤内の制御電圧発生器のＤＣ２２０Ｖ及びＡＣ１７５Ｖノーヒューズブレーカ（ＮＦＢ）が開放状態となっていた。このため、２０時４５分頃当該ディーゼル発電機を待機状態から除外した。これに伴い、２号非常用ディーゼル発電機について健全性確認試験を実施し、異常のないことを確認した。
+　１号非常用ディーゼル発電機のＡＶＲ盤の盤内を確認したところ、盤内に結露水が認められたため、ＡＶＲ盤内に乾燥空気を送風して乾燥した。その後、制御電圧発生器のＮＦＢの投入を試みたが、投入できなかった。このため、ＡＶＲ盤の制御電圧発生器を引き出し、内部を目視点検した結果、制御電圧発生器の２４Ｖ電源ユニット天板に水滴が付着していることを確認した。以上から制御電圧発生器の工場点検が必要と判断した。
+　なお、本事象による外部への放射能による影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1999-原電-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　上記の調査の結果、１号非常用ディーゼル発電機励磁装置制御電源が地絡した原因は、以下の通りと推定される。
+（１）雨天のため、原子炉サービス建屋１階の相対湿度が上昇し、１号非常用ディーゼル発電機ＡＶＲ盤天板に取付けてある排気ファン周辺に結露が生じた。この結露水が、直下にある制御電圧発生器内の２４Ｖ電源ユニットに滴下し侵入した。
+（２）滴下により２４Ｖ電源ユニット内の基盤にて地絡が発生し、「ＲＥＡＣＴ　ＤＣ　ＢＤ－１　ＥＡＲＴＨ　ＦＡＵＬＴ」及び「ＲＥＡＣＴ　ＤＣ　ＢＤ－２　ＥＡＲＴＨ　ＦＡＵＬＴ」の警報が発報した。
+（３）この地絡により、２４Ｖ電源ユニット内の直流－交流変換回路を構成するスイッチング用ＦＥＴが故障し短絡となった。
+（４）２４Ｖ電源ユニット出力電圧が異常となり、保護回路によりＤＣ２２０Ｖ及びＡＣ１７５ＶのＮＦＢが開放状態となって、「ＡＶＲ　ＴＲＯＵＢＬＥ」及び「ＤＩＥＳＥＬ－１　ＦＡＵＬＴ」の警報が発報した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[１号非常用ディーゼル発電機励磁装置制御電源の地絡について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（警報発報）]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/19 13:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>16</SORT_NO>
+		<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[G]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1962</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[092]]></KIKI_CODE>
+			<TROUBLE_ID>1962</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ＡＶＲ・ＡＱＲ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>1962</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[092]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[ディーゼル発電機・励磁機]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[703]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[703]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ディーゼル発電機装置]]></KIKI_NAME>
+					<SORT_NO>5</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1962</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1962</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

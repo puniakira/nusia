@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時の状況調査
+　事象発生前後の状況について記録類及び関係者への聞き取りにより調査した結果，以下のことを確認した。
+
+１－１．事象発生時の状況調査
+（１）警報の発生状況
+　中央制御室表盤(H13-P603)の警報の発生状況を調査した結果，「主蒸気管放射能高高トリップ」及び「主蒸気管放射能下限／動作不能」の警報が発生したが，主蒸気管放射能高高よりも設定値の低い「主蒸気管放射能高」は発生していなかった。
+　また，中央制御室裏盤(H13-P604-2)の主蒸気管放射線モニタ（以下，「当該モニタ」という。）の計測モジュール（以下，「ＲＩＳ」という。）の故障表示灯を確認した結果，「主蒸気管放射能下限／動作不能」等の警報が発生した際に故障を示すために点灯する故障表示灯が，点灯していないことを確認した。
+
+（２）記録計指示値の調査
+　当該モニタの記録計（チャート）を調査した結果，記録計の指示値に変動がないことを確認した。
+
+（３）トリップシーケンスの調査
+　トリップシーケンスを確認した結果，当該モニタのチャンネルＣ及びＤが作動したことにより，原子炉保護系の論理回路が作動し，原子炉が自動停止したことを確認した。
+
+（４）動作した論理回路の確認
+　警報の発生状況とＲＩＳの故障表示灯に不整合があることから，作動した論理回路の確認を行った結果，以下のことを確認した。
+ａ．「主蒸気管放射能高高トリップ」及び「主蒸気管放射能下限／動作不能」等の警報が発生したが，「主蒸気管放射能高」の警報は発生していなかった。
+ｂ．「主蒸気管放射能高」の警報は発生しなかったことから，ＲＩＳリレーユニットの「高」信号は発信していなかった。
+ｃ．警報の発生状況とトリップシーケンスの状況を確認した結果，「主蒸気管放射能下限／動作不能」の警報が発生したこと及び原子炉自動スクラム及び主蒸気隔離弁閉止の論理回路が動作したことから，ＲＩＳのリレーユニットの「動作不能」信号は，実際に発信したものと推定した。
+ｄ．原子炉自動スクラム及び主蒸気隔離弁閉止の論理回路が動作したことから，ＲＩＳのリレーユニットの「レベル高高」信号を発信した可能性については否定できない。
+ｅ．「主蒸気管放射能下限／動作不能」の警報が発生したが，ＲＩＳリレーユニットの「動作不能」と「下限」信号の一括警報であることから，ＲＩＳのリレーユニットの「下限」信号を発信した可能性については否定できない。
+
+（５）炉水中のよう素濃度及び主蒸気配管の表面線量率の確認
+　炉水中のよう素濃度及び主蒸気配管の表面線量率に異常がなく，また，当該モニタの記録計の指示値が変動していないことから，実際に主蒸気管の放射線量が高くなることによって原子炉保護系の論理回路が作動したものではないことを確認した。
+
+１－２．本事象発生前の他のプロセス放射線モニタの警報履歴調査
+　今回の第１４回定期検査において，当該モニタを含むプロセス放射線モニタは，中央制御室制御盤ごと一式取替えを実施している。取替えにあたっては，従来のアナログ式ＲＩＳから福島第二原子力発電所２号機（以下，「２号機」という。）で採用しているものと同型式のディジタル式ＲＩＳを採用した。原子炉が自動停止するまでの期間のプロセス放射線モニタについて本事象と同様な警報の発生の有無を調査した結果，以下の警報が発生していたことを確認した。
+
+平成１９年２月１７日
+２３：００頃　「プロセス放射線モニタ下限／動作不能」警報発生
+　　　　　　　「非常用ガス処理系排ガス放射線モニタ（IC）放射能下限動作不能」
+
+平成１９年２月１８日
+２：００頃　「プロセス放射線モニタ下限／動作不能」警報発生
+　　　　　　「非常用ガス処理系排ガス放射線モニタ（SCIN）放射能下限動作不能」
+２：１０頃　「プロセス放射線モニタ下限／動作不能」警報発生
+　　　　　　「非常用ガス処理系排ガス放射線モニタ（IC）放射能下限動作不能」
+８：３９　　「燃料取替エリア排気放射能下限／動作不能」警報発生
+９：２１　　「主蒸気管放射能下限／動作不能」(H13-P603)警報発生：本事象
+
+　警報が発生した際の各々のＲＩＳの故障表示灯を確認した結果，「下限／動作不能」等の警報が発生した際に故障を示すために点灯するＬＥＤが，点灯していないことを確認した。
+　また，警報が発生した際の各々の記録計を確認したところ，本事象と同様に記録計の指示値に変動がなかったことを確認した。
+
+１－３．事象発生時の状況調査のまとめ
+　以上の調査の結果，本事象は，一連の警報を発生した他のプロセス放射線モニタの事象と同様に，当該モニタにおいて何らかの異常が発生し，ＲＩＳが「動作不能」の信号を発信したことにより，原子炉保護系の論理回路が作動し，原子炉が自動停止したものと推定した。
+
+
+２．現場調査
+　ＲＩＳのリレーユニットが「動作不能」の信号を発信する要因について，当該モニタの電源から論理回路に至る一連の構成要素に対して要因分析表に基づき調査を行った結果，以下のことを確認した。
+
+２－１．電源系統の異常
+（１）ＣＶＣＦの電圧，電流波形を測定した結果，異常はなかったことから，ＣＶＣＦ電源電圧は低下していないことを確認した。また，一時的であってもＣＶＣＦ電源電圧が低下した場合には故障警報が発生するが，故障警報は発生していないことを確認した。
+
+（２）分電盤の入力，出力ブレーカに異常がある場合は，ＲＩＳでの故障表示灯が点灯したままとなるが，故障表示灯は点灯していなかったため，分電盤の異常がないことを確認した。
+
+２－２．検出器の異常
+（１）検出器自体に異常があった場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，検出器自体の異常ではないことを確認した。
+
+（２）検出器がノイズの影響を受けた場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，検出器へのノイズによる誤動作ではないことを確認した。
+
+（３）検出器に衝撃振動が与えられた可能性を確認するため，警報発生時の作業状況を確認した結果，検出器近傍における作業は実施していないことを確認した。
+
+２－３．検出器からプリアンプ間のケーブルの異常
+（１）検出器からプリアンプ間のケーブルについて絶縁抵抗及び導通確認を行い，異常はなかったことから，ケーブル自体の異常ではないことを確認した。
+
+（２）検出器からプリアンプ間のケーブルがノイズの影響を受けた場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，ケーブルへのノイズによる誤動作ではないことを確認した。
+
+２－４．プリアンプの異常
+（１）プリアンプ自体に異常があった場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，プリアンプ自体の異常ではないことを確認した。
+
+（２）プリアンプがノイズの影響を受けた場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，プリアンプへのノイズによる誤動作ではないことを確認した。
+
+（３）プリアンプに衝撃振動が与えられた可能性を確認するため，警報発生時の作業状況を確認した結果，プリアンプ近傍における作業は実施していないことを確認した。
+
+２－５．プリアンプからプロセス放射線モニタ盤間のケーブルの異常
+（１）プリアンプからプロセス放射線モニタ盤間のケーブルについて絶縁抵抗及び導通確認を行い，異常はなかったことから，ケーブル自体の異常ではないことを確認した。
+
+（２）プリアンプからプロセス放射線モニタ盤間のケーブルがノイズの影響を受けた場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，ケーブルへのノイズによる誤動作ではないことを確認した。
+
+２－６．プロセス放射線モニタ盤の異常
+（１）ＲＩＳ異常（ハードウェア）
+ａ．電源装置の異常を確認するためにＲＩＳ内の電源電圧を測定した結果，高周波ノイズが観測されたが，通常観測されるようなレベルであり，電源電圧回路は誤動作していないことを確認した。
+ｂ．ＲＩＳの演算回路に異常があった場合には記録計の指示値が変動するが，記録計を確認した結果，指示値に変動がなかったことから，ＲＩＳの演算回路の異常ではないことを確認した。
+ｃ．ＲＩＳ故障表示灯のランプ点灯確認のためのテストを実施した結果，正常に点灯したことから，前パネル表示回路の異常ではないことを確認した。
+ｄ．本事象と同様な事象が発生した「非常用ガス処理系排ガス放射線モニタ（IC）」のＲＩＳについて工場において点検を行った結果，異常はないことを確認した。
+
+（２）ＲＩＳ異常（ソフトウェア）
+ａ．ＲＩＳのソフトウェアはＲＯＭに書き込まれているが，マスターとなるソフトウェアと比較した結果一致していたことから，ＲＩＳのソフトウェアに異常はないことを確認した。
+
+（３）回路の異常
+ａ．異なる２つのプロセス放射線モニタでリレー回路が同時に動作し，即復帰していることから，リレーコイルの断線，または接点の一時的な接触不良が原因でリレー回路が誤動作したものではないものと推定した。
+ｂ．プロセス放射線モニタ盤（H13-P604-2）の盤内配線の端子の緩みについて確認した結果，端子の緩みはないことを確認した。
+
+（４）接地線の異常
+ａ．プロセス放射線モニタ盤内の埋設接地線とフレームグランド（以下，「ＦＧ」という。）の接続部の接触抵抗を測定した結果，異常はないことを確認した。
+ｂ．同型式のディジタル式ＲＩＳを採用している２号機のプロセス放射線モニタ盤（平成１４年に設置）においては当該号機と同様の不具合が発生していないことから，接地に関する相違点を確認するために，当該号機と２号機のプロセス放射線モニタ盤の接地状況を比較した。その結果，当該号機の接地は２号機に比べてノイズに対して以下のとおり弱い状態であることを確認した。
+・２号機は縦ブス（導体板）を使用しているのに対し，当該号機のシグナルグランド（以下，「ＳＧ」という。）からＦＧへの縦方向接続は縦ブス（導体板）に比べ断面積の小さいケーブルを使用しているため，当該号機は２号機に比べノイズはＳＧからＦＧに流れにくい状態にあること。
+・２号機のＳＧはブッシュ（絶縁材）により絶縁性を高めているのに対し，当該号機のＳＧはブッシュが入っていないことから，絶縁性が弱い箇所においてノイズ等の外乱に弱い状態にあること。
+・当該号機の「当該モニタ」のチャンネルＡ，Ｄについては電源ラインへのノイズフィルタが設置されているが，チャンネルＢ，Ｃについてはノイズフィルタが共用であること。
+　また，プロセス放射線モニタ盤内にノイズが侵入したことによる誤動作の可能性は否定できないため，工場におけるノイズによる誤動作の再現試験（モックアップ試験）を実施した。再現試験の詳細は３．に記載する。
+ｃ．本事象発生後に，当該モニタが設置されているプロセス放射線モニタ盤のＦＧ及びＳＧの接地電圧の波形を測定したところ，高周波ノイズ波形を確認したが，その後は時間の経過とともに観測されなくなった。
+
+２－７．プロセス放射線モニタ盤から論理回路までのケーブルの異常
+（１）プロセス放射線モニタ盤から論理回路までのケーブルの接続端子の緩みについて確認した結果，端子の緩みはなく，ケーブル端子の締め付け不良がないことを確認した。
+
+（２）異なる２つのプロセス放射線モニタでリレー回路が同時に動作し，即復帰していることから，プロセス放射線モニタ盤から論理回路までの各々のケーブルが同時にノイズの影響を受け誤動作したものではないものと推定した。
+
+２－８．論理回路の誤動作
+（１）プロセス放射線モニタ盤から「動作不能」の信号が発信した場合に発生すべき警報（「主蒸気管放射能下限／動作不能」「主蒸気管放射能高高トリップ」）が発生しており，正常に原子炉スクラム論理回路が動作していることから，論理回路の誤動作はないものと推定した。
+
+２－９．現場調査のまとめ
+（１）現場調査の結果，当該モニタの電源から論理回路を構成する単体の機器に異常はなかったが，プロセス放射線モニタ盤内にノイズが侵入したことによる誤動作の可能性は否定できないことを確認した。また，以下のことから，ＲＩＳ及び当該モニタの設置されているプロセス放射線モニタ盤(H13-P604-2)に共通する要因があると推定した。
+ａ．プロセス放射線モニタ盤(H13-P604-2)内で当該モニタのＲＩＳがほぼ２チャンネル同時に信号を発信していること。
+ｂ．当該モニタ以外にも，プロセス放射線モニタに同様の事象が発生していること。
+ｃ．本事象と本事象発生前に警報を発生したプロセス放射線モニタ制御盤は，今回の第１４回定期検査において一式取替えをしており，組み込まれているＲＩＳは従来のアナログ式ＲＩＳから２号機で採用しているものと同型式のディジタル式ＲＩＳを採用したこと。
+ｄ．本事象発生後に，電源電圧及び接地線電圧に高周波ノイズが観測されたこと。
+ｅ．当該号機の当該のプロセス放射線モニタ盤の接地は，２号機と比較して，ノイズに対して弱い状態であること。
+
+
+３．ノイズによる誤動作の再現試験（モックアップ試験）
+　２．の現場調査の結果，本事象はプロセス放射線モニタ盤(H13-P604-2)に侵入したノイズに要因があると推定されたことから，工場においてモックアップ試験を実施した結果，以下のことを確認した。
+　なお，モックアップ試験は，ＲＩＳの故障表示灯が表示されない状態で「動作不能」リレーが動作する事象が再現することと異なる２つの放射線モニタのＲＩＳが同時に「動作不能」のリレーが動作することを本事象の再現の基準として実施した。
+
+３－１．ＲＩＳ内のノイズ侵入後の影響
+　ＲＩＳ内へノイズが侵入したことによるＲＩＳを構成する回路の誤動作を確認するため，ノイズの侵入を模擬した試験を実施した結果，以下のことを確認した。
+（１）「動作不能」リレー回路（以下，「ＩＮＯＰリレー回路」という。）の誤動作
+ａ．ＲＩＳの演算回路のうちＩＮＯＰリレー回路の誤動作に関する試験を行った結果，本事象は再現しなかったことから，ＩＮＯＰリレー回路の誤動作ではないことを確認した。
+
+（２）マイクロプロセッサ・ユニット（ＭＰＵ）の誤動作
+ａ．ＲＩＳの演算回路のうちマイクロプロセッサ・ユニットの誤動作に関する試験を行った結果，強制的に応答待ち信号を入力する試験において本事象が再現することを確認した。
+ｂ．高圧電源のシールド線に外部からの高周波ノイズを印加する試験を行った結果，外部からの高周波ノイズによりマイクロプロセッサ・ユニットの起動命令信号（Ｐ－ＲＥＡＤＹ）が誤起動し，ＲＩＳの故障表示灯が表示されない状態で「動作不能」のリレーが動作することを確認した。しかし，この場合は記録計の指示値が変化するため，本事象に近い状態ではあるものの，完全には本事象が再現していないことを確認した。
+
+（３）伝送回路上のデータ化け
+ａ．高圧電源のシールド線に外部からのノイズを印加する試験を行った結果，外部からの高周波ノイズによりＲＩＳのプロセス入出力（ＰＩ／Ｏ）回路に出力する際に動作電圧を超える状態になることを確認した。しかし，この場合はＲＩＳの故障表示灯が表示されるため，本事象に近い状態ではあるものの，完全には本事象を再現していないことを確認した。
+
+３－２．誘導ノイズによる異常
+　外部からの誘導ノイズによりＲＩＳの回路が誤動作するかどうかを確認するため，各種誘導ノイズを印加する試験を行った結果，本事象は再現しなかったことから，誘導ノイズによる回路の誤動作ではないことを確認した。
+
+３－３．ＲＩＳとプロセス放射線モニタ盤間の放電による異常
+　誘導ノイズによる試験を行った後に，ＲＩＳが外部との放電によりＲＩＳの回路の誤動作を確認するため静電気を模擬してノイズを印加する試験を行った結果，隣接する２チャンネルのＲＩＳが同時に「動作不能」のリレーが動作する事象が再現されることを確認した。
+　また，３．５ｋＶの電圧における静電気を模擬したバーストノイズ試験において，記録計の指示値が変化せずにＲＩＳの故障表示灯が表示されない状態でプロセス放射線モニタの「動作不能」のリレーが動作する事象が再現されることを確認した。
+
+３－４．モックアップ試験のまとめ
+　工場におけるモックアップ試験の結果，静電気の発生によりＲＩＳのマイクロプロセッサ・ユニットが誤動作をおこし，記録計の指示値が変化せずにＲＩＳの故障表示灯が表示されない状態でプロセス放射線モニタの「動作不能」のリレーが動作する可能性があるものと推定した。
+
+
+４．静電気に関する原因調査
+　３．の工場におけるノイズによる誤動作の再現試験（モックアップ試験）の結果，静電気によりＲＩＳのマイクロプロセッサ・ユニットが誤動作を起こすことが確認されたことから，実際に静電気からのノイズにより本事象が起こり得るかどうかを検証するため，更にプロセス放射線モニタ盤の調査及び静電気の帯電に関するモックアップ試験を実施した結果，以下のことを確認した。
+
+４－１．プロセス放射線モニタ盤内の静電気の帯電に関する調査（現地調査）
+　プロセス放射線モニタ盤に静電気が帯電する可能性について調査を行った結果，以下のことを確認した。
+（１）ＲＩＳ前パネル部の帯電
+　事象が発生したプロセス放射線モニタ盤(H13-P604-2) 廻りの風向は盤面に対して角度を持っており，空調設備の吹き出し口より盤面に風が比較的強く当たっており，循環空気との摩擦等により帯電しやすい環境であることを確認した。
+　また，ＲＩＳ前パネル部の塗装は絶縁物であるため，ＲＩＳ前パネル部の電荷を測定した結果，表示パネル部（樹脂製）には最大９００Ｖのプラスの電荷が帯電していることを確認した。
+
+（２）ＲＩＳ設置プレートの帯電
+　ＲＩＳ筐体と設置プレートの間の塗装は絶縁物であるため，ＲＩＳ筺体の下部の電荷を測定した結果，最大２９３Ｖのマイナスの電荷が帯電していることを確認した。
+
+４－２．ＲＩＳの放電による異常に関する再現試験（モックアップ試験）
+　４－１でプロセス放射線モニタ盤の調査を行った結果，ＲＩＳ設置プレートとＲＩＳの前パネル部に帯電していることを確認したことから，帯電した電荷が放電する可能性を調べるために工場においてモックアップ試験を実施した結果，以下のことを確認した。
+（１）ＲＩＳ前パネル部の帯電
+　ＲＩＳ前パネル部の帯電試験を実施した結果，３５０～６４０Ｖのマイナスの電荷が帯電し，放電を繰り返すことを確認した。また，２号機はＲＩＳの前パネル部カバーの留め金が塗装されておらず，ＲＩＳ筺体と導通していて帯電しにくいのに対し，当該号機はＲＩＳの前パネル部カバーの留め金が塗装されていて塗装膜によりＲＩＳ筺体と絶縁されており，帯電しやすい状況にあることを確認した。そこで，当該号機のＲＩＳの前パネル部カバーの留め金の塗装を剥がしＲＩＳ前パネル部の帯電試験を実施した結果，０Ｖとなり帯電しないことを確認した。
+
+（２）ＲＩＳ設置プレートの帯電
+　設置プレートの帯電試験を実施した結果，最大１００Ｖのマイナスの電荷が帯電したが放電はしないことを確認した。
+
+４－３．静電気に関するプロセス放射線モニタ盤の調査のまとめ
+　当該のプロセス放射線モニタ盤(H13-P604-2)の前面には，比較的強く風が当たっていること，またＲＩＳ前パネルカバーの留め金が塗装されていることから，当該プロセス放射線モニタ盤(H13-P604-2)のＲＩＳの前パネル部には静電気が帯電しやすいことを確認した。
+
+
+５．ＲＩＳの帯電測定結果とモックアップ試験の検証
+　３－３．の工場におけるモックアップ試験のバーストノイズ試験で，３．５ｋＶを与えた時に動作不能リレーのみが動作する事象が再現したことが，静電気の影響により起こり得るものかどうかを確認するため，バーストノイズ試験で３．５ｋＶを与えた時の内部回路に与える影響とＲＩＳ前パネル部帯電試験で前パネル部から６４０Ｖの帯電で放電した際の内部回路に与える影響が同等であるか検証した。
+　検証にあっては，当該モニタのＲＩＳが設置されている盤を模擬した回路を用いてシミュレーション評価により検証した。
+　その結果，設置プレート部に３．５ｋＶのバーストノイズを印加した際に，ＲＩＳ内部回路に誘起される電圧は１１Ｖであったのに対し，ＲＩＳ前パネル部の６００Ｖの放電でＲＩＳ内部回路に誘起される電圧は９．７Ｖとほぼ同等であることが確認された。
+
+
+６．原因調査のまとめ
+　以上の調査結果より，本事象の発生した要因として，次の事項が確認された。
+
+（１）当該号機のプロセス放射線モニタ盤の接地線は，２号機と比較して，ノイズに対して弱い状態であること。
+
+（２）工場におけるモックアップ試験の結果，静電気によりＲＩＳのマイクロプロセッサ・ユニットが誤動作をおこし，故障表示灯に表示されない状態でプロセス放射線モニタの「動作不能」のリレーが動作することが再現した。
+
+（３）工場における静電気帯電状況の確認試験の結果，ＲＩＳの前パネル及び留め金部に塗装がある場合には最大６４０Ｖのマイナスの電荷が帯電することを確認した。なお，留め金部の塗装を剥がした場合には帯電しないことを確認した。
+
+（４）当該モニタのＲＩＳが設置されている盤について等価回路を模擬し評価した結果，静電気を模擬したモックアップ試験における電圧（３．５ｋＶ）は，ＲＩＳ前パネル部に帯電した電圧（－６００Ｖ）とほぼ同等であることを確認した。
+
+（５）プロセス放射線モニタ盤(H13-P604-1)廻りの風向は盤面に対して平行であることに対して，プロセス放射線モニタ盤(H13-P604-2) 廻りの風向は盤面に対して角度を持っており，ＲＩＳの前パネル部は帯電しやすい環境であることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8663</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/06/21 18:19:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3687</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/19 22:13:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702180921]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．ＲＩＳの前パネル部への帯電を防止するため，留め金の塗装及びネジ部の塗装を剥離する。
+
+２．静電気防止策として，ＲＩＳの筺体下部に電荷が帯電していることが確認されたため，以下の対策を講じる。
+（１）ＲＩＳを設置しているプレートを現状の塗装された鋼板から導電性のある亜鉛メッキ鋼板に変更する。
+（２）更に取替る亜鉛メッキの設置プレートを確実に接地するために，ＦＧと接地線で接続する。
+
+３．当該号機の接地については，以下のとおり，２号機と同等の接地強化対策を講じる。
+（１）当該モニタＡ，Ｂ系の電気的な分離をより確実にするため，設置プレートをブッシュにて分離する。
+（２）ＳＧのプレートをブッシュによりモニタ盤筐体と絶縁する。
+（３）ＦＧ用の縦ブスを追設して，ＲＩＳのコネクタと縦ブス間を最短で接続するとともに，各モニタの接地線を強化する。
+（４）ノイズ除去を徹底するため，念のためノイズフィルタを各プロセス放射線モニタ盤（区分１，２）に設置するように区分１，２に各１台追設する。
+
+　上記対策の有効性を確認するため，対策前後のＲＩＳ前パネル～ＦＧ間抵抗測定，盤内導通確認，ＲＩＳ電位測定，ＲＩＳ接地電圧測定，及び静電ノイズ試験について評価を行った結果，静電気帯電防止策，及び接地強化策が妥当であることを確認した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/21 18:19:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第二原子力発電所４号機（沸騰水型，定格出力１，１００ＭＷｅ）（以下，「当該号機」という。）は，定期検査における調整運転のため平成１９年２月１６日２２時００分から制御棒の引抜操作を開始したところ，平成１９年２月１８日９時２１分，「主蒸気管放射能高高トリップ」及び「主蒸気管放射能下限／動作不能」の信号が発生し原子炉が自動停止した。
+　その後，プラントは安全に停止状態に移行し，本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-T047]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　これらのことから，今回発生したプロセス放射線モニタ盤の誤動作に至るメカニズムは以下の通りであると推定した。
+
+（１）ＲＩＳの前パネル部のカバー及び留め金は塗装されており，カバーを固定している留め金及びネジ部からＲＩＳ筐体に電荷は移動せず蓄積しやすい。この結果，循環空気との摩擦等により前パネル部に電荷が蓄積し電位が上昇する。
+
+（２）ＲＩＳの前パネル部のカバーに蓄積された電荷は，経時的に電位が上昇し，塗装部の絶縁破壊が生じて，ＲＩＳ筐体に放電する。
+
+（３）この放電によりＲＩＳ筐体に電流が流れ，それに伴い発生する誘導ノイズの影響によりＳＧやＲＩＳ筐体内の信号ケーブルの電位変動を誘発し，その結果，信号ラインへ電位変動が重畳することにより，「動作不能」等の信号を誤出力する。
+
+（４）一方のチャンネルのＲＩＳ筐体での静電気の放電によって流れる電流により，設置プレートの電位が変化する。
+
+（５）この設置プレートの電位変化により，電気的につながっているもう一方のチャンネルのＲＩＳ筐体にも電流が流入することにより，ＳＧやＲＩＳ筐体内の信号ケーブルの電位変化が生じ，２チャンネルがほぼ同時に「動作不能」等の信号を誤出力する。また，放電による一時的な電流であるため，「動作不能」等の信号は瞬時に復帰する。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[主蒸気管放射能高高信号の発生による原子炉自動停止について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/19 23:10:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[101]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉緊急停止系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[103]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[主蒸気隔離]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[261]]></KIKI_CODE>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8663</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[放射線計測モジュール]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8663</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[261]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[中央制御室制御盤]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[プロセス放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[131]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8663</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11668</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/12/20 15:02:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>36181</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/03/15 18:00:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20130208]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生状況】
+　第５回定期検査中の５号機原子炉建屋（非管理区域）で中央制御室再循環フィルタユニット入口ダンパの点検終了後、手動で開閉操作を試みたところ、開閉できなかった。
+　当該ダンパ駆動部を確認したところ、通常ロックされていないセッティングロッド（※）がロック状態となっていることが分かった。
+　また、今回点検を実施した他のダンパについても駆動部を確認したところ、同様にセッティングロッドがロック状態となっており、さらにセッティングロッドと直結しているギアが損傷していることを確認した。（添付資料参照）
+
+※　セッティングロッドは、電動ダンパ駆動部の回転部とリミットスイッチの間の回転を伝達するために取り付けられている。セッティングロッドを締め付けることで、ギアがロックされるとともに、回転部とリミットスイッチの結合が解除され、リミットスイッチの調整が可能となる。しかし、セッティングロッドをロック状態で開閉操作すると、回転部は回転するものの、セッティングロッドと直結しているギアはロックされているため回転しないことから、ギアが損傷する可能性がある。
+
+【原因】
+　今回の点検において、ダンパ駆動部とダンパ本体を取り外す際に、リミットスイッチのずれを防止するため、セッティングロッドをロック状態とした。しかし、駆動部取り付け後にロックの解除を失念し、そのまま開閉操作を実施したため、ギアの損傷に至った。また、セッティングロッドの操作は、作業手順書に記載が無かった。
+
+【対策】
+　操作前にセッティングロッドの状態を確認する旨を社内の工事要領書データベースに反映し、今後の工事要領書に記載する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-中部-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[中央制御室空調系　電動ダンパ駆動部のギア損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/12/20 15:02:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

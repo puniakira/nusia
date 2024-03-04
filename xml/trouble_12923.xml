@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12923</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/06/10 18:25:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>82748</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/02/07 11:51:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201902041508]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/06/10 18:25:09]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[〇事象
+伊方発電所３号機は通常運転中のところ、２月４日１５時０８分、洗濯設備のうち、乾燥機※１に使用する補助蒸気※２の復水が流れる配管の保温部より、水漏れがあることを運転員が確認した。（漏えい量は約４リットル）
+このため、当該補助蒸気系統を隔離し、保温材を取り外して確認したところ、配管表面に微小な穴が開いており、そこから漏えいしていることを確認した。
+その後の調査の結果、微小な穴が開いていた配管（以下、「当該配管」）の上流に設置している補助蒸気供給配管側のスチームトラップ※３（以下、「当該スチームトラップ」）の弁体を支えている軸ピンが折損し、弁体が閉まら
+ない状態となっていることを確認した。また、当該配管が減肉したことで貫通に至ったことを確認した。
+その後、当該スチームトラップの部品交換および当該配管の取替えを実施し、補助蒸気を通気して漏えいのないことを確認し、４月５日９時５５分に通常状態に復旧した。
+なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１ 乾燥機
+管理区域内で使用した衣類を水洗いした後に乾燥させる装置。
+
+※２ 補助蒸気
+発電所の付属設備（洗濯設備、空調設備など）に供給するために、主蒸気の熱を利用して発生させた放射能を含まない蒸気。
+
+※３ スチームトラップ
+蒸気配管内の復水を排出し、蒸気を止める機能を持つ自動弁。
+
+〇原因
+漏えいの原因は、動作回数の多い当該スチームトラップの弁体を支えている軸ピンが、弁体の開閉に伴う摩耗により折損し弁体が閉まらなくなったことにより、本来復水が流れる配管に高温の蒸気が流れたため、合流後の下流側配管内において蒸気と乾燥機内で生じる復水が混合した状態となり、減肉しやすい環境が形成され、配管の貫通に至ったものと推定される。
+スチームトラップが正常に動作している場合、減肉が確認された当該配管には比較的低温の復水が流れているが、当該スチームトラップの弁体を支えている軸ピンが折損し、弁体が閉まらなくなると、高温の蒸気が当該スチームトラップを通過して、乾燥機側の比較的低温の復水と鉛直配管部で合流し、混合されて下流に流れる。
+合流直後は、蒸気と復水の熱交換が行われていないため、復水の温度は比較的低いが、熱交換が進むにしたがって復水の温度は上昇し、減肉が確認された範囲では復水の蒸発が進み、配管内表面に高温の液膜が形成された状態となる。
+この領域においては、蒸気による流れが生じているため配管内表面に生成した酸化被膜の溶解が促進されたこと、また高温水の環境下であったことから配管内表面の溶解が促進された結果、配管の減肉が進み、貫通に至ったと推定される。
+なお、同様に弁体を支えている軸ピンが折損していた他の２箇所のスチームトラップの下流配管については、当該配管と配管構成や温度環境が異なることから、配管内の減肉が促進される環境は形成されなかったものと推定される。
+
+〇対策
+（１）弁体を支えている軸ピンが折損していたスチームトラップ３個の内部部品すべての取替えおよび当該配管の取替えを実施した。
+（２）次回点検時（令和２年６月実施予定）に、軸ピンのあるスチームトラップ６台の分解点検を行い、弁体を支えている軸ピンの摩耗状況を確認する。確認結果から分解点検する頻度を定めて点検計画に反映する。なお、点検計画に反映するまでの間は、乾燥機の使用前に復水配管の温度測定を実施し、復水配管に蒸気が流れていないことを確認する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機 補助蒸気配管からの水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/02/07 11:51:09]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

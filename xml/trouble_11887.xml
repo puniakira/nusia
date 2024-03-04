@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11887</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/01/06 17:15:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>44370</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/01/06 17:14:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201312182220]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[12月18日午後10時20分頃、協力企業作業員がＦエリアタンク（５，６号機北側）のパトロールを実施していたところ、Ｃ５タンクとＣ６タンク連絡管（Ｃ５タンク側）のフランジ部（継手部）より水が約１分に１滴ほど滴下していることを発見した。滴下を発見した際、パトロール員が確認した滴下の範囲は約30cm×約５cm×約１mm（厚さ）で、堰内に止まっており海への流出はなく、当該継手部はビニールでの養生を実施した。
+12月19日午前０時48分に当該継手部の増し締めを実施したが、滴下量に変化なし。
+当該系統内（Ｃ５タンクおよびＣ６タンクには、５，６号機タービン建屋地下滞留水を貯水）の水の分析結果は以下の通りだった。
+・セシウム134：22 Bq/L
+・セシウム137：97 Bq/L
+・コバルト60 ：18 Bq/L　
+その後、Ｃ５タンク内水の移送を12月19日から12月24日まで実施し、当該フランジ部を目視点検した結果、同日午後０時45分、漏えいが停止したことを確認した。
+
+推定原因および対策は以下の通り。
+＜ 推定原因＞
+・タンク側ゴムリング接続面の発錆（腐食）により僅かな隙間が発生し、微少リークに至ったと判断した。
+＜対策＞
+・接続面の手入れを行い、コーキング材の塗布を実施し、また、内部ゴムリングの交換を実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S069]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所５・６号機　北側ＦエリアＣ５・Ｃ６タンク連絡管からの漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5,6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/01/06 17:15:37]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　原子炉水位計取替のため安全処置を実施していたところ，「HPCS原子炉水位低」及び「HPCS動作」の警報が発生しHPCSポンプ等が自動起動したため，安全処置に係わった関係者から聞き取り調査した結果，以下のことを確認した。
+
+（１）定期検査開始前に安全処置一覧表の作成者は，当該一覧表作成時に処置目的として起動防止と感電防止を記載し，リフトの順序については記載しなかった。なお，当該作業に関する安全処置一覧表は安全処置の実施順序を記載するルールになっていなかった。
+
+（２）平成18年4月18日，主機操作員は平成18年4月21日から実施する原子炉開放作業のうち原子炉圧力容器上蓋開放作業に伴う原子炉水位計切替作業及び取替作業に必要な安全処置のリストアップを計測制御グループへ依頼した。
+
+（３）計測制御グループは，原子炉開放作業のうち作業ステップの原子炉水位計切替作業及び取替作業に係わる安全処置リストを主機操作員へ送付した。
+　その後，主機操作員は，計測制御グループから提出された安全処置リストを安全処置一覧表と照合し安全処置の範囲を確認した。
+
+（４）平成18年4月19日，主機操作員は原子炉水位計切替作業及び取替作業で使用する安全処置のジャンパーとリフトのタグ（操作札）を準備した結果，リフトにはECCS系の起動防止と作業上の感電防止用の２種類あったことから，作業を実施する上で当該タグによる他の水位計等への影響の有無を調査するため，念のために制御回路図で確認した。
+
+（５）主機操作員は作業上の感電防止用のリフト箇所を制御回路図にて確認したところ，ECCS系起動用の水位スイッチがA接点(※)であったことから，作業上の感電防止のリフトを実施してもECCS系の起動信号は発生しないものと思い込み，当該安全処置を実施するに当たりECCS系起動防止のリフトと作業上の感電防止のリフトには順序がないものと判断した。
+※：原子炉水位が設定値まで低下した場合に水位スイッチが動作し回路に接続されることにより電気が流れる状態
+
+（６）平成18年4月20日，中操内の朝のミーティング時において翌21日の原子炉水位計切替作業及び取替作業のための安全処置を同日実施することを当直関係者間で確認した。
+　ミーティング終了後，主機操作員は，前日に感電防止のリフトを実施してもECCS系の起動信号は発信しないためリフトの実施に順序はないと判断していたことから，安全処置の実施にあたり作業効率を考えタグを制御盤毎にジャンパー分とリフト分に区分けを行い，操作員(A)にジャンパーを依頼した。
+
+（７）主機操作員は，操作員(A)からジャンパー完了の報告を受けた後，残りのリフトを操作員(B)に依頼し，その際，ジャンパーは既に実施済であることを伝えた。
+　その後，操作員(B)は，依頼されたリフトをHPCS制御盤から実施することとし， HPCS用原子炉水位計計装回路(C)の感電防止のリフトを実施したところ，18時08分頃，「HPCS原子炉水位低」の警報が発生した。
+
+（８）主機操作員は，当該作業のために実施したリフトに伴い「HPCS原子炉水位低」の警報が発生したことを疑問に思ったが，前日に制御回路図を確認しリフトを実施してもECCS系の起動信号は発信しないと判断していたこと，及び操作員(B)からリフト箇所を間違ったとの報告もなく水位計の指示が低下していなかったことから警報のみの発生と考えた。
+　その後，主機操作員は，当直副長へリフトしたため警報が発生したことを報告したところ了解され，特に指示がなかったため警報発生の原因については，リフト作業終了後に確認すればよいものと考え残りのリフト作業を継続することにした。
+
+（９）当直副長は，警報が発生したことを疑問に思ったが，原子炉水位計切替作業及び取替作業に係わる安全処置の実施については朝のミーティング時に周知されていたこと，水位計の指示値も低下していなかったこと及び主機操作員の報告から作業上のミスではなく原子炉水位計に係わる安全処置作業の一環で発生したものと考え当直長に報告した。また，当直副長は，ECCS系の起動防止はリフトであることを認識していたため，起動防止のリフトは実施された後に当該作業のためのリフトを実施しているものと思い込んだ。
+　当直長も警報が発生したことを疑問に思ったが，安全処置の実施については朝のミーティング時に周知されていたこと，CRT画面で原子炉水位を確認したところ低下していなかったこと及び当直副長の報告から作業上のミスではなく原子炉水位計に係わる安全処置作業の一環で発生したものと考えた。
+
+（10）リフトした操作員(B)は警報が発生したことを主機操作員に確認したところ，リフト作業中止の指示はなかったため，残りの同回路の(D)をリフトした後，(A)をリフトしたところ，18時13分頃「HPCS動作」の警報が発生しHPCSポンプやHPCS用ディーゼル発電機等が自動起動，又，HPCS注入弁が全開した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8207</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/07/21 18:01:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3471</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/04/24 17:46:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200604201813]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ＰＴＷ作業の安全処置実施において設備安全処置（機器の作動防止等）を実施した後，作業安全処置（感電防止等）を実施することを周知・徹底するとともにルール化する。
+
+（２）作業ステップ毎で実施する安全処置において優先順位があるものについては，優先順位を明確にした安全処置実施の作業ステップを作成し，それに基づき安全処置を実施する。
+
+（３）重要警報が発生する作業については，作業において発生する重要警報を周知した後に実施することとし，疑問等が生じた場合には作業等を一旦中断すること，又，周知されていない重要警報が発生した場合には，直ちに発生した原因を確認することを周知・徹底する。
+
+（４）全当直員に対して，今回の事象について事例検討会を実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/07/21 18:01:00]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第18回定期検査中の当所1号機において，平成18年4月20日18時頃より原子炉水位計を交換するための安全処置を実施中，同18時08分頃，高圧炉心スプレイ系（以下，「HPCS」という。）用原子炉水位計の計装回路(C)をリフトしたところ，「HPCS原子炉水位低」の警報が発生した。
+　その後，同回路の(D)をリフトした後，(A)をリフトしたところ，同18時13分頃「HPCS動作」の警報が発生し，HPCSポンプ及びHPCS用ディーゼル発電機等が自動起動，又，HPCS注入弁が全開した。
+　このため，直ちにHPCSポンプを手動にて停止，HPCS注入弁を手動にて全閉するとともにリフトを復旧した後，HPCS用ディーゼル発電機等を手動にて停止した。
+　尚，HPCSポンプが自動起動しHPCS注入弁が全開したため原子炉内に冷却水が注入されたが，HPCS注入弁を全閉したことにより原子炉水位は約300mm上昇（約1,300mm→約1,600mm）したところで停止した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　聞き取り調査の結果から「HPCS原子炉水位低」及び「HPCS動作」の警報が発生した原因は，以下の通りと推定した。
+
+（１）安全処置一覧表の作成者は，起動防止と感電防止の処置目的を記載したが，当該作業に関して安全処置の実施順序を記載するルール（PTW作業の安全処置実施において設備安全処置（機器の作動防止等）を実施した後，作業安全処置（感電防止等）を実施すること）にはなっていなかったことから，リフトの順序については記載しなかった。
+
+（２）主機操作員は，感電防止のリフト箇所を制御回路図にて確認した際， ECCS系の起動信号は発生しないものと思い込んでいたことから，感電防止のリフトを実施した場合に警報の発生や起動信号発信の有無を十分に制御回路図を確認しないまま，リフトに順序がないものと判断した。
+
+（３）当直副長は、起動防止のリフトは実施された後に当該作業のためのリフトを実施しているものと思い込み，「HPCS原子炉水位低」警報が発生したが起動防止が実施してあるので問題ないものと判断した。
+
+（４）主機操作員，当直副長及び当直長は，「HPCS原子炉水位低」の警報が発生したことについて疑問に思ったが，
+・作業上のミスではないものと考えたこと
+・安全処置の実施については，朝のミーティング時に周知されていたこと
+・原子炉水位計切替に関する安全処置によるものと思い込んだこと
+・原子炉水位に低下はなかったこと
+から，作業の一環で警報のみが発生したものと判断したため，警報発生の原因を確認しないまま作業を継続してしまった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査中における「HPCS原子炉水位低」の誤警報発生及びHPCS誤動作について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/04/25 13:27:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[104]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[高圧炉心スプレイ系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>8207</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧炉心スプレイ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[108]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8207</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8207</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8207</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8207</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

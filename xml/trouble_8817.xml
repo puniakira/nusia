@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1．当該ファンネルの排水状況確認
+ 復水出口弁の下流側に設置されているテストラインを用いての水抜き時、当該ファンネルの排水状態に異常はなかったが、復水出口弁の上流側に設置されている復水配管ドレンラインからの水抜きでは、水抜き開始直後に当該ファンネルから水が溢れ出たことから、当該ファンネルの排水状態について、再確認を実施した。
+ 約２０リットルの純水を１分間かけて当該ファンネルに流したところ、正常に排水されることを確認した。
+
+２．問題点の洗い出し
+ 本事象の関係者からの聴き取り調査を行い、問題点の洗い出しを行った。
+ また、設備的な問題点についても洗い出しを行った。
+（１）聴き取り調査により確認された問題点
+ ａ．非常用復水器Ａ及びＢのテストラインからの水抜きは、現場の運転員２名が各々の役割分担を明確にした上で行ったが、非常用復水器Ｂの復水配管ドレンラインからの水抜きは、運転員１が１名で行っていた。
+ ｂ．運転員１は、非常用復水器Ｂの復水配管ドレンラインからの水抜き操作を一人で行うにあたり、弁操作場所と当該ファンネルが離れており、排水量の確認ができない状況にあったが、復水配管第１ドレン弁及び復水配管第２ドレン弁の開度を調整すれば一人でも水抜き操作ができると判断していた。
+ ｃ．運転員１は、復水配管第２ドレン弁の開度を４分の１回転に調整したが、復水配管ドレンラインは外径が約５ｃｍでテストラインの外径約２ｃｍに比べ太いことから、想定していた量よりも多い水が当該ファンネルに排水された可能性がある。
+
+（２）設備的な問題点
+ 今回、水抜きに使用した非常用復水器Ａ系及びＢ系のテストラインは、仮設ホースにより床ドレンファンネルに導かれており、また、非常用復水器Ｂ系の復水配管ドレンラインは、水抜き用ホース（既設）により当該ファンネルに導かれていた。
+ 非常用復水器Ｂ系のテストラインに接続されていた仮設ホースは、当該ファンネル内での暴れ防止の観点から固縛されていたが、復水配管ドレンラインに接続されていた水抜き用ホースには固縛が施されていなかった。
+ また、当該ファンネルには、復水配管ドレンラインに接続されている仮設ホースの他に４本の既設ドレン配管が導かれていた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[111]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8817</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/11/06 10:59:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3764</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/14 18:11:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070411]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[関係者からの聴き取り調査等により確認された問題点を含め、以下の対策を実施する。
+（１）水抜き、水張り操作を行う際は、その操作に必要な人員を確保した上で行うこととし、床ドレンファンネル等からの飛散防止、また、飛散等を確認した場合の速やかな対応を行うため、操作場所から排水状況が確認できない場合は、必ず２名以上で行う。
+ 本件は、水抜き、水張り時の注意事項等を記載している社内規程「敦賀発電所　運転員の基本手引書」に新たに追記し、すべての注意事項について、全運転員に再周知した。
+（２）現場確認を行い、排水ライン等にホースを使用している場合は、暴れないようにすべてのホースを固縛した。
+ また、ホースを用いて系統・機器の水抜き及び水張りを行う場合は、固縛等によりホースを固定する旨を社内規程「敦賀発電所　運転員の基本手引書」に新たに追記し、全運転員に再周知した。
+ なお、現在、ホースを使用している箇所について、将来的には本設配管に変更することを検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/11/06 10:59:43]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 敦賀発電所１号機の第３１回定期検査中において、非常用復水器Ａ系及びＢ系の復水出口弁（MOV-1301-3A･3B）と復水戻り弁（MOV-1301-4A･4B）間の漏えい試験に係る準備として、運転員１と運転員２を各々１名ずつ現場に配置し、役割分担を明確にした上で、平成１９年４月１１日１４時頃から復水出口弁の下流側に設置されているテストラインを用いて復水側の水抜きを開始した。
+ その後、非常用復水器Ｂ系のテストラインからの水抜きが完了したことから、運転員１がテストラインに設置されている２台のテスト弁（V-1301-32B･33B）を全開とした。このとき、運転員２は、別作業のため、現場を離れていた。
+ 引き続き非常用復水器Ｂの復水配管ドレンラインからの水抜きに伴い、１５時３４分頃に復水出口弁の上流側に設置されている復水配管第１ドレン弁（V-1301-45B）を全開に、また、復水配管第２ドレン弁（V-1301-44B）を４分の１回転開とした後、復水配管ドレンラインに接続されている水抜き用ホースが導かれている原子炉建屋２階の床ドレンファンネル（以下、「当該ファンネル」という。）を確認したところ、水が溢れていることを確認した。
+ このため、直ちに非常用復水器Ｂ系の復水配管第１ドレン弁及び復水配管第２ドレン弁を全閉状態とした。
+ 当該ファンネルから溢れた水は、当該ファンネル近傍の開口部から原子炉建屋１階にも滴下しており、その量は、当該ファンネル近傍で約６リットル（長さ約２ｍ、幅約３ｍ、深さ約１ｍｍ）、１階の床面が約６リットル（長さ約２ｍ、幅約３ｍ、深さ約１ｍｍ）で合計約１２リットルであった。
+ また、放射能濃度は、２階床面が８．４Ｂｑ／ｃｍ3（５４Ｍｎ、６０Ｃｏ）、１階床面が８．１Ｂｑ／ｃｍ3（５４Ｍｎ、６０Ｃｏ）で、総放射能量は、約１．０×１０5Ｂｑであった。
+ なお、本事象による環境への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[ 関係者の聴き取り調査及び現場の状況から、本事象は、復水配管ドレンラインに接続された仮設ホースからの排水量が当初想定していた量よりも多く、また、仮設ホースが固縛されていなかったため、当該ファンネル内で仮設ホースが暴れ、排水が渦を巻いたことから、当該ファンネルに敷設されている既設ドレン配管及びテストラインからの仮設ホースにぶつかり、飛散したことによりファンネルの外に溢れ出たものと推定された。
+ また、このとき、運転員１は、当該ファンネルから離れた場所で復水配管第２ドレン弁の開度調整操作を行っていたため、早急な対応ができなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉建屋２階床ドレンファンネルからの溢水]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/18 09:20:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用復水器系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[111]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[111]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8817</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8817</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8817</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

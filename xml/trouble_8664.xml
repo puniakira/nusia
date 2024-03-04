@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査結果
+（１）定例試験時の状況確認
+　平成19年２月18日に実施したＣＳポンプ（Ａ）の定例試験時の状況について確認したところ、以下のような状況であった。
+ａ．10時56分にＣＳポンプ（Ａ）を起動し、テストバイパス弁（MO-14-26A）を開操作して系統流量を定格流量以上（約1090t/h）まで増加させたが、本来自動で全閉するべき当該弁の開閉表示灯が両方点灯していたため、現場開度指示計を確認したところ、弁開度約30％位置で閉動作が停止していた。
+ｂ．このため、定例試験を一旦中断し、当該弁の操作スイッチにより手動にて弁開度約30％位置から全開まで操作した後、自動で全閉するか確認したが、弁開度約20％位置で閉動作が停止した。また、ＣＳ（Ａ）の系統流量を約500t/hまで下げ、再度、当該弁を手動にて全開まで操作した後、自動で全閉するか確認したが、弁開度約20％位置で閉動作が停止した。
+ｃ．その後、定例試験を再開し、系統流量及び全揚程が定例試験の判定値を満足していることを確認してから、ＣＳポンプ（Ａ）を停止し、テストバイパス弁（MO-14-26A）を全閉操作した際に当該弁が自動で全開することを確認した。更に、ＣＳポンプ（Ａ）が停止した状態での当該弁の状況を確認するため、当該弁の操作スイッチにより手動閉操作を実施したが、弁開度約20％位置で閉動作が停止した。
+
+（２）運転上の制限からの逸脱に伴う調査
+　ＣＳポンプ（Ａ）の定例試験において、当該弁が自動で全閉にならなかった原因を特定するため、以下の調査を実施した。
+ａ．弁本体
+（ａ）外観確認
+　当該弁の外観確認を実施した結果、異常は確認されなかった。
+（ｂ）開閉確認及び寸法計測
+　当該弁の手動ハンドルによる開閉確認を実施した結果、弁開度約20％位置で手動閉操作ができなくなることが確認された。
+　また、手動閉操作ができなくなった時点での弁ストロークを計測した結果、前回点検時の弁ストロークと比較して20.7mm短いことが確認された。
+ｂ．スイッチ類
+　当該弁リミットスイッチの外観確認を実施した結果、異常は確認されなかった。また、当該弁トルクスイッチの外観確認及び設定トルク値の確認を実施した結果、異常は確認されなかった。
+ｃ．弁グランドパッキン
+　当該弁のグランドパッキンの締め付けトルクを確認した結果、異常は確認されなかった。
+
+（３）当該弁の放射線透過試験
+　当該弁の分解点検前に内部の状況を確認するため、放射線透過試験を実施した結果、ダブルジスク構造の弁体のうち入口側弁体が弁棒から脱落しており、脱落した弁体の上部と弁棒が接触して当該弁が全閉にならないことが確認された。
+
+（４）当該弁の分解調査
+　当該弁の放射線透過試験により、入口側弁体が脱落していることが確認されたことから、当該弁を分解し、以下の調査を実施した。
+ａ．外観目視検査
+（ａ）弁体
+　弁体の外観目視検査を実施した結果、弁体に割れによる欠損や変形等は確認されなかったが、弁体ガイドに弁箱ガイドとの摺動による摩耗痕、弁体裏側及び入口側弁体の弁棒取付部（アゴ部）に弁体脱落により発生したと思われる接触痕が確認された。
+（ｂ）弁棒
+　弁棒の外観目視検査を実施した結果、弁棒に割れによる欠損や変形等、弁体取付部に異常な摩耗痕は確認されなかった。
+（ｃ）弁箱
+　弁箱の外観目視検査を実施した結果、弁箱に割れによる欠損や傷等は確認されなかったが、弁箱ガイドに弁体ガイドとの摺動による摩耗痕が確認され、弁箱ガイド側面は波状になっていることが確認された。
+ｂ．寸法検査
+（ａ）弁体
+　弁体の寸法測定を実施し設計値と比較した結果、弁体ガイド幅が設計値22mmに対して、全ての測定点で薄くなっており、最大で2.5mm薄いことが確認された。
+（ｂ）弁棒
+　弁棒の寸法測定を実施し設計値と比較した結果、弁棒は設計値に対して有意な差はなく、曲がり等の異常も確認されなかった。
+（ｃ）弁箱
+　弁箱の寸法測定を実施し設計値と比較した結果、弁箱ガイド幅が設計値24mmに対して、全ての測定点で広くなっており、弁箱フランジから深さ90mm（弁開度約30％～約40％位置に相当）の箇所が最も広く、最大で2.4mm広いことが確認された。
+　また、各測定点で弁箱ガイド幅にばらつきがあることから、相対する弁箱ガイド側面は平坦ではなく、摩耗により波を打っている状態であることが確認された。
+
+２．要因調査結果
+　当該弁の分解調査を実施した結果、弁体ガイドと弁箱ガイドの隙間が拡大し、弁体が脱落したと推定されることから、要因分析表に基づき点検調査を行った。
+2-1 ．製造不良の可能性について
+（１）材料不良
+　第18回定期検査にて交換した弁体、弁棒について、交換時の材料検査証明書を確認した結果、化学成分、熱処理、機械的性質はＪＩＳ規格を満足していることが確認された。
+　また、これまで交換していない弁箱については、当該弁製造時（昭和48年）の材料検査証明書を確認した結果、化学成分、熱処理、機械的性質はＪＩＳ規格を満足していることが確認された。
+（２）寸法不良
+　第18回定期検査時にて交換した弁体、弁棒について、交換時の寸法外観検査記録を確認した結果、当社要求値を満足していることが確認された。
+　また、これまで交換していない弁箱については、当該弁製造時の寸法外観検査記録がなかったことから、第18回定期検査時の仕切弁点検記録表により確認した結果、異常は確認されなかった。
+
+2-2 ．設計不良の可能性について
+（１）構造不良
+　当該弁の弁体に採用しているダブルジスク構造の仕切弁について、一般文献を確認した結果、ダブルジスク構造は弁座の歪等に対する馴染みがよく、シール性能を確保するためのもので、一般的な型式であることが確認された。
+　また、ダブルジスク構造の仕切弁の使用実績を確認した結果、当社原子力発電所では、プラント建設当時から採用されており、十分な使用実績があることが確認された。
+（２）寸法不良
+　当該弁の設計寸法について、作図により妥当性を確認した結果、弁体を弁体ガイドと弁箱ガイドの隙間で最大限傾けた場合においても、弁体は弁棒の吊り部に約５mm引っ掛かるため、設計寸法では弁体は脱落しないことが確認された。
+
+2-3 ．使用環境要因の可能性について
+（１）摺動による摩耗
+　当該弁の外観目視検査の結果から、弁体ガイドに弁箱ガイドとの摺動による摩耗痕、弁体裏側及び入口側弁体の弁棒取付部（アゴ部）に弁体脱落により発生したと思われる接触痕が確認された。
+　また、弁箱ガイドに弁体ガイドとの摺動による摩耗痕が確認され、弁箱ガイド側面は波状になっていることが確認された。
+
+2-4 ．メンテナンス不良の可能性について
+（１）調整加工・手入れ不良
+　過去の分解点検記録等を確認した結果、以下のことが確認された。
+ａ．第18回定期検査にて、弁体ガイドと弁箱ガイドの隙間が設計寸法より拡大していること、弁座内径部に弁体との接触痕があること、弁箱ガイドに摩耗がありヤスリ等で補修していることが確認され、弁体（入口側・出口側）がずれた可能性があると推定していた。
+　また、補修後の弁箱ガイド寸法等の記録はなく、弁箱ガイドの手入れや補修等に対する当社要求事項（管理基準）も不明確であった。
+ｂ．第18回定期検査にて弁体を新品と交換していたが、交換する弁体の弁体ガイド幅が当社要求仕様により25mm（設計値22mm）で製作メーカから出荷されており、当該弁の分解調査で実施した寸法検査の結果と比較すると、製作メーカ出荷時より最大5.5mm薄くなっていることが確認された。
+　これは、弁体交換時の調整加工や弁体交換以降の当該弁動作に伴う摺動によるものと考えられるが、弁体ガイドの調整加工記録や調整後の弁体ガイド寸法等の記録はなく、また、弁体ガイドの調整加工に対する当社要求事項（管理基準）も不明確であった。
+ｃ．第18回定期検査時における当該弁の分解点検時の写真から、弁体の位置が当該弁建設時とは逆に組み込まれていることが確認された。第16回定期検査（平成10年度）及び第17回定期検査（平成12年度）では、当該弁の分解点検を実施していないことから、弁体が逆に組み込まれたのは、第15回定期検査（平成９年度）以前と考えられるが、当時の分解点検記録等に弁体の組込み状況に関する記載がないことから、時期の特定には至らなかった。
+ｄ．第18回定期検査にて弁体を新品と交換した経緯を調査したところ、平成13年９月に実施した定例試験において、当該弁の開閉表示に異常が見られ、その後に実施した調査で当該弁が全閉にならない状況が確認された。
+　このため、11月からの第18回定期検査において、念のため分解点検を実施したことが確認された。当時の分解点検の結果から、当該弁が全閉しなかった原因として、弁体、弁棒等に損傷がなかったことから、弁体ガイドと弁箱ガイドの摩耗と想定し、当該弁の弁体及び弁棒について交換を行っていた。
+
+2-5 ．調査結果のまとめ
+　上記の調査結果から、弁体ガイドと弁箱ガイドの隙間が拡大し、弁体が脱落した要因として、以下のことが考えられる。
+（１）弁箱ガイドと弁体ガイドの摺動による経年的な摩耗の進展
+（２）第15回定期検査以前における弁体（入口側・出口側）の逆組み込み
+（３）第18回定期検査における弁箱ガイドの補修に対する当社要求事項（管理基準）の不明確
+（４）第18回定期検査における弁体ガイド（新品）の調整加工に対する当社要求事項（管理基準）の不明確
+　なお、設計寸法から弁体が脱落する場合の弁体ガイドと弁箱ガイド間の隙間条件を確認した結果、弁開度約30％位置以上で片側弁体を最大限傾けた場合、両ガイド間の隙間幅が6.5mm(弁体ガイドと弁箱ガイドの摩耗量4.5mm＋設計上の隙間寸法2.0mm)以上になると弁体が脱落することが確認された。
+　また、当該弁の弁体ガイドと弁箱ガイドの寸法測定結果から、両ガイド間の隙間は最大で6.9mm(弁体ガイドと弁箱ガイドの実摩耗量4.9mm＋設計上の隙間寸法2.0mm)となり、作図に反映した結果からも、当該弁は弁開度約40％位置にて弁体が脱落する可能性があることが確認された。
+
+３．弁体脱落の発生メカニズム
+　当該弁の弁体脱落に至るまでのメカニズムについて、以下の通りと推定した。
+3-1 ．弁体ガイドと弁箱ガイドの摩耗進展メカニズム
+　第18回定期検査において、当該弁の分解点検を行った際、それ以前の分解点検（第15回定期検査以前）で、弁体（入口側・出口側）を逆に組み込んだことが確認されている。
+　通常状態では、水流と弁体の自重により弁体は傾いた状態にあり、弁開閉時に弁体ガイドと弁箱ガイドが摺動して面荒れが起こり、摩耗が徐々に進展する。この面荒れによって入口側弁体の弁体ガイド先端は角部が徐々に削れ、経年的には馴染んだ状態となっていく。
+　この馴染んだ状態で弁体を逆に組み込んだ場合、その後の当該弁動作によって（平成９年度以前で少なくとも５年以上を想定）、弁体ガイド先端の角部（摩耗がない状態）が弁箱ガイドと摺動することにより、以前からの摺動で面荒れが起こっていた弁箱ガイドに以前より高い摩擦力が加わり、摺動による摩耗が増加していったと考えられる。
+　また、第18回定期検査において、弁体を新品に交換しているが、弁体を逆に組み込んでいた時と同様に、弁体ガイド先端の角部（摩耗がない状態）が弁箱ガイドと摺動することにより、弁箱ガイドに摩擦力が加わり、摺動による摩耗が増加して弁箱ガイド幅が更に広がったと推定した。
+
+3-2 ．弁体脱落に至るまでのメカニズム
+　上記で述べたように、第18回定期検査で弁体を新品に交換したことにより、弁箱ガイドの摩耗が進展し、平成19年２月17日に実施した当該弁の定例試験の際に、全閉から開動作の途中（弁開度約30％～約40％位置）で入口側弁体と弁棒の引っ掛かりが外れて入り口側弁体が脱落し、出口側弁体だけが全開になったものと推定した。
+　その後、平成19年２月18日に実施したＣＳポンプ（Ａ）の定例試験において、当該弁を閉動作させたことで、前日に脱落した入口側弁体が閉側に押し込まれ、弁開度約30％位置で弁座と３点拘束となり、トルク切れで当該弁の閉動作が停止した。
+　また、ＣＳポンプ（Ａ）停止後に実施した当該弁の状況確認において、当該弁の操作スイッチにより手動閉操作を実施した際に、脱落した入口側弁体の上部が弁棒の吊り部で押し込まれ、弁開度約20％位置で閉動作が停止したものと推定した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[107]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8664</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/06/21 18:21:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　平成19年２月18日、炉心スプレイ系（以下、ＣＳという）ポンプ（Ａ）の定例試験を実施したところ、定格流量（1073t/h）は確保できたが、本来自動で全閉する最小流量バイパス弁（MO-14-5A）（以下、当該弁という）が全閉にならず、弁開度約30％位置で閉動作が停止したことから、当該弁の操作スイッチ（中央操作室）により手動にて全開まで操作した後、自動で全閉するか確認したが、弁開度約20％位置で閉動作が停止したため、同日11時50分に保安規定第39条で定める運転上の制限を満足していないと判断した。
+　このため、運転上の制限を満足しない場合に要求される措置を実施した。
+　平成19年２月21日５時46分に原子炉の状態が冷温停止となったため、保安規定の運転上の制限が要求される範囲外へ移行した。
+]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>1555</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3689</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/19 22:27:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702200000]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ダブルジスク構造の仕切弁について、管理対象弁を定めて弁体ガイドと弁箱ガイド間の隙間管理値を設け、それを超えた場合には、作図等により弁体脱落の可能性について評価し、必要な対策を検討する。
+　なお、今後の分解点検にて、弁体ガイドと弁箱ガイドの寸法を測定し、摩耗状況を十分に確認していくことにより、適切な隙間管理値を構築していくこととする。
+（２）当該弁については、弁箱の手入れを行うとともに弁体を新品に交換する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/21 18:21:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の５号機において、平成19年２月18日、炉心スプレイ系（以下、ＣＳという）ポンプ（Ａ）の定例試験を実施したところ、定格流量（1073t/h）は確保できたが、本来自動で全閉する最小流量バイパス弁（MO-14-5A）（以下、当該弁という）が全閉にならず、弁開度約30％位置で閉動作が停止したことから、当該弁の操作スイッチ（中央操作室）により手動にて全開まで操作した後、自動で全閉するか確認したが、弁開度約20％位置で閉動作が停止したため、同日11時50分に保安規定第39条で定める運転上の制限を満足していないと判断した。
+　このため、運転上の制限を満足しない場合に要求される措置を実施した。
+　その後、当該弁の現場調査を実施したところ、当該弁の手動ハンドル（現場）による開閉確認にて、弁開度約20％位置で手動閉操作ができなくなり、その際の弁ストロークを計測した結果、前回点検時（第18回定期検査：平成13年度）の弁ストロークと比較して20.7mm短いことを確認した。
+　また、平成19年２月19日にＣＳポンプ（Ａ）の確認運転を実施したところ、定格流量は確保できたが、当該弁が自動で全閉にならず、弁開度約68％位置で閉動作が停止し、その後に実施した操作スイッチによる手動閉操作でも、弁開度約20％位置で閉動作が停止した。
+　以上のことから、当該弁に不具合が生じているものと推定したが、当該弁はプラント運転中に点検できないことから、当該弁の詳細調査を実施するため、平成19年２月20日０時00分から出力降下を開始し、同日６時00分に発電機を解列、同日10時44分に原子炉を停止した。
+　また、平成19年２月21日５時46分に原子炉の状態が冷温停止となったため、保安規定の運転上の制限が要求される範囲外へ移行した。
+　なお、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>26</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-T048]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果及び弁体脱落の発生メカニズムより、弁体を逆に組み込んで当該弁を動作させたこと、及び弁体を新品に交換したことにより、弁体ガイドと弁箱ガイドとの摺動が強くなって、以前より高い摩擦力が発生したため、摺動による摩耗が増加し、両ガイド間の隙間が拡大した。
+　また、第18回定期検査における弁体交換時の弁体ガイドの調整及び弁箱ガイドの補修に対する当社要求事項（管理基準）が不明確であったため、結果として、弁体ガイドの調整及び弁箱ガイドの補修が不十分となり、両ガイド間の隙間がさらに拡大した。
+　上記の要因が重なったことにより、両ガイド間の隙間が6.5mm以上（実測値：6.9mm）になったことから、当該弁の弁体が脱落したと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[炉心スプレイ系（Ａ）最小流量バイパス弁の不具合に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[出力降下開始]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>786</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/26 20:05:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[低圧炉心スプレイ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[107]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[107]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8664</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

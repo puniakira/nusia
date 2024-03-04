@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13589</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/01/11 16:29:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>112994</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/12/13 11:03:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202212091457]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/01/11 16:29:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の高浜発電所１、２号機の海水電解装置建屋※１（非管理区域）において、２０２２年１２月９日１４時５７分、火災報知器が発報し、同建屋内にいた現場作業員が直ちに消火を行うとともに、当社社員が１１９番通報し、その後、１５時２８分に消防署員により鎮火が確認された。
+
+なお、本件において負傷者は発生しておらず、環境への放射能の影響はない。
+
+海水電解装置建屋の当日の状況を確認したところ、同建屋２階にある海水電解装置室において、協力会社作業員が分電盤の点検作業を行っていた。点検作業にあたり、停電させた上で、分電盤の母線に接地器具を取り付けていた。
+点検作業の完了後、電源を復旧する際は、作業要領に基づき、協力会社の設備委託員※２および作業責任者が立会のうえ、分電盤の母線から接地器具が取り外され、受電できる状態であることを確認する手順となっている。しかしながら、今回、その確認を実施しておらず、接地器具が取り付けられた状態で受電を開始した。
+このため、火災に至った原因は、分電盤の母線に取り付けられた接地器具に過電流が流れ、接地器具の被覆から発火したことによるものと推定した。
+
+対策として、設備委託員および作業責任者は作業要領を都度確認するとともに、安全確保上重要な作業では立会確認を行う等の基本的な行動を再徹底するよう、当社が設備の保守管理を委託する協力会社に対し、指導および教育を実施した。今後、基本的な行動が遵守されているか等を当社社員が現場で確認する。
+また、発電所で業務を行う全ての協力会社に対し、今回の事象を周知し、作業要領通りに作業を行うことを再徹底するよう注意喚起した。
+
+※１：取水路から海水をポンプで汲み取り、電気分解し次亜塩素酸ナトリウムを作り、貝類などの海洋生物が循環水管等に付着することを防止する装置が設置されている建屋。
+※２：プラント安全に直接影響しない補助的な設備の保守管理を当社が協力会社に委託し、当社保修課員と同等の役務を担う要員。
+
+◎海水電解装置建屋（非管理区域・屋外）での火災であり、原子炉施設またはこれに関連する施設での火災に該当しない。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高浜発電所１、２号機 海水電解装置建屋における火災]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/12/13 11:03:35]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

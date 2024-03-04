@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8178</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/04/25 13:27:21]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3461</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/04/10 16:56:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200604070907]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/04/25 13:27:21]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機は定期検査中のところ、平成18年４月７日午前９時７分頃、原子炉建屋地下１階の残留熱除去系Ｂ系の熱交換器室内において水が漏れているとの連絡を、協力企業作業員より受けた。ただちに運転員が現場を確認したところ、原子炉建屋地下１階にある当該系統の海水系配管に設置された海水出口弁（点検中）の開放部からの漏えいであることを確認した。このため、当該配管内の水抜きを行い、漏えいは停止した。
+　漏えいした水の量は約1,050リットルであり、回収のうえ、拭き取りによる清掃を実施した。
+
+　本事象による外部への放射能の影響はない。
+
+　調査の結果、残留熱除去系の海水系配管は点検のため水抜きを実施していたが、４月６日に点検が終了した部分の水張りを行い、漏えいのないことを確認したものの、その後、点検中のため水張りを行わなかった海水出口弁（以下、「当該弁」）の開放部から漏えいしたことがわかった。
+　このため、当該弁に接続された配管につながる弁を調査したところ、空気冷却器の冷却水出入口弁(２個)から水が流入しており、当該冷却水出入口弁を分解点検した結果、弁シート部に傷が確認された。
+　このことから、漏えいの原因は、空気冷却器の冷却水出入口弁シート部の漏えいにより、水張りした系統内の水で徐々に当該弁まで満たされ、当該弁の開放部から漏えいしたものと推定した。
+　対策として、冷却水出入口弁については点検手入れを実施した。
+　今後、系統の水張りを実施する場合は、弁・配管等をすべて復旧した後に実施することとし、弁・配管等が復旧できない場合には、開放部に閉止栓等を取り付けた後に水張りを行うことを周知徹底する。
+　また、冷却水出入口弁と同一仕様で使用条件の類似する弁については、点検周期の見直しを行うこととする。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機原子炉建屋における非放射性の水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/04/11 10:59:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11976</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/21 22:15:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58936</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/03/27 08:57:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201401291040]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/21 22:15:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成26年１月29日午前10時40分頃、運用補助共用建屋１階において、所内共通ディーゼル発電機（Ｄ／Ｇ）Ｂ（現在点検停止中）に燃料を供給する燃料タンク関連の機器より軽油が漏えいしていることを当社社員が発見した。発見後、直ちに軽油配管の弁を閉止したところ、漏えいは停止。福島第一原子力発電所内の電源供給については、外部電源からの供給に加え、所内共通ディーゼル発電機（Ｄ／Ｇ）Ａが待機状態であることから、問題なし。漏えいした軽油は、ドレンパン（約40cm×約60cm×深さ約2cm）からあふれ、コンクリート床面に約４m×約２m×深さ約１mmの範囲で溜まっていた。本件については、午前10時51分、双葉消防本部へ連絡。その後、軽油漏えい箇所は、所内共通ディーゼル発電機（Ｄ／Ｇ）Ｂの軽油ライン燃料フィルタ（運用補助共用建屋１階西側に設置）の空気抜きラインであることがわかった。漏えいした軽油については、午前11時48分から午後０時41 分にかけて、吸着マットによる拭き取りを実施し、終了。また、午後１時６分、双葉消防本部より「危険物漏えい事象」であると判断された。
+その後、原因と再発防止対策をとりまとめたところ、当該燃料フィルタより軽油を採取した後の空気抜きラインの締め付け不足により、通常閉である空気抜きラインが微開な状態になっていたことが原因であった。また、当該の空気抜きラインのプラグは当該フィルタに直付けであったことから、配管系統図等に記載がなく、ライン構成時の確認管理対象外であったことと、作業範囲や工程が従来と異なっており、作業範囲を誤認しやすい状況であったことを確認した。対策として、このように機器に直付けされた弁等のうち、系統の境界を構成するものは配管系統図等に反映し、作業用管理札（タグ）の管理対象とする。さらに、配管系統図での作業範囲の確認に加え、工事工程表へ作業を指示する範囲と期間を明記して情報を共有する。作業員に対しては、作業指示範囲外の作業禁止について再周知する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S116]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　所内共通ディーゼル発電機Ｂエリアの軽油漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/04/01 17:58:05]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

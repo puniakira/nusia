@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12292</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/11/06 20:13:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2015/10/20 09:47:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100202]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/11/06 20:13:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[当所において、ストームドレン（非放射性の液体廃棄物、以下、「ＳＤ」という）ファンネルに対し、放射性廃棄物を処理する配管が接続されていたことにより、誤って放射性物質であるトリチウムが放出される不適合が確認されたこと、および柏崎刈羽においても誤接続事象が確認されたことをふまえ、非放射性廃棄物を処理するファンネルに対する、放射性廃棄物を処理する配管の誤接続の有無について調査を実施した。その結果、２１カ所の誤接続が確認された。
+
+このため、過去に当該ファンネルへ排水した可能性の有無を調査するとともに、その際に海洋へ放出されたトリチウムの放出量を評価した結果、３箇所から計画外に放水口より海洋へトリチウムを含む水が放出されたと判断されたが、いずれも保安規定に定める年間の放出管理基準値と比較し、十分に低い値であった。
+　なお、当事象に鑑み１１月５日に保安院より調査計画策定の指示文書を受け、調査結果を報告し、２月２日に発電用原子力設備に関する技術基準を定める省令（以下「技術基準」という。）及び各発電所原子炉施設保安規定（以下「保安規定」という。）に関して不適合が認められたため、技術基準及び保安規定の不適合に関し、不適合が発生した根本原因を究明し、再発防止対策を策定し、当院に報告すること、との厳重注意を受けた。（指示文書及び違反３の判定表を受領）
+
+保全品質情報　通番　１０８１１を参照]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S052]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[放射性液体廃棄物を非放射性液体廃棄物処理配水管へ誤接続し放出した事象について（検査官指摘事項）]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/10/20 10:49:22]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

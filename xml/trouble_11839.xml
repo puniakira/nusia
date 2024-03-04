@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>11839</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/11/28 09:46:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>43487</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/11/05 19:55:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201310280810]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/11/28 09:46:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[＜事象の概要＞
+　午前８時１０分頃、浜岡原子力発電所２号機の中央制御室に「廃棄物減容処理装置建屋故障」の警報が点灯し、廃棄物減容処理装置建屋の制御室に廃棄物減容処理装置建屋（第２建屋）２階の第２焼却炉雑固体取扱室内で漏えいを示す警報「活性炭漏えい検知」が点灯した。現場を確認したところ、廃活性炭供給装置※１の洗浄水が、それを受けるためのドラム缶からあふれ、ドラム缶の周りに約２．５リットルの水が漏えい（漏えい水に含まれる放射能量は約１７Bq）していることを確認した。
+　「活性炭漏えい検知」警報点灯時、第二焼却炉では、廃活性炭供給装置がスラッジの投入を完了後、撹拌機の洗浄が終了し、供給機の洗浄を実施していた。「活性炭漏えい検知」の警報により、供給機の洗浄は、自動停止した。
+　活性炭スラッジ撹拌機・供給機装置内を確認したところ、洗浄水用ドラム缶が満水状態となっており、ドラム缶から溢水したと思われる水が活性炭スラッジ撹拌機・供給機装置内に溜まっていた。
+
+※1　放射線管理区域内で着用した衣服等の防護具を洗浄する装置で使用した活性炭を、廃棄処理するために焼却炉へ供給する装置。
+
+＜事象の原因＞
+　洗浄ドラム缶に水を供給する際に、水位制御※２の不調により、洗浄水の送水が止まらず、ドラム缶から溢水した。
+　水位制御の不調の原因は、ドラム缶内の水位を測定している超音波式の水位計※３が水面からの反射波ではなく、ドラム缶上端縁からの反射波を受信したためであることが、再現確認により判明した。
+　水位計がドラム缶上端縁の反射波を受信したのは、装置が上下動することにより水位計の位置がわずかに変わること、およびドラム缶が載っている回転床の停止位置についてもわずかに変わることの両方によるものと推定した。
+
+※２ 水位制御は、ドラム缶内の水位に応じて弁の開閉等をおこなっている。
+※３ 水位計から超音波を発信し、水面からの反射波が水位計の受信部に届くまでの時間から水位を測定する。
+
+＜再発防止対策＞
+　ドラム缶上端縁からの反射波を受信し、水位が正確に測定できなくなることを防ぐため、汎用ドラム缶から、水面以外からの反射波が受信部に届かない縁の高い専用の洗浄容器に交換する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-中部-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物減容処理装置建屋（第２建屋）(放射線管理区域内)における活性炭を含んだ水の漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/11/05 19:55:39]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

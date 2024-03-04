@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10016</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/15 11:40:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4329</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/10/08 15:48:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200810020920]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生時の状況】
+　第３回定期検査中の５号機において、平成２０年１０月２日午前９時２０分頃、タービンの点検に使用した検査用器材他を、タービン建屋１階（放射線管理区域）から発電所敷地内の協力会社事務所（非放射線管理区域）に搬出する際、本来実施すべき当社による汚染確認が行われずに搬出された。
+　同器材は、当社による汚染確認の事前準備として、協力会社により汚染のないことが確認されていたが、ただちに協力会社事務所にて当社社員による汚染確認を行い、汚染のないことを確認した。
+
+　なお、本事象による放射能の影響はなかった。
+
+【原因】
+　物品の搬出を行う放射線管理区域と非放射線管理区域の境界扉は常時施錠されているが、当社から鍵の貸出許可を受けた協力会社の現場監督者により開閉が実施できる管理としていた。
+　器材を搬出する協力会社の現場監督者が、協力会社の別の作業員が実施した汚染確認の終了報告を受け、当社による汚染確認も終了したものと誤認したことで、当社による汚染確認を実施しないまま器材を搬出してしまった。
+
+【対策】
+　今後は、協力会社の現場監督者への鍵の貸出管理を止め、当社が汚染確認と併せて境界扉の施錠・開錠する運用とした。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中部-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[当社による汚染確認未了物品の放射線管理区域からの搬出について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/15 11:40:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

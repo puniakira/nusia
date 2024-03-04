@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）火災発生
+今回の火災の直接的な原因は，大物搬入口上から下部（約13m）へ落下し気化した溶剤にアーク溶接の火花が引火したと推定される。さらに，塗装用資材運搬作業における問題点を，作業手順から抽出した結果，次の原因が考えられる。
+ａ．元請会社は，運搬時に周囲を確認するということを全作業員に周知・注意喚起していたが，運搬ルートの下方における他の作業の確認など運搬に関する具体的な安全対策までは指示していなかった。
+ｂ．元請会社は，転倒した場合に開く可能性のある簡易な蓋を溶剤缶に使用し，溶剤缶などを落下防止対策のない台車を用いて運搬することで問題ないと思っていた。
+ｃ．作業員は，上段の缶が引っかかっていることに気づかずに，下段に置いている缶を持ち上げた。
+ｄ．当社は，発注仕様書において危険物の取扱い・管理を厳重にすること，塗料，油類およびその他可燃性材料は関係法規に基づき貯蔵・保管すること等を要求していたが，塗装用資材の運搬に関する留意事項について，元請会社へ要求していなかった。
+ｅ．当社は，塗装作業エリアおよび火気使用エリアについて，元請会社から事前に連絡を受け確認していたが，塗装用資材の運搬ルートについて連絡を受けていなかったため確認していなかった。
+ｆ．当社は，安全協議会等による建設現場のパトロールを定期的に実施していたが，塗装用資材の運搬に着目したパトロールは実施していなかった。
+（２）火災通報遅れ
+６月２５日，当社は，一瞬の燃焼現象で消火活動が不要であったため，火災ではないと考え，消防機関に通報しなかったが，翌日，国の指示により消防機関による現地確認を受け，火災と判断された。
+火災の通報が１日遅れたことについて，聞き取り調査を実施した結果，次の原因が考えられる。
+ａ．現場にいた作業員は，火災による炎，煙の発生が瞬間的に止まったことから，消防機関への通報はせず，当社に連絡した。
+連絡を受けた当社は，現場確認により，一瞬の燃焼現象が発生したが火災の定義（３要素）のうち「消火施設またはこれと同程度の効果のあるものの利用を必要とすること」に該当しないことから火災ではないと独自に考えた。
+ｂ．積極的に情報発信するという意識が不足していた。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10510</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[199]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/11/05 19:59:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/08/11 16:28:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200906251505]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[原因の推定結果から，以下の対策をとり，再発防止を図る。
+（１）火災発生
+ａ．当社は,以下の留意事項を発注仕様書に明記し，危険物の運搬についても細心の注意を払って実施する。
+（ア）運搬ルート周辺の作業を立体的に把握し，ルート変更，火気作業中止等について作業調整を徹底する。
+（イ）危険物の運搬において以下を遵守する。
+・万一転倒してもこぼれない密閉式の容器を使用する。
+・台車を使用する時は，落下防止ガード付とする。
+ｂ．当社は,危険物取扱い作業に関する意識高揚を図るため，塗装作業時，塗装用資材の運搬・保管時の火災発生防止の観点も含めた教育（法令教育，災害事例教育，危険予知シートを用いた教育等）を社員および工事関係者に入所時および定期的に実施する。
+ｃ．当社は,事前に塗装用資材の運搬ルートについて確認するとともに，安全性等の観点から指導を行う。
+ｄ．当社は, 今後定期的なパトロールに加えて日常の現場巡視において，塗装用資材等の危険物の運搬にも着目して安全管理を実施する。
+（２）火災通報遅れ
+ａ．当社は,火や煙を発見した場合（燃焼の痕跡を発見した場合も含む）は，火災に該当するか否かにかかわらず速やかに消防機関へ通報するよう消防計画を改訂し，社員および工事関係者に周知・徹底する。
+ｂ．当社は,積極的に情報発信するという意識高揚のために，社会通念との乖離により社会的批判を生じた事例等を用いた教育を，社員に定期的に実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/11/05 19:59:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２１年６月２５日１５時０５分頃，島根原子力発電所３号機建設工事エ
+リアにおいて，協力会社作業員が溶剤を運搬中，容器を転倒させたため溶剤約
+８リットルが流出し，下部の溶接作業エリアに落下し，一瞬，炎と煙が発生し
+た。
+また，溶接作業エリアにいた作業員１名が体調不良を訴えたため，病院へ搬
+送した。
+
+（１）作業の状況
+塗装作業員全員で，当日作業開始前にＫＹを実施した。
+塗装工事の作業員2 名が原子炉建物内1 階の塗料仮置場から同階塗装作業エリアに塗装用資材を運搬していた。
+運搬は台車で行い，1 段目に油性塗料18 リットル缶を6 個載せ，2 段目に硬化剤4 リットル缶を2 個，ダンボール1 箱（硬化剤4 リットル缶を4 個収納），刷毛・ローラーとそれらを洗浄する油性溶剤約8 リットルの入った18リットル缶（以下「溶剤缶」という）1 個を載せていた。
+塗料仮置場から塗装作業エリアへの資材運搬のためには，１階東側大物搬入口外部通路足場を経由するが，外部通路足場に階段があるため，大物搬入口上で台車を止めて，手運搬による作業を開始した。
+塗料缶4 個およびダンボール１箱を塗装作業エリアに搬入した後，作業員1 名が台車上1 段目の塗料缶を持ち上げた際，隣の塗料缶の上に置いていた溶剤缶を引っ掛け，溶剤缶が台車から大物搬入口上に倒れ落ち溶剤がこぼれた。
+こぼれた溶剤は大物搬入口外側下部の作業エリア（約13m 下）へ落下した。
+その作業エリアにおいて，溶剤缶の転倒位置から水平方向（東方向）に約3m，鉛直方向（下方向）に約13m 離れている箇所で足場設置のための溶接作業を作業員1 名と監視人1 名の計2 名で行っていた。
+（２）火災発生時の状況
+当該現場にいた溶接作業の監視人の証言によると，上から液体が落ちてきて一瞬火がついた直後，全体が炎に包まれ，一時的に黒煙が充満した。
+（３）消火活動の状況
+現場にいた作業員は，一瞬で火が消えたことから，消火活動は実施していない。
+（４）消防機関への通報状況
+現場にいた作業員は，一瞬で火が消えたことから，消防機関へ通報していない。
+また，当社は，現場確認後，一瞬の燃焼現象が発生したが消火活動を必要としなかったため火災でないと考え，消防機関に通報していない。
+（５）被災の状況
+現場調査を実施した結果，主な被災状況として以下を確認した。
+ａ．溶接作業箇所の東側にある昇降足場の転落防止ネットの一部（幅約1.2ｍ×高さ約3ｍの楕円形状）が損傷していた。
+ｂ．溶接作業箇所の北側に位置する原子炉建物地下外壁の防水層保護シート表面の一部（幅約5ｍ×高さ約8ｍ）が損傷していた。
+ｃ．溶接作業箇所西側の足場板および溶接作業箇所南側の法面の一部にすすが
+付着していた。
+また，大物搬入口下部の作業エリアで溶接作業をしていた作業員1 名が体調不良を訴えたため病院へ搬送した。その結果「有機溶剤中毒（6 月25 日，有機溶剤に引火した煙，ガスを吸入し発症。同日来院し酸素吸入処置を行い軽快し帰宅となる。）」と診断された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中国-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[建設工事エリアにおける火災について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/08/18 10:01:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10510</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10510</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10510</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

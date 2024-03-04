@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>312</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/03/30 18:05:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2003/10/08 16:06:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200306011530]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/03/30 18:05:34]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　４号機は第７回定期検査中のところ，平成１５年６月１日１５時３０分頃，中央制御室に「ＩＲＭ Ａ系高高／機器動作不良」、「中性子束計装トリップ」／「Ａ系原子炉自動スクラム」警報が発報し、原子炉保護系チャンネルＡがスクラムした。
+　直ちに中央制御室にて、中間領域モニタ（ＩＲＭ）の指示を確認したところ、ＩＲＭチャンネルＥの指示変動が確認されたため、他チャンネルの指示は正常であることを確認のうえ、当該チャンネルＥのバイパスを実施した。
+　事象発生時のプラント状況は，全燃料装荷後の制御棒常駆動操作試験中であったが、警報の発報に合わせ試験を直ちに中止した。
+　その後、ＩＲＭチャンネルＥの点検を実施し、ＩＲＭ検出器単体の不具合と確認されたため，当該チャンネルをバイパスしたまま、制御棒常駆動操作試験を再開した。
+　この間、当該チャンネルはトリップ（動作）していること、また当該トリップ系は１チャンネルバイパス可能な設備であり運転上の制限である「動作可能であるべきチャンネル数」を確保できることから、保安規定第２７条第３項（運転上の制限に満足しない場合）に係わらないことを確認した。
+　なお，本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ＩＲＭ　ｃｈ．Ｅ指示変動による「Ａ系原子炉自動スクラム」発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/16 08:26:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

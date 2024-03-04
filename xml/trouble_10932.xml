@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10932</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/05/06 15:21:03]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4715</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/04/22 10:27:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201004021300]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当社は、発電設備の保全の一環として、運転中の回転機器の振動、摺動音等から設備の運転状態の監視を行っている。
+その中で２０１０年４月１日に３号機の高圧炉心スプレイ機器冷却水ポンプ※1(C)の電動機軸受部の振動値が通常よりわずかに高いことを確認した。
+当該電動機の振動値は、ポンプの運転に支障のないものであるが、このまま長期間運転を継続した場合、軸受部に何らかの不具合の発生が懸念されるため、予防保全の観点から当該電動機を予備機として停止し、点検を実施することを、２０１０年４月２日１３時に決定した。
+なお、本事象による外部への放射線の影響はない。また、３号機の運転への影響もなく、安定に運転を継続している。
+
+※1　高圧炉心スプレイ機器冷却水ポンプは、高圧炉心スプレイ系の機器を冷却するための水を循環するためのポンプである。同ポンプは(A)、(B)、(C)の3台あり、通常2台が運転し、1台は予備機として停止している。また、高圧炉心スプレイ系は非常用炉心冷却系の一つで、原子炉内の圧力が高い状態でも原子炉内への水の注入が可能な系統である。
+
+【点検結果】
+　高圧炉心スプレイ機器冷却水ポンプ (C)電動機の分解点検を行い、あわせて消耗品の取替を実施し、ポンプ(C)を２０１０年４月９日に復旧した。
+なお、軸受の外観に異状はなかったものの、軸受を分解したところ通常と異なる摺動痕を確認したことから、軸受内部にわずかながたつきがあったものと推定した。
+　今後も振動診断等を用いた状態監視を積極的に行い、設備の状態変化の早期発見に努めていく。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高圧炉心スプレイ機器冷却水ポンプ（Ｃ）電動機の点検について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/05/06 15:21:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

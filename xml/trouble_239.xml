@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場状況調査
+　余熱除去系配管に関する現場状況調査を行い，以下のとおり破断要因の推定を行った。
+
+（１）破壊モードの推定
+　破断部の詳細調査の結果，傾斜した破面形状が観察されたこと，破断部近傍で肉厚の減少及び硬さの増加がみられたこと並びに破面にディンプル模様が確認されたことから，今回の配管破断は塑性変形を伴った延性破壊であると推定した。
+
+（２）延性破壊の要因推定
+　延性破壊の要因として，強度不足及び過大な荷重の２つに分類し，検討を行った。
+
+ａ．強度不足
+材料不良及び施工不良について調査した結果，異常は認められなかった。
+
+ｂ．過大な荷重
+（ａ）可燃性ガス燃焼
+　１号機（Ａ）系及び２号機類似箇所の配管内滞留ガス分析の結果，空気中の濃度に比べて高濃度の水素が検出されており，当該部においても高濃度の水素が存在していたものと推定した。
+　また，当該部は先端部が拡がって破断しており，室内において複数の破片が発見された。また，破断部上流側配管では周長の増加（塑性変形）が認められた。以上から水素が急速燃焼し，過大な内圧が発生した可能性が高いと考えられる。
+（ｂ）ウォーターハンマ
+　当該の余熱除去系蒸気凝縮配管においては，以下のことからウォーターハンマが発生するとは考え難い。
+・破断部で確認された凝縮水の滞留部（破断したエルボに接続する水平配管下部位置まで溜まっていたものと推定）以外に，配管の閉塞を引き起こすような水の滞留部位はなかったこと。
+・破断部近傍は，１ＭＶ－１３０８Ｂが閉じているため蒸気の流れは生じ難いと考えられること。
+・破断部の下流側配管で確認された水と蒸気の間には非凝縮性ガスが存在し，蒸気が滞留水に流入しないことを確認したこと。
+（ｃ）運転状態の異常
+　ＨＰＣＩ手動起動試験は，試験手順書に従って実施しており，異常は認められない。
+
+（３）破断要因の推定
+　以上の調査結果より，今回の事象は，水素の蓄積・急速な燃焼により配管内に過大な圧力が発生し，配管が延性破壊したものと推定した。
+
+２．試験・解析
+（１）非凝縮性ガス蓄積のメカニズム
+　実配管を模擬した試験装置によるガス蓄積試験（安全上の観点からヘリウムと酸素を使用）等から非凝縮性ガスが配管内に蓄積するメカニズムについて，以下のとおり考察した。
+ａ．非凝縮性ガスの濃度上昇過程
+・配管頂部が閉塞された蒸気配管において，微量の非凝縮性ガスが混入した主蒸気は，配管からの放熱により蒸気のみが凝縮して水になり，配管頂部には非凝縮性ガスが蓄積する。
+・凝縮した蒸気に相当する新たな蒸気が母管側から蒸気配管に流れ込むため，蒸気配管ではゆっくりとした蒸気の流れが生じる。
+・この蒸気の流れが非凝縮性ガスの拡散速度より速いため，非凝縮性ガスは蒸気の流れに取り込まれて運ばれる。
+・配管は閉塞されているため，配管頂部のガスの濃度は上昇を始める。
+・運転中のプラントでは，蒸気と非凝縮性ガスの全圧が約７ＭＰａであるため，非凝縮性ガスの濃度が上昇すると蒸気分圧は低下する。飽和蒸気の分圧と温度は一義的な関係があるため，蒸気分圧の低下により配管上部の温度も低下する。
+ｂ．蒸気と非凝縮性ガスの分離過程
+・蒸気と非凝縮性ガス（水素と酸素のモル比約２：１）からなる混合蒸気（約７ＭＰａ）は，温度によってその組成割合が変わるため，約１８０℃において密度が最も小さくなる特徴をもつ。すなわち，約１８０℃以上の領域では温度が低いほど密度が小さくなるが，約１８０℃以下の領域では温度が低いほど密度が大きくなる。
+・配管頂部の冷却が進み，約１８０℃以下の領域（非凝縮性ガス層）ができると，この領域では低温となるにつれて密度が高くなるため，密度差による対流が生じる。
+・一方，温度約１８０～２８０℃の領域（境界層）は，下部の高温部では密度が大きく，上部の低温部では密度が小さいため，密度差による対流は生じず安定な状態にある。
+・この境界層の幅を解析により求めると約１０ｃｍとなり，ガス蓄積試験で得られたデータとよく合う結果となった。
+・時間の経過とともに放熱によって，非凝縮性ガス層は下方へ成長する。
+ｃ．当該配管における非凝縮性ガス蓄積状況の推定
+・当該配管は，ＨＰＣＩタービン蒸気配管の分岐部から，約５０ｍと配管長さが長く，配管からの放熱による主蒸気の凝縮に伴い，当該配管の行き止まり部において非凝縮性ガスの濃度の上昇とともに，温度の低下が生じた。
+・当該配管は，行き止まり部に向かって立ち上がっており，下部から上部に向かって温度低下が生じる配管構成であった。このため，温度低下が進むにつれ，高温の蒸気層と低温の非凝縮性ガス層との分離が生じた。
+・約８ヶ月間の運転の過程で配管の放熱により，非凝縮性ガス層は徐々に成長した。蓄積量は配管内滞留水面から約６～８ｍであり，その組成は水素（約６６％），酸素（約３３％）及び窒素（約１％）であった。
+
+（２）着火のメカニズム
+　圧力変動試験，着火試験及びその他の着火要因の可能性評価の結果から，非凝縮性ガスの着火に至るメカニズムを以下のとおり考察した。
+・蓄積した非凝縮性ガスは約１８０℃以下であり，自己着火には至らない。
+・境界層が水平配管から立ち下がる配管上端に位置する場合には，圧力変動によって，境界層近傍の非凝縮性ガス層に大きな温度変化が生じるが，実機で想定される温度変化では着火には至らない。
+・触媒作用のある貴金属が付着している場合，流入した高温蒸気が配管表面及び貴金属を加熱して貴金属表面での水素と酸素の結合反応が促進され，その反応熱によりさらに水素と酸素の結合反応が加速され，着火に至る可能性が考えられる。当該機においては，第１８回定期点検開始時（平成１２年９月）に応力腐食割れ発生抑制の観点から炉内に貴金属を注入している。
+・昇温中に着火に至る事例があったが，供試体内の蒸気分圧が飽和状態より低いこと（実機よりも乾燥した状態）及びヒータによる加熱中であったことから，触媒反応を加速し着火に至ったと推定され，今回の事象とは異なると考えられる。
+・断熱圧縮や静電気による着火の可能性は考えられない。
+
+　ガス蓄積及び着火試験の結果から，当該配管では，配管頂部から非凝縮性ガスが蓄積し，水平配管から立ち下がる配管上端部に境界層が生じていた状態において，ＨＰＣＩタービン手動起動試験に伴う圧力変動により，非凝縮性ガス層に高温の蒸気が流入し，配管内面に付着していた貴金属の触媒作用も加わり，着火に至った可能性がある。
+
+（３）配管破断，変形等のメカニズム
+　燃焼伝播解析，配管構造解析及び支持構造物等損傷解析の結果から，当該配管における配管破断及び変形等のメカニズムは以下のとおりと推定した。
+・配管内滞留水面から約７ｍ位置で着火すると，下流側に向かって非凝縮性ガスの燃焼が伝播し，途中，燃焼形態が爆燃から爆轟へ遷移し，配管内の圧力は急激に上昇する。圧力波は滞留水面で反射し，滞留水面が生じているエルボ部で最大となった後，配管上流側に減衰しつつ伝播する。この際，エルボ部の腹側から破断が発生するとともに，燃焼に伴う圧力波の伝播及び反射波の伝播により，破断部上流側配管が変形（膨張）したものと推定した。
+・配管破断に伴って吹き出した燃焼ガス，蒸気及びこれに伴う室内圧力上昇により，配管の移動や支持構造物の損傷，周辺の機器の損傷及び余熱除去系熱交換器（Ｂ）室入口扉の損傷等が生じたものと考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>239</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/10/01 11:01:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>4083</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>472</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200111071820]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）今回の水素の急速な燃焼を防止するためには，水素を蓄積させないことが根本的な対策であると判断した。このためには，仕切り弁の設置又は配管の撤去が考えられるが，当該余熱除去系蒸気凝縮系配管は原因調査のため切断しており，撤去することとした。
+　なお，余熱除去系蒸気凝縮系は，運転開始以来使用した実績がなく，かつ，当該系統がない場合でも主蒸気逃がし安全弁及び原子炉隔離冷却系によって原子炉の崩壊熱の除去が可能であり，運用面への影響はない。
+
+（２）非凝縮性ガス蓄積・燃焼の可能性のある箇所の抽出とその対策
+　平成１３年１２月に配管破断の原因として水素の急速燃焼の可能性を考慮し，類似箇所として以下の［１］～［５］に該当するものを対象として抽出した結果，余熱除去系蒸気凝縮系配管が抽出された。
+　なお，計装配管は元弁で隔離できること等から対象から除外した。
+
+［１］上り勾配で行き止まりとなっている配管
+［２］蒸気が常時流れる母管からの距離が長く著しい温度低下が起こり得る配管
+［３］水素燃焼が生じた場合にその健全性が保たれる設計となっていない配管
+［４］運転中に定期的に非凝縮性ガスが抜ける操作が行われない配管あるいはそうした運転状態にない配管
+［５］急激な圧力変動，大きな温度変化などの擾乱が生じる配管
+
+　上記抽出方法は，今回の余熱除去系蒸気凝縮系配管破断の原因究明の結果からは，基本的に見直す必要はないと考えられる。
+　しかしながら，一層の信頼性向上の観点から，次の２項目に該当する箇所について，温度測定や配管勾配の見直し，再結合器設置等の設備変更の対策を行う。
+ａ．非凝縮性ガスの蓄積を防止する観点から，上記［４］で除外した箇所，及び他の要因による着火の可能性を考慮し，上記［５］で除外した箇所。
+ｂ．プラント運転管理上の観点から重要な計装系の配管及び計器のうち，上記［１］及び［２］に該当する箇所。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所１号機（定格出力５４０ＭＷｅ）は，定格出力で運転中の平成１３年１１月７日１７時０２分，非常用炉心冷却系のひとつである高圧注入系（以下，「ＨＰＣＩ」という。）の手動起動試験（保安規定に基づく試験）を実施中，タービン駆動のＨＰＣＩポンプを起動し，ポンプ出口流量を上昇させたところ，中央制御室及び現場の運転員は，衝撃音を聞いた。同時に「ＨＰＣＩ蒸気管差圧高」によりＨＰＣＩタービンがトリップするとともに，原子炉建家の１０箇所で火災報知器が動作し，「原子炉建家換気系モニタ放射能高高」等の警報が点灯した。
+　発電指令課長は，ＨＰＣＩタービンがトリップしたこと等を踏まえ，１７時２５分にＨＰＣＩ動作不能と判断し，保安規定の運転上の制限逸脱を宣言した。その後，保安規定で定める所定の時間内に動作可能な状態に復旧することが困難と判断し，１８時１５分にプラントの停止を決定した。１８時２０分から負荷降下を開始し，２０時３０分発電機を解列，８日０時０１分に原子炉を手動停止した。
+　その間，保修員が余熱除去系熱交換器（Ｂ）室内の現場調査を行ったところ，１９時０５分に原子炉建家内でＨＰＣＩタービン蒸気配管から余熱除去系熱交換器（Ｂ）に分岐している余熱除去系蒸気凝縮系配管（外径：約１６５ｍｍ，厚さ：約１１ｍｍ，材質：炭素鋼（ＳＴＳ４１０））のエルボ部が破断していることを確認した。
+　なお，「原子炉建家換気系モニタ放射能高高」の警報は点灯したが，事象発生前からの排気筒モニタ及びモニタリングポストの指示値に有意な変化はなく，本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>30</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2001-中部-T003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上のことから，今回の余熱除去系蒸気凝縮系配管破断の原因は以下のとおりと推定した。
+
+［１］余熱除去系蒸気凝縮系配管は，主蒸気管から繋がったＨＰＣＩタービン蒸気配管から分岐し，分岐部から約５０ｍの上り勾配の行き止まり配管である。
+　このため原子炉内で炉水の放射線分解により発生した水素と酸素が，主蒸気と混合し当該配管にもたらされ，運転の経過とともに，配管の放熱によって蒸気が徐々に凝縮する一方，非凝縮性ガスである水素と酸素は配管の頂部に蓄積していった。
+［２］非凝縮性ガスの蓄積に伴い高温の蒸気層と低温の非凝縮性ガス層が狭い領域の境界層を挟んで形成され，事象発生当時には非凝縮性ガス層が圧力変動の影響を受けやすい水平配管から立ち下がるエルボ部まで達していた。
+［３］この状態において，ＨＰＣＩタービンの起動により圧力変動が生じ，非凝縮性ガス層に高温の蒸気が流入し，着火に至った。この際，配管内面に付着していた貴金属が触媒として作用した可能性がある。
+［４］非凝縮性ガスが着火すると，配管頂部に向かって急速に燃焼が伝播し，圧力が急激に上昇したことにより当該エルボ部で破断に至った。また，燃焼に伴う圧力波の伝播及び滞留水面で反射した圧力波によって破断部上流側配管に膨れが生じた。
+　一方，当該配管及び支持構造物等は，配管破断に伴って吹き出した燃焼ガス，蒸気及びこれに伴う室内圧力上昇により損傷した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[余熱除去系配管破断に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（負荷降下開始）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>540</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[エルボ・分岐管・レデューサ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>239</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[残留熱除去系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[106]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>239</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>239</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

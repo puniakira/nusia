@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12574</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/03/15 09:55:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/01/20 15:24:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201701161026]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/03/15 09:55:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+　東海発電所は廃止措置中、東海第二発電所は第２５回施設定期検査中のところ、１月１６日、１０時２６分頃、チェックポイント建屋（非管理区域）でケーブル敷設作業中に電源盤の電線管（以下「当該電線管」という）近辺より火花を確認した。
+このため、作業を中断し、１０時２８分に公設消防に１１９番通報を実施した。その後、公設消防による現場確認の結果、１１時２０分に本事象は「火災ではない」と判断された。
+　なお、事象確認時、「煙」「炎」「におい」は確認されておらず、火災報知器の発報もなかった。また、本事象による環境への影響はなかった。
+
+２．原因調査
+　原因調査のため、当該電線管と事象発生時の作業状況について調査を実施した。
+　当該電線管には、単芯線（ＩＶケーブル※１）が８本、２芯被覆付線１本が敷設されていたが、新たなケーブルを敷設するには十分な隙間がある状況にはなかった。なお、敷設されていたケーブルを確認した結果、事象発生当日に被覆の損傷を確認したＩＶケーブル１本以外に被覆が損傷し芯線が露出したケーブルはなかった。
+　また、事象発生時の作業状況について聞き取り調査を実施したところ、ケーブルの敷設作業のため先端が金属製のメッセンジャーワイヤー※２を使用していたことが分かった。さらに、当該電線管内の既存のケーブルについては、電源を切り（隔離）とせず、通電した状態で作業を実施していたことを確認した。
+　※１ ＩＶケーブル：低圧の屋内配線などに使われるビニル絶縁電線。損傷したケーブルは、チェックポイント建屋出入口自動扉用。
+　※２ メッセンジャーワイヤー：敷設するケーブルを引き込むためのワイヤー。
+
+３．原因
+　原因調査より、火花の発生原因は、狭隘な状態の電線管に先端が金属製のメッセンジャーワイヤーを使用したことにより、敷設されていたケーブルの被覆を損傷させ芯線が露出したことで、通電状態にあったケーブルが周囲の電線管（金属製）に接触したためと考えられる。
+
+４．対策及び水平展開
+①当該ケーブルを含む敷設されていたＩＶケーブル全８本については、新しいケーブルと交換を実施した。（２芯被覆付線１本については、ススの付着が確認されたが、被覆の損傷等がないため再利用することとした。）
+　なお、新たに敷設する予定だったケーブルについては、別の電線管を利用して敷設した。
+②今後、新たなケーブルの敷設作業においては、金属部のあるメッセンジャーワイヤーは原則として使用しないこととする。（先端を養生し、十分に隙間のある電線管内では使用可能。）
+③既存の電線管にメッセンジャーワイヤーを通す場合は、関連する機器類について原則として隔離（停電）してから実施することとする。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-原電-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[チェックポイント建屋（非管理区域）における火花の確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/01/20 15:24:19]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

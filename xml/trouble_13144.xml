@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13144</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/09/18 17:30:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>91981</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/07/27 15:27:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202007211555]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/09/18 17:30:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[■発生状況
+2020年7月21日午前10時15分より、4 号機原子炉補機冷却海水系（＊1）【Ａ系】の定例試験のために原子炉補機冷却海水ポンプ（Ｃ）を起動したところ、ポンプのグランド部（＊2）から白い湯気のようなものを確認したことから、同日午前10時31分にポンプを停止した。
+その後、グランド部の状況確認のため、午後3時29分から当該ポンプを再起動したが、再度白い湯気のようなものおよびグランド部の温度上昇を確認したことから、午後3時55分にポンプを停止した。
+
+4号機原子炉補機冷却海水ポンプ（Ｃ）は安全上重要な機器に該当するが、4号機原子炉補機冷却海水系【Ａ系】には原子炉補機冷却海水ポンプが（Ａ）と（Ｃ）の2台あり、そのうち（Ａ）が運転中であることから、安全上の影響はない。
+なお、今回の不具合による外部への放射能の影響はなし。
+
+2020年7月30日、当該グランド部の部品（グランドパッキン）交換を実施し、翌7月31日に原子炉補機冷却海水ポンプ（Ｃ）の試運転を行ったところ、正常に起動することを確認した。
+
+＊1：原子炉補機冷却海水系
+　　 原子炉建屋内の設備（非常用ディーゼル発電機、空調機等）を冷却する原子炉補機冷却系を、熱交換器を介して海水で冷却する系統
+＊2：グランド部
+　　 ポンプ本体と回転軸の隙間に設けられ、冷却水（海水）の漏えいを防止する機構。
+　　 また、当該部は摺動により熱を持つため、ポンプで汲み上げた海水で冷却している
+
+■原因
+当該グランド部の交換により取り外したグランドパッキンの詳細調査の結果、パッキンの硬化が確認された。これにより摺動部の接触抵抗が増加し、グランド部に供給される冷却水の減少と相まってグランド部の温度が上昇したものと推定。
+
+■対策
+当該ポンプのグランドパッキンの劣化状況を踏まえ、パッキンの交換を実施することとした。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東京-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉補機冷却海水ポンプ（Ｃ）の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/07/28 11:03:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

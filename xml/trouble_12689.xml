@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12689</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/05/07 10:12:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>83042</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/07/27 17:15:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201707140819]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/05/07 10:12:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２０１７年７月１４日８時１０分頃，原子炉建屋地下１階の漏えいを示す警報が点灯したため当社社員が現場確認をおこなったところ、８時１９分に原子炉建屋地下１階及び中地下１階の階段室付近で約２ｍ3の水の漏えいが発生していることを確認した。
+　７時５９分に発生した愛岐幹線（５００ｋＶ送電線）への落雷による瞬時電圧低下の影響を受け、浜岡原子力発電所の所内電源の電圧が瞬時低下した。これにより、常用系より受電されていた６．９ｋＶ非常用母線（Ｈ）が一相開放事象対策（※１）として新たに設置した検出器により遮断され、停電（※２）したため、その電源負荷である高圧炉心スプレイ機器冷却水系（※３）サージタンクレベル調整弁が全開（フェイルオープン動作（※４））になり、高圧炉心スプレイ機器冷却水系サージタンクへの脱塩水（※５）補給状態が継続した。当該サージタンクに溜まった水はオーバーフロー配管から排水枡に流入し、原子炉建屋地下２階に設置されるストームドレンサンプタンクへ排水する途中の床排水枡（３箇所）から床面に漏えいした。
+　本事象に伴う外部への放射性物質による影響はなかった。
+　水の漏えいが発生した原因は、脱塩水の補給状態が継続したことにより建屋内排水系の設計流量を超えるオーバーフロー水がファンネル内に流入したこと、およびオーバーフロー水が流入したファンネルからストームドレンサンプタンク間の排水配管の一部に錆の塊による詰まりが確認されたためと推定した。
+　今後、高圧炉心スプレイ機器冷却系サージタンクレベル調整弁の開度を調整し、供給水量を低下させる運用、および配管の詰まり除去、錆の発生しにくい材質の配管に取替を実施する。
+
+※１　外部電源に直接接続している変圧器の一次側において三相のうち一相の電路の開放が生じた場合に、安全施設への電力の供給が不安定になったことを検知し、故障個所の隔離又は非常用母線の接続変更、その他の異常の拡大を防止する対策。
+※２　６．９ｋＶ非常用母線（Ｈ）は、常用系からの受電が遮断した場合、非常用ディーゼル発電機（Ｈ）が自動起動することにより復電するが、非常用ディーゼル発電機（Ｈ）は関連作業による保安措置として停止としていたため停電した。
+※３　高圧炉心スプレイ機器冷却水系は、事故時に炉心冷却をおこなう高圧炉心スプレイ系を冷却する系統。
+※４　フェイルオープン動作は、駆動電源が喪失した場合に開弁する動作。
+※５　脱塩水は、新野川の伏流水を脱塩処理したものであり、放射能を含んでいない。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-中部-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内における放射性物質を含まない水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/07/27 17:21:19]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12006</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/20 19:18:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58843</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/04/12 14:24:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201312181100]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/20 19:18:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[12月18日午前11時頃、福島第一原子力発電所２号機タービン建屋１階大物搬入口付近（建屋内）の床面（コンクリート）に水溜まりがあることを、当社社員が発見。水溜まり範囲は、約４ｍ×約1.5ｍ、深さが約１mm程度。発見した水溜まり付近に、１，２号機間ウェルポイントから２号機タービン建屋への移送ラインが通っていることから、念のため、同日午前11時40分に当該の移送を停止するとともに、１，２号機間ウェルポイントからの地下水汲み上げについても、同日午前11時50分に停止。
+その後、水溜まり付近にある当該移送ラインの保温材を外して漏えいの有無を確認したが、漏えい跡は見つからなかった。また、同日午後０時51分に１，２号機間ウェルポイントから２号機タービン建屋への移送を再開し、当該移送ラインの漏えい確認を実施し、異常は見られなかった。このことから、同日午後１時15分に１，２号機間ウェルポイントからの地下水の汲み上げを再開。なお、大物搬入口には土のうを設置しているが、水溜まりは土のうまで達しておらず、建屋外への流出はない。また、水溜まり範囲は約４ｍ×約1.5ｍ程度で、拡大は確認されていない。
+その後、溜まり水の線量当量率を測定した結果は以下のとおり。
+表面線量率　0.30 mSv/h（γ線：１ｃｍ線量当量率）（10ｃｍ距離）
+　　　　　　0.05 mSv/h（β線：70μｍ線量当量率）（10ｃｍ距離）
+雰囲気線量率　0.08 mSv/h（γ線：１ｃｍ線量当量率）（100ｃｍ距離）
+　　　　　　0.00 mSv/h（β線：70μｍ線量当量率）（100ｃｍ距離）
+溜まり水の線量当量率が床面等と比較して同程度であること、および床面のスミア結果と溜まり水のスミア核種分析結果の核種組成比が近似していることから、床面の汚染の影響を受けたものと推測される。また、移送配管等に漏えいが確認出来なかったことから、保温材等の復旧、水の拭き取りを実施する。なお、現在使用していない耐圧ホースが現場に残っていることから、今後撤去、残水処理を実施していく。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S126]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機タービン建屋１階大物搬入口（建屋内）における水溜まりの発見について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/04/14 22:26:43]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

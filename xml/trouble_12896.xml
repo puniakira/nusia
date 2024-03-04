@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[起動信号回路の電圧測定により特定した導通不良箇所の端子部を目視点検した結果、起動信号回路のリレー端子台に接続する端子の取付不良を確認した。
+
+　その後、根本原因分析にあたって分析チームを編成し、「原子力発電所における安全のための品質保証規程（JEAC4111-2009）」の付属書「根本原因分析に関する要求事項」に沿った分析プロセス（添付資料２「泊発電所3号機における保安規定違反に係る根本原因分析に基づく再発防止対策等について」の図１参照）にて実施した。
+
+　その結果、取付け不良を発見できなかったのは当社の調達管理上の問題として着目し、直接要因および直接要因の背後にある組織として対応が不十分だった点を洗い出した。
+]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[2]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[区分2]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>5</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12896</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2021/03/10 18:20:20]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成２１年２月１６日１６時５２分～平成３０年１１月９日２２時３１分のうち、３Ｂ－ＤＧに待機要求があった期間において保安規定第７２条および第７３条に違反していると判断された。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>90034</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/11/27 18:10:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201811090934]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　事象の原因にある｢直接要因｣および｢組織要因｣に対して、是正措置・予防措置を検討し、以下のとおり直接要因に対する再発防止対策および組織要因対策を策定した。
+
+【直接要因に対する再発防止対策】
+＜再発防止対策①＞
+　「品質保証監査要則」および「原子力調達先品質保証監査マニュアル」に、以下の確認項目を追加する。
+品質保証活動の有効性を評価するうえで調達先に複数の工場がある場合、以下の監査対象を選定するための確認項目について確認し、監査計画を策定する段階で監査対象を選定する。
+・工場によって品質管理に差異があるか
+・差異がある場合は、品質要求に対して満足するものであるか
+
+＜再発防止対策②－１＞
+　調達先から提出されるＤＧ設備を含めた安全上重要な設備に関わる調達製品の検証に必要となる要領書確認の観点を整理し、これらの要領書確認時に活用できる社内規程を新たに定める。また、社内規程で定めた事項については要領書作成の手引きとして調達先に提示する。
+＜再発防止対策②－２＞
+　調達製品の健全性確認のために必要な検査項目の設定の考え方を含めて、調達製品の検証に関わる要領書確認の観点について、再発防止対策案②-1 で定める社内規程を用いて社内関係者に教育を行う。
+＜再発防止対策③－１＞
+　調達先から提出されるＤＧ設備を含めた安全上重要な設備に関わる工事要領書の確認の観点として、業務プロセス毎に必要な各点検項目で点検すべき範囲の設定や記録の残し方についての考え方を「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」に規定する。
+＜再発防止対策③－２＞
+　機器の健全性を確認するために必要な点検実施範囲の設定の考え方について、再発防止対策案③-1 で改定した「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」を用いて、社内関係者に教育を行う。
+＜再発防止対策④－１＞
+　「調達管理要領」で定める品質管理基準表にＤＧ設備を含めた安全上重要な設備について、電源受電前の健全性確認項目をホールドポイントとして設定する。また、それを共通仕様書に展開し、調達先に提示する。
+＜再発防止対策④－２＞
+　業務プロセス毎に必要なホールドポイント設定の考え方について、再発防止対策案④-1で改正した「調達管理要領」を用いて社内関係者に教育を行う。
+＜再発防止対策⑤－１＞
+　調達先から提出されるＤＧ設備を含めた安全上重要な設備に関わる工事要領書の確認の観点として、業務プロセス毎に必要な各点検項目で点検すべき範囲の設定や記録の残し方についての考え方を「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」で規定する。
+＜再発防止対策⑤－２＞
+　機器の健全性を確認するために必要な点検実施範囲の設定の考え方について、再発防止対策案⑤-1 で改正した「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」を用いて、社内関係者に教育を行う。
+＜再発防止対策⑥－１＞
+　「調達管理要領」で定める品質管理基準表にＤＧ設備を含めた安全上重要な設備について、電源受電前の健全性確認項目をホールドポイントとして設定する。また、それを共通仕様書に展開し、調達先に提示する。
+＜再発防止対策⑥－２＞
+　業務プロセス毎に必要なホールドポイント設定の考え方について、再発防止対策案⑥-1で改正した「調達管理要領」を用いて社内関係者に教育を行う。
+＜再発防止対策⑦－１＞
+　調達先から提出されるＤＧ設備を含めた安全上重要な設備に関わる工事要領書の確認の観点として、業務プロセス毎に必要な各点検項目で点検すべき範囲の設定や記録の残し方についての考え方を「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」で規定する。
+＜再発防止対策⑦－２＞
+　機器の健全性を確認するために必要な点検実施範囲の設定の考え方について、再発防止対策案⑦-1 で改正した「工事要領書・報告書の運用および作成要則」および「調整試験要領書・報告書の運用および作成要則」を用いて、社内関係者に教育を行う。
+＜再発防止対策⑧－１＞
+　「調達管理要領)」で定める品質管理基準表にＤＧ設備を含めた安全上重要な設備について、電源受電前の健全性確認項目をホールドポイントとして設定する。また、それを共通仕様書に展開し、調達先に提示する。
+＜再発防止対策⑧－２＞
+　業務プロセス毎に必要なホールドポイント設定の考え方について、再発防止対策案⑧-1で改正した「調達管理要領」を用いて社内関係者に教育を行う。
+
+【組織要因対策】
+＜組織要因対策①＞
+・トラブル情報検討要領の改善
+　調達管理の不備による製作不良や保守不良に関わる不具合を防止するために活用できる事例を定期的に収集する仕組みを構築する。
+　これにより、得られた情報を設備の健全性を確保するための検証活動やこれを実行するための要領書における手順の具体化、適切な検査項目の設定に活用する。
+・調達管理要領の改善
+　収集した事例を当社および調達先関係者が参考とするために、情報配信ルールを明確化する。
+＜組織要因対策②＞　
+・教育訓練管理要領の改善
+　調達管理に関連する社内規程類で規定される事項について、各レベルに応じた基礎教育を行うことを明記し、教育の仕組みを改善する。
+・教育訓練管理要領の改善
+　職場で実施するOJT においては、4 段階職業指導法を実践するために、教育指導法に関して実施方法を規定する。
+＜組織要因対策③＞
+・安全文化醸成活動において、潜在的リスクを認識し、現状に満足せず常に疑問を持ち改善を図る意識を醸成させるため、本事象を題材とした意識改善活動を実施する。
+
+]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/03/10 18:20:20]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２０１８年１１月９日９時３４分、停止中の泊発電所３号機において点検を実施していた非常用ディーゼル発電機Ｂ号機（以下「３Ｂ－ＤＧ」）の試運転のため、中央制御室から起動操作を行ったところ、起動しない事象が発生した。
+　原因調査の結果、非常用ディーゼル発電機制御盤内にあるリレー（※１）端子（※２）台（以下「端子台」）に接続される２本の端子のうち、１本の端子に接続不良が認められた。
+　その後、同日１５時３０分に接続不良の端子を正しく接続したうえで、同日１６時５０分から３Ｂ－ＤＧの試運転を再度実施し、中央制御室からの起動操作により正常に起動することを確認した。
+
+　２０１８年１２月１９日、原子力規制委員会により、本事象が保安規定第７２条および第７３条に違反していると判断された。
+
+　泊発電所３号機は、これまで２サイクルに亘り運転している。
+　この間（※３）、保安規定第７２条ではディーゼル発電機２基が動作可能であることを求めているが、３Ｂ-ＤＧで信号ケーブルの取付不良状態が続き、３Ｂ-ＤＧの安全機能の健全性を担保できない状態であったことから、保安規定第７２条に違反していたと判断された。
+　また、泊発電所３号機の運転停止中においても、保安規定第７３条でディーゼル発電機２基が動作可能であること（※４）を求めているが、上記運転中同様に安全機能の健全性を担保できない状態であったことから、３Ｂ-ＤＧが機能を要求される期間（※５）に保安規定第７３条に違反していたと判断されたもの。
+
+
+　※１：電気的信号によって、電気回路を開閉する装置
+　※２：電気回路の電流の出入り口に付ける外部との連絡のための金具
+　※３：第１運転サイクルにおいて３Ｂ－ＤＧ待機要求のある期間（平成２１年２月１６日～平成２３年１月５日）
+　　　第２運転サイクルにおいて３Ｂ－ＤＧ待機要求のある期間（平成２３年３月２日～平成２４年５月７日）
+　　　３号機の営業運転開始日（平成２１年１２月２２日）
+　※４：保安規定第７３条（停止中においては、３Ａ－ＤＧ、３Ｂ－ＤＧ、代替非常用発電機または他号炉の非常用
+　　　ディーゼル発電機、の３基のうち２基動作可能であることを求めている。）
+　※５：第１回定期検査および第２回定期検査において３Ｂ－ＤＧが機能を要求される期間は、２５３日間である。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-北海道-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該リレー端子台は、点検において端子を解結線する箇所ではなく、また当該リレーの交換実績もないことから制御盤製作当時からこの状態であったと推定する。
+　一方、これまでこの状態にあっても使用前検査、定期検査及び定期試験などにおいて正常に起動でき異常は認められていないことから、導通できる状態が維持されてきたと考える。
+　盤据付以降の点検では、当該リレー端子台の締付ビスが締め付けられていることに着目した点検を行うことになり、端子を可能な範囲で触手することで緩みのないことを確認する点検を実施してきた。
+　今回の点検以前の触手による確認では、締付ビスにより固定されていない奥側の端子に接続不良が発生する程度の外力が加わっていなかったのに対し、今回の点検時の触手確認において、接続不良が発生する程度の外力を加え、締付ビスにより固定されていなかった奥側の端子がリレー端子台から離れ導通できない状態に至ったと推定した。
+
+　その後、根本原因分析を行い、その結果から得られた当社の問題点、直接要因および直接要因の背後にある組織要因は以下のとおり。
+
+【問題点】
+　調査・収集した情報に基づき、調達製品である３Ｂ－ＤＧ制御盤について設計調達段階、工場製作・試験段階、建設据付段階（復元確認）、建設据付段階（100%休転）および定検段階の各業務プロセスがルールに従い実行されたかという観点で事実関係を整理した。
+　次に、工場製作・試験段階以降の各業務プロセスの問題点抽出にあたっては、当社の調達管理において端子取付け不良を検出できなかった要因を探るため、具体的に実行された状況を把握する必要があることから、以下の観点で確認を行った。
+・「なぜ端子取り付け不良が発生したのか」「なぜ端子取り付け不良を各業務プロセスで検出できなかったのか」
+・端子取付け不良を当社が検出するために用いた調達先が作成する調達製品の検証に関る要領書（以下、「要領書」という。）がどのようにレビューされたのか
+・制定された要領書の手順が端子取付け不良を検出するために必要な目視確認項目について、あるべき姿に対して満足する要領・手順であったのか
+
+　また、端子の取付け不良を検出する直接的な行為とはならないものの、設計調達から定検工事に係る全体業務のなかで、工場製作前の設計調達段階においても、当社としてあるべき姿とのギャップとして抽出されたものを問題点とした。
+　その結果、上述する各業務プロセスにおいて問題点①～⑧の計８個を抽出した。
+
+＜問題点①［設計調達段階］＞
+　監査チームは、調達先の品質保証活動の有効性を監査するうえで、調達製品の製造に関係
+する工場全てについて有効性を確認すべきであったが、ＤＧ制御盤を製作する長崎工場を
+含めた調達先の品質保証活動の実施状況とその有効性を確認できていなかった。
+＜問題点②［工場製作・試験段階］＞
+　「泊発電所3 号機 品質管理要領書(工場製作段階)」を確認する過程において、試験検査項目として端子取付け状態を確実に確認するための検査項目を設定すべきであったが、外観・構造検査において、端子取付け状態を確認する項目を設定していなかった。
+＜問題点③［建設据付段階（復元確認）］＞
+　｢泊発電所3 号機ＤＧ試運転要領書｣を確認する過程において、健全性を確認するために必要な目視点検項目の実施範囲を項目毎に作業手順で明確にして記録すべきであったが、点検実施範囲（確認すべき範囲や記録の残し方）について手順で明確化していなかった。
+＜問題点④［建設据付段階（復元確認）］＞
+　｢泊発電所3 号機ＤＧ試運転要領書｣を確認する過程において、電源受電前の確認項目として、輸送・据付・点検作業およびこれらの作業に伴い機器の状態を変化させる可能性がある範囲について、健全性確認を行うホールドポイントを定めるべきであったが、手順で明確化していなかった。
+＜問題点⑤［建設据付段階（100%休転）］＞
+　「泊発電所3 号機100%休転工事制御盤点検要領書」を確認する過程において、健全性を確認するために必要な目視点検項目の実施範囲を項目毎に作業手順で明確にするべきであったが、点検実施範囲（確認すべき範囲や記録の残し方）について手順で明確化していなかった。
+＜問題点⑥［建設据付段階（100%休転）］＞
+　「泊発電所3 号機100%休転工事制御盤点検要領書」を確認する過程において、電源受電前の確認項目として、試運転後の影響確認としての点検作業および作業に伴い機器の状態を変化させる可能性がある範囲について、健全性確認を行うホールドポイントを定めるべきであったが、手順で明確化していなかった。
+＜問題点⑦［定検段階］＞
+　「ＤＧ制御盤点検工事要領書」を確認する過程において、健全性を確認するために必要な目視点検項目の実施範囲を項目毎に作業手順で明確にするべきであったが、点検実施範囲（確認すべき範囲や記録の残し方）について手順で明確化していなかった。
+＜問題点⑧［定検段階］＞
+　「ＤＧ制御盤点検工事要領書」を確認する過程において、電源受電前の確認項目として、経年劣化による影響確認としての点検作業および作業に伴い機器の状態を変化させる可能性がある範囲について、健全性確認を行うホールドポイントを定めるべきであったが、手順で明確化していなかった。
+
+【直接要因】
+　抽出された問題点①～⑧の直接的な要因について検討した結果は以下のとおり。
+＜直接要因①＞
+　「品質保証監査要領」に品質保証活動の有効性を評価する項目として、調達先に複数の工場がある場合の監査対象の選定方法が定められていなかった。
+＜直接要因②－１＞
+　「品質管理要領書」を確認する際に、検査項目の設定の考え方を含めた調達製品の検証に関わる要領書確認の観点が記載されている社内規程類がなかった。
+＜直接要因②－２＞
+　端子取付け状態の健全性確認を含めて、工場で製作された調達製品に対する検証を行うために必要な検査項目の設定の考え方について教育が不十分だった。
+＜直接要因③－１＞
+　「ＤＧ試運転要領書」を確認する段階では、点検実施範囲の設定の考え方を含めた要領書確認の観点が記載されている社内規程類がなかった。
+＜直接要因③－２＞
+　復元確認においては、機器の健全性を確認するために手順の中で実施範囲や記録方法を明確化することが重要であると認識できるような教育をしていなかった。
+＜直接要因④－１＞
+　建設所で使用していた「品質管理基準」のうち立会基準に、電源受電前のホールドポイントとして健全性確認の項目が無かった。
+＜直接要因④－２＞
+　復元確認において、輸送・据付・点検作業およびこれらの作業に伴い機器の状態を変化させる可能性がある範囲について、電源受電前に健全性を確認するためのホールドポイントを設定することが重要であると認識できるような教育をしていなかった。
+＜直接要因⑤－１＞
+　「泊発電所工事要領書・報告書の運用および作成要則」に、要領書確認の観点として、試運転による影響確認としての点検実施範囲の設定の考え方について記載されていなかった。
+＜直接要因⑤－２＞
+　試運転による影響確認として、機器の健全性を確認するために手順の中で必要な点検の実施範囲や記録方法を明確にすることが重要であると認識できるような教育をしていなかった。
+＜直接要因⑥－１＞
+　「調達管理要領」に規定している品質管理基準表に電源受電前のホールドポイントとして定めるべき健全性確認の項目が無かった。
+＜直接要因⑥－２＞
+　100％休転工事において、試運転後の影響確認としての点検作業および作業に伴い機器の状態を変化させる可能性がある範囲について、電源受電前に健全性を確認するためのホールドポイントを設定することが重要であると認識できるような教育をしていなかった。
+＜直接要因⑦－１＞
+　「泊発電所工事要領書・報告書の運用および作成要則」に、要領書確認の観点として、経年劣化による影響確認として必要な点検実施範囲の設定の考え方について記載されていなかった。
+＜直接要因⑦－２＞
+　定検段階において、経年劣化による影響確認として、機器の健全性を確認するために手順の中で必要な点検の実施範囲や記録方法を明確にすることが重要であると認識できるような教育をしていなかった。
+＜直接要因⑧－１＞
+　「調達管理要領」に規定している品質管理基準表に電源受電前のホールドポイントとして定めるべき健全性確認の項目が無かった。
+＜直接要因⑧－２＞
+　定検段階において、経年劣化の影響確認としての点検作業および作業に伴い機器の状態を変化させる可能性がある範囲について、電源受電前に健全性を確認するためのホールドポイントを設定することが重要であると認識できるような教育をしていなかった。
+
+【組織要因】
+　直接要因の分析および背後要因分析図（添付資料３「泊発電所３号機における非常用ディーゼル発電機Ｂ号機起動回路の接続不良に係る根本原因分析について」の添付資料４）より組織要因を検討した結果、背後要因分析図で抽出された直接要因から、以下の組織要因①～③を抽出した。
+＜組織要因①＞（直接要因②-1、③-1、⑤-1、⑦-1）
+　トラブル情報を調達管理に反映する取り組みにおいて、設備の健全性を確保するうえで、適切な検証行為を行うことで調達管理上の不具合を防止できる事例を社内規程類に反映する仕組みが不十分であった。
+＜組織要因②＞（直接要因②-2、③-2、④-2、⑤-2、⑥-2、⑦-2、⑧-2）
+　調達管理を確実なものとするために必要となる、調達製品の検証に関わる実業務を確実に実行できる教育の仕組みが不十分であった。
+＜組織要因③＞（直接要因①、②-1、②-2、③-2、④-1、⑤-2、⑥-1、⑦-2、⑧-1）
+　当社の調達要求事項を満足するための検証行為を確実に実施するうえで、過去に調達管理の不備による重大なトラブルを経験しておらず、製品納入実績が良好な結果となっていた場合においても、現状に満足せずに自ら更なる改善を行う姿勢が不足していた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所３号機非常用ディーゼル発電機Ｂ号機制御盤内リレー端子接続不良]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[定検中（モード外）]]></S_UNTEN_MODE>
+	<IHAN_SHOSAI_TXT><![CDATA[２０１８年１２月１９日、原子力規制委員会により、本事象が保安規定第７２条および第７３条に違反していると判断された。
+
+　泊発電所３号機は、これまで２サイクルに亘り運転している。
+　この間、保安規定第７２条ではディーゼル発電機２基が動作可能であることを求めているが、３Ｂ-ＤＧで信号ケーブルの取付不良状態が続き、３Ｂ-ＤＧの安全機能の健全性を担保できない状態であったことから、保安規定第７２条に違反していたと判断された。
+　また、泊発電所３号機の運転停止中においても、保安規定第７３条でディーゼル発電機２基が動作可能であることを求めていたが、上記運転中同様に安全機能の健全性を担保できない状態であったことから、３Ｂ-ＤＧが機能を要求される期間に保安規定第７３条に違反していたと判断されたもの。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>90036</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/11/27 18:11:08]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12896</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[527]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[端子]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>96</SORT_NO>
+						<BUHIN_CODE><![CDATA[527]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[260]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[製作上の不備によるもの（メーカ工場におけるもので、管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12896</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

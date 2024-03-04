@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）分析調査
+詳細な調査にあたっては，腐食孔等が確認されたダクトについて，ダクトの形状および材質により代表ダクトを選定し，切り出した試料の分析等の調査を実施した。
+ ａ．設計・施工
+環境条件を考慮した設計・施工ではない場合，ダクトの腐食発生に至る可能性があるため，ダクト形状や腐食環境を考慮したダクト材質の選定，保温材の取付け範囲・仕様，外気取入れルーバ※1 の仕様及びこれらの施工状況を調査した結果，仕様どおりに設計・施工されていたことを確認した。
+なお，ダクトルートは，極力曲がり部を少なくし，無駄なルートやローポイント※2 を設けないように計画していたが，Ｅ‐94 等の設置箇所は，点検操作架台との干渉回避のために，ローポイントとなっていること，また，ガイドベーン※3を設置していたことを確認した。
+※１ 外気取入れ口に，雨水の直接取込み防止のために設置されているルーバ（細長い板を枠組みに隙間をあけて平行に組み込んだもの）
+※２ ダクトルートにおいて，ダクトの設置場所が低い位置（谷部）
+※３ 角エルボのように気流の向きが大きく変わる箇所において，ダクト内の気流をスムーズにするための整流板であり，外気取入れラインに設置されている。
+ｂ．環境
+（ａ）水分
+　ア．水分の取込み
+外気とともに取込まれた水分が再循環ライン合流部まで到達するかを確認するため，気流解析を行い，霧のような粒子径の小さい水分を取込んだ場合，外気取入れ口から再循環ライン合流部まで全般にわたって取込まれる可能性があることを確認した。また，ダクト内の構造物部や気流の方向が変わる箇所で水分付着量が多い傾向であることを確認した。
+　イ．結露
+ダクト内外面で温度差が生じ，ダクト内の暖かい空気が，温度の低いダクト内面に接触して冷やされることにより，結露が発生する可能性が考えられるため，松江市における至近10 年間（平成19 年～平成28 年）の気象データについて，飽和空気の発生時間を確認した結果，ダクト内面に結露が発生する可能性があったことを確認した。
+（ｂ）腐食性物質
+　ア．外観観察および断面観察
+ステンレス鋼板ダクトについて，内面側を起点とする腐食が認められた。
+また，亜鉛めっき鋼板ダクトについても，ダクト外面側と比較して，ダクト内面側がより腐食していることを確認した。
+　イ．スミヤ法による分析
+腐食孔の有無にかかわらず，ダクト外面側と比較して，ダクト内面側において，海塩粒子の成分である塩化物イオン等が多く検出される傾向があることを確認した。また，塩化物イオン等は海塩粒子にほぼ一致した成分であることを確認した。
+　ウ．腐食生成物の分析
+試料の構成元素を分析した結果，ダクト内面側では，腐食の形跡となる酸素，および腐食の進行を促す塩素を確認した。また，亜鉛めっき鋼板ダクトのうち，腐食が確認されなかったダクトの外面側では，腐食の痕跡を示す酸素や亜鉛を検出した。試料の化合物形態を確認した結果，塩化物イオンが存在する環境下で発生した腐食生成物に含まれる結晶構造である　　　　β型オキシ水酸化鉄※を確認した。
+※：酸化鉄の一種で化学式はβ-ＦｅＯ（ＯＨ）
+（２）保守管理
+ａ．点検計画
+定期事業者検査※の導入（2 号機は第12 回定期検査［平成16 年度］より）に伴う点検計画および点検計画表策定時，当該系統に対して，定期的な外観点検を設定した。
+点検頻度は，これまでのダクトの点検状況から，機能・性能に影響を及ぼすような異常が確認されていなかったことを踏まえて，最長である10 Ｃサイクル（10定期検査に1 回，運転期間は13 ヶ月）を設定し，次回の点検時期については，点検計画および点検計画表策定時から定期検査10 回を超えない時期（第20 回定期検査）に設定した。
+また，外気取入れ部の内面点検については，平成20 年12 月に発生した他社プラントにおける中央制御室換気空調系外気取り入れダクトの腐食に対する予防処置として，3Ｃを設定した。
+※：特定電気工作物について，その設置事業者が定期的に技術基準に適合していることを確認する検査をいう。平成15 年10 月の電気事業法の一部改正により，これまで電気事業者の自主的な判断に委ねられていた自主点検を法律に基づく検査として事業者に義務付けたもので，特定電気工作物について，機能・性能検査，分解検査等を行い，検査の結果は記録保存されなければならない。
+ｂ．過去の点検実績
+過去の点検実績を確認した結果，ダクト外面については，第1 回定期検査（平成元年度）から第7 回定期検査（平成9 年度）の各定期検査において，外観点検を実施していることを確認した（保温材取り外しの有無等は確認できず）。
+また，外気取入れ口から中央制御室非常用再循環ラインの合流部までの範囲を対象に，過去の中央制御室給気隔離弁の点検時等に合わせて，可能な範囲でダクト内面の確認を実施している。過去の点検時に，ダクトに腐食が確認された箇所があり，第5 回（平成7 年度），第11 回（平成15 年度）および第15 回（平成20 年度）の定期検査において，材質変更を含むダクトの取替えを実施している。また，第14 回定期検査（平成19 年度）において，腐食が確認された箇所について当て板による補修を実施している。
+なお，当該系統は，定期検査ごとに必要な機能・性能を有していることを定期事業者検査で確認するとともに，定期的に機能確認を行い異常のないことを確認している。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[138]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12560</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2018/12/11 11:26:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2016/12/16 17:41:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201612081450]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[原因調査および推定原因の結果から，保守点検を見直して適切な保全を行うことが再発防止に有効であることから，再発防止対策として保守点検の内容の見直しを行う。加えて，ダクト内への水分および海塩粒子の取込量の低減，劣化状況の把握性向上ならびに水分付着量の低減の観点から，ダクト仕様の見直し，運用の見直しおよびダクト形状・構造の見直しを実施する。
+（１）保守点検の見直し
+ａ．内面点検
+既設の点検口等からの内面点検に加え，新たに外気取入れラインに追加設置する点検口からも内面点検を実施する。点検の頻度は，外気取入れラインは1Ｃ，外気取入れライン以外は6Ｃとする。なお，外気取入れ部についても3Ｃから1Ｃに見直す。
+ｂ．外面点検
+外面点検も引き続き実施することとする。外気取入れラインの内面の腐食が起きやすい箇所は，念のため，代表箇所の保温材を取り外して，外面点検を実施する。外気取入れライン以外については，必要に応じて代表箇所の保温材を取り外して，外面点検を実施する。点検の頻度は，10Ｃから6Ｃに見直す。
+（２）ダクト仕様の見直し
+耐食性及び劣化状況の早期把握の観点を考慮し，ステンレス鋼板ダクトは，（３）運用の見直しによる環境改善も踏まえ，炭素鋼（塗装あり）※へ変更する等，ダクト仕様を見直す。
+※ 炭素鋼板ダクトの表面に海塩粒子等の付着による腐食を防止するための塗装を施したもの。塗装が劣化した場合でも，補修塗装を施すことでダクト自体（炭素鋼板）の健全性を維持することができる。
+（３）運用の見直し
+中央制御室外気処理装置について，「荒天時のみの使用」を「常時使用」に変更し，外気から取り込まれる水分や海塩粒子の低減を図る。
+（４）ダクト形状・構造の見直し
+ガイドベーンが設置されている箇所について，ガイドベーンを設けない構造に変更し，ダクト形状も角エルボから丸エルボ※に変更することで，水分が溜まりにくいダクト形状・構造に見直す。
+※ 気流の向きが大きく変わる箇所において，ガイドベーンを設置せずにダクト内の気流をスムーズにするため，流れ方向に湾曲させたダクト。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/12/11 11:26:00]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成28年12月8日14時50分，中央制御室空調換気系（以下，「当該系統」という。）のダクトの寸法測定のために，保温材取り外し作業を行っていたところ，廃棄物処理建物２階（非管理区域）に設置されている当該系統のダクト（以下，「当該ダクト」という。）に腐食孔（約100cm×約30cm）が生じていることを協力会社社員が確認した。
+また，同時期に別途実施中の工事において，作業後の漏えい確認のため，停止していた当該系統を起動したところ，現場で運転状態を確認していた当社運転員が異音等を確認したことから，運転を停止した。
+当該系統は，実用炉規則の安全上重要な機器等※1に該当し，この系統に要求される必要な機能※2を満足していないと18時30分に判断※3した。
+なお，本事象による周辺環境への放射能の影響はなかった。
+※1：実用炉規則第82条第１項の規定に基づく安全上重要な機器等を定める告示（平成15年経済産業省告示第327号）における 
+   「上欄：（十）安全上特に重要な関連機能２換気設備（中央制御室換気空調設備に限る。）」が該当。
+※2：事故発生時には，事故が収束するまでの間，運転員がとどまって監視や操作が行えるように，外気の取り入れを遮断し，
+    空気フィルタを介して内部循環させる機能。
+※3：確認された当該ダクトの腐食孔の大きさが約100㎝×約30㎝と大きいこと，および中央制御室空調換気系試運転時に当該
+   ダクトから異音等を確認したことから，現在，中央制御室空調換気系の運転を停止している。このため，現状において，中
+   央制御室空調換気系が必要な機能・性能を有していることを確認できない状態にあることから，安全を確保するために必要
+   な機能を満足していないものと判断。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-中国-T001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）腐食の発生原因
+  点検調査の結果，腐食孔等が外気取入れラインに確認されることおよび腐食がダクト内面側を起点として進行していることから，腐食の発生原因は，ダクト内部で発生した結露ならびに外気とともに取込まれた水分および海塩粒子が，ダクト内の構造物や気流の方向が変わる箇所でダクト内面に付着し，腐食を発生させたことによるものと推定した。
+ａ．Ｅ－94（亜鉛めっき鋼板ダクト）の腐食孔
+ Ｅ－94 で確認された約100 ㎝×約30cm の腐食孔の発生要因は，同ダクトがガイドベーンを有し，ルート形状がローポイントであったため，湿潤状態が長く維持されていたと考えられ，他のダクトに比べて腐食速度が速い状況で
+あったものと推定した。
+ｂ．他プラントとの比較
+他プラントに比べて多数の腐食孔が確認された要因は，外気取入れ量およびダクト材質の差異にあると推定した。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[中央制御室空調換気系ダクト腐食について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>73148</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/12/26 20:00:03]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ダクト]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12560</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[中央制御室換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[138]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[138]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[設計不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[設計上の不備によるもの（管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12560</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[3]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2841</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/03/16 20:41:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3143</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/15 09:48:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503121109]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は原子炉起動中のところ、平成17年３月12日、原子炉隔離時冷却系ポンプの起動時の機能確認を実施したところ、ポンプ駆動用タービンの軸受け部から潤滑油の滴下（１滴／80秒）があることを、当社社員が発見した。
+　その後、当該軸受け部の油面調整を行ったのち、再度当該ポンプを起動し漏えい確認を実施したが、状態が改善されないことから、起動操作を中断し、潤滑油系の点検を行うこととした。
+　滴下した油は、当該軸受け部の下に設置されている油受けから廃油槽に導かれ処理されていた。
+
+　潤滑油系の点検の結果、今定期検査において当該タービンの分解点検を行った際、潤滑油配管に設置されている４個のオリフィスのうち、穴の径が違う２個を取り違えて設置していたため、当該軸受け部に通常より多い潤滑油が供給され、漏えいしたことが分かった。
+　オリフィスを取り違えて設置した原因は、オリフィスの取り付け位置の管理を、番号付けされた部品収納袋の番号と照合することで管理していたが、収納するオリフィス自体に番号が表示されておらず、また取り付け位置が近接していたことから、取り付けの際に間違えたものと推定した。また、オリフィス取り付け直前に取り付け位置確認のため行っている穴の径の確認をしなかったため、取り違えていたことに気付かなかったものと推定した。
+　対策として、今後の管理は、オリフィスに番号を刻印し、番号で取り付け位置を管理することとし、その旨要領書を変更する。また、協力企業に今回の事例を周知することにより再発防止に努める。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S124]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉隔離時冷却系ポンプ駆動用タービン軸受け部からの油漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/16 20:41:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

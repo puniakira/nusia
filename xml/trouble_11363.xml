@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11363</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/12/07 13:03:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>27274</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/07/12 16:19:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201107111220]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/12/07 13:03:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　定格熱出力一定運転中の当所１号機において、巡視点検を終了した当社社員が管理区域から退出するため退出モニタによる測定を実施したところ、作業服の左袖に放射線管理区域からの退出基準をわずかに超える微量の放射性物質が付着していることを確認した。
+　このため、当該社員の巡視点検経路の放射能測定を実施したところ、平成23年７月11日午後０時20分頃、原子炉建屋地下１階の残留熱除去系配管スペース室床面に設置された２箇所の排水口付近で、社内で定める基準値（４ベクレル／cm2）を越える汚染（最大約33ベクレル／cm2）を確認した。　　
+
+（安全性、外部への影響）
+　同配管スペース室外への汚染の広がりがないことを確認しており、本事象による外部への放射能の影響はない。
+　また、作業服に汚染が確認された当社社員については、体内への放射性物質の取り込みおよび計画外の被ばくはない。
+
+（対応状況）
+　同配管スペース室で確認された汚染は速やかに拭き取り清掃を行い、汚染がないことを確認した。
+　床面に設置された排水口内部の汚染確認を実施したところ、床面で確認されたレベルとほぼ同等の汚染レベルにあることが確認されたことから、床面汚染の原因は、排水口につながる系統内の圧力変動や当該室内のエアバランス変動の影響により、当該排水口の空気抜きラインから拡散したものと推定した。
+　なお、当該社員の当日の行動を詳細に確認したところ、同配管スペース室において排水口付近で作業を行っており、袖に放射性物質を付着させた可能性が高いものと判断した。
+　対策として、当該排水口について内面の汚染レベルを十分低い状態まで清掃するとともに、排水口の空気抜きラインに拡散防止のためのフィルタを取り付け内部の汚染が拡散しないよう措置を施した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-S011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　原子炉建屋（管理区域）配管スペース室内における放射性物質による汚染について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/07/14 09:40:59]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

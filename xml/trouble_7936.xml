@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>7936</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/10/31 16:16:29]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3343</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/10/17 19:42:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200510152038]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/10/31 16:16:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は定期検査中のところ、平成17年10月15日午後８時38分、停止中の原子炉冷却材浄化系において「原子炉冷却材浄化系差流量高」の警報（＊）が発生した。流量計の指示値を確認したところ、流量計（Ａ）の指示値に異常はなかったが、流量計（Ｂ）においては差流量高を示す指示値の変動を確認した。
+　当該系統は、原子炉再循環系配管の修理工事のため停止状態であり、本来、流量は検出されない状態であることから、現場にて流量計（Ｂ）の流量計測配管の圧力差をなくす操作を行ったところ、指示値が正常な値に戻るとともに警報も解除された。
+
+　その後、原因調査を行っていたが、10月17日11時40分頃、原因調査のため警報発生防止の安全処置を行ったところ、当該安全処置が誤っていたことから同警報が再度発生した。警報は、当該安全処置を復旧したことにより解除された。
+
+　１回目の警報発生の原因は、閉止していた低圧側検出元弁にごく微量のシートリークがあったことにより、流量計の圧力に差が生じたことによるものと推定した。
+　対策として、差圧の検出を行っている計器の検出元弁を閉める場合には、当該弁のシートリーク等による差圧発生の影響を回避できるよう、計器の均圧弁を開状態としておくことをマニュアルに反映し、作業主管グループおよび当直に周知する。
+　
+　２回目の警報発生の原因は、作業主管グループが原因調査のための安全処置を検討した際に、電気回路の接点動作を誤解したために、安全処置の方法を誤ったものだった。また、安全処置を実施した当直においても、同様の誤解をしたこと、および作業主管グループが実施する不具合箇所の原因調査を進めたいとの意識が働き、安全処置について電気回路図を含め検討したものの、警報発生に関する電気回路図の確認をせず、安全処置の誤りに気づかなかった。
+　対策として、作業主管グループにおいて、差流量高の信号が発生した場合の電気回路の接点動作についての事例を周知する。
+　また、速やかに処理する必要がある場合にあっても重要な作業については、作業主管グループは、接点動作の誤解を排除するため、電気回路図の塗りつぶしによるチェックを実施し、当該電気回路図を作業許可書に添付することで当直のチェックが図られるようマニュアルに反映するとともに、当直は、作業主管グループと合同で関連する電気回路図の再確認を行う。
+　なお、当直で行う全ての作業許可書の審査について、関連する全ての電気回路図の確認を実施しない限り作業の承認を行わないことを再徹底し、今回の事象について当社にて事例検討を実施する。
+
+
+＊：「原子炉冷却材浄化系差流量高」の警報
+　原子炉冷却材浄化系の入口と出口の流量を計測して、その差により原子炉冷却材浄化系の破断の有無を検出するもので、差流量が設定値を超えた時に警報を発する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S061]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[誤警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/10/19 09:54:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

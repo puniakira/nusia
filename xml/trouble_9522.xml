@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9522</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/12/28 14:58:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4106</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/12/26 16:46:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20071225]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１９年１２月１７日に原子力安全・保安院から受領した指示文書「東北電力（株）女川原子力発電所３号機 気体廃棄物処理系（※１）における水素濃度の上昇事象を踏まえた調査について」に基づいて調査を行い、調査結果を原子力安全・保安院に報告した。
+
+＜報告の概要＞
+・適正に水素と酸素の結合が行われなかったと考えられる事象（１件）
+【発生号機】
+　５号機
+【発生日時】
+　平成１９年７月１日（第２回定期検査における調整運転の起動過程）
+【事象概要】
+　発電機出力上昇中に、一時的に水素濃度が高くなり警報が点灯した。このため、予め定められた手順に従い、系統の温度、流量などの値を確認すると共に、系統内の水素濃度測定や水素濃度計の点検などの対応を行っていたところ、水素濃度が低下し警報が消灯した。
+　その後、同様な事象は発生していない。
+
+（参考）
+　今回の調査過程で、３号機において水素濃度上昇事例が３件確認された。いずれも急激な水素濃度の上昇を伴わない事例や、運転操作等に伴い発生した事例であり、女川原子力発電所３号機で発生した事例と異なる。
+
+【発生日時】
+　平成１５年１０月２７日（第１２回定期検査における調整運転の起動過程）
+　平成１７年　５月２５日（第１３回定期検査における調整運転の起動過程）
+　平成１８年１１月　９日（第１４回定期検査における調整運転の起動過程）
+
+＜今後の対応＞
+　再結合器におけるしきい値の存在の有無を確認し、それを踏まえた運転管理を行う。
+
+※１　気体廃棄物処理系は復水器に流入する気体状の放射性物質を処理する系統。
+原子炉水の放射線分解によって発生した「水素」と「酸素」は、気体廃棄物処理系で処理（再結合反応）され水となる。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子力安全・保安院指示文書に基づく調査結果について（女川原子力発電所３号機 気体廃棄物処理系水素濃度上昇事象を踏まえた調査）]]></TITLE_NAME>
+	<UNITS><![CDATA[3,5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/12/28 14:58:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

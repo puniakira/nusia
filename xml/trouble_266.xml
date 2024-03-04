@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時の点検結果　制御棒を操作しない状態で駆動水流量が0.06L/s確認され、制御棒駆動水制御ユニット（以下、「HCU」という。）の不具合が想定されたことから、当該HCU点検を実施した。
+（１）HCUの点検結果 ［１］当該HCUの方向制御電磁弁（以下、「セレクター弁」という。）の励磁有無確認：当該HCUのセレクター弁120、121、122、123弁に供給されている電圧を測定した結果、無励磁状態であることを確認した。 ［２］当該HCUのセレクター弁の打振確認（駆動水流量確認）：４つの電磁弁について、打振前後における駆動水流量変化の有無を確認したが、変化はなかった。 ［３］当該制御棒の挿入操作（異物除去）：全挿入位置にある当該制御棒の挿入操作を実施したが、駆動水流量の変化はなかった。 ［４］当該HCU内103弁（駆動水元弁）閉による駆動水流量確認：当該HCU内103弁を閉とした結果、駆動水流量は0L/sとなった。
+（２）他の制御棒の1ノッチ作動試験　中断した1ノッチ試験を再開し、残りの制御棒に異常のないことを確認した。
+以上の点検結果より、当該HCU単体の不具合であり、他の制御棒に異常が認められないことから、再循環流量調整による定格熱出力までの復帰操作を行った。
+２．当該HCUの点検、セレクター弁交換及び作動確認　当該制御棒全挿入後、駆動水流量が0.06L/s流れていたこと、駆動水元弁103弁を閉としたことで駆動水流量が0L/sとなったこと等により、要因分析により評価した結果、当該HCU内123弁の不良が想定されたことから、123弁等の点検を実施した。
+（１）当該HCUの点検、セレクター弁交換 ［１］123弁:123弁の点検が完了した予備弁に交換し、取り外した123弁について外観目視点検を行った結果、異常は認められなかった。 ［２］フィルタ:当該HCU内のフィルタ（3個）を取り外し、外観目視点検を実施した結果、破損・取付け不良等の異常は確認されなかった。
+（２）作動確認 ［１］駆動水流量の確認：弁交換の終了後、当該HCUをインサービスした結果、駆動水流量が0L/sに戻ったことを確認した。 ［２］作動試験：発電機出力を1103MWから1050MWまで降下し、当該制御棒作動試験及び速度調整を行った結果、異常は確認されなかった。
+３．当該セレクター弁詳細調査結果
+（１）当該セレクター弁の分解点検結果 ［１］放射線透過試験（RT）結果：123弁分解点検前に放射線透過試験を実施した結果、弁体シート面に異物が確認された。 ［２］当該セレクター弁分解点検結果：123弁を分解し、外観目視確認・寸法測定等を実施した結果、構成部品の損傷・組立不良は認められず、寸法についても異常は認められなかった。また、当該弁の弁体シート面に約8mmのワッシャー状の異物を発見した。
+（２）異物の材質調査　当該セレクター弁より発見されたワッシャー状の異物について、エネルギー分散型蛍光Ｘ線分析調査（以下、「EDX」という。）により、材質の成分分析を実施した結果、異物は鉛であることが確認された。
+（３）異物の特定　駆動水フィルタに異常が認められなかったことから、系統内からの異物流入はなく、定期検査時のHCU点検時に異物が混入したと考えられるため、HCU廻り及びHCU構成部品を調査した結果、スクラム弁位置検出リミットスイッチのビス止め部に座金（材質：鉛）が使用されていた。このリミットスイッチビス止め部の座金の材質が鉛であること、形状も発見された異物と同等であったこと及びHCUマニホールドブロックの真上に当該リミットスイッチが設置されていることから、異物は、当該リミットスイッチ用座金と推定される。
+（４）点検履歴調査　定期検査時のHCU点検時に異物が混入したと考えられたことから、第19回定期検査での点検状況を調査した結果、スクラム弁の開放点検及び逆止弁の開放点検※２が実施されていた。また、その時の点検実績より、スクラム弁位置検出リミットスイッチ取外し後、逆止弁の開放点検が実施され、その後、リミットスイッチの取付け作業が行われており、当該リミットスイッチの座金が逆止弁内に混入する可能性があることも確認された。なお、第19回定期検査で、スクラム弁の開放点検及び逆止弁の開放点検が行われているHCUは、当該HCUを含め17ユニットあった。
+ ※２：HCU構成機器（スクラム弁、セレクター弁、フィルタ、逆止弁等）は、定期検査毎に約40ユニット開放点検が実施される。ただし、ユニット単位で全機器を行うものではないため、機器毎に当該定期検査での対象座標が異なる。
+（５）点検手順の確認　聞取り調査により、逆止弁137弁の点検状況を確認した結果、開放する前にマニホールドブロック上をウェスにて清掃後、逆止弁用プラグの取外し、座ぐり部清掃、ボール取出し、開口部養生がなされていることを確認したが、清掃することについて作業要領書には明記されていなかった。さらに、逆止弁用プラグ周辺は、座ぐり部があるため、視認性が悪く、プラグと座ぐり部に異物があった場合、見逃される可能性があることも確認された。また、スクラム弁開放点検でのスクラム弁位置検出リミットスイッチ取外し時におけるビニール養生等の注意事項がなく、聞取り調査でも養生は行われていないことも確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>266</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/06/03 10:23:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>522</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/09/29 11:16:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200305281108]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）123弁については、点検を完了した予備弁に交換した。また、交換後当該制御棒の作動試験を実施し異常のないことを確認した。
+（２）定期検査時の作業要領書に、異物混入防止として以下の事項を追加する。 ［１］逆止弁点検時における、手鏡による異物の有無確認（逆止弁用プラグ取外し前の清掃を含む）及び作業責任者の確認　［２］スクラム弁開放点検時における、スクラム弁位置検出リミットスイッチ取外し時のマニホールドブロックのビニール養生　また、今回の事例について、所員・協力会社に周知し、異物混入防止の再徹底を図ることとする。
+（３）念のため、第19回定期検査の点検状況が同一の16ユニットについて、次回定期検査時にマニホールド部の点検を実施する。　なお、今後、同様な事象が発生した場合においても、スクラム機能に支障はなく、不具合の発生した制御棒を全挿入し、隔離することで修理することは可能である。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/06/03 10:23:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海第二発電所は、平成15年5月28日電気出力1103MWで定格熱出力一定運転中、定期試験で制御棒1ノッチ作動試験※１を行っていた。11時05分頃、全引抜状態であった座標42－15の制御棒を48ポジションから46ポジションに1ノッチ挿入操作をしていたところ、11時06分頃、警報「ROD　DRIFT」が発報した。その後、11時08分頃、当該制御棒が全挿入位置まで挿入され、電気出力が1103MWから1072MWまで低下し、1080MWで安定していることを確認した。また、制御棒関連のパラメータの確認を行った結果、駆動水流量が通常0L/sのところ、0.06L/sであった。このため、制御棒１ノッチ試験を中断し、点検することとした。　なお、本事象による放射能の影響は無い。　　※１：全挿入位置の制御棒及び動作不能制御棒以外の制御棒について定期的に１ノッチ挿入・引抜を実施し、制御棒の健全性を確認する試験。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-原電-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［保守不完全］　以上の点検結果より、今回の事象は以下の通りと推定される。
+（１）第19回定期検査時に当該HCUのスクラム弁開放点検のため、位置検出リミットスイッチを取外した際、当該リミットスイッチの座金がマニホールドブロック上の逆止弁用プラグ近傍に脱落した。
+（２）その後、当該HCUの逆止弁開放点検前にマニホールドブロック上を清掃したが、視認性が悪いことから、当該リミットスイッチの座金が逆止弁用プラグと座ぐり部に残存した。
+（３）逆止弁点検のため逆止弁用プラグを開放した際、当該リミットスイッチの座金が逆止弁内に混入した。
+（４）当該HCU復旧後、挿入引抜操作に影響のない箇所に存在していた座金が、起動時の制御棒操作、定格運転時の制御棒操作（1ノッチ作動試験）により、当該HCUのセレクター弁123弁のシート部に移動した。
+（５）当該座金が123弁のシート部に移動・挟まれることにより、制御棒操作を停止しても、挿入側に駆動水圧がかかる状態となり、制御棒が全挿入された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒１本の挿入について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1103</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁体*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>266</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電磁弁]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>266</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8892</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/09/04 10:53:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3819</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/04 17:05:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200706030758]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/09/04 10:53:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の１号機中央操作室において、平成19年６月３日午前７時58分、「１・２号機主排気筒モニタ」に関する警報が発生した。
+　運転員が現場を確認したところ、当該モニタの取替工事にともない使用していた仮設サンプリングポンプに電源を供給している電源ケーブルと電工ドラムとのつなぎ部から煙が発生していたことから、電工ドラムのケーブルをコンセントより取り外した。
+　速やかに消防署に連絡を行い、消防署員による現場確認の結果、「火災ではない」と判断された。
+
+　なお、同日午前８時32分、予備の仮設サンプリングポンプに切り替えたが、本事象の発生にともないサンプリングポンプが停止していた間、当該モニタの指示値が欠測していたものの、他の放射線モニタ等の指示値に異常がないことから、放射性物質の放出はなかったものと評価した。
+
+　調査の結果、以下のことがわかった。
+・電源ケーブルと電工ドラムの接続部において金属部分および樹脂部分が溶融・炭化していた。
+・電源ケーブルと電工ドラムの接続状態が緩めであったため、テープで固定していた。
+・作業員は、電工ドラムが干渉する作業時に、電源ケーブルを接続した状態で電工ドラムを数回に亘って移動させており、その際、電源ケーブルの接続状態を確認していなかった。
+
+　以上のことから、発煙の原因は、接続当初から電源ケーブルの接続状態が緩めであった上に、電工ドラムを移動させた際、張力が加わったことから、接続部が徐々に緩み接触面が減少し、過熱して発煙に至ったものと推定した。
+　対策として、以下のことを実施するとともに関係箇所に周知する。
+・電工ドラムを使用する際には、作業前に接続状態を確認する。
+・電源ケーブルを接続した状態で電工ドラムを移動する際には、接続状態を確認する。
+・電源ケーブルを接続した状態でその場を離れる際には、離れる前後に接続状態を確認する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主排気筒モニタ室（非放射線管理区域）における発煙および主排気筒モニタの一時的な欠測について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/06 18:12:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

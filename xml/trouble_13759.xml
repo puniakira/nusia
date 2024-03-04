@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[Ｂポンプ入口配管については、外観観察等の詳細調査、Ａポンプについては、グランド部の点検を実施した。
+１．原因調査
+【Ｂポンプ入口配管付近での蒸気漏れ】
+（１）Ｂポンプ入口配管の調査
+（外観観察）
+当該配管のベント管付け根付近に有意な外面腐食はなかった。ベント管付け根付近の浸透探傷試験※１の結果、同配管に接続するベント管と管台をつなぐ溶接部に沿った浸透指示模様（周方向：長さ約３５ｍｍ）が認められたため、当該部を切り出し、メーカ工場等にて破面観察等の調査を実施した。
+また、ベント管の外観観察の結果、エルボ頂部に凹みがあることを確認した。
+
+（過去の点検履歴等の確認）
+当該ベント管の施工履歴を確認した結果、プラント建設当初から設置されており、これまで取替え等の実績がないことを確認した。
+過去の点検実績を確認したところ、第２１回定期検査（２００２年１１月）の直前に配管の振動計測を実施しており、問題はなかった。また、第２７回定期検査中（２０１１年１月）にポンプ入口配管の減肉調査に合わせ当該部を目視にて確認した結果、漏れ跡等の異常は認められなかった。
+
+（２）工場調査結果
+漏えい箇所を対象に、Ｘ線ＣＴ調査を実施した結果、浸透指示模様と同様の位置に約４２ｍｍの貫通指示を確認した。
+破面観察の結果、おおむね平坦でビーチマーク模様※２を確認した。また、模様の様相から、ベント管外表面を起点にきずが発生し、内側に進展したと判断した。
+ベント管頂部の凹み部分を観察した結果、深さ約０．６ｍｍであり、表面に接触痕が認められた。
+なお、材料分析の結果、材質に問題はない。溶接部について放射線透過試験※３およびＸ線ＣＴ調査を実施した結果、溶接欠陥等の異常は認められなかった。
+
+（３）蒸気漏えいのメカニズムに係る調査
+（架台梁※４との接触に関する調査）
+ベント管切出し前に、ベント管頂部と架台梁の隙間を計測した結果、約５ｍｍであったことを確認した。
+ベント管の上部にある架台梁との接触の可能性を調査するため、架台梁の外観観察を実施した結果、ベント管頂部の凹み部分と同様に縦約１０ｍｍ×横約１５ｍｍの接触痕を確認した。
+ポンプ入口配管およびベント管は、プラント運転により熱伸びする箇所であり、その熱伸び幅は約５．５ｍｍと評価した。このため、プラント運転時には、ベント管頂部と架台梁が接触していたと推定した。
+
+（架台梁の施工履歴）　
+架台梁の施工履歴を確認した結果、第２１回定期検査の直前（２００２年１１月）のプラント運転中に、入口配管の振動測定を実施するため、一時的に取り外していたことを確認した。取り外した架台梁については、第２１回定期検査開始後、取外し前の状態より僅かに下方にずれた状態で復旧した可能性があると推定した。
+
+（きずの発生・進展に関する調査）
+ベント管頂部と架台梁の接触により、ベント管付け根部には、曲げ応力が作用し、ベント管頂部が固定された状態となっていた。さらに、ポンプの運転に伴う振動により、疲労限度※５を超える繰返し応力が加わることが分かった。
+過去のＢポンプの運転履歴を調査した結果、第２１回定期検査（２００２年１１月）以降、６サイクル運転しており、破面観察の結果等も踏まえると、きずは、第２１回定期検査終了後のプラント運転時に発生し、Ｂポンプの運転に伴い、進展したと推定した。
+
+（４）類似箇所の調査
+Ａ、Ｃポンプのベント管の外観観察を実施した結果、ベント管頂部に接触痕がないことを確認した。また、浸透探傷試験を実施した結果、異常は認められなかった。
+
+【Ａポンプグランド部の調査】
+（グランド部の点検等）
+グランド部の分解点検前に、パッキン押さえの取付状態を確認した結果、ナットは均一に締め付けられており、緩み等はなく異常は認められなかった。
+なお、グランド部のパッキンについて、増し締めしたところ、シール水の排水量が低下したことを確認した。
+グランド部を分解点検した結果、グランド部のパッキンおよびその周辺部に異物混入や有意なきず等の異常は認められなかった。
+
+（運転状況の調査）
+今運転サイクル中は、ＡおよびＢポンプの２台が運転していた。Ｂポンプ入口配管の蒸気漏れ発生後、同ポンプから停止中のＣポンプに切り替えるために、Ｃポンプを起動し、一時的に３台運転とした。
+ポンプの３台運転中は、ポンプ入口の圧力が僅かに上昇する傾向にあり、今回も同様の傾向が認められたことから、通常程度の排水量を維持できるよう、運転員がポンプのシール水圧力を上昇させ、調整した。
+Ｂポンプを停止した後、その後、排水量が通常よりも増加していることを確認したため、シール水圧力を低下させたが、排水量に変化はなかった。
+
+（日常的なグランド部の保守作業）
+シール水の排水量の増加を確認した場合は、グランド部の通常の保守作業としてパッキンを増し締めする。今回は、近傍で蒸気漏れが発生しており、速やかな増し締めが困難であること等から、Ａポンプを停止して点検した。
+
+※１：試験体表面に開口しているきずを目で見やすくするため、可視染料の入った高浸透性の液を浸透させた後、余分な浸透液を除去し、現像剤により浸透指示模様として観察する方法
+※２：疲労割れに観察される特徴的な破面模様の一つで砂浜に残る波跡に似た縞模様
+※３：試験対象物を透過する放射線を利用して、試験対象物の内部構造等（内部欠陥の有無等）を画像化することにより確認する手法
+※４：設備やグレーチング等を設置する構造物のうち水平面にかけられている部材
+※５：疲労損傷を起こす応力
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[当該ポンプを停止した上でグランド部の点検等を行うため、２０２４年１月２２日９時５分から電気出力を４０％まで負荷降下を開始し、同日１２時２２分に電気出力が４０％に到達した。
+
+損傷したベント管を新品に取り替え、健全性を確認した後、２月７日３時０分に出力上昇を開始した。その後、Ｃポンプを起動し、２月２８日０時５３分に定格熱出力一定運転に復帰した。定格熱出力一定運転復帰後、ポンプの運転をＡ、ＣポンプからＡ、Ｂポンプに切り替えた。]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13759</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2024/03/01 16:32:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[2]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[なし]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>122286</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2024/01/25 10:06:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202401220530]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[【Ｂポンプ入口配管付近での蒸気漏れ】
+損傷したベント管については新品に取り替えるとともに、入口配管等の熱伸びが発生しても接触しないよう架台梁の形状を変更する。
+発電所内で工事を実施した際は、工事完了後に高温状態の配管等が熱伸びで周辺機器と接触していないか確認する旨を社内マニュアルに反映する。
+
+【Ａポンプのグランドもれ】
+　なし]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2024/03/01 16:32:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[高浜発電所１号機は定格熱出力一定運転中（加圧水型軽水炉　定格電気出力８２万６千キロワット、定格熱出力２４４万キロワット）のところ、１月２１日２３時２５分頃に巡回点検を行っていた運転員が、タービン建屋１ＦにあるＢ給水ブースタポンプ※１入口配管（２次系）の一部から僅かな蒸気漏れを確認した。
+漏えい発見時は、３台ある給水ブースタポンプの内２台が運転中（Ａ・Ｂ）でしたが、１月２２日０時４６分に待機中のＣ給水ブースタポンプを起動し、１時２９分にＢ給水ブースタポンプを停止した。
+
+３時００分に漏えい箇所を系統から隔離し、周辺温度が充分に低下したことを確認したうえで、当該部配管の点検調査を開始することとしていた。その後、運転員が運転中の給水ブースタポンプ２台の状態を点検していたところ、５時００分頃にＡ給水ブースタポンプのグランド部※２から堰内への２次系冷却水の漏えい量が通常よりも多いことを確認した。点検の結果、現時点でプラントの運転状態には問題ないものの、今後の運転に万全を期すため、当該ポンプを停止した上でグランド部の点検等を行うこととした。
+
+このため、９時５分から電気出力を４０％まで負荷降下を開始し、１２時２２分に電気出力が４０％に到達した後、運転員が現場を確認したところ、Ｂポンプ入口配管のベント管※３付け根付近からの蒸気の僅かな立ち昇りを確認した。
+
+本事象による環境への放射能の影響はない。
+
+※１：主給水ポンプの吸込みを補助するために設置している装置
+※２：ポンプの軸シール部であり、内部流体が、回転軸の貫通部から外部に漏えいしないよう封じている。
+※３：入口配管への通水時の空気抜きを目的として設置している管
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-関西-T013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【Ｂポンプ入口配管付近での蒸気漏れ】
+第２１回定期検査（２００２年）の架台梁の復旧作業において、ベント管頂部と架台梁との隙間が十分に確保されず、プラント運転中は配管等の熱伸びによりベント管頂部と架台梁が接触し、ベント管付け根部に曲げ応力が発生する状態となっていた。
+この状態でＢポンプの運転に伴い、ベント管付け根部に振動も加わることで、きずがベント管の外表面に発生し、内面へ徐々に進展し貫通に至り、蒸気漏れが発生したと推定した。
+
+【Ａポンプグランド部からのシール水排水量増加】
+Ａポンプについては、設備の健全性に問題がないと判断した。ポンプの運転に伴ってパッキンと回転軸との隙間が僅かに変化し、グランド部からの排水が増加する場合があり、今回も同様の事象となっていたと推定した。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[01]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[中間報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高浜発電所１号機 Ｂ給水ブースタポンプ入口配管からの蒸気漏れ等に伴う出力抑制]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[電気出力の抑制が必要と判断した日時]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>872</DENKI_OUTPUT_NBR>
+	<PRESS_ATTACH_ID>122288</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2024/01/25 10:06:29]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13759</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[051]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[配管]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>35</SORT_NO>
+						<BUHIN_CODE><![CDATA[051]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+			<KIKI_SEQ_NBR>2</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13759</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[312]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>2</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[軸封部]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>77</SORT_NO>
+						<BUHIN_CODE><![CDATA[312]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動ポンプ本体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[253]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[21]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力抑制]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>13759</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

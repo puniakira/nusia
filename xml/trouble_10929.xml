@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10929</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/05/18 10:20:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4713</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/04/12 16:57:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201003142240]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/05/18 10:20:01]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事象
+  3月14日22時40分、通常運転中の伊方発電所2号機において、タービン建家地下1階に設置している低圧給水加熱器ドレンポンプＡのモータ過負荷を示す信号が発信し、ポンプが自動停止しました。その後の調査の結果、当該ポンプのモータ下部の軸受が固着しており、軸の表面および軸受を支持する下部ブラケット内面に傷が確認され、この傷以外には異常がないことを確認したことから、軸受の固着により軸受の外輪が軸とともに下部ブラケット内面と接触したまま回転したため、モータの負荷が増加して過負荷に至ったものと推定されました。
+  このため、固着した軸受を新品に取替えるとともに、傷が認められた軸および下部ブラケット内面の補修を行い、当該ポンプを運転して異常がないことを確認し、3月31日、通常状態に復旧しました。
+
+○原因
+  当該ポンプのモータについては、平成21年12月24日のグリース注入後より下部軸受の温度が徐々に上昇傾向にあり、調査の結果、軸受接触部が摩耗損傷し、軸受部のグリースが黒く変色して劣化していることを確認しました。
+  このことから、グリース注入時に軸受に異物が混入し、軸受のボールが拘束されて軸受温度が上昇してグリースを劣化させた結果、軸受が潤滑不良となり、軸受全体が焼き付いて軸に固着したため、当該ポンプのモータが過負荷となり保護装置により自動停止したものと推定されました。
+
+○対策
+モータの固着した軸受を新品に取り替えて、傷が認められた軸および下部ブラケット内面の肉盛補修を行い、復旧しました。 
+グリース注入時の異物混入を防止するため、グリース注入に使用する工具の保管・管理の強化およびグリース注入作業における注意事項を作業要領書に追記し、関係者に周知しました。 
+当該ポンプ等の軸受部に温度の上昇等の兆候が見られた場合は、軸受温度等の監視強化を図るとともに、モータ分解点検等の対策を実施します。 
+
+詳細は添付図に掲載した報告書一式参照
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-四国-S015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[低圧給水加熱器ドレンポンプのモータ過負荷による自動停止]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/04/12 16:57:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

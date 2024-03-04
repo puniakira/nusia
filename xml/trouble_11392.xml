@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11392</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/12/16 23:38:21]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>27288</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/08/11 04:06:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201108101050]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/12/16 23:38:21]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　平成23年８月10日午前10時50分、定期検査中の当所１号機において、残留熱除去系に関する警報が発生し、原子炉の崩壊熱を除去するために運転していた残留熱除去系ポンプ（Ｂ）が停止した。
+　警報の発生状況について確認したところ、漏えい検出系に関する点検作業のために事前の安全処置として、論理回路のヒューズを引き抜く作業を実施したことにより残留熱除去系の弁が閉止し、これに伴いポンプが停止し警報が発生したことがわかった。
+　このためヒューズを挿入し、警報が解除されたことならびにその他の異常が認められなかったことから、午前11時に停止した残留熱除去系ポンプ（Ｂ）を手動にて再起動し、運転に問題がないことを確認し。これに伴う原子炉の状態に有意な変化はなかった。
+
+（安全性、外部への影響）
+　本事象による外部への放射能の影響はない。　　
+
+（対応状況）
+　調査の結果、漏えい検出系点検作業において追加で実施すべき安全処置の一部について実施されていなかったため、警報が発生したことがわかった。点検作業の実施にあたっては作業ステップ毎に必要な安全処置を複数箇所に実施していたが、追加の安全処置を行う際に、安全処置の依頼者及び実施者の双方での確認不足や思い込みがあったために、安全処置の実施がなされなかったものだった。
+　対策として、追加の安全処置を依頼する場合には、追加であることを分かり易く明示し、必ず追加依頼内容について依頼者から実施者へ個別に説明を行い、確実に安全処置が実施されるような方法に現行のルールを改善した。
+　また、本件について関係者に事例周知を行い、安全処置の追加の際に注意すべき内容について再徹底し再発防止を図ることとした。　　]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　定期検査中における残留熱除去系に関する警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/08/16 08:53:42]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

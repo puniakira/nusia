@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１　状況調査
+１．１　点検対象制御棒
+全挿入措置を実施したハフニウム板型制御棒を含め，第14サイクルに使用していた全てのハフニウム板型制御棒13本を対象とした。
+
+１．２　点検方法
+　ハフニウム板型制御棒の点検は，社団法人日本機械学会「発電用原子力設備規格　維持規格（2002年改訂版）JSME S NA1-2002」を準用し，18%中性灰色カード上の幅0.8mmの黒線が目視により確認できる精度を持つ水中テレビカメラを用いて，機器の変形，部品の破損，脱落および機器表面における異常の有無を確認した。なお，シース表面に付着物等があり，適正な観察ができない場合は，ブラッシング治具を準備し，付着物を除去した後，目視点検を行った。また，タイロッドにひび割れと思われる部位が確認された場合には，タイロッドをはさんで反対側のシース間にライトを設置し，透過光の有無によりひび割れの貫通の可能性を確認した。
+
+１．３　点検結果
+　ハフニウム板型制御棒の目視点検を行った結果，13本のうち5本のハフニウム板型制御棒のシースおよびタイロッドにひび割れを確認した。これら5本の状況を以下に示す。
+１．３．１　シースのひび割れの状況
+　今回確認されたシースのひび割れは，主に第１ノードで発生しており，第１ノードの１段目と２段目のコマ溶接部の間，および３段目と４段目のコマ溶接部の間で発生していた。また，第２ノードの１段目と２段目のコマ溶接部の間で発生しているものもあった。これらのひび割れは，シースとタイロッドのスポット溶接部近傍，コマ溶接部近傍で水平方向に進展していることが確認された。ただし，スポット溶接部，コマ溶接部そのものにはひび割れはなく，スポット溶接部，コマ溶接部は健全であった。第１ノードで発生したひび割れの中には，シース１面分を水平方向に横切り，さらに曲げ加工部を通過して反対側のシースを横切っているものも確認された。なお，シースの一部欠損や折れ曲がりは確認されなかった。
+１．３．２　タイロッドのひび割れの状況
+　シースにひび割れが確認された5本の制御棒全てにタイロッドのひび割れが確認された。タイロッドのひび割れは，それぞれの制御棒について2箇所確認されており，これらの発生場所はいずれもシースに大きな水平方向のひび割れが確認された近傍である。なお，タイロッドにひび割れが確認された箇所については，透過光を用いてひび割れの貫通の可能性を確認した結果，ひび割れが確認された5本の制御棒について光が透過したことから，貫通したひび割れであることを確認した。
+
+２　原因調査
+　１項の状況調査結果をもとに作成した要因分析図に基づき，ひび割れの発生原因の調査を行った。
+
+２．１　製造履歴調査
+　ハフニウム板型制御棒の材料検査証明書および製造時の品質記録を調査した結果，使用されている材料は，JIS規格等の規定値を満足しており，各部の寸法は，設計寸法を満足していた。また，製作手順および製造管理も適切に行われていたことから，品質管理に問題ないことを確認した。一方，中性子吸収材であるハフニウムの板材には，調達ルートの異なる２種類（以下，「タイプＡ」，「タイプＢ」という。）があり，今回ひび割れが確認された5本のハフニウム板型制御棒のハフニウム板材には，「タイプＡ」が使用されていることを確認した。
+
+２．２　運転履歴調査
+２．２．１　ひび割れが確認されたハフニウム板型制御棒の使用履歴
+　ひび割れが確認されたハフニウム板型制御棒5本の使用履歴を確認した結果，5本いずれも第9回定期検査にて原子炉に装荷し，第14回定期検査に伴う停止までの5サイクル（第10～14サイクル）使用していた。また，ひび割れが確認されたハフニウム板型制御棒5本の熱中性子照射量は，4本が7.1×1021n/cm2（高速中性子照射量は7.4×1021n/cm2），１本が7.3×1021n/cm2（高速中性子照射量は7.6×1021n/cm2）であった。なお，熱中性子照射量および高速中性子照射量は，ノード毎の平均照射量のうち最大値を記載している。
+※本報告書において熱中性子照射量と高速中性子照射量が用いられているが，ハフニウム板型制御棒は運転管理上，熱中性子照射量で管理しており，ここで示す高速中性子照射量は換算係数を熱中性子照射量に乗ずることにより求められる値である。高いエネルギーを持つ高速中性子は炉内構造物の機械的性質等に影響を与えることから，機械的性質等の評価に関する記載については高速中性子照射量を，制御棒の照射履歴管理に関しては熱中性子照射量を記載している。熱中性子　：軽水炉では，高速中性子の速度を遅くして核分裂を起こしやすくしている。この速度を遅くした中性子を熱中性子という。高速中性子：核分裂によって発生した中性子は大きなエネルギーを持っており，速度も速い。このような中性子を高速中性子という。
+２．２．２　原子炉圧力および原子炉水温度
+　ひび割れが確認されたハフニウム板型制御棒を原子炉内で使用していた第10～14サイクルの運転期間中の原子炉圧力および原子炉水温度を調査した結果，異常は認められなかった。
+２．２．３　原子炉水の水質
+　ひび割れが確認されたハフニウム板型制御棒を原子炉内で使用していた第10～14サイクルの運転期間の原子炉水質を調査した結果，導電率，pHおよび塩素イオン濃度はいずれも基準値を満たしていた。また，溶存酸素は水素注入を実施している期間は50～100ppb程度，水素注入を実施していない期間は300ppb程度で推移していた。
+
+２．３　設計評価結果の調査
+　通常運転時に，ハフニウム板型制御棒のシース，タイロッドおよびコマにスクラム時と地震時の応力が同時に作用した場合の発生応力を調査した結果，許容値を十分に下回っていることを確認した。
+
+２．４　残留応力調査
+　ハフニウム板型制御棒のコマ溶接部近傍のシース表面における残留応力を調査した結果，コマ溶接部近傍には，最大300MPa程度の引張残留応力を確認した。
+
+２．５　前回ひび割れが確認された使用済ハフニウム板型制御棒との比較
+　今回ひび割れが確認されたハフニウム板型制御棒5本と前回ひび割れが確認された使用済ハフニウム板型制御棒13本について，以下の比較を行った。
+（１）ひび割れの発生部位・位置
+　第1ノードの1段目と2段目のコマ溶接部の間，および3段目と4段目のコマ溶接部の間で多く発生していた。また，第2ノードの1段目と2段目のコマ溶接部の間で発生しているものもあったが，いずれもコマ溶接部間で発生していた。また，シースに大きな水平方向のひび割れが確認された近傍でタイロッドにひび割れが確認されており，ひび割れの発生部位・位置は同様であった。
+（２）ひび割れの形状
+　ひび割れは水平方向に進展しており，ひび割れの形状は同様であった。
+（３）材料
+　シース，タイロッドの材料には前回ひび割れが確認された使用済ハフニウム板型制御棒と同じSUS316L材が使用されていた。また，中性子吸収材であるハフニウムの板材には，前回ひび割れが確認された使用済ハフニウム板型制御棒と同じ「タイプＡ」が使用されていた。
+（４）応力条件
+　コマ溶接部近傍に発生していると推定される引張残留応力は最大300MPa程度であり，応力条件は同様であった。
+（５）環境条件
+　原子炉水の溶存酸素は水素注入を実施している時期を除いて300ppb程度であり，環境条件は同様であった。
+（６）高速中性子照射量
+　今回ひび割れが確認されたハフニウム板型制御棒の高速中性子照射量はノード毎の平均照射量のうち最大値で7.4×1021 n/cm2および7.6×1021 n/cm2であった。これは，前回ひび割れが確認された使用済ハフニウム板型制御棒の第１ノード平均の高速中性子照射量7.9×1021 n/cm2～8.9×1021 n/cm2と同様に高い高速中性子照射量であった。上記比較の結果，ひび割れの発生部位・位置，ひび割れの形状，材料，応力条件，環境条件および高速中性子照射量がほぼ一致していることが確認された。
+
+２．６　調査結果まとめ
+（１）ハフニウム板型制御棒の強度に関しては，製造履歴の調査結果から，使用されている材料の化学成分および機械的性質はJIS規格等の規定値を満足しており，品質管理に問題が無いことから，ひび割れの原因とはならないことを確認した。
+（２）設計評価の調査結果から，通常運転時のスクラム発生応力を考慮した設計になっていることを確認した。
+（３）運転履歴の調査結果から，ひび割れが確認された制御棒を原子炉内で使用していた第10～14サイクルの運転期間の原子炉圧力および原子炉水温度に異常は認められなかった。また，原子炉水の溶存酸素濃度は，水素注入を実施している時期を除いて300ppb程度であった。
+（４）前回浜岡３号機で確認された使用済ハフニウム板型制御棒のひび割れの原因は，照射誘起型応力腐食割れ（以下，「IASCC」という。）と推定している。一方，今回ひび割れの確認されたハフニウム板型制御棒は，前回ひび割れが確認された使用済ハフニウム板型制御棒と，ひび割れの発生部位・位置，ひび割れの形状，材料，応力条件，環境条件および高速中性子照射量がほぼ一致していることを確認した。また，今回ひび割れの確認されたハフニウム板型制御棒は，前回ひび割れが確認されたハフニウム板型制御棒と同様に，いずれも4.0×1021 n/cm2を超える熱中性子照射を受けており，4.0×1021 n/cm2以下の熱中性子照射を受けたハフニウム板型制御棒でひび割れは確認されなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8571</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/01/05 14:48:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3637</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/12/14 22:42:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200608071400]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回ひび割れの確認されたハフニウム板型制御棒は，前回ひび割れが確認された使用済ハフニウム板型制御棒と，ひび割れの発生部位・位置，ひび割れの形状，材料，応力条件，環境条件および高速中性子照射量がほぼ一致している。また，保安院がひび割れ発生の可能性があると判断し，全挿入位置での運転を指示した熱中性子照射量4.0×1021 n/cm2を超えるハフニウム板型制御棒でひび割れが確認されたが，熱中性子照射量4.0×1021 n/cm2以下のハフニウム板型制御棒ではひび割れは確認されておらず，平成18年5月26日に保安院に提出した「浜岡原子力発電所使用済ハフニウム板型制御棒のひび割れ調査結果について」の対応方針に影響を及ぼすものではないことから，再発防止対策は以下のとおりとする。
+　浜岡原子力発電所３号機では，平成18年5月26日提出の「浜岡原子力発電所使用済ハフニウム板型制御棒のひび割れ調査結果について」で計画したとおり，第14回定期検査中に原子炉内より取り出した13本のハフニウム板型制御棒をボロンカーバイト型制御棒に取り替える。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[経済産業省原子力安全・保安院（以下，「保安院」という。）の指示文書「制御棒のひび等に関する点検について（平成18・01・19原院第１号）」に基づき，第14回定期検査中の浜岡原子力発電所３号機（定格電気出力110万ｋＷ）において，平成18年8月7日9時30分より，使用済ハフニウム板型制御棒13本の目視点検を開始した。同日14時00分頃，1本目のハフニウム板型制御棒のシースおよびタイロッドにひび割れがあることを確認した。当該制御棒については，「発電用原子力設備に関する技術基準を定める省令」において，制御棒の物理的性質として要求されている寸法安定性を保持していないと判断した。その後，残り12本のハフニウム板型制御棒について点検した結果，13本のうち5本について同様のひび割れを確認した。なお，本事象に伴う外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-T006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１　発生原因の推定
+　原因調査結果から，今回ひび割れが確認されたハフニウム板型制御棒は，前回ひび割れが確認された使用済ハフニウム板型制御棒と，ひび割れの発生部位・位置，ひび割れの形状，材料，応力条件，環境条件および高速中性子照射量がほぼ一致していることから，今回確認したひび割れの発生原因も同様に以下のとおりと推定される。
+（１）SUS316L材は，高速中性子照射量1×1021n/cm2程度でIASCC感受性を有することおよび，シースとハフニウム板の間のギャップにおいて腐食生成物が堆積して隙間環境となりやすいことから，シースの裏面には粒界腐食が生じやすくなる。このような粒界腐食に，溶接残留応力，ハフニウムの照射成長による応力，腐食生成物の体積変化による応力等が作用して，コマ溶接部近傍等にIASCCによるひび割れを生じさせた可能性がある。
+（２）平成18年5月26日提出の「浜岡原子力発電所使用済ハフニウム板型制御棒のひび割れ調査結果について」で報告したとおり，ある程度照射が進むとハフニウム板の摺動抵抗が増加する結果，ハフニウム板の照射成長に伴い，シースには制御棒の軸方向に引張応力が生じる。
+（３）この結果，（１）項において発生していたコマ溶接部近傍等のひびを起点として，IASCCによりシースの水平方向に大きなひび割れが進展したものと考える。また，タイロッドを貫通するひび割れは，タイロッドのスポット溶接部近傍に生じた微小なひび割れが，シースのひび割れ進展に伴いタイロッドのスポット溶接部を介してタイロッドに引張応力が働いたため，生じたものと考えられる。
+
+２　構造健全性評価
+２．１　構造健全性評価ハフニウム板型制御棒に確認されたひび割れについて，スクラム時と地震時の応力が同時に働いた場合においてもハフニウム板型制御棒の構造健全性が確保されていたことを確認するため，5本のハフニウム板型制御棒のシースおよびタイロッドに確認されたひび割れを保守的にモデル化し，健全性評価を行った。評価の結果，スクラム時およびS2地震時においてもハフニウム板型制御棒の各部に作用する応力・せん断力は許容値以下であり，ハフニウム板型制御棒の構造健全性は確保されており，直ちに安全上問題となるものではなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所３号機　ハフニウム板型制御棒のひび割れについて]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/01/05 14:48:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8571</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+			<TROUBLE_ID>8571</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8571</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シースおよびタイロッド]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8571</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8571</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8571</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8571</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地点検結果
+（１）配管損傷状況：損傷部はＣ系統入口近傍にあり、管軸方向に長さ約４００ｍｍ、周方向に最大約７０ｍｍの開口部が認められた。
+（２）損傷部以外のクリーンアップ配管及び弁の健全性確認結果
+［１］配管・Ａ～Ｃ給水管系外ブロー弁
+ａ．外観点検結果：配管の外面点検の結果、異常は認められなかった。損傷部からＣ－給水管系外ブロー弁の内面点検の結果、弁シート面からの漏えい等の異常は認められなかった。また、配管内部観察の結果、Ａ・Ｂ－給水管系外ブロー弁からのシート漏れは認められなかった。
+ｂ．肉厚測定結果：配管のうち枝管（Ａ・Ｂ系統）との配管接続部及び、エルボ部についての肉厚測定の結果、許容範囲内であり、減肉等の異常は認められなかった。
+ｃ．浸透探傷検査（以下ＰＴという）結果：配管の溶接線外面ＰＴの結果、有意な指示は認められなかった。
+［２］Ａ～Ｃ主給水管系外ブロー止め弁
+ａ．分解点検結果：異常は認められなかった。
+ｂ．ＰＴ結果：弁シート面等に有意な指示は認められなかった。
+２．メーカ研究所調査結果
+（１）外観観察結果：損傷箇所は管軸方向に長さ約４００ｍｍのき裂が１本見られ、開口部の中央は管台の溶接止端部にほぼ対応しており、最大幅約６５ｍｍで開口部近傍は変形を伴っていた。また、配管内面にはエロージョン等の減肉は認めらず、外表面についても傷・打痕等は認められなかった。
+（２）寸法測定結果：破面近傍の肉厚は、配管損傷に伴う変形による肉厚変化が確認された。また、き裂先端から約５０ｍｍ離れた位置での外径計測の結果、若干の膨らみが認められた他、異常は見られなかった。
+（３）破面観察結果
+ａ．破面マクロ観察：破面は比較的粗く、溶接不良等の初期欠陥及び腐食・エロージョンは認められなかった。
+ｂ．走査型電子顕微鏡（ＳＥＭ）拡大観察結果：破面全域にわたり延性破面の特徴であるディンプルが認められた。また、低サイクル疲労の特徴であるビーチマーク、高サイクル疲労の特徴であるストライエーション状模様は認められず、脆性破面も認められなかった。
+ｃ．断面ミクロ観察結果：破面近傍及び健全部とも組織に異常は認められなかった。また、破面の管内外面端にシェアリップが観察されたことから、割れは板厚に対して垂直方向の応力によるものであり、そのシェアリップの状況から割れは外面付近から外面及び内面に向かって進行し、最終破断は内面端と推定される。
+　このことから、今回の損傷は内圧の異常昇圧によるものと思われる。
+（４）硬さ計測結果：破面から離れた健全部の硬さに異常は認められなかったが、破面の近傍では変形によるものと考えられる硬化が認められた。
+（５）引張試験、成分分析結果：異常は認められなかった。
+（６）考察：以上の調査結果から今回の配管損傷は、腐食・エロージョン・疲労等によるものではなく、配管内圧の異常昇圧による延性破壊と考えられる。
+３．配管の延性破壊に係る解析評価
+　今回の事象は、２次系クリーンアップ完了後のＡ～Ｃ給水管系外ブロー弁及びＡ～Ｃ主給水管系外ブロー止め弁の閉止操作により閉じこめられた２次系水が、その後の出力上昇操作に伴う主給水系統の温度上昇により熱膨張し内圧が上昇したために配管損傷に至ったものと推定されることから、以下のとおりクリーンアップ配管の温度評価及び応力解析を実施した。
+（１）クリーンアップ配管の温度・圧力評価：クリーンアップ配管をモデル化し損傷時の運転温度からクリーンアップ配管の温度を評価した結果、配管内の水の平均温度は１０２．１℃となり、クリーンアップ配管内密封された水を初期温度の３５℃から１０２．１℃　まで加熱した場合について有限要素法によるモデルで解析した結果、配管内圧は５０．０ＭＰａ（５１０ｋｇ／ｃｍ＾２）となることを確認した。
+（２）クリーンアップ配管の応力解析：（１）項で求めた配管内圧５０．０ＭＰａ（５１０ｋｇ／ｃｍ＾２）の場合の当該損傷部の応力を有限要素法により解析した結果、最大主応力は損傷したＴ継手の補強板外周すみ肉溶接止端部で発生し、板厚方向で平均３６４Ｎ／ｍｍ＾２（３７．１ｋｇ／ｍｍ＾２）になることを確認した。一方、円筒形圧力容器の破壊応力は、Ｆａｕｐｅｌの実験式により評価すると４２０Ｎ／ｍｍ＾２（４２．８ｋｇ／ｍｍ＾２）となり、実験値とのバラツキ１５％を考慮すると３５７Ｎ／ｍｍ＾２（３６．４ｋｇ／ｍｍ＾２）で破壊する可能性があることが確認された。
+　以上のことから、配管内圧が５０．０ＭＰａ（５１０ｋｇ／ｃｍ＾２）の場合、当該部の発生応力が破壊応力を超え、配管損傷が発生することを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[265]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2010</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/22 11:52:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2607</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200010262350]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．２次系クリーンアップ配管のうち、Ａ～Ｃ給水管系外ブロー弁（ＦＷ－１１８Ａ～Ｃ）下流側からＡ～Ｃ主給水管系外ブロー止め弁（ＦＷ－１１９）上流側までの範囲について取り替えた。
+２．クリーンアップ停止操作はＡ～Ｃ給水管系外ブロー弁（ＦＷ－１１８Ａ～Ｃ）を閉とし、温度上昇に伴う昇圧防止のため出力上昇完了　後Ａ～Ｃ主給水管系外ブロー止め弁（ＦＷ－１１９）を閉止とする。
+３．今回の事象を踏まえて、温度上昇による昇圧の可能性がある類似箇所を抽出し、必要に応じ昇圧防止対策を講じることとする。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜３号機は、第１８回定期検査の調整運転中（５０％～７５％への出力上昇中）の平成１２年１０月２６日２３時５０分頃（約５８％出力：約４７５ＭＷ）、タ－ビン建屋２階において、異音の発生を運転員が確認した。
+　このため、中央制御室において各運転パラメータを確認したが、異常は認められなかった。直ちに運転員が異音が確認された現場周辺の点検を行ったところ、１０月２７日００時１２分頃、クリーンアップ配管（主給水ブローラインヘッダのＣ系統入口近傍：タ－ビン建屋３階）が損傷しており、２次系水が床面に漏えいした跡（水溜まり）を発見した。
+　当該配管は、２次系クリーンアップ時に使用する配管であり、出力運転中は使用されておらず調整運転に支障はなかった。
+　また、漏れた２次系水は約０．３４ｍ＾３と推定され、漏えいによる他機器への影響等はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-関西-M017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　今回の配管損傷は、２次系クリーンアップ配管のＡ～Ｃ給水管系外ブロー弁とＡ～Ｃ主給水管系外ブロー止め弁間に満水のまま閉じこめられた２次系水が、出力上昇に伴う給水温度の上昇により加熱され膨張したことにより配管内圧が上昇し、配管の破壊応力を超えたため配管損傷に至ったものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[２次系クリーンアップ配管の損傷について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（異音発生）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/22 11:52:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2010</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[補給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[265]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2010</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

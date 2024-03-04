@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8111</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/02/21 11:42:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3428</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/02/20 16:46:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20060217]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/02/21 11:42:38]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成9年に（株）日立製作所（以下「日立」）が実施した9×9燃料の原子炉設置変更許可申請の安全解析においてデータ入力の一部に不適合があったことから、解析結果を見直した。プラント動特性解析コード（REDY）を用いるプラント安定性解析、運転時の異常な過渡変化解析、事故解析が対象となる。
+REDYへは、ドップラ反応度（Δk）を遅発中性子割合（β）で除した動的ドップラ反応度（Δk／β）を入力する。今回の不適合では、βの値として0.0053を用いるべきところ、異なる値（0.0055）を用いて誤った動的ドップラ反応度を算出し、REDYへ入力し安全解析を行っていた。
+原因としては、a．作業手順書の整備不足（解析担当者）、b．不明確な審査内容（審査者、承認者）、c．解析者に対する解析実施状況調査の不備（当社）があげられる。
+当社は是正処置、予防処置の観点から全解析者に対し、以下の2点について具体策の確立を求める。
+１.主たる解析コードだけではなく、コード間のデータ加工作業を含む解析業務全般に対する作業手順書の整備
+２.安全解析業務の各プロセスにおける審査方法の明確化（入力値の妥当性確認、計算プログラムの確認、入力が正確に行われたことの確認）
+
+一方当社は安全解析において次の対策を確立し、遂行していくものとする。
+１.解析者に対する解析実施状況調査
+２.解析者に対する監査
+３.解析実施状況調査に係る能力向上
+
+
+なお、平成8～9年に日立が実施した電源開発株式会社大間原子力発電所原子炉設置許可申請の解析において、MOX燃料集合体のGd入りウランペレット密度を約97％理論密度とすべきところ約95％理論密度として燃料集合体核特性計算コードに誤入力した不適合が二次審査中に判明し、解析結果を見直して同申請書添付書類の一部を補正しているが、原因と対策は上記と同様である。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-原電-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[9×9燃料採用時における安全解析コードへの入力不適合について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/20 17:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

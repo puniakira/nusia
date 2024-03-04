@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　原子炉水位が上昇し「原子炉水位高（L-8）」の警報が発生した原因について，以下の調査を実施した。
+（１）運転パラメータの調査結果
+　今回及び前回の原子炉起動時の運転パラメータについて調査を実施した結果，以下のことが確認された。
+ａ．原子炉水位
+（ａ）制御棒挿入から未臨界までの原子炉水位は安定しており，原子炉圧力が約6MPa以下になると上昇を始めている。これは，原子炉圧力が高圧復水ポンプの吐出圧力（6MPa）以下となると，給水系から原子炉に流入してくるためである。
+（ｂ）「原子炉水位高（L-7）」警報発生後，ＣＵＷ系への排出量増加操作（G33-F024開）にもかかわらず原子炉水位の上昇は継続し，原子炉圧力約4MPa付近からの原子炉水位の上昇傾向は，更に早くなっている。
+（ｃ）更に，M/D- RFP（Ａ）給水調節弁後弁等の閉操作やM/D- RFP（Ａ）の停止操作を行ったものの，原子炉水位の上昇は継続し「原子炉水位高(L-8)」の警報が発生した。（原子炉水位上昇率　最大5.7m３/h）
+（ｄ）前回定期検査時の原子炉水位の上昇傾向を確認した結果，上昇傾向はあるものの今回と比べて上昇量はわずかであった。（原子炉水位上昇率　最大2.4m３/h）
+
+ｂ．原子炉圧力
+（ａ）制御棒挿入により原子炉圧力は徐々に降下し，「原子炉水位高(L-7)」警報発生時は約5.2MPa，「原子炉水位高(L-8)」警報発生時は，約3.3MPaであった。
+（ｂ）制御棒挿入開始から「原子炉水位高(L-8)」警報発生までの原子炉圧力の降下量は，５時間で約3.7MPaであった。
+（ｃ）前回定期検査時の制御棒挿入開始時間から５時間後の原子炉圧力の降下量は約2.6MPaであり，今回の原子炉圧力の降下速度は，前回に比べて早いことが判った。
+
+ｃ．ＣＵＷ系排出量
+（ａ）原子炉水位の上昇が確認されてからＣＵＷ系の排出ラインの流量制御弁（G33-F024）によって排出量を増加（最大で21m３/h）させているが，約4MPa前後から排出量は徐々に低下しバイパス弁開操作前の排出量は約14m３/hとなった。
+（ｂ）これは，原子炉圧力が低下することによってＣＵＷ系排出ラインに設置されている流量制限器前後の差圧が低下することにより，流量制御弁（G33-F024）を全開しても排水量が低下するためである。
+
+ｄ．ＣＲＤ流量
+（ａ）ＣＲＤ流量は，通常運転中の約15m３/hとしていたが，原子炉水位の上昇が継続していたため約8m３/hに低下させている。
+
+ｅ．運転パラメータ調査結果のまとめ
+（ａ）原子炉水位の上昇速度が前回の定期検査時に比べ速かったのは，原子炉圧力の降下速度が速かったために高圧復水ポンプの運転に伴う給水系からの原子炉への流入量が多くなったためである。
+（ｂ）前回に比べて原子炉圧力の降下速度が速かったのは，今回の停止期間が非常に長期にわたったため，燃料の崩壊熱が少なく原子炉水の温度低下速度が速かったことによるものである。
+（ｃ）原子炉圧力の低下とともにＣＵＷ系の排出量に比べて原子炉への流入量が多くなったため，「原子炉水位高(L-8)」の警報に至った。
+
+（２）設備面の調査結果
+　原子炉水位に変化を与える設備の異常の有無について調査した結果，以下のことが確認された。
+ａ．ＣＵＷ系
+（ａ）ＣＵＷ排出流量の減少
+　原子炉水位の上昇傾向が確認されてから運転員による流量制御弁(G33-F024)の「開」操作が行われ，その操作に伴って排出流量が増加していること。又，流量制御弁(G33-F024)について入出力特性試験を実施した結果，異常がないことが確認されたことから，流量制御弁(G33-F024)や排出ラインに異常はなく，原子炉水位上昇の要因とは考えられない。
+（ｂ）ＣＲＤ系
+　ＣＲＤの冷却水流量は，通常運転中の流量（約15.0m３/h）であり原子炉水位上昇の要因とは考えられない。
+
+ｂ．給水系
+（ａ）給水制御系
+　給水制御系の制御機能は，原子炉水位の変化に追従し良好な制御を行っており，原子炉水位上昇の要因とは考えられない。
+（ｂ）給水流量
+・給水系のどのラインから原子炉へ流入しているのかについて調査するため，高圧復水ポンプを運転（吐出圧力6MPa）した状態で，M/D- RFP側の配管及びT/D- RFP側の配管並びに原子炉給水ポンプバイパスラインの弁の開閉状態を変化させて各ラインからの流入量調査を実施した。（原子炉圧力容器は，大気圧の状態で実施）
+・この結果，M/D- RFP側のライン及び原子炉給水ポンプバイパスラインからの流量は僅かであり，T/D- RFPの吐出弁からの流量が支配的であることが判った。
+　これは，吐出弁それぞれのバランス管の口径と前後差圧から計算された流量とほぼ一致したことから，バランス管からの流出であると推定される。また，計測された原子炉への合計流量は約52m３/hであった。
+・ 一方，「原子炉水位高(L-8)」発生時の原子炉水位の推移において，原子炉水位が一定となった時（原子炉圧力約2MPaの時）のＣＵＷ排出量は30～40m３/h であり，ＣＲＤ流量等（約10m３/h）を差引くと給水系から原子炉へ流入している流量は，20～30m３/h程度であったと想定される。この流量の違いは，運転条件の違いのためのものと思われる。
+
+（３）操作面の調査結果
+　事象発生時に操作を実施した運転員からの聞き取り調査の結果，以下のことが確認された。
+ａ．原子炉水位の上昇傾向に伴い，通常の原子炉水位の調整操作としてＣＵＷ系の排出ラインによる排出量増加操作（G33-F024開）を実施した。
+
+ｂ．原子炉水位の上昇傾向を確認した時の各系統の運転状況及びこれまでの運転経験から原子炉水位の上昇は，給水系から原子炉への流入であると認識していた。
+
+ｃ．原子炉水位の上昇が継続していたため，更なる排出量増加操作（G33-F024開）を行ったが，原子炉圧力の低下に伴い排水量が低下傾向になったことから，次の操作を検討した。
+・停止中のＣＵＷポンプ（Ａ）の起動による排出量増加
+・ＣＵＷ系排出ラインにある流量制限器バイパス弁(G33-F025)の開操作による排出量増加
+・M/D-RFP（Ａ）停止による原子炉への流入量の低下
+
+ｄ．ＣＵＷポンプ（Ａ）の起動操作
+　手順書には，ＣＵＷポンプの起動条件として機器保護の観点から，ポンプケーシング温度が１２０℃以上になるようウォーミングを実施した後，起動するようになっている。今回も原子炉水位の上昇を確認してからウォーミングを実施していたが，「原子炉水位高(L-8)」警報発生までに停止中のＣＵＷポンプ（Ａ）を起動することができなかった。尚，ＣＵＷポンプ１台を停止しているのは，ドライウェル内点検時に原子炉圧力の降下量を極力少なくするためであり，以前（第９回定期検査まで）は，２台運転の状態でドライウェル内点検を実施していた。
+
+ｅ．ＣＵＷ排出流量制限器バイパス弁の開操作
+　ＣＵＷ排出流量制限器は，ＬＣＷ受タンクへの過流量防止用として設置されており，原子炉圧力が約4.0MPa以下（メーカー設計値）になると流量制御弁(G33-F024)が全開となっても排水量は低下傾向になる。原子炉の水位が上昇している場合には，流量制限器バイパス弁(G33-F025)を開操作して排出量を増加させることになるが，運転手順書には低圧時には明記されているものの高圧時の操作について明確に記載されていなかった。
+
+ｆ．M/D-RFP（Ａ）の停止
+　運転手順書にM/D-RFPの停止条件が「3.92MPa以下」と記載されていたため，運転手順書遵守の観点からM/D-RFP(A)を早めに停止しなかった。
+
+ｇ．「原子炉水位高(L-7)」の警報が発生した場合には，「原子炉水位」「原子炉圧力」「給復水系の状態」を確認した上で操作を実施することとしており，今回も原子炉水位を低下させるための操作を運転手順書に則り実施していた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[116]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2495</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/01/05 14:05:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2979</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/08/13 15:07:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408071006]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の事象の原因は，ＣＵＷ系による排水が間に合わなかったことによるものであるため，以下の対策を実施する。
+（１）ＣＵＷ系の排水能力を向上させるため，運転手順書にＣＵＷ系排出ラインの流量制限器バイパス弁 (G33-F025)の運用方法を明記する。
+（２）本事象（原子炉圧力の低下に伴う給水系から流入量増加、ＣＵＷ系排出ラインの流量制限器バイパス弁の開操作方法）について，全ての当直員を対象に事例研修を実施する。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/01/05 14:05:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所２号機は，第１５回定期検査後の原子炉起動中のところ，原子炉圧力7.0MPa到達後のドライウェル内点検中の平成１６年８月７日（土）２２時６分，「原子炉水位高（L-7）」の警報が発生した。
+　このため，原子炉水位の監視を強化するとともに，原子炉冷却材浄化系（以下「ＣＵＷ」という）からの排水量増加や電動機駆動原子炉給水ポンプ（以下，「M/D-RFP」という）（Ａ）出口弁の「閉」操作，M/D-RFP（Ａ）の停止操作等を実施したが，原子炉水位の上昇傾向は継続し，８月８日（日）１時３分，「原子炉水位高（L-8）」の警報が発生した。
+　その後，ＣＵＷポンプ（Ａ）（２台目）を起動し排出量を増加するとともに，主蒸気配管ドレン及び原子炉給水ポンプ駆動用タービン等の各ドレン弁の「開」操作等を実施し，同日４時２３分に「原子炉水位高（L-8）」，同日５時１３分に「原子炉水位高（L-7）」の警報がクリアした
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M024]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原子炉が長期停止していたことに伴い、起動中のドライウェル内点検時に原子炉圧力が早めに低下することは想定していたものの、原子炉圧力の低下に伴う給水系吐出弁バランス管からの給水の増加量を予測できなかったこと、及び原子炉水位上昇時の対応操作として，ＣＵＷ系排出ライン流量制限器バイパス弁(G33-F025)の開操作について運転手順書に記載がなかったため，ＣＵＷ系排出ライン流量制限器バイパス弁(G33-F025)の開操作が遅れ，「原子炉水位高(L-8)」の警報に至った。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉起動時における原子炉水位高事象の発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/08/16 18:02:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+			<TROUBLE_ID>2495</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉冷却材浄化系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[116]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[116]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2495</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2495</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2495</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2495</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

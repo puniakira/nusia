@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．分解点検前の調査
+当該逆止弁からの漏えいがあった場合に、その兆候が観測されると推測された以下の調査を実施した。
+１－１．ＲＣＩＣ系統に係る調査
+（１）外部への漏えい調査
+８月１５日に完了した補修にて開放等を実施した部分（弁箱フランジ部、弁間漏えい試験用プラグ部）からの漏えいがないか、石鹸水による外部漏えい有無点検を実施した。その結果、漏えいは確認されなかった。
+
+（２）弁の座り不良調査
+８月１５日に完了した補修にて当該逆止弁の弁体部品交換を実施したために馴染みが充分でなく、弁体の座り（当たり）が不完全であることが考えられたため、以下の調査を実施した。
+１） 聴音調査
+・当該逆止弁の弁箱に聴音棒をあてることにより、漏えいに伴う流体音の有無を確認した。その結果、流体音を確認することはできなかった。
+２） タービングランド部の酸素濃度測定
+・当該逆止弁から漏えいした窒素ガスは、タービングランド部分から本体ケーシング外装カバー内に拡散することが想定されることから、当該カバー内の酸素濃度測定を実施した。その結果、酸素濃度が２１％から１６％程度に低下していることが確認された。
+３） 温度調査
+・漏えい流体の影響により当該逆止弁の弁箱に温度変化が認められないか、サーモグラフィー（赤外線放射温度計）による測定を実施した。その結果、漏えいを確認できるような温度変化は確認できなかった。
+４） 弁の当たり調査
+・当該逆止弁シート面の座り（当たり）改善を目的として、弁箱の打振（ハンマリング）を実施した。その後、格納容器圧力を監視したが改善は見られなかった。
+
+１－２．ＲＣＩＣ排気ライン隔離弁閉止による調査
+格納容器圧力低下がＲＣＩＣ健全性確認試験後から始まっていること及びタービングランド部の酸素濃度が低下していたことから、発電長は格納容器圧力低下はＲＣＩＣタービン排気ラインからの漏えいによるものと判断し、運転上の制限逸脱を宣言した上で当該隔離弁を閉止して圧力監視を継続した。その結果、格納容器圧力低下が止まったことから、原因は当該逆止弁である可能性が高いと判断した。
+
+１－３．前回補修状況の調査
+当該逆止弁損傷に伴う補修結果を確認した結果、寸法測定、シート面の浸透探傷検査結果に異常は見られず、組立も問題なく実施されていた。補修後の弁間漏えい試験は、ＪＥＡＣ４２０３「原子炉格納容器の漏えい率試験規程」に準じて、当該逆止弁と当該隔離弁の弁間に格納容器設計圧力（高圧条件：３００ｋＰａ）をかけ１５分間保持後の圧力低下率から漏えい率を評価したが、漏えい量は０ＬＮ／ｈであり異常のないことを確認した。また、通常運転状態においても当該逆止弁の閉止機能が確保されることを確認するため、参考検査として、上記弁間を運転圧力（低圧条件：２．４５ｋＰａ、４．４１ｋＰａ）で加圧し漏えい率を測定した結果、漏えい量は０ＬＮ／ｈであり通常運転においても問題ないことを確認した。以上の結果から、前回の補修における問題点は抽出されなかった。
+
+２．当該弁点検
+当該逆止弁の分解点検結果は以下のとおり。
+２－１．状況調査（弁開放状態）
+（１）内部目視確認
+当該弁を開放し内部を目視点検した結果、部品の脱落、大きな変形、異物混入のないことを確認した。
+
+（２）寸法測定
+１） 弁体、弁座シートの面間測定
+・弁体と弁座のシート当たり面を隙間ゲージで測定した結果、１８０°（以下、弁体据付状態にて最上部を０°とする）付近は密着していたが、０°付近で最大０．２０ｍｍの隙間が見られた。
+また、９０°、２７０°付近でもそれぞれ、０．０８ｍｍ、０．１２ｍｍの隙間が見られた。
+２） 弁体とアームのギャップ測定
+・弁体とアーム（上部振れ止め部、ネジ周辺部、下部振れ止め部）間を隙間ゲージで測定した結果、設計想定内の隙間値であることを確認した。
+３） アームと座金のギャップ測定
+・アームと座金の間を隙間ゲージで測定した結果、最大で０．７５ｍｍ（１８０°）、最小で０ｍｍ（０°）の隙間が見られた。
+４） アームとハメ輪のギャップ測定
+・アームとハメ輪間を隙間ゲージで測定した結果、設計想定内の隙間値であることを確認した。
+
+（３）弁体動作確認
+手動にて弁体、アームを開閉させた結果、固着部、異常な摺動部分がないことを確認した。
+
+（４）弁体向き確認
+目視により弁体の向きを確認した結果、弁体は復旧時の位置から変化（回転）していないことを確認した。
+
+２－２．状況調査（弁分解状態）
+（１）シート面目視確認
+目視により弁座シート部を確認した結果、異物は見られず、シート部に割れ、傷のないことを確認した。
+
+（２）シート当たり確認
+弁体を復旧時の位置とした状態で弁座シートの当たりを確認した結果、当たりはシート面の下部にのみ観察された。その後、弁体を９０°ずつ回転させて確認したが、結果は同様であった。
+
+（３）ガタつきの寸法測定
+・弁体の可動範囲について寸法測定を行い、着座に支障のあるガタつきが無いかを確認した結果、ほぼ均一のガタつきであることを確認した。
+
+（４）各部品点検
+・各部品について外観点検、寸法測定を実施した結果、弁体シャフト部のアーム貫通部位に接触痕が確認された。接触痕は弁体シャフト部全周に見られ、その最大深さは０°方向で約０．３ｍｍであり、他の方向では測定不可能な深さであった。接触痕はアーム貫通部内壁にも観察された。なお、その他の部品に傷や変形は見られず、寸法も規定の値であった。
+
+以上の点検結果から、弁体と弁座のシート面に隙間が発生し、シート漏れにより格納容器圧力の低下をもたらせたことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[110]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9979</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/09/11 08:53:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[当該逆止弁に何らかの不具合が発生している可能性が高いと考え、保安規定第７３条に基づきＲＣＩＣについて運転上の制限逸脱を宣言。
+平成２０年８月１７日　１９時１７分運転上の制限を満足していないと判断（運転上の制限逸脱を宣言）
+平成２０年８月２６日　２１時１７分運転上の制限逸脱解除を宣言
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4310</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/09/10 10:07:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200808171917]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．当該逆止弁の手入れ
+（１）弁体に取り付けられた座金とアームが接触する部分について、通常の手入れ方法である面取りを行い、座金とアーム間のギャップを確保した。これにより、ＲＣＩＣタービン起動・停止時の低速回転時に当該逆止弁弁体に大きな衝撃が繰り返しかかった場合においても、弁体着座時に座金とアームとが干渉しないため、弁体の着座が阻害されなくなる。
+
+（２）弁体シャフトとアーム間の接触痕について、通常の手入れ方法である表面手入れを行い修正した。これにより、弁体がアームに干渉しないため、弁体の着座が阻害されなくなる。
+
+（３）弁組立後に、弁体に光明丹を塗布し弁体を着座させて当たりを確認したところ、全周に当たりが出ていることを確認した。
+次に、弁体をストッパー位置まで引き上げ自重による自然落下により着座させた状態で弁体と弁座のシート面ギャップが無い（０．０３ｍｍ未満）ことを寸法測定により確認※１した。さらに弁体が回転した場合でも、当たりがでることを確認するため、弁体を９０°ずつ回転させ同様な手順でシート面ギャップが無いことを寸法測定により確認※１した。
+その後実施した弁間漏えい試験においても圧力低下が認められなかったことから、逆止弁の閉止機能に問題ないことを確認した。なお、座金とアームのギャップ測定において０．１ｍｍ未満の部位が認められたことから、万全を期すため、再度分解しアームの手入れ（面取り）を実施し、０．１ｍｍ未満の部位が無いことを確認した。
+※ １：自然落下による弁体と弁座のシート面ギャップ測定は３回ずつ実施した。
+
+２．当該逆止弁手入れ後の閉止機能の確認
+（１）弁間漏えい試験
+当該逆止弁手入れ後に、当該逆止弁と当該隔離弁との弁間漏えい試験を実施し、当該逆止弁に漏えいのないことを確認した。
+弁間漏えい試験については、ＪＥＡＣ４２０３に準じた高圧条件（約３００ｋＰａ）での試験と、通常運転状態においても当該逆止弁の閉止機能が確保されることを確認するための低圧条件（２．４５ｋＰａ、４．４１ｋＰａ）での参考検査を実施※２した結果、いずれも問題の無いことを確認した。
+また、前回補修では、補修後のＲＣＩＣ健全性確認後に弁体座りに不具合が生じた可能性があると推測されたため、ＲＣＩＣタービンを２，２００回転及び、定格状態（通常のＲＣＩＣ定期試験と同じ手順）で運転させた後、それぞれ後述のとおり格納容器の圧力監視を行い圧力低下の無いこと、さらにその後、弁間漏えい試験を実施し漏えいの無いことを確認した。
+なお、２，２００回転で運転した後の弁間漏えい試験終了後に弁体の座り状況を再度隙間ゲージで確認した結果、０．０３ｍｍが入らず、弁体の着座（座り）が良好であることを確認した。
+※２：ＲＣＩＣ２，２００回転後の弁間漏えい試験については、ＲＣＩＣ定格運転後に評価検査を実施するため、試験圧力２．４５ｋＰａのみの検査とした。
+
+（２）格納容器圧力監視
+ＲＣＩＣ運転後における当該逆止弁の閉止機能確認のため、ＲＣＩＣ運転後の格納容器圧力を監視した。
+格納容器圧力監視はＲＣＩＣ停止後１２時間以上行うこととし、判断基準としては社内ＱＭＳ規程による漏えいの疑い有りと判断する値（－０．１２％／日。ただし、通常は移動７日平均値を使用。）を準用した。本判断基準は長期的な圧力監視を前提として定められているため、比較的短期間で異常の有無を判断できるよう、ドライウェル温度の変動などの外乱を補正・除外した上で、圧力変化率を評価した。
+圧力監視はＲＣＩＣタービンを約２，２００回転（低速回転）で運転したケースと、通常のＲＣＩＣ定期試験と同じ手順で運転したケース、更には健全性確認試験後の計３回行ったが、いずれにおいても連続した圧力低下は見られなかった。
+
+３．再発防止対策
+（１）運転復帰後の格納容器圧力監視
+今サイクルにおいて、ＲＣＩＣ定期試験後の格納容器圧力監視については、より保守的な監視を行うため、５－２．２）に準じ、一定期間（２４時間程度）の監視強化を行うことし、格納容器圧力変化割合が１２時間以上継続して－０．１２％／日を超えた場合は、漏えい箇所の調査を開始する。調査の結果、漏えい箇所が当該逆止弁であると分かった場合には、弁の取替も含めた補修方法を検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　原子炉隔離時冷却系（以下、「ＲＣＩＣ」という。）タービン排気ライン逆止弁（Ｅ５１－Ｆ０４０。以下、「当該逆止弁」という。）補修後（平成20年8月7日発生事象）のＲＣＩＣ健全性確認試験終了後から格納容器圧力の低下傾向があると認識していたが、８月１７日１０時頃、漏えい箇所の特定が必要と判断した。
+　このため、補修を実施した当該逆止弁に何らかの不具合が発生している可能性が高いと考え、８月１７日１９時１７分、保安規定第７３条に基づきＲＣＩＣについて運転上の制限逸脱を宣言した上で、ＲＣＩＣタービン排気ライン隔離弁（Ｅ５１－Ｆ０６８。以下、「当該隔離弁」という）を閉止して、格納容器圧力低下傾向に変動があるか確認するとともに、当該逆止弁の点検を開始した。なお、当該隔離弁の閉止により格納容器圧力の低下が止まり、安定に維持されていることから、当該逆止弁以外に漏えい箇所はないものと判断した。
+
+　その後、当該逆止弁点検の結果、格納容器圧力低下の原因は、当該逆止弁弁体と弁座のシート面に隙間が発生したことによるシート漏れであることが分かった。このため、当該逆止弁について手入れを実施した後、閉止機能が損なわれていないことを確認し、８月２６日２１時１７分に運転上の制限逸脱からの復帰を宣言した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M024]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[シート漏れ発生のメカニズム
+部品の脱落や異常な摩耗がなく、また、主要部の寸法に異常は見られないにも拘らずシート面の片当たり（弁体の座り不良）が発生していたことが確認された。これは、部品単体寸法、組立て後のギャップ寸法が規定値内であったものの、座金とアーム間、弁体シャフトとアーム間のギャップがきつめの状態であったため、弁体シャフトとアームに発生した僅かな当たり跡が摺動抵抗となり、微差圧において自重で着座するところ、座金とアームとの干渉により、弁体の傾きが充分確保できなかったため、完全に着座できずシート漏れが発生したものと推定する。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉隔離時冷却系の運転上の制限逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限を逸脱していると判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1126</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/09/11 08:53:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+			<TROUBLE_ID>9979</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[逆止弁]]></KIKI_NAME>
+				<SORT_NO>8</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉隔離時冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[110]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[110]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9979</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9979</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9979</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9979</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　出力変動時のパラメータの変動及び機器動作の経緯について調査した結果、通常であればＭＳＨ第２段加熱蒸気元弁全開後に作動すべき減圧弁が、蒸気元弁全開前に開状態となり、当該蒸気元弁の開操作に伴い、主蒸気圧力が低下して、蒸気加減弁が全閉したことが判明した。このため、蒸気元弁全開前に減圧弁が開状態となる要因について以下の調査を実施した。
+（１）制御状態調査及びウォーミング条件用信号確認試験
+　発電機出力復帰後におけるＭＳＨ各制御器の制御状態及び開度設定等の健全性を確認するために、表示器によるパラメータ確認、制御状態の妥当性確認を実施し、良好な結果であったことから、制御状態には問題ないことを確認した。
+　また、制御装置に入力されるウォーミング条件用信号の健全性を確認した結果、異常は認められなかった。
+（２）減圧弁応答性確認及びループ試験
+　ＭＳＨ第２段加熱蒸気減圧弁の動作が作動要求信号に対して正常に動作することを確認した結果、減圧弁の応答性及び開閉状態が良好なことを確認した。
+（３）ソフトウェア確認試験及びＭＳＨ第２段加熱器インサービス再試験
+　制御装置のソフトロジック及びＭＳＨ第２段加熱器減圧弁開度設定値を確認した結果、設計通り組み込まれており異常は認められなかった。
+　なお、再度ＭＳＨ第２段加熱器インサービスを実施したが、問題はなかったことから、制御状態、集中制御器出力、及びウォーミング弁開度指令信号に異常のないことを確認した。
+（４）タービン中間蒸気圧力検出器の健全性確認
+　タービン中間蒸気圧力信号の検出器の計器単体試験の結果、圧力検出器出力がタービン出力換算で４．４％高めにずれていた。
+（５）ＭＳＨ第２段加熱器蒸気ライン弁健全性確認
+　ＭＳＨ第２段加熱蒸気減圧弁を含め、第２段加熱器蒸気ラインに設置されている弁について、漏洩、損傷などの異常が認められなかったことから、弁本体の異常ではないことを確認した。
+（６）運転状態確認
+　系統インサービス時の発電機出力は、系統インサービス条件成立（発電機出力１０％）時より、１％程度高く約１１％であった。なお、ＭＳＨの再インサービス時の発電機出力は、系統インサービス条件成立発電機出力と同程度であった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[150]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1842</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/27 21:38:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199610060107]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当初より計画していた５０％出力運転後の計画停止期間において、タービン中間蒸気圧力検出器の調整を行った。なお、念のため、より確実な運用が行われるように以下の対策を実施した。
+（１）ＭＳＨ第２段蒸気加熱器減圧弁４弁のうち、１弁でも開いていればＭＳＨ第２段加熱蒸気元弁を開操作できないインターロックを追加した。
+（２）ＭＳＨ第２段加熱蒸気元弁を開操作した場合は、同弁が全開となるまでは強制的に集中制御器を「手動」モードとするインターロックを追加した。（蒸気元弁開動作開始後、蒸気元弁全開まではタービン出力が１５％以上になっても減圧弁が開かないようにした。）
+（３）運転操作基準のＭＳＨ起動手順に「タービン出力が１０％であること」を確認事項として追記するとともに、参考事項として、「タービン出力が１５％以上となると圧力制御に移行する」ことを追記した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機は、平成８年１０月６日０時に並列し、同日１時７分頃、発電機出力約１４５ＭＷｅで試運転中のところ、湿分分離加熱器（以下ＭＳＨという）の第２段加熱ラインをインサービスするため、ＭＳＨ第２段加熱蒸気元弁を開操作したところ、発電機出力が一旦０ＭＷｅとなり、まもなく約１４５ＭＷｅに復帰した。
+　ＭＳＨの制御状態調査、及び減圧弁応答性確認を実施したところ、問題はなかったため、試運転を継続すると共に、原因調査を行うこととした。なお、本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1996-東京-M009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　ＭＳＨインサービス時の出力変動の原因は、通常であればＭＳＨ第２段加熱蒸気元弁全開後に作動すべき減圧弁が、元弁全開前に開状態となり、当該蒸気元弁の開操作に伴い、主蒸気圧力が低下して、蒸気加減弁が全閉したためと判明した。
+　また、減圧弁が蒸気元弁全開前に開状態となった原因は、通常であれば発電機出力１０％（約１３６ＭＷｅ）でＭＳＨウォーミング条件成立し、減圧弁が微開となり、ＭＳＨがインサービスされ、更にタービン出力が１５％（発電機出力１５％に相当）以上になると、ＭＳＨ第２段加熱器は減圧弁により圧力制御されるが、タービン中間蒸気圧力信号検出器出力のずれ（４．４％）による見かけ上の出力上昇及び発電機出力の若干の上昇（約１％）が重なったことにより、タービン中間蒸気圧力信号が１５％以上となり、その結果ＭＳＨウォーミング条件をバイパスし、圧力制御へ移ったためと推定される。（元弁が閉の状態で圧力制御に移行すると減圧弁が開いても、減圧弁の後圧が上昇しないため、減圧弁は全開となるまで開くことになる。）]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[湿分分離加熱器系統インサービス時の出力変動について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6]]></UNITS>
+	<DENKI_OUTPUT_NBR>145</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/27 21:38:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[主タービン]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[150]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[150]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[20]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力低下]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>1842</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

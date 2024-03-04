@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10671</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/11/10 15:44:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4606</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/11/09 19:34:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091106]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１１月６日に、原子炉起動前の制御棒（全２９本）の動作確認のため、停止バンクＡ（８本）を全引き抜き位置から全挿入位置まで挿入しようとしたところ、その途中で、制御棒駆動装置の電源の故障を示す警報と制御棒操作の動作指令信号と実際の制御棒位置に差があることを示す警報が発信しました。
+　直ちに状況を確認したところ、８本のうち１本の制御棒が指令信号より若干深い位置に挿入されており、また、この制御棒の動作中の駆動装置で電源故障を示すランプが点灯していました。
+　その後、この８本を全挿入位置まで挿入した後に、引き抜き操作を行ったところ、同様な事象が発生したため、制御棒駆動装置の電源系に異常があると考え、原子炉起動を延期し、原因調査を行うこととしました。
+
+　当該制御棒の駆動装置の電源系について、原子炉補助建屋内の制御棒駆動装置制御盤から原子炉容器上部の制御棒駆動装置に至るまでの電源ケーブルについて電気抵抗測定を行った結果、原子炉容器上部にある中間コネクタと制御棒駆動装置の間の電気抵抗が大きいことがわかりました。
+　このため、その途中にある制御棒駆動装置の電源ケーブル接続コネクタ部（原子炉容器上部）を点検したところ、コネクタのガタツキとコネクタ抜け出し防止用ナットに緩みが見つかり、ナットを締め込んだところ電気抵抗は回復しました。このことから、当該接続コネクタ部で接触不良が発生しているものと判断されました。
+　当該接続コネクタ部は、点検のため前々回の定期検査時に取り外されており、その際には、取り外し前にナット側（コネクタの凹部）とネジ山側（コネクタの凸側）に印をつけ、復旧時には印が合致するまでナットを締め付けていましたが、コネクタの差し込みが不十分な状態でナットを締め付けた可能性があるものと考えられました。
+
+　これらのことから、警報が発信した原因は、前々回の定期検査において電源ケーブルコネクタ部の差し込み不足と、ナットの締め付けが不十分であったことから、運転時や制御棒操作に伴う振動等によりナットが徐々に緩み、電源ケーブルコネクタに一時的な接触不良が発生したものと推定されました。
+
+　対策として、電源ケーブルコネクタを確実に差し込んだ状態でナットを締め付けるよう、締め付け後のネジ山部の隙間を管理していくこととしました。
+当該制御棒を含む全２９本の制御棒について、この方法でナットの締め付けを行った上で動作確認し、問題のないことを確認しました。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-関西-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[「制御棒駆動装置電源故障」警報等の発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/10 15:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

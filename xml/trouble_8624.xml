@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[以下の通り調査を行った。
+
+１．ＲＣＷサージタンク補給水弁の取り違え調査
+　開操作すべき純水水張り弁と当該弁を取り違えて開操作した要因について、要因分析表に基づき聞き取り調査、状況調査を行った。
+（１）作業管理
+ａ．タグ管理
+　中操指示者及び現場操作者は、ＲＣＷサージタンクの純水水張り弁が注意タグ管理されている弁であることを知っていたが、以下の理由により半券による照合を行っていなかった。
+（ａ）純水水張り弁の注意タグは、定期検査時に想定外のＲＣＷサージタンクからのオーバーフローを防止するために「全閉」として使用するものであるが、ＲＣＷサージタンクの水位が低下した場合には、補給弁を開操作して純水を補給する必要があることから、「補給時以外「弁全閉」」と記載する運用が行われていた。
+（ｂ）ＲＣＷサージタンク補給時の「開」操作は、注意タグに記載されている予め想定された操作を、記載された内容の通りに行うものであり、注意タグの「一時復旧」として行われる操作とは異なるものであった。
+（ｃ）上記（ｂ）については、当直員の間で一般的な運用であった。またマニュアル上もこのような場合の扱いについて記載していなかった。
+
+ｂ．コミュニケーション不足
+　中操指示者は水張りについて、操作する弁の弁名称、弁番号等の具体的な指示をしておらず、現場操作者も一時的に行う単一弁の単純な操作であったため、指示に対する確認を取っていなかったことから、お互いに十分なコミュニケーションを図っていなかった。
+ｃ．操作体制
+　中操指示者はミーティングにおいて、当直長へＲＣＷサージタンクの補給について報告し、了解を得て実施していたことから操作体制に問題はなかった。
+
+（２）弁の管理
+ａ．弁の識別
+　当該弁と純水水張り弁は隣接していたが、弁名称、弁番号が記載された銘板及び注意タグが取り付けられており、識別に問題はなかった。
+ｂ．弁の施錠管理
+　当該弁は施錠管理されてはいたが、純水水張り弁に使用していた鍵と同じ鍵で施錠していたため、操作が可能であった。
+
+（３）操作員
+ａ．確認不足
+　現場操作者は純水水張り弁の操作にあたり、弁名称、弁番号が記載された銘板、及び取り付けられていた注意タグの内容を確認していなかった。また、ＲＣＷサージタンクの補給ラインの弁、積算計、ＬＣＶのライン構成も確認していなかった。
+
+（４）情報周知
+ａ．周知不足
+　福島第一４号機（以下、１Ｆ－４）トリチウム混入防止対策の当直員への周知は行われていたが、境界弁の対象弁についての具体的な周知は行われていなかったため、操作者は当該弁が１Ｆ－４トリチウム混入防止対策の対象弁であることを知らなかった。
+
+２．ＲＣＷ Ｈｘ点検調査結果
+　今回の事象が発生したときに使用していたＲＣＷ　Ｈｘ（Ｂ）の点検を行った結果は以下の通りであった。
+（１）ＲＣＷ　Ｈｘ（Ｂ）チューブリーク調査
+　水張りリークテストを行ったところ１本の伝熱管よりリークが確認された。
+（２）リークした伝熱管調査
+　リークが確認された伝熱管を抜管し調査したところ、管列番号（Ａ－３０－１７）の海側管板から323mmの位置に１mm×１mmのピンホールが確認された。
+（３）外観調査
+　確認されたピンホールの外観を観察したところ、これまでに経験している海生物の付着による局部的な浸食と推定された。　
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[114]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8624</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/07/30 11:19:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3666</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/01/29 15:16:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200701182323]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）設備改造
+ａ．ＲＣＷサージタンク補給用の復水配管をＲＣＷ系より分離した。
+ｂ．類似箇所の境界弁において、配管分離が出来ない箇所については専用の鍵で施錠管理するとともに誤操作防止用のカバーを取り付ける。また解除の鍵は当直長保管とし、借用時は紙面で請求する運用とした。
+
+（２）当直員への周知の徹底
+ａ．緊急点検の一環として当直員全員を緊急招集し、トリチウム系外放出による社会的影響の重大さを再認識すると共に誤操作に至った事例検討を実施し基本動作の重要性を再徹底した。
+ｂ．トリチウム混入防止対策の対象弁の場所、弁番号・弁名称を「業務連絡」の文書により確実に運転員全員に周知した。
+なお、トラブルの再発防止対策を運転員に周知する場合は、指示文書等により確実に運転員全員に周知することとする。
+
+（３）基本動作の再徹底
+　運転員に対し年間研修カリキュラムに取り入れ、下記について反復研修を行う。
+ａ．現場確認（ＣＢＡ）の再徹底
+・操作前には、機器番号、機器名称を確認し、構成ラインを確認する。
+ｂ．タグの運用の再徹底
+・指揮者はタグの半券を必ず渡す。
+・操作者はタグの半券がなければ操作をしない。
+・操作対象に、操作タグがある場合は、内容を必ず確認する。 
+ｃ．操作にあたっては、3WAYコミュニケーションを実施し、操作対象が正しく選択されていることを確認しながら操作する。
+
+（４）タグの運用の改善
+ａ．タグの運用方法の見直し
+　タグの半券の運用方法に例外をなくし、注意タグに記載されている予め想定された操作を記載された内容の通りに行う場合においても、半券を必ず用いることとする。
+ｂ．マニュアル見直し
+　注意タグにて管理されている弁の操作を行う場合は、例外なく半券にて照合を行った上で操作することをマニュアルに反映する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第一１号機において、原子炉補機冷却系（以下、ＲＣＷ）サージタンクの水位低下の対応として、平成19年１月18日23時23分頃、ＲＣＷサージタンクへ水の補給を行った際、純水補給水系の弁を開操作して補給すべきところ、誤って近くにあった復水補給水系（トリチウムを含む）の弁を開操作して補給を行った。
+　混入した復水補給水系の水が当該系統の熱交換器に使用している海水系から放水口を通じて管理区域外に放出される可能性が考えられることから、平成19年1月19日13時24分、当該系統を隔離し、当該タンクの水位に低下傾向が見られなかった。
+　また、その後の調査において、当該系統に混入した復水補給水系の水が、当該系統を隔離するまでの間、熱交換器内を流れる海水と混じり放水口に放出されていたと判断した。
+　本事象にともない放水口から放出されたトリチウム量は、約2.3×10^５ベクレル（確定）であり、保安規定に定める放出量（2.2×10^13ベクレル／年）の１日あたりに換算した6.0×10^10ベクレルより少ない値であった。
+　また、放水口から海水を採取し測定したトリチウム濃度は、検出限界値未満であることを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-M043]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　トリチウムを含んだ復水がＲＣＷ系統に混入した原因は、ＲＣＷサージタンクの補給操作を行った際、本来は純水水張り弁を開操作するところ、取り違えて当該弁を開操作した事により発生した。また、トリチウムが系外に放出された原因は、通水していたＲＣＷ　Ｈｘ（Ｂ）の伝熱管１本に１mm×１mmのピンホールが１箇所あり、チューブリークがあったことから、トリチウムを含んだＲＣＷ系統水が海水系に流入し、放水口から管理区域外に放出されたものであった。
+　なお、取り違えて当該弁を開操作した原因は、以下の通りであった。
+（１）当該水張り操作時に、弁名称、弁番号が記載された銘板、及び取り付けられていた注意タグの内容を確認していなかった。
+（２）中操指示者と現場操作者とのコミュニケーションが十分に取られていなかった。
+（３）１Ｆ－４トリチウム混入防止対策の対象弁の周知が不足していた。
+（４）１Ｆ－４トリチウム混入防止対策の鍵と通常の施錠管理の鍵が同じであった。
+　以上のことから、現場操作者は当該弁をＲＣＷサージタンクの純水水張り弁と思い込み、操作したことが分かった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉補機冷却系への復水補給水系の水の混入について
+]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/07/30 11:19:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>8624</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[伝熱管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8624</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉常用補機冷却水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[114]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[114]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8624</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8624</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8624</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8624</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査結果
+（１）事象発生後の現場点検結果
+  ＨＰＣＩの定期試験において定格流量が確保できなかった原因となる不具合箇所を特定するため、定期試験時に使用される配管に設置されている弁等の点検を行った。
+ａ．流量計
+  流量計について、計器単体および計測ループの点検を行った結果、計器校正前のデータについて各校正点で計器精度内であることを確認した。
+  また、流量計の外観点検を実施し、漏えい等異常のないことを確認した。
+ｂ．弁
+  定期試験時に使用される配管に設置されている５台の弁（電動弁３台：ＨＰＣＩ注入ライン止め弁（ＨＰＣＩ－ＭＶ－４）、当該弁（ＨＰＣＩ－ＭＶ－１９）、ＨＰＣＩ第二試験用調整弁（ＨＰＣＩ－ＭＶ－２１）、逆止弁１台：ＨＰＣＩ試験ライン逆止弁（ＨＰＣＩ－Ｖ－２０）、手動弁１台：ＨＰＣＩ戻り水止弁（ＭＵＷＣ－?－２））について次のとおり点検を実施した。
+  なお、第二試験用調整弁（ＨＰＣＩ－ＭＶ－２１）については、当該弁とは構造が異なりケージガイド付きとなっている。
+（ａ）外観目視点検
+  ５台の弁について外観目視点検を実施した結果、異常は確認されなかった。
+（ｂ）動作確認
+  ３台の電動弁について動作確認を実施した結果、当該弁の弁開度が１００％を超えて動作する事象を確認した。
+  なお、他の弁については、異常は確認されなかった。
+（ｃ）分解点検
+  ５台の弁について、分解点検を実施した結果、当該弁の弁棒（以下、「当該弁棒」という。）が弁棒バックシート上端部から約７０ｍｍ上側（弁開度３０％相当）の位置で折損していることを確認した。
+  また、当該弁の詳細点検を実施する過程で、弁体と弁棒の廻り止め用の平行ピン（以下、「当該平行ピン」という。）が折損していることを確認した。
+  なお、他の４台の弁については、異常は確認されなかった。
+ｃ．オリフィス
+  定期試験時に使用される配管に設置されている流量測定用オリフィス１台、減圧用オリフィス１台について、外観目視点検、開放点検を行った結果、異常は確認されなかった。
+ｄ．ポンプ
+  運転時において、異音、異臭、異常な振動等はないこと、関連警報も発生していないことから、ポンプの運転状態に異常はないと判断した。
+  また、ポンプ運転停止後に外観目視点検を実施した結果、異常は確認されなかった。
+ｅ．配管
+  定期試験時に使用される配管について、外観目視点検を実施した結果、漏えいや損傷等の異常は確認されなかった。
+
+２．要因調査結果
+  当該弁棒が折損した原因について、要因分析表に基づき点検調査を行った。
+（１）製造不良の可能性について
+ａ．材料不良
+（ａ）材料試験成績表の確認
+  当該弁棒の材料試験成績表を確認した結果、化学成分、熱処理条件、機械的性質、シャルピー衝撃試験値がＪＩＳ規格値（ＪＩＳ　Ｇ４３０３（１９７７）ステンレス鋼棒）を満足していることを確認した。
+（ｂ）化学成分分析
+  当該弁棒の化学成分を分析した結果、ＪＩＳ規格値（ＪＩＳ　Ｇ４３０３（１９７７）ステンレス鋼棒）を満足していることおよび材料試験成績表と同様の値であることを確認した。
+  なお、当該平行ピンについても化学成分を分析した結果、主要な化学成分は、Ｍｎを除きＡＳＭＥ規格値（ＳＡ－３５０　ＬＦ１（１９７７））と同様の値であることを確認した。
+  Ｍｎは、規格値より若干多く測定されているが、脱酸剤として添加されたものであり、問題ないことを確認した。
+（ｃ）硬さ測定
+  当該弁棒の硬さ測定を行った結果、弁棒内部は材料試験成績表と同様の値であることを確認した。破面近傍については硬化していることを確認したが、これは破面同士の接触・衝突によるものと推定した。
+  なお、当該平行ピンについても硬さ測定を行った結果、破断面および内部において異常な硬さではないことを確認した。
+（ｄ）断面調査
+  当該弁棒の破断面の断面を光学顕微鏡にて観察した結果、通常の焼き戻しマルテンサイト系ステンレス鋼の組織であり、軸方向に平行なフローが観察されたが、内部欠陥等は確認されなかった。
+  なお、当該平行ピンについても破断面の断面を光学顕微鏡にて観察した結果、通常のフェライト・パーライトの組織であり、内部欠陥等は確認されなかった。
+ｂ．製造時の当該弁棒の傷
+  当該弁棒の製造時の記録類を調査した結果、外観検査記録は保存年限を超過していたことから確認できなかったため、当該弁の製造当時の「バルブ製作手順図」を調査した結果、製作過程において外観検査を実施する手順となっていたことを確認した。
+ｃ．当該弁の加工寸法不良
+  当該弁棒の製造時の記録類を調査した結果、寸法検査記録は保存年限を超過していたことから確認できなかったため、当該弁棒の製造当時の「バルブ製作手順図」を調査した結果、製作過程において寸法検査を実施する手順となっていたことを確認した。
+  また、今回、弁部品（弁蓋、弁体、弁棒、平行ピン）の寸法計測を実施した結果、いずれの弁部品についても、弁棒折損の起因となるような異常は確認されなかった。
+
+（２）設計不良の可能性について
+ａ．弁棒の強度不足
+  当該弁の設計差圧における弁棒に発生する応力は、約１５Ｎ／ｍｍ２であり、許容値２６０Ｎ／ｍｍ２未満であることを確認した。
+弁棒がバックシート部に着座した時に、弁棒バックシート部にかかるトルク値は設定トルク値にモータ慣性分を加えたトルク値（３３５４Ｎ・ｍ）が最大可能トルク値（４８３０Ｎ・ｍ）未満であることを確認した。
+  また、弁体が弁座に着座した時に弁棒にかかるトルク値は設定トルク値にモータ慣性分を加えたトルク値（４０５０Ｎ・ｍ）が最大可能トルク値（１００７４Ｎ・ｍ）未満であることを確認した。
+ｂ．トルクスイッチ設定不良
+  当該弁のトルクスイッチ設定値を確認した結果、現状の開側設定値（目盛り２．４）、閉側設定値（目盛り２．９）が工場で設定した開側、閉側設定値と同じ値になっていることを確認した。
+ｃ．絞り条件
+  当該弁の設計差圧は、ＨＰＣＩ系統圧力を当該弁と第二試験用調整弁（ＨＰＣＩ－ＭＶ－２１）で受け持つ設計としていた。当該弁の運用開度を確認した結果、当該弁は設計差圧より大きい差圧を受け持っていたことを確認した。
+  この差圧でキャビテーション評価を実施したところ、キャビテーション係数は最大で約０．７５であったことから、定期試験時において当該弁はキャビテーション領域にあったと推定した。
+
+（３）メンテナンス不良の可能性について
+  前回の第１６回定期検査（平成１６年９月８日～平成１７年２月１５日）時における当該弁の点検記録を調査した結果、弁棒や弁体等に異常がないことを確認した。
+
+（４）使用環境要因の可能性について
+ａ．腐食
+  当該弁棒について、外観目視点検を実施した結果、表面に腐食がないことを確認した。
+  なお、当該平行ピンについても、外観目視点検を実施した結果、表面に腐食がないことを確認した。
+ｂ．応力腐食割れ
+（ａ）第１６回定期検査時における当該弁棒の点検記録を調査した結果、弁棒に異常がないこと、また、当該弁棒折損後の外観目視点検の結果、当該弁棒表面に腐食がないことを確認した。
+（ｂ）当該弁棒の破面部位について硬さ測定を実施した結果、破面同士の接触・衝突による硬化と推定した破断面近傍を除き、弁棒本体の硬さは、応力腐食割れ感受性を示すしきい値であるビッカース硬さ（ＨＶ）３４０以下であることを確認した。
+（ｃ）復水貯蔵タンクから供給される復水の水質は、管理値の範囲内にあり、また、水温は通常２５℃～４０℃となっていることから応力腐食割れの発生する環境ではないことを確認した。
+  以上のことから、応力腐食割れではないことを確認した。
+ｃ．振動による疲労
+（ａ）破面観察
+・当該弁棒
+  当該弁棒の破面を目視観察した結果、弁体側、モータ側の破面はいずれもほぼ全面にわたり破面同士のぶつかり合いによりたたかれてつぶれた様相を呈していた。　
+破面は金属光沢を有しており、顕著な腐食や変色は確認されなかった。
+  当該弁棒のモータ側の破面をＳＥＭにて観察した結果、破面はほぼ全面にわたりたたかれてつぶれた様相をしており、この部分では破壊形態を特徴付ける破面を観察できなかったが、破面中央部のたたかれていない部分に、疲労破壊に特徴的なストライエーション状模様を確認した。
+  ２２５°方位近傍の外表面側には、延性破壊に特徴的なディンプル模様を確認した。
+以上のことから、当該弁棒は疲労によりき裂が発生、進展し折損した可能性があると推定した。
+  また、２２５°方位近傍が最終折損部の一部であると推定した。
+・当該平行ピン
+  当該平行ピンの破面を目視観察した結果、９０°方位近傍および２７０°方位近傍の外表面側に段差を確認した。
+  また、破面のほぼ全面にわたり疲労破壊に特徴的なビーチマークを確認し、０°～１８０°方位には線状の段差を確認した。
+  なお、破面に腐食や変色は確認されなかった。
+当該平行ピンの破面をＳＥＭにて観察した結果、目視観察によりビーチマークを確認した領域にストライエーション状模様を確認した。
+  また、０°～１８０°方位の線状の段差においては、延性破壊に特徴的なディンプル模様を確認した。
+  以上のことから、当該平行ピンには、９０°～２７０°方位に繰返し応力が作用したため、当該平行ピン外表面にき裂が発生し、その後、内部に進展し最終的には０°～１８０°方位で折損したものと推定した。
+（ｂ）振動評価
+・当該弁棒に発生する振動
+  当該弁棒の振動を評価するにあたっては、当該弁棒の使用状態における振動を測定する必要があるが、原子炉停止時には駆動蒸気がないことから、運転時の振動を測定することができない。
+  しかしながら、一般に流量の増加によりキャビテーションが発生すること、また、キャビテーションが発生した際に弁棒に大きなひずみが発生することが知られている。
+このことから、当該弁棒が折損したと推定される開度では、当該弁にキャビテーションが発生し、当該弁棒に大きなひずみが発生していたものと推定した。
+・当該弁棒（新品）の打振試験
+  当該弁棒と同材質、同寸法の新品の弁棒について、当該弁棒が折損したと推定
+される開度において打振試験を実施した結果、約１２２Ｈｚの卓越した振動数（
+固有振動数）があることを確認した。
+（ｃ）運転履歴調査
+  当該弁の運転履歴を調査した結果、当該弁の起動試験から折損に至るまでの間に行われたＨＰＣＩポンプの定期試験等において、合計約１７５時間運転していることを確認した。　
+（ｄ）地震の影響評価
+  第１７サイクル中の平成１７年８月１６日に宮城県沖の地震が発生したことから、当該弁棒折損への影響を評価した。
+  その結果、宮城県沖の地震が発生した時には、当該弁は全閉状態であり、弁体・弁棒は弁箱、弁蓋と一緒に振動していたことから、地震により当該弁棒に過大な応力がかかっていないことを確認した。
+（ｅ）応力評価
+  当該弁棒と同材質、同寸法の新品の弁棒の打振試験により得られた固有振動数（約１２２Ｈｚ）と、当該弁の起動試験から折損に至る前（第１６回定期検査）までの運転時間（約１６４時間）から、当該弁に付加される応力の繰返し回数は、７．２×
+１０７回程度であることを確認した。
+  この破断繰返し回数と当該弁と同材質（ＳＵＳ４３１）の疲労曲線図から当該弁棒には、５００ＭＰａ程度の応力が発生していたものと推定した。
+ｄ．弁棒の固着
+  当該弁の弁棒と弁蓋摺動部について、外観目視点検を実施した結果、固着およびかじり等の痕跡は確認されなかった。
+ｅ．バックシート部の変形
+  当該弁の弁棒と弁蓋バックシート部について、外観目視点検および浸透探傷試験を実施した結果、異常は確認されなかった。
+
+（５）調査結果のまとめ
+ａ．当該弁棒
+（ａ）第１７回定期検査（平成１８年１月１８日～）中の調整運転時の定期試験において、ＨＰＣＩポンプ出口流量が定格流量に達していなかったことから、当該弁の分解点検を実施した結果、当該弁棒が折損していることを確認した。
+（ｂ）当該弁棒の破面観察において、疲労破壊に特徴的なストライエーション状模様を確
+認した。
+（ｃ）当該弁の定期試験時における運用開度では、設計開度より大きな差圧を受け持つこ
+とになり、この場合のキャビテーション係数は、最大約０．７５であると評価されたことから、キャビテーションが発生し、当該弁棒に大きなひずみ（応力）が発生していたものと推定した。
+（ｄ）当該弁の第１６回定期検査時（平成１６年９月８日～平成１７年２月１５日）の
+分解点検記録から、弁棒に異常がなかったことを確認した。
+（ｅ）当該弁棒と同材質、同寸法の新品の弁棒の打振試験により、当該弁棒、弁体の固有振動数は、約１２２Ｈｚであることを確認した。
+（ｆ）ＨＰＣＩポンプの起動試験から第１６回定期検査までの運転時間は、約１６４時
+間であり、当該弁に付加される応力の繰返し回数は、打振試験で確認した固有振動
+数から約７．２×１０７回であったと考えられる。
+ｂ．当該平行ピン
+（ａ）当該弁の分解点検を実施した結果、当該平行ピンが折損していたが、その位置は、弁体と弁棒のねじ部境界ではなく、弁体側であり、当該平行ピンの機能は保たれていた。
+（ｂ）当該平行ピンの破面観察において、疲労破壊に特徴的なビーチマークおよびスト
+ライエーション状模様を確認した。
+（ｃ）当該平行ピンの破面には、腐食や変色が確認されなかった。　
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[181]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8950</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/05/21 09:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3854</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/13 17:21:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200705221530]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[当該弁棒，弁体および当該平行ピンを新品に取り変えた。また，弁をより大きな開度で運用することにより、絞られた流れによる振動を抑制できることから、高圧注水系の定期試験時における当該弁の開度を現在の３０％程度から４０％程度へ変更した。
+なお、念のため、原子炉起動後の高圧注水系の定期試験において、当該弁の振動測定を行い、当該弁棒に大きな力がかかっていないことを確認した。
+さらに、一層の安全性向上を図るため、より強度の高い弁棒材質への取替や振動を抑制する弁内部構造への変更などについても、今後検討していくこととする。
+
+また、当該弁と同様に絞られた流れによる振動によって弁棒に大きな力が繰り返し加わる可能性のある類似弁１９台について詳細な検討を行った結果、そのうち１台について開度を全開で運用するように変更した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/05/21 09:00:00]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[  女川原子力発電所第１号機（沸騰水型、定格電気出力５２万４千ｋＷ）は第１７回定期検査中の調整運転のため、平成１９年５月２１日１５時１２分に原子炉を起動した。
+５月２２日２時頃に原子炉起動過程における高圧注水系（以下、「ＨＰＣＩ」という。）の定期試験を実施したところ、ＨＰＣＩポンプ出口流量が定格流量（６８１ｍ3／ｈ）に対し、約６３０ｍ3／ｈであることが確認されたことから、流量調整のためＨＰＣＩ第一試験用調整弁（ＨＰＣＩ－ＭＶ－１９）（以下、「当該弁」という。）ならびに同第二試験用調整弁（ＨＰＣＩ－ＭＶ－２１）の開操作を行ったが、出口流量に変化はなかった。
+  このため、３時２１分に保安規定第３９条に定める運転上の制限を満足していないと判断し、運転上の制限を満足していない場合に要求される措置を実施し、原子炉隔離時冷却系および自動減圧系の機能が健全であることを確認した。
+その後の現場確認において、当該弁の開操作を行ったところ、全開位置を越えて動作することが確認されたことから、当該弁の詳細調査を実施するため、１５時３０分に原子炉の停止を決定、１９時００分より出力降下を開始し、２１時２１分に原子炉を停止した。
+なお、出力降下過程の１９時４１分に、ＨＰＣＩの機能が運転上の制限として要求されない原子炉の状態（原子炉圧力１．０４ＭＰａ未満）となった。
+その後、５月２４日に当該弁を分解点検したところ、弁棒が折損していることを確認した。
+なお、本事象による外部への放射性物質の放出はなく、環境への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東北-T002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．当該弁の定期試験時における運用開度では、設計開度より大きな差圧を受け持つことになり、この場合のキャビテーション係数は、最大約０．７５であると評価されたことから、キャビテーションが発生し、このときの流体振動によって当該弁棒に大きなひずみ（応力）が発生したと推定した。
+２．当該弁棒と同材質、同寸法の新品の弁棒の打振試験により得られた固有振動数（約１２２Ｈｚ）と当該弁の起動試験から折損に至る前までの運転時間（約１６４時間）から、当該弁棒には定期試験時の流体振動によって、第１６回定期検査までに約７．２×１０７回の繰返し応力が付加されたと推定した。
+３．前回の第１６回定期検査時における当該弁の点検記録を調査した結果、弁棒、弁体等に異常がないこと、および第１７回定期検査（平成１８年１月１８日～）中の調整運転後、当該弁棒の折損が確認されたことから、第１６回定期検査終了以降、当該弁棒に疲労き裂が発生・進展し、折損に至ったものと考えられる。
+４．当該弁棒に疲労き裂が発生するための応力は、当該弁棒の材料（ＳＵＳ４３１）の疲労曲線図を用いて、繰返し回数（約７．２×１０７回）を破断繰返し数とすると、５００ＭＰａ程度であると推定した。
+５．なお、当該平行ピンは､当該弁にキャビテーションが発生したことにより、弁体が弁座に接触し、連結部のねじがわずかに緩んだ。それ以降、当該平行ピンには、当該弁棒と同様に流体振動によって繰返し曲げ荷重が付加されたため、疲労き裂が発生・進展し、折損に至ったものと考えられる。
+当該平行ピンの折損位置は､弁体と弁棒のねじ込み部境界ではなく、弁体側であったことから、当該平行ピンの機能は保たれていた。また、破面には、腐食や変色が認められなかったことから、折損してから比較的時間が経っていないと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[高圧注水系第一試験用調整弁の不具合に伴う原子炉手動停止について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/07/06 08:51:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[タンク*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8950</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁棒]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8950</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧炉心注水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[181]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[181]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[２]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8950</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

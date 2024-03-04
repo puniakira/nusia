@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12375</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/05/13 19:45:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>61470</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/01/14 11:34:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201601081010]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/05/13 19:45:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事　象　
+平成２８年１月８日１０時１０分、定期検査中の伊方発電所３号機の中央制御室において、放水ピット※ 内の残留塩素濃度の上昇を示す信号が発信した。
+調査の結果、２次系設備の健全性確認の作業後に、２次系海水配管内の海水を排水していたところ、放水ピットにおける残留塩素濃度が基準値の０．０２ｐｐｍを約２０分間にわたり超過したことを確認した。（最大値 ０．０２９ｐｐｍ）
+その後、海水の排水作業を停止したところ、残留塩素濃度は低下し、１０時３０分頃以降、０．０２ｐｐｍ未満となった。
+また、発電所前面海域（８箇所）において海水をサンプリングして測定した結果、残留塩素は検出されなかった。
+なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。　　　　　　　　　　　　　　　　
+　 
+※放水ピット：発電所で使用した海水を海に放出する際に使用するピット
+　　
+○原　因
+調査の結果、海水電解装置で生成した次亜塩素酸ソーダを各機器に通水する海水に注入する配管にある手動弁Ａ、逆止弁Ａ，Ｃがシートリーク※ していたことから、２次系海水配管内の海水排水により、次亜塩素酸ソーダ注入配管内に滞留していた次亜塩素酸ソーダが、軸受冷却水用海水管を経由して、放水ピットへ流入し、放水ピット内の残留塩素濃度が上昇したと推定した。
+
+※シートリーク：弁のシート部より流体が漏れること
+
+○対　策
+・シートリークした手動弁Ａの取替えおよび逆止弁Ａ，Ｃの点検（内部清掃）を実施した。また、類似弁の取替えおよび点検（内部清掃）を実施した。
+・次亜塩素酸ソーダを注入する配管の手動弁がシートリークした場合でも軸受冷却水用海水管内に次亜塩素酸ソーダが流入しないよう、今回のように２次系海水の水抜きを実施する場合には、事前に次亜塩素酸ソーダ注入配管内を純水または海水に置換する運用とする。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-四国-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[放水ピット残留塩素濃度の一時的な上昇]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/01/14 11:34:27]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

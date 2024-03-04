@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11119</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/18 10:34:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/10/15 13:52:52]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201010051620]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２２年１０月５日、柏崎刈羽原子力発電所７号機において発煙が発生したことから、消防署へ連絡を行った。消防署の現場確認により、同日１７時１０分に火災ではないとの判断を頂いた。
+　　○発生場所　７号機トラベリングスクリーン　現場中継端子箱　■屋外
+　　○発生時間（当社確認時間）　１６時２０分頃
+　　○状　況　■発煙
+　　○消防連絡時間　１６時２０分頃
+　　○消防署による判断有無　１７時１０分　■火災でない
+　　○当該プラントの運転状況　■対象外（屋外など）
+　　○現時点における外部への放射能の影響　■無し
+　　○負傷者の有無　■無し
+　　○自衛消防隊の出動　■無し
+　　○備考（補足事項）
+　　　　消防署による現場確認により「消火活動を行っていないこと、現場に焦げあとがないことおよび火炎がなかったとの証言を得たこと」から１７時１０分に火災ではないとの判断を頂いた。
+
+（対応状況）
+　端子箱の扉のパッキンが劣化したことにより、端子箱内の底部に塩分を含んだ水が溜まり、端子箱底部に設置されていた予備スイッチ端子部のケーブル接続部がショートしたものと推定した。このため、端子箱内に塩分を含んだ水が浸入しないようにパッキンの交換および電線管貫通部のシール処理を再度行った。
+　予備スイッチ端子部は今後の使用予定を検討した結果、撤去しても問題ないことが確認できたため、計画的に撤去する。
+　また、塩分を含んだ水の浸入を防ぐ構造の機能が維持されていることを定期的に確認する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S026]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所での発煙の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/10/18 10:34:30]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

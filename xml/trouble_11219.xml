@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11219</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/03/07 14:31:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/02/18 10:03:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201102010640]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/03/07 14:31:00]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+　東海第二発電所は、定格熱出力一定運転中のところ平成２３年２月１日６時４０分頃にチェックポイント建屋（以下、「Ｃ／Ｐ」という。）で業務にあたっていた当社警備当直員（以下、「警備員」という。）Ａが煙の臭いがすることに気付き、中央制御室発電長および監視所の当社警備当直班長（以下、「警備班長」という。）に連絡した。
+警備班長より現場確認の指示を受けたより警備員Ｂは、監視所よりＣ／Ｐに急行し、６時４５分頃にＣ／Ｐ１階の火災受信機連動操作盤を確認した結果、「空調機室煙感知器」（Ｃ／Ｐ２階空調機械室の排煙用煙感知器動作を示すものであり、火災報知器は作動しない。）の表示が点灯しブザーが鳴動していること、ならびに隣接する警報盤にて「ＰＡ－３故障」（Ｃ／Ｐ３階機械室の空調機器の故障を示す表示）の点灯を確認した。
+　また、煙の発生元の確認に向かった警備員ＢがＣ／Ｐ３階のボイラ室（建屋暖房用の温水ボイラ（燃料：Ａ重油）２台が設置されている部屋）内を確認しようとしたところ、ボイラ室扉隙間より室内の煙が出ていることを確認したため扉を開放した。
+　開放直後の室内は煙が充満していたが、その後、煙は薄くなっていった。
+　中央制御室から現場へ急行した副発電長と運転員は、警備員Ｂと合流し、Ｃ／Ｐ３階ボイラ室内状況を６時５０分頃確認し、確認した時点においては、ボイラ室内の煙がほぼ消えていることを中央制御室へ連絡した。
+発電長は正確な状況を把握した上で、７時７分に公設消防に通報した。
+　副発電長と運転員による現場確認にて、２台中１台のボイラはエラー表示（「燃焼中に異常消火」を示す表示）が点灯し停止状態であることを確認するとともに、運転中であったもう１台のボイラを手動停止した。
+　その後、７時２０分頃に公設消防が現場に到着、状況確認の結果、７時３８分に「ボイラの異常燃焼であり、火災ではない」との判断がなされた。
+
+２．今後の対応
+　当該ボイラの運用を停止しており、今後、パッケージエアコンを設置し運用することとする。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-原電-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[チェックポイント建屋３階ボイラ室からの発煙事象について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/02/18 10:06:41]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

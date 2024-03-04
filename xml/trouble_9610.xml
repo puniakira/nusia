@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>9610</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/07/29 10:44:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/02/20 14:20:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20071220]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/07/29 10:44:55]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象
+高経年化技術評価における環境補正係数の計算に当たり、計算式を計算書に記載する際、係数を誤って記載していたことが判明した。
+再計算の結果、給水系弁の疲労累積計算結果（評価値）が変わり、報告書の訂正が必要となった。（再計算結果は、より安全側となった。）
+
+環境補正係数：
+機器・構造物等が、原子炉冷却水と接する場合、環境効果による疲労寿命が減少することがあるため、疲労累積計算でもとめた疲労累積係数に、本係数を剰じて、疲労評価を実施する。
+疲労累積計算：
+設備の起動・停止等に伴い熱過渡をうける機器については運転経験に伴い疲労が蓄積される。この疲労の蓄積の状態を計算により求める行為。
+
+２．推定原因
+本疲労累積計算はメーカーに委託しており、委託先における計算書作成時のチェック漏れによるもの。
+また、当社として委託先から提出された資料について誤った係数となっていることを確認できず、高経年化技術評価書に転記したため。
+
+３．対策
+高経年化技術評価書について、委託先から再提出される資料について、誤記箇所が正しく修正されていることを確認し、見直し後の疲労評価結果を用いて高経年化技術評価書を修正した。
+
+４．是正処置
+解析業務等で想定されるヒューマンエラー防止のため、解析業務における作業プロセスを受注者・発注者双方が解析業務着手前に確認できるよう当社QMS文書の改正を実施した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高経年化技術評価のうち疲労評価に用いる係数の誤記による評価書の誤りについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/02/20 14:33:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

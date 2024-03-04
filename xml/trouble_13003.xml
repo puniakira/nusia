@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13003</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/10/15 14:31:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>85272</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/08/16 15:17:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201907230432]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/10/15 14:31:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事象
+７月２３日４時３２分、１，２号機中央制御室に「ＡＯＳ※１装置故障」の信号が発信した。現場調査を行った結果、ＡＯＳ装置「装置故障」の異常を示す表示および同装置に取付けられている伊方北幹線１号線用再閉路ユニット※２「装置故障」の異常を示す表示を確認したことから、同装置を７時５１分に不使用とした。
+このため、保修員にて伊方北幹線１号線用再閉路ユニット内を点検した結果、伊方北幹線１号線用再閉路ユニット内基板の異常を示す表示灯が点灯していることを確認したため、同日９時２９分に当該基板のリセット操作を実施したところ、「装置故障」表示が復帰した。
+その後、８月１９日にメーカによる同装置の点検および自動点検※３の動作状況を確認した結果、装置に異常は認められないことから、同日１２時０１分より同装置を使用状態に戻し、その後の運転状況確認においても異常は認められないことから、８月２１日１４時００分に正常である事を確認し、通常状態に復旧した。なお、本事象によるプラントの運転への影響および周辺環境への放射能の影響はなかった。
+
+※１ ＡＯＳ
+Automatic Operation System（送電線自動復旧装置）の略 送電線事故等により送電線保護リレー動作（しゃ断器の開放等）後、送電線復旧の際に使用する装置（開放されたしゃ断器へ自動で投入指令を出す装置）で
+あり、運転員の負担軽減のための補助的な装置
+
+※２ 再閉路ユニット
+送電線毎に設置されており、開放されたしゃ断器に投入指令を出す装置
+
+※３ 自動点検
+再閉路ユニットの入出力回路の健全性を定期的に点検する機能。異常を検知すれば再閉路ユニットにて「装置故障」を表示（個別故障モードを表示灯にて詳細表示）。
+
+
+〇原因
+今回、ＡＯＳ装置の伊方北幹線１号線用再閉路ユニット内基板の異常を示す表示灯（常時監視のうち電源監視用）が点灯したが、信号リセット操作により消灯したこと、また、その後のメーカによる点検や運転状況（常時監視）および自動点検において異常が認められないことから、本事象は、ＡＯＳ装置の伊方北幹線１号線用再閉路ユニット内での一過性の要因により、「装置故障」の異常を示す信号が発信したものと推定される。
+
+
+〇対策
+今回の事象は一過性の要因であり根本的な原因究明や対策は困難であるため、今後ともＡＯＳ装置の異常時の対応が適切にできるよう、万一当該装置が故障した場合はＡＯＳ装置を使用せず、必要に応じて運転員による手動操作にて対応する。なお、その対応を徹底するため、運転員へのマニュアルの再周知を行う。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所１、２号機　送電線自動復旧装置の異常信号の発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/08/16 15:17:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

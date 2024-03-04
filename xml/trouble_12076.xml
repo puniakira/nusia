@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12076</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/09/26 09:43:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/07/24 09:34:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20140718]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/09/26 09:43:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成26年7月18日11時頃，１号機原子炉複合建屋（非管理区域）において，現場作業員が，地下２階の床面に約180ミリリットルの油溜まりを確認した。
+連絡を受けた当直員が11時15分に現場を確認した結果，油溜まりを確認した上層部にあたる地下１階非常用ディーゼル発電機Ｂ号機室の室内に油漏れを確認した。
+　このため，11時21分に当直長より消防本部へ連絡を行った。
+漏れた油は動弁注油タンクからオーバーフローして漏れたものであり，潤滑油プライミングポンプを停止すると共に，動弁注油タンク補給弁を閉止することにより，油の漏えいは停止した。
+　なお，漏えいした潤滑油の量は，潤滑油サンプタンクのレベルの変化量などから約1000リットルと推定される。
+　また，消防本部の確認後，漏えいした潤滑油の回収及び拭き取りを開始し，18時10分に完了した。
+現在，非常用ディーゼル発電機Ｂ号機に待機要求はなく，非常用ディーゼル発電機Ａ号機が使用可能なこと及び他号機の非常用ディーゼル発電機からの融通を行っていることから，保安規定第61条には抵触しない。
+
+＜時系列＞
+平成26年7月17日（木）
+10:56～11:12　非常用ディーゼル発電機Ｂ号機動弁注油タンク油張り
+平成26年7月18日（金）
+11:00　作業員より廃棄物処理施設制御室用空調機床に油溜まりが有る旨の連絡有
+11:05　当直員にて現場確認
+11:15　当直員にて非常用ディーゼル発電機Ｂ号機室内全域にて油漏れ確認
+11:19　潤滑油プライミングポンプ停止
+11:21　消防へ連絡
+11:24　動弁注油油張り弁（F031B）全閉
+11:25　運転管理部長へ連絡
+12:10　消防にて現場状況確認開始
+12:47　消防による現場検証終了
+12:57　漏えいした油の回収及び油拭き取り開始
+18:10　漏えいした油の回収及び油拭き取り完了
+18:18　漏えいした油の回収及び油拭き取り完了を消防へ連絡
+同日夜勤帯で原子炉複合建屋（管理区域）地下２階南西，使用済樹脂バルブ室天井に数滴の油滴を確認
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-S039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉複合建屋（非管理区域）における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/07/24 09:34:45]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

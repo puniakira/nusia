@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．設備面に対する原因調査
+１－１．要因調査
+(1)外的過大荷重：計測管に打痕・変形等は認められなかった。
+(2)強度不足：製造・材料・施工上の問題は確認されなかった。
+(3)応力腐食割れ(SCC)：JP No.9及び11の計測管及びスタンドオフ部の破面について外観観察及びレプリカのSEM観察を行った結果、SCCの様相を示す粒界破面は認められなかった。なお、SCCの要因である「材料」「応力」「環境」についても調査を行ったが要因は認められなかった。
+(4)疲労：
+１）破面観察：破面観察の結果、疲労破壊に特有の微細なすじ状模様が認められた。
+２）固有振動数測定：健全な計測配管について固有振動数を測定した結果、以下の通りであった。
+・第１セグメント（エルボ～第１スタンドオフ間）：約146～153Hz
+・第２セグメント（第１スタンドオフ～第２スタンドオフ間）：約121～139Hz
+・第３セグメント（第２スタンドオフ～第３スタンドオフ間）：約134～146Hz
+　東海第二発電所の原子炉再循環系(PLR)流量制御は、出口流量制御弁(FCV)により行われており、ポンプは起動時に375rpm（低速運転）、運転中は1,485rpm（高速運転）で運転している。その際の羽根切り周波数(VPF)は、低速運転時が31Hz、高速運転時が124Hz となる。
+１－２．加振源調査：疲労の可能性が高いことから、加振源となり得る事象について評価した。
+(1)熱疲労：定格運転時、ディフューザ内流体温度は274～275℃程度、PLRポンプ入口温度は約277℃であり、有意な温度差はない。
+(2)WJP施工による振動：JPディフューザ内面へWJP施工した際にJP計測管各部に発生する応力をモックアップ試験により疲労評価を実施した結果、発生応力は疲労限以下であった。
+　一方、き裂が進展する応力拡大係数は2MPa√ｍ以上（深さ1.7mm）（JP計測配管板厚2.2mm）であることから、WJP施工前にこれ以上の欠陥がある場合には、第21回定期検査時のWJPで破断に至る可能性がある。なお、WJP施工（1時間）により計測管が破断するためには、貫通き裂の場合には周方向に120度の範囲にき裂が必要となる。
+(3)PLR系の圧力脈動による振動：
+１）低速運転時については、計測配管が固有振動数を有しないことから共振する可能性は無い。
+２）高速運転時については、ポンプ羽根切り周波数に対して計測配管が共振することが考えられるが、高速運転時の1年間の繰り返し数は109レベルであるため、定常的な運転によって疲労限を超える応力を発生させる共振は生じていないと考えられる。
+　但し、FCV絞り運転※１を行った場合、ポンプ差圧は約1.2倍以上高くなり（PLR配管振動の加速度は約2倍）、羽根切り脈動の振幅も増大すると考えられる。
+これまでの運転におけるFCV絞り運転は次のとおりである。
+・起動/停止時のＰＬＲポンプの速度切替（FCV絞り運転時間：１サイクル当り約16.5時間)
+・１９サイクルに発生した再循環ポンプランバック事象※２（FCV絞り運転時間：11日間)
+・ＰＬＲポンプ高速試運転（FCV絞り運転時間：A系：2時間28分、B系：0時間45分)
+３）その他の圧力脈動による共振
+a）配管の振動データ分析：PLR系に取り付けられた振動計測システムによって測定された配管の振動データを分析した結果、FCV絞り運転時においてはポンプの羽根切り脈動成分以外に約150Hzの振動成分が存在することがわかった。したがって、共振する可能性がある。
+ｂ）音響解析：PLR配管及びRPV内アニュラス部を３次元モデル化し、ＰＬＲポンプを入力音源として音響解析を実施した結果、150Hzを、PLR高速試運転※３における温度・圧力の低い条件で入力した場合、PLR吸い込みノズルの周辺に音響効果が確認された。
+　エルボ近傍（第１セグメント）は、実測された固有振動数が約150Hzであることから、高速試運転時に生じるPLRポンプ150Hzの圧力脈動を音源とした音響効果によって共振することが考えられる。
+※１：ＦＣＶ低開度（１０％）以下で高速運転を行う状態
+※２：ＦＣＶが急速閉し、約１０％開度となる事象
+※３：ＰＬＲモータ取替により、炉水温度が常温程度において高速運転で試運転を行うこと
+１－３．応力評価
+ (1)疲労限評価：ＪＰ計測管の形状を模擬した試験片を用いて疲労試験を実施し、得られた疲労曲線から近似曲線により疲労限を求めた。(公称応力）
+  ・エルボソケット隅肉溶接部：室温：105MPa、300℃：95MPa
+  ・スタンドオフ溶接部：室温：85MPa、300℃：77MPa
+ (2)通常運転時の振動・応力解析：解析により固有振動数および発生応力を求めた結果、通常運転中の発生応力は疲労限を下回っていることが確認された。
+ (3)FCV絞り運転時の応力評価：PLR配管の振動データから得られるFCV絞り運転時の圧力脈動の増幅と音響影効果を考慮してFCV絞り運転時の応力を推定した。その結果、第１・２・３スタンドオフ部、エルボ部について、疲労限を超える可能性があることが確認された。
+２．運用管理面の調査
+　第２１回定期検査の起動後、保安規定に定める確認行為を行い、異常のないことを確認していたが、その後、定期検査中に行ったジェットポンプのクリーニング効果を確認するため、ジェットポンプ流量（差圧）の推移を確認したところ、平成１７年１１月２１日、２０台あるジェットポンプのうち、２台（Ｎｏ．９、１１）の流量（差圧）指示が過去の変動範囲ではあるものの、高めに推移していることが確認され、その状況は、今サイクル継続された。
+（１）事象確認時等の判断について
+　事象確認時において、点検調査（指示値の妥当性確認、計器の健全性確認、計測管の健全性確認）を行った。
+事象確認時実施した項目
+・指示値の妥当性確認：今サイクルのプラントパラメータ（再循環流量、炉心流量、炉心差圧等）の詳細評価を実施した結果、通常運転の範囲であり、保安規定に記載されている運転上の制限内であった。
+さらに別な視点として、炉心差圧と炉心流量の相関を確認したが、前サイクルと比較して炉心流量が２％程度高め（約８５０ｔ／ｈ）に推移しているものの過去１４サイクルの変動範囲内であり、明らかに差が生じているものではなかった。
+・計器の健全性確認：過去の点検記録（第２１回定期事業者検査）を確認した結果、問題はないと判断した。
+・センシングラインの健全性確認：第２１回定期事業者検査時におけるビデオ記録を確認した結果、異常は認められなかった。
+また、平成１３年に発生した他プラントトラブルの水平展開時の評価結果（配管共振評価結果確認）においても問題はなかった。
+　上記の調査を行ったものの、以下の考察から発電所及び本社を含め組織として、計測管の破断と断定することができなかった。
+・指示値としては増加傾向を示していたが、その理由としてジェットポンプのクリーニングのばらつきが考えられた。
+・ビデオ記録においては破断部位が明確に撮影されていなかったものの、他プラントの不具合部位については一部確認できており、異常は認められなかった。また、計測管下部の破断は生じないとの解析評価であり、これまでの運転実績からも破断は考えられなかった。
+・運転中に計測管が破断した場合、当該ジェットポンプ差圧（流量）指示や炉心流量等がステップ状に変化し異常を検知できるが、今回の場合、そのような特異点がなく、破断を確定させるためのパラメータ変動がなかった。
+　この結果、当該計測管は健全であるとの判断のもと、保安規定に定められたそれぞれの事項（第２５条；原子炉熱的制限値、第２６条；原子炉熱出力及び炉心流量、第２９条；ジェットポンプ）に対して、運転上の制限を満足することを確認して運転を継続した。
+　また、第２２回定期検査停止時においても、高めだった２台のジェットポンプの指示が約１２００ｔ／ｈを境に低めの指示となったが、保安規定で定める運転領域内であり、プラント停止操作には影響はなかった。
+（２）計測管の破断を踏まえた運転データの再評価
+　事象確認時、ジェットポンプ計測管の異常と判断できなかったが、今回の定期検査での点検の結果、ジェットポンプ計測管の破断が発生していることが確認された。
+　このため、改めて、プラントデータの再評価（プラントデータ収集装置（１分毎の瞬時値）にて再評価）をすると、揺らぎが小さいことはもとより、揺らぎが炉心差圧に同調していることが分かった。これは、ジェットポンプ側の検出部が一定圧力を計測している状態であり、他のジェットポンプと計測点が異なっていること、すなわち、破断（若しくは閉塞）していることを意味していることが分かった。
+　これにより、運転中のデータを詳細に評価すれば、計測管の異常が検出できることが検証できた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8804</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/05/17 13:31:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3755</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/07 16:48:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611220830]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[再発防止対策としては以下のとおり。
+１．設備管理面の対策
+(1)今回の対策として、計測管等に破断、ひび割れが認められたJPについて、破断している計測管は、カップリング及び止め輪で接続して復旧した。スタンドオフ溶接部の破断、ひび割れは、ＪＰディフューザにクランプで固定し復旧した。
+いずれの場合も、ＶＰＦ124Hzとの共振を回避した。
+ １）No.10の計測管
+ 計測管破断部は破断部上下及び第１スタンドオフを切断した後、計測管は新管及び上下２個のカップリング及び止め輪で接続し、ＪＰディフーザにクランプで固定した。
+ ２）No.9,11の計測管エルボ部
+ 計測管エルボ部は、エルボと計測管を接続するレデューサ状のカップリング及び止め輪で接続した。
+ ３）ＪＰ Ｎｏ．３，４，８，９及び１１のスタンドオフ
+ スタンドオフを仕上げ加工し、計測管をＪＰディフューザにクランプで固定した。
+（２）今回の対策として、上記（１）以外のJPについて、今後、ＦＣＶ絞り運転時に疲労限を超える応力が発生することを防止するために、計測管の固有振動数測定結果及び減衰率からＶＰＦ124Hzとの共振の可能性が否定できないＪＰ Ｎｏ．１，１２，１４について、計測管をＪＰディフューザにクランプで固定し、共振を回避した。
+２．運用管理面の対策
+　ＪＰ計測管の異常兆候を適切に把握するため、今後以下の対応を図ることとする。
+（１）再循環ポンプ運転時、再循環ポンプ速度切替時の確認パラメータの追加
+　原子炉起動操作中の再循環ポンプ速度切替時は、再循環ループ流量や炉心流量に加えて、個々のジェットポンプ流量も確認し、その値が適切であることを確認することとする。また、運転切り替え時以外においても、異常兆候を早期に把握できるよう、トレンド管理するものとする。
+（２）保安規定２９条第２項（ロ）の運用の見直し
+　今回の事象に鑑み、計測管の破断を検知できるよう管理範囲２０％を、従来実施しているＪＰ差圧指示計のフルスケール目盛に対する２０％から、平均値を１００％としたときの２０％で管理するよう運用を見直すとともに、日々の確認シートには管理範囲２０％の値を具体的に記載するよう変更し、相対的な差を認識できるようにする。
+（３）異常時のデータの詳細評価の実施
+　上記のトレンド管理、さらには通常と異なる状態が確認された場合は、これまで以上に過去の状況や他パラメータとの関連性を十分確認することとする。
+（４）社内規程の改善
+　今回のジェットポンプ計測管等の破断は、原子炉再循環ポンプ等の系統からの124Hzと150Hzの振動による共振で疲労破壊したものと推定され、124Hzの対策としては、破断した計測管等の補修を実施するとともに124Hzで共振することが否定できない計測管は、クランプにより補強し、固有振動数を高くした。
+　一方、150Hzの対策については、破断した計測管の補修を行い、150Hzの発生源となる常温での高速試運転（FCV絞り）を行わないこととしたため、その旨「運転管理業務要項」等に記載した。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/05/17 13:31:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第22回定期検査（平成18年11月18日解列）中のところ、平成18年11月21日より定期事業者検査「ウォータージェットピーニング施工周辺部検査」として通常運転中のパラメータが他のＪＰと比較して、有意な違いのあったジェットポンプNo.9&11計測管等の遠隔目視検査(MVT-1)を実施した。その結果としてＪＰ計測管等に破断を確認した。また、全ＪＰ計測管等の点検の結果、以下の事象を確認した。
+・No.3：第１、３スタンドオフ溶接部の破断を確認
+・No.4：第２スタンドオフ溶接部のひび割れを確認
+・No.8：第２スタンドオフ溶接部のひび割れを確認
+・No.9：計測管エルボ溶接部の破断及び計測管第１スタンドオフ溶接部の破断を確認
+・No.10：計測管（第１スタンドオフ部上）のひび割れを確認
+・No.11：計測管エルボ溶接部で破断を確認
+なお、その他の部位については目視検査（ＭＶＴ－１又はＶＴ－３）の結果、異常は認められなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-原電-M016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．設備面の原因 
+製造・材料・施工上の問題がなかったこと、応力腐食割れとは考えられないこと、及び破面観察により疲労に特有の特徴が見られたことから、疲労による破損と推定される。
+ 疲労破断をもたらした荷重要因について検討した結果、JP計測管が共振する流動励起振動があり得ること、及び熱荷重の影響とは考えられないことから、流動励起振動により疲労破損したものと考えられる。
+ 可能性のある流動励起振動について、東海第二発電所のPLR配管系の特徴及び運転保守履歴を考慮して評価した結果、以下の通りと推定された。
+(1)A系PLR高速試運転／１８回定期検査時（２００１年）
+ この際にPLRポンプを音源とする圧力脈動（150Hz）が、ＰＬＲ吸い込み配管で共鳴し、PLR吸い込みノズルの周辺に配置されたNo.10及び11の計測管の第１セグメントが共振して計測管の繰り返し応力が疲労限を超え、疲労き裂が発生・進展した。繰り返し回数は10６程度。
+(2)FCV絞り運転11日間／１９サイクル（２００２年）、起動・停止時
+PLRポンプの羽切り圧力脈動（124Hz）が増大し、No.3,4,8および9の計測管の第2，3セグメントにおける共振が増大し、スタンドオフ溶接部の繰り返し応力が疲労限を超え、疲労き裂が発生・進展した。
+また150Hzの圧力脈動が生じ、第１セグメント（固有振動数約150Hz）部に既に存在していたNo.10及び11の疲労き裂がさらに進展した。またNo.9の計測管はさらに第１セグメントで疲労き裂が発生した。繰り返し回数は108程度。
+(3)第２１回定期検査時（２００５年）
+第２１回定期検査時には、WJP、B系PLR高速試運転を行っている。WJPによって発生する応力は低く（繰り返し回数は１０６程度）、またB系PLR高速試運転については短時間の試験（繰り返し回数は105程度）であることから、疲労き裂が生じる可能性は少ないが、き裂を進展・破断した可能性は否定できない。
+２．運用管理面の原因
+　計測管の破断を踏まえ、事象確認時等に計測管の異常と判断できなかった状況を評価した。その詳細は以下のとおり。
+（１）保安規定の確認は、プロセスコンピュータから出力（１０分平均）される個々のジェットポンプ差圧とジェットポンプ差圧平均を用い日々その値が２０％以内であることを確認しているが、日々の確認シートがディジタル値のみであることや保安規定の範囲の絶対値が記載されていないため、相対的な差が分かりにくかった。このため、ジェットポンプ差圧（流量）指示が高いことの認識に遅れが生じた。⇒異常兆候の確認の遅れ
+（２）炉心差圧とジェットポンプ流量に相関があることも認識しており、定格運転中のデータによりその相関を確認したが、保安規定の確認として用いるデータを使用したため、揺らぎの状況が確認できず、これまでのサイクルと有意な差はないと判断した。⇒データ評価手法の不足
+（３）前回定期検査中のビデオ映像に破断の痕跡がなかったことを確認したが、当該ビデオ映像はウォータージェットピーニングの施工状況を確認するためのものであったため、結果として今回の破断部位の詳細は映っていなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[ジェットポンプ計測管等の破断・ひび割れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/08 18:50:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>8804</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ジェットポンプ計測管]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8804</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[102]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8804</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8804</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8804</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8804</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

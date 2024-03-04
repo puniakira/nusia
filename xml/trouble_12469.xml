@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12469</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/03/09 11:35:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>67570</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/08/08 14:02:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20160805]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/03/09 11:35:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２８年８月５日，女川原子力発電所３号機（平成２３年９月１０日より第７回定期検査中）の原子炉建屋（放射線管理区域外）において，１０時２１分から非常用ディーゼル発電機Ｂ号機 の定期試験を開始しました。その後，定格出力到達後の出力調整を行った際に，操作対しての発電機出力の応答が通常よりも遅れることを確認したため，出力を降下させ，１３時２３分に，同発電機を手動で停止しました。
+　現在，原子炉内に燃料集合体は装荷されておらず，燃料集合体を貯蔵保管している使用済燃料プールの冷却等に必要な電源は，外部電源により確保されておます。また，仮にこの外部電源が失われた場合でも，これらの冷却等に必要な電源は，女川３号機の他の非常用ディーゼル発電機，他号機の非常用ディーゼル発電機および大容量電源装置により確保されます。本事象による発電所周辺への放射能の影響はありません。
+
+原因について調査を行った結果、当該発電機の調速機（※１）に異常が生じている可能性があると判断し、予備の調速機に交換したうえで定期試験を行いました。その結果、出力調整時の操作に対し、発電機出力が適切に応答することを確認したため、当該発電機は、８月１２日１２時４６分に待機状態（※２）となり復旧しております。
+
+取り外した当該発電機の調速機について、工場にて作動確認および分解点検を実施した結果、異常は　 認められなかったことから、調速機の不調は一過性のものであると判断しました。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以　上
+
+　　※１ ディーゼル発電機への燃料の供給量（出力）を調整し、発電機回転速度を一定に保つための
+　　　　 制御装置。
+　　※２ 原子炉施設保安規定に基づき、常時、運転が可能な状態にしておくこと。
+
+
+　]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東北-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所３号機 非常用ディーゼル発電機Ｂ号機の不調について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/08/21 14:01:34]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

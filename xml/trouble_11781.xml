@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場調査結果
+　事象発生を受けて８月１１日から８月１２日にかけて現場調査を実施した。
+８月１１日の調査では遮断器の制御回路断路部（Ｈ）に電圧が確認されない状況が最初に認められたため制御回路断路部の接触不良と判断した。制御回路断路部の接触面の手入れを行った後に制御回路断路部（Ｈ）に電圧が確認されたことから、原因は接触面のグリース劣化による通電不良と判断した。
+　しかしながら、８月１２日に遮断器の投入操作を実施したところ、接続位置にて投入ができなかった。再度、原因調査のため遮断器本体の単体試験を実施したところ、動作不良が確認されたことから、遮断器内部にも異常の可能性があると推定した。
+　このため、遮断器について製造メーカーの工場にて詳細な点検を実施することとした。
+　なお、前回の遮断器点検は、６号機９回定検（平成２２年１２月）時に実施しており、異常はなかった。
+
+２．工場調査結果
+　現場調査での結果も踏まえ、工場にて原因調査を行った。遮断器について工場調査の結果を以下に示す。
+
+（１）外観調査
+ａ．機構部に変形、損傷、部品の脱落等の異常は認められなかった。
+ｂ．制御回路断路部のコネクタは、正常に装着されている状態であった。
+ｃ．接触子の外観を確認したところ、Ｈ端子及びＫ端子の接触子の先端に黒色の付着物のようなものが認められた。
+ｄ．制御回路基板コネクタの装着状態を確認したところ、正常に挿入されている状態であった。
+ｅ．制御回路基板コネクタのオス側（基板側）およびメス側（遮断器側）の外観を確認したところ、オス側の端子には接触した痕跡が認められ異常はなかった。また、端子の変形は認められなかった。
+ｆ．制御回路基板コネクタの（投入回路）の配線を取外し、外観を確認したところ、変形等の異常は認められなかった。
+ｇ．投入コイルの外観を確認したところ、コイル取付ねじおよび投入パドルのねじに緩みは認められなかった。
+
+（２）接触抵抗測定　
+　保護リレーのキープコイル接点・補助スイッチ接点・制御回路基板内のリレー接点の接触抵抗値に異常は認められなかった。
+
+（３）特性試験
+ａ．コイル抵抗測定
+投入コイルおよび引き外しコイルの抵抗値に異常は認められなかった。
+ｂ．開閉試験
+投入操作試験、引外し操作試験を行ったところ、正常に開閉動作することを確認した。また、制御電流についても異常は認められなかった。
+
+（４）組み合わせ試験
+　遮断器を引出しユニットに組み込み電動操作にて開閉試験を行ったところ、正常に開閉動作することを確認した。
+
+（５）制御回路断路部の詳細調査結果
+ａ．拡大観察
+外観点検にて、制御回路断路部のＨ端子及びＫ端子の接触子の先端に黒色の付着物のようなものが認められたことから、拡大顕微鏡にて接触子の表面を確認した結果、Ｈ端子には凹凸や金属の剥離が観察されたが、付着物は見られなかった。また、Ｋ端子を含め、全ての接触子について拡大顕微鏡にて接触子の表面を確認した結果、Ｈ端子以外の端子に半透明色の付着物があることが観察された。
+ｂ．付着物の成分分析
+Ｈ端子以外の端子で確認された付着物について顕微赤外分光分析法により付着物の赤外吸収スペクトルを測定し成分分析を行ったところ、増ちょう材（ジウレア）※の特性吸収が見られたことからＰ／Ｃ点検時において塗布されたグリースと推定した。なお、グリースの基油の特性吸収は見られなかったことから、グリースの種類の特定はできなかった。
+※増ちょう剤とはベースオイルを半固形にするために加える物質
+　ジウレアとは増ちょう剤の主成分で樹脂系の絶縁物
+ｃ．接触子のばねの圧力測定
+制御回路断路部の接触子のばね荷重をばね秤にて測定したところばね荷重は、正常な状態であった。
+
+（６）Ｐ／Ｃ盤の制御回路断路部の追加調査結果
+　遮断器の工場での調査結果を踏まえ、Ｐ／Ｃ盤の制御回路断路部について以下の追加調査を実施した。
+ａ．制御回路断路部抵抗測定
+制御断路部の交換前後でＨ(盤側)－Ｈ(遮断器)間及びＮ３(盤側)－Ｎ３(遮断器)間で接触抵抗を測定した結果、正常な値であり、異常は認められなかった。
+ｂ．付着物の成分分析
+投入不良の発生したＰ／Ｃ６Ｃ－２（３Ａ）ユニット（Ｐ／Ｃ盤）および同一環境で使用していたＰ／Ｃ６Ｃ－２（４Ａ）ユニット（Ｐ／Ｃ盤）の制御回路断路部に残留していた付着物について、顕微赤外分光分析法により赤外吸収スペクトルを測定し成分分析を行ったところ、いずれのユニットも前々回の点検時に塗布したグリースの特性吸収が見られた。
+　なお、この付着物は、前々回の点検時に塗布したグリースに含まれる増ちょう剤（ジウレア）と考えられるが、微量のため硬化の確認は出来なかった。
+ｃ．グリース残留に関する要因調査
+制御回路断路部に増ちょう剤（ジウレア）が確認されたことから点検時の状況について調査を行った結果、　Ｐ／Ｃ遮断器の点検の際には、制御回路断路部に塗布されている古いグリースを除去して新しいグリースを再塗布しているが、平成２１年９月以降「特別危険物」取扱いルールの変更により特殊引火物・第一石油類は防護区域内に原則持込禁止、それ以外の特別危険物（アルコール類・第二石油類）も極力代替品（非危険物等）を使用することとなり、それまで使用していた洗浄剤から代替品に変更になった。
+　この代替品は非危険物の洗浄剤であり、従来使用していた危険物指定（第二石油類）の洗浄剤に比べてグリース除去性能は低下する傾向がある。
+　このため、前回点検時（平成２２年１２月）において古いグリースの除去が十分に行われなかったことにより、前々回の点検時（平成２０年６月）に塗布したグリースが残留し、被膜が形成された可能性がありうる。
+
+（７）Ｐ／Ｃ盤ＰＯＳ、遮断器補助スイッチ分解調査
+　Ｐ／Ｃ盤ＰＯＳ及び可動部品である遮断器補助スイッチの分解調査を行ったところ、経年劣化（構成部品に囓り傷などの痕跡）の兆候は認められなかった。　
+　また、可動部の動きについても異常はなかった。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11781</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:46:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>45678</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/08/13 15:35:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201308111723]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）遮断器の投入不良が発生した同型のＰ／Ｃ制御回路断路部について、接触部表面に光沢が出るように、塗布されていた古いグリースを洗浄剤等により確実に除去する。
+
+（２）グリース除去後の制御回路断路部の確認として、遮断器と制御回路端子間の抵抗測定または電圧測定により健全性を確認する。
+
+（３）今後の点検において、点検手入れ前に塗布面のグリース状態の観察、遮断器と制御回路端子間の抵抗測定を行い、前回点検以降のグリースの劣化の状態把握を継続的に実施し、知見の拡充に努めるとともに、点検周期の見直しの検討に活用する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:46:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（発生状況）
+　平成２５年８月１１日午後５時２３分頃、定期検査中の柏崎刈羽原子力発電所６号機タービン建屋１階（非管理区域）非常用電気品室において、電源切替作業のために停止していた海水熱交換器エリアの４８０Ｖ電源盤について、作業終了に伴い電源盤の復旧作業を行ったところ、当該電源盤の遮断器が動作しないことを確認した。
+　当該電源盤は、原子炉補機冷却系の電動弁等に電源供給を行っており、これにより非常用ディーゼル発電機１台の冷却系統が使用できない状態となった。
+
+（安全性、外部への影響）
+　今回の不具合は作業のために隔離中の系統で発生したもので、６号機では、他の２系統の非常用ディーゼル発電機が待機状態であり、保安規定上の問題はない。
+　本事象による外部への放射能の影響はない。
+
+（対応状況）
+　当該遮断器は、８月１２日に予備の遮断器と交換し、正常に動作することを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-M018]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）制御回路断路部の接触不良
+　工場において遮断器の制御回路断路部接触子の接触面を拡大顕微鏡で確認した結果、制御回路断路部Ｈ端子以外の端子に付着物が認められた。付着物の定性分析を行ったところ、グリースであることが確認された。
+　また、Ｐ／Ｃ盤内の制御回路断路部端子の付着物を調査した結果、点検の際に接触部保護のために前々回の点検時に塗布したグリースの特徴が確認された。
+　グリースに含まれる増ちょう剤（ジウレア）には樹脂（絶縁物）が含まれているため、この成分が遮断器の接触子と盤側制御端子との間に介在し、皮膜を形成した場合には導通不良を起こす可能性は否定できない。
+
+　以上の結果から、遮断器投入不良の推定メカニズムは以下のとおりと推定した。
+
+　＜遮断器投入不良の推定メカニズム＞
+①制御回路断路部には接触部の保護のためグリースを塗布。（点検時に拭き取り再塗布を実施）
+②グリースが膜状態から経年影響によりグリース成分の増ちょう剤（ジウレア）が固化、接触面に被膜を形成し、導通不良に至る状態が発生。
+③遮断器の入操作を行ったが、接触面にできた被膜の影響により導通不良となり投入回路が形成されないため投入不良が発生したものと推定。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６号機　タービン建屋１階　非常用電気品室の電源盤の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>45259</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/08/20 18:48:54]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11781</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[024]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[遮断器・断路器]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>17</SORT_NO>
+						<BUHIN_CODE><![CDATA[024]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[Ｐ／Ｃ遮断器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[グリース固化]]></S_GENIN_NAME>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2080]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>9</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[熱時効、異物付着、特性変化、き裂、硬化、剥離、変形、中性子照射脆化 等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2080]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11781</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

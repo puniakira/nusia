@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１ 仮設ケーブルが損傷した原因
+　　仮設ケーブルが損傷に至った原因について、要因分析を基に以下の点検を行った。
+（１）変圧器の内部異常
+　　　短絡の観点から巻線抵抗を測定した結果、バランスしており異常はなかった。地絡の観点から、絶縁抵抗測定を行った結果、1,000ＭΩ以上であることから、異常はなかった。また、変圧器に過負荷となる事象があったか状況を確認したが、変圧器二次側負荷は全て切り離されており、変圧器受電時は無負荷状態であったことを確認したことから、過負荷とはなっていなかった。
+　　　これらの点検結果から、変圧器の内部異常はなかった。
+（２）ケーブル異常
+　　　短絡の観点から線間絶縁抵抗測定を行っており、記録を確認した結果、1,000ＭΩ以上であることから、異常はなかった。地絡の観点から、対地絶縁抵抗測定を行った結果、1,000ＭΩ以上であることから、異常はなかった。また、ケーブルの断線を確認した結果、本設ケーブルに損傷はなかったが、仮設ケーブルには過電流によるものと考えられる損傷が確認された。
+　　　したがって、ケーブルの異常はなかったものの、過電流の発生により損傷が認められた。
+（３）ケーブル選定誤り
+　　　変圧器定格（４０ｋＶＡ、３相、４６０Ｖ）より、定格電流は５０Ａとなり、仮設ケーブルサイズ（６００Ｖ－３Ｃ－８ｓｑ）の許容電流値は５４Ａであるため、使用状態に問題はない。また励磁突入電流について厳しい条件を仮定しても仮設ケーブルの温度上昇は許容温度を満足することを確認したことから、問題はなかった。
+　　　したがって、ケーブル選定において誤りはなかった。
+（４）ケーブルの接続誤り
+　　　ケーブルの接続誤りについて、目視確認を行った結果、本来、一次側（４８０Ｖ）に接続するべきところ、二次側（２００Ｖ系）に接続されていることを確認した。なお、このような接続をした場合、変圧器鉄心は過励磁状態となり磁気飽和して、過電流が発生する。
+
+２ ケーブルの誤接続を生じた原因
+（１）工事要領書の記載状況の調査
+　　　工事要領書の記載状況を確認した結果、「ケーブル解結線図を書いておくこと。」との注意事項に対し、変圧器の一次側に入力するよう、解結線図が作成されていることを確認した。
+      なお、ケーブル解結線図は、以下の聞き取り調査の結果に示すとおり、協力会社より変更依頼があり、見直したものを反映していることを確認した。
+（２）協力会社作業員への聞き取り調査結果
+　　　原因調査結果より関係者への聞き取りを行った。
+　　１）１２月８日、仮設ケーブルの敷設にあたり、当初はＭＣＣ １Ｋ－３－１Ｅの二次側に仮設ケーブルを接続する予定であったが、今回の作業目的である希ガスホールドアップ装置冷凍機ＭＣＣユニット取替え箇所の上部に充電部が発生するため、ＭＣＣ １Ｋ－３－１Ｅの負荷である変圧器の一次側に入力するよう、協力会社の設計者より当社に依頼があった。
+　　２）工事監理員は、ＣＷＤ（展開接続図）を用いて確認を行ったが、配線に係る具体的な情報が得られなかったことから、変圧器廻りの現場確認を行うこととした。現場確認にて変圧器上部の金属バーの母線を４８０Ｖの供給側と思い込み当該母線に接続されている電線をたどったところ、中央の中継端子台に接続されていることを確認したため、中央の中継端子台を４８０Ｖの変圧器一次側と判断した。
+　　３）１２月９日、工事監理員、現場作業責任者および作業班長により現場確認を行った際、現場作業責任者および作業班長は、工事監理員から中央の中継端子台に仮設ケーブルが接続できるかとの依頼に従い中継端子台を確認したところ、「Ｒ，Ｓ，Ｔ」の表示があったことから、変圧器の一次側と思い込んだ。
+　　４）現場調査結果を踏まえ、現場作業責任者は、工事要領書を作成した。
+　　５）１２月１２日に工事要領書に基づき、仮設ケーブルの敷設作業を実施した。
+（３）ＭＣＣ １Ｋ－３－１Ｅからの供給線を誤認した原因
+１）工事監理員は、４８０Ｖ母線から供給を受けている変圧器の上流側端子に接続することを計画した。
+２）現場を確認したところ、当該変圧器収納ユニットに出入りしている金属のバーの母線に接続されている電線があった。
+３）当該変圧器収納ユニットは、ＭＣＣ １Ｋ－３と列盤構成となっていることから、金属バーの母線（２００Ｖ）にて取り合っている当該線を供給線と誤認した。
+４）母線に接続されている電線をたどったところ、中央の中継端子台に接続されていたことから、中央の中継端子台を変圧器の一次側であると判断した。
+（４）当該変圧器中継端子台の「Ｒ，Ｓ，Ｔ」を仮設ケーブル接続点と誤認した原因
+　　１）当該変圧器中継端子台は計３つあり、左側から「Ｕ，Ｖ，Ｗ」、中央に「Ｒ，Ｓ，Ｔ」、右側に「Ｒ０，Ｎ０，Ｔ０」と表示されていた。
+２）工事監理員の依頼に基づき、現場作業責任者および作業班長は、中央の中継端子台を確認した結果、「Ｒ，Ｓ，Ｔ」の表示であることを確認した。したがって、変圧器の一次側であると判断した。
+　　３）当該変圧器中継端子台には、電気規格調査会標準規格（ＪＥＣ－２１３７　誘導機）等にあるように、相表示として一般的に供給側であることを示す「Ｒ，Ｓ，Ｔ」記号が表示されていると思っていた。なお、当該変圧器中継端子台の「Ｒ，Ｓ，Ｔ」は、変圧器二次側から２００Ｖ ＭＣＣ母線に供給する意味で表示されていた。
+
+３　工事要領書作成段階で誤認に至った原因調査
+（１）最初に現場確認を行った工事監理員は、ＭＣＣからの供給線は金属バーの母線にて取り合っていると思った。その後に行った工事監理員、現場作業責任者および作業班長による現場確認において、工事監理員からの依頼に基づき、端子台を確認したところ「Ｒ，Ｓ，Ｔ」表示がされていた。
+（２）このため、その中継端子台に接続されている電線をたどり、実際に当該変圧器の一次側に接続されていることの確認が行われなかった。
+（３）現場作業責任者および作業班長は、当該変圧器中継端子台の「Ｒ，Ｓ，Ｔ」が、変圧器二次側から２００Ｖ ＭＣＣ母線に供給する意味で表示されているとの考えに至らなかった。
+（４）今回の工事要領書は、ＭＣＣユニット間で仮設ケーブルを敷設するための標準化された　様式を使用していたことから、変圧器ユニット内配線が記載されていないＣＷＤ（展開接続図）を使用したにも係らず工事要領書に反映されることはなかった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11456</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/05/17 13:32:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>27519</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/12/20 19:05:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201112121945]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の事象を踏まえ、以下の対策を実施する。
+（１）ケーブル敷設時の注意事項として、次の事項を「工事要領書作成運用手引書」に反映し、保修室内に周知する。
+また、当社管理職は、この手引書に基づき作成された工事要領書を確認する。
+１）ケーブル敷設の工事要領書作成段階において、端子台配列、端子台の表示および接続箇所を具体的に工事要領書に記載するよう調達要求事項に明記する。
+２）ＣＷＤ（展開接続図）等で不明なものは、その根拠も工事要領書作成段階に記載させる。
+（２）当該変圧器の中継端子台にて、入力側と出力側の識別を行うために、一次側、二次側、三次側の表示を取り付ける。また、ＣＷＤ（展開接続図）にも反映する。
+（３）今回の不具合事例に鑑みて、作業前チェックの重要性やダブルチェックの意義等について、再度、所員並びに協力会社に対して周知を行うとともに、今後、教育資料に登録し継続的に教育する。
+（４）水平展開として、次の対策を実施する。
+１）発電所では、工業規格に基づき製作された機器を購入していることより、内部配線による接続を行った場合に、端子台（一次側、二次側）の表示が変わる可能性がある変圧器を対象に、当社および協力会社合同にて、中継端子台の表示の取付け状況を調査し、表示のないものについては表示を取り付ける。また、ＣＷＤ（展開接続図）にも反映する。
+２）現在実施中、又は今後実施する工事・作業・業務の工事要領書について、実施される内容が適切に記載されているかの机上点検を実施し、記載上の不足が確認された場合は見直しを指示する。また、新たに作成する工事要領書についても同様の確認を継続して実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/05/17 13:32:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所１号機は、第３３回定期検査中の平成２３年１２月１２日、希ガスホールドアップ装置冷凍機取替工事に伴う４８０Ｖ「モータコントロールセンタ（以下、「ＭＣＣ」という。）１Ｋ－３」（廃棄物処理建屋２階）停電準備のため、廃棄物処理建屋１階の「ＭＣＣ１Ｒ－３Ｂ（予備）」より「ＭＣＣ１Ｋ－３－１Ｅ（変圧器一次ユニット）」（以下、「当該変圧器」という。）に仮設ケーブルを敷設※１した。
+　仮設ケーブルによる変圧器受電のため、運転員が１９時４４分に「ＭＣＣ１Ｒ－３Ｂ」を投入したところ、約１０秒後にＮＦＢが自動トリップした。直ちに運転員が同ＭＣＣユニットの前面カバーを開けたところ、ユニット内で出火していることを１９時４５分に確認したため、その旨を発電長に連絡した。
+　発電長は、運転員に直ちにＡＢＣ消火器（１本）にて消火を指示した後、１９時４５分に公設消防へ連絡した。なお、同時刻に火災感知器が動作（廃棄物処理建屋１階ＭＣＣ１Ｒエリアおよび２階チャコールベットエリア）したことを確認した。
+　発電室副長が、ＭＣＣおよび変圧器の状況を確認した結果、「ＭＣＣ１Ｒ－３Ｂ」内のＮＦＢ二次側の仮設ケーブル、その上部に位置する「ＭＣＣ１Ｒ－３Ａ（予備）」内の二次側ケーブル、および変圧器に接続した仮設ケーブル等の焦げ跡等を確認した。
+　公設消防による現場確認の結果、２０時５２分に過電流による短絡事象（火災ではない）と判断された。
+　なお、本事象において負傷者は発生しておらず、環境への影響もなかった。
+　＊１：希ガスホールドアップ装置冷凍機取替工事に伴い当該ＭＣＣを取替えることから、ＭＣＣ １Ｋ－３母線の停電を計画。ＭＣＣ１Ｋ－３－１Ｅより、変圧器（ＭＣＣ　１Ｋ－３－６Ａ内）を介して廃棄物処理建屋全域の照明電源を供給していることから、当該変圧器一次側に仮設ケーブルを敷設した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-原電-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果から、今回の仮設ケーブルが損傷した原因は、仮設ケーブルを一次側に接続するところ、誤って二次側に接続したため、過電流が発生し、仮設ケーブルが損傷したものと推定した。
+　また、変圧器の二次側中継端子台を一次側端子台と誤認した原因は、次の通りと推定した。
+（１）現場作業責任者は、工事要領書作成時点で、ＣＷＤ（展開接続図）にて読み取れない端子台にて仮設ケーブルを接続するにも係らず、「一次側端子解線」と作業目的だけを記載しており、現場調査で確認された端子台配列、端子台の表示および接続箇所が具体的に記載されていなかった。このため、当社管理職は工事要領書の確認にあたって十分な情報がなかったにも係らず確認した。
+（２）変圧器ユニット内では、端子台表示が変圧器と異なることがあるにも係らず、「Ｒ，Ｓ，Ｔ」記号が表示された中継端子台を一次側と判断した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物処理建屋１階での過電流による短絡事象について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[ユニット内で出火していることを確認した日時]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>27540</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/12/20 19:05:36]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[263]]></KIKI_CODE>
+			<TROUBLE_ID>11456</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11456</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[044]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[電気回路]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>28</SORT_NO>
+						<BUHIN_CODE><![CDATA[044]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[263]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[分電盤]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11456</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11456</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11456</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11456</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

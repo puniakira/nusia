@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　窒素封入設備廻りのLCO監視計器34台（当該計器を除く）について、IDSを確認したところ、流量計5台に誤記が確認された。
+　IDSに誤記が確認された次の5台については、5/23にIDS改訂実施済み。
+
+　・1号機 PCV N2注入流量計
+　・1号機 RPV N2注入流量計
+　・2号機 N2注入流量計
+　・3号機 N2注入流量計
+　・3号機 RPV N2注入流量計
+
+　窒素封入設備の計器IDSは、設置時の2011年には未作成であったため、2013年に請負企業へIDS作成を発注した。
+　請負企業は、IDS作成の要領や手順が明確でなかったため、現場計器と取扱説明書など図書との照合が不十分となり、誤った測定範囲を記載したと推測される。（上記の5台も同様）
+　また、当社主管箇所は報告書受領時のIDS記載内容の根拠となる取扱説明書等との確認が不十分だったことから、IDSの誤記に気づけなかったことが原因と考える。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[126]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12977</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2020/10/27 15:12:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[実施計画Ⅲ第1編第25条1項「窒素ガス封入設備」運転上の制限「窒素ガス分離装置１台が運転中であること」]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>93793</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/07/03 18:47:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201905202050]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　　対策①－１【ＩＤＳ作成・審査の問題】
+　　（１）計器選定メーカ以外がIDSを作成した場合は，エビデンスとのチェックを行う。
+　　　　　→「計測制御設備関連業務運営手引き」に記載し，関係各所へ周知する。
+　　　　　（今回実施する計器の適切性確認の結果で、新たにIDS作成が必要となり作成を行う場合等に上記対策を適用）
+
+　　対策①－２【設備重要図書管理の問題】
+　　（１）今後設置・改造する設備は，上位図書である系統設計仕様書や機器設計仕様書を確認して
+　　　　　IDSに反映できるように上位図書の整備を図る。
+
+　　対策②－１－１【保全の要因（ＣＢＭ）】
+　　（１）保全方式としてCBMを選択した際には、異常兆候確認された際の対応等の事前に検討しておく。
+　　　　　(CBMを設定している機器について再評価が必要)
+　　　　＜再評価の範囲(案)＞
+　　　　　重要設備のうち、高線量や狭隘部等にあり、容易に点検できない機器を対象
+　　　　 （CBMを適用していたら、機能回復の方法を想定しておく）
+
+　　（２）現在、選択している保全方式が妥当か再評価
+　　対策②－２【設備の要因】
+
+　　（１）原子炉建屋内ホースの交換を実施し、封入量の改善を図る。
+　　　　　また、作業時に既設接続点・交換したホースの内部確認を行い、封入量低下の原因を調査する。
+　　　　　調査結果に応じて、必要な保全を検討し、保全計画に反映する。
+　　　　　※封入ラインの材質変更・ルートの変更等の恒久対策については別途検討。
+　　（２）窒素封入ライン信頼性向上として、新規に窒素注入ラインを追設する。
+　　　　　現状ＲＰＶ窒素封入ラインは単一構成のため、ラインの追設により、多重化し、
+　　　　　オンラインメンテナンスが可能な設備を構築する。
+
+　　対策③【ＬＣＯ総点検時の実施箇所が不明確】
+　　（１）ＬＣＯ総点検の確認方法について再検証を行い、確認漏れ等が無いか調査する。
+　　　　　なお、認漏れ計器が確認された場合は、ＬＣＯ計器の信頼性確認において、
+　　　　　計器が適切に設置されていることを確認する。
+　　　　＜確認点＞
+　　　　　・その他に設置時の確認が漏れた計器がないか追加調査する。
+　　　　　・その他に抽出した業務プロセスに対して、確認不足がないか調査する。
+
+　　対策④－１【情報共有における問題】
+　　（１）設備の異常及び兆候に関する情報については、パンチリストを作成して管理する。
+　　　　　また、パンチリストの内容・進捗状況を部内会議等で共有し、引継漏れを防止する仕組みを構築する。
+　　（２）設備の異常及び兆候に関する情報共有の再徹底を図る。
+
+　　対策④－２【重要パラメータ異常兆候確認時における情報共有及び要意思決定のプロセスが不明確】
+　　（１）重要パラメータの異常兆候が発生した場合、所内に情報共有する仕組みを構築する。
+　　　　　＜案＞
+　　　　　・当直によるパラメータ監視において、パラメータに変化が確認された場合で、
+　　　　　　異常と判断できない場合は監視強化に移り、関係者へ状況を周知し、共有する。
+　　　　　・パラメータの変化が進展し、異常兆候と判断できた場合は、関係者へ報告し、
+　　　　　　速やかに対応方針をまとめる。
+
+　　（２）異常兆候の確実な把握と共有に関する仕組みの構築について、LCO関連の重要設備を対象
+　　　　　として検討し試運用を開始する。
+　　　　　具体的には原子炉注水系、窒素封入設備、ガス管理設備を対象として、下記の検討を行う。
+
+　　　　　１．通常状態（ベースライン）の整理
+　　　　　　　・異常兆候に気づくための前提として、通常状態（ベースライン）について取りまとめる
+　　　　　　　（例）系統概要、計器の特性、パラメータ監視の方法、トレンドの特徴
+　　　　　　　　　　（通常の数値、季節変動、他のパラメータとの相関）
+　　　　　２．パラメータ監視状態共有方法の整備
+　　　　　　　パラメータの状態を見える化するためのツールを整備し、ベースラインに基づく
+　　　　　　　異常兆候のチェックを行い共有する運用を試運用として開始する。
+
+　　対策⑤【計器への理解不足の問題】
+　　　（１）当事象のＯＥを作成し周知する。（7/10周知済）　
+　　　（２）計器の読み方の当直ノウハウを作成して、当直へ周知　(7/10周知済)
+　　　　　　また、データ採取用メモ（手入力データ採取用紙）に計器の測定範囲を追記することで、
+　　　　　　データ採取時に範囲内であることを確認できるようする。（7/10運用開始）
+　　　（３）当該設備を常時監視出来るようにし，計測範囲外となった場合はANN発生させることで
+　　　　　　当直員が異常に気付ける構成とする。
+
+　　対策⑥【変更管理の問題】
+　　　（１）系統の運用方法や重要度（社会的影響度含む）が変更になる場合は、変更管理を
+　　　　　　確実に実施でき、計器型式変更の要否、保全方式の妥当性確認が出来る仕組みを作る。
+
+　　対策⑦【公開パラメータへの不適合に関する情報共有の問題】
+　　　（１）計器故障でなくても、指示値の読み誤りに係る場合は、公開パラメータに影響を
+　　　　　　与える可能性があることから、すべて関係箇所へ連絡する。
+　　　　　　
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/10/27 15:12:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所2号機の原子炉格納容器内窒素封入設備に設置している、窒素封入流量計の測定範囲の下限値に誤りがあることを確認（誤：5Nm3/h、正：10Nm3/h）。
+　当該計器の指示値は、計器の測定下限値を下回っていることから、5月20日19時30分、代替の窒素封入流量計器により、窒素封入流量計の測定範囲内であることを確認。
+
+　至近の記録を調べたところ、2019年3月16日および4月23日から5月19日については、実施計画Ⅲ第１編第25条２項(２)に基づく、必要な窒素封入量(5Nm3/h以上)が確保されていることの毎日１回の確認ができておらず、実施計画Ⅲ第１編第30条３項に基づき、実施計画Ⅲ第１編第25条１項の窒素ガス封入設備に関する運転上の制限「窒素ガス分離装置１台が運転中であること」を満足していない可能性があると5月20日20時50分に判断。
+
+　なお、窒素ガスの封入設備に異状はなく運転を継続していること、PCVガス管理設備で監視している水素ガスの濃度は、0.08%で実施計画に基づく水素濃度管理値(1.0%以下)に比べて十分低いことから、原子炉の状態は安定していると判断。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-東京-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　本事象について、ＲＣＡにより分析を行い、問題点を抽出した。
+　各対策にオーナーを定め、詳細な対策を検討し、処置を行う。
+
+　※問題点の背後要因等、詳細な情報は添付資料参照。
+　問題点①　2u窒素封入流量計の測定範囲が誤った状態でＩＤＳが作成・登録された。
+
+　問題点②　2u窒素封入流量が低下傾向が見られている。
+
+　問題点③　過去に実施していた、LCO総点検の際、当該流量計のIDS誤りを見つけられなかった。
+
+　問題点④　窒素封入量低下傾向把握時の対応・情報共有が不十分。
+
+　問題点⑤　当直では、最小メモリ以下(測定範囲外)となった、2u窒素封入量をデータ採取していた。
+
+　問題点⑥　設備設置以降に、系統の運用方法や，重要度（社会的影響度含む）が変更になったが、
+　　　　　　　　設置時の計器のまま使用していた。
+
+　問題点⑦　IDS誤りを認識してから情報共有まで3日を要していた。
+　
+　]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　2号機原子炉格納容器内窒素封入設備の流量計下限値誤りについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/07/09 10:59:07]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[405]]></KIKI_CODE>
+			<TROUBLE_ID>12977</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[流量計]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12977</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[405]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[流量検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[運転監視補助装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[126]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12977</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[設計不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[設計上の不備によるもの（管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12977</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12977</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12977</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

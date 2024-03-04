@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　調査結果から、以下のことを確認した。
+
+・作業員（被検者）は、当日予定していた４号機定検作業が終了したため、管理区域から退域したが、置き忘れた帳票類を探すため、再度、汚染管理区域（脱衣エリア）へ入域した。
+・その後、退域時に体表面モニタで「汚染」の警報が発報したにもかかわらず、出口扉を手で開け、連絡することなく退域していた。
+・また、汚染管理区域（脱衣エリア）へ入域する際、所定の装備の一部（帽子、薄綿手袋、靴下）を着用せずに入域した。
+・当社社員にて、当該作業員の汚染確認を行った結果、汚染は検出されなかった。
+
+＜時系列概要＞
+午後６時０１分：当該作業員は作業終了後、体表面モニタによる汚染測定を行い(汚染無し)管理区域を退域。
+
+午後６時１７分：当該作業員は忘れ物を探すため、再度、汚染管理区域（脱衣エリア）へ入域(指定された衣服の一部を未着用)。この際、構内移動用バスの出発時刻が迫っていたため、運転手に出発を待ってもらうよう依頼した。
+
+午後６時１９分：体表面モニタによる汚染測定にて警報発報。この際、作業員は手で体表面モニタの扉を開け、連絡をしないまま汚染管理区域を退域。
+
+午後６時２０分：監視員（協力会社社員）が体表面モニタを確認したところ、出入口扉が開放された状態で、被検者が見あたらないことから当社社員に連絡。
+
+午後７時４０分頃：体表面モニタの警報の発報原因の調査、および監視カメラ等を確認し、上記作業員の行動を確認。
+
+午後８時４５分頃：当該作業員を特定し、協力会社を通じて本人に連絡。
+
+午後９時４０分：当該作業員の汚染確認を行い、汚染の無いことを確認。
+
+注）体表面モニタにて発報した「左手甲汚染」警報は、ノイズの混入等による誤報であった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10483</TROUBLE_ID>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/01/12 09:33:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/08/06 20:19:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090401]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[＜指定された被服の着用に関する対策＞
+●視覚的に被服の確認ができるよう、チェンジルームの汚染管理区域入口に、正しい被服の着用図、および等身大の鏡を設置した。
+
+＜体表面モニタ警報発生時の対応に関する対策＞
+●監視員不在時に、体表面モニタの警報が発報した場合は、監視員は被験者に対し付属のマイクで「監視員が速やかに現場に向かうため、監視員が到着するまでその場にとどまる」旨を伝える手順を委託の手順書に反映した。
+
+●体表面モニタの警報発報時の対応(監視員の指示に従う)を体表面モニタ等に掲示した。
+
+＜規定類への反映＞
+●体表面モニタ警報発報時の対応等に関する事項の記載内容を明確にするとともに、本事象を記載する。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/12 09:33:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２１年４月１日午後６時２０分頃、３，４号機共用チェンジルームに設置されている体表面モニタNo.7の「左手甲汚染」の警報が発報した。このため、監視員（協力会社社員）が体表面モニタを確認したところ、体表面モニタ（※）の出入口の両扉が開放された状態で、被検者がいなかったため、当社社員に連絡した。
+
+※汚染管理区域から退域する際に、身体汚染の有無を確認する設備。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【個人要因】
+●入域時の防護装備不備・退域装置から退出
+　書類を置き忘れたこと、および他の作業員（構内移動用バス）を待たせていたことで、時間的な焦りが生じ、適切な装備を失念した。
+
+【作業環境要因】
+●入域時
+　３，４号機共用チェンジルームには、他のチェンジルーム等に設置している全身を確認できる鏡がなかった。
+　
+●退出時
+　３，４号機の体表面モニタは警報が発報した場合、出入口扉は自動開しない構造となっており、閉塞感があった。(他号機の体表面モニタは入口側の扉が開く構造となっていた)
+
+【職場環境特性要因】
+●退出時
+　事象発生時、監視員が３，４号機共用チェンジルームに常駐する時間(午後６時)を過ぎていたため、監視員の速やかな対応が出来なかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[放射線管理区域の入退域方法における不適切な事象について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/23 14:54:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10483</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10483</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10483</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+</KNT_TROUBLE>

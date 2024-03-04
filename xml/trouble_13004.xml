@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>13004</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/09/12 13:59:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>84931</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/08/16 15:18:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201907291330]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/09/12 13:59:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[〇事象
+１号機のタービン建家において、廃止措置に伴う復水および給水系統の水抜き作業を実施していたところ、７月２９日１３時３０分頃、タービン建家地下１階（管理区域外）の排水枡から復水系統の水が溢水していることを水抜き操作担当者が確認した。
+このため、復水系統の水抜きのために「開」としていたドレン弁を直ちに「閉」とし、溢水は停止した。排水枡からの溢水量は約５０リットルで、排水枡周辺のタービン建家床面に留まっており、ウエス等で拭き取り回収し１、２号機総合排水処理装置※１で処理した。
+なお、本事象による環境への放射能の影響はなかった。
+
+※１ 総合排水処理装置
+発電所の管理区域外（タービン建家、純水装置、総合事務所等）から排出される一般排水を浄化する設備。
+
+
+〇原因
+今回の水抜き操作前に溢水が発生した排水枡の状態は確認していないが、平成２３年１０月から今回の水抜き操作までの期間に水抜き操作を実施していないこと、および事象発生後に他の排水枡の状況を確認した結果、鉄錆等による排水枡の閉塞は認められなかったことから、水抜き操作前は排水枡の目皿に鉄錆等はなかったと推定した。
+本事象は、復水系統水抜き開始時に水抜き先の排水枡の状態を確認しなかったことにより、水抜き操作で排水配管から排出された鉄錆等によって排水枡の目皿が閉塞したことに気付けず、排水枡から常用排水ピットへの排水量が減少して溢水に至ったと推定した。
+
+
+〇対策
+（１）溢水が発生した排水枡については清掃を実施した。
+（２）水抜き操作前には、排水経路および排水先の排水枡等を確認し、排水が良好に行えることを確認する。また、排水枡の閉塞等を確認した場合は清掃を行うように社内マニュアルを改正し明記する。
+（３）水抜きに伴う排水配管内の鉄錆等により排水枡が閉塞するのを防ぐため、水抜き操作開始時および水抜き流量増加時は排水枡監視者を配置し、ドレン弁操作者が排水枡監視者と連絡を取りながらドレン弁を徐々に開とする。また、水抜き操作開始後および水抜き流量増加後、しばらくの間は排水枡の状態を監視し、鉄錆等で排水枡の目皿が閉塞していないことを確認するとともに、異常時は直ちにドレン弁を閉止する。その後は、適時排水状況を確認する。上記内容について社内マニュアルを改正し明記する。
+（４）今回作成した操作手順書に「水抜き操作前に関係排水枡の状態を確認する。」および「水抜き操作開始後および水抜き流量増加後、しばらくの間は排水枡の状態を監視し、異常時は直ちにドレン弁を閉止する。」旨の内容を追加する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所１号機 復水系統水抜き作業中の排水枡からの溢水について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/08/16 15:19:05]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

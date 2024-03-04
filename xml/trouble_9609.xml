@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　本事象に関係した当社社員、定検管理員および協力会社作業責任者・作業員から聞き取りを実施し、原因調査を実施した。
+
+（１）隔離操作の事前準備について　　　　　　　　　　　　
+ａ．原子炉保護制御装置定期点検工事開始に先立ち、作業計画書を策定し、１月３１日に計装保修課員、定検管理員および協力会社作業責任者により、作業計画書の読み合わせを行い、作業手順、工程や作業上の注意事項の確認を行っていた。
+
+ｂ．作業計画書での隔離操作に対する記載は、「系統隔離・養生」のみの記載とし、具体的な操作手順については、隔離明細書および操作内容（隔離時の状態）を記載した操作移管札を準備していた。　
+
+ｃ．本隔離操作の実施については、原子炉安全保護ロジック盤内に設置されているスイッチの操作のみであり、これまでの慣例として発電室から計装保修課への操作移管対象作業としていた。
+
+（２）隔離操作の体制について　　　　　　　　　　　　　　　　
+ａ．当該隔離操作は、３Ｂ１次系継電器室に計装保修課員、定検管理員および協力会社作業員の３名が配置し、中央制御室に協力会社作業責任者１名が配置していた。
+
+ｂ．隔離操作については、計装保修課へ操作移管し、計装保修課員と計装保修課員の代行として定検管理業務を行うこととなっていた当該の定検管理員が共に行うこととし、スイッチ操作を定検管理員が行い計装保修課員が立会っていた。
+
+（３）警報発信までの隔離操作実績について
+原子炉安全保護ロジック盤の隔離養生作業において、計装保修課員の立会いのもと、定検管理員が原子炉安全保護ロジック盤Ｄトレンの「バイパススイッチ」を「通常」位置から「定検」位置に操作（左に捻回）するべきところ、誤って右に捻回し「通常」位置から「バイパス」位置とした。その状態で、原子炉安全保護ロジック盤Ｄトレンへの入力信号を切離しするため、「入力切離しスイッチ」を「切離し」位置とした。引き続き、Ｂトレンも同様に「バイパススイッチ」を誤って「通常」位置から「バイパス」位置とし、その状態で、「入力切離しスイッチ」を「切離し」位置に操作した結果、検出器の電源断の自動ロジックが動作し、電源が切れて「ＳＲ検出器電源断」警報が発信した。「バイパススイッチ」は、「通常」位置から「定検」位置とすることで、中性子源領域検出器の電源が「断」とならないようにし、中性子源領域の監視ができるようにするものであるが、今回は、「バイパス」位置としていたため、「入力切離しスイッチ」を「切離し」位置に操作した結果、検出器の電源「断」となったものである。
+
+（４）警報発信後の復旧操作実績について
+中央制御室に配置していた協力会社作業責任者が当該電源断の警報発信が異常であると気づき、直ちに３Ｂ１次系継電器室でスイッチ操作した定検管理員へ実施した隔離操作を復旧するよう連絡した。定検管理員は、直ぐにＢトレンの「バイパススイッチ」を「通常」位置に戻すとともに、「入力切離しスイッチ」も「通常」位置に戻した結果、当該電源が復旧した。その後、Ｄトレンの「バイパススイッチ」は「定検」位置とした。
+
+（５）隔離操作に伴う警報発信について　　　　　　　　　　　　
+ａ．原子炉安全保護ロジック盤には、「バイパススイッチ」を「バイパス」にした場合、消灯するバイパス状態表示灯が設置されているが、定検管理員は「バイパススイッチ」を「定検」に操作したと思い込んでいたことから、スイッチ操作後にバイパス状態表示灯の確認までは実施していなかった。
+
+ｂ．原子炉安全保護ロジック盤Ｄトレンでの操作に伴い、中央制御室に「原子炉安全保護ロジック盤バイパス」のパーミッシブ表示灯が点灯するが、この表示灯は「バイパススイッチ」を「定検」と「バイパス」のどちらに操作しても、点灯することから、中央制御室に配置された協力会社作業責任者も操作間違いに気づかなかった。
+
+ｃ．引き続き原子炉安全保護ロジック盤Ｂトレンの「バイパススイッチ」を操作した際、中央制御室にいた協力会社作業責任者は、２トレンの「バイパススイッチ」を「定検」位置にした時、本来発信すべき「原子炉安全保護ロジック盤２トレン以上バイパス」警報の発信と「原子炉安全保護ロジック盤－Ｂバイパス」表示灯の点灯がなかったことから疑問に思っていたが、作業が進み、電源断の警報発信に至った。
+
+ｄ．なお、定検管理員はＤトレンの「バイパススイッチ」復旧時点で初めて操作間違いに気づいた。
+
+（６）スイッチ操作に対する聞き取り結果
+定検管理員は、当該操作について十分な経験があり、「パイパススイッチ」を「通常」位置から「定検」位置とすることは十分認識していたが、操作時には「通常」位置と「バイパス」位置の選択表示しか目に入っておらず、今回はなぜ「バイパス」位置に操作したのか理由は、分からない（頭の中では、「バイパススイッチ」を操作するという「バイパス」の言葉が残っていた）とのことであった。
+
+（７）隔離操作の問題点について　　　　　　　　　　　　　　　
+ａ．操作移管の可否について、「プラント保安上好ましくないもの」との判断基準（操作移管の可否フローチャート）であり、運転上の制限に関わる重要な機器の操作でも移管可能なものであったことから、これまでの慣例として発電室から計装保修課への操作移管対象作業としていた。
+
+ｂ．作業前に中央制御室の作業者間のＴＢＭ及び危険予知（ＫＹ）活動を実施しているが、隔離範囲の確認、隔離操作による影響確認及び指差呼称、復命・復唱等の基本動作の徹底が不十分であった。
+
+ｃ．隔離操作にあたっては、隔離明細書に記載された隔離内容と操作移管札に記載された隔離内容を照合した操作移管札を３Ｂ１次系継電器室に持って行き、現場機器と操作移管札を照合し、隔離操作を実施していたが、隔離明細書を持参していなかったことから、隔離明細書と現場機器を照合した一操作、一確認は実施できていなかった。
+
+ｄ．また、隔離明細書での隔離操作手順は、ＡトレンからＢ，Ｃ，Ｄトレンの順としていたが、作業開始前に関係者間で３Ｂ１次系継電器室奥のＤトレンからＢトレンの順で実施することとした。その際この変更は隔離手順上問題ないことを認識していた。なお、隔離明細書に記載した隔離操作順序の変更は実施していなかった。
+
+ｅ．定検管理員は、操作前に原子炉安全保護ロジック盤の操作スイッチ近傍に操作移管札を貼り付け、操作移管札により対象物を確認した上で指差呼称を行い、スイッチ操作を実施したが、操作方向の確認はしていなかった。また、指差呼称の内容は操作するスイッチ名称のみであり、具体的な操作内容（スイッチ位置）がなかった。さらに操作した結果および結果確認も含まれていなかった。
+
+ｆ．計装保修課員は、操作移管札の貼付け位置や操作スイッチに間違いがないことを確認していたが、定検管理員が操作したバイパススイッチ操作位置や操作方向は確認していなかった。また、定検管理員の操作に対する声かけが十分ではなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9609</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[207]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード６]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/02/26 10:38:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定では、運転モード６においては、中性子源領域検出器（１チャンネル）による監視機能が要求されており、電源がなくなった間（約３７秒間、検出器の電源がなくなり欠測状態となった）、それを満足していないことから、１０時１５分に、一時的な運転上の制限逸脱と復帰を宣言。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4147</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/02/20 11:21:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200802070946]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当社社員を緊急招集し、所長、運営統括長、各課（室）長より、今回の事象の周知、指差呼称および一操作・一確認の重要性とその確実な実施を強く指導し、その旨の所長メッセージを全所員に配信した。併せて、先に地元に報告したトラブル低減対策について確実に取り組むよう強く指導した。また、定検管理協力会社社員を緊急招集し、運営統括長より、今回の事象の周知、指差呼称および一操作・一確認の重要性とその確実な実施を強く指導した。
+
+（２）一操作・一確認、指差呼称、復命・復唱等、基本動作の徹底に取り組むため、「ヒューマンエラー撲滅キャンペーン」として以下の対策を実施する。
+
+ａ．今回の事例の周知と職場ディスカッションの実施による意識向上を図る。
+
+ｂ．臨時の安全衛生協議会を開催し、各協力会社へ基本動作等の重要性の周知徹底を図るとともに意見交換を実施する。
+
+ｃ．当社役職者が協力会社朝礼に参加し、指差呼称等基本動作の再徹底を図る。
+
+ｄ． ヒューマンエラー撲滅キャンペーンのビラを当社役職者により全社員、全協力会社社員に配布し、意識高揚を図る。
+
+ｅ． 当社社員及び定検管理員は、当面、毎日の職場ミーティングにおいて、全員が大きな声で指差呼称を行い、指差呼称を真に身につける訓練を実施する。
+
+ｆ．当社作業担当者が指差呼称、一操作・一確認の訓練を実施するとともに役職者による現場指導を実施する。
+
+ｇ．現場パトロールにおいて、当社社員から作業員へ声かけし、指差呼称等基本動作の徹底の意識付けを行う。
+
+ｈ．当社社員がＴＢＭへ参加し、指差呼称等基本動作の重要性について徹底を行い作業開始前の意識付けを行う。また、作業関係者の移管操作に関わる相互の役割分担を確認する。また、操作移管された隔離のための機器操作については、隔離明細書を用い、一操作、一確認を必ず行うことを徹底する。
+
+ｉ．作業担当課員および定検管理員に対し作業票運用所則の重点ポイント（操作移管や明細書の運用）に関する教育を実施する。
+
+（３）今回の事象を踏まえ、保安規定の「運転上の制限」に関わる機器の操作については、発電室から作業担当課に操作移管を行わず、発電室が直接操作することとし、大飯発電所作業票運用所則に保安規定の「運転上の制限」に関わる機器の操作については操作移管不可として明記する。
+また、当該作業については、隔離明細書に警報名称を明記し、隔離操作に伴い発信する警報を確実に確認する。
+
+（４）今回の事象の直接要因及び潜在要因の深堀り検討を行い、対策を充実しヒューマンエラー撲滅を目指す。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/02/26 10:38:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２０年２月２日より第１３回定期検査中のところ、２月７日９時４６分、「ＳＲ検出器※１電源断」の警報が発信したが、警報は直ちにリセットされた。このため、中性子源領域検出器（全２チャンネル）の記録計等を確認した結果、約３７秒間、検出器の電源がなくなり欠測状態となったが、電源復旧（警報リセット）後、中性子束の値は警報発信前の値に復帰していることから、原子炉の安全性には影響がないことを確認した。　　　　　　　　　
+※１「ＳＲ検出器」････中性子源領域検出器。原子炉が未臨界状態で、中性子束の計数が非常に小さな時に測定する装置
+　
+保安規定では、運転モード６※２においては、中性子源領域検出器（１チャンネル）による監視機能が要求されており、電源がなくなった間、それを満足していないことから、１０時１５分に、一時的な運転上の制限逸脱と復帰を宣言した。
+※２「運転モード６」････１次冷却材温度が９３℃以下で、原子炉容器の上部ふたのスタッドボルトが緩められ、原子炉内に燃料があるプラント状態
+
+　調査の結果、当時、原子炉保護制御装置の定期点検工事の準備作業を開始しており、その作業において、原子炉安全保護ロジック盤の切替スイッチ（以下、「バイパススイッチ」という）を「通常」位置から「定検」位置（複数トレンの切離し操作を行っても中性子源領域検出器の電源が確保される）にすべきところ、誤って「バイパス」位置（運転中に原子炉安全保護ロジック盤の機能をバイパスし、点検するための位置）に操作した状態で「入力切離しスイッチ」により切離し操作を行った結果、検出器の電源が切れて、警報が発信したものと判明した。操作をした協力会社作業員（定検管理員）が、「入力切離しスイッチ」を「通常」位置に戻した結果、検出器電源が復旧し、中性子束の値も復帰したものと確認された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-M021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原子炉安全保護ロジック盤の隔離養生作業において、原子炉安全保護ロジック盤のバイパススイッチを切り替え操作した際、バイパススイッチを「定検」位置に切り替えるべきところ「バイパス」位置に誤って操作した。この原因は、現場機器と操作移管札を照合して操作を実施していたが、隔離明細書と現場機器を照合した一操作、一確認を実施しておらず、また、操作前には指差呼称を行っていたが、具体的な操作内容を含んだ指差呼称、復命・復唱までは行っておらず、操作後も操作した結果の復唱を確認していなかったことおよび関係者間での相互の声かけも十分ではなかったことから、これらの原因により誤操作を認識できなかった。また、運転上の制限に関わる重要な機器の操作にもかかわらず、当該操作は、慣例的に計装保修課への操作移管対象としていた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[大飯発電所３号機　中性子源領域検出器の電源断による一時的な停止について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/02/25 15:21:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+			<TROUBLE_ID>9609</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[制御回路*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9609</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[中性子検出器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9609</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9609</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9609</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9609</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

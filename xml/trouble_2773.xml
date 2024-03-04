@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2773</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/02/23 17:09:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3122</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/02/17 16:25:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502010833]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中、平成17年1月30日から、燃料集合体を原子炉の炉心へ順次装荷する作業を行っていましたが、２月１日８時33分、１１４体目の燃料集合体を所定の位置（L-9）【※１】に装荷した際、隣の空いているべき位置（L-8）に燃料集合体が装荷されていることを確認しました。このため作業を中断し、既に装荷した燃料集合体全数の位置を確認した結果、113体目の燃料集合体が、本来計画していた装荷位置（L-11）とは異なる位置（L-8）に装荷されていることを確認しました。なお、原子炉の安全上の問題はありません。当該（113体目）燃料集合体の装荷作業時の状況を調査した結果、クレーンを走行位置Ｌまで移動させた後、作業指示者は、クレーンの横行位置を11とし、８ｍｍ微調整【※２】するとの指示を出したが、クレーン操作者が横行位置（11）と微調整量（８ｍｍ）の数字を混同し、横行位置８にクレーンを移動させていたことが判明しました。また、クレーン操作者と作業指示者は、クレーン移動後に位置確認のため炉心アドレスモニタ【※３】を確認した際、微調整量（８mm）の確認に注意が集中し、装荷位置の再確認を行わなかったため、装荷位置の間違いに気づきませんでした。対策として、作業指示者、クレーン操作者に加え、クレーン操作に携わっていない作業員も、クレーン移動後の燃料集合体装荷位置確認を行うとともに、作業時に使用するチェックシートを、クレーン移動後の燃料集合体装荷位置を記入する様式に改善することで、確実な位置確認を行うこととしました。また、指差呼称、復命復唱等の基本ルールの再徹底を図りました。なお、今定期検査における装荷作業は、157体（全数）の燃料集合体について、正しい位置に装荷されていることを確認し終了しております。
+　
+　※１：燃料集合体の装荷位置： クレーン走行方向（Ａ～Ｒ）の位置と、クレーン横行位置（１～15）の組み合わせで、原子炉炉心での燃料集合体位置を示す。
+
+　※２　微調整： 燃料集合体を炉心に装荷するためにクレーンを移動するにあたり、クレーンを停止させる位置を微調整することで、燃料集合体を炉内に吊り降ろす位置が、装荷位置の中心位置に着底するようにしている。
+　
+　※３　炉心アドレスモニタ：クレーンが移動するレール近傍に取り付けてある位置表示目盛をＴＶモニタで映し、クレーンの位置を確認している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[燃料装荷作業中における燃料装荷位置の誤りについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/23 17:09:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

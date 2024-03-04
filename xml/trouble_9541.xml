@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9541</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/03/11 20:24:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4113</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/01/10 16:10:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080110]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所５号機（沸騰水型、定格出力78万４千キロワット）は運転中、定期検査の準備作業として使用済燃料プール内で制御棒などの収納ラック据え付け作業を行っていたところ、平成20年1月10日11時15分頃、当社社員が、使用済燃料プール底部にナット１個（外径約１cm×厚さ約0.5cm）があることを発見したことから、同日14時13分頃、回収した。
+
+　調査の結果、以下のことがわかった。
+・前回の定期検査（平成18年）において、当該ナット発見場所の近傍で中性子計測装置（局部出力領域モニタ）の切断作業を行っており、切断した中性子計測装置を収納する容器に取り付けられたワイヤーの留め具に、同形状のナットを複数使用していたこと。
+・ワイヤーに取り付けるナットは当該プールに設置されることから、持ち込む際に異物混入防止管理の対象外物品として予備のナットを含め員数管理せずに持ち込んでいたこと。
+・使用済燃料プール内および当該プール上で使用される設備・機器において、同形状のナットの使用状況を確認したが脱落しているナットはなかったこと。
+
+　以上のことから、当該ナットは、前回の定期検査で実施した中性子計測装置切断作業において、ワイヤーの留め具に使用するナットの予備のナットである可能性が高いものと推定した。
+
+　対策として、今後の中性子計測装置切断作業においては、ナットを使用しない留め具と一体型のワイヤーを使用することとする。
+　また、必要数量以外の物品を異物混入防止管理エリアへ持ち込まないことを再徹底するとともに、引き続き異物混入防止対策を徹底する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S107]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料プールでのナットの発見・回収について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/03/11 20:24:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

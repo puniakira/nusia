@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10307</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/11/26 17:09:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4435</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/04/13 22:28:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200904100600]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/11/26 17:09:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成21年４月10日午前７時頃、福島第一１～４号機側の所内ボイラー用の重油を貯蔵している屋外重油タンク（非管理区域）の重油移送配管より重油が漏えいしていることを、パトロール中の当社社員が発見し、ただちに重油移送配管元弁を閉めた。午前８時６分、消防署に連絡し、消防署員の現場確認の結果、漏えい拡大防止堰内での漏えいであり、漏えいの拡大はないものの、危険物の漏えいであると判断された。重油の漏えい量は約12リットルであり、漏えい拡大防止のための施設内に溜まっていた重油の拭き取りを実施した。また、重油移送配管の保温材を外したところ、配管に漏えい箇所を確認したことから、午後４時頃応急修理を実施した後、漏えいの停止を確認した。
+
+ 調査の結果、以下のことがわかった。
+・保温材を取外し、当該配管の外観を観察した結果、外側表面が一様に腐食していることを確認した。
+・当該配管を切断し、内外面を観察した結果、配管の溶接線近傍の腐食が外側表面から進行しており、直径約0.3ｍｍの穴（腐食孔）が配管を貫通していることを確認した。
+
+　配管から重油が漏えいした原因は、配管が屋外に設置されていることから、配管保温材の継ぎ目より雨水が浸入したことにより、浸入した雨水が配管保温材内に滞留して、経年的に配管が外側から腐食して穴（腐食孔）が貫通したものと推定した。
+
+　対策として、当該配管を撤去し、新しい配管を設置することとする。また、保温材が取り付けられている屋外の重油配管について、巡視を１日１回実施しているが、今後、配管の保温材を取り外して、計画的に点検を実施することとする。なお、当該配管を使用して重油を移送していた一部の設備は廃止していることから、新しい配管の設置工事にともない、重油を移送する配管のルートを変更する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１～４号機側屋外重油移送配管における油漏れの発見]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/04/15 16:19:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

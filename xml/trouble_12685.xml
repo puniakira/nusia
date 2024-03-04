@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12685</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/08/03 11:53:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/07/10 11:01:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201707051000]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/08/03 11:53:45]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象の概要】
+2017年7月5日午前10時頃、7号機タービン建屋地下２階（非管理区域）において、電解鉄イオン供給装置点検後の試運転にて漏えい確認を実施していたところ、同装置の配管接続部（フランジ部）から海水（約250リットル）が周辺の床に漏えいした。
+その後、同装置の運転を停止したことにより、漏えいは停止した。
+本事象による外部への放射能の影響はない。漏えいした海水については、排水処理を実施した。
+
+【原因】
+ガスケットの締付不足により、漏えいが発生した。従来の配管接続部の締付は、トルク確認及び面間測定を行い、分解前後の面間寸法に差異がないことを確認する手順だったため、ガスケット当たり面の不均一さやフランジの歪み・変形がある場合、ガスケットの一部に締付け圧力が不足し、十分なシール機能を得ることができない可能性があった。
+
+【対策】
+今後、下記対策を実施する。なお、本事象については下記対策で実施する手順に従い復旧を行っている。
+①フランジ締付手順をガスケットの潰れ代管理に見直し
+　配管接続部のガスケット当たり面にガスケットが接触する位置まで締付け（以下、０点確認）、この状態の配管接続部厚さ測定した後に、必要なガスケット締付け圧力を確保できる位置まで更に締付けを行い、再度配管接続部厚さ測定により、ガスケット厚さの潰れ代を確認する手順に見直しを行う。（当該配管接続部のガスケット潰れ代は約１ｍｍ必要）
+②旧ガスケットの状態確認の実施
+　漏えいが発生した配管接続部のガスケットは、漏えい位置のシート面当たり※が少ない状況だったことから、事前にガスケット当たり面の不均一さを察知し０点確認時の制度を向上させるため、分解時のガスケット状態を確認する。
+③締付根拠の確認
+　ゴムガスケットの締付けは、トルク確認の場合締付け圧力の過不足に繋がる可能性があるため、締付け根拠を明確にし施工要領書に反映する。
+
+※ガスケットが潰されてできる凹み
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所７号機　タービン建屋（非管理区域）電解鉄イオン供給装置からの海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/07/10 11:03:18]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

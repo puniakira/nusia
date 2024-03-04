@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11127</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/20 13:14:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/10/20 11:01:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100705]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 女川２，３号機の炉心性能計算機（ＴＡＲＭＳ２）の出力分布計算に用いるＬＰＲＭ感度劣化補正係数について，感度劣化補正係数を検証したところ，計算式に誤りがあることを確認した。当該係数は保安規定の運転制限である最大線出力密度，最小限界出力比の評価の入力となっているが，評価結果への影響は，線出力密度で0.33％程度，限界出力比について0.03％と僅かである。
+  正しい計算式となるようソフトウェアの改修を実施する（Ｏ３：第６回定検，Ｏ２：第１１回定検にて対応予定）。
+　ソフトウェア改修までの期間については，本不適合による値の変動が運転中の制限値に対する余裕に対して僅かな変動であり，今後運転を継続した場合において，見込まれる誤差を上乗せしても運転制限を超えることはない。ただし，最大線出力密度については，本不適合が直接影響を及ぼす値であり，また，保安規定上の運転制限値となっていることから，運転日誌（ＢＯＰ）の出力に適切な余裕を追加した値にて管理することする。なお，最小限界出力比については影響が非常に小さいことから特別な管理は必要ない。
+　記録については，本不適合の影響が僅かであること，運転実績が運転制限を満足していることが確認されていることから，記録の訂正は行なわないが，識別管理として，判定基準への影響がないことを取りまとめ，その結果を添付する。
+なお，女川１号機の炉心性能計算機（ＴＡＲＭＳ）については同様の誤りがないことを確認済みである。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東北-S013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[炉心性能計算機（ＴＡＲＭＳ２）におけるＬＰＲＭ感度劣化補正係数計算式の誤りについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2,3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/10/20 13:14:17]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

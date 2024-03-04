@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．プラント排気筒ガスモニタの一時的な指示値上昇原因調査
+１０月１９日のプラント排気筒ガスモニタ指示値上昇に至った原因について、要因分析図に基づき調査を行った。
+（１）希ガスの実放出
+ａ．作業実施による系統内の希ガスの放出
+当日、１号機管理区域内で作業が９０件実施されており、そのうち汚染を伴う作業が７件実施されていたが、事象発生時間の作業内容を確認した結果、希ガスが放出されるような作業は実施されていなかった。
+
+ｂ．運転操作による希ガスの放出
+事象発生時間の運転操作を確認した結果、希ガスが放出されるような運転操作は実施されていなかった。
+
+ｃ．２号機燃料リークに伴うサンプリングによる希ガス放出
+サンプリング室および化学室の排気は、２号機のプラント排気系に接続されている。また、当日のサンプリングは９時２８分～９時３２分で実施しており、モニタ指示上昇の時間帯と異なっていることから、モニタ指示上昇の原因ではない。
+
+ｄ．Ｂ－水素再結合装置ガス分析器の自動サンプリング・校正時の系外希ガス放出
+換気空調系ガスモニタ（仮設）Ｎｏ．２の指示値が、プラント排気筒ガスモニタの指示値上昇時と同時刻に上昇していることが確認されたことから、換気空調系ガスモニタ（仮設）Ｎｏ．２が検出している各部屋に設置されている機器の動作状況を確認したところ、８月３１日に、定格熱出力一定運転中の大飯発電所２号機燃料集合体からの漏えいの疑いが発生し、９月１日より２号機化学体積制御タンクからのガスパージを連続的に行い１次冷却材中に含まれる希ガスを処理していたＢ－水素再結合装置ガス分析器の入口酸素濃度計の自動校正時間と１号機プラント排気筒ガスモニタの指示値上昇時間が一致していることを確認した。このため、入口酸素濃度計の自動校正について調査した結果、自動校正はタイマーにより１６８時間（７日間）毎に実施されることを確認した。また、自動校正のタイムチャートを確認した結果、校正時間（約１０分間）中はゼロ点校正及びスパン校正に伴う校正ガスが排気され、系統内の希ガス濃度が高い初期系統パージ時はガス圧縮機側に戻るが、それ以降は排気先がプラント排気筒に切替わることを確認した。ガス分析器入口酸素濃度計の自動校正時に、プラント排気筒ガスモニタの指示値が上昇したと考えられることから、至近のガス分析器入口酸素濃度計の自動校正時におけるプラント排気筒ガスモニタの指示値を確認した結果、１０月１２日にも約１０分間の指示値上昇が認められた。なお、この他に１０月１７日１３時２０分頃、１０月１９日７時５０分頃および１１時０５分頃に換気空調系ガスモニタ（仮設）の指示が極僅かに上昇しており、Ｎｏ．２の測定場所に関係する設備について調査した結果、水素再結合装置ガス分析器の自動校正時間（当該濃度計以外）と合致していることを確認した。
+
+ｅ．その他のガスの放出
+その他のガスとして放射性同位元素（ＲＩ）の漏えいが考えられるが、非密封ＲＩを所有していないため、モニタ指示上昇の原因ではない。
+
+（２）モニタの故障
+プラント排気筒ガスモニタの指示値は、上昇・低下した以降、通常のバックグランド値付近で揺らぎながら推移していることから、現状モニタの指示値は正常と考える。
+なお、指示値上昇時には当該ガスモニタの点検は実施していないため、点検に伴う指示値上昇ではない。
+
+（３）溶接等ノイズの影響
+当該モニタの検出器・盤・配線・電線管の近傍位置で溶接機やグラインダ等回転機器を使用した場合、モニタに影響を及ぼすことから当日の溶接作業等を調査した結果、近傍での溶接作業は実施されていなかった。
+
+（４）高線量物品等の影響
+ａ．高線量物品の影響による指示値上昇
+プラント排気筒ガスモニタと換気空調系ガスモニタ（仮設）の指示値上昇が確認され、それぞれ離れた場所に設置されていることから、高線量物品の影響による指示値上昇ではない。
+
+ｂ．放射線源の取扱い作業（ＲＴ作業）の影響による指示値上昇
+放射線源の取扱い作業（ＲＴ作業）が実施された場合、モニタの指示値上昇につながるが、当日は線源取扱い作業の実績はなかった。なお、他のプロセスモニタ・エリアモニタの指示値にも影響が出ていないことから、線源の取扱い作業（ＲＴ作業）の影響とは考えられない。
+
+以上の結果から、プラント排気筒ガスモニタ及び換気空調系ガスモニタ（仮設）の指示値の僅かな上昇がほぼ同時に確認されたため、Ｂ－水素再結合装置ガス分析器の自動校正時においてプラント排気筒からの実放出があったものと判断した。
+
+２．Ｂ－水素再結合装置ガス分析器からの希ガス放出原因調査
+Ｂ－水素再結合装置ガス分析器各濃度計の自動校正時に希ガスが放出された原因について、要因分析図に基づき調査を行った。
+（１）ガス分析器からの漏えい
+ガス分析器内の継手、計器類、電磁弁やフィルタ除湿機から漏えいがあれば、通常時も漏れは継続するが、本事象においては校正時間内のみの漏えいである。窒素ガスで加圧し、発泡剤チェックを実施した結果、漏れは認められなかった。さらに、より感度の高いヘリウムガスによるリークチェックを行った結果、入口酸素濃度計１箇所（電磁弁入口側継手部）、入口水素濃度計１箇所（フィルタ入口側継手部）及び出口水素濃度計１箇所（Ｔ字管上流側継手部）の計３箇所から漏えいが認められたが、継手部の増締め実施により漏えいが停止する程度の極僅かな漏えいであった。
+なお、念のため、漏えい箇所の継手部を取り外し点検した結果、有意な傷等は認められなかった。
+
+（２）各設備の不備
+ａ．パージラインの不良
+Ｂガス分析器系統内の窒素ガスパージ時において、流量計の指示値を確認した結果、規定流量が出ていたことから、ガスパージ系統に閉塞のないことを確認した。
+
+ｂ．電磁弁のシート不良
+除湿機出口電磁弁（ＳＶ０３）またはガス圧縮機側出口電磁弁（ＳＶ０７）がシート漏れの状態である場合、希ガスがプラント排気筒へ流出し、モニタを一時的に上昇させる可能性があることから、電磁弁を取外し、正圧側から圧力をかけた場合と背圧側から圧力をかけた場合のリークテストを行った。この結果、背圧側から圧力をかけた場合において、入口酸素濃度計のガス圧縮機側出口電磁弁（ＳＶ０７）から85～550cc／分の漏えいが発生する場合があることが認められた。
+
+ｃ．電磁弁の電気的動作不良
+電磁弁の電気的動作不良により、希ガスがプラント排気筒へ流入し、モニタの一時的な上昇が生じる可能性があるため、電磁弁コイルの抵抗測定を実施したところ、絶縁抵抗測定は正常であり、動作も問題なかった。
+
+ｄ．タイマー不良
+タイマーの動作不良等によるパージ時間動作不足により、十分にパージできない可能性があるため、タイマーの設定値を確認したところ、初期系統パージ用タイマーの設定値が６秒であり、系統内容量に対して不十分であったが、放出量はきわめてわずかな残留分のみであったため、プラント排気筒ガスモニタの指示値に変動はなかった。
+
+ｅ．シーケンス不良
+ガス圧縮機側と排気筒側の出口電磁弁の同時開等、電磁弁動作のタイミングのずれにより、モニタの一時的な指示上昇が生じる可能性があることから、各構成モードにおける電磁弁の動作状況を確認した結果、設計通りで動作しており、問題はなかった。
+
+ｆ．ライン構成不良
+校正時にガス分析器の校正ガスを排気筒に排出するが、配管の接続不良・電磁弁の取付状況により、希ガスがプラント排気筒へ流入し、モニタの一時的な上昇が生じる可能性があるため、配管接続状況・電磁弁取付状況を調査したところ、配管は問題なく接続がされていたが、ガス圧縮機側出口電磁弁（ＳＶ０７他）の取付け向きが、通常運転時の流れに対して正方向で取り付けられており、取付け向きが、当該弁を閉止した場合に、背圧による弁体押し上げ力が作用する方向に取り付けされていたことを確認した。なお、Ａ系の同じ弁について確認したところ、自動校正装置設置当初から弁閉止時に弁体を押し付ける方向に設置されていることを確認した。
+
+３．ガス圧縮機側出口電磁弁（ＳＶ０７）の調査結果
+ガス圧縮機側出口電磁弁の背圧側から圧力をかけた場合において、85～550cc／分の漏えいが発生する場合があることから詳細調査を実施した。
+（１）履歴調査
+当該弁は、昭和６１年の自動分析装置設置時に取付けており、平成１１年の定期検査（１号機第１５回）で取替えを行っていることを確認した。
+また。定期取替は１０定検毎に計画しており、取替時期に問題ないことを確認した。
+
+（２）詳細調査
+ａ．外観観察
+当該電磁弁の各部品について、外観を目視にて観察した結果、動作に支障を与えるような損傷等は認められなかった。また、新品の電磁弁の外観観察もあわせて実施し、当該電磁弁との比較を行った結果、当該電磁弁の弁体シート部の凹みが若干深く、その幅も広かった。また、シートゴム部及び弁体金属部に白色の付着物が認められた。
+それ以外は、顕著な差異は認められなかった。
+
+ｂ．寸法計測
+当該電磁弁のケース、バネ、弁体、シートゴム、ボディについて、寸法計測を実施した結果、新品の電磁弁と比較して有意な差異は認められなかった。
+
+ｃ．シートゴム硬度測定
+シートゴムの硬度を測定した結果、新品に比べて若干硬化していた。
+
+ｄ．付着物分析
+シートゴム部及び弁体金属部の付着物について分析した結果、テフロン成分であることが確認されたが、シート部への付着はなかった。
+
+（３）特性変化調査
+ａ．新品の電磁弁の単体漏えい試験
+新品の電磁弁を背圧側から圧力をかけた単体試験を行った結果、約３０ｋＰａを超えた時点で漏えいが発生し、約４０ｋＰａを超えた時点で連続して漏えいすることが確認された。
+
+ｂ．これまで使用した電磁弁の単体漏えい試験
+ガス圧縮機側出口電磁弁（ＳＶ０７）と同年数使用した電磁弁（ＳＶ１８およびＳＶ３８）に背圧側から圧力をかけた単体試験を行った結果、約１５ｋＰａを超えた時点で漏えいが発生し、約２０ｋＰａを超えた時点で連続して漏えいすることが確認された。
+
+以上の結果から、ガス圧縮機側出口電磁弁（ＳＶ０７）の弁体シート部の凹みが若干深く、幅があり、弁座と不均一な当たりが生じ、弁体シートゴムの若干の硬化、背圧による弁体押し上げ力により弁体シート部の押し付け力が小さくなり漏えいが発生したものと考えられる。なお、シートゴム部及び弁体金属部に付着していたテフロン成分は弁座との接触面に付着がなかったことから、シート性能に影響はないものと考えられる。また、特性変化調査からも、経年変化により背圧側からの圧力がかかった時は、新品の電磁弁よりも漏えいしやすくなっていたものと考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[234]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10648</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/10/07 19:27:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>17780</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/10/22 16:07:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910121010]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．ガス圧縮機側出口電磁弁（ＳＶ０７他）を新品に取り替えるとともに、その取付けにあたっては、背圧側に漏えいしない向きに変更を行った。
+
+２．排気筒側出口電磁弁（ＳＶ０８他）を取外し、端栓を取付け、自動校正用ガスは全てガス圧縮機側に排出し、気体廃棄物処理系で処理することとした。
+
+３．今後、ガス分析装置においては、定期検査時に従来から実施している窒素ガスによるリークテストに加え、ヘリウムガスによるリークテストを行う。
+
+４．今回の事象を受けて、Ｂ－ガス分析器の後に設置されたＡ－ガス分析器を確認したところ、自動校正中にシート部の漏れが起きないように弁の取り付け方向を配慮しており、Ｂ－ガス分析器の当該弁については、その配慮が反映されず、今回の事象に至るまで取り付け方向が改善されていなかった。
+　このことを踏まえ、放射性ガスの放出にかかる系統設備について、設備設計に問題がないかを設計根拠や実際の設備動作等を書類及び現地調査により確認していく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/07 19:27:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[大飯１号機は第２３回定期検査中のところ、１０月１９日１０時２０分頃、プラント排気筒ガスモニタ※１の指示値が１０時１０分から２０分の約１０分間、僅かに上昇（通常値：１４．５ｃｐｓ※２→最大値：１８．１ｃｐｓ）していることが確認された。直ちに、放出にかかわる運転操作や定期検査作業等を調査したところ、原子炉補助建屋内の空気を吸引している換気空調系ガスモニタ（仮設）※３の指示値が同時刻に上昇していることが確認された。なお、１０月１２日１０時１０分から２０分の約１０分間、今回と同様にプラント排気筒ガスモニタの指示値が僅かに上昇（通常値：約１４．５ｃｐｓ→最大値：１８．１ｃｐｓ）しており、その際の調査では電気的なノイズ信号の可能性が高いと推測したが、継続的な調査を行っていた。これまでの調査で、１号機側において放射性気体廃棄物の放出にかかわる運転操作の実績はなく、また、定期検査作業においてもプラント排気筒ガスモニタの指示値が上昇するような作業の実績はなかった。さらに調査を続けた結果、プラント排気筒ガスモニタの指示値が上昇する同じ時間帯で、運転中の２号機の体積制御タンク※４の気相部の水素ガスを処理している気体廃棄物処理系統のガス分析器の自動校正が行われていることが判明した。今回、プラント排気筒から放出された放射性気体廃棄物の放出量を評価した結果、１０月１２日及び１０月１９日の上昇分合計で、約１．０×１０９Ｂｑ（１０月１２日分：約４．９×１０８Ｂｑ、１０月１９日分：約５．５×１０８Ｂｑ）と評価されたが、保安規定に基づく放出管理目標（３．９×１０１５Ｂｑ／年）に比べ十分低く、周辺環境への影響はない。
+
+※１ 運転に伴って発生する気体放射性廃棄物（希ガス）を監視するモニタ。大飯１号機ではプラント排気筒で原子炉格納容器および補助建屋からの排気を監視している。
+
+※２ １秒間に測った放射線の数を表す単位。
+
+※３ 気体廃棄物処理系統の換気空調系ガスモニタ（通常は常時測定しているものではないが、１０月１２日以降、常時計測する設定に変更していたもの）。
+
+※４　化学体積制御系の設備で、原子炉容器や配管内の１次冷却材の量を調整するためのタンク。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-関西-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[２号機燃料集合体からの漏えいの疑いにより、１次冷却材中に含まれる希ガスを処理していたＢ水素再結合装置で、入口酸素濃度計の自動校正時に、ガス圧縮機側出口電磁弁（ＳＶ０７）のシート部に漏れが生じ、圧力の高いガス圧縮機側の希ガスが、ガス分析器系統内に逆流し、校正ガスとともにプラント排気筒に放出され、校正時間（約１０分間）の間継続したため、１号機プラント排気筒ガスモニタの指示値が上昇したものと推定される。
+
+ガス圧縮機側出口電磁弁のシート部の漏れは、ガス圧縮機側出口電磁弁（ＳＶ０７他）の取付け向きが、当該弁を閉止した場合に、背圧による弁体押し上げ力が作用する方向に取り付けられていたこと、および当該電磁弁の弁体と弁座の不均一な当たりと経年変化による弁体シートゴムの若干の硬化により、弁体シート部の押し付け力が小さくなったことから、背圧による弁体押し上げ力によってＢ水素再結合装置ガス分析器の入口酸素濃度計自動校正中においてガス圧縮機側出口電磁弁（ＳＶ０７）のシート漏えいが生じたものと推定される。
+
+○ガス圧縮機側出口電磁弁（ＳＶ０７）シートリークに対する影響評価
+入口酸素濃度計の自動校正時、ガス圧縮機側出口電磁弁（ＳＶ０７）から85～550cc／分で希ガスがプラント排気筒に漏えいする可能性が認められたことから、１０月１９日に550cc／分の希ガスがプラント排気筒に放出された場合のプラント排気筒ガスモニタへの影響を評価した結果、当該事象における上昇幅に近い値まで上昇する可能性があることが判明した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[大飯発電所１号機プラント排気筒ガスモニタの一時的な僅かな指示値の上昇について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[2009年10月19日10時10分]]></HASSEI_DATE_HOSOKU>
+	<S_UNTEN_MODE><![CDATA[モード外]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>17779</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/12/21 20:09:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[330]]></KIKI_CODE>
+			<TROUBLE_ID>10648</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10648</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[134]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[容器]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>54</SORT_NO>
+						<BUHIN_CODE><![CDATA[134]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10648</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[134]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[容器]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>54</SORT_NO>
+						<BUHIN_CODE><![CDATA[134]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[330]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[水素分離装置]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[712]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[712]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[水素分離装置]]></KIKI_NAME>
+					<SORT_NO>22</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[気体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[234]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10648</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10648</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10648</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10648</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13667</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/09/05 09:02:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>117708</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/07/07 08:50:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20230621]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/09/05 09:02:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2023年6月21日、浜岡4号機 原子炉建屋4階（放射線管理区域内）において、当社社員が燃料取替機の操作前確認をおこなっていたところ、燃料取替機上でゴム状の破片を発見した。この破片は使用済燃料貯蔵プール（注）を確認する双眼鏡の鏡筒部が破損し、脱落したものであることを確認した。
+　その後、同4階（使用済燃料貯蔵プールを除く）を確認したが、当該双眼鏡破損部の破片の一部が見つかっていない。
+　今後、使用済燃料貯蔵プール内への破片の混入の可能性も考慮して、使用済燃料貯蔵プール内を詳細に確認していく。
+　本事象は外部への放射性物質の放出に関わる事象ではない。
+
+　同年7月11日から14日にかけて、見つかっていない破片が使用済燃料貯蔵プール内へ落下した可能性も考慮し、プール内を詳細に確認した。その結果、使用済燃料貯蔵プール内に当該双眼鏡の破片は確認されなかった。
+　このため、当該破片は作業に伴う現場の片付け、清掃の際に処分されたものと推定している。
+　仮に、当該破片が使用済燃料貯蔵プール内に落下していたとしても、想定される事象について評価を行っており、燃料およびプラント設備ならびに水質に影響を与えるおそれがないことを確認している。
+
+【原因】
+　当該双眼鏡の鏡頭部が破損した原因は、外観の状況から経年劣化によるものと考えている。今回の事象は、当社社員が使用する双眼鏡の外観点検を徹底できておらず、鏡筒部の経年劣化に気づけなかったことが原因である。
+
+【再発防止対策】
+　今後は、双眼鏡を含めた持ち込み品の外観点検を徹底するため、作業前チェックシートを見直すとともに、異物侵入防止に関する教育を継続して実施していく。さらに、本事象を風化させないよう失敗事例集に反映することで再発の防止に努めていく。
+
+注　使用済燃料貯蔵プールは、燃料や使用済制御棒等を貯蔵するための設備。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-中部-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[4号機 使用済燃料貯蔵プール内の確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/07/07 08:50:29]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

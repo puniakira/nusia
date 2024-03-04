@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[ＳＧ伝熱管のＥＣＴで有意な信号指示が認められた原因調査を実施した。
+（１）信号指示の状況
+　色調図表示※５で分析した結果、伝熱管高温側管板部をローラ拡管している上端部※６（２２ピッチ）に有意な信号指示があることを確認した。
+　また、リサージュ表示※７（信号表示）並びに鳥瞰図表示＊８で分析した結果、いずれも伝熱管内面の軸方向に沿った非貫通のきずの特徴を有していた。
+　なお、今回の定期検査までのＥＣＴで、当該管には有意な信号指示が認められていないことを確認した。
+
+※５　２４組のコイル分のチャートを平面状に並べ、信号振幅に応じて色調として表示させたもの。
+伝熱管全長についての信号指示の大きさや位置等の分析に用いる表示方法。
+※６　管板の穴に伝熱管を挿入し、伝熱管の内面から高い圧力（水圧）で拡管した後に、管板下端部から上端部に向かって機械式ローラで伝熱管を押し広げて伝熱管と管板を圧着した最終ピッチ部。
+※７　渦電流変化の電気信号を図で表したもの（水平成分および垂直成分を同一画面に表示）。
+※８　信号の波形を３次元的に表したもので、信号の分布(イメージ)の詳細分析に用いる表示方法。
+
+（２）製造履歴調査
+　ａ．製造時の検査記録による調査
+　ＳＧ伝熱管について建設時の製造記録を調査した結果、問題となる記録がないことを確認した。
+
+　ｂ．関係者への聞き取りによる調査
+　ＳＧの製造手順について聞き取り調査を行った結果、管板に伝熱管の穴を加工した後に内面を目視で検査しているが、きずが認められた場合には専用の工具で手入れを行うことを確認した。
+　その後、伝熱管を管板の穴へ挿入し、伝熱管の内面から高い水圧をかけて拡管した後に、仕上げとして機械式ローラで伝熱管を更に拡管（２２ステップ）し、伝熱管を管板に密着固定させる手順で製造されていることを確認した。
+
+（３）運転履歴調査
+　ａ．１次冷却材温度、圧力
+　運転開始以降、第２２回定期検査開始までの間、１次冷却材温度・圧力変化の調査を行った結果、過大な応力を発生させる異常な温度・圧力の変化がないことを確認した。
+　なお、第２２サイクルにおいて、約３５日間、定格熱出力一定運転していることを確認した。
+
+　ｂ．放射線監視装置
+　第２２サイクルにおける各放射線監視装置指示値の調査を行った結果、各指示値に有意な変化はなく、ＳＧの１次側から２次側への１次冷却材の漏えいがないことを確認した。
+
+　ｃ．１次冷却材の水質
+　運転開始以降、第２２回定期検査開始までの間、１次冷却材中のｐＨ、電気伝導率、塩素イオン、溶存酸素、溶存水素の調査を行った結果、各データに有意な変化はなく基準値の範囲内で推移していたことを確認した。
+
+（４）材料調査
+　当該部分における製造時のミルシートを調査した結果、材料の成分はＳＧ製造メーカの仕様どおりであり、伝熱管はインコネルＴＴ６００※９製であることを確認した。
+
+※９　ニッケルをベースとし、鉄、クロム等を含有するニッケル基合金の商標名。
+
+（５）設計図書調査
+　工事計画認可申請書の強度計算書を調査した結果、延性割れ※１０、疲労割れ※１１に対して、設計上考慮されていることを確認した。
+※１０　材料に過大な応力がかかった時に発生する割れ（破壊）。
+※１１　材料に応力が継続的に、あるいは繰り返し受け強度が低下した時に発生する割れ。
+
+（６）過去の知見調査
+　ＳＧの伝熱管内面の損傷モードについて、過去の知見等の調査を実施した。
+　ａ．粒界腐食割れ※１２、ピッティング※１３について
+　１次冷却材環境下では塩素イオン、溶存水素、溶存酸素が適切な基準値に保たれていれば、伝熱管内では沸騰による不純物濃縮が起こることはなく、かつ還元性雰囲気を維持できるため、粒界腐食割れ、ピッティングは発生しないことを確認した。
+※１２　金属の結晶粒の境目（粒界）に沿って進展する腐食。
+※１３　塩素イオン等に起因する金属表面の被膜破壊によって起きる局所的な腐食。
+
+　ｂ．局所変形について
+　局所変形の場合、ＥＣＴのリサージュ表示で位相角が０°となり、リサージュ波形の巻きも大きくなるが、今回のＥＣＴ信号指示は内面きずの特徴を示す位相角を有しており、リサージュ波形に巻きが認められないことから、局所変形による信号指示でないことを確認した。
+
+　ｃ．エロージョン※１４について
+　ＳＧの伝熱管材料にエロージョンが発生する場合の限界流速は非常に速い（約７０ｍ／ｓ以上）が、これに対して当該部分の流速は十分遅い（平均約６ｍ／ｓ）ことから、エロージョンは発生しないことを確認した。また、伝熱管内は流体が衝突する形状でないことを確認した。
+
+※１４　管内を流れる水により配管内面が摩耗する現象。
+
+　ｄ．ＰＷＳＣＣについて（高浜発電所の経験）
+　（ａ）抜管調査結果
+　４号機の第１１回定期検査（平成１１年４月～平成１１年７月）時に、ＳＧ伝熱管の高温側管板部のローラ拡管上端部に有意な信号指示が認められ、当該部位の抜管調査を行った結果、有意な信号指示は伝熱管内面を起点とした１次側からと考えられる軸方向に沿った粒界割れであった。
+　その原因は、インコネルＴＴ６００製の伝熱管が高温の１次冷却材中で応力腐食割れ※１５（以下「ＰＷＳＣＣ」という。）の感受性を有しており、伝熱管のローラ拡管の際に局所的に生じた引張り残留応力※１６と運転中内圧が相まったことによりＰＷＳＣＣが発生したと推定している。
+　また、３号機の第１２回定期検査（平成１２年２月～平成１２年４月）時に、４号機の第１１回定期検査と同じ部位に有意な信号指示が認められ、当該部位の抜管調査を行った結果、４号機第１１回定期検査時の抜管調査と同様の結果を得ている。
+※１５　１次系水質環境下で発生する加圧水型原子力発電所特有の応力腐食割れ（材料、環境、応力の３要素が重なって発生する割れ）。
+※１６　伝熱管を管板と接合させた後に、伝熱管に外力が作用していないにも関わらず材料内に生じる単位面積当たりの内力。
+
+（ｂ）抜管調査以降のＥＣＴ結果
+　３号機および４号機では、抜管調査以降の定期検査時における伝熱管のＥＣＴで、同様の箇所（高温側管板部）に軸方向のきずの特徴を有した有意な信号指示が認められているが、発生要因の調査結果では、伝熱管のローラ拡管の際に局所的に生じた引張り残留応力と運転中内圧が相まったことによりＰＷＳＣＣが発生したものと推定している。
+
+３号機
+・第１３回定期検査（平成１３年６月～平成１３年８月）
+・第２１回定期検査（平成２４年２月～平成２８年２月）
+４号機
+・第１２回定期検査（平成１２年９月～平成１２年１１月）
+・第１３回定期検査（平成１４年１月～平成１４年３月）
+・第１４回定期検査（平成１５年４月～平成１５年６月）
+・第１８回定期検査（平成２０年８月～平成２０年１２月）
+・第１９回定期検査（平成２２年２月～平成２２年５月）
+・第２０回定期検査（平成２３年７月～）
+
+　ｅ．国内プラントの経験
+　他の国内プラントのインコネルＴＴ６００製のＳＧ伝熱管のＥＣＴにおいても、３号機と同様に有意な信号指示が経年的に確認されている。この信号指示は、同様の部位（高温側管板部）において発生しており、ＰＷＳＣＣであることが認められている。
+
+　ｆ．過去の知見調査のまとめ
+　インコネルＴＴ６００製のＳＧ伝熱管のＥＣＴ結果で、高温側管板部のローラ拡管部において認められた内面の軸方向に沿ったきずの特徴を有した信号指示は、伝熱管のローラ拡管の際に局所的に生じた引張り残留応力と運転中内圧が相まったことにより発生したＰＷＳＣＣと推定されている。
+
+（７）ショットピーニング※１７の効果
+　ａ．これまでの知見により、ＳＧ伝熱管内面のショットピーニングがＰＷＳＣＣに対する予防保全策として有効であることが確認されていることから、３号機の伝熱管については、第１３回定期検査時（平成１３年６月～平成１３年８月）にショットピーニングを施工した。
+　ショットピーニングの施工は、これまでの知見から適切な施工条件により実施した場合は、ＰＷＳＣＣの初期欠陥に有意な進展を生じないことが知られていることから、当該定期検査時の施工記録を調査した結果、その条件どおりに施工されていることを確認した。
+※１７　伝熱管内面にビーズ(金属微粒子)を打ち付けることにより材料表面の残留応力を改善する手法。
+
+　ｂ．３号機では第１３回定期検査時（平成１３年６月～平成１３年８月）のショットピーニングを施工した後は、ＳＧ伝熱管のＥＣＴで有意な信号指示は認められていなかったが、第２１回定期検査時（平成２４年２月～平成２８年２月）に伝熱管１本に有意な信号指示を認めている。ショットピーニング施工以降に、伝熱管のＥＣＴで有意な信号指示を検出した理由は以下のとおりと考えられる。
+　伝熱管の内面に施工したショットピーニングは、圧縮応力を約０．２ｍｍの深さまで付与することが可能である。一方、ＥＣＴでは約０．５ｍｍ以上の深さのＰＷＳＣＣによる信号指示を検出することが可能である。
+　よって、ショットピーニングを施工した時点で、圧縮応力の付与されない範囲にＥＣＴにより信号指示の検出が不可能なＰＷＳＣＣが既に存在した場合は、ショットピーニング施工後もＰＷＳＣＣが進展し、顕在化する可能性があることから、伝熱管のＥＣＴで確認された有意な信号指示もそれに該当すると考えられる。
+
+（８）約３５日間の運転によるＥＣＴの信号指示への影響
+　第２１回定期検査で行ったＳＧ伝熱管のＥＣＴでは有意な信号指示として認められなかった微小なきずが、第２２サイクルにおける約３５日間の定格熱出力一定運転によって僅かに進展したことに伴い、きず内面の接触程度が変化したことにより、今回有意な信号指示として認められたと考えられる。
+
+２．調査結果のまとめ
+（１）ＳＧ伝熱管のＥＣＴで確認された有意な信号指示は、高温側管板部のローラ拡管上端部（２２ピッチ）の位置であり、内面の軸方向に沿った非貫通のきずの特徴を有していた。
+　これは、過去に経験したＥＣＴの信号指示と同様であることから、従来からインコネルＴＴ６００製の伝熱管で経験しているＰＷＳＣＣによるきずと考えられる。
+
+（２）設計・建設時の記録やプラントの運転履歴等の調査結果については、特に問題となるものはなかった。
+　なお、第２２サイクルにおいて、約３５日間、定格熱出力一定運転していることを確認した。
+
+（３）ＳＧの伝熱管にショットピーニングを施工した時点で、圧縮応力の付与されない範囲にＥＣＴにより検出不可能なＰＷＳＣＣが既に存在していた場合は、ショットピーニング施工後もＰＷＳＣＣが進展し、顕在化する可能性がある。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>7</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12573</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2018/06/11 14:22:20]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/01/13 13:10:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201701121300]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．ＥＣＴで有意な信号指示の認められたＳＧ伝熱管については、高温側および低温側のＳＧ管板部で施栓し供用外とする。
+　なお、補修内訳は下表のとおりであり、今回の施栓により、安全解析施栓率※１８ １０％を超えるものではない。
+
+（単位：本）
+ＳＧ（今回施栓本数）：Ａ（１）、Ｂ（０）、Ｃ（０）、合計（１）
+ＳＧ（既施栓本数）　 ：Ａ（１０８）、Ｂ（１３４）、Ｃ（１１９）、合計（３６１）
+ＳＧ（総施栓本数）　 ：Ａ（１０９）、Ｂ（１３４）、Ｃ（１１９）、合計（３６２）
+ＳＧ（設備本数）　　　：Ａ（３，３８２）、Ｂ（３，３８２）、Ｃ（３，３８２）、合計（１０，１４６）
+ＳＧ（施栓率（％））　 ：Ａ（３．２）、Ｂ（４．０）、Ｃ（３．５）、合計（３．６）
+【安全解析施栓率：１０％】
+
+※１８原子力発電所の安全性を解析・評価する際の条件として設定している施栓率であり、高浜３号機では施栓率１０％において安全性を確認している。
+
+２．過去の知見調査の結果から、高温側管板部では検出が想定されることから、今後も定期検査毎に、ＳＧ伝熱管の全数について全長のＥＣＴを実施して健全性を確認していく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/06/11 14:22:20]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所３号機（加圧水型軽水炉、定格電気出力８７万ｋＷ、定格熱出力２６６万ｋＷ）は、平成２８年１２月９日より第２２回定期検査中であり、３台ある蒸気発生器（以下「ＳＧ」という。）の伝熱管※１全数について、健全性を確認するため渦流探傷試験※２（以下「ＥＣＴ」という。）を実施した。
+　その結果、Ａ－ＳＧの伝熱管１本について、高温側の管板※３部に有意な信号指示※４が認められたことから、実用発電用原子炉及びその附属施設の技術基準に関する規則第１８条並びに第５６条に適合しておらず、実用発電用原子炉の設置、運転等に関する規則第１３４条に該当することを、平成２９年１月１２日１３時００分に判断した。
+　なお、Ｂ、Ｃ－ＳＧ伝熱管については、ＥＣＴで有意な信号指示は認められなかった。
+
+※１　ＳＧの中で1次冷却材（1次側）と給水（2次側）の熱交換を行う逆Ｕ字形の管群。1次冷却材は入口管板部（高温側）から入り、給水と熱交換後に出口管板部（低温側）へ流れる。
+※２　高周波電流を流したコイルを伝熱管に挿入することで伝熱管に渦電流を発生させ、伝熱管の欠陥により生じる渦電流の変化を電気信号として取り出すことで欠陥を検出する試験（ＥＣＴ；Eddy Current Test）。
+全周に対して渦電流の発生と検出を別々のコイルを用いた２４組のコイルで伝熱管の欠陥による渦電流の変化を信号として検出する。
+※３　伝熱管が取り付けられている部品。伝熱管と管板で1次冷却材と給水の圧力障壁となる。
+※４　ノイズレベル（雑音信号レベル）を超える信号であって、ＳＧ管支持板等の外部構造物あるいは伝熱管の形状等に起因する信号（疑似信号）ではない信号指示。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-関西-T002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　今回ＳＧ伝熱管のＥＣＴで認められた有意な信号指示は、過去に経験した信号指示と同様に伝熱管内面の軸方向に沿ったきずであることから、ＳＧ製造時に高温側の管板部で伝熱管を拡管する際、伝熱管内面で局所的に発生した引張り残留応力と運転時の内圧および高温の１次冷却材環境が相まって、伝熱管内面からＰＷＳＣＣが発生・進展したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[蒸気発生器伝熱管の渦流探傷検査結果について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[技術基準に適合しないと判断した日時]]></HASSEI_DATE_HOSOKU>
+	<S_UNTEN_MODE><![CDATA[モード外]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>69428</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/01/13 13:11:36]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>11398</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>11502</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12573</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[119]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[伝熱管]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>47</SORT_NO>
+						<BUHIN_CODE><![CDATA[119]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[蒸気発生器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[300]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[300]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[熱交換器・冷却器装置]]></KIKI_NAME>
+					<SORT_NO>18</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[一次冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[203]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[製作上の不備によるもの（メーカ工場におけるもので、管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12573</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[3]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

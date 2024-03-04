@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[３．原因調査結果
+　上記の事象を踏まえ，非放射性系統であるRWCW系へトリチウムが混入した原因を調査するため，要因分析表に基づき調査を行った結果，以下のことを確認した。
+
+（１）RWCW系の熱負荷側である冷却設備からの混入
+ａ．RWCW系の熱負荷側でトリチウムを含む水を冷却している冷却設備において，冷却器の冷却管にピンホール・割れがある場合で，かつRWCW系の圧力より冷却器内の圧力が高い若しくは同程度の場合には，RWCW系へトリチウムが混入する可能性があることから，該当する冷却器を調査した結果，復水補給水系（以下，「MUWC系」という）シール水冷却器，固化設備シール水冷却器が抽出された。
+　抽出された機器毎にRWCW系より隔離し点検を実施した結果，冷却管のリークは確認されなかった。
+ｂ．過去における混入の有無を調査するためRWCW系の熱負荷側の冷却設備において，過去に実施した工事記録を調査した結果，冷却管のピンホール・割れの補修を実施した記録はなかった。
+　尚，「ＭＵＷＣ系シール水冷却器」「固化設備シール水冷却器」については，事後保全機器であり過去に点検した実績はないが，上記ａ．の調査の結果，異常はなかった。
+ｃ．RWCW系の熱負荷側の冷却設備からRWCW系へインリークがある場合，RWCW系サージタンク（以下，「当該タンク」という）のレベルが上昇することから，残存している過去の記録１年半分の当該タンクレベルを調査した結果，当該タンクのレベル上昇は確認されなかった。
+
+　以上のことから，RWCW系の熱負荷側の冷却設備からRWCW系への混入の可能性はないと考えられた。
+
+(２)トリチウムを含む系統との境界弁からの混入
+ａ．RWCW系とトリチウムを含む系統との境界弁があり，かつ境界弁がシートパスしている場合には，RWCW系へトリチウムが混入する可能性が考えられることから，境界弁の有無について設備図書及び現場による調査を実施した結果，設備図書及び現場とも境界弁の存在は確認されなかった。
+
+　以上のことから，上記（１）の当該タンクのレベル上昇調査結果を踏まえても，境界弁からの混入の可能性はないと考えられた。
+
+(３)当該タンクへのトリチウムを含む空気の逆流による混入
+ａ．放射性の系統配管とRWCW系との配管が接続されている場合には，空調バランスによっては放射性の系統配管からトリチウムを含む空気が逆流する可能性があることから，放射性系統からRWCW系への配管接続の有無について設備図書及び現場による調査を実施した結果，当該タンクのオーバーフロー配管が放射性系統であるHCWサンプに接続されていることが確認された。
+　また，当該タンクのベント配管は廃棄物処理建屋の換気空調系排気ダクトに接続されていることが確認された。
+ｂ．配管とダクトの接続状況から，HCWサンプのトリチウムを含む空気が当該タンクに混入する可能性があるため，当該タンクについて調査を実施した結果，当該タンクの蓋内面・本体内面に結露水が確認された。
+　このため，HCWサンプ水や結露水のトリチウム濃度の測定を実施した結果，HCWサンプ水は171Bq/cm3，結露水では8.42Bq/cm3のトリチウムが検出された。
+　尚，HCWサンプの水は放射性系統であるためトリチウムを含んでいる。
+　また，HCWサンプはタンクベント系（容量1,500m3/h）で吸引されている一方，当該タンクは換気空調系（容量360,000m3/h）で吸引されていることから，HCWサンプに接続されている当該タンクのオーバーフロー配管の空気の流れを調査した結果，HCWサンプ側から当該タンク側へ空気が逆流していることが確認された。
+
+　以上のことから，トリチウムを含むHCWサンプの空気が，当該タンクのオーバーフロー配管を経由しベント配管の接続先である換気空調系排気ダクトに吸い込まれ当該タンク内で結露し凝縮水となりRWCW系統水に混入した可能性があることが確認された。
+
+(４)開放箇所からの混入
+ａ．開放箇所の有無について設備図書及び現場による調査を実施した結果，RWCW系配管内の錆の発生を防止するための薬注設備があることが確認された。
+　しかし，同設備は非管理区域である海水熱交換器建屋にあることから，トリチウムを含む水が持ち込まれ混入する可能性は極めて低いと考えられた。
+
+ (５)不適切な作業手順による混入
+ａ．作業手順で，RWCW系の熱負荷側の冷却設備点検のための隔離時にRWCW系側を先に水抜きした場合，冷却管のピンホール・割れがあるとRWCW系側へトリチウムを含んだ水が混入する可能性があるが，隔離状態では水はサンプに排水されるため， RWCW系統に混入する可能性はないと考えられた。
+
+(６)トリチウムの透過による混入
+ａ．トリチウムは，HCW復水器等の金属材料（ステンレス材）を透過することからトリチウムの金属透過率を評価した結果，3号機が試運転を開始した昭和59年以降，約25年間でRWCW系の系統水へ透過したトリチウム濃度は，約6.5×10^-6 Bq/cm3と評価された。
+尚，これは，11月18日に確認された3号機RWCW系の系統水のトリチウム濃度0.96 Bq/cm3に比べ約14万分の１と小さいことから，金属透過によってRWCW系の系統水のトリチウム濃度が上昇した可能性はないと考えられた。
+
+　尚，当所1～4号機の類似系統のサージタンクベント配管は大気開放となっているが，3・4号機RWCW系のみ換気空調系排気ダクトに接続されているため，当該設備を設計・施工したメーカーへ聞き取り調査を実施した。
+　その結果，設計段階では当該タンクのベント配管は大気開放もしくは換気空調系排気ダクトのどちらに接続しても問題ないと考えたが，当該タンクはRWCW系統水の温度変動による当該タンク水位の変動により，管理区域内の空気が当該タンク内へ流入することを防ぐことが必要と考え，当該タンクのベント配管を換気空調系排気ダクトへ接続することで，当該タンク内の水と管理区域内の空気との接触を避けるという安全側の設計を選択していた。
+　又，当該タンクのオーバーフロー先としては非放射性・放射性どちらに接続しても問題ないこと，および3・4号機廃棄物処理建屋には，ストームドレン系が存在しないことから，当該タンクのオーバーフロー配管はHCWサンプに接続する設計とした。
+この結果を受けてRWCW系の系統設計がなされ，その系統設計の構成通り配管が設計・施工されていることが確認された。
+　以上の原因調査結果から，RWCW系へトリチウムが混入したのは，設計・施工上の問題により生じた配管の誤接続が原因ではなく，空調バランスによりトリチウムを含む空気が逆流し，当該タンク内で凝縮したためと考えられた。
+尚，設計当時，HCWサンプの空気が当該タンクのオーバーフロー配管を介して当該タンクへ逆流することまでは想定していなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10703</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/03/01 16:34:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4620</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/11/24 16:56:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091118]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[６．対　　策
+　推定原因の結果を踏まえ，以下の対策を実施する。
+（１）HCWサンプのトリチウムを含む空気が当該タンクへ吸引されないよう，当該タンクのベント配管と換気空調系排気ダクトを切り離し，排気ダクト側に閉止板を取付けるとともに，当該タンクのベント配管側を大気開放に変更した。
+（２）RWCW系の系統水をトリチウムが含まない純水と置換する。
+
+　尚，類似箇所を調査したところ，3・4号機の加熱蒸気戻り系においてレシーバタンクのベント配管が換気空調系排気ダクトに接続され，レシーバタンクのオーバーフロー配管がHCWサンプに接続されていることが確認された。
+　調査の結果，過去に加熱蒸気戻り系からトリチウムを含む水を放出したことはなかった。
+　対策として、レシーバタンクのオーバーフロー配管をHCWサンプから切り離し，HCWサンプから空気が逆流しないようにした。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/03/01 16:34:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生の概要
+　平成21年11月18日，当所3・4号機の非放射性系統である廃棄物処理補機冷却系（以下，「RWCW系」という）の熱交換器（Ａ）点検にあたり，熱交換器内のRWCW系の水を放水口より海洋に放出する必要があることから，RWCW系の水を水質汚濁防止法に基づきpH・COD（化学的酸素要求量）などの水質確認及び社内マニュアルに基づきガンマ（γ）線核種の測定を実施した。また，先に当所1号機の配管誤接続により非放射性系統よりトリチウムが検出され放出されたことを踏まえ，今回，特別にトリチウム濃度についても測定を実施した。
+　測定の結果，pH・CODなどは基準値内でありγ線核種も検出されなかったが，トリチウム測定において，0.96 Bq/cm3のトリチウムが検出された。
+　このため，平成21年11月19日に，17日にRWCW系ポンプ点検のためポンプ周りのRWCW系の水抜きを行い，水抜き先の海水ストームドレンサンプ（以下，「SWSDサンプ」という）に貯水していた水のトリチウム濃度の測定を実施したところ，0.31Bq/cm3のトリチウムが検出された。
+
+２．事象発生後の対応状況
+（１）通常SWSDサンプの水は放水口を経由して海洋に放出されるが，トリチウムが検出されたことから，SWSDサンプの水を廃棄物処理建屋へ移送し，高電導度廃液系（放射性）（以下，「HCW」という）で処理した。
+（２）RWCW系の系統水からトリチウムが検出されたことから，RWCW系からの水抜きを行わないこととした。
+
+・指示文書に伴う保安規定上の不適合が認められた（詳細は後述）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-M036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[４．推定原因
+　原因調査結果から，以下のメカニズムでRWCW系の系統水へトリチウムが混入し，トリチウムの放出に至ったものと推定した。
+（１）当該タンクのオーバーフロー配管はHCWサンプに接続されており，HCWサンプに比べて当該タンクに接続される空調の容量が大きかったため，HCWサンプ内のトリチウムを含む空気が当該タンクを経由して換気空調系排気ダクトに吸引された。
+（２）トリチウムを含んだHCWサンプ内の空気は，当該タンクを通る際にその一部が結露し，凝縮水となって当該タンク内のRWCW系の系統水に混入した。
+（３）その結果，RWCW系の系統水のトリチウム濃度が徐々に上昇し，RWCW熱交換器及びポンプ点検時の系統水抜きに伴いトリチウムが放出された。
+
+５．RWCW系からの試運転以降から現在までのトリチウム放出量
+　推定原因の結果から，RWCW系へのトリチウム混入は，試運転開始以降から混入が始まり徐々にトリチウム濃度が高くなり，今回の0.96 Bq/cm3に至ったもの考えられる。
+RWCW系が試運転を開始した昭和59年から現在までの過去25年間分について放出した系統水量及びそれに基づくトリチウム放出量を今回検出された0.96 Bq/cm3の濃度で算出した結果，総放出量は569.5m3，総放射能量は5.5×10^8Bqと評価された。
+　また，年間あたりの評価では，同系統から放出した最大放出水量から算出すると，最大放水量（熱交換器3基，ポンプ3台）は23.5 m3，総放射能量は2.3×10^7 Bqと評価され，保安規定で定める放出管理基準値1.4×10^13 Bqの約60万分の１と評価された。
+　周辺監視区域の外側の境界における水中の放射性物質の濃度は，約3.6×10^-8 Bq/cm3程度であり，炉規則で定めている60Bq/cm3（3ヶ月の平均濃度）の約16億分の１であり十分小さいものと評価された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所３号機ストームドレンサンプからのトリチウムの検出について(RWCW)]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[・平成22年2月2日、保安規定上の不適合について指示文書受領
+（１）不適合が認められた保安規定の条文
+保安規定　第８８条（放射性液体廃棄物の管理）
+（２）事実の内容及び保安規定第８８条に不適合と認められる理由
+保安規定第８８条第１項では、放射性液体廃棄物を放出する際の測定を規定しており、同条第２項では、指定された放出経路及び排水設備から放射性液体廃棄物を放出することを規定している。しかしながら、放射性物質であるトリチウムを含む液体廃棄物を、放射性廃棄物処理設備ではない排水管を通じて、測定を行わず放出したものがあった。
+
+本件は誤接続ではない事象としての報告だったが、上記の理由により、保安規定上の不適合が認められた。
+
+本項目の箇所は、保安規定上の不適合であると認められた１８箇所に含まれる。
+詳細は、通番10811の項目にまとめて記載。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1109</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/26 17:09:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10703</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10703</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10703</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10703</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

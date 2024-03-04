@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時の状況
+　ＲＰＶの水張り時においては、「閉」であるべきＦ０１３，Ｆ０１４，Ｆ０１６弁が「開」状態となっていた。このため、主蒸気配管内の水がＲＰＶヘッドベントラインの当該の３弁を通ってＤ／Ｗ　ＬＣＷサンプに流入し、オーバーフローした。
+　オーバーフローした水は、格納容器内高電導度廃液サンプ（以下、「Ｄ／Ｗ　ＨＣＷサンプ」という。）に流入し、原子炉複合建屋原子炉棟ＨＣＷサンプに排出された。
+２．原因調査
+（１）水張り水の流入
+　水張り時に「閉」であるべきＦ０１３，Ｆ０１４，Ｆ０１６弁が「開」状態となっていたことから、その原因について、操作の時系列、操作員への聞き取り等の詳細調査を行ったところ、以下のことが確認された。
+ａ．当該３弁については、１０月６日に開始された原子炉開放作業のための安全処置（作業のための系統構成）として、弁は「開」状態で電源ＯＦＦとされ、中央制御室の操作スイッチには操作禁止のタグ「開」が取り付けられていた。しかし、ＲＰＶ水張り作業においては、一時的に安全処置を変更する操作（弁の状態を「開」状態から「閉」状態に一時的に変更）を実施することが求められていた。
+ｂ．この操作は７日に計画されており、当初、操作員Ａが実施するものとして、当該操作の準備を開始した。しかしながら、他の作業に従事していた者から別の作業について相談を受けたためその現場に行く必要が生じ、当該操作を操作員Ｂに引き継いだ。
+ｃ．この際、操作員Ａは、当該操作の進捗状況及びその後必要となる操作について、操作員Ｂが当該作業を熟知した者であったことから、操作状況を説明せず、当該３弁のＲＰＶ水張り作業の安全処置として取り付ける新たなタグ（「閉」表記）を渡したのみであった。
+ｄ．引き継いだ操作員Ｂは、当該３弁の操作スイッチの表示灯が弁の電源ＯＦＦにより消灯していたため、開閉状態は確認できなかったが、操作員Ａからの引き継ぎにおいて操作状況について説明がなかったことから、操作員Ａが既に当該３弁の「閉」操作を実施していたものと考え、開閉状態を確認せずにタグを取り付けた。
+ｅ．操作員Ａは、他の作業に関わる現場での確認を終えたのち、中央制御室に戻り、操作員Ｂから当該操作を引き継いだが、操作員Ｂが操作を遂行したものと解し、操作員Ｂに確認しないまま、（この文章の続きは事象の原因へ転記）
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>172</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/08/25 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>339</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199810081200]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）運転中のみならず、定期検査中においても、安全処置の実施に当たっては下記の事項を周知徹底することとし、マニュアル及び手順書に反映する。
+［１］同一操作員が操作・確認を一貫して行うものとする。
+［２］ただし、止むを得ず分割作業とする場合は、当直長の許可を得て、手順書に基づき、そのときの状況や依頼すべき事項を明確にして引き継ぐものとする。
+　また、その中で特に他の作業により安全処置として電源ＯＦＦとされているものについては、表示灯による状態確認ができなくなることから、安全処置の変更にあたっては必ず現場の状態を確認するものとする。
+［３］定期検査中の安全処置を記載した手順書（チェックシート）にチェックする際は、操作者又は現場状態確認者が自らチェックすることとする。
+（２）人為ミスに関わる事象について事例検討会等を実施し、更なる意識付けを行う。
+
+　なお、Ｄ／Ｗ　ＬＣＷサンプ出口流量計のオリフィスについては、系統に流すことのできる最大流量を得られるものに取替えることとする。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１０年１０月８日１２時００分頃（発見）
+
+　１号機は、第１０回定期検査中（平成１０年１０月６日より開始）、１０月８日９時１０分頃から原子炉開放点検準備のため、原子炉圧力容器（以下、「ＲＰＶ」という。）の水張り作業を行っていたところ、１１時２５分、「ドライウェルＬＣＷサンプ液位高」警報、また１１時３０分、「ドライウェルＨＣＷサンプ流量高」警報が発生した。このため、警報が発生した要因を調査したところ、ＲＰＶヘッドベントラインからの流入によるものと推定されたことから、バルブの開閉状態を確認したところ、原子炉圧力容器ベント第一弁（Ｆ０１３）、同第二弁（Ｆ０１４）及び、原子炉圧力容器頂部ガス抜き弁（Ｆ０１６）が全開となっていることが確認された。
+　以上から、当該３弁を全閉するとともに、両サンプがある原子炉圧力容器基礎（以下、「ペデスタル」という。）床面の状況を調査したところ、水が溜まっていることが確認された。溜まっていた水は、格納容器内低電導度廃液サンプ（以下、「Ｄ／Ｗ　ＬＣＷサンプ」という。）からオーバーフローしたものと推定され、その量は約３００リットルと評価された。その後、水張り作業を中止するとともに、ペデスタル床面を除染した。
+　溜まっていた水の放射能量は、サンプリングの結果３０Ｂｑ／ｃｃであり、総量としては約９Ｅ６Ｂｑと評価された。
+　本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-東京-T011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（原因調査の概要の続き）
+手順書（チェックシート）のチェック欄には当該３弁は「閉」状態であるとしてチェックした。
+（２）排出不良
+　事象発生時「ドライウェルＬＣＷ流量高」警報が発生していなかったことから、Ｄ／Ｗ　ＬＣＷサンプの出口流量を確認したところ、系統に流すことができる最大流量を下まわっていたことが確認された。このため、Ｄ／Ｗ　ＬＣＷサンプ出口流量計を点検した結果、当該流量計には異常は認められなかったものの、低流量でのハンチング防止のために設置している当該流量計のオリフィスが系統の流量を制限していることが判明した。しかし、Ｄ／Ｗ　ＬＣＷサンプへの流入量を評価した結果、系統に流すことのできる最大流量で排水された場合であっても、流入量がそれを上まわることから、オーバーフローを回避することは困難だったと考えられる。なお、今回の事象のようにＤ／Ｗ　ＬＣＷサンプへの流入量が排水量を上まわった場合であっても、オーバーフロー水はＤ／Ｗ　ＨＣＷサンプから排水が可能な設備となっている。
+
+
+事象の原因
+［作業者の過失］
+　以上の原因調査の結果から、ＲＰＶ水張り作業時に安全処置として閉状態とすべき弁が、実際には「閉」されず、「開」状態のままとされていたことから、当該ラインからＤ／Ｗ　ＬＣＷサンプに水が流入し、その量が同サンプの排出容量を上回ったためオーバーフローに至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉格納容器内ＬＣＷサンプからのオーバーフローについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[側溝・ピット*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>172</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[手動弁]]></KIKI_NAME>
+				<SORT_NO>14</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉格納容器]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[145]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>172</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

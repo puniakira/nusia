@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2771</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/11 20:34:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/02/17 16:18:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20040609]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/11 20:34:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機（平成15年９月30日より第18回定期検査を実施中）は、平成16年６月５日から燃料装荷作業を開始したところ、６月９日、764体中305体目の燃料を装荷作業中に、装荷状況の異常を示す警報（荷重異常）が発生した。
+　このため作業を中断し、当該燃料を取り出し外観点検を実施したところ、６月10日、チャンネルボックス表面の一部に上部格子板および制御棒と接触したと考えられる痕が確認された。
+　なお、燃料はチャンネルボックスで覆われており、燃料自体への影響はない。また、上部格子板および制御棒についても、機能上特に問題となる異常は認められなかった。
+
+　水中カメラによる点検の結果、チャンネルボックス、上部格子板および制御棒に付着しているクラッドがこすれた痕を確認したが、いずれも変形や損傷は認められなかった。また、チャンネルボックスの曲がりについて測定した結果、これまでの使用実績の範囲内にあり、継続使用に支障のないことを確認した。
+　なお、今回の当該燃料装荷時に警報が発生した原因は、装荷時における燃料の傾きや上部格子板等との隙間の大きさなどの要因が重なった結果、当該燃料のチャンネルボックスが上部格子板に比較的強めに接触し、燃料の荷重が見かけ上軽くなり、荷重異常の警報が発生したものと推定した。また、燃料と上部格子板等との隙間を評価した結果、通常通り装荷されれば問題のないことを確認した。
+
+　これらを踏まえ、燃料装荷作業については、６月14日午後７時30分頃から再開し、当該燃料を問題なく装荷した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S020]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[燃料装荷作業中の警報発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/17 16:20:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

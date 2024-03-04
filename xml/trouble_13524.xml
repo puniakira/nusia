@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13524</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/07/14 15:27:20]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>109066</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/07/14 15:26:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202207081918]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・7月8日、1号炉使用済燃料プール冷却系の機器（以下、ポンプ①）について、振動診断を行ったところ、振動値が通常値に比べて高い傾向にあることを確認。
+・原因調査のため、7月8日19時18分に使用済燃料プール冷却機能を停止することを判断し、7月8日21時9分に冷却機能を停止。
+・予備の使用済燃料プール冷却系の機器（以下、ポンプ②）については、7月8日時点では点検のため停止していた。
+・冷却機能が停止した時点の使用済燃料プール水の温度は28.0℃であり、冷却系停止時の水温上昇率は0.2℃/hであることから、保安規定の施設運用上の基準(65℃)までは約185時間(約7.5日間)の余裕があった。
+
+・7月10日、ポンプ①について、原因を調査したところ、軸を繋げるカップリングの構成部品であるゴム製のブッシュとボルトとの間の摩耗が進行したことによりポンプ①とモーターの軸芯がずれたため、振動値が上昇したものと推定した。
+・その後、ポンプ①のブッシュおよびボルトを交換するとともに、軸芯の調整を実施した。
+・試運転の結果、健全性を確認できた(振動値が通常値になった)ため、7月11日22時49分、使用済燃料プールの冷却を再開。
+・また、点検停止中のポンプ②の起動を前倒しする方向で作業を実施していたが、試運転の準備過程でポンプ②の軸封部からの水漏れを確認したことからシール材の塗り直しを実施。 水漏れがないことを確認する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-東京-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料プールの冷却機能の点検停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/07/14 15:27:20]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

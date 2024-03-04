@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該弁が動作不良となった原因を特定するため、要因分析を行い、点検・調査を実施した。
+　なお、本事象発生時、中央制御室の制御盤にアクチュエータ駆動用電動機の過負荷警報及び地絡を示す警報が発報していないこと、当該弁に電源を供給しているモータコントロールセンタの過負荷を示す表示灯が点灯していなかったことから、アクチュエータ駆動用電動機、モータコントロールセンタに異常はないと判断し、これらの要因以外について、点検・調査を実施した。
+
+　その結果、以下のとおりであった。
+（１）アクチュエータを取外す前に行った手動及び電動での動作確認において、当該弁を全閉にすることはできなかったが、アクチュエータを取外した後に行った弁単体の手動動作確認では当該弁を全閉にすることができた。
+（２）アクチュエータを取外した状態で実施した点検調査ステップ毎の動作開始トルク測定において、ステムナット部のグリス、グランドパッキンの状態等を変化させても大きな改善は見られなかったが、ステムナット部を溶剤にて洗浄※５し、空気によるブローを行った後、新しいグランドパッキンに取替えたことで、当初２５Ｎ・ｍから４９Ｎ・ｍであった動作トルク（グランドボルト締付けトルク２０Ｎ・ｍ）が１１Ｎ・ｍから１６Ｎ・ｍ（グランドボルト締付けトルク１４Ｎ・ｍ）に低下した。
+
+※５　溶剤にて洗浄：ステムナット部から取除いたグリスにステムナットの金属や、主成分がシリカの粒子状の不純物が確認されたため、ステムナット部の洗浄をこれまでの洗い油を用いる方法から溶剤を用いる方法に変更した。
+
+（３）ステムナット部から取除いたグリスの目視点検において、グリス内に粒子状の不純物が確認されたため、顕微鏡による観察及びエネルギー分散検出器（ＥＤＳ）による成分分析を行った結果、ステムナットの金属や、主成分が炭素とシリカで構成された粒子状の不純物が確認された。
+ なお、当該弁と同型式の弁で、可燃性ガス濃度制御系Ｂ系に設置されている再循環流量調整弁ＦＣＶ（ＭＯ）－１６５１－７Ｂ（以下、「Ｂ系の再循環流量調整弁」という。）と冷却水入口弁ＭＯＶ－１６５１－９Ｂのステムナット部に注入されているグリスには、当該弁で見られたような粒径の大きな不純物はなかった。
+（４）ステムナット部のグリスを取除いた後の新しいグリス注入時、弁の位置（全開・中間・全閉）、ステムナットの位置（角度）により、グリスの注入ができる場合とできない場合があったが、ステムナットの位置（角度）が４５°の場合は、弁の位置（全開・中間・全閉）にかかわらず、グリスを注入することができた。
+（５）グランドパッキンを取外した状態でステムナット部を溶剤にて洗浄した後、新しいグリスを注入するとともに、新品のグランドパッキンを取付け、さらにアクチュエータを取付けた状態で行った手動開閉時の動作開始トルクの最大値は２６Ｎ・ｍで、第３１回定期検査時に確認した３０Ｎ・ｍ以下を満足していた。
+（６）第３１回定期検査（平成１９年）中に実施したステムナット部の洗浄は、洗い油を使用してはいるものの、グランドパッキンは取外していない状態であった。
+　また、このときのグリス入替え方法は、当該弁の開閉動作試験前に毎月行っているグリス注入と同じ方法であった。
+（７）当該弁の待機状態におけるステムナット部の油膜切れを防止する観点から、第３１回定期検査時に油膜切れし難い（耐加重性に優れた）グリスに仕様を変更していた。
+（８）開閉時の動作トルク評価
+　アクチュエータを取外した後に行った点検調査において、ステムナット部を溶剤にて洗浄するとともに、空気によるブローを行った後、新しいグランドパッキンに取替えたことにより、動作開始トルクを改善することができたことから、今回の点検調査ステップ毎の弁状態と動作開始トルクを整理し、評価した。
+ その結果、当該弁の動作が正常な場合の動作開始トルクは、約２３Ｎ・ｍで、当該弁に不具合が発生した場合、約２５Ｎ・ｍが加算されると推定されることから、当該弁の動作開始トルクは、約４８Ｎ・ｍとなり、トルクスイッチの動作値である５０Ｎ・ｍとほぼ一致していた。
+
+ａ．当該弁の動作が正常な場合の動作開始トルク
+ａ）アクチュエータ取付け前後における動作開始トルクの差より、アクチュエータ部とブッシュのトルクは、約８Ｎ・ｍである。
+ｂ）グランドパッキンを新品に取替え、グランド部を２０Ｎ・ｍで締付けた後、グランド部を馴染ませた状態におけるグランド部のトルクは、約１０Ｎ・ｍである。
+ｃ）開閉動作が正常な場合、ステムナット部にかかるトルクは、約５Ｎ・ｍである。
+ｄ）開閉動作が正常な場合、上記ａ．からｃ．までのトルクが合計されるため、動作開始トルクは、約２３Ｎ・ｍとなる。
+ｂ．当該弁に不具合が発生した場合に加わる動作開始トルク
+ａ）平成１４年６月に当該弁の動作不良が発生した際、グランドパッキンを取替えており、このときのグランドパッキン取替え前後における動作開始トルクの差より、グランドパッキンの特性変化に伴う摺動抵抗の増加分は、約１０Ｎ・ｍと推定される。
+ｂ）ステムナット部に新しいグリスを注入する前と注入した後における動作開始トルクの差は、約３Ｎ・ｍであった。
+ｃ）本事象において、ステムナット部に注入されているグリスの取除き前後における動作開始トルクの差は、約９Ｎ・ｍであった。
+この９Ｎ・ｍには、グリスが正常に注入されなかったことによる潤滑不良による影響分の３Ｎ・ｍを含んでいることから、ステムのねじ部に不純物を含んだグリスが付着した場合の増加トルクは、約６Ｎ・ｍと推定される。
+ｄ）グランドパッキンの状態変化（新旧）及びステムナット部の洗浄前後における動作開始トルクの差は、約１６Ｎ・ｍであり、この約１６Ｎ・ｍから、グランドパッキン取替え前後における摺動抵抗の増加分約１０Ｎ・ｍを除くとステムナット部の洗浄不良における増加トルクは、約６Ｎ・ｍと推定される。
+ｅ）当該弁に不具合が発生した場合、上記ａ．ｃ．ｄ．の合計トルク約２５Ｎ・ｍが加算されると推定される。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[146]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9750</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/05/16 19:04:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成２０年４月１７日　１４時２０分　可燃性ガス濃度制御系（Ａ）系が運転上の制限を満足していないと判断（同系待機除外）
+平成２０年５月２日　１７時４１分　可燃性ガス濃度制御系（Ａ）系が運転上の制限外からの復帰（同系待機状態）
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4199</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/05/09 19:03:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200804171420]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）毎月実施している電動弁開閉試験時に当該弁が全開の状態で行っていたステムナット部へのグリス注入について、当該弁の試験前に開閉動作をさせた状態で行い、その後、当該弁の開閉試験を行う。
+（２）ステムナット部へのグリス注入は、新しいグリスが正常に注入されたことが確認できるまで行う。このため、グリス注入に伴う開閉動作時にステムにグリスが付着していることを確認する。
+（３）第３２回定期検査（平成２０年度）時に当該弁を新品に取替える。
+（４）Ｂ系の再循環流量調整弁について、動作試験及び開閉時の電流測定を行った。
+ その結果、開閉動作はスムーズで、開閉時の電流値０．５６５Ａから算出した動作開始トルクも３７．８Ｎ・ｍであったことから、ステムナット部に潤滑不良は発生していなかった。
+　なお、Ｂ系の再循環流量調整弁については、当該弁と同様に第３２回定期検査時に新品に取替える。
+（５）可燃性ガス濃度制御系には、当該弁を含め同型式の弁が６台設置されている。
+　このうち、第３２回定期検査時に新品に取替える当該弁とＢ系の再循環流量調整弁を除く４台について、新品に取替えることを検討する。
+　また、他系統に設置されている当該弁と同型式の弁４台について、定期検査毎に実施しているステムナット部へのグリス注入を継続するとともに、グリス入替え後に開閉時の動作開始トルクを測定し、ステムナット部に潤滑不良が発生していないことを確認する。
+
+※６　動作開始トルクの算出：電動にて当該弁を開閉させ、動作開始時の電流を測定し、この電流値から動作開始トルクを算出する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所１号機は、定格熱出力一定運転中の平成２０年４月１７日、毎月１回の頻度で実施している可燃性ガス濃度制御系の電動弁作動試験※１に伴い、通常全開状態である同Ａ系の再循環流量調整弁ＦＣＶ（ＭＯ）－１６５１－７Ａ（以下、「当該弁」という。）を全閉状態とするため、操作スイッチを閉位置に保持し、当該弁の表示灯※２（赤表示灯と緑表示灯のいずれも点灯した状態）にて閉動作が開始したことを確認した。
+　現場で当該弁の動作状態を確認していた運転員から閉動作が停止したとの連絡を受けたとき、当該弁の表示灯は、中間開度を示す赤表示灯と緑表示灯がいずれも点灯した状態であった。
+ 当該弁の閉動作が停止した連絡を受けたことから、閉位置に保持していた操作スイッチを自動位置に戻したところ、当該弁は開動作し、全開状態を示す赤表示灯のみが点灯している状態となった。
+ 当該弁が全開状態に復帰したことから、再度、動作確認を行ったところ、操作スイッチを閉位置に保持してから約３８秒後に閉動作が停止したが、当該弁の表示灯は、中間開度を示す赤表示灯と緑表示灯がいずれも点灯した状態であった。
+　このため、閉位置に保持していた操作スイッチを開位置とし、その状態を保持したところ、弁は開動作し、約３９秒後に全開状態を示す赤表示灯のみが点灯している状態となった。
+　なお、当該弁の閉動作が停止した際、異常を示す警報（過負荷、地絡）は発報していない。
+　２回実施した動作確認において、当該弁が全閉状態にならなかったことから、同日１４時２０分、敦賀発電所原子炉施設保安規定第４６条で定める運転上の制限を満足していないと判断するとともに、同保安規定に基づき、管理的手段により可燃性ガス濃度制御系Ｂ系の電源等の状態に異常がないことを確認※３した。　　　
+　その後、可燃性ガス濃度制御系Ｂ系について、電動弁作動試験及び常温運転試験※４を行い、異常のないことを確認した。
+　点検調査の結果、当該弁が動作不良となった原因は、ステムとステムナット間の潤滑不良に伴い摺動抵抗が増加し、開閉動作時のトルクが上昇したためと推定されたことから、ステムナット部の洗浄を行うとともに新しいグリスを注入した後、電動弁作動試験及び常温運転試験にて当該弁の動作状態に異常がないことを確認した上で５月２日１７時４１分に運転上の制限内に復帰した。
+　本事象による環境への放射性物質による影響はなかった。
+
+※１　電動弁作動試験：可燃性ガス濃度制御系に設置されている電動弁８台（Ａ・Ｂ系各４台）について、毎月１回の頻度で開閉操作を行い、その時の動作状態に異常のないことを確認する試験。
+※２　表示灯：当該弁の表示灯は、全開状態にある場合は赤表示灯のみが、また、全閉状態にある場合は緑表示灯のみが点灯し、その他の開度（中間開度）にある場合は両方の表示灯が点灯する。
+※３　管理的手段による確認：系統・設備に対する確認事項を実際に直接確認するのではなく、以下の事項から一つないし複数を適切に組み合せて間接的に確認すること。
+・当該系統・設備において、その機能に影響を及ぼす警報が発生していないこと。
+・当該系統・設備の必要な機器に電源が供給されていること。
+・当該系統・設備が機能することを示す至近の記録を確認すること。
+・当該系統・設備に対して施錠または区域管理等が実施されていること。
+※４　常温運転試験：可燃性ガス濃度制御系の加熱器の設定を７１８℃から０℃とした状態で系統を運転状態とし、各流量、圧力及び温度に異常のないことを確認する試験。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　点検調査の結果から、当該弁が動作不良に至った原因は、当該弁の開閉動作試験前に毎月行っているグリス注入の際、ステムとステムナットの間にグリスが正常に注入されなかったことから、グリス切れによる潤滑不良を引き起し、ステムナットのねじ部が摩耗した。
+　この摩耗により発生した微細な金属片がステムナット部に注入されているグリスに混入したこと、さらに、ステムナット部の潤滑不良により摺動抵抗が増加したためと推定された。
+　なお、第３１回定期検査時にステムナット部のグリスを入れ替えているが、当該弁の開閉動作試験前に毎月行っているグリス注入と同じ方法で行っていたため、第３１回定期検査にて点検を行って以降、ステムナット部のグリスが不足していたものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[可燃性ガス濃度制御系（Ａ）系再循環流量調整弁の動作不良について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>358</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/16 19:04:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>2151</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>8293</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ステムナット部]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9750</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[可燃性ガス濃度制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[146]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[146]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9750</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

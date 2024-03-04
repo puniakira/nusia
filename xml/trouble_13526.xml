@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[当該計装設備の部品が装着されていない事象について、以下の調査を実施した。
+（１）経緯
+ａ．メーカＡの報告内容
+　当該計装設備についてコネクタ（※５）内部にシール材（※６）が装着されていない可能性があることの報告を受けた。
+　また、シール材が装着されていない状態であっても、コネクタの構造上、事故により発生する蒸気等に対し、一定の保護機能を有しているため、機能上直ちに問題が生じるものではないとの見解についても報告を受けた。
+
+※５　コネクタ
+　電子部品やケーブルなどを他の部品に簡単に着脱できるように設けられた部品。
+
+※６　シール材
+　当該計装設備のコネクタ内部の導電部を外部環境から保護するために装着される部品（消耗品）。事故により蒸気等が発生し、周辺環境が悪化した場合でも当該計装設備の機能を維持するためにコネクタ内部に装着されるもの。
+
+ｂ．メーカＡの報告に対する当社方針
+　当該計装設備のコネクタ内部にシール材が装着されていない場合、正常な状態ではないと判断し、直ちに当該計装設備に対する点検を計画するとともに、シール材が装着されていないことが確認された場合のシール材の組み込み作業を実施することとした。
+
+（２）事象発生時の状況調査
+ａ．調査作業
+　当該計装設備について点検を実施した結果、シール材およびシール材の位置決め部材（以下、「シール材等」という。）がコネクタ内部に装着されていないことを確認した。
+
+ｂ．復旧作業
+　当該計装設備についてコネクタ内部にシール材等の組み込み作業および機能確認を実施し、当該計装設備の機能に問題がないことを確認した。
+
+ｃ．保安規定に定める運転上の制限の逸脱
+　当該計装設備について、特定重大事故等対処施設の供用を開始した時(令和３年１０月５日)から、最初に点検した計装設備Ａ（１台目）および計装設備Ｂ（１台目）を正常な状態に復旧した時（令和４年７月７日１６時０１分）までの間、事故時に動作不能となる可能性があったため、保安規定に定める運転上の制限を満足していなかったものと作業担当課長が判断した。
+　なお、運転上の制限を満足していない期間があったことを判断した時点では、計装設備Ａ（１台目）および計装設備Ｂ（１台目）を正常な状態に復旧済みであるため、運転上の制限を満足していることを作業担当課長が確認した。
+
+（３）メーカ調査結果
+　当該計装設備のコネクタ内部にシール材等が装着されていない事象について、原因調査を実施した。
+ａ．コネクタの製作・施工に係る各メーカの役割とコネクタの特徴
+　メーカＡ：当該計装設備の設計および施工メーカ
+　メーカＢ：当該計装設備のコネクタ開発メーカ（メーカＡと共同）
+　　　　　　コネクタ開発以降、メーカＣに当該コネクタの設計・製作について事業移管をしている。
+　メーカＣ：当該計装設備のコネクタ製作メーカ
+　メーカＢのコネクタ開発以降、メーカＢより当該コネクタの設計・製作について事業移管を受けている。
+　メーカＤ：当該計装設備のコネクタのシール材製作メーカ
+
+　当該計装設備のコネクタについては、原子力プラント向けに新規に開発された製品であり、メーカＡがメーカＢと共同開発し、開発以降、メーカＢからメーカＣに設計・製作について事業移管が行われた製品である。
+　また、当該計装設備は、事故により蒸気等が発生し、周辺環境が悪化した場合でも当該計装設備の機能を維持するため、現地での設置工事時にコネクタ内部にシール材等の部品を組み込む特殊な接続方法の要領（以下、「特殊な接続要領」という。）が必要である。なお、一般的なコネクタは、シール材等の部品があらかじめコネクタ本体に組み込まれており、部品の装着方法の要領が必要無く接続する。
+
+ｂ．コネクタ開発時の状況
+　メーカＢからの発注により、位置決め部材を含むコネクタ本体はメーカＣが、シール材はメーカＤが製作・納入していた。
+
+ｃ．コネクタ開発以降の事業移管時の状況
+　メーカＡは、メーカＢからシール材を含むコネクタの設計・製作についてメーカＣに事業移管することの申請を受けた。
+　メーカＡは、事業移管に関する情報請求、指導をメーカＢに行い、メーカＣへの事業移管を承認した。
+　メーカＢは、メーカＡの事業移管承認後、技術情報をメーカＣに移管し、メーカＤにシール材に関する発注元変更の連絡を実施した。
+
+（問題点１）
+　メーカＡは、メーカＢに対して事業移管に関する情報請求、指導を行っていたが、メーカＢからメーカＡに技術情報を提出した際に、製品の機能実現のために開発時に設計された情報が設計資料に反映されていることを確認する仕組みがなかったことから、部品供給体制とコネクタの特殊な接続要領が提出されていないことに気づくことができなかった。
+　その結果、メーカＡは当該計装設備のコネクタにてシール材等の必要性を認識できていなかった。
+
+（問題点２）
+　メーカＡは、事業移管時に移管元の設計情報が漏れなく移管先に移管されたことを調査・検証する仕組みがなかったため、メーカＢからメーカＣへの技術情報移管時に、部品供給体制とコネクタの特殊な接続要領が移管されていないことに気づくことができなかった。
+
+ｄ．設置工事時の状況
+　メーカＡは、当社からの当該計装設備の設置工事受注後、メーカＣにコネクタの発注を行い、メーカＣから設計資料を受領し、承認した。
+　メーカＣは、メーカＡからのコネクタ受注後、メーカＡに設計資料を提出し、コネクタ製作後、計装設備メーカへ発送した。
+　その後、メーカＡは、工事要領書を作成し、計装設備メーカから納入された当該計装設備の据付を行なった。
+
+（問題点１、２の影響）
+　メーカＣは、メーカＢからの技術情報移管時に、部品供給体制とコネクタの特殊な接続要領が移管されていないためシール材の手配が必要であることを認識しておらず、本件のメーカＡからのコネクタ受注後、メーカＤにシール材の手配をしていないため、現地にシール材が納入されなかった。
+　また、メーカＡは、本件でメーカＣから設計資料を受領した際に、コネクタの特殊な接続要領が提出されていないことから、メーカＡの現地作業員はコネクタの特殊な接続要領が必要であることを認識することができず、一般的なコネクタの接続作業として、シール材等の必要性を認識できていないまま、工事要領書を作成し、当該計装設備を据付した。
+
+　調査の結果、新規に開発されたコネクタについて、メーカＢからメーカＣへの事業移管の際に、コネクタの特殊な接続要領が移管されていなかったことにより、メーカＡが当該計装設備を設置する際、シール材等の必要性を認識できず装着されなかったことが確認された。
+
+（４）当社調査結果
+ａ．設置工事時の調査
+（ａ）当社の調達要求
+　当社はメーカＡに対して、事故時環境下でも当該計装設備の機能を維持する設備を納入・据付することを要求した。
+
+（ｂ）設計資料の記載内容
+　工事の据付・試験要領は、工事要領書として、メーカＡから当社に提出され、当社が承認した。
+　事故時環境下で機能要求のある設備で特殊な接続要領がある場合には、工事要領書に記載されるが、当該計装設備については、コネクタの特殊な接続要領が工事要領書に記載されていなかったことから、当社は一般的なコネクタの接続要領で作業することで、事故時環境下で機能維持できると認識した。
+
+（ｃ）健全性確認
+　当社は、当該計装設備に関して、据付後、メーカＡの設計情報をふまえ、外観・据付状態確認および機能確認の検査を実施し、健全性を確認した。
+　なお、当該計装設備は、製品開発時の検証において、事故時環境下でも機能を維持することが保証されている製品を手配していることから、現地における事故時環境下に関する検査は実施していない。
+
+ｂ．運転中の機能調査
+　特定重大事故等対処施設の供用開始から、計装設備Ａ（１台目）および計装設備Ｂ（１台目）の部品の組み込み作業、機能確認作業完了までの期間において、事故は発生しておらず、当該計装設備の周辺環境が悪化していないことから、当該計装設備の使用は可能な状況であった。
+　なお、事故時に当該計装設備が使用できない場合においても、同様の機能を有する従来の設備（設計基準事故対処設備）および、新規制基準で設けた重大事故等対処設備にて、対応が可能であったと考える。更に、大型航空機の衝突その他のテロリズム発生時に当該計装設備が使用できない場合においても、可搬型の重大事故等対処設備により、対応は可能であったと考える。
+
+ｃ．保守状況の調査
+　当該計装設備は、伊方発電所３号機第１５回定検において、設置工事を行い、令和３年１０月５日に供用を開始した。
+　当該計装設備の点検は３号機定期点検毎に実施を計画しており、次回の点検予定は３号機第１６回定検（令和５年２月頃）を予定している。
+
+ｄ．類似設備の調査
+　伊方発電所３号機の設計基準事故対処設備、重大事故等対処設備および特定重大事故等対処施設において、メーカＡが納入した製品で当該計装設備と同様に特殊な接続要領が必要なコネクタは、当該計装設備のみであることを確認した。
+
+ｅ．過去の類似事象の調査
+　伊方発電所における、コネクタ内部に部品が装着されていない事象ついて過去事象を調査したところ、類似事象がないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13526</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2023/05/29 13:19:17]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[特重計装設備]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[７月７日１８時０５分、特定重大事故等対処施設の運用開始から今回の当該計装設備の部品装着（７月７日１６時０１分）までの間に、当該計装設備は、保安規定に定める運転上の制限を満足しない状態にあったと判断した。
+なお、同時刻の７月７日１８時０５分に保安規定に定める運転上の制限を満足しない状態からの復帰を判断した。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2022/07/14 09:39:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202207071122]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該計装設備にシール材等を組み込み、復旧する。
+
+（２）当該計装設備の設計および施工メーカであるメーカＡは、原子力プラント向けに開発した製品について業者間の事業移管が発生した際に、製品の機能実現のために開発時に設計された情報が移管元から提出される設計情報に反映されていることを調査・検証するよう、マニュアルを改訂する。
+
+（３）当該計装設備の設計および施工メーカであるメーカＡは、原子力プラント向けに開発した製品について業者間の事業移管が発生した際に、移管元および移管先の双方から、事業移管に係る設計情報を提出させ、移管元の設計情報が漏れなく移管先に移管されたことを調査・検証するよう、マニュアルを改訂する。
+
+（４）当該計装設備の設計および施工メーカであるメーカＡは、原子力プラント向けに開発した製品や事業移管された製品を使用した工事設計や部品設計をする際には、製品の機能実現のために開発時に設計された情報が漏れなく工事の設計資料、要領書等に反映されていることを確認し、関係部門へ展開するよう、マニュアルを改訂する。
+
+（５）当社は、メーカＡに対し、再発防止対策の妥当性について監査を実施し、対策（２）、（３）および（４）のマニュアル改訂等が実施され、再発防止が図られていることを確認する。
+
+（６）当社は、以下の事項を標準発注仕様書に反映し、原子力プラント向けに開発された製品に対しての要求事項を明確にする。
+・原子力プラント向けに新規に開発された製品を製作する際には、開発段階の製品の機能実現のために必要な情報が漏れなく反映されていることを確認すること。
+]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/05/29 13:19:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所３号機は通常運転中、メーカＡから特定重大事故等対処施設（※１）の計装設備（※２）について部品が装着されていない可能性があることの報告を受け、点検を実施したところ、７月７日１１時２２分、複数の計装設備のうち一部について、部品が装着されていないことを保修員が確認した。
+　その後、当該計装設備に部品を正規に組み込み、正常に機能することを確認のうえ、７月７日１６時０１分、復旧した。
+　引き続き、同種の他の計装設備についても、点検したところ、７月７日１８時０５分、同様に部品が装着されていないことを確認したことから、特定重大事故等対処施設の供用を開始した時(令和３年１０月５日)から、計装設備を正常な状態に復旧した時（令和４年７月７日１６時０１分）までの間、同種の計装設備がすべて事故時に動作不能となる可能性があったため、伊方発電所原子炉施設保安規定（※３）（以下、「保安規定」という。）に定める運転上の制限（※４）を満足していなかったものと判断した。
+　なお、同種の他の計装設備について部品が装着されていないことを確認した時点では、最初に点検した計装設備を正常な状態に復旧済みであるため、運転上の制限を満足している状態であった。
+　その後、同種の他の計装設備に部品を正規に組み込み、正常に機能することを確認のうえ、検査等を行い、７月８日１３時０１分、通常状態に復旧した。
+　本事象によるプラントへの影響および環境への放射能の影響はなかった。
+
+※１　特定重大事故等対処施設
+　原子炉建屋等への故意による大型航空機の衝突その他のテロリズムにより、原子炉を冷却する機能が喪失し、炉心が著しく損傷した場合に備えて、原子炉格納容器の破損を防止するための機能を有する施設。
+
+※２　計装設備
+　プラントの状態を監視する計器や制御装置等。
+
+※３　原子炉施設保安規定
+　原子力発電所が運転中および停止中に事業者が実施すべき事項や、従業員等への保安教育の実施方針など原子力発電所の保安のために必要な事項が定められているもの。
+
+※４　運転上の制限
+　保安規定において、多重の安全機能を確保するため、動作可能な機器の必要台数を定めているもの。一時的にこれを満足しない状態が発生すると、事業者は運転上の制限からの逸脱を判断し、速やかに修理等の措置を行うことが求められる。
+　なお、原子力規制庁のホームページには、運転上の制限からの逸脱を宣言し、速やかに修理等の措置を行った場合（保安規定に定めた通りの対応を行った場合）、保安規定違反には該当しないと原子力規制庁の見解が示されている。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-四国-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果により、本事象は、新規に開発されたコネクタについて、メーカＢからメーカＣへの事業移管の際に、コネクタの特殊な接続要領が移管されていなかったことにより、メーカＡが当該計装設備を設置する際、シール材等の必要性を認識できず装着されなかったこと、また、メーカＢからメーカＣへの事業移管において、メーカＡが以下を確認する仕組みがなかったことが原因であると判断した。
+
+①メーカＢからメーカＡへの技術情報提出時に、製品の機能実現のために開発時に設計された情報が設計資料に反映されていることの確認
+②メーカＢからメーカＣへの技術情報移管時に、移管元の設計情報が漏れなく移管先に移管されていることの確認
+
+　水平展開
+（１）事業移管時における情報不足に係る水平展開の調査
+　メーカＡが納入する原子力プラント向けに開発された製品において、製品化後に事業移管が行われた製品は５製品（当該計装設備を除く。）あるが、供給体制や設計情報の移管に不足がある製品はなかった。
+
+（２）特殊な接続要領等の設計情報不足に係る水平展開の調査
+　メーカＡが納入する原子力プラント向けに開発された製品において、特殊な接続要領等が必要であり、かつメーカＡが設計情報として部品まで示した特殊な接続要領等を作成していない製品は２製品（当該計装設備除く。）ある。２製品については、製作メーカ要員を施工現場に派遣し、製作メーカが作成している要領に従って組み込みを行っている製品であり、設計情報の不足はなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　特定重大事故等対処施設  計装設備の不具合と通常状態への復旧について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>920</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[特定重大事故等対処施設]]></S_KEITO_NAME>
+	<PRESS_ATTACH_ID>112664</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/07/14 10:01:54]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[917]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[特重計装設備]]></S_KIKI_NAME>
+			<TROUBLE_ID>13526</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シール材およびシール材の位置決め部材]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13526</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[917]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13526</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13526</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13526</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13526</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

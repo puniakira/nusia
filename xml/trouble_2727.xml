@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2727</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/07/21 13:44:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3110</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/01/28 09:38:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200501251640]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/07/21 13:44:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の３号機における主排気筒の放射性物質の定例分析で、粒子状の放射性物質（クロム51およびマンガン54）を測定した結果、検出限界値＊１をわずかに超える濃度＊2を午後４時40分頃確認した。
+　主排気筒での測定データをもとに周辺監視区域外における濃度を評価したところ、クロム51が2.9×10^-13ベクレル／cm^3、マンガン54が3.4×10^-14ベクレル／cm^3であり、この値は告示濃度＊3に比べいずれも十分低い値であることを確認した。
+　原因については、現在調査中。
+
+　なお、３号機主排気筒放射線モニタ＊4およびモニタリングポストに有意な変化はなかった。
+
+＊１：検出限界値
+一般的な試料の測定において、放射能が原理的に測定できる下限値のこと。
+
+＊２：検出限界値をわずかに超える濃度
+クロム51は2.5×10-8ベクレル／cm^3（検出限界値：1.4×10^-8ベクレル／cm^3）、
+マンガン54は2.9×10-9ベクレル／cm^3（検出限界値：1.8×10^-9ベクレル／cm^3）。
+
+＊３：告示濃度
+「実用発電用原子炉の設置、運転等に関する規則の規定に基づく線量当量限度等を定める告示」の周辺監視区域外の空気中の濃度限度（３ヶ月についての平均）。
+
+＊４：３号機主排気筒放射線モニタ
+３号機の建屋内の空気や復水器を真空にしておくための排ガスが、環境へ放出される排気中の放射線を測定する装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S098]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主排気筒における微量な放射性物質の検出]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/01 00:09:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

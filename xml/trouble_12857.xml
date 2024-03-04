@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12857</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/03/25 17:05:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>80869</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/09/05 10:13:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201809041014]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/03/25 17:05:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[■発生状況
+・2018年9月4日午前10時14分頃、5号機海水熱交換器建屋地下１階において、当社社員が原子炉補機冷却海水系（※１）の水抜き作業をおこなっていたところ、同建屋地下2 階（非管理区域）の床に設置している排水設備7箇所より海水が約300リットル漏れていることを確認した。
+・原子炉補機冷却海水系の水抜き弁の閉操作を実施したことにより午前10時16分に漏えいは停止した。
+・本事象による外部への放射能の影響はなし。
+・漏えいした海水については、排水処理および清掃を完了した。今後、漏えいの原因について調査を行い、再発防止対策を検討する。
+（※１）原子炉補機冷却海水系：原子炉建屋にある補機（ポンプの軸受等）に供給する冷却水を間接的に海水で冷却する系統
+
+■原因調査結果
+・水抜き作業を行った当直員は、海水熱交換器建屋の排水設備に関する特性（排水配管の一部が常に排水で満たされていることから、流れにくい構造であるとともに海生物等により挟まり易い）について理解が十分ではなかった。
+・また、排水状況の監視にあたっては、過去に発生した類似事象（※２）の再発防止対策の一つであった排水枡の水位監視に重点を置いていたため、本来注視すべき排水配管の処理量に対する排水量の配慮が不足し、排水配管からの逆流に気付けず、排水設備から水漏れしたものと推定した。
+（※２）排水先である排水枡の水位が高いことで排水配管の流れが悪くなり、排水設備から水漏れした事象
+
+■再発防止対策
+・全当直員を対象に、海水熱交換器建屋の排水設備に関する特性について教育を徹底する。
+・排水状況の監視にあたっては、排水枡だけでなく排水設備も確実に注視することを、上位職は、事前の打ち合わせで確認を徹底する。あわせて、水抜き作業にあたっては、当該建屋の排水設備の特性を踏まえた排水量の調整方法を操作員が把握しているかどうかも確認する。
+・また、排水枡へ海水が流れ込んでいることは確認していたが、海生物等で配管が狭まっている可能性があるため、配管内の清掃を実施する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-S018]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[海水熱交換器建屋（非管理区域）における海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/09/10 17:32:42]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

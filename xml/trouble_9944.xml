@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9944</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/08/19 18:54:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4294</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/08/15 14:40:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080804]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２５回定期検査における調整運転中の８月４日、総合負荷性能検査※１の準備として、当該検査に使用する計器の妥当性を確認※２していたところ、６台ある主給水流量検出器※３のうち、型式の異なる１台について必要のない補正が行われて校正されていることが判明した。なお、当該検出器の不必要な補正による誤差は、主給水流量測定系統の許容誤差範囲内であり、安全上問題がないことを確認した。
+　調査の結果、補正した校正値で校正が必要な他の５台の型式に行ったのと同様に補正が不必要な型式である当該検出器に対しても補正を行った校正値で校正を行ったことが分かった。この原因は、主給水流量検出器６台の校正値データを更新する際、型式の確認が不十分で、６台の検出器に対して補正を行った校正値に更新したためと判明した。
+ 対策として、当該検出器を正しい校正値にて校正しなおした。また、この事例を関係者に周知するとともに、校正値などの計器校正方法を変更する場合には、チェックシートを用いて確実に型式を確認することとする。
+　なお、今定期検査で使用した全ての計器は、計器の妥当性確認によって、正しい校正値を用いて校正が行われていることを確認した。
+　この事象により、８月上旬に予定していた本格運転再開が、８月下旬に延期となった。
+
+※１ 総合負荷性能検査
+定期検査の国による最終検査であり、定格出力運転状態で各部の温度、圧力、流量等のデータを記録し、プラント全体が正常な機能を有することを確認する検査。
+
+※２ 計器の妥当性を確認
+電力会社のデータ改ざん問題を踏まえ、定期事業者検査で使用する計器に対し、実機と計器設計仕様書の適合性確認や、校正値の妥当性の確認などを実施している。
+
+※３ 主給水流量検出器
+蒸気発生器に給水される水の流量を測定するための検出器で、原子炉保護制御に使用されており、ＡＢＣ蒸気発生器への給水管に各２台ずつ設置（計６台）されている。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ｃループ主給水流量検出器の再校正に伴う定期検査工程の遅延について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/08/19 18:54:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

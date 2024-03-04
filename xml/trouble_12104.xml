@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12104</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/10/22 17:29:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>50377</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/09/18 08:18:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201409130700]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/10/22 17:29:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[1. 事象
+　2014年9月13日　7時頃，発電所構内の排水路（周辺防護区域外）において，排水路内の水が白濁しており，魚が浮いていることを協力会社社員が確認した。
+
+2. 事象発生後の対応
+(1) 外部への流出の防止
+　白濁した水が外部に流出することを防止するため，速やかに排水路内に，土嚢で堰を設置した。その上で，排水路内の白濁した水（約2m3）をバキューム車で回収した。
+
+(2) 外部への影響の確認
+　当該排水路は3号機放水口につながっていることから，3号機放水口の水の分析を実施したところ，一般排水の基準を満たしており，かつ5号機放水口の水の分析結果とほぼ同じ値であったことから，白濁による影響がないことを確認した。また，発電所付近の海岸の巡回を行い，白いゼリー状の物質の漂着・浮遊がないことも確認した。
+
+3. 推定原因
+　以下の事実を確認した。
+　・白濁した水はゼリー状であったこと
+　・白濁は，地盤改良工事（※1）で使用している工事用の薬液（主成分：SiO2（無水ケイ酸），Na2O（酸化ソーダ））が水と混合した時の性状と類似していること
+　・ゼリー状の白濁水の成分を調査したところSi，O，Naが顕著であったこと
+　・排水路内を確認したところ，排水路のつなぎ目（目地）部分に薬液の流入の痕跡を発見したこと
+　・地盤改良工事は9月9日から9月13日5時まで連続作業で行っていたこと
+
+　以上から，排水路の水の白濁は，地盤改良工事用の薬液が排水路内に混入したことが原因であった。
+
+　また，薬液が排水路に混入した経路の調査において，地盤改良施工範囲から当該排水路につながる埋設水路（※2）内に薬液の痕跡を確認した。このため，地盤改良工事のため注入した薬液が施工範囲付近の埋設水路内に漏れこみ，流動抵抗の小さい埋設水路内を流下（※3）することにより，想定していた地盤改良施工範囲を超える位置まで薬液が広がり，排水路内への混入に至ったものと推定した。
+
+　当該埋設水路からの薬液流出防止対策として，埋設水路内へコンクリートを注入し，流出経路を塞いだ。また，排水路のつなぎ目（目地）部分をモルタル充填により塞いだ。
+
+※1：防波壁設置工事において，発電所敷地の東側盛土部の地盤改良工事（薬液注入）を実施していた。
+※2：当該埋設水路は東側盛土工事前まで用いていた水路であり，東側盛土工事に伴う水路変更により，現在は使用していない水路
+※3：土壌内は，周囲の土壌のすき間を通るため流動抵抗が大きく（流体が流れにくい）のに対し，埋設水路内は空間があり，流動抵抗が小さいため，薬液が固形化するまでに移動した距離が大きくなった]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-中部-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所　地盤改良工事用薬液の構内排水路への流入について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/09/18 08:19:21]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

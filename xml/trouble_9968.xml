@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　Ａ・Ｂ電動主給水ポンプミニマムフロー弁の制御用空気配管が折損した要因を分析し、この分析結果に基づき原因調査を実施した。
+（１）Ａ電動主給水ポンプミニマムフロー弁
+１）破面観察結果
+　空気配管の折損箇所を確認した結果、バックリングが空気配管に食い込んでいるところで折損しているのが確認され、破面観察より、き裂は０°側から発生し１８０°側で破断したと推定される。破面には疲労破面（ストライエーション）が観察された。
+２）振動測定結果
+　Ａ電動主給水ポンプのミニマムフロー、フルフロー時の振動測定及び停止後の固有振動数測定を実施した結果、ミニマムフロー時の振動レベルは、応答加速度１５～１６ｍ／ｓ２、応力振幅±５～６ＭＰａで、フルフロー時の振動レベルは、応答加速度６～７ｍ／ｓ２、応力振幅±２～３ＭＰａで、固有振動数２７．０Ｈｚであった。
+３）累積運転時間の確認
+　過去の運転時間を確認した結果、Ａ電動主給水ポンプは、ミニマムフロー運転約５３９時間、フルフロー運転約５８７時間で、合計で約１，１２６時間であった。
+４）発生応力の評価
+　破面観察において明確なストライエーションが確認されたことから、ストライエーション間隔から発生応力を評価した結果、破面から推定されたき裂進展時の応力振幅は約２９～３１ＭＰａであり、き裂の発生しているバックリング食い込み部の状況から、応力集中率をα＝３と仮定すると、発生時の空気配管の応力振幅は約８７から９３ＭＰａと推定される。
+　また、空気配管の疲労限を調査した結果、新品の空気配管の引張強度は２１kgf／ｍｍ２（２０５Ｎ／ｍｍ２）以上と規定（ＪＩＳ　Ｈ３３００）されていることから、当該空気配管の下限の疲労限は文献により約４kgf／ｍｍ２（約４０ＭＰａ）であると考えられる。
+　以上のことから、Ａ空気配管は、Ａ電動主給水ポンプの累積運転時間（１，１２６時間）と空気配管の固有振動数（２７．０Ｈｚ）により、１．１×１０８回の繰り返しの振動が発生し、発生時の繰返し応力振幅は約１００ＭＰａと推定すると、空気配管の疲労限（約４０ＭＰａ）を超えているため高サイクル疲労割れが発生したと推定される。
+
+（２）Ｂ電動主給水ポンプミニマムフロー弁
+１）破面観察結果
+　空気配管の折損箇所を確認した結果、バックリングが空気配管に食い込んでいるところで折損しているのが確認され、破面観察より、き裂は１８０°側からき裂が発生、０°側で破断していると推定される。破断面に疲労破面（ストライエーション）及び組織依存型模様が確認された。
+２）振動測定結果
+　Ｂ電動主給水ポンプのミニマムフロー、フルフロー時の振動測定及び停止後固有振動数測定の結果、ミニマムフロー時の振動レベルは、応答加速度１５～１６ｍ／ｓ２、応力振幅±２０ＭＰａで、フルフロー時の振動レベルは、応答加速度７～８ｍ／ｓ２、応力振幅±１０ＭＰａで、固有振動数２６．５Ｈｚであった。
+３）累積運転時間の確認
+　過去の運転時間を確認した結果、Ｂ電動主給水ポンプは、ミニマムフロー運転約１５９時間、フルフロー運転約７００時間で、合計で約８５９時間であった。
+４）発生応力の評価
+　破面観察において、明確なストライエーションが確認できず、破面からの発生応力を求めることができなかったことから、空気配管の振動測定結果から発生応力を求めた結果、２）の振動測定結果の発生応力振幅はフルフロー時は約±１０ＭＰａ、ミニフロー時は約±２０ＭＰａであり、Ａ継手部と同様に脱着部の応力集中率（α＝３）、断面係数補正率（＝１．６）を考慮すると、発生時の空気配管の応力振幅は約４８から９６ＭＰａと推定される。
+　また、空気配管の疲労限を調査した結果、当該空気配管の下限の疲労限はＡの空気配管と同様に約４kgf／ｍｍ２（約４０ＭＰａ）であると考えられる。
+　以上のことから、Ｂ空気配管は、Ｂ電動主給水ポンプの累積運転時間（８５９時間）と空気配管の固有振動数（２６．５Ｈｚ）により、８．２×１０７回の繰り返しの振動が発生し、繰返し応力振幅は約１００ＭＰａで空気配管の疲労限（約４０ＭＰａ）を超えているため高サイクル疲労割れが発生したと推定される。
+
+（３）材料分析調査結果
+　Ａ・Ｂの空気配管をＥＰＭＡ（電子プローブ・マイクロアナライザー）による材料分析（半定量分析）を行った結果、銅が１００％であり、ＪＩＳ Ｈ３３００（合金番号Ｃ１２２０）の規格値を満足していた。
+
+（４）空気配管の加工、施工時における不良の調査
+　空気配管の表面観察を行い、製作時の傷の有無を確認した結果、Ａ・Ｂとも空気配管表面に製作時の筋状の傷はあるが、き裂に至る恐れがないことを確認した。
+
+（５）空気配管継手脱着の繰り返し回数調査
+１）過去に空気配管と継手の脱着回数及び締め付け管理状況を確認した結果、Ａミニマムフロー弁の分解点検時に空気配管継手の脱着を５回実施している。また、Ｂミニマムフロー弁は４回実施している。
+２）脱着回数によるバックリングの食い込みをモックアップにより確認した結果、脱着を４～５回繰り返すとバックリングが空気配管に徐々に食い込むことが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9968</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/10/22 18:46:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4304</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/09/05 14:43:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200808151900]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）Ａ・Ｂ電動主給水ポンプミニマムフロー弁のアクチュエータ継手部の空気配管を銅管からフレキシブルチューブに取替えた。
+（２）水平展開として、敦賀発電所２号機の主要な空気作動弁４５２台について、当該弁と同じ銅管・圧縮継手を使用しているか、安全上重要な弁か、また、空気作動弁が故障した場合に出力変動する可能性があるかについて調査し、弁１５５台を選定した。
+　このうち、触診にて振動が確認された空気作動弁１台について、アクチュエータ継手部の空気配管を銅管からフレキシブルチューブに取替え、１２台については振動抑制及び継手部ナットと銅管にベロメタルを塗布した。残りの１４２台については、継手部ナットと銅管にベロメタルを塗布した。
+　なお、高圧タービン車室からの蒸気漏れによる原子炉停止に伴い、振動抑制及び継手部ナットと銅管にベロメタルを塗布した１２台、及び継手部ナットと銅管にベロメタルを塗布した１３３台についてもアクチュエータ継手部の空気配管を銅管からフレキシブルチューブに取替える。なお、残りの９台については、次回定期検査時に銅管からフレキシブルチューブに取替える。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/10/22 18:46:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、第１６回定期検査の最終段階である調整運転（平成２０年８月１１日２時３０分定格熱出力一定運転到達）中の、８月１５日０時２０分頃に、１日に２回の頻度で実施している巡視点検において、タービン建屋１階（非管理区域）に設置してある運転中のＡ２タービン動主給水ポンプ用ブースタポンプ※１入口フランジ（以下、「当該フランジ」という。）からカニ泡程度の漏れ（高温水※２）が確認されたことから、Ａ２タービン動主給水ポンプ用ブースタポンプを隔離し、当該フランジ部の点検を行うために、Ａ２タービン動主給水ポンプ用ブースタポンプに接続されるＡタービン動主給水ポンプから、Ａ・Ｂ電動主給水ポンプに切替えることとした。
+　同日１８時頃からＡタービン動主給水ポンプからＡ・Ｂ電動主給水ポンプへの切替え操作を開始し、Ａ・Ｂ電動主給水ポンプ起動後に出口流量制御弁（ＦＣＶ－３７５５・３７６５）の開操作を行い、出口流量を増加させていたところ、Ａ・Ｂ電動主給水ポンプミニマムフロー弁（ＦＣＶ－５４４３Ａ・Ｂ）が閉動作する流量（電動主給水ポンプ入口流量：１０００Ｔ／Ｈ）に達しているにもかかわらず、全開のままで閉動作しないことが確認された。
+　その後、運転中のＢタービン動主給水ポンプのミニマムフロー弁（ＦＣＶ－５４２３Ｂ）についても、全開であることが確認された。
+　なお、この間、Ａ・Ｂ電動主給水ポンプミニマムフロー弁、及びＢタービン動主給水ポンプのミニマムフロー弁の３弁が全開状態で約２，７５０Ｔ／Ｈが脱気器に循環される系統構成になったが、給水流量は確保され発電機出力の変動や、プラントの運転状態に異常はなかった。
+　その後の調査で、Ａ・Ｂ電動主給水ポンプミニマムフロー弁、及びＢタービン動主給水ポンプのミニマムフロー弁の３弁が全開となった原因は、Ａ電動主給水ポンプミニマムフロー弁のアクチュエータ上部に制御用空気を供給する配管継手部の空気配管が折損したことから、制御用空気が漏えいし、制御弁を閉動作させる制御用空気を供給することができなくなったため、弁は全開のまま閉動作しなかった。これにより、同じ制御用空気系配管から制御用空気が供給されているＢタービン動主給水ポンプミニマムフロー弁についても、制御用空気圧力が低下したことにより開動作し、また、Ｂ電動主給水ポンプミニマムフロー弁は全開のまま閉動作しなかった。
+　このことから、Ａ電動主給水ポンプミニマムフロー弁の折損していたアクチュエータの継手部の空気配管を再加工（圧縮継手）して接続するとともに、ブースタリレーを新品に取替えた。
+　その後、８月２０日２０時１８分頃、中央制御室の計算機に「Ｄ－ＳＧ水位偏差注意※３」警報が発報した。このため、Ｄ蒸気発生器水位を記録計等で確認したところ、水位が低下した後約５分後に通常値に復帰していること及び、他のＡ～Ｃ蒸気発生器水位、給水流量についても低下した後、通常値に復帰していることを確認した。
+このことから給水系のパラメータを確認したところ、Ｂ電動主給水ポンプミニマムフロー弁（ＦＣＶ－５４４３Ｂ）が全開していることを確認した。
+　現場の状況を確認したところ、弁は全開でアクチュエータ上部に制御用空気を供給する配管継手部の空気配管が折損していることを確認したことから、２０時２８分に当該ミニマムフロー弁の空気供給元弁を閉にして隔離した。
+　隔離後、当該ミニマムフロー弁の折損した空気配管及び継手部を新品に取替えるとともに、当該ミニマムフロー弁を全閉とした。
+　本事象による環境への放射性物質の影響はなかった。
+
+※１　Ａ２タービン動主給水ポンプ用ブースタポンプ：タービン動主給水ポンプの入口圧力を確保するために２台のブースタポンプにて昇圧しているポンプである。
+※２　高温水：タービン動主給水ポンプ用ブースタポンプ入口の圧力は１．１１ＭＰａ（約１８０℃）である。
+※３　計算機「Ｄ－ＳＧ水位偏差注意」警報：Ｄ蒸気発生器の通常水位４４％のところ、４２．５％まで低下すると通常水位との偏差が発生したことを計算機に注意警報として発報する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果等から、Ａ・Ｂ電動主給水ポンプミニマムフロー弁の空気配管が折損した原因は以下のとおりと推定される。
+（１）Ａ電動主給水ポンプミニマムフロー弁
+空気配管の圧縮継手の締付けにより圧縮継手のバックリング食い込み部の直近部を起点にして、過去のＡ電動主給水ポンプの運転時に空気配管の固有振動数２７．０Ｈｚの振動が発生し、疲労限（約４０ＭＰａ）を超える繰り返し応力により高サイクル疲労割れが発生し、Ａ電動主給水ポンプの累積運転時間約１，１２６時間で折損に至ったものと推定される。
+（２）Ｂ電動主給水ポンプミニマムフロー弁
+　空気配管の圧縮継手の締付けにより圧縮継手のバックリング食い込み部の直近部を起点にして、過去のＢ電動主給水ポンプの運転時に空気配管の固有振動数２６．５Ｈｚの振動が発生し、疲労限（約４０ＭＰａ）を超える繰り返し応力により高サイクル疲労割れが発生し、Ｂ電動主給水ポンプの累積運転時間約８５９時間で折損に至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[電動主給水ポンプミニマムフロー弁の動作不良について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1147</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/09/12 10:04:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[253]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9968</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9968</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9968</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9968</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

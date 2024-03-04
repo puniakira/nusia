@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9431</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/01/28 10:40:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4046</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/11/06 21:50:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711011030]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/01/28 10:40:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１・２号機廃棄物処理建屋地下１階の洗濯廃液収集タンク（Ａ・Ｂ）室において、平成19年11月１日10時30分頃、床に水が溜まっていることを当社社員が確認した。
+
+　漏れた水の量は約5,700リットルで、放射能は検出されなかった。
+　なお、漏れた水は当該タンク（Ａ・Ｂ）室（堰内）にとどまっており、同日、仮設ポンプを使って回収を行うとともに、拭き取りにより清掃を実施した。
+　その後、水の漏えいが止まっていることを確認した。
+
+　これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・当該タンク室内にある洗濯廃液収集タンクおよび配管には漏えいはなかったこと。
+・建屋３階にある濃縮洗濯廃液乾燥機の軸封部に使用するシール水（排水）の排水配管と洗濯廃液系排水配管がつながっていること。また、他に排水配管への水の流入源はないこと。
+・平成19年10月29日、乾燥機を約24時間運転し、当該乾燥機のシール水が当該排水配管へ流入していたこと。
+・過去の当該乾燥機の点検清掃において、汚泥状の廃液を当該排水配管に排水していたが、排水の流出先である地下２階の洗濯廃液サンプタンク近傍の配管曲がり部を清掃したところ、汚泥と綿くず等が確認されたこと。
+
+　当該タンク室において水が漏えいした原因は、洗濯廃液サンプタンクにつながる配管が堆積物により詰まり、そこに当該乾燥機のシール水が流入したことで、当該タンク室のファンネルより水が溢れ出たものと推定した。
+
+　対策として、乾燥機点検後には洗濯廃液系排水配管の通水確認を行い、詰まりが確認された場合、配管内の清掃を行う。
+　また、本事例については関係者に周知し、再発防止に努めることとする。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S084]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１・２号機廃棄物処理建屋内の洗濯廃液収集タンク（Ａ・Ｂ）室における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/07 11:39:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

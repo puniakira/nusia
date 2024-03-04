@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　原子炉給水系Ｂ系の流量指示が出ていなかったことから、原子炉運転中及び停止後に、原子炉給水系Ｂ系の通水を阻害していると考えられる給水ヘッダから原子炉圧力容器までの機器について、要因分析に基づき点検調査を行った。
+１．運転中の調査
+（１）Ｂ系給水配管・フローノズル・スパージャの閉塞は考えにくい。また、原子炉格納容器外側の原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）及び原子炉給水弁逆止弁（Ｂ２２－Ｆ０３２Ｂ）の開閉動作確認を行ったが、異常は認められなかった。
+（２）原子炉格納容器内側の原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）、原子炉給水止弁（Ｂ２２－Ｆ０１１Ｂ）については、原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）の閉操作により、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の差圧を増加※２し、逆止弁の開動作を試みたが、給水流量に変化は認められなかった。
+　このことから、原子炉給水逆止弁の開不動作により原子炉給水系Ｂ系の通水を阻害していると考えられた。
+　※２：原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）の閉操作により、原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）と原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）との間に接続されている原子炉冷却材浄化系から給水系に入る水の圧力で原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の差圧が増加する。
+（３）計装機器
+　計装配管・弁及び給水流量計の点検した結果、異常は認められなかった。
+
+２．原子炉停止後の調査
+２－１　原子炉格納容器内側の原子炉給水止弁（Ｂ２２－Ｆ０１１Ｂ）について、弁体位置確認及び弁開閉動作確認の結果、異常は認められなかった。
+２－２　原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）分解点検
+（１）弁体開き始め荷重測定
+　弁蓋開放後、ロードセルを取り付け、弁体の開き始め荷重を計測した結果、１回目３４４Ｎ（３５．１ｋｇｆ）、２回目１８６Ｎ（１９．０ｋｇｆ）であり、１回目の開き始め荷重は、やや大きかったが、閉固着している状態ではなかった。
+（２）弁箱部　分解点検
+［１］弁箱内部について、外観点検を行った結果、異物等は認められなかった。
+［２］弁体及びシート面については、シート面全周に渡り、良好な当り跡のあることを確認した。また、シート面には、かじり跡はなかった。なお、弁体及び弁座シート部のステライト盛金厚さを測定した結果、規定値（弁体１ｍｍ、弁座１ｍｍ以上）を満足していた。
+［３］弁体シート面について詳細に外観点検を行った結果、シート面上下部外周に弁体と弁座が接触して生じたと推定される光沢や、一部の箇所で軽微なあばたが確認されたが、機能上問題となるものではなかった。
+［４］弁座シート面について詳細に外観点検を行った結果、シート面外側上部に弁体シート面と同様、弁体と弁座が接触して生じたと推定される光沢や、一部の箇所で軽微なあばたが確認されたが、機能上問題となるものではなかった。
+［５］弁体シート部外径及び弁座シート部内径について、寸法測定を行った結果、規定値（φ３９０．０±１．２ｍｍ）を満足していた。
+（３）スピンドル部分解点検
+［１］スピンドル部分解前に、サイドカバーボルトの締め付け状態についてトルクレンチを用いて測定した結果、規定トルク（２２５．６Ｎ・ｍ）以上で締め付けられており、異常は認められなかった。
+［２］ロッド、ブッシュ、ブッシュ固定用セットネジ及び捩りバネの摺動面について、目視確認等の結果、かじり等の異常は認められなかった。
+［３］弁体支持部について、隙間ゲージにて弁体とワッシャの隙間を測定した結果、１．２～１．３ｍｍ程度であり、通常の摩耗が認められたものの、有意なものではなかった。（組み込み時の管理値０．５～１．０ｍｍ）
+　以上のことから、原子炉格納容器内側にある原子炉給水止弁（Ｂ２２－Ｆ０１１Ｂ）、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の点検では、異常は認められなかった。
+
+３．Ｂ系不具合箇所の再評価
+　要因分析に基づき点検調査を実施した結果、原子炉給水系Ｂ系の通水を阻害している異常は認められなかった。このため、原子炉給水系Ｂ系について運転履歴等を含めて再評価することとした。
+３－１　プラント状況調査
+　原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）及び原子炉給水弁逆止弁（Ｂ２２－Ｆ０３２Ｂ）については、運転中の動作確認時に、給水流量等の変動がなかったことから、要因とは考えられない。
+　また、原子炉給水止弁（Ｂ２２－Ｆ０１１Ｂ）は、手動操作する弁で常時開であること、落雷により原子炉が自動停止するまでは正常に通水されていたこと、及び原子炉停止後の調査から健全性を確認できたことから、閉塞の可能性はない。
+　これらのことから、原子炉給水流量Ｂ系に指示が出ていなかった原因は、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の開不動作と推定された。
+（１）原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）に関するプラント状況調査
+　原子炉停止後、プラント状況をチャート等から確認した結果、以下の状況が確認された。
+［１］原子炉自動停止時
+　原子炉自動停止後に原子炉冷却材浄化系を再起動し通水したところ、Ａ系の給水ノズル表面温度は低下したが、Ｂ系の温度低下は認められなかったことから、今回の原子炉自動停止以降、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）開不動作が生じていたものと考えられる。
+　また、原子炉自動停止後のタービン発電機手動停止により、復水ポンプ及び給水ポンプが全台停止したため、給水ポンプ出口ヘッダの圧力は低下した。この時、原子炉圧力は主蒸気逃がし安全弁の手動開閉操作で約６．４～６．９ＭＰａ（約６５～７０ｋｇ／ｃｍ＾２）に制御されていた。なお、当該原子炉給水逆止弁の差圧（逆圧）は、最大約６．１６ＭＰａ（約６２．８ｋｇ／ｃｍ＾２）であった。
+［２］原子炉再起動後
+　原子炉停止操作の準備として、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の急開による原子炉給水流量、原子炉水位への影響を防止するために、前弁の原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）を閉操作した。その直後にＢ系給水ノズル表面温度が低下したことから、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）の開不動作が解消し、正常な状態に回復したものと考えられる。
+３－２　Ａ系原子炉給水逆止弁分解点検等
+　比較調査のため、Ａ系原子炉給水逆止弁についてＢ系と同様な点検を行った。また、不動作は給水逆止弁に約６．１６ＭＰａ（約６２．８ｋｇ／ｃｍ＾２）の差圧（逆圧）が加わった後に生じていることから、この差圧（逆圧）が加わって弁が閉じた際のシート部の摩擦力が通常よりも大きかったことによるものと考えられる。この摩擦力に影響のあるシート部の表面粗さについて調査した。
+（１）弁体開き始め荷重測定等
+　弁体開き始め荷重測定、弁箱部　分解点検、及びスピンドル部分解点検を行った結果、有意な差は認められなかった。
+（２）シート面詳細調査
+　逆止弁のシート面の粗さ測定を行った結果、円周８方向（４５°間隔）の平均粗さの平均値はＡ系０．８５μｍ、Ｂ系０．８３μｍであった。また、最大粗さの平均値は、Ａ系５．３４μｍ、Ｂ系６．３８μｍであり、Ｂ系シート面の方が表面粗さは大きいことが観察された。
+３－３　シート面詳細調査
+　シート面の表面粗さについて差異が認められたことから、シート面の詳細調査を行った。
+（１）シート面の表面観察
+　Ａ系、Ｂ系の逆止弁の弁体、弁座それぞれのシート面のレプリカを採取し、走査型電子顕微鏡（ＳＥＭ）により観察した結果、いずれのシート面の表面にもくぼみが観察された。このくぼみは、共晶炭化物※３中のコバルト－クロム母相が溶出し、露出したタングステンークロム炭化物が破砕して、脱落したものであると推定された。
+　※３：共晶とは金属が液相から固相への冷却過程で、一つの溶液から二つの固相（結晶）が同時に生成することをいう。ステライトの場合は、この過程でコバルト－クロム母相とタングステン－クロム炭化物が生成する。
+　Ｂ系の逆止弁の弁座レプリカの付着物を蛍光Ｘ線分析装置により分析した結果、いずれもシート面の材質であるステライトの共晶炭化物の特有成分であるタングステン、コバルト及びクロムが有意に検出された。
+　当該逆止弁のシート面に使用されているステライトＮｏ．６について文献調査の結果、ステライトＮｏ．６の表面からのコバルト溶出についての研究が行われており、文献中のコバルトが溶出したステライトの表面写真（ＳＥＭ）と今回の写真は同様な様相であった。このことから、シート表面の粗さは、シート面の材質であるステライト中の共晶炭化物の脱落で生じていると考えられる。
+（２）弁開閉動作回数調査
+　当該逆止弁の開閉回数が増加することによって、ステライトの共晶炭化物の脱落に影響を及ぼす可能性があると推定され、その結果、シート面の表面粗さに影響を及ぼすことが考えられることから、弁開閉作動回数を調査した。
+　運転開始以降、原子炉起動停止時において、原子炉給水系Ａ系が３８５回程度、原子炉給水系Ｂ系は１，３５５回程度の開閉が行われていることが確認された。この弁の開閉動作が、共晶炭化物の脱落に寄与しているものと考えられ、その動作回数の差が、表面粗さの違いになっているものと考えられる。
+３－４　逆止弁にかかる保持力・引き抜き力評価
+　弁シート面の表面が荒れていたことから摩擦による保持力が大きかったことにより、弁体の不動作が生じたものと考えられた。このため、当該弁のシート面表面粗さから不動作に至るような保持力が生じるかを評価した。
+　保持力を表面粗さから求めるには、表面粗さに応じた摩擦係数を知る必要があることから、実機の表面粗さを模擬しステストピース（実機と同一材料）を放電加工法により製作し、摩擦係数試験を実施した。試験結果より最大粗さと摩擦係数の相関関係を求め、当該弁においてもその関係があるか否かを実機で測定した表面粗さと弁に働いたと考えられる保持力を用いて評価した。
+　この結果、当該弁の最大粗さは６．３８μｍで、保持力※４　７．６９ｋＮ（約７８５ｋｇｆ）に基づいて先に求めた摩擦係数－最大粗さの相関に照らしてみると、比較的よく一致しており、当該弁の表面粗さの状態では、弁を開けるための通常の圧力が作用しても弁が不動作になり得ることが確認された。
+　※４：逆止弁の弁体が弁座に保持され、不動作であったものが、原子炉給水弁閉により当該弁に約０．０６ＭＰａ（約０．６ｋｇ／ｃｍ＾２）の差圧（正圧）が加わって動作した。（弁体の保持力と引き抜き力が釣り合った）
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>250</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/05/13 08:38:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>57</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>494</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200204031800]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の原子炉起動前に、当該原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）のシート面の手入れ（ラッピング※５）を行う。また、今後、原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ａ、Ｂ）の定期的な分解点検に合わせ、シ－ト面の手入れ（ラッピング）を行う。
+　※５：研磨材を専用工具側の加工面に塗布または貼り付けて、仕上げるシート表面とこすり合わせ、工場製作時と近い状態に表面を平滑に仕上げる方法。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/05/13 08:38:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は、平成１４年３月３１日１９時４２分頃落雷による２７５ｋＶ母線トリップにより原子炉が自動停止した。停止後の原子炉起動中（発電機出力約２５０ＭＷ）の４月３日５時３０分頃、総給水流量指示が約１，７００ｔ／ｈのところ、原子炉給水系Ａ系の流量が約１，７００ｔ／ｈであり、Ｂ系の流量指示が出ていないことを確認した。当該給水流量計の点検を行っていたが、同日６時０３分頃、「ＦＥＥＤＷＡＴＥＲ　ＣＯＮＴＲＯＬＬＥＲ　ＬＩＧＨＴ　ＴＲＯＵＢＬＥ※１」警報が発報した。
+　関連パラメータを確認した結果、原子炉給水系Ａ系の給水温度が約１６０℃で第１給水加熱器出口温度と同等であるのに対し、Ｂ系の給水温度が約２２０℃で当該系統に流入する原子炉冷却材浄化系の出口温度と同等であることから、Ｂ系への給水が阻害されていることが考えられた。
+　これらのことから、原子炉給水系Ｂ系について点検を行った。その結果、格納容器外の機器については、異常は認められず、原因の特定には至らなかった。
+　このため、原子炉を停止して原子炉給水系Ｂ系の詳細点検を行うこととし、同日１８時００分より出力降下を開始、２０時００分発電機を解列、４月４日０時２６分原子炉を手動停止した。
+　※１：原子炉給水制御系の軽故障を示す警報。今回、警報発報時、給水制御系制御盤には「各給水流量異常」が点灯しており、この表示は、原子炉給水流量Ａ，Ｂ系の流量差が１，６００ｔ／ｈ以上の場合点灯する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-T001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上の調査結果から、原子炉給水系Ｂ系の流量指示が出ていなかった原因は、以下のとおりと推定される。
+（１）原子炉給水逆止弁（Ｂ２２－Ｆ０１０Ｂ）のシート面において、経年的にステライトの共晶炭化物の母材成分が溶出したことに加え、弁開閉動作が重畳したため、共晶中の炭化物が弁の開閉時の接触により脱落し、弁体に表面粗さが発生し摩擦係数が増加した。
+（２）この状況で、３月３１日に発生した落雷による原子炉自動停止後のタービン発電機手動停止により、全給水ポンプが自動停止し当該逆止弁が閉止した。（最大差圧（逆圧）約６．１６ＭＰａ（約６２．８ｋｇ／ｃｍ＾２））
+（３）このため、原子炉自動停止後の再起動に伴う原子炉冷却材浄化系からの通水再開及び給復水系からの通水再開時の逆止弁出入口差圧では、開動作しなかった。
+（４）その後、原子炉停止操作の準備として原子炉給水弁（Ｂ２２－Ｆ０６５Ｂ）の閉操作を行った時に、原子炉冷却材浄化系から給水系に入る水の圧力により、弁出入口の差圧が増加し、弁が開動作した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉給水系（Ｂ系）点検に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（出力降下開始）]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シート*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>250</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁体*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>250</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[逆止弁]]></KIKI_NAME>
+				<SORT_NO>8</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[158]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>250</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>250</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

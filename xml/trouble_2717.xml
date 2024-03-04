@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2717</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/06 16:04:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/01/25 09:07:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200501151158]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/06 16:04:55]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１７年１月１５日午前１１時５８分頃、定期点検中の３号機タービン建屋地下１階（放射線管理区域内）において、当社社員が停止中の復水ポンプ（Ｂ）に接続する配管フランジ部（※）の下に水たまりがあり、当該フランジ部から水が滴下していることを確認した。（漏えい量；約２７リットル、滴下量；１秒に１滴程度）
+このため復水ポンプ（Ｂ）の入口弁及び出口弁を閉止し、配管内の水を排出した結果、漏えいは止まった。
+漏れた水に含まれる放射能は約１９０ベクレルであり、国への報告基準（３７０万ベクレル）の約２万分の１であった。
+外部への放射能の影響はない。
+
+定期点検において、当該フランジ部の点検を実施した結果、以下のとおりであった。
+
+１．原因
+当該フランジ部を調査した結果、２８本あるフランジボルトのうち一部のフランジボルトに緩みがあることが判明した。フランジボルトが緩み、水が滴下した原因は、以下のとおり推定した。
+
+○伸縮継手のフランジの材質がゴム製であり、かつフランジ部の面間に隙間があったため、フランジボルトの締め付けにより、ゴム製フランジにわずかなたわみが発生した。
+○締め付け管理はフランジ部の面間寸法の変化量測定により実施したが、ゴム製フランジのたわみに対する配慮が不足していたため、締め付け量が若干不足した状態となった。
+○この状態で運転を行ってきたために、ゴム製フランジに歪み等が発生し、さらにボルトの締め付け力が低下しフランジボルトが緩んだ。
+○運転中、当該配管内の圧力は大気圧未満（負圧）であり、停止に伴い復水器内を真空状態から大気圧の状態としたことにより、配管内も大気圧（正圧）となりフランジ部から水が滴下した。
+
+２．再発防止対策
+当該箇所の他、（A)系および（C)系についても、ゴム製フランジにたわみが発生しにくいようフランジ部の面間の隙間に調整板を取り付けるとともに、たわみ量を加味して確実に締め付け管理を行った。
+その後、漏えい確認を行い、当該フランジ部から漏えいのないことを確認した。
+
+なお、１号機から５号機において、伸縮継手を用いている箇所は他にもあるが、フランジがゴム製でかつ面間に隙間がある構造のものは、３号機の当該復水ポンプ入口３カ所のみであり、他にはない。
+	
+※　配管と他の配管または機械部分との接続箇所。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋地下１階における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/01/26 17:23:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

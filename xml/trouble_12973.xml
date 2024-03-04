@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12973</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/01/07 15:03:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>86571</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/06/28 17:11:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201906231006]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/01/07 15:03:40]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2019年6月23日、10時06分、3号機中央制御室において中央制御室冷凍機(B)（注1）の故障を示す警報が点灯したため、当社社員が現場を確認したところ、同日10時14分に、当該冷凍機下部に油の漏えいを確認した。
+　その後、漏えい箇所を調査したところ、冷凍機に潤滑油を供給する配管の弁接続部からの油の漏えいを確認した。漏えい箇所の前後に設置されている弁を閉めたことにより、油の漏えいは止まっている。
+　漏れた油の量は約12リットルであり、拭き取りなどの処理をおこなった。
+
+　油の漏えいが発生した弁接続部（フレア継手）を確認したところ、配管フレア部に割れが認められた。また、当該配管は2018年8月に取替えており、短期間で割れが発生した。
+　当該フレア部の詳細調査の結果、破面にストライエーションを確認するとともに、フレアナットの締込み過ぎによるものと思われるフレア部の薄肉化および外表面傷を確認した。また、現場調査の結果、当該フレア部は冷凍機圧縮機に直接接続する配管上にあり冷凍機圧縮機の振動を直接受ける配管構成（当該フレア部から冷凍機圧縮機までサポートなし）であること、当該フレア部に接続する弁が冷凍機圧縮機の振動により共振しており、これにより当該フレア部の振動が他の潤滑油配管に比べて高いことを確認した。
+　以上より割れが発生した原因は、外表面傷を起点とした高振動による疲労破壊と考えられる。
+
+　なお、フレアナットの締込み過ぎの理由は、前回取替時の工事要領書作成・確認において、工事要領書反映事項DB（以下、「DB」という）（注2）に登録されていたフレアナット締付時のトルク管理に係る情報が、当該工事の請負会社および当社作業担当者のDBに対する検索手順認識不足により抽出・確認できなかったことで工事要領書へ反映されず、結果、締付時に適正なトルク管理がなされなかったものと考えられる。
+
+　高振動による疲労破壊に対する再発防止対策は、以下の理由により不要とした。
+（1）当該冷凍機は、2019年9月よりリプレースに着手し、撤去済である。
+（2）当該冷凍機と同型である中央制御室冷凍機(A)は、当該事象を受けて2019年9月にフレア部を適正な手順で修理した。修理後の振動は低く、応力解析の結果を踏まえると2034年まで同事象は発生しないことを確認済であり、2020年にリプレースを予定している。
+（3）リプレース後の中央制御室冷凍機には同様な配管構成がないことを確認しており、振動による割れは発生しないものと考える。
+　なお、工事要領書へのDB情報未反映に対する対策として、工事要領書へDB情報を適切に反映できるように、当該作業担当課員全員および当該工事の元請会社に対しDBの正しい検索方法を周知していく。
+
+（注1）中央制御室冷凍機とは、中央制御室等の空調設備へ冷媒を供給する装置。
+（注2）工事要領書反映事項DBとは、不適合の是正処置等の結果、工事要領書へ反映することとした作業手順や確認項目等が整理・登録されているデータベース]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-中部-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[中央制御室冷凍機(B)の潤滑油配管からの放射性物質を含まない油の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/06/28 17:11:56]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

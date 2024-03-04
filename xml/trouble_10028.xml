@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10028</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/31 14:40:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4336</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/10/21 16:44:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200809080945]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[９月８日９時４５分頃、大飯発電所３、４号機共用の海水淡水化装置※１建屋において、協力会社作業員が、滅菌タンクに次亜塩素酸ソーダ※２を投入後、空のポリ容器（１０リットル容器）を右手に、作業手順書を左手に持って踏み台を降りていたところ、足元を滑らせバランスを崩して床面に転倒し、左肘を床面に打ち付け負傷した。外傷および出血はなかったが左肘に痛みがあるため、１０時１２分に当該作業員を病院へ搬送し、診察を受けた結果、左肘負傷により９月中は就労できず３ヶ月間の加療を要する見込みと診断された。
+　転倒した原因を調査した結果、踏み台を降りる際に十分な注意を払っていなかったこと、右手にもっていたポリ容器により足元が見えにくい状態であったこと、踏み台のステップ幅が十分でなく踏み外す可能性のある構造であったことがわかった。
+対策として、本事例に基づく注意喚起文書を作成し、当社社員および協力会社社員に周知し、階段等昇降時の足元の確実な確認および慣れた作業にも危険要因が潜んでいることを徹底した。また、危険要因への感受性を高めるための危険予知活動の活性化を継続して実施する。さらに、当該踏み台のステップ幅を拡張し滑りにくい大きさにした。なお、ステップ幅拡張完了までの間は、踏み台に目立つビニールテープを貼り付け注意喚起を行った。
+
+※１：海水淡水化装置
+発電所用水確保のため、海水から淡水（真水）を生産するための装置。（非管理区域）
+※２：次亜塩素酸ソーダ
+一般に飲料水に使われる滅菌用の薬品
+　　　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[協力会社作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/31 14:40:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

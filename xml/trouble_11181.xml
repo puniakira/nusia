@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11181</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/02/09 13:45:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>20481</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/12/06 16:20:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201012031120]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/09 13:45:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年12月３日、定期検査で停止中の４号機において、原子炉隔離時冷却系＊１の弁の分解点検を行っていたところ、協力企業作業員が当該弁の内部に異物らしきもの１個があることを発見した。
+　同日、異物らしきものを回収し、らせん状の金属片１個（縦約10mm、横約10mm、厚さ約0.3mm）であることを確認した。
+　その後、他の異物の有無について確認を行った結果、同年12月11日、バッフルプレート＊２上に粒状の金属片１個（約６mm×約５mm×約３mm）があることを発見し回収した。
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+（１）らせん状の金属片
+・金属成分を分析したところ、炭素鋼の金属片であること。
+・電動ドリルによる金属材料の加工時に発生する切削片に類似していること。
+・当該弁の上流側にある原子炉隔離時冷却系の注入配管に通水する時は、当該弁を閉じているため、注入配管から当該弁に異物が流入する可能性はないこと。
+・作業関係者に聞き取り調査を実施した結果、当該弁や当該弁とバイパス配管＊３でつながっているテスト可能逆止弁＊４の分解点検時に電動ドリルを使用していなかったこと。
+・前回の定期検査（平成21年６月）で実施したバイパス配管の改造工事では、電動ドリルを使用していなかったこと。
+また、改造工事で発生した廃棄物を調査したところ、同様な金属片は確認されなかったこと。
+・プラント建設時におけるテスト可能逆止弁製作メーカーの工場出荷記録や現場施工手順等について調査した結果、工場での同弁製造時に、バイパス配管を接続するために穴を開ける必要があり、電動ドリルを用いて施工していたこと。
+また、テスト可能逆止弁の製造時、施工要領書等において、穴開け加工後の洗浄や内部確認等の定めがなかったこと。
+・バイパス配管とテスト可能逆止弁を接続する際、現場周辺で電動ドリルを使用した実績について作業関係者に聞き取り調査を実施したところ、電動ドリルの使用実績はなかったこと。
+（２）粒状の金属片
+・粒状の金属片の材質はステンレス鋼であること。
+・前回の定期検査時に炉内構造物を確認し、損傷している箇所は認められておらず、炉内構造物の欠損等の可能性はないこと。
+・当該異物を発見した場所は狭隘部であり、過去のバッフルプレートの点検において確認しにくい場所であったこと。
+
+３．推定原因
+（１）らせん状の金属片
+　工場でのテスト可能逆止弁の製造時、電動ドリルによる穴開け加工を行った際に発生した切削片が、テスト可能逆止弁に混入した。その後、バイパス配管内部に流入し滞留していたが、テスト可能逆止弁の定例試験時に移動し、最終的に当該弁まで到達した可能性があるものと推定した。
+（２）粒状の金属片
+　混入経路や混入時期を特定するには至らなかったが、平成11年９月以降、異物混入防止対策＊５を強化していること、また、前回の定期検査において、炉内構造物の損傷等がないことを確認していることから、異物混入防止対策の強化以前に原子炉圧力容器内へ混入したものと推定した。
+　また、当該異物はすでに回収しているが、バッフルプレート上に異物があった状態においても、バッフルプレート上の流速が小さいため、当該異物が浮き上がり移動することはなく、プラントの運転において安全上問題ないものと評価した。
+
+４．対策
+　今後も引き続き、異物混入防止対策（作業に伴い発生した切削片の混入防止等を含む）を徹底する。
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以　上
+
+＊１　原子炉隔離時冷却系
+原子炉の蒸気を駆動源にしてポンプを回し、原子炉の水位確保および炉心の冷却を行う系統。なお、本系統は非常用炉心冷却系ではない。
+
+＊２　バッフルプレート
+ジェットポンプが取り付けられているリング状の板。
+
+＊３　バイパス配管
+プラント運転中の定例試験においてテスト可能逆止弁を開閉させる際、前後の圧力を均一にするため、当該弁とともにテスト可能逆止弁に接続する配管。
+
+＊４　テスト可能逆止弁
+配管内の流体が逆流しないよう片方向のみに開く弁で、開閉テストが可能となっている。
+なお、テスト可能逆止弁は、原子炉隔離時冷却系が正常に機能することを確認するため、同弁の開閉を定例試験で確認している。
+
+＊５　異物混入防止対策
+持込物品の制限や員数管理を行うとともに、専任監視員を配置するなどして、原子炉等への異物混入を防止する取り組み。
+なお、上記対策の強化により、平成11年９月以降、確認のための工事記録等が的確に保存されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の福島第二原子力発電所４号機における原子炉隔離時冷却系での異物の発見および回収について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/12/08 19:45:43]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

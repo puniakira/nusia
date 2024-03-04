@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13536</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/09/22 11:57:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>111141</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/08/10 09:48:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20220728]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/09/22 11:57:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　3号機および4号機の最大加速度地震計（中央制御室表示用地震計）（注1）について、月1回の定期的な動作確認をおこなった結果、動作不良により、どちらも地震加速度を表示できないことを確認した。
+　今後、当該地震計の点検をおこなうとともに、原因調査を実施していく。
+
+　なお、1、2号機（共用）および5号機の最大加速度地震計に問題がないことを確認している。
+　当社では、地震発生時に、最大加速度地震計の地震加速度の表示を参考に、巡視点検等の対応を実施している。3号機および4号機の最大加速度地震計の点検が完了するまでは、1、2号機（共用）および5号機の最大加速度地震計の値をもとに巡視点検等の対応を実施するため、発電所の運営に影響はない。
+
+　その後、当該地震計については、点検が完了し、正常動作状態に復旧した。
+　動作不良は、2022年5月に3号機および4号機の最大加速度地震計の一部を取り替えた直後より、最大加速度地震計の検出部から中央制御室の表示部への通信にエラーが発生していたことが原因であり、この通信エラーは、通信チェックをおこなう検出部内のプログラムの設定（検出部の製造時に設定）が取り替え後の通信設備に対応していなかったために発生したことがわかった。
+　今後、最大加速度地震計の製造メーカと連携し、再発防止に努めていく。
+
+注1　最大加速度地震計とは、中央制御室に最大加速度を表示する機能を有している地震計をいう。これとは別に、原子炉緊急停止用として、原子炉緊急停止用地震計を設置している。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-中部-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[最大加速度地震計（中央制御室表示用地震計）の動作不良]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/08/10 09:49:08]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

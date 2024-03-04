@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2992</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/09/16 11:03:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3206</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/06/07 09:59:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200506050550]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/09/16 11:03:08]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は原子炉起動中のところ、平成17年６月５日午前５時50分頃、原子炉建屋４階の試料採取ラック（＊）室の手分析用金属採取ラックのシンクから水が床に溢れているところを当社運転員が発見し、当該シンクと排水用配管でつながっている原子炉水手分析用試料採取ラックのシンク上流側にある試料流量を調整する減圧弁を閉じることにより漏えいは停止した。
+　漏えい水は約１リットル、放射能量は約１４０００ベクレルだった。
+
+　なお、これによる外部への放射能の影響はなかった。
+
+　採取ラック排水配管の排水状況確認ならびに配管清掃等、設備の点検調査を実施した結果、排水配管の曲がり部分にワッシャーやガラス片などを発見し、これを回収した。
+　このことから、手分析用金属採取ラックのシンクから水が溢れた原因は、原子炉起動中の原子炉圧力上昇にともない原子炉水手分析用試料採取流量が若干増加した際、ワッシャー等により排水配管内が詰まり状態であったため排水が十分になされず、排水配管がつながっている低い位置の手分析用金属採取ラックへ逆流したことによるものと推定した。
+
+　詰まり状態であった採取ラック排水配管については、清掃を行い、詰まりのないことを確認した。
+　なお、異物混入防止として、平成10年にシンクの排水口に金網を取り付けており、回収物はこれ以前に混入したものと推定した。
+
+　＊：試料採取ラック　原子炉水の水質を分析するため、原子炉水をフィルタに通水し金属不純物を採取（手分析用金属採取ラック）したり、原子炉水を直接採取（原子炉水手分析用試料採取ラック）する装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機原子炉建屋試料採取ラック室内での水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/06/09 11:33:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

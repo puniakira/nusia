@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12925</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/03/11 13:43:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>81167</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/02/14 10:58:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201901070902]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/03/11 13:43:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+伊方発電所３号機は通常運転中のところ、１月７日７時１５分、運転員がスチームコンバータ※１（以下、「S/C」という。）の加熱蒸気２次圧力制御弁（3PCV-6784）※２(以下、「当該弁」という。) から異音が発生していることを確認したことから、保修員が状況を確認したところ、１月７日９時２分、当該弁が動作不良であることからS/Cを停止して当該弁を点検することを判断した。その後、補助ボイラ※３を起動し、補助蒸気の供給をS/Cから補助ボイラに切り換え、S/Cを停止し、当該弁の点検を開始した。
+当該弁を分解点検したところ、弁体※４と弁棒※５の接続部を固定するピンが折損していることを確認した。弁体と弁棒のねじ構造の接続部が緩んでピンが折損し、弁体が回転したことにより弁体の位置が下がったため、正常な開度調整ができなくなったものと推定した。
+１月２３日、弁体と弁棒が緩まない対策を実施したうえで当該弁を復旧し、１月２４日、S/Cの起動および補助ボイラの停止を実施し、１月２５日１３時２３分、当該弁制御状態に異常がないことを確認し通常状態へ復旧した。
+なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１　スチームコンバータ（S/C）
+　プラント運転中に純水を２次系の蒸気で加熱し、周辺機器に供給するための補助蒸気を発生させる装置。補助蒸気は、純水装置、海水淡水化装置、ほう酸回収装置、廃液蒸発装置、空調設備、タンク等の加温用に使用される。
+
+※２　スチームコンバータ加熱蒸気２次圧力制御弁（3PCV-6784）
+　スチームコンバータから発生させる蒸気（補助蒸気）圧力を制御するためにスチームコンバータを加熱する蒸気の量を調整する空気式作動弁。
+
+※３　補助ボイラ
+　周辺機器に供給するための補助蒸気を発生させる装置。スチームコンバータが使用できないプラント停止時等に補助蒸気を供給する。
+
+※４　弁体
+弁構成部品の一部で、配管の中に設置し、配管内を流れる流体（蒸気や液体）の流量調整をしたり流れを止めたりするもの。
+
+※５　弁棒
+　弁構成部品の一部で、駆動部と弁体を連結し、弁体を上下に動かせる棒状のもの。
+
+
+○原 因
+当該弁の弁体と弁棒の接続部が緩みピンが折損した原因について、組立時にエアブローによる異物除去を確実に実施したことを確認できなかったことを除き問題がなかったことから、工場にて弁体と弁棒を組み立てる際、異物が接続部に混入したことで微視的に接続部の緩みが内在していた可能性が否定できず、初期不良の可能性が高いものと推定した。
+また当該弁は、フローオーバーシート※６構造でバランス型の弁体※７を使用しており、プラント運転中は低開度で使用する場合がある。このとき、流体は弁体上部から弁体下部へ差圧が大きい状態で継続的に流れるため、弁体には強い回転力が継続的に加わる。設計上は接続部の摩擦力にピンの強度が加わった抗回転力※８が弁体の回転力を上回っているが、異物が接続部に混入した場合、接続部の摩擦力は減少し、弁体の抗回転力がピンの強度に大きく依存する状態になるため、流体から弁体に加わる回転力が抗回転力を上回って接続部が緩み、弁体と弁棒を貫通しているピンは弁体の回転力によって繰り返しせん断力を受け折損に至ったと推定される。
+
+※６　フローオーバーシート
+　流体が弁体上部（側面）から下部へ流れる構造となっている弁のこと。
+
+※７　バランス型の弁体
+　弁体を縦に貫く穴により、弁体上部と下部の圧力が均衡するように設計されている弁。弁前後の差圧が大きい系統に設置している。
+
+※８　抗回転力
+　流体からの回転力に勝るように弁体と弁棒を固定する力で、弁体と弁棒の接続部における摩擦力とピンの強度の和。
+
+
+○対策
+（１）当該弁については、弁棒及び固定ピンの取替を行い、工場でエアブローを確実に実施した上で弁体と弁棒を組み立てたものを納入し、復旧した。また、これまでの当該弁の使用実績に問題がなかったことから、現状の抗回転力でも十分であると考えられるが、念のため弁体と弁棒の接続部の更なる抗回転力の向上を目的として、弁棒の弁体へ挿入する部位の直径を19mmから32mmへ変更し、ピンの直径を5mmから8mmに変更したうえで所定の締め付け力で組み立てた。これにより、弁体の抗回転力は変更前の約220Nmから約4倍の約920Nmとなり、弁体はより緩みにくくなった。
+
+（２）異物混入対策として、当該弁の弁体と弁棒の組立時にエアブローを実施したことをチェックシートに記録として残した。また、今後の継続的な再発防止策として、メーカの弁体チェックシートに「エアブローの実施」を明記した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　スチームコンバータの加熱蒸気２次圧力制御弁の異常]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/02/14 10:58:29]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

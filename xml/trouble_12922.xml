@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12922</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/02/08 16:35:33]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2019/02/07 20:49:45]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20180307]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[日立GEニュークリア・エナジー株式会社(以下、「日立GE」)より、柏崎刈羽原子力発電所7号機の水圧制御ユニットスクラム弁※でシール部品として使用しているOリングの一部に、日立GEの要求を満足しない三菱電線工業株式会社(以下、「三菱電線工業」)製の不適合品が含まれている可能性があるとの報告を受けた。
+当該Oリングに不適合品が使用されている可能性があることを踏まえ、今後、交換していく。
+
+日立GEの報告によると、当該Oリングに関する三菱電線工業の検査基準に誤りがあり、日立GEが2009年2月に納入を受けた製品（60個）の中に、日立GEの要求値よりもわずかに硬い不適合品が４個含まれていたとのこと。日立GEに納入された60個のOリングのうち18個が柏崎刈羽原子力発電所で納入・使用されているが、その中に不適合品が含まれているかは特定できないとのこと。
+当該Oリングは、2010年から2011年の間に、柏崎刈羽原子力発電所7号機の水圧制御ユニットスクラム弁に18個取り付けられているが、当該Oリングが組み込まれた状態で水漏れや動作不良がないことを確認しており、使用期間中の安全上の問題はなかったものと考えている。なお、日立GEからも同様の見解を示す報告を受けている。
+また、柏崎刈羽原子力発電所7号機は停止中であり、水圧制御ユニットスクラム弁を使用することはありませんが、当該Oリングに不適合品が使用されている可能性があることから、万全を期し、この停止期間中に交換していく。
+
+引き続き、日立GEとともに、三菱マテリアルのグループ会社に関する不適合品の納入有無の確認を進め、今後の調査結果を踏まえて厳正に対応していく。
+
+※　水圧制御ユニットスクラム弁
+ 　　　緊急時に原子炉を停止する目的で、制御棒を高水圧にて原子炉内へ挿入するための弁。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-S045]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[三菱電線工業株式会社製の不適合品納入の可能性を踏まえた当社の対応について]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/02/08 16:35:33]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11243</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/06/20 20:50:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>27127</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/02/22 17:45:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201102211215]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/06/20 20:50:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　定格熱出力一定運転中の当所６号機において、平成23年２月21日午後０時15分頃、原子炉建屋地下３階の原子炉冷却材浄化系逆洗水移送ポンプ（Ａ）室（管理区域）において、協力企業作業員が、ポンプ点検前の準備作業として放射能測定を実施したところ、同ポンプ室内の床面の１箇所に、社内で定める基準値（４ベクレル／cm２）を超える汚染（4.5ベクレル／cm２）を確認した。
+
+（安全性、外部への影響）
+　同ポンプ室出入り口において放射性物質による汚染はなく、管理区域内のその他のエリアへの放射性物質による汚染の拡大がないことを確認しており、本事象による外部への放射能の影響はない。
+　なお、今回確認した汚染（4.5ベクレル／cm２）は、主要なラドン温泉１滴程度（0.4cc）が床面１cm２に付着した場合と同じレベルのものである。
+　また、放射能測定を行っていた協力企業作業員に、身体への放射性物質の付着や体内への取り込みおよび計画外の被ばくはなかった。
+
+（対応状況）
+　同ポンプ室内の床面で確認された放射性物質については、平成23年２月22日、拭き取り清掃を実施し、再度放射能測定を実施して、測定値が基準値以下であることを確認した。
+　原因を調査した結果、当該部屋の天井、高所壁に汚染が検出されなかったため、汚染検出箇所近傍のファンネル（排水口）からベント管（空気抜き配管）を通して微量な放射性物質が床に蓄積したものと推定した。
+　なお、平成23年３月31日に、当該ファンネルのベント管に装着したフィルタ（２月22日に装着）を測定したところ、Co-60が検出されたが、本事象にて検出された汚染レベル（4.5Bq/cm２）に対して、ごく微量であることから、引き続きファンネルのベント管にフィルタを装着し、定期的な調査を行った。
+　調査を行った結果、装着したフィルタから極微量の放射性物質 (Co-60)が検出されることがあったため、本事象は一時的な室内のエアーバランスの変化等により、ファンネルから空気が逆流したことに伴って発生したものと推定した。また、フィルタ設置後は、周囲の床面から放射性物質は検出されていない。
+　対策として、当該ファンネルのベント管にフィルタを常時設置し、再発防止を図ることとした。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S045]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６号機　原子炉建屋（管理区域）ポンプ室内の床面における放射性物質による汚染の確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/02/24 14:57:25]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

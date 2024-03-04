@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8480</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/10/24 08:30:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3607</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/10/20 11:59:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20061012]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　午後３時３１分、タービン建屋１階（放射線管理区域）において、火災報知器が作動した。
+　ただちに運転員が現場を確認したところ、火災ではなく、所内蒸気系（※１）の弁から蒸気が室内に漏えいしていることを確認した。そのため、蒸気が漏えいしている当該弁より上流の弁を閉弁し、蒸気漏えいを防止するとともに、所内蒸気を発生させる所内ボイラを停止した。
+　本事象による外部への放射能の影響はなかった。また、作業者等への被ばくもなかった。
+　原因は、当日、所内蒸気系配管の点検を行うため、当該弁の下流側の弁を閉弁し、点検範囲の隔離操作を実施したが、この操作により、当該弁内部の蒸気圧力が上昇し、弁箱に小さな孔が開き、この孔から蒸気が外部に漏えいし、火災報知器を動作させたものと推定した。
+　なお、当該弁は、今年実施した点検で弁内面に減肉傾向を確認しており、取替えを行う予定であった。
+　対策として、当該弁の取替を実施するとともに、類似の弁の点検を行い、必要に応じて取替を実施していく。なお、感知器は正常に動作し、通常状態となっているが、念のため取替えを行った。
+
+※１　所内蒸気系は建屋の暖房等に用いるための蒸気を送るための系統で、原子炉の安全に直接関係しない系統である。また、蒸気を供給するための所内ボイラには脱塩水（不純物を含まない、純度の高い水）を使用していることから、系統に放射能は含まれていない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-S016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[３号機　所内蒸気の漏えいによる自動火災報知設備の作動（非火災報）について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/10/24 08:30:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

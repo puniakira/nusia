@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．ＦＣＶ（Ａ）が動作不調となる事象に係る点検調査結果
+（１）電気回路
+　中央制御室内盤の点検結果から、基盤類のドリフト、故障等はなく、異常のないことを確認した。
+（２）弁開度検出器・リミットスイッチ
+　弁開度検出器の特性を確認するため、弁作動試験を行った結果、弁開度指示が実弁開度に対して若干低い値を示すことが確認されたが、弁開度設定と実弁開度には直線性が確認され、弁が全開全閉とならない要因はなかった。なお、弁開度検出器単体の点検を行った結果、微少なガタが確認された。
+　また、最小開度位置検出リミットスイッチについて動作確認を行ったが異常は認められなかった。
+（３）アクチュエータ
+　原子炉停止後のアクチュエータ部の分解点検結果より、シリンダ、リンク機構等に摩耗等の異常はないことを確認した。
+（４）ＦＣＶ（Ａ）構成部品
+ａ）スラストリング：弁分解点検の結果、スラストリングに割れ（５箇所）が確認された。また、スラストリングの上面、下面とも部分的に細かな掻き傷、強い光沢、き裂が確認された。
+ｂ）ボールシャフト：ボールシャフトには、スラストリングとの接触部においてスラストリングの割れに起因するものと推定される摩耗及びへこみが確認された。その他の部位には異常（弁体の傷、弁グランド部の摩耗等）は認められなかった。
+ｃ）下部ベアリング（ボルト類含む）：下部ベアリングを点検した結果、外面のステライト部に軽い摺動跡が確認されたが、割れ、摩耗等の異常は認められなかった。また、浸透探傷検査の結果も異常なかった。
+ｄ）下部ブッシング、ボトムフランジ：下部ブッシング及びボトムフランジを点検した結果、割れ、摩耗等の異常は認められなかった。また、浸透探傷検査の結果も異常なかった。
+ｅ）弁箱：弁箱内面を点検した結果、弁箱下部（スラストリング接触部の位置に対応する箇所の外周部）にスラストリングの割れに起因するものと推定される摺動痕が確認された。なお、当該部分は、弁のシート面ではなく機能に影響のない部分であった。
+ｆ）上部ブッシング等：弁ボンネット部を分解点検した結果、上部ブッシング、パッキンケースに摩耗等の異常は認められなかったが、上部ブッシングの止めピンが脱落していた。
+２．スラストリング調査
+　分解点検で確認されたボールシャフト、弁ボディの摺動痕等は、スラストリングの割れに起因するものと推定されたことから、スラストリングの詳細観察を実施した。
+（１）下部ブッシングとの接触面（下面）の観察：スラストリングの下部ブッシングとの接触面を詳細観察した結果、片当りしたと推定される半円状の筋模様が確認された。
+（２）ボールシャフトとの接触面（上面）の観察：スラストリングのボールシャフトとの接触面については、有意な摺動痕等の異常は認められなかった。
+（３）スラストリング破断面の観察：スラストリングの破断面については、凹凸が大きく平滑でない破断面と比較的平坦かつ平滑な破断面が観察された。破断面の形状から、曲がった破断面や部分的に破断面の方向が変わっているものなどが見られ、応力の状態は複雑であったと推定される。一方、平滑な破断面は、運転中の弁開閉動作等により、スラストリングの一部が摩耗したものと推定される。なお、割れた５個のピースを組み合わせると、ほぼスラストリングの全形を復元出来るものの、一部のスラストリングが摩耗等により不足していることを確認した。
+３．スラストリング割れ・摩耗に係る点検調査
+３．１要因分析・評価
+　スラストリングに割れ・摩耗等が確認されたことから、以下の点検調査を実施した。
+（１）運転状態による応力
+　スラストリングは、ＦＣＶ（Ａ）内に組み込まれており、通常運転中の荷重により割れが生じることは考えられず、破断面の状況から見て、通常とは異なる運転状態による応力の影響が考えられる。
+ａ）送電線事故による再循環ポンプの停止
+　定格運転中の送電線事故時（平成１２年８月８日、平成１４年３月３１日）においては、再循環ポンプは高速運転から低速運転を経由せず、停止に至る。この時、原子炉圧力は、主蒸気逃がし安全弁により制御されるため、圧力変動が生じる。また、弁開度は変化しないが流量が急激に低下する。
+　これらの事象を考慮した結果、いずれの場合にもボールシャフトは上方向への揚力が働き、スラストリングへの荷重は緩和され、割れが生じることは考えにくい。
+ｂ）原子炉給水ポンプ切替時の原子炉出力低下
+　平成１３年１２月１０日、タービン駆動原子炉給水ポンプ点検のため、定格出力運転でタービン駆動原子炉給水ポンプから電動機駆動原子炉給水ポンプへ切り替えた際、原子炉給水流量が不足し、再循環ポンプのランバック（ＦＣＶが急速閉し、約１０％開度となる）が作動し、この運転状態が約１１日間継続した。この状態は、再循環ポンプの高速運転とＦＣＶの絞り運転による振動を発生させ、スラストリングに通常より大きな荷重が繰り返し加わった可能性がある。
+ｃ）第１９サイクル中のＦＣＶ（Ａ）開度指示振れ
+　平成１４年６月頃からＦＣＶ（Ａ）開度検出器が原因と想定されるＦＣＶ（Ａ）開度指示の振れ（約±０．５％）が確認された。弁開度の設定は一定であることから、開度指示の振れにより、ＦＣＶ（Ａ）は追従動作を繰り返し、スラストリングの破断面の摩耗が促進されると推定される。
+（２）施工不良
+　第１５回定検におけるＦＣＶ（Ａ）の分解記録を確認した結果、所定の手順で分解・組立てが行われ、復旧前の異物混入有無の確認も行われており、異常は認められなかった。
+（３）材料不良
+　割れたスラストリングの製造時の材料検査記録より、設計通りの材料であることを確認した。
+（４）寸法不良
+　製造時の寸法検査記録により、設計通りの寸法のスラストリングが使用されていたことを確認した。
+　これらの調査結果より、スラストリングの割れの原因は、弁開度低位置（１０％開度）で再循環ポンプの高速運転が継続したことによる影響が考えられる。
+
+　摩耗の原因については、割れが生じた後、弁の開閉操作及び弁開度指示振れに応じた追従動作により摩耗が進行したものと考えられる。また、弁体については、第１９回定期検査停止操作時にスラストリングの破片が外側にずれていたため、摺動痕が生じたものと推定される。
+３．２応力評価
+　弁開度低位置（１０％開度）で再循環ポンプの高速運転を継続したことによる影響を定量的に評価するため、ボールシャフトとスラストリングに加わる発生応力を評価した。
+（１）振動による応力評価
+　ＦＣＶを絞った場合、ＰＬＲポンプの吐出圧力脈動（約１２４Ｈｚ）※１の１／４波長とＰＬＲポンプ羽根から閉状態のＦＣＶボール部までの距離がほぼ一致することから、共振が生じる可能性がある。
+　※１：ＰＬＲポンプの羽根車は、５枚であり、回転速度１４８５ｒｐｍで一定運転を行っている。したがって、系統には、羽根車の水切り時に発生する圧力脈動が約１２４Ｈｚで生じている。
+　これらの振動により、スラストリングがボールシャフトとの間隙内で振動・衝突することが考えられ、その時スラストリングに発生する最大応力を算出すると約２０５ＭＰａであった。この応力は、スラストリングの許容引張応力の１／４程度であり、直接割れに至るものではない。但し、事象発生前に微小な欠陥が生じていた場合、スラストリングに発生する最大応力により欠陥先端から疲労き裂が進展し脆性破壊に至る可能性が考えられる。
+（２）欠陥の原因
+　スラストリングの材料的な特徴（ステライト）から、（ステライト金属組成中の共晶炭化物※２が原子炉水中の溶存酸素により腐食し、さらに、スラストリングの振動・衝突により、スラストリングの腐食した金属組織の脱落が進行することによって、微小な欠陥が生じる可能性がある。
+　※２：１つの液体から２種の固体（成分金属）が、ある一定の割合で同時に晶出してできた混合物を共晶といい、共晶でできた炭化物を共晶炭化物という。
+４．ＦＣＶ（Ｂ）の点検
+　平成１３年１２月の事象において、ＦＣＶ（Ｂ）もＦＣＶ（Ａ）と同様、低開度（弁開度約１０％）でポンプの高速運転を約１１日間継続しており、ＦＣＶ（Ｂ）の不具合発生を否定出来ないことから、念のため、開放点検を行った。
+（１）ＦＣＶ（Ｂ）分解点検結果
+ａ）スラストリング：弁分解後、スラストリングの液体浸透探傷検査の結果、５箇所の傷が確認された。
+ｂ）ボールシャフト：ボールシャフトには、スラストリングとの接触部においてスラストリングとの摺動に起因するものと推定される軸方向及び周方向の摩耗が確認された。その他の部位には異常（弁体の傷、弁グランド部の摩耗等）は認められなかった。
+ｃ）下部ベアリング（ボルト類含む）：下部ベアリングを点検した結果、割れ、摩耗等の異常は認められなかった。また、浸透探傷検査の結果も異常なかった。
+ｄ）下部ブッシング、ボトムフランジ：下部ブッシング及びボトムフランジを点検した結果、割れ、摩耗等の異常は認められなかった。また、浸透探傷検査の結果も異常なかった。
+ｅ）弁箱：弁箱内面を点検した結果、異常は認められなかった。
+ｆ）上部ブッシング等：弁ボンネット部を分解点検した結果、上部ブッシング、パッキンケースに摩耗等の異常は認められなかった。
+
+　ＦＣＶ（Ｂ）の点検結果より、ＦＣＶ（Ｂ）のスラストリングの傷、ボールシャフトの周方向及び径方向の摩耗が確認され、ＦＣＶ（Ｂ）もＦＣＶ（Ａ）と同様の原因で不具合が発生しているものと推定された。
+５．欠損部等の探査
+（１）流出範囲
+　上部ブッシング止めピン及びスラストリ塔Oの一部がなくなっていたため、その破片の流出範囲を評価した。破片が「欠損部」（欠損したときの形状のままと推定されるもの）か「小片」（細かくなって流出したもの）であるか特定できないことから、「欠損部」と「小片」に分類して評価した。
+ａ）欠損部
+　欠損部はＦＣＶ（Ａ）から流出し、下流の原子炉再循環系（Ａ）系、原子炉底部若しくはボトムドレン配管、原子炉冷却材浄化系（以下、「ＣＵＷ系」という）配管に流出することが考えられる。
+ｂ）小片
+　小片は厚さが約５ｍｍ程度に薄くなるか、一片５ｍｍ程度のものであれば、原子炉底部から炉心燃料域に浮き上がる可能性があるため、炉心燃料域を通過することも想定する。したがって小片が流出する範囲は、原子炉再循環系（Ａ及びＢ系）、原子炉内、ボトムドレン配管、ＣＵＷ系、残留熱除去系と考えられる。
+（２）欠損部の探査
+　上記２項の流出範囲を踏まえて、欠損部が流出し流量を考慮した滞留する可能性のある範囲について、探査可能な範囲で探査した。
+［滞留可能範囲］　　　　　　　　　［探査箇所］
+ａ）原子炉底部　　　　　　　　　：周辺部を除くほぼ全域
+ｂ）原子炉再循環系Ａ系　　　　　：ＦＣＶ～出口弁～出口配管
+ｃ）ボトムドレン配管・ＣＵＷ配管：ドレンライン弁内部及び格納容器内オリフィス
+（３）探査結果
+ａ）原子炉底部：原子炉底部について水中カメラにより探査を行ったが、欠損部は確認されなかった。
+ｂ）原子炉再循環系Ａ系
+　原子炉再循環ポンプ出口配管及び弁について、ファイバスコープ若しくは超音波による探査を行ったが、欠損部は確認されなかった。
+ｃ）ボトムドレン配管・ＣＵＷ配管
+　ボトムドレン配管・ＣＵＷ配管のうち、欠損部が滞留する可能性のある箇所について、放射線透過による探査を行った結果、ボトムドレン弁（Ｆ１０１）の弁箱底部に異物の影が確認された。このため、当該弁を開放し異物を回収し、成分分析等を行ったところ、その異物はステライトであり、スラストリングの一部であると推定された。
+　その他の箇所（格納容器内オリフィス等）については、異物は認められなかった。
+（４）影響評価
+　以上よりＦＣＶ（Ａ）の構成部品の欠損部については、以下の通りと評価される。
+ａ）周辺を除くほぼ全域の原子炉底部を探査したが欠損部がなかったこと、及び原子炉底部の周辺部は勾配が大きいことから、原子炉内に欠損部が存在する可能性は非常に小さい。
+ｂ）欠損部が滞留する可能性のある範囲には、欠損部の一部しか存在しなかったことから、他は小片となっている可能性が考えられる。
+ｃ）万一、欠損部及び小片が存在したとしても、滞留する可能性のある範囲内の機器に対して、安全上問題となる可能性はない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2158</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/10/07 09:58:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2778</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200209152230]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ＦＣＶ（Ａ）の復旧
+ａ）スラストリングとの接触部に面荒れ及びへこみが確認されたボールシャフトは、手入れ等により使用することは可能であるが、線量が高く被ばく低減の観点から、予備品に取替えた。
+ｂ）下部ブッシング、ベアリング及びスラストリングについては、ボールシャフトと合わせて予備品と交換を行った。
+ｃ）弁箱下部については、摺動痕の手入れを行い復旧した。
+（２）ＦＣＶ（Ｂ）の復旧
+ａ）ボールシャフトは、スラストリングとの摺動部において手入れ（機械加工）が必要であることから、手入れを行い復旧した。
+ｂ）スラストリングは、ボールシャフトの手入れ後寸法に合わせた新品と交換した。
+（３）運転手順書の改訂
+　連続的な再循環ポンプ高速／弁開度の絞り運転を回避するため、この状態における運転時間の目安を運転手順書に明記することとした。
+　今回の事象については、事象の発生、新事実の発生の都度、国へ報告するとともに、逐次トラブルか否かの判断を行なった。その結果、圧力バウンダリの不具合でなく、スラストリングは消耗品として取替え、ボールシャフトは修理可能であるが、被ばく低減を目的として取替えたとの位置付けで大臣通達に該当しないと判断された。
+　なお、欠損部については、欠損部確認時点から、安全上問題のないことを説明し了解された。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/10/07 09:58:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第１９回定期検査（平成１４年９月１６日～１０月２０日（予定））のための原子炉停止操作中、Ａ系再循環流量制御弁（以下、ＦＣＶ（Ａ）という）を最小開度指示まで閉操作したが、本来最小開度で点灯するべき表示灯が点灯しなかった。また、その後のＦＣＶ（Ａ）の開操作において動きが不十分となる（全開とならない）事象が確認された。
+　なお、原子炉停止後、ＦＣＶ（Ａ）の作動試験を数回実施したところ、弁は全開となった。
+　このため、ＦＣＶ（Ａ）を第１９回定期検査で分解点検することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-M012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上の点検調査結果より、ＦＣＶ（Ａ）が原子炉停止操作時に全開・全閉しなかった事象は以下の通りと推定される。
+（１）スラストリングの供用中、スラストリングの材料であるステライト金属組織中の共晶炭化物の腐食により、微小な欠陥が存在していた。
+（２）再循環ポンプランバックが作動してＦＣＶが１０％開度まで閉動作し、再循環ポンプ高速運転及び絞り運転に伴う振動による荷重が約１１日間継続した。
+（３）このため、スラストリングはボールシャフトとの間隙内で振動・衝突を繰り返し、ボールシャフトの接触面が摩耗した。
+（４）また、スラストリングには、ボールシャフトとの接触によりスラストリングに応力が加わり、スラストリングの微小な欠陥が深くなったことで、欠陥のき裂が進展し、割れが生じた。
+（５）スラストリングが割れた状態で、運転中の弁開閉動作（弁開閉操作及び開度指示振れによる追従動作）により、スラストリングの破断面同士が接触、摩耗した。また、ボールシャフトとの接触部では、割れたスラストリングがボールシャフトに強く摺動したため、ボールシャフトに面荒れ、へこみが生じた。
+（６）制御棒位置調整時若しくは停止操作時の弁操作により、スラストリングは外周部にずれ、弁箱下部とボールシャフトの間に挟まり、弁箱下部に摺動痕が発生するとともに、弁の拘束力が増加し、全開・全閉とならない状態となった。
+
+　また、ＦＣＶ（Ｂ）においても、ＦＣＶ（Ａ）と同様、再循環ポンプランバックの影響でスラストリングに傷、ボールシャフトに摩耗が発生した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ａ系再循環流量制御弁の動作不調について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 18:05:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[508]]></KIKI_CODE>
+			<TROUBLE_ID>2158</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ステム・スピンドル・駆動ロッド*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2158</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[508]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[油圧作動弁]]></KIKI_NAME>
+				<SORT_NO>15</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉冷却材再循環系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[104]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2158</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2158</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2158</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2158</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

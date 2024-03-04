@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13017</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/11/15 17:12:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>85736</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/09/12 13:47:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201908152330]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/11/15 17:12:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[〇事象
+伊方発電所第３号機は、通常運転中のところ、８月１５日２３時３０分頃、復水脱塩装置（※１）の配管のフランジ部（以下「フランジ部」という。）から２次系純水（※２）が漏えいしていることを運転員が確認した。このため、同日２３時５７分に漏えい箇所を隔離し、漏えいは停止した。
+現場調査を実施した結果、当該フランジ部のガスケットが損傷していることを確認したため、ガスケットの取り替えを実施後、通水状態で漏えいのないことを確認し、８月１６日１５時０８分、通常状態に復旧した。なお、漏えいした水（推定漏えい量約２０リットル）は建屋内にとどまっており、全量ふき取りを実施した。また、本事象によるプラントの運転への影響及び周辺環境への放射能の影響はなかった。
+
+※１ 復水脱塩装置
+　２次系冷却水に含まれるイオン状の不純物をイオン交換樹脂により取り除き、浄化する装置。復水脱塩装置は、イオン交換樹脂を充填した脱塩塔のほか、使用済みのイオン交換樹脂を再生する設備（アニオン再生塔等）により構成される。
+
+※２ ２次系純水
+　脱塩塔内のイオン交換樹脂を再生（イオン交換して吸着した不純物を薬品により除去し、交換前の状態に戻すこと）するための水で、水源は２次系純水タンクである。２次系純水は、再生用水ポンプにて昇圧して脱塩塔内のイオン交換樹脂の再生時および薬品注入後の洗浄時等に使用する。
+
+
+〇原因
+復水脱塩装置の据付（平成５年６月）以降、当該ガスケットの取り替えを行っていないことから、経年使用による劣化により、ガスケットシート面内周部にひび割れが生じた。その後、長期運転に伴う配管内の圧力変動の繰り返しにより割れが徐々に進展し、また、それに加えて、フランジ部の増し締めによりガスケットに局所的な引張力が作用して、シート面を横断する割れとなり、漏えいに至ったものと推定される。
+
+
+〇対策
+（１）当該ガスケットを新品に取り替えた。
+（２）ゴム製のフランジガスケットにおいて、フランジ部の増し締めを行った場合には、ガスケットの取り替えを計画することとし、その旨を作業要領書に反映する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　復水脱塩装置の配管フランジ部からの水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/09/12 13:47:11]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

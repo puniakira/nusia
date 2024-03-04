@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9773</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/05/22 19:11:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4211</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/05/20 10:12:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200805111936]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中のところ、５月１１日１９時３６分に発電機出力が１２０万６千キロワットから約１．５％（約１万８千キロワット）高めに瞬時変動した。直ちに関連パラメータ等を確認したところ、発電機出力の変動が起きる前に脱気器※１水位制御弁※２の自動制御信号が変動し、当該制御弁が閉まる方向に動作していた。この弁の動作により脱気器に流入する復水流量が減少したため、脱気器水位や発電機出力の変動が起きていることが分かった。
+　本事象は、当該制御弁の自動制御信号の変動が起因となっていることから、自動制御系（常用）の不調と判断し、「自動制御」から「手動制御」に切替えたところ、脱気器水位は安定した。その後、自動制御系（予備）に切替え、通常の制御状態（「自動制御」）に復帰した。当該自動制御系（常用）の調査の結果、脱気器タンク水位の電流信号を電圧信号に変換し出力する「電流／電圧変換器」の出力信号が変動していることが確認されたことにより、「電流／電圧変換器」の動作不調と考えられた。
+　対策として、電流／電圧変換器を予備品と取替え、出力信号に異常がないことを確認のうえ、自動制御系（常用）を復旧した。
+
+なお、本事象による周辺環境への放射能の影響はない。
+
+※１：脱気器
+蒸気によって復水を直接加熱し、復水中の溶存ガス（酸素等）を物理的に分離除去する装置。
+
+※２：脱気器水位制御弁
+脱気器タンクの水位を一定に制御するため、復水の流量を調整する弁。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[脱気器水位制御弁の自動制御不調による僅かな出力変動について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/22 19:11:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

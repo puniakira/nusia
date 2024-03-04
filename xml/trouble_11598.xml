@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11598</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/07/26 16:38:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2012/10/23 10:37:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201103120819]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/07/26 16:38:25]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成23年3月11日14時46分に発生した東北地方太平洋沖地震による原子炉自動停止後の平成23年3月12日8時19分に制御棒10-51の「制御棒位置指示プローブ(以下，「PIP」という。)異常」の警報が発生し，平成23年3月12日10時43分に一旦クリアしたものの，その後も発生・クリアを数回繰り返した。
+制御棒10-51の位置表示は，「全挿入」状態を示す表示と位置そのものを示す表示があり，PIP異常警報発生時の当該制御棒の状態は，「全挿入」の表示は消灯していたが，一方で位置そのものを示す表示は全挿入状態のを示す位置を表示しており，PIP異常の警報がクリアした際は，「全挿入」の状態表示は点灯していた。
+なお，PIP異常発生時においては，起動領域中性子モニタ(以下，「SRNM」という。)の指示に有意な変化はなく，原子炉未臨界は保たれていた。その後，PIP異常の警報は平成23年3月13日12時02分にクリアしたが，制御棒10-51が動作しないよう平成23年3月13日15 時18 分に隔離(バルブアウト)の処置を実施した。
+これ以降も，SRNM の指示値には有意な変化はなく原子炉の未臨界状態は維持されていた。
+3月12日8時19分に制御棒10-51のドリフト表示が点灯していることを確認した。
+また、その後類似事象が断続的に発生した。
+＜制御棒02-39＞
+　平成23年6月26日　3時45分「PIP異常」発生
+　平成23年6月26日　4時22分「PIP異常」クリア
+＜制御棒18-27＞
+　平成24年3月23日　0時53分「PIP異常」発生
+　平成24年3月23日　1時47分「PIP異常」クリア、その後再発
+＜制御棒22-39＞
+　平成24年8月4日　4時47分「PIP異常」発生
+　平成24年8月4日　5時28分「PIP異常」クリア、その後再発]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S050]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒位置指示装置表示不良について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/10/23 13:53:09]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

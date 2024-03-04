@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11253</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/04/08 09:53:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/03/03 18:40:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201102170114]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[＜事象発生状況＞　
+　平成２３年２月１７日午前１時１４分、調整運転中の浜岡４号機において、「Ｂチャンネル主蒸気管圧力低」「主蒸気隔離弁トリップ系(Ｂ)トリップ」」「ＲＰＳ（※１）（Ｂ２）テスト中・計装故障」の警報が点灯するとともに主蒸気隔離弁隔離論理のＢチャンネルが動作した。（※２）
+　
+＜調査結果＞
+中央制御室制御盤ランプ表示等
+◆4H11-P661-2　主蒸気管圧力(D)　
+　ランプ消灯(通常点灯)
+　高／低ランプ点灯(通常消灯)
+　指示ダウンスケール(通常65％)
+◆4H11-P611　　主蒸気管圧力低(4B21-FU3D)　ヒューズ切れなし
+◆4H11-P622　　主蒸気第1隔離弁AC用パイロット電磁弁　Wランプ消灯(通常点灯)
+◆4H11-P623　　主蒸気第2隔離弁DC用パイロット電磁弁　Wランプ消灯(通常点灯)
+◆4H11-P601-2　主蒸気隔離論理A2・B2　Wランプ点灯(通常消灯)
+◆4H23-P100B　 主蒸気管圧力(D)現場計装ラック　外観異常なし
+◆主蒸気管圧力(A)～(C)のランプ表示、指示値は異常なし
+
+＜対応＞
+　調査の結果、主蒸気管圧力(D)(4B21-PS615D)の警報設定器の単一故障と推定されたことから同設定器を取替え、機能・性能確認を実施し、異状のないことを確認した。
+
+※１：原子炉保護系
+※２：ＡチャンネルとＢチャンネルが作動すると、主蒸気隔離弁が「閉」となり、原子炉がスクラムする。また、今回Ｂチャンネルに属している主蒸気管圧力(B)と(D)のうち、(D)が作動した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[調整運転中における主蒸気隔離弁隔離論理のＢチャンネルの作動について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/04/08 09:53:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

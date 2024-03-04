@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9282</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/09/18 08:56:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3960</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/09/11 11:18:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200709051910]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の２号機において、発電機しゃ断器の社内検査を行っていたところ、平成19年９月５日午後７時10分頃、主タービンの異常を示す「ＥＨＣ重故障」の警報が発生したことにより、「Ａ系（Ｂ系）原子炉自動スクラム」の警報が発生した。
+　その後、原子炉は停止中であり異常のないこと、および「ＥＨＣ重故障」警報の原因が当該社内検査で発生したものであることを確認したことから、同日午後10時30分頃「ＥＨＣ重故障」の警報を、また、同日午後10時33分頃「Ａ系（Ｂ系）原子炉自動スクラム」の警報を手動解除した。
+　本事象は、警報のみ発生したもので、原子炉は停止中で制御棒は全て挿入状態であり、安全上の問題はなかった。
+
+　調査の結果、本事象が発生した原因については以下のとおり。
+・本来、検査用に設置した装置において、プラントの出力が出ていない状態を模擬して検査を実施すべきところ、要領書ではプラントが定格出力の状態を模擬するような記載となっていた。
+・プラントが定格出力の状態であることを模擬して検査したことにより、しゃ断器動作に伴いタービンの回転数が変動したことを示す信号が出たため、「ＥＨＣ重故障」、さらに「Ａ系（Ｂ系）原子炉自動スクラム」の警報発生にいたった。
+・前回の定期検査時に、当該検査の要領書において、プラントが定格出力の状態を模擬するような記載になっているのに気づき、内容を改訂することとしていたが、今回の要領書作成時に反映しなかった。
+
+　対策として、当該社内検査を行う際は、プラントの出力が出ていない状態を模擬して検査を実施するよう要領書を変更した。また、要領書の変更を確実に実行することについて、マニュアルに明記することとする。
+　なお、変更した要領書により検査を行い、警報が発生しないことを確認した。
+　
+　これによる外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S056]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[誤警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/09/18 08:57:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

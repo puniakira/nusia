@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>7933</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/10/14 11:52:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3342</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/10/14 10:41:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200510121210]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所において、平成１７年１０月１２日１２時１０分頃、協力会社社員から、取水口橋形クレーン上部にあるトロリー（クレーンの桁上を移動する台車）付近から煙が出ているとの連絡があった。その後、当社社員と協力会社作業員が現場に急行して発煙を確認し、協力会社作業員が水をかけたところ、１２時２０分頃に発煙は止まった。本件において、けが人等は発生はない。なお、発煙場所については、原子炉建屋から距離が離れているため（約５００ｍ）、プラントの安全への影響はない。また、周辺環境への放射能の影響もない。
+　調査の結果は、以下のとおりであった。
+・当該クレーン設備については、１０月１２日の午前中（９時１０分～１１時５０分）、落下防止用の安全帯（ベルト）取り付け用の支柱を設置するために、シートで養生しながら、溶接作業を行っていた。養生シートは、作業エリアが狭いため、若干、しわがよった状態で敷設していた。
+・溶接作業後、溶接くずを冷却させた後に養生シートでつつみ、ビニール製の工具袋の横に仮置きした。
+・発煙（発火）した箇所は、クレーン上部にあるトロリーの点検歩廊上に仮置きした養生シート（火炎防護シート）と、その横にあったビニール製の工具袋であった。
+・協力会社作業員からの聞き取りにより、発見当時、破裂音が発生していたことを確認した。
+・原因は、溶接作業に伴い、養生シートに生じていたしわの間に入り込んでいた溶接くずが、十分冷却されない状態で折り込まれ、溶接くずの残留熱が、横においていたビニール製の工具袋に伝わり発火したものと推定された。また、工具袋発火に伴い、中に入れていた塗装はがし用のスプレー缶が熱により破裂・燃焼したものと推定された。
+　今後、作業を中断、終了して現場を離れる場合は、養生シートに付着した溶接くずを火受皿または金属缶に回収することとし、作業要領書に注意事項として記載する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-関西-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[取水口橋形クレーントロリー部からの発煙について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/10/14 11:52:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

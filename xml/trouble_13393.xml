@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13393</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/03/11 13:13:03]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2021/11/17 14:08:40]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20211009]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/03/11 13:13:03]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・ ２０２１年１０月９日、女川原子力発電所２号機の海水ポンプ室で実施していた耐震裕度向上工事において、コンクリート削孔作業中に、電線管を貫通し、敷設されていた原子炉補機冷却海水ポンプ（Ｃ）の動力ケーブル（以下、「当該ケーブル」という。）の被覆の一部を損傷させる事象が発生しました。
+
+・ なお、原子炉補機冷却海水ポンプ（Ｃ）は、耐震裕度向上工事のため停止していました。
+
+・ １１月２日、詳細点検を実施した結果、当該ケーブルの健全性に問題がないことを確認しており、ポンプ停止期間中に、被覆が損傷した範囲の当該ケーブルを交換することにしました。
+
+・ ２０２２年２月２日までに、当該ケーブルの被覆が損傷した範囲を新品のケーブルに交換しました。また、原子炉補機冷却海水ポンプ（Ｃ）の機能確認運転を行い、ケーブルの性能に問題がないことを確認しました。
+
+・ 本事象は、削孔作業中のドリルが埋設物に接触して停止した際に、作業員は埋設物の状態を確認したものの、電線管ではないと誤認し、削孔を継続したため発生したものです。埋設物に干渉した場合の削孔継続の判断方法が不明確だったことが原因と推定しています。
+
+・ 今後、埋設物に干渉した場合の削孔継続の判断方法を明確化するとともに、当社社員が確認した上で削孔継続を判断することとしました。
+
+ ]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東北-S030]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所２号機　原子炉補機冷却海水ポンプ（Ｃ）の動力ケーブル被覆の一部損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/11/17 14:11:34]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13656</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/06/15 14:08:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2023/06/15 14:04:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202305170220]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（２０２３年　６月　９日公開）
+　２０２３年　５月１８日（木）に前日　５月１７日（水）の気象観測データの記録を確認していたところ，６秒周期で収集された気温，湿度の６秒値データのうち１個が異常な値（気温：－２０℃，湿度：０．１％）であることを確認した。
+　このことにより泊発電所から北海道原子力環境センター（以下，「環境センター」という。）へテレメータ伝送している当該６秒値を使用して計算した　２時２０分の１０分値データ（注）について前後のデータと比較した結果，若干低くなっていることを確認した。
+　このため，　５月１７日（水）　２時２０分の気温，湿度データを不信頼データとした。
+
+　今回の事象は，６秒値１個のみで異常が発生したものであり，発生当日に実施した点検で装置は健全であったことから，偶発的事象と推定した。
+
+（注）１０分値データ
+　１０分の間に６秒周期で収集した１００個の値を演算処理（平均）した値である。
+
+（参考）発電所からのデータ伝送について
+　泊発電所では，モニタリングステーションやモニタリングポストでの環境放射線や気象観測所での気温，湿度などの１０分値データをリアルタイムで環境センターに伝送している。
+　さらに，これらのデータは，環境センターから岩宇４町村などへ伝送され公開されているほか，北海道および当社のホームページでも公開している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-北海道-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所気象観測設備不信頼データの伝送]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/06/15 14:08:11]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

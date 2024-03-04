@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査
+（１）動作履歴と動作時の状況調査
+　Ｄ弁は東北地方太平洋沖地震に伴う原子炉停止直後から原子炉冷温停止に移行するまでの間に自動および手動操作により３８回動作しているが、弁動作（状態表示）に異常はなかったとの運転員証言を得ている。また、Ｄ弁の排気管温度を確認したところ、３７回目の動作時に温度降下が緩慢になっていることを確認したことから、この時点からロワーリングが正規の位置からずれ、弁体に接触し、シート面からの漏えいが継続する状態となったと推定される。なお、漏れ量評価の結果は許容値内であると評価した。
+（２）セットピン折損部の調査
+　折損部の破面観察の結果、段階的なき裂進展を示すビーチマーク模様を確認するとともに、ＳＥＭ観察の結果、疲労破面に特徴的なストライエーション状模様を確認した。
+　なお、本破面観察の状況から、き裂発生時の曲げ応力値は約320ＭPaであり、き裂が進展した繰返し回数は、約42,000回であると評価された。
+（３）セットピン折損に至った原因調査
+　１）製造不良調査
+　セットピン製造時の記録を確認し、異常は確認されなかった。
+　２）組立不良調査
+　セットピンとロワーリングに大きな隙間がある場合、主蒸気逃し安全弁の作動による振動と蒸気流により、セットピンに応力がかかり折損する可能性があるが、同隙間は製造段階で０～０．１ｍｍになるよう調整されているにもかかわらず、今回、類似のＮ弁のセットピンを用いてＤ弁の隙間を測定したところ、同隙間は１．１ｍｍから１．２ｍｍであることが確認された。
+　また、Ｋ弁およびＮ弁の同隙間を測定した結果、Ｋ弁は０.７ｍｍから０．８ｍｍＮ弁は１.１ｍｍから１.２ｍｍ、と大きいことを確認した。既に隙間測定を実施した以外の弁については今後セットピンの交換にあわせ隙間の状況を確認する。
+　なお、セットピンとワッシャーは、分解時に他の弁のものと混在しないよう管理していることから、組合せを取り違えることはない。
+　３）経年劣化調査
+　ＳＥＭによる破面観察や目視点検結果、折損の要因となるような腐食は確認されなかった。
+　４）作動緩み組立不良
+　分解時にワイヤーロックの断線は確認されていないことからセットピンに緩みはなかった。また、目視点検、寸法測定結果からへこみは確認されなかった。
+（４）セットピンの交換履歴の調査
+　セットピンとロワーリングに大きな隙間が確認されたが、通常は弁製造時に工場で適切に調整されることから、セットピンの現場での交換履歴を調査した。その結果、１９７８年（運開前）に、ピン折損事象の水平展開として、セットピンを対策品へ交換していることが判明した。対策は発電所内で実施されたが、弁を分解せずにセットピンの交換が行われており、この際の隙間測定記録は確認できなかった。
+（５）排気管の外観点検
+　折損したセットピンの移動による排気管への影響を確認するため、排気管の内外面について外観点検を実施した。その結果、セットピン衝突による変形は確認されなかった。
+
+２．セットピン折損メカニズム
+　ロワーリングとセットピンの隙間が管理値と比較し大きかったため、弁作動時のロワーリングの振動及び蒸気噴流によりセットピンに過大な曲げ応力が発生した。セットピンのネジ谷部（形状変化部）で応力集中により初期き裂が発生し、その後の弁作動による繰返し荷重でき裂が進展し折損に至ったものと推定される。
+　なお、隙間が大きいと発生応力が大きくなるという知見は、セットピンを対策品へ形状変更した際に試験を実施しており、この結果は、今回Ｄ弁で確認された隙間と破面から評価した応力値と同様の傾向を示している他、ＳＥＭ観察結果から得られた、き裂が進展した繰返し回数（約42,000回）は、設計・建設規格から規定される当該セットピンの材料の許容繰り返し応力回数（約20,000回）を超えていることを確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[103]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11570</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/03/07 14:51:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>32059</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2012/09/10 13:13:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110926]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．対策
+・折損したセットピンについては、交換を行なう。
+・新しいセットピンとロワーリング間の隙間について、管理値を定め調整する。
+・残りの１７弁についても、セットピンについて交換を行なうとともにセットピンとロワーリング間の隙間について、管理値内に調整する。なお、主蒸気逃し安全弁は定期検査毎に予備品との入替え（ローテーション）を行なっているが、第２５回定期検査で現場へ設置した全弁については、１９９８年に購入しており、その際製作メーカにて、隙間管理（調整）を行なったのち出荷しておりその後セットピンについて交換を行っていないことを確認したことから同事象の発生はないものと考えられる。
+
+２．再発防止策
+　セットピンの交換を行なう際に、管理値を定め調整することで、同隙間は適切な値に維持されることとなるが、今後の保守に万全を期すことから、分解点検時は同隙間の管理値を定め、作業要領書へ反映し隙間値を確認していくことにより、リングとセットピンの隙間を適切に管理し、弁作動時に過大な応力が発生しないようにしていくこととする。
+　なお、製作メーカでの管理値が現地での施工に反映されなかった件については、現在はＱＭＳにて修繕工事等の工事計画段階で過去不具合の反映要否確認等により設計や施工方法の確認を行ない、他プラントやメーカ等の知見について反映が行なわれることから、追加での対策は不要と考える。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/03/07 14:51:15]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は第２５回定期検査中のところ、平成２３年９月２６日、主蒸気逃し安全弁分解点検において、Ｄ弁（機器番号：Ｂ２２－Ｆ０１３Ｄ、以下、「Ｄ弁」という）の内部部品（ロワーリング※１セット用ピン。材質はＳＵＳ６３０。以下、「セットピン」という）が折損、脱落していることを発見した。その後、外観目視による調査の結果、セットピンにより位置決めされていたロワーリングが正規の位置からずれ、弁体に接触したと思われる痕跡があることを平成２３年９月２９日に確認した。また、脱落したセットピン先端部は圧力抑制室（サプレッションプール）内に設置してあるスパージャ（主蒸気逃し安全弁排気用の水中構造物）の鏡底部に留まっていることを確認し、平成２４年１月３１日に回収した。
+本事象による外部環境への影響はなかった。
+　なお、東北地方太平洋沖地震による原子炉自動停止および外部電源喪失のため、主蒸気逃し安全弁は自動および手動操作により動作していた。
+
+※１：弁体の開き始めの動作を促進するための部品。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-原電-M017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[セットピン折損原因
+　過去に現場でセットピン交換した際、弁を分解せずに交換作業を行ったため、セットピンとロワーリングとの隙間を実測できず、同隙間が１．１ｍｍ～１．２ｍｍと大きくなってしまった。この状態で主蒸気逃し安全弁の作動による振動と蒸気流により、セットピン破断までの許容繰り替えし応力を超える繰り返し応力が加わったことにより、折損したものと推定される。
+　なお、セットピン交換時に隙間が調整されなかった件に関しては、分解点検時における同隙間の管理値が定められていなかった（工場で調整されるもので現場での調整項目ではない）ことから、その後の分解点検で見つけることができなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主蒸気逃し安全弁（Ｄ）内部部品の脱落について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[セットピンの折損を確認した日]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>32276</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/09/10 13:14:12]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[506]]></KIKI_CODE>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[セットピン]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11570</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[506]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[逃がし安全弁]]></KIKI_NAME>
+				<SORT_NO>12</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[主蒸気系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[103]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[103]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11570</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

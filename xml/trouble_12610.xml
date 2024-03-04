@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【事象発生時の状況】
+（１）ロッカー室の使用状況
+　火災の発生したロッカー室は、平成28年5月頃まではロッカー室として使用していたが、平成28年6月より部屋を二分にし、会議室、書類倉庫として使用していた。当該ロッカー室は入口扉にテンキー式の鍵があるものの、施錠に関する明確なルールはなく、事象発生当時は施錠されていなかった。
+　火災当日の12時55分～14時10分には、第二保全部計測制御Ｇは当該ロッカー室で会議を行っているが、最終退出者が退室する際にロッカー室内の異常は確認されていなかった。会議終了後、入口扉は施錠しておらず、火災報知器が発報した15時24分までは入室可能な状況にあった。
+　火災発生前のロッカー室内の書類等 配置は、奥まったところに段積し、また多くの備品を倉庫エリア全体に渡って保管していたため容易に発煙があった箇所まで出入り出来ない状況にあった。
+　なお、火災発生時の気象状況（15時20分 柏崎アメダス値(湿度のみ高田)）は、雨（降水量1.0mm）、気温８℃、平均風速5.3m/s（西北西）、湿度89％であった。
+
+（２）焼損の状況
+　壁面のコンセント付近の焼損が最も激しく、その他焼損の状況は以下の通りであった。なお、タバコの吸い殻など火源となる物証は確認されなかった。
+・北東側の山積みされた段ボールやその周辺にあるテレビ等が焼損。
+・焼損した段ボールの奥には、コンセント付近の壁に立て掛けられた突っ張り棒や床面に置かれた電工ドラムと電工ドラム上に置かれた段ボールがあり、これらが焼損。
+・本火災による焼損面積は約２ｍ2。
+
+（３）焼損備品等の配置状態
+　コンセント付近の備品等の配置は、建屋柱と金属製の光配線盤ラックに囲まれた幅0.9ｍ×奥行0.5ｍのスペースに、塩化ビニル被覆スチールパイプの突っ張り棒がコンセントに接触または接近する形で、金属製の光配線盤ラックに立て掛けられ、その手前にコンセントに差し込まれていない電工ドラム、その上に段ボールが置かれ、さらにその周囲には書類の入った段ボールが高さ1.3 m程度まで積み上げられた状態で置かれていた。
+　当社社員の聞き取りでは、10ヵ月程度そのままの状態としており、コンセントの点検や掃除などは実施していなかった。
+
+【原因調査】
+●機器等の異常
+　６／７号機サービス建屋２階ロッカー室から発火した原因を特定するため、要因分析表に基づき調査した。要因分析にあたっては、書類等がコンセント近傍から焼損していることからコンセント中心に機器異常の有無等を調査した。
+
+（１）コンセント差込部の異常
+　コンセント差込部を目視にて外観点検した結果、焼損は激しいものの、コンセントにはプラグは差し込まれていなかった。また、放電痕、溶融などの異常はなかった。
+　なお、焼損したコンセントと同一壁面に設置されていたコンセント内を確認したところ、埃状の異物の混入が認められた。
+
+（２）コンセント内部の異常
+　当該製品の製造メーカである神保電器株式会社にてコンセントを分解し内部調査した結果、異常は認められなかった。
+
+（３）コンセント回路の異常
+　当該コンセントに接続された分電盤のブレーカーは動作していない。また、当該コンセントに接続された屋内配線の絶縁抵抗を調査した結果、500ＭΩ以上 あり、異常はなかった。
+　同一の屋内配線から分岐されたコンセント６箇所の外観を調査した結果、配線の緩み、放電痕、溶融などの異常はなかった。
+
+（４）油類、薬品の異常
+　焼損が最も激しいロッカー室奥のコンセント付近周辺には油類、薬品は確認されなかった。
+
+（５）人的行為による異常
+　第二保全部計測制御Ｇ会議参加者が退出した14時10分から火報発報時刻15時24分までの間に当該ロッカー室へ出入りした人物がいなかったか聞き取りした結果、人の出入りを見たものはいなかった。また、監視カメラの映像からもロッカー室に出入りする人物は確認されなかった。
+　なお、ロッカー室内の状況を勘案してもロッカー室入口から焼損コンセント付近までの距離は約10ｍあり、また歩行上には保管物が多く容易に人が近づける状況にないこと、ロッカー室入口側にある段ボール等には着火した痕跡はなく、タバコの吸い殻も発見されなかったことから、人的行為はなかったと考える。
+
+●再現調査
+　前項の調査から次の状況が確認されたことから、電力中央研究所にてコンセントからの着火現象の調査を実施した。
+・同一壁面に設置されていたコンセント内に埃等が堆積していた。
+・突っ張り棒（塩化ビニル被覆スチールパイプ）が焼損したコンセント前に立て掛けられていた。
+・焼損したコンセント周辺には段ボール等の可燃物が仮置きされていた。
+
+　再現調査では埃が炭化し導電路となること、コンセント端子と塩化ビニル被覆スチールパイプ間で短絡アークが発生し綿埃に着火の有無を調査した。調査の結果、埃を模擬した綿（試験体）は炭化し、コンセント端子と塩化ビニル被覆スチールパイプ間での短絡アークにより、綿に着火することが確認された。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12610</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[火災報知器発報]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2020/02/07 16:06:11]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[コンセント]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/02/28 14:31:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201702231524]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[【対策】
+　本事象に至った推定原因を踏まえ、事務本館、サービス建屋等のコンセントからの自然発火を防止するため、以下の対策を実施する。
+（１）コンセント周囲を確認し、可燃物がある場合には撤去した。
+（２）コンセント周辺に可燃物が置かないよう、次の事項を徹底した。
+　・防火責任者、火元責任者の役割を再徹底する。
+　・火元責任者等は定期的に管理エリアを巡視しコンセント周囲に可燃物がない状態を維持することを徹底する。
+（３）コンセントには閉止キャップを取付け、埃等の侵入を防止する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/02/07 16:06:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象の概要】
+　平成29年2月23日15時24分、６／７号機サービス建屋２階ロッカー室で火災報知器が発報したため、当直長は同時刻に119番通報した。ロッカー室の近くにいた当社社員は火災報知器警報の鳴動、ロッカー室入口扉隙間からの白煙が認められたため、ロッカー室の扉を開けたところ、内部は煙で充満していた。近くにいた協力企業２名は15時26分頃消火器２本で初期消火を行った。その後、駆け付けた当社社員３名および運転員初期消火班（以下、運転員）７名は屋内消火栓を使用し、ロッカー室入口扉付近から初期消火を行った。
+　火災報知器の発報を受け、出動した消防車隊初期消火班（以下、消防車隊）３名は15時31分頃運転員に合流し、ロッカー室入口付近から消火活動を継続した。15時40分頃には初期消火中の運転員１名と消防車隊３名がロッカー室内へ進入し、火源を詮索した結果、15時50分ロッカー室北東に山積されている書類の入った段ボール箱付近から発煙していることを確認した。
+　15時58分頃柏崎市消防署（以下、消防署）４名および当社消火班３名が火災現場に到着し、消火活動を行うとともに、16時２分頃柏崎市消防本部（以下、消防本部）６名が現地到着し、排煙しながら消火活動を行った。消火活動により16時10分鎮圧状況となった。その後、燃え残った書類等に放水しながら撤去し、16時42分消防署により鎮火が確認された。
+　なお、本事象により、当該ロッカー室以外の焼損はなく、外部への放射能の影響および負傷者はいなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東京-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【推定原因】
+　機器等の異常の有無の確認および再現調査の結果から、火災の原因はコンセントでトラッキング現象等を発生させる条件が複数重なることにより、当該コンセント付近から出火した可能性が考えられた。
+メカニズムは、以下のとおり。
+
+・コンセントプラグ溝、塩化ビニル被覆スチールパイプ表面、コンセントとパイプ間に埃などが電界効果によって徐々に堆積。
+・吸湿、結露などにより埃が湿潤状態となり、絶縁が低下。
+・リーク電流によりトラッキング現象が発生し、埃を介在し炭化導電路が形成・進展。
+・トラッキング現象時の発熱により、スチールパイプの塩化ビニル被覆が損傷し、内部のパイプが部分的に露出。
+・コンセント端子からスチールパイプを経由する短絡経路が形成。
+・コンセント端子と塩化ビニル被覆スチールパイプ間で短絡アークが発生。
+・綿埃に着火し、周囲の可燃物へ延焼。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６，７号機　サービス建屋ロッカー室（非管理区域）における火災の発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[火災報知器発報時刻]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6,7]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>76307</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/02/28 14:31:40]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[コンセント]]></S_KIKI_NAME>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コンセント]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12610</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[なし]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[偶発的なトラッキング現象]]></S_GENIN_NAME>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他偶発的要因]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[偶発的な燃料のピンホール、シートの当たりが変化したことによるシートパス等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12610</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

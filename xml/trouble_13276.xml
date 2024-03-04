@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13276</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/06/25 11:53:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>99646</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/05/19 09:06:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202105171010]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/06/25 11:53:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象概要】
+2021年5月17日午前8時50分頃、パトロールを行っていた協力企業作業員が固体廃棄物処理建屋1階入退域エリアの床面が濡れていること（約20リットル）を確認。
+その後、2階にある給気空調機室を調査したところ、床面に約200リットルの水が溜まっていることを確認。
+漏えいは、排水設備の一時的な不具合によるもので、空調の冷却器から発生した凝縮水が排水設備から漏えいしたものと推定される。
+また、現場確認を行い、漏えいが停止していることを確認。
+本事象による外部への放射能の影響はなし。
+漏えいした水については、拭き取りにより清掃を完了。
+
+【原因】
+排水設備の内部に設置されているフロート（浮き）が錆や不純物の影響により正常に動作しなかったため、排水設備本体に溜まった水が適切に排水されずに、排水設備の上部から床へ漏えいしたものと推定される。
+
+【対策】
+フロートが正常に動作しなくても、排水設備内に水が溜まり続けることがないように、以下の対策を実施する。
+①フロートが正常に動作しなくても、一定以上の水位に達すると排水ができるように、別の排水配管を追設
+②パトロール時に内部の水位状況をすぐに確認できるよう蓋を透明なものに交換
+③排水設備から水が溢れないように、排水設備の蓋と本体との間にゴムパッキンを設置
+それに伴い、排水設備内の気密性が高まるため、空気圧力を逃すための配管を追設]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東京-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[固体廃棄物処理建屋（非管理区域）における水の漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/05/19 09:06:30]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

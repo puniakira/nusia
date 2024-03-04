@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時の運転状況
+　天井クレーンの過負荷信号は、主巻電動機の電機子電流が定格電流の１１２％以上（５分間の平均値）を検出した場合に発信されることを踏まえ、以下の確認を行った。
+（１）トレースバックデータ（故障履歴）の確認
+　トレースバックデータを確認した結果、天井クレーンが停止する直前の主巻電動機の電機子電流は、定格電流の１１４．６％であった。また、その際の巻き上げ速度は、負荷に見合う定出力速度に対し、約１０％を超える値（高速側）であった。
+（２）運転操作の確認（操作者への聞き取り）
+　通常操作と異なる点として、次の証言を得た。
+　ア．巻き上げ開始から約５分経過後、操作者は疲労のため、一旦ノッチ（※１）をゼロ位置に戻し（巻き上げの中断）、再度、フルノッチ位置にした。
+　イ．通常であれば、巻き上げ開始時（吊り始め）はゆっくりとフルノッチ位置に至るよう操作を行うが、上記操作時は一気にフルノッチ位置とした。
+
+２．事象発生推定要因と考察
+　（１）制御系の誤出力
+　天井クレーンは、電動機を効率良く使用するため、フルノッチ位置では、負荷に応じて巻き上げ速度を変更する制御をしている（軽量物は高速、重量物は低速。以下「定出力制御」という）。このため、定出力制御状態において、負荷に見合った速度よりも高い速度基準信号が誤出力されることにより過負荷となる可能性がある。
+（２）検出器の誤出力
+　回転検出器（速度検出）もしくは電流検出器（負荷検出）の不良により、誤った信号を制御系へ出力することにより、負荷に見合った定出力制御が行うことができなくなることで、過負荷となる可能性がある。
+　ただし、トレースバックデータの目標速度とフィードバック信号（速度帰還信号）に差異はないことから、回転検出器の異常はない。
+（３）機械損失（※２）の変動
+　ア．巻き上げ開始後の加速中に機械損失が変動することにより、負荷が一時的に軽くなった状態を制御系が検出し、負荷に見合った速度よりも高速で制御が行われ、過負荷となる可能性がある。
+　イ．負荷に見合う速度に到達した後は、その速度を維持した運転となる。このとき、機械系の摩擦抵抗が増加すると過負荷となる可能性がある。しかしながら、このことはトレースバックデータに示されている巻き上げ速度が速くなる原因とはならないことから、目標速度到達後の機械損失の変動による可能性はない。
+（４）不適切なハンドル操作
+　急速にフルノッチ位置（定出力制御）へ移行させると、制御特性上、負荷を軽く検出してしまうことがあり、負荷に見合った速度よりも高速で制御が行われることにより過負荷となる可能性がある。
+
+３．事象発生推定メカニズムの検証と考察
+　「事象発生時の運転状況」と「事象発生推定要因」を踏まえた検証試験として、約１００トンの荷重にて、再現確認を実施した。
+　その結果、フィードバック信号（速度帰還信号）と速度基準信号に速度制御に影響を与えるようなノイズは認められなかった。このことから、制御系の誤出力による異常の可能性がないことを確認した。
+　しかしながら、「停止」→フルノッチによる「巻き上」を繰り返すと、巻き上げ開始後の加速時に、負荷が一時的に軽くなった状態を制御系が検出し、負荷に見合った速度よりも高速で制御が行われることを確認した。
+　なお、主巻電動機の電機子電流について、電流検出器からの値と仮設計器で採取した値に有意な差がないことから、電流検出器（負荷検出）異常の可能性はないことを確認した。
+
+　巻き上げ開始時に機械損失が変動する要因として、通常は巻き上げ開始時の始動トルクによる過渡的な変動が考えられる。今回は、巻き上げの中断に伴い、荷重が十分にかかっていた状態からの再巻き上げであったため、各機構部が十分になじんだ状態からの巻き上げとなり、始動時の負荷が一時的に軽い状態になったものと推定される。また、この負荷を制御系が検出したことで、実際の負荷に見合う速度よりも高速の巻き上げ速度を目標値に設定したため、過負荷に至ったと考えられる。
+
+※１　ノッチは１～５まであり、１～４ノッチ位置は、定トルク制御（ノッチ位置に応じた速度にて動作）を行い、５ノッチ（フルノッチ）位置では、定出力制御（吊り上げ物の重さに応じた速度にて動作）を行う。
+
+※２　軸受、摺動部などの機械摩擦による損失エネルギー
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+	<TROUBLE_ID>10325</TROUBLE_ID>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/07/07 11:52:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/05/06 20:01:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200904071525]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　本事象は，クレーンの制御特性上起こり得る,始動時の過渡的な負荷変動によるものであり，設備の異常によるものでないことを確認した。
+　しかしながら，本事象において，事象の確認と判断に時間を要したことから，この是正として，自動停止をした際の迅速な事象判断と処置方法をまとめた対応マニュアルを整備するとともに，比較的大きな過渡的な荷重変動に繋がり得る，巻き上げの中断や一気に定出力制御となる操作をしないよう注意喚起を行った。 
+　さらに，本設備が原子燃料を取り扱う設備であることを考慮し，当面の使用済燃料輸送容器吊り上げ時には電流監視を強化するとともに，運用に頼らない抜本的な対策として，過渡的な負荷変動も考慮した制御定数への見直しも含め，引き続き詳細に検討していくこととする。]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/07/07 11:52:44]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の５号機において、平成２１年４月７日、１号機の燃料プールに貯蔵されている使用済燃料を、輸送容器を用いて５号機の燃料プールへ移送する作業を実施していたところ、午後３時２５分、５号機原子炉建屋５階（放射線管理区域）付近で当該容器吊り上げ中の天井クレーンが停止した。
+　このため、現場制御盤を確認したところ、過負荷信号により天井クレーンが停止していることがわかった。
+　天井クレーンの吊り上げ能力は約１５０トンであり、吊り荷の重量は約１００トンであること、および吊り上げ用モータ等に異状がなかったことから、過負荷信号をリセットし午後４時４３分より吊り上げ操作を再開し、午後５時００分に所定の位置への移送を完了した。
+
+　本事象による放射能の影響はなかった。
+　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　本事象は以下により発生したものと推定した。
+　●天井クレーン始動時の過渡的な機械損失の変動により、一時的に軽くなった負荷を制御系が検出し、実際の負荷に見合った速度よりも高速で定出力制御をしたため過負荷に至った。
+　●今回通常よりも大きな変動が発生したのは、荷重をかけて十分に巻き上げた状態から再巻き上げをしたことによるものと考えられる。
+
+　なお、過負荷を検出し自動停止したものの、この様な操作は想定される操作であり、今回の機械損失の変動自体も設備として想定される範囲であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[使用済燃料輸送容器吊り上げ作業中の天井クレーンの動作不良について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/05/08 10:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10325</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10325</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10325</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[燃料設備]]></SETSUBI_NAME>
+		<SORT_NO>6</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12105</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/11/04 13:57:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>50613</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/09/18 16:43:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201409161345]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/04 13:57:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[1. 事象
+　2014年9月16日13時45分頃、協力会社社員が、発電所敷地内東側に保管している軽油ドラム缶（※1）周辺に油のにじみを発見した。直ちに連絡を受けた当社社員が現場を確認し、同日14時23分に消防署へ連絡した。
+　油の漏えいは、ドラム缶の周囲約1メートルの地面(アスファルト)がにじむ程度であり、敷地外への流出はなかった。
+
+2. 対応・措置
+　漏えいした油は、専用の吸着材で処理を実施した。また、当該ドラム缶に残っていた軽油については、予備のドラム缶に移し替えを実施した。
+
+3. 原因
+　ドラム缶内を空気で加圧し、発泡液で漏えい確認を実施したところ、ドラム缶底部の端部6か所から漏えいを確認した。また，底部の接地部全体に、腐食による減肉を確認した（あばた状に減肉）。
+　以上より、長期間の屋外保管により接地部から腐食が進展し、漏えいが発生したものと推定した。
+
+4. 再発防止対策
+　漏えいが認められた軽油ドラム缶以外にも、長期間屋外保管され危険物を内包するドラム缶（軽油ドラム缶　計30缶）があり、同様の事象（腐食進展により危険物が漏えい）が発生する可能性があるため、今回全数ドラム缶を新品に交換するとともに、以下の対策を実施する。
+　・ドラム缶接地面の腐食環境改善のため、ドラム缶の下にパレットを設置する。
+　・定期的に実施（1回／日）している保管状況の確認記録に「底部の腐食に特に留意すること」を追記する。
+　・1年毎に新品のドラム缶に取り替える。
+　なお、本対策に合わせて、ドラム缶の転倒防止（ドラム缶をパレットに固定）を行う。
+
+※1：災害対策用重機類の燃料として保管している軽油。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-中部-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所　災害対策用の軽油ドラム缶からの油の漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/09/18 16:44:22]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

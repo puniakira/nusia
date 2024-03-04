@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8780</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/05/29 16:12:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/04/16 17:04:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704121300]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/05/29 16:12:04]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２号機は定期検査中のところ、４月11日より圧力抑制室内のスプレイノズルの交換作業を行っていたが、４月12日午後１時頃、スプレイノズル先端部の部品１個（直径約２cm×長さ約１cm）が欠落していることを確認した。
+　また、本作業において、別のスプレイノズルを取り外したところ、取り付け部からナイロン製のたわし（大きさ約10cm×約５cm・厚さ約５mm）を発見し、回収した。
+
+　調査の結果、以下のことがわかった。
+・当該スプレイノズルを含め他のスプレイノズルについても、先端部の部品の締め付け状態を確認したところ、締め付け力にばらつきが確認されたことから、当該部品の取り付け時に締め付け力が不足していた可能性があること。
+・ナイロン製のたわしは、弁やポンプ等の分解点検時に金属面の付着物を除去する際などに使用されるもので、スプレイノズルの上流にある残留熱除去系の弁およびポンプ等の分解点検時に混入（混入時期については不明）したと考えられること。
+
+　スプレイノズル先端部の部品欠落の対策として、当該号機は今定期検査において、先端部の部品がない形状のものに取り替える。
+　また、先端部の部品があるスプレイノズルを使用している号機については、計画的に締め付けを実施する。
+　弁およびポンプ等への異物混入防止対策として、分解点検後に行う内部確認を今後も引き続き実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[圧力抑制室内における部品の欠落および異物の確認について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/18 09:42:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

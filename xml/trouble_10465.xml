@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10465</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/07/24 08:44:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/07/22 13:41:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090722]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[女川原子力発電所１号機（沸騰水型、定格電気出力５２万４千ｋＷ：宮城県牡鹿郡女川町、石巻市）は、平成２１年７月１５日に、高圧注水系が動作可能であることが確認できなかったことから、保安規定第３９条に定める運転上の制限を満足しないと判断し、その後、原因を取り除き、同日運転上の制限内に復帰している。
+（平成２１年７月１６日、１７日お知らせ済み）
+７月２２日、経済産業省原子力安全・保安院より、本件が女川原子力発電所原子炉施設保安規定第３９条（非常用炉心冷却系その１）に違反していると判断され、指示文書を受領した。
+これは、女川原子力発電所原子炉施設保安規定第３９条（非常用炉心冷却系その１）に、原子炉の状態が運転、起動および高温停止において（原子炉圧力が１．０４ＭＰａ以上）、非常用炉心冷却系のうち、高圧注水系の１系統が動作可能であることを運転上の制限とする旨規定されているが、原子炉圧力が１．０４ＭＰａ以上となった６月２２日から「原子炉水位高信号」を解除した７月１５日までの間、高圧注水系のポンプの駆動用タービンに蒸気を供給するラインの弁が「原子炉水位異常低下」信号では開動作するものの、「格納容器圧力高」信号では開動作しない状態にあり、高圧注水系の１系統が動作可能であることを満足していなかったと判断されたものである。
+当社としては、この指示に基づき、当該違反について根本原因の究明および再発防止対策の策定を行い、同９月２４日までに原子力安全・保安院に報告するとともに、再発防止対策を確実に実施していく。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東北-S029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高圧注水系における保安規定違反に係る指示文書の受領について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/07/24 08:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

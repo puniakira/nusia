@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+　漏えい原因について、A蓄圧タンク窒素供給系統配管からの漏えいに係る要因分析ＦＴ図に基づき次の調査を実施した。
+（１）漏えい箇所のＦＣＲ＊４結果
+　漏えいが認められた溶接部について、ＦＣＲを実施した結果、一部に溶け込み不足と思われる影が認められた。また、その影から漏えい箇所表面に向かっての影も認められたものの明確な漏えい経路等は確認できなかった。
+
+＊４：放射線透過試験（ＦＣＲ：Ｆuji Ｃomputed Ｒadiography）
+検査対象物を透過する放射線の強度分布を画像化することにより、検査対象物の内部構造等を検査する手法である。
+
+（２）外観観察結果
+　配管識別のため管外表面を塗装しているが、外観観察の結果、漏えい箇所の塗膜がなくなっていることを確認した。しかし、当該漏えい部に腐食はなく、また、アンダカット＊５等の異常は認められなかった。
+また、塗膜を剥離後に外観観察を実施した結果、溶接ビード状況からエルボと配管の溶接部は、180°方向から下流側からみて時計回りおよび反時計回りに溶接されており、漏えい部は、溶接終端部同士が重なった部位で外表面の手入れ跡が認められた。
+
+＊５：アンダカット
+溶接の止端部に沿って母材が掘られて、溶接金属が満たされないで溝となって残ったもの
+
+（３）浸透探傷検査結果
+　漏えいが認められた溶接部全周について、浸透探傷検査（以下「ＰＴ」という）を実施した結果、漏えい箇所部に２箇所の円形状の指示模様（φ約0.5mm、φ約0.3mm）が認められた。
+
+（４）溶接部の寸法測定結果
+　漏えいが認められた溶接部の脚長寸法測定結果からのど厚を評価した結果（4.9mm～5.6mm）、溶接規格（JSME S NB1-2001）の必要のど厚（≧2.9mm）を満足していた。
+
+（５）断面ミクロ組織観察結果
+　漏えい部を切り出し、研削しながら断面ミクロ観察を実施した結果、ＰＴで認められた円形状の浸透指示模様である開口部は、ソケット溶接部の差し込み部の隙間とつながっており、漏えい経路が形成されていることを確認した。
+　なお、貫通部近傍には空洞が見られ、貫通部近傍の残存厚さは、約0.02mmであった。
+　この空洞は、その両側のデンドライト＊６の方向が異なることから、割れではなく融合不良と考えられる。
+
+＊６：デンドライト
+金属融液を凝固させた際に典型的に観察される組織で、「樹枝状結晶」などとも呼ばれる。
+なお、方向が異なるとは同一組織が後で割れたものではなく、別々の凝固組織であることを示している。
+
+（６）施工記録の確認結果
+　当該部はプラント建設時に施工されたものであり、ミルシートを確認した結果、材料（配管：SUS27TP（SUS304相当）、エルボ：ASTM  A  182－F304（SUS304相当））は規格値を満足した材料を使用していた。また、溶接部については、ＰＴおよび耐圧検査を実施し、健全性を確認していた。
+当該部の補修履歴を確認した結果、プラント建設時の施工以降の補修実績はなかった。
+　配管、エルボ、溶接金属部の元素分析を実施した結果、いずれの箇所もSUS304相当の成分であった。
+
+（７）硬さ測定結果
+　配管、エルボ、溶接金属部について、硬さ測定を実施した結果、いずれの箇所も硬さはHv160前後であり、通常のSUS304の硬さ（約Hv150～200）と比較してほぼ同程度であった。
+
+（８）運転履歴確認結果
+　前サイクルの各蓄圧タンク圧力・水位、格納容器内温度など関連パラメータを確認した結果、異常な変化は認められなかったことから、前サイクル以前に漏えいは発生していないものと考えられる。
+
+（９）配管移動量に基づく応力評価
+　調査のために当該漏えい箇所を切断した際、最大約3mm程度の配管移動量が認められたことから、漏えい箇所に発生する応力を評価した。その結果、発生応力は約167MPaであり、配管材料の引張り強さ約588MPaを超えるものではなかったことから、配管拘束に伴い発生する応力が漏えいに影響していないものと考えられる。
+
+（10）使用環境の評価
+　当該部は、機械振動・流体振動を受ける部位ではなく、配管の拘束力により発生する応力も十分低く振動等による機械的損傷が発生する部位ではない。更に通常運転中における雰囲気温度は50℃以下であり、内包する気体は非常に安定した窒素であることから、腐食等による損傷が発生する環境でもない。
+
+　以上の調査結果から、プラント建設時の溶接施工時に発生した融合不良が原因となり、漏えいに至った可能性が考えられる。
+
+２．貫通の可能性評価
+融合不良のため開口部近傍の残存厚さは約0.02mmであったこと、前サイクルにおいて漏えいが認められなかったことから、これまでの定期検査毎の減圧・加圧による圧力変動（4.4MPa、26回）の繰り返しにより貫通する可能性について、ＦＥＭ解析により評価した結果、約0.007mmの残存厚さであれば貫通するとの評価結果が得られた。
+このことから、今回の開口前の残存厚さは、同程度のものであったと考えられる。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[206]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8928</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/09/04 19:46:03]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3843</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/12 09:04:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070608]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該配管溶接部については、突合せ溶接に変更して新品の配管とエルボに取替えを行い、非破壊検査（PT)および耐圧検査等の溶接事業者検査を実施した。
+
+（２）Ａ～Ｃ蓄圧タンク窒素供給系統配管の類似箇所溶接部（蓄圧タンクから第１弁までの間）について、ＰＴを実施し有意な浸透指示模様がないことを確認するとともに、供用期間中検査により漏えいのないことを確認した。
+　なお、原子炉起動前の最終加圧時においても、Ａ～Ｃ蓄圧タンク窒素供給系統配管の類似箇所溶接部の漏えい確認を実施し異常のないことを確認した。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/09/04 19:46:03]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２２回定期検査中のところ、蓄圧タンク＊１（原子炉格納容器EL.24ｍ、全３台）の供用期間中検査＊２として、６月８日１４時２０分からＡ、Ｂ蓄圧タンク本体および周辺の窒素供給系統配管等について漏えい確認＊３を行っていたところ、１５時２０分頃、Ａ蓄圧タンクの窒素供給系統配管（口径：1B）溶接部のソープチェックにおいて、エルボ溶接部１箇所に泡が除々に大きくなる程度の僅かな窒素漏れを確認した。
+　漏えいの程度は、窒素供給系統からの補給で十分に蓄圧タンクの圧力を保持できるものであった。（約３．５時間（検査時圧力：約4.6MPa（規定圧力：4.55MPa以上）に到達後の１２時３０分～１６時００分）に約0.005MPa低下）
+なお、同日から１０日にかけて、原子炉格納容器内にあるＡ～Ｃ蓄圧タンクへの各窒素供給系統配管等について点検を行い、当該部以外に漏えいがないことを確認した。
+事象発生時のプラント状態は保安規定上の運転モード外であり、蓄圧タンクの機能が要求されるモード（モード３以上）ではなかった。また、モニタ指示値に有意な変化はなく、本事象による環境への影響はなかった。なお、当該機器が設置されている原子炉格納容器内は、格納容器送排気ファンを運転しており、漏えいした窒素が原子炉格納容器内に充満することはなかった。
+
+＊１：蓄圧タンク
+原子炉冷却材喪失事故など、１次冷却材系統の圧力が所定値以下に低下した際に系統に注入するためのほう酸水を蓄えているタンクで、美浜3号機には3台設置されている。タンク気相部は、窒素で加圧（約4.4MPa～4.5MPa）されている。
+＊２：供用期間中検査
+原子炉の安全確保上、重要な設備（圧力容器、弁、ポンプ、配管等）の健全性を確認するため、法令に基づき定期的に実施される検査。当該タンクについては、１０年に１回検査を行っている。
+＊３：漏えい確認
+窒素供給系統配管については、配管内部を窒素加圧し、外表面に発泡液を塗布して漏えいの有無を確認
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果から、プラント建設時の窒素供給配管の溶接の際の溶接終端部同士の重なり部において、重なり部の処理が十分でなかったため融合不良が発生し、更に、表面の手入れにより融合不良部の残存厚さが非常に小さくなり、その後の定期検査毎の減圧・加圧による圧力変動により、融合不良部の先端部で開口が発生し漏えいに至ったものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ａ蓄圧タンク窒素供給系統からの僅かな窒素漏れについて]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 09:14:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>8928</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8928</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[蓄圧注入系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[206]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[206]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8928</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8928</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8928</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8928</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

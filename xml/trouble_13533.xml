@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（２０２３年　４月２４日公開）
+　原因調査は次の項目について実施した。
+・品質管理
+・知識・意識
+・手順・ルール
+・コミュニケーション
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SL_HANTEIKEKKA_TXT><![CDATA[（２０２２年　９月　９日公開）
+　２０２２年　８月１７日の原子力規制委員会において，令和４年度（第１四半期）原子力規制検査結果が原子力規制庁より報告され，その後，原子力規制委員会より，令和４年度（第１四半期）原子力規制検査結果が事業者に通知された。
+　その結果，以下の内容が「安全重要度評価：緑／深刻度レベル評価：ＳＬⅣ（通知なし）」と判断された。
+
+【指摘事項】
+・当社は，他社の原子力規制検査結果の報告において，火災感知器の不適切な設置に関する指摘があったことから，原子炉施設等に設置している火災感知器の位置について，２０２１年１０月から１２月に自主的に総点検を実施した。
+・その結果，１号機，２号機，３号機および放射性廃棄物処理建屋の安全上重要な機器が設置されているエリアにおいて，設置条件を満足していない火災感知器を９箇所確認した。
+・なお，これら９箇所の火災感知器はいずれも発電所建設時に設置したものである。
+・この設置条件は従前から明らかであり，火災感知器の取付検査等において予防する措置を講じることが可能であったことからパフォーマンス劣化，当該エリアで火災が発生した場合，早期に火災を感知できない可能性があったことから検査指摘事項に該当し，「安全重要度評価：緑／深刻度レベル評価：ＳＬⅣ（通知なし）」と判断された。]]></SL_HANTEIKEKKA_TXT>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[自動火災報知器設備]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13533</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<SL_HANTEIKEKKA_CODE><![CDATA[4]]></SL_HANTEIKEKKA_CODE>
+	<SL_HANTEIKEKKA_CODE_NAME><![CDATA[SLⅣ]]></SL_HANTEIKEKKA_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[原子力規制検査]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2023/04/26 10:41:47]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[火災感知設備]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2022/07/27 10:13:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20220722]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（２０２３年　４月２４日公開）
+　再発防止対策は次のとおりである。
+１．処置１
+　今後，実施する火災感知器関連工事について，次の事項を工事仕様書にて明確化し，受注者に要求する。
+＜原因①の処置＞
+・消防法施行規則，規制基準，許認可申請内容等の要求を満足することを確認するために必要な品質管理項目と品質管理程度を記載すること。
+＜原因②の処置＞
+・消防法施行規則に準じた施工を行うこと。
+・消防法施行規則の内容を理解し，遵守すべき要求事項を明確にして工事要領書にそれを満足するための施工，検査の要領を明確に記載すること。
+・施工前（工事要領書読み合わせ時や作業開始前）に工事関係者に対して工事要領書の記載内容や不適合事例の教育・周知を行うこと。
+・また，施工者に対して工事要領書どおりに施工することを周知徹底すること。
+＜原因③の処置＞
+・施工上，疑義がある場合は速やかに当社へ報告，現場確認，写真・図面等により工事関係者間で情報，認識を共有し，適切な対応を判断すること。
+　また，その結果は必要に応じて技術連絡書（ＥＣＳ），議事録，図面等でエビデンス（根拠）を残すこと。
+＜原因④の処置＞
+・現場管理者は工事要領書読み合わせ時に工事関係者に対して”工事上，疑義が生じた場合は速やかに工事関係者間でコミュニケーションを取り解決を図ること”を周知徹底すること。
+２．処置２
+＜原因②④の処置＞
+　泊発電所関係者に本事象の事例と処置１の内容について周知，教育を行う。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[1]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[あり]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/04/26 10:41:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（２０２２年　７月２２日公開）
+　２０２２年　７月２２日，原子力規制庁より，令和４年度第１四半期における泊発電所の原子力規制検査（注１）の状況として，原子力規制検査報告書（案）が公表された。
+　同報告書（案）にて示された「火災感知器の不適切な設置」の指摘に係る経緯および評価結果は以下のとおりである。
+　なお，同報告書（案）については，今後，事業者からの意見聴取プロセスを経て，後日開催される原子力規制委員会へ報告され，内容が確定となる。
+
+【経　緯】
+・当社は，他社の原子力規制検査結果の報告において，火災感知器の不適切な設置に関する指摘があったことから，原子炉施設等に設置している火災感知器の位置について，２０２１年１０月から１２月に自主的に総点検を実施した。
+・その結果，１号機，２号機，３号機および放射性廃棄物処理建屋の安全上重要な機器が設置されているエリアにおいて，設置条件（注２）を満足していない火災感知器を９箇所確認した。
+・こうした状況を受け，原子力規制庁により，当該エリアで火災が発生した場合，早期に火災を感知できない可能性があると指摘されたものである。
+・なお，これら９箇所の火災感知器はいずれも発電所建設時に設置したものである。
+
+【原子力規制検査報告書（案）における評価結果】
+・安全重要度評価　　：　緑（注３）
+・深刻度レベル評価　：　ＳＬⅣ　通知なし（注４）
+
+　今後，当該感知器については，設置条件を満足する適切な設置位置に移設する。
+　また，今回の事象に対する原因究明および対策については，引き続き，当社の改善措置活動の中で適切に対処していく。
+
+　注１）原子力規制検査
+　原子力規制庁の検査官が事業者の保安活動全般を対象に，必要とする情報や場所に常時自由にアクセスできる環境下で監視・監督するものである。
+　注２）設置条件
+　排気口等から一定程度離れた位置に設ける等その機能に及ぼさない条件下で使用できる設置位置とすることが消防法で定められている。
+　注３）安全重要度評価「緑」
+　「安全重要度」は，原子力施設の安全確保に対する劣化の程度により「赤」「黄」「白」「緑」の順に区分される。安全重要度「緑」は，安全確保の機能または性能への影響があるが，限定的かつ極めて小さなものであり，事業者の改善措置活動により改善が見込める水準であるものに適用される。
+　注４）深刻度レベル評価「ＳＬⅣ」（ＳＬ：Severity Level）
+　「深刻度レベル」は，検査指摘事項等の深刻度に応じて「ＳＬⅠ」「ＳＬⅡ」「ＳＬⅢ」「ＳＬⅣ」の順に区分される。深刻度「ＳＬⅣ」は，原子力安全上または核物質防護上の影響が限定的であるもの，またはそうした状況になり得たものに適用される。「通知なし」は，原子力規制庁による規制措置が不要であると判定されたものである。
+
+（２０２２年　９月　９日公開）
+　２０２２年　８月１７日の原子力規制委員会において，令和４年度（第１四半期）原子力規制検査結果が原子力規制庁より報告され，その後，原子力規制委員会より，令和４年度（第１四半期）原子力規制検査結果が事業者に通知された。
+
+（２０２３年　４月２４日公開）
+　当該感知器については，適切な設置位置に２０２２年１０月２８日に移設を完了し，１１月１８日に消防検査が実施され，１１月２４日に消防設備等検査済証を受領した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-北海道-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（２０２３年　４月２４日公開）
+　事象の原因は次のとおりである。
+＜原因①品質管理＞
+・工事要領書上，感知器据付位置の寸法計測を行うこととしておらず，当社の据付位置確認はチェックシートの記録確認のみであり，これらの品質管理項目，品質管理程度は法令要求を満足していることを確認するには不十分だった。
+＜原因②知識・意識＞
+・当社と受注者は消防法施行規則の要求内容の理解不足または遵守意識の低さにより，これを厳格に遵守することの必要性を認識しなかった。
+　また，それにより工事関係者に対する周知徹底を行わなかった。
+・建設業務の繁忙や火災感知設備の品質管理に対する意識の低さが相まって工事関係者内で品質管理が適切に行われなかった。
+＜原因③手順・ルール＞
+・工事要領書上，消防法施行規則どおり施工できない場合の対応方法が明確でなかった。
+＜原因④コミュニケーション＞
+・工事関係者間のコミュニケーションが不足しており，施工上の疑義がタイムリーに解決せず，施工者が独自の判断で施工し，寸法逸脱に至った。
+・現場管理者から施工者に対して工事要領書（消防法施行規則）遵守についての周知徹底が十分なされなかった。
+・工事関係者間のコミュニケーション不足により，消防法施行規則どおりに施工できない場合の対応方法や情報連絡方法を工事関係者間で共有していなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所火災感知器の不適切な設置（令和４年度第１四半期原子力規制検査結果）]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[定期検査中]]></S_UNTEN_MODE>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[原子炉建屋系統，原子炉補助建屋系統，放射性物質処置建屋系統]]></S_KEITO_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/07/27 10:15:13]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[火災感知設備]]></S_KIKI_NAME>
+			<TROUBLE_ID>13533</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[煙感知器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13533</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13533</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13533</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13533</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

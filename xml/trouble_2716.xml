@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2716</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/01/26 17:23:23]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/01/25 08:56:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200501051105]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１７年１月５日午前１１時０５分頃、運転中の３号機の補助建屋中地下１階（放射線管理区域内）において、停止中の濃縮装置循環ポンプ（Ｂ）（※１）に接続する弁の保温材から、わずかな水の漏えい（数秒に１滴程度）を発見した。
+漏えいの状況を確認したところ、漏えい量は約２リットルであった。当該弁の開操作（※２）により、漏えいは午後１２時０９分に止まった。
+保温材を外し点検した結果、当該弁の蓋と弁棒の隙間に漏えいした跡が確認された。
+漏れた水に含まれる放射能は約３６００ベクレルであり、国への報告基準（３７０万ベクレル）の約１０００分の１であった。
+外部への放射能の影響はなかった。
+
+その後、１月６日より当該弁の分解点検を実施したが、異常は認められなかった。原因は、弁の操作時に、流体中に含まれる微小な異物が一時的にシール部に入り込み、わずかな隙間ができたためと推定された。
+当該弁のシール部品の交換及び内部清掃を行い、漏えいのないことを確認して、１月１２日に復旧した。
+
+※１　発電所で発生する液体廃棄物を所内ボイラーの蒸気により蒸発濃縮処理を行う際に、液体廃棄物を装置（加熱器及び蒸発缶）内で循環させるポンプ。
+※２　当該弁は通常開状態にしていますが、点検のため閉止していた。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S035]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[補助建屋中地下１階における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/01/26 17:23:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

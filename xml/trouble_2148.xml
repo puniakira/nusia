@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場調査結果
+（１）水分析結果
+　警報検出器内の水分析の結果、タービン補機冷却水系に添加されている亜硝酸ソーダは検出されなかった。
+　また、放射能分析の結果、検出限界値未満であった。
+（２）漏えい箇所調査
+　現場確認の結果、漏えいは、バンド巻きを施した箇所以外には確認されなかった。このため、５月２１日、当該整流器盤を停止し、漏えいの認められたホースの交換を行った。
+　以上の現場調査結果より、漏えい箇所は、界磁整流器盤内整流器冷却ホースと考えられた。また、警報検出器の容量等により、漏えい量は約２．５Ｌと推定された。
+２．工場調査結果
+　現場調査結果より、界磁整流器盤内整流器冷却ホースからの漏えいが認められたため、当該ホースを工場に搬出し、点検を実施した。
+（１）漏えい部位点検調査結果
+　当該ホースを工場にて切断し、当該部を目視観察した結果、流れ方向に割れ（内面約８．５ｍｍ）及び白いスジ（外面約６ｍｍ）が確認された。また、水漏れ部の他に２箇所の貫通に至らない割れ（内面約６．５ｍｍ及び内面約９ｍｍ）が認められた。
+　なお、冷却水が霧状に漏えいしていた状況及び当該部内外面の目視観察の結果、最終的に漏えいに至った箇所の形状は、ピンホールに近い形状であったと考えられる。
+（２）漏えい部位詳細観察
+　漏えい部位の破面について、走査型電子顕微鏡（ＳＥＭ）により、観察した結果、以下のような組織が観察された。
+ａ．ホース内面から最大１．２ｍｍの深さ（ホース肉厚は１．９ｍｍ）に亘りフレーク状の模様を呈する組織が観察された。また、破面には細かな凹凸があり、突起部が連続した模様（梨地肌）が確認された。
+ｂ．正常部位についてその内面を観察した結果、全面に梨地肌が確認された。また、この模様は焼成時に発生※１するものであることが確認された。
+ｃ．梨地肌及びフレーク状の模様が確認された部位から外面までの部位（約０．７ｍｍ）については、貫通した部分が観察された。また、繰り返し応力により引き裂かれた破面（疲労破面）が観察された。
+　※１：ホースの製造段階においては、ホースの主な材料であるポリテトラフルオロエチレン（ＰＴＦＥ）の粒子とＰＴＦＥ粒子間の接着性を得るために添加されるビスタネックスナフサ（ポリイソプレン）が混合され、１日以上貯蔵（熟成）した後、押し出し機を用いてホースの形に成形され、その後、電気炉内で焼成・融着が施される。この焼成過程時において、ＰＴＦＥ粒子の配列が上下方向に収縮し緻密な組織（梨地肌）となる。
+　当該部位の破断面に焼成過程で発生する梨地肌が認められたことから、当該部位には工場出荷前に初期欠陥が存在し、その後の運転における繰り返し応力により初期欠陥からキズが進展・貫通し、漏えいに至ったものと推定される。
+（３）整流器冷却水ホース初期欠陥発生に関する調査結果
+　整流器冷却水ホースに初期欠陥が発生した原因について要因分析に基づき、材料不良、加工不良、製造方法の不良、組合せ工程以降での不良について点検調査を行った結果、異常は認められなかった。
+　しかしながら、破面観察の結果より、焼成過程前に欠陥が発生していること、製造経験から焼成・融着工程の前に絶縁ホース外面から局部的に応力が加わるとＰＴＦＥ分子の配列に乱れが生じ、焼成中にビスタネックスナフサが蒸発した後、強度の弱い部分が形成されることから、焼成過程前の工程を再評価した結果、以下の事項が判明した。
+［１］焼成前の工程において押し出し機による押し出し後の冷却水ホース切断時に冷却水ホースを手で支えており、その際に局所的な応力が印加される可能性がある。
+［２］このため、焼成後の切り出し工程において当該部分は廃棄することとしているが、手順は記載されていなかった。
+［３］応力が印加される箇所は両端部（約２００ｍｍ）で両方とも欠陥が生じる可能性がある。実際の手順を確認したところ、始端部については、製品として使用しないこととしているが、終端部については製品切り出し前に予め廃棄する等の管理がなされていなかったことから、当該部分を廃棄せず、製品としてしまった可能性を否定できない。
+（４）整流器冷却水ホース初期欠陥発生に関する再現試験結果
+　要因分析に基づく点検調査結果より、プリフォーム押し出し工程において手で支えており、その際、局所的な応力が印加されることが確認されたため、再現試験を実施し、マイクロメータにより歪みを与えて焼成した場合のサンプルを製作した。
+　その破面をＳＥＭ観察した結果、約１ｍｍ以上の歪みを与えたサンプルに欠陥部位が確認され、破断面は当該品と同様、フレーク状の模様を呈する組織及び梨地肌が確認された。１ｍｍ程度の歪みは手で軽く握る程度で発生することから、初期欠陥が発生し得ることが確認された。
+　これらのことから、押し出し機からの押し出し時に外力が加わることにより初期欠陥が生じ、さらに、焼成後の切出しにおいて明確にホースの終端部を廃棄する手順になっていなかったことから、初期欠陥を含んだ製品を当該整流器盤に使用した可能性が高い。
+（５）整流器冷却水ホースからの冷却水漏えいに関する調査
+　約１．２ｍｍ初期欠陥を考慮し、当該部分の発生応力と初期欠陥からのき裂進展量を評価し、貫通割れが生じる可能性について検討した。
+　貫通割れが発生するまでの間で当該ホースに発生する有意な応力としては、製品出荷時の耐圧試験時の応力、現地据付後の固定子冷却水ポンプ起動時の応力が発生することが判明した。これらの応力により、き裂進展速度を求め、き裂進展量を評価した結果、漏えい発生までのき裂進展量は約０．４９ｍｍと評価され、破面観察により判明したき裂貫通に至る量の約０．７ｍｍと同程度であることが判明した。
+　なお、工場出荷前の曲げ加工時は、応力緩和のため加熱して加工しており、さらに当該のき裂はホース内面より進展したものである。よって、曲げ加工することにより外面には引張り方向の応力が加わるが内面には圧縮の応力が加わるので、ホース成形の曲げ加工時にはき裂進展しない。このことから、工場出荷前の曲げ加工は今回のき裂進展には影響はない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2148</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/05/13 08:40:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2768</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200205190153]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当該部のホースを取替えた。また、冷却水ホース全数について、次回定期検査（第１９回）時に交換を実施する。全数交換完了までの間に漏えいが発生した場合には、今回と同様、整流器盤を停止し、漏えいしたホースの交換を行う。
+　また、整流器盤製造者に冷却水ホースメーカーの品質管理の徹底を指導するよう要請し、ホース両端部は切断し廃棄するよう作業手順書に明示して管理強化を図ったことを確認した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/05/13 08:40:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は海水温度上昇に伴う出力低下運転中（１１００ＭＷ）のところ、平成１４年５月１９日１時５３分頃「ＡＬＴＥＲＮＡＴＯＲ　ＬＩＱＵＩＤ　ＤＥＴＥＣＴＯＲ　ＦＵＬＬ」警報が発報した。配管の漏えい等が想定されたため、現場の確認を開始するとともに、当該警報検出器内の水をドレンし採取した。その結果、当該警報は一旦消灯したが、、同日３時４８分頃、同警報が再発報した。
+　現場状況を確認した結果、、タービン建屋内の発電機界磁整流器盤（Ｃ）内の整流器冷却水ホース（材質：テフロン）から霧状のごく微少な漏えい（１秒に１滴程度）を確認した。
+　漏えいを止めるため、当該ホースのバンド巻きを実施したところ、漏えいは１分に１滴程度のにじみとなり、その後、漏えいを示す当該警報は発報しなくなった。
+　なお、本事象によるプラント運転状態への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果、発電機界磁整流器盤内整流器冷却ホースが漏えいした原因は以下の通りと推定される。
+（１）焼成前の工程において押し出し機による押し出し後のホース切断時に絶縁ホースを手で支えており、その際に、局部的な応力が印加された。
+（２）応力が印加された箇所を確実に廃棄する手順ではなかったため、応力により発生した初期欠陥のある製品を整流器盤に据え付けた。
+（３）製品出荷時の耐圧試験、定期検査時のポンプ起動等により初期欠陥のき裂が進展した。
+（４）その結果、発電機界磁整流器盤内整流器冷却水ホースから漏えいが発生した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[発電機界磁整流器盤内整流器冷却水ホースからの微少漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 18:01:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2148</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2148</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

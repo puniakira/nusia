@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地調査結果
+「発電機地絡継電器トリップ」警報が発生したことから、要因分析に基づき点検を実施した結果、以下のことが確認された。
+
+（１）単体確認
+ａ．地絡継電器
+・目視点検により、地絡の要因となるような異物のないこと、端子の外れ・緩み等の異常のないことを確認した。
+・絶縁抵抗測定を行った結果、絶縁抵抗値は判定値内であり異常のないことを確認した。
+・継電器特性試験を実施した結果、動作特性は判定値内であり、異常のないことを確認した。
+ｂ．しゃ断器・主回路
+・目視点検により、地絡の要因となるような異物のないこと、端子の外れ・緩み等の異常のないことを確認した。
+・受電しゃ断器～発電機～断路器の主回路・ケーブルの絶縁不良を確認するため、絶縁抵抗測定を行った結果、絶縁抵抗値は判定値内であり異常のないことを確認した。
+ｃ．発電機
+・目視点検により、地絡の要因となるような異物のないこと、端子の外れ・緩み等の異常のないことを確認した。
+・発電機の絶縁不良を確認するため、絶縁抵抗測定を行った結果、絶縁抵抗値は判定値内であり異常のないことを確認した。
+ｄ．接地回路・接地変圧器・接地検出回路
+・目視点検により、地絡の要因となるような異物のないこと、端子の外れ・緩み・混触等の異常のないことを確認した。
+・接地回路・接地検出回路の絶縁不良を確認するため、絶縁抵抗測定を行った結果、絶縁抵抗値は判定値内であり異常のないことを確認した。
+・接地変圧器の変圧比を確認した結果、地絡継電器を誤動作させる値ではないことを確認した。
+
+（２）定格電圧印加試験
+　今回の絶縁抵抗測定に用いた測定器の電圧は１．０ｋＶであるため、別の試験装置により定格電圧（６．９ｋＶ）まで徐々に昇圧を行い、充電電流等の観察を実施した結果、充電電流は判定値内であり、地絡等の異常がないことを確認した。
+
+（３）Ｄ／Ｇ無負荷運転
+　Ｄ／Ｇの無負荷運転を行い、警報発生時と同じ運転状態での再現確認及び接地電流、接地検出回路電圧測定等を実施した。
+　その結果、Ｄ／Ｇの無負荷運転時に地絡継電器の誘導円板及び接点に微小な振動が確認された。また、４回の無負荷運転を行ったが、接地電流や接地検出回路の電圧が正常な値であるにもかかわらず、地絡継電器の誤動作が２回確認された。
+
+（４）地絡継電器の履歴調査
+　当該継電器については、前回定検時の点検結果から異常がないことを確認した。また、同型の地絡継電器の故障履歴を調査した結果、接点の振動が原因となる故障履歴がないことを確認した。
+　なお、当該継電器は計画的（毎定検）に点検を行っており、故障発生時に際しては予備品への交換にて対応することとしている。
+
+（５）地絡継電器交換後のＤ／Ｇ無負荷運転
+　地絡継電器を、予備品（単体確認を実施した新品）と交換しＤ／Ｇの無負荷運転を実施した結果、地絡継電器の接点に振動は確認されず、地絡継電器が誤動作しないことを確認した。
+　また、負荷運転においても地絡継電器の接点に振動は確認されず、地絡継電器が誤動作しないことを確認した。
+
+　以上の調査結果から、地絡継電器の単品誤動作により、「発電機地絡継電器トリップ」警報が発生したものと推定した。
+
+　当該地絡継電器を予備品と交換後、無負荷運転・負荷運転によりＤ／Ｇの運転状態を確認し、平成１８年６月５日１５時５５分、運転上の制限内への復帰を宣言した。なお、当該継電器を含む同型の継電器について、接点の振動が原因となる故障履歴が確認されていないことから、当該継電器について、念のため工場にて調査を実施した。
+
+２．工場調査結果
+　当該継電器について要因分析に基づき調査を実施した結果、以下のことが確認された。
+
+（１）抑制バネ緩み
+　抑制バネの目視点検を行った結果、緩み及び変形のないことを確認した。また、継電器特性試験にて動作値、動作時間を測定した結果、判定値内であり、問題ないことを確認した。
+
+（２）可動部軸ズレ
+　可動部の目視点検を行った結果、鉄心－誘導円板間及び制動磁石－誘導円板間のギャップ変異がなく、可動部の軸ズレがないことを確認した。
+
+（３）固定側接点調整ネジ緩み
+　固定側接点調整ネジの目視点検及び触診を行った結果、ネジの緩みがないことを確認した。また、固定側接点棒とコンタクトアームの間隔（接点ワイプ）が判定値内であり、問題ないことを確認した。
+
+（４）接点ギャップの異常
+　固定側接点棒と可動側接点の間隔（接点ギャップ）の寸法測定を行った結果、設計値と同等であることを確認した。また、継電器特性試験にて動作時間を測定した結果、判定値内であり、問題ないことを確認した。
+
+（５）固定側接点の変形
+　固定側接点について、当該継電器に取り付けたままの状態で目視点検を行った結果、接点に変形はなく、問題ないことを確認した。
+
+（６）可動側接点の変形
+　可動側接点について、当該継電器に取り付けたままの状態で目視点検を行った結果、接点に変形はなく、問題ないことを確認した。
+
+（７）ウィスカ現象
+　固定側接点及び可動側接点の目視点検を行った結果、アーク痕周辺にウィスカの兆候がないことを確認した。
+
+（８）制御盤の振動による誘導円板の動作
+　当該継電器にＤ／Ｇ無負荷運転時と同じ電圧を印加した状態で、前後、左右、上下の各方向に振動させ、振動の周波数を０～２００Ｈｚの間で変化させた結果、３５Ｈｚ付近で誘導円板が若干振動することが確認されたが、継電器は動作せず、問題ないことを確認した。
+
+（９）制御盤の振動による固定側接点部の動作
+　当該継電器にＤ／Ｇ無負荷運転時と同じ電圧を印加した状態で、前後、左右、上下の各方向に振動させ、振動の周波数を０～２００Ｈｚの間で変化させた結果、各方向とも７０Ｈｚ付近で固定側接点板バネの振幅が大きくなり、継電器が動作することを確認した。
+　また、固定側接点を新品に交換し、同様の方法で振動させた結果、継電器は動作しないことを確認した。
+
+（10）低電圧時の過大変位
+　現地でＤ／Ｇ無負荷運転時に測定した接地変圧器二次電圧（低電圧）と同じ電圧を印加したが継電器は動作せず、問題ないことを確認した。
+
+（11）接点間の金属異物混入
+　接点の目視点検を行った結果、金属異物混入の形跡はなく、問題ないことを確認した。
+
+（12）継電器本体の挿入不良
+　当該継電器の振動試験において、継電器の継電器ケースへの挿入が不完全な状態を模擬したが、継電器は動作せず、問題ないことを確認した。
+
+（13）固定側接点の寸法違い
+　固定側接点棒、固定側接点板バネ、固定側接点調整アームの寸法を測定した結果、工作図公差内であり、問題ないことを確認した。
+
+（14）可動側接点の寸法違い
+　可動側接点の寸法を測定した結果、工作図公差内であり、問題ないことを確認した。
+
+（15）固定側接点の弾性劣化
+　固定側接点板バネを継電器から取り外しても真っ直ぐな形に戻らず、弓なりに変形したままであることを確認した。また、当該継電器の接点ワイプ実測値と同じ接点ワイプ（１．２ｍｍ）で比較した場合、当該継電器の固定側接点板バネの弾性は新品に比べて弱くなっていることを確認した。
+
+３．現地振動測定結果
+　Ｄ／Ｇ無負荷運転時において、当該継電器が設置されているＤ／Ｇ制御盤リレーケース部の振動の加速度を測定し、測定された加速度の周波数成分を確認したところ、継電器固定側接点板バネの振幅が大きくなる周波数である７０Ｈｚ付近の周波数成分が見られることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8265</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/10/13 15:33:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[ 「ディーゼル発電機３Ａ故障」および「発電機地絡継電器トリップ」警報が発生し、当該非常用ディーゼル発電機が正常に動作していることを確認できないことから、平成１８年５月３１日午前１０時３１分、保安規定第６０条に定める「運転上の制限」を満足していないと判断した。
+　その後、保安規定に基づき、速やかに、残り２台の非常用ディーゼル発電機、および原子炉隔離時冷却系が正常に動作することを確認した。
+　現地での調査結果から、地絡継電器の単品誤動作により警報が発生したものと推定されたため、当該地絡継電器を予備品と交換後、無負荷運転・負荷運転により当該非常用ディーゼル発電機の運転状態を確認し、平成１８年６月５日１５時５５分、運転上の制限内への復帰を宣言した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3503</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/06/05 17:11:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200605311010]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該継電器については、固定側接点調整アームを対策品（固定側接点調整アームを長いものに交換することで、固定側接点板バネの振幅を小さくする）に交換する。なお、対策品に交換した場合、前後、左右、上下の各方向に周波数０～２００Ｈｚ、加速度０．２Ｇで振動させた結果、誤動作しないことを確認した。
+
+（２）当該継電器と同型の地絡継電器で、振動源となるＤ／Ｇの地絡検出に使用しているものについては、定例試験の際にＤ／Ｇ無負荷運転の状態で目視確認した結果、固定側接点板バネは振動していないことを確認したが、次回定期検査時に対策品に交換する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/10/13 15:33:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第二原子力発電所３号機（沸騰水型、定格出力110万キロワット）は、定格熱出力一定運転中のところ、平成１８年５月３１日、非常用ディーゼル発電機（以下、「Ｄ／Ｇ」という）３Ａについて定例試験を実施するため、午前１０時１０分頃Ｄ／Ｇを起動したところ、「ディーゼル発電機３Ａ故障」および「発電機地絡継電器トリップ」警報が発生した。警報は午前１０時１２分に解除したが、午前１０時３０分頃、同警報が再度発生した。
+　このため、当直長は、当該Ｄ／Ｇが正常に動作していることを確認できないことから、午前１０時３１分、保安規定第６０条に定める「運転上の制限」を満足していないと判断した。
+　その後、保安規定に基づき、速やかに、残り２台の非常用ディーゼル発電機、および原子炉隔離時冷却系が正常に動作することを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　Ｄ／Ｇ無負荷運転時にＤ／Ｇ制御盤リレーケース部に７０Ｈｚ付近の振動周波数成分が存在する環境要因と、７０Ｈｚ付近の振動で固定側接点板バネの振幅が大きくなる継電器固有の性質に加え、経年により固定側接点板バネが弓なりに変形したことにより、固定側接点調整ネジが固定側接点板バネを押す力が弱まり、固定側接点板バネが大きく振動し、固定側接点と可動側接点が接触して継電器誤動作に至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機３Ａ　地絡継電器動作について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1108</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/06/05 17:49:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[リレー*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8265</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[リレー]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0710]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[震動]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[070]]></GENIN_DAI_CODE>
+				<SORT_NO>28</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0710]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[震動]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[070]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8265</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

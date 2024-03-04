@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9402</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/10/24 11:22:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4032</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/10/23 14:45:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070913]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２４回定期検査中の９月１３日、協力会社作業員が原子炉補助建屋ＥＬ４．０ｍフロアの開口部（グレーチング）から水が滴下していることを確認した。このため、直ちに原子炉補助建屋内で実施していた１次系純水タンクとほう酸タンクの残水を床ドレン系統に排水する作業を中止した。また、現場を確認したところ、開口部周囲の側溝内に水が溜まっていたことから、側溝から水があふれ、開口部から滴下したものと推定した。 
+　漏えい量は、床の水溜りの大きさとサンプタンクの水位変化から約１３０リットルと評価され、放射能量は約２．８×１０^３Ｂｑと推定した。漏えいした水は全て回収し、外部への漏えいはなく、環境への放射能の影響はなかった。
+
+［原因調査］
+　側溝の排水用配管が床ドレン系統に接続されていることから、床ドレン系統配管内を目皿からのぞいたところ、水が溜まっていることが確認された。このため、床ドレン系統の水の流れが悪いものと考え、床ドレン系統の調査を実施した。
+
+［推定原因］
+　床ドレン系統の調査の結果、配管を閉塞させるような異物は確認されなかったが、ほう酸水排水用の水平配管内に一部残水やスラッジが堆積していることが確認された。また、今回の作業前に実施された排水作業の実績を確認したところ、本年７月下旬に濃度の高いほう酸水を排水したことを確認した。
+　排水作業後、配管内に滞留した濃度の高いほう酸水から分離したほう酸が、今回の排水作業により押し流され、堆積していたスラッジとともに、配管内を一時的に閉塞させ、流れを悪くしたものと推定した。
+
+［再発防止対策］
+（１）床ドレン系統配管内の清掃を実施した。
+（２）今後ほう酸水を排水した場合は、純水にて配管内を洗浄することを社内マニュアルに記載することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉補助建屋での水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/10/24 11:22:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

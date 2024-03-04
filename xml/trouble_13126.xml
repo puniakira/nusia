@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【事象の原因】に記載。 ]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13126</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2024/02/09 15:16:30]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[窒素封入設備]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[実施計画第１編第２５条（格納容器内の不活性雰囲気の維持機能）]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>115951</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/06/11 14:07:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202004241051]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[対策①-1【活性炭の細粒化防止対策】
+活性炭の細粒化が起きないよう吸着槽の緊密化を行う。
+活性炭の充填高さが変わらなくなるまで、活性炭の充填高さの確認と補充を繰り返し実施する。
+
+対策①-2【粉塵対策】
+（応急対策）
+サイレンサ（排気口）にバグフィルタを取り付ける。
+（恒久対策）
+サイレンサ（排気ライン）を窒素ガス分離装置のパッケージ内部から外部に設置位置を改造する。
+（万が一粉塵が排出された場合も、パッケージ内部に影響の出ない構造とする）
+
+対策②-1【警報改造】
+窒素ガス分離装置の現場警報を免震棟集中監視室に発報（または検知）されるように改造する。
+
+対策②-２【トレンド幅の変更】
+変動幅の小さい窒素封入装置のパラメータに関し、今回の事象を参考にし変動幅に応じたトレンドスパンに変更しR*timeで監視を実施する。
+
+対策③【教訓の展開】
+本事象を教訓にし、納入メーカーより過去の不具合・対策について、共有する。
+この内容を事象の経緯とともに発信文書等で所内に周知する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2024/02/09 15:16:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[4月24日10時51分頃、原子炉格納容器内窒素封入設備の定例試験のため窒素ガス分離装置（Ｂ）から（Ａ）に切り替え操作を実施し、窒素ガス分離装置（Ｂ）を停止したところ窒素流量が下がらないことを当社社員が確認。
+
+そのことから、窒素ガス分離装置（Ｂ）の指示値（封入量、濃度、圧力等）を過去に遡り確認したところ、実施計画第１編第２５条（格納容器内の不活性雰囲気の維持機能）第２項第３号で定める「当直長は，封入する窒素の濃度が９９％以上であることを毎日１回確認する。」ことを確認できないことから、13時40分、実施計画第１編第２５条（格納容器内の不活性雰囲気の維持機能）を満足できないと判断。
+
+また、当該設備は、10時51分、窒素ガス分離装置（Ｂ）から（Ａ）に切り替えを実施しており、運転中の窒素ガス分離装置（Ａ）および（Ｃ）の窒素濃度が９９％以上であることを確認したことから、運転上の制限逸脱からの復帰を13時40分に判断。
+
+なお、格納容器内水素濃度については、運転上の制限で定める２．５％以下を満足していることを確認。
+状況は以下のとおり。
+・設備の状況　　　窒素ガス分離装置の切り替えを行い、（Ａ）および（Ｃ）運転中
+・応急措置　　　　なし
+・影響拡大の有無　なし
+・外部への影響　　なし（プラントパラメータ、モニタリングポスト、構内敷地境界連続ダストモニタの指示にも有意な変動はないことを確認。）
+
+調査の結果、窒素ガス分離装置（Ｂ）本体のパッケージ内部に黒色の粉が飛散し、堆積していることを確認。この黒色の粉がパッケージ内部に設置しているコントローラに流入したため、電源異常に至り、集中監視室にある窒素ガス分離装置（Ｂ）の窒素濃度等の指示値が確認できなくなった可能性があると考えており、今後詳細な調査を行う。
+
+これまでの調査状況等を整理した結果、5月1日13時30分、本件については、核原料物質、核燃料物質及び原子炉の規制に関する法律第６２条の３に基づき制定された、東京電力株式会社福島第一原子力発電所原子炉施設の保安及び特定核燃料物質の防護に関する規則第１８条第５号「発電用原子炉施設の故障（発電用原子炉施設の運転に及ぼす支障が軽微なものを除く。）により、運転上の制限を逸脱したとき、又は運転上の制限を逸脱した場合であって、当該逸脱に係る実施計画で定める措置が講じられなかったとき。」に該当すると判断。
+
+なお、現在の窒素ガス分離装置の運転状態に異常なし。また、プラントパラメータ、モニタリングポスト、構内敷地境界連続ダストモニタの指示にも有意な変動なし。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東京-T001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[①PSA(B)の計器指示が一定（固定）になった
+【①　ＡＤ変換器の故障】
+ＡＤ変換器の故障の影響により出力信号が固定されたことで窒素濃度の指示が一定（固定）した。ＡＤ変換器の故障原因は細粒化した活性炭が排気口（サイレンサ）から流出し，変換器内部に混入し回路のヒューズが切れたことによるもの。
+
+※活性炭細粒化のメカニズム
+工場出荷後においても吸着槽内の緊密化が十分でないところが一部あったと考えられること、輸送時および据付時の振動もしくは運転時の流体の流れにより、吸着槽内の活性炭が密になっていったことで、活性炭の充填高さが低下し、吸着槽上部の活性炭に遊びが生じることで細粒化が進んだものと考えられる。
+
+② 当直長は（Ｂ）の計器指示が一定（固定）になっていることに気付かなかった
+【②‐1　現場警報（FX3U-4AD 電源異常）のみ】
+運転停止に関係しない警報は免震棟に出ない設計となっており，当該警報は現場盤のみで免震棟に発報されない警報だった。また当直による巡視点検は2週間に１回のため、その間で発報したため気付かなかった。
+
+【②‐2　当直はパラメータ監視をしていたが変化に気づかなかった】
+・プラントサマリで数値を確認していたが、変化がないこと（一定であること）に気づかなかった。
+・トレンド監視はOPSトレンドで適宜監視していたが、拡大しないと変動幅が小さいため変化に気づかなかった。
+③窒素（酸素）濃度を測定する副計器がなかった
+【③ ２台運転時の酸素濃度確認の不備が生じることに気づくことができなかった】
+過去の運転経験から、システム的な不具合はなかったため、酸素濃度計の不備に気づかなかった。
+
+④納入メーカーは、過去に同型機で同様の不具合が発生した経緯があったことを知らなかった
+【④　過去の不具合を確認していなかった】
+・製造メーカーは、過去の不具合は対策済みで、再発していないことから情報が納入メーカーと共有されていなかった。
+・当社は、納入メーカーに不具合履歴の確認をしていなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１～３号機窒素ガス分離装置（Ｂ）窒素濃度指示不良に伴う運転上の制限からの逸脱について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/06/11 14:11:23]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[925]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[窒素封入設備]]></S_KIKI_NAME>
+			<TROUBLE_ID>13126</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[制御装置]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13126</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[925]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[721]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[721]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[原子炉格納容器]]></KIKI_NAME>
+					<SORT_NO>38</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納容器調気系（不活性ガス系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[147]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[細粒化]]></S_GENIN_NAME>
+			<TROUBLE_ID>13126</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他偶発的要因]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[偶発的な燃料のピンホール、シートの当たりが変化したことによるシートパス等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13126</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13126</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13126</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[013]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[1F施設保安・核防護規則18条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[5]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

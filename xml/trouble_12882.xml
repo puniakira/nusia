@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12882</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/11/09 10:15:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>78932</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/11/01 15:46:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201809081202]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　増設多核種除去設備（Ｂ）においては、前処理段階におけるクロスフローフィルターの目詰まりを取り除くために、空気圧縮機を使用した逆洗を行う装置を備えており、当該装置には、系統水や空気を圧縮した際に発生する凝縮水を受け入れるポリタンク用のドレンラインを備えている。
+　9月8日、午後0時2分、漏えい検知器が動作し、当該ポリタンクから凝縮水が溢水（堰内に2.5m×0.2m×2cm）したと判断した。その後、9月9日に同じポリタンク内に再度、水が溜まっていたことから、水のサンプリングを行ったところ、分析結果は以下のとおり。
+　　　・セシウム-134　：　2.4×10(3乗)（Bq/L）
+　　　・セシウム-137　：　2.7×10(4乗)（Bq/L）
+　　　・全ベータ　　　：　3.7×10(5乗)（Bq/L）
+
+　再度、逆洗を行う装置の詳細構造を踏まえ確認した結果、その装置のパッキンシール部からの凝縮水ではなく系統水（処理中の水）が漏えいし、ポリタンクに流れ込んだものと推定。よって、9月8日にポリタンクから漏えいした水も同じ状況であることから、系統水であったと判断。なお、ポリタンクに溜まっていた水については、系統内に戻して処理する運用としており、増設多核種除去設備建屋外への流出はなし。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-S019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　増設多核種除去設備(B)における逆洗を行う装置のドレンラインからの系統水の溢水について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/11/09 10:15:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

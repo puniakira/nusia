@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8341</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/10/03 17:35:29]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3543</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/07/19 09:25:45]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200607160203]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/10/03 17:35:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所６号機は平成１８年６月６日より調整運転中であるが、７月１６日午前２時頃、所内ボイラ（※）で発生した蒸気の圧力が低下する事象が発生したため調査を行っていたところ、午前２時３分、６号機中央操作室にて所内ボイラ室内の火災警報が発生した。ただちに中央操作室の監視カメラにて煙を確認し運転員が現場へ急行したところ、当該ボイラ室内に煙が充満していたことから、午前２時１０分、消防署へ連絡を行うとともに、運転していた所内ボイラ（Ｂ）の供給電源をしゃ断し、当該ボイラを緊急停止した。
+
+　その後、消防署員による現場確認の結果、午前３時４０分、当事象は燃焼の痕跡がないことから「火災ではない」と判断された。
+
+　また、同日午前２時３０分頃、所内ボイラの停止状態を監視カメラにて確認したところ煙は排出されたこと、および当該ボイラ室内に水漏れがあることを確認した。このため、午前２時４０分、補給水配管にある弁を閉めたことにより、漏えいは停止した。
+　水漏れは、当該ボイラの電源停止により、給水タンクへの水の補給量を調整する弁が全開になったことから、補給量がオーバーし水（非放射性の純水）が溢れたものであった。
+漏れた水の量は約4,800リットルであり、回収のうえ、拭き取りによる清掃を実施した。
+　
+　調査の結果、当該ボイラの点検終了後（６月１６日）に全開状態とした煙道の仕切り板（ダンパー）が閉じていたことが分かった。そのため、煙道内の圧力が上昇したことにより圧力逃がし蓋が動作し、室内に煙が漏れたため火災報知器が動作したものであった。
+　
+　ダンパー開度を固定するピンは、開度調整板の全開位置に挿入されていたものの、操作レバーの穴に固定されておらず、これにより何らかの原因で操作レバーが動き、ダンパーが閉じたものと推定した。
+　操作レバーの穴に固定ピンが挿入されていなかった原因は、当該ボイラ点検後に操作レバーを全開にした際、操作場所が狭隘で、操作性および視認性が悪かったことから、開度調整板の全開位置と操作レバーの穴がずれた状態で固定ピンを取り付けたものと推定した。
+　
+　対策として、開度調整板と操作レバーの穴が一致しないと固定ピンが挿入できないよう改造するとともに、合いマークを塗装し固定ピンの位置ずれを容易にわかるようにした。また、開度調整板に操作上の注意事項を記載した表示板を設置した。
+
+　なお、本事象による外部への放射能の影響、ならびにプラント運転への影響はなかった。
+
+以　上
+
+※　所内ボイラ
+福島第一原子力発電所６号機においては、主に発電所建屋内の暖房用蒸気および液体廃棄物処理系の廃液濃縮器等の加熱用に使用する蒸気を供給している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[所内ボイラ室における火災警報の発生ならびに非放射性の水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/07/19 18:46:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

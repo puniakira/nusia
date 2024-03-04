@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）Ｂ－加圧器安全弁出口温度検出器点検結果
+　Ｂ－加圧器安全弁出口温度検出器の抵抗測定および同変換器の出力測定を実施した結果、異常は認められなかった。
+
+（２）加圧器安全弁点検結果
+ａ．漏えい検査
+　当該弁を取り外し、分解する前に、N２ガスによる漏えい検査を実施したところ判定基準を上回る漏えいが確認された。
+
+ｂ．弁取付状態確認
+　ボンネットと弁箱の面間計測、弁棒調整ボルトの位置測定および手動レバーの上下動作の遊び確認を実施したところ、いずれも異常は認められなかった。
+　なお、安全弁出口側フランジボルトを取り外した際、配管側フランジが下方向に約22ｍｍ移動したことが確認された。
+
+ｃ．分解後の部品の寸法測定
+　弁棒先端当たり幅、弁棒の曲がり、バネの自由長、弁体及び弁座シート部のリップ高さ、弁座取付け状態の傾きを測定した結果、異常は認められなかった。
+
+ｄ．分解後の部品の外観目視点検
+　外観目視点検の結果、弁体及び弁座ともシート面の90゜～270゜の範囲に変色が認められた。
+
+ｅ．シート面の点検
+　弁体及び弁座シート面について拡大観察した結果、傷やへこみ、異物は認められなかった。なお、100゜～210゜の範囲で蒸気による強い変色等が認められたことから、漏えいは、100゜～210゜の範囲で発生していたと考えられる。
+　また、弁体及び弁座シート面について表面粗さを測定した結果、弁座側で最大約32.2μmの粗さが確認された。なお、その部分をアセトンで拭き取り、再度測定した結果、5.6μm程度（変色の無い部分と同等の値）となった。
+　このことから、高さ17μm程度の付着物があったと推定される。
+　なお、この付着物は今回の事象発生前からあったものか、事象発生に伴って付着したものかは特定できなかった。
+　更に、シート面の浸透探傷検査及び当たり確認の結果、異常は認められなかった。
+　　　　
+（３）保守経歴の調査
+　当該弁は、今回の定期検査で分解点検しており、記録及び作業員への聞き取り調査の結果、シート漏えいに繋がるような異常は確認できなかった。
+　なお、平成17年1月10日に発生した大飯1号機Ｃ－加圧器安全弁のシート漏えい事象の反映として、加圧器安全弁機能検査前には、検査装置架台のフィルターの取替え並びにプラグの清掃を実施していた。また、微小な異物混入の可能性の観点から再度作業手順の詳細調査及び作業員への聞き取り調査を実施した結果、弁開放時の養生蓋にベニア板とポリシートを使用していること、工具の使用前に清掃を行う方が望ましいことの改善すべき項目が抽出された。
+
+（４）使用環境の調査
+　加圧器圧力、温度等、安全弁のシート漏えいに繋がるような変動は認められなかった。
+
+（５）加圧器安全弁出口配管温度上昇事象の解析的評価
+　加圧器安全弁の入口配管は蒸気のシート漏えい防止のため、Ｕシールが設置されており、保有水（シール水）量は約4.5&#8467;である。
+　この水は、運転中は格納容器内雰囲気温度（約50℃）に保たれており、仮に安全弁から微小なシート漏えいがあったとしても加圧器側蒸気の凝縮により安定した水量が保持できるように設計されている。
+　このことから、Ｕシールの水が無くならなければ、加圧器の蒸気（約345℃）が直接シート漏えいすることは無く、安全弁出口側配管で急激な温度上昇は起こらない。
+　ここで、出口温度が90℃となる蒸気のシート漏えい量を解析で求めたところ、約0.5kg/hと評価され、その時の開口面積は約5×10-9m2と評価された。
+　加圧器の蒸気の流出前は、初期にはＵシールに溜まった低温水がシート漏えいし、その後、加熱された高温水（約100～345℃以下）がシート漏えいしたと考えられ、同開口部からの水の平均漏えい量は約1～3kg/hと推定された。また、加圧器気相部蒸気が流出するまでに約13～14時間を要すると推定された。
+
+（６）出口配管の移動量の評価
+　Ｂ－加圧器安全弁出口配管フランジボルトを取り外した際、配管側フランジが下方向に約22mm移動したが、過去に特別な改造はしておらず、この程度のズレは従来からでもあったことを作業員からの聞き取りで確認した。
+　Ｂ－加圧器安全弁と出口配管とを接続する際には、出口配管を鉛直上方向に約22mm移動させる必要がある。更に高温時には、加圧器の熱伸びにより、加圧器安全弁が上方向に約44mm移動するため、出口配管接続部での拘束により、弁には出口配管側に回転するモーメントが作用する。また、過去に実際の安全弁を用いて出口配管に荷重（モーメント）を負荷した場合の蒸気のシート漏れの試験が実施されており、モーメントが大きくなるとシート漏えいが発生することが確認されている。
+　更に、当該安全弁の弁箱及びシート部の解析モデルを作成し、３次元有限要素法により、今回の出口配管のズレにより発生するモーメントを負荷した場合の弁座側シート面の変形状況を評価した結果、出口配管側から反対方向に向けて、シート面圧の低下が発生すると評価された。今回のシート漏えいの方向が概ね出口配管と反対方向であり、以上のことから出口配管との接続がシート面での密着性の低下に影響した可能性は否定できない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>7906</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/11/24 10:15:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3326</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/10/03 20:42:26]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200509290450]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１） 当該安全弁の出口配管を弁本体側のサポートから固定し、安全弁に作用する外荷重の低減を図った。
+（２）今回の事象を踏まえ、加圧器安全弁組立時の異物管理徹底の観点から、使用工具の清掃等について作業手順書に反映し充実を図った。
+（３）Ａ－加圧器安全弁についても分解点検の上、同様の対策を実施した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/11/24 10:15:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜発電所１号機は、第21回定期検査中（定格熱出力一定運転中）の平成17年9月17日に発生したＢ－湿分分離加熱器加熱蒸気ドレン管温度計管台溶接部からの漏えいのため、同日電気出力を50％とし点検を実施した。この結果、漏えいは今定期検査で実施した手直し溶接が原因と判明した。このため、類似箇所のＡ－湿分分離加熱器加熱蒸気ドレン管温度計管台溶接部についても補修を行うこととし、9月29日夕刻に発電を停止する予定で運転中（50％出力）のところ、9月29日04時32分にＢ－加圧器安全弁の出口温度（通常約52℃）の上昇を示すプラント計算機の注意警報（プレアラーム設定値：60.3℃）が発信し、04時50分には、「加圧器逃がし弁・安全弁出口温度高」警報（設定値：77℃）が発信した。
+　加圧器逃がし弁および安全弁の出口温度を確認した結果、Ｂ－加圧器安全弁出口温度が約90℃まで上昇しており、その後90℃前後で推移していた。なお、加圧器の水位・圧力および加圧器安全弁出口側の蒸気を回収する加圧器逃がしタンクの水位・圧力・温度等に変化は認められなかった。このことから、Ｂ－加圧器安全弁にシート漏れの可能性が考えられるため、原子炉を停止し、当該弁の点検を実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-関西-M022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該安全弁については、出口配管のズレにより弁シート部の密着性が低下している状況であったところに、分解点検時（今定期検査）、入念な異物管理を実施していたものの、安全弁機能検査時等に微小な異物がシート面に付着したことから、シート面の一部までシール水が浸透していた。その後の運転によりシール水が徐々にシート面の外側へ圧力浸透範囲が拡大し、シート漏えいに至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[「加圧器安全弁出口温度高」警報の発信について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報発信）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>171</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/10/05 18:21:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[505]]></KIKI_CODE>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>7906</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[505]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[安全弁・逃がし弁]]></KIKI_NAME>
+				<SORT_NO>10</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[一次冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[203]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>7906</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

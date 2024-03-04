@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[原因調査状況は次のとおり。
+（１）当該ストーブ及び当該電源コードの点検
+　　１）外観目視点検 
+      　外観目視点検の結果は以下のとおり。 
+　　　①当該電源コードの損傷部 
+　　　　・コンセントプラグ根元部に約４ｍｍの損傷を確認した。また，損傷部脇に焦げ跡らしきもの（変色部位）を確認した。 
+　　　　・当該電源コード損傷部近傍の被覆に外部からの長時間の過熱（当該ストーブによる加熱等）による熱変形は見られなかった。 
+　　　　・電源コードにキンク※３がある場合，断線や過熱の要因になるが，当該電源コードには損傷部周辺にキンクは無かった。 
+ 
+ 　　　　以上より，当該電源コードが外部から長時間過熱された可能性は低く，導線の発熱により短時間で事象が進展した可能性が高い。 
+　　　　　※３：キンクとは，電線を途中に輪ができた状態で引っ張ることにより生じたひもの結び目のようなものである。また，キンクが発生した場合，引張強度が低下するおそれがある。
+
+　　　②当該電源コードの健全部 
+　　　　・当該電源コードの被覆に硬化やひび割れは認められず，柔軟性は維持されていた。 
+　　　　・当該電源コードの被覆表面に，こすれ，ささくれが認められた。 
+ 
+　　　　以上より，当該電源コードには許容電流を超える過電流の通電による被覆の劣化は認められないものの，当該電源コードの被覆表面にこすれ，ささくれが認められることから，当該電源コードに局部的な外力が加わった可能性がある。
+　　　③当該ストーブ本体の健全性 
+　　　　・当該ストーブには経年使用によるキズ，台座との接続部に若干のガタつきが認められたが，当該電源コードの損傷に影響を与えるような不具合は認められなかった。
+　　２）当該ストーブ及び当該電源コードの配置状況の確認 
+　　　　前述の「１）外観目視点検」より，当該電源コードの被覆表面にこすれ，ささくれが認められ，当該電源コードに外力が加わった可能性があることから，監視所内における当該ストーブ及び当該電源コードの配置状況を確認した結果，
+　　　　・当該ストーブは机（受付台）近傍に設置されていた。 
+　　　　・当該電源コードは机（受付台）下に設置された壁コンセントに接続され，床面を這う状態となっていた。 
+　　　　・当該電源コードに損傷防止用の保護カバーやズレ防止用の養生テープによる保護はされていなかった。 
+ 
+　　　　　このため，当該ストーブの移動，警備員の足や椅子のキャスターでの「踏みつけ」「ぶつけ」「引っ掛け」等により，当該電源コードやコンセントプラグに局部的な外力が加えられた可能性がある。
+　　３）電気的点検 
+　　　①当該電源コードの電気的点検 
+　　　　当該電源コードの短絡は無かったが，導線２本のうち１本のみが断線していることを確認した。また，当該電源コードの断線部以外は健全であることを確認するために，電気ヒータ回路を含む健全部の抵抗測定を行った結果，約２７Ω（計算値約２８Ω）と問題無かった。 
+　　　②監視所コンセント側の点検 
+　　　　当該ストーブが接続されていた監視所内壁コンセントに対して，電気回路の絶縁抵抗測定を行い，異常が無いことを確認した。
+　　４）当該電源コード損傷部の詳細原因調査 
+　　　　当該電源コード損傷部の外観目視点検によりコンセントプラグ根元部に損傷を確認したことから，損傷に至る要因を抽出し，これらについて調査を実施した。 
+　　　①経年劣化 
+　　　　当該ストーブは２００９年製であり，１０年以上使用してきているものの当該電源コードの被覆に硬化やひび等経年使用に伴う劣化は確認されていないことから経年劣化による当該電源コードの損傷は考え難い。
+　　　②製造不良 
+　　　　当該ストーブは２００９年製であり，これまで１０年以上使用してきており初期不良も無かったことから，製造不良による当該電源コードの損傷は考え難い。 
+　　　③過電圧 
+　　　　当該ストーブに給電していたコンセント側の電圧を測定したところ，１０１．８Ｖであり過電圧ではないことを確認した。また，本事象発生の午前中まで当該ストーブを問題なく使用していたこと，事象発生時において発電所構内で異常な電圧変動は確認されていないことから，過電圧による当該電源コードの損傷は考え難い。 
+　　　④過電流 
+　　　　本事象発生時に上流側ＮＦＢ（ノーヒューズブレーカー：配線用しゃ断器）の動作が無かったこと，給電していたコンセントの通電部に過電流に伴う変色等が見受けられなかったことから，過電流による当該電源コードの損傷は考え難い。 
+　　　⑤コンセントプラグの変形 
+　　　　当該電源コードのコンセントプラグを確認したところ，有意な変形及び破損は無いことから，コンセントプラグの変形による当該電源コードの損傷は考え難い。 
+　　　⑥外力による変形・損傷 
+　　　　当該電源コードは机（受付台）下に設置された壁コンセントに接続し，床面を這わせて使用していたことから，警備員の足や椅子のキャスターでの「踏みつけ」「ぶつけ」「引っ掛け」等により，当該電源コードやコンセントプラグに外力が加えられた可能性がある。この結果，コンセントプラグ根元部の被覆部に傷がつき，長期の使用により外力が繰り返しかかり導線（素線）が部分的に断線し，この断線が進行することで，導線の通電面積が小さくなった箇所に電流が流れたことにより過熱発熱し，当該電源コードの損傷に至った可能性がある。
+
+（２）当該ストーブ使用に関する聞き取り調査 
+　　　　当該電源コードの損傷が外力による導線の部分断線によるものと考えられることから，監視所内に勤務する警備員（当社社員及び協力会社社員）に当該ストーブの使用状況等に関する聞き取り調査を行った結果，以下のとおりであった。
+　　　①当日の当該電源コードの状況 
+　　　　当該電源コードは机（受付台）下の床面に這わせており，養生カバーの設置等，保護措置もされていなかったことから，「踏みつけ」「ぶつけ」「引っ掛け」が無かったかを確認したが，「踏みつけ」「ぶつけ」「引っ掛け」を意識したことは無かった。また，午前中も当該ストーブを使用し，発煙や焦げ臭いにおい等の異常は確認されていなかった。 
+　　　②使用頻度 
+　　　　冬期等，当該ストーブ使用の際，当該電源コードはコンセントに接続したままで，当該ストーブ本体のスイッチで電源の入切を行っていた。また，当該ストーブは冬期ほぼ毎日使用していた。 
+　　　③当該電源コードへの不要な荷重の有無 
+　　　　当該電源コードは机（受付台）下の床面に這わせていたが，荷物等荷重のかかるものは当該電源コードの上には置いていなかった。また，席を立ったり座ったりする際に足で踏むようなことを意識したことは無かった。
+　　　④保管状況 
+　　　　夏期等，当該ストーブを長期間使用しない際はビニールで覆い，監視所の倉庫に保管していた。 
+　　　⑤使用前点検 
+　　　　毎冬使用開始前には，外観点検（当該電源コードのよじれの有無，コンセントプラグの曲がり等変形の有無）を実施し，異常の無いことを確認してから使用していた。
+
+　　　　以上のとおり，聞き取りの結果からは当該電源コード損傷に直接つながる証言は得られなかった。ただし，上記，「（１）当該ストーブ及び当該電源コードの点検」の「１）外観目視点検」の当該電源コード健全部の点検において，当該電源コード表面にこすれ，ささくれが認められていること，「（１）当該ストーブ及び当該電源コードの点検」の「４）当該電源コード損傷部の詳細原因調査」において，長期の使用によりコンセントプラグ根元部に外力が繰り返しかかることにより導線（素線）が部分的に断線し，導線の通電面積が小さくなった箇所に電流が流れたことにより過熱発熱し，当該電源コードの損傷に至ったと考えられることから，警備員が無意識のうちに当該電源コードへ外力（「踏みつけ」「ぶつけ」「引っ掛け」）を加えたことにより，当該電源コードで最も応力が集中しやすいコンセントプラグ根元部に外力がかかり導線の部分的な断線につながった可能性が否定できない。
+
+〇事象発生のメカニズム
+　原因調査結果より，当該ストーブの当該電源コードが損傷に至ったメカニズムは以下のとおりと推定する。
+
+　【①当該電源コードのコンセントプラグ根元部への外力付加】 
+　　当初健全であった当該電源コードは，当該ストーブを通常使用していたものの無意識な「踏みつけ」「ぶつけ」「引っ掛け」により当該電源コードに外力がかかり，最も応力が集中しやすいコンセントプラグ根元部の被覆に傷が発生した。 
+　　　　　　　　　　　　　　　　　　　↓ 
+　【②繰り返し外力が加わったことによる導線の部分断線の発生・増加】 
+　　上記①の状態が長年継続されることによりコンセントプラグ根元部被覆の傷部分の導線（素線）が部分的に断線し，これが繰り返されることにより徐々に断線部分が増加し，導通部分の面積が徐々に減少していった。 
+　　　　　　　　　　　　　　　　　　　↓ 
+　【③部分断線の進行による導線の発熱】 
+　　事象発生時の当該ストーブの電源を入れる前の段階で，コンセントプラグ根元部に何らかの外力が加わり更に断線が進行した。その状態で当該ストーブの電源を入れたため，断線の進行に伴い導通面積が減少した導線部に電流が集中して流れたことにより，急速に過熱し被覆部が発煙，損傷した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13622</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[監視業務中に発見]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2023/06/13 22:03:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>114649</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/02/21 10:19:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202302081446]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）対策
+　「事象の原因」を踏まえ，以下のとおり対策を実施するとともに発電所員や協力会社社員に配布している「構内立入者の遵守事項」に反映する。
+【無意識の外力による損傷防止】 
+　机下等の床面に設置した電源コード等，無意識に「踏みつけ」「ぶつけ」「引っ掛け」をしてしまう可能性のある箇所について保護カバーの設置又はテープによる養生を実施する。 
+【損傷有無の確認】 
+　電気ストーブのような容易に持ち運びが可能なものは，上記保護カバー等で養生しても，移動すること自体で電源コードに外力が加わる可能性がある。そのため，毎日１回，コンセントプラグ周りに損傷（電源コード根元部の傷の有無，コンセントプラグの変形等）が無いことを確認する。 
+【使用時以外コンセントプラグ抜き】 
+　電気ストーブは，使用時以外はコンセントプラグを必ず抜く。（誤ったスイッチＯＮによる火災発生防止）
+（２）水平展開
+　　当該ストーブ以外の電化製品の電源コードの損傷及び外力がかかる可能性のある床面に電源コードを這わせた場合の保護カバー又はテープ養生の有無等の観点で追加点検を実施した。なお，追加点検の実施にあたっては，火災発生リスクが高くなる消費電力の大きい電化製品から実施する工程とした。 
+　　①追加点検その１※４の結果 
+　　　　点検台数１３９３台のうち，床面に這わせた電源コードは１１６本であった。このうち，保護カバー又はテープ養生されていたものは１２本であり，これらについて全て異常は無かった。また，保護カバー又はテープ養生がされていないもの１０４本のうち，１本については圧痕を確認したことから使用禁止措置をとった。 
+　　②追加点検その２※５の結果 
+　　　　点検台数３８６０台のうち，床面に這わせた電源コードは１２３４本であった。このうち保護カバー又はテープ養生されていたものは６９本であり，これらについて全て異常は無かった。また，保護カバー又はテープ養生がされていないもの１１６５本でありこれらについて全て異常は無かった。 
+　　③対応措置 
+　　　　上記「①追加点検その１の結果」で保護カバー又はテープ養生がされていない電源コードについては保護カバー又はテープ養生を実施した。また，「②追加点検その２の結果」で保護カバー又はテープ養生がされていない電源コードについては保護カバー又はテープ養生を速やかに実施していく。 
+　　※４：消費電力５００Ｗ以上の電化製品で，主に電気ヒータ，電気ストーブ，電子レンジ，オーブン，電気ポット，冷蔵庫，洗濯機，乾燥機，自動販売機，コピー機，シュレッダー等を対象としている。 
+　　※５：消費電力５００Ｗ未満の電化製品で，主に扇風機，換気扇，パソコン電源，携帯充電器等を対象としている。
+
+　なお，報告書「火災発生の未然防止に向けた取り組みについて」（２０２３年３月２７日）の「今後の対応」に記載のとおり，「東海・東海第二発電所 防火計画」に定める一斉点検の中で「発電設備以外の設備に対する定期的な電気設備の点検の強化」の一環として，今後も継続的に電化製品の電源コードについて点検を実施していく。
+
+〇その他の対応 
+　事象発生当日から，前述の原因調査と並行し，速やかに以下について対応を行っている。 
+（１）事象発生後速やかに実施した事項 
+ 　１）本事象に係る措置 
+　　　本事象発生に伴い，以下の措置を講じた。 
+　　　・当該ストーブの使用禁止措置 
+　　　・当該電源コードを接続していたコンセントの使用禁止措置 
+　　　・当該電源コードを接続していたコンセントの上流側電源の遮断措置 
+　　２）緊急点検の実施 
+　　　本事象の発生に伴い，以下のとおり当社は事象発生当日（２月８日），協力会社は２月９日～２月１０日にかけて緊急点検を実施した。その結果，事務本館で７箇所，緊急時対策室建屋で２箇所，チェックポイント建屋で３箇所，正門守衛所で１箇所の１３箇所について対策が必要と考えられる状態を発見した。また，複数箇所でタコ足配線・埃等も確認された。前述の７箇所については器具交換・回収・使用禁止措置を実施し，タコ足配線・埃等については整線・清掃を実施済みである。 
+　　　①点検のポイント 
+　　　　・コンセントプラグのゆるみ・片当たり 
+　　　　・電源コードの老朽化，傷，キンク（曲げすぎ），引っ張りの有無 
+　　　　・コンセント周りの埃，水分の有無 
+　　　　・タコ足配線（テーブルタップからテーブルタップ）
+　　　②点検対象 
+　　　　・大容量電化製品（電気ヒータ，電気ストーブ，電子レンジ，オーブン，電気ポット，冷蔵庫，自動販売機，コピー機，プリンター，シュレッダー等）の電源コード，コンセント 
+　　　　・製造年月日の古い電化製品の電源コード，コンセント 
+　　　　・ポータブル電化製品の電源コード，コンセント 
+　　　　・執務室の机まわりの電源コード，コンセント 
+　　　　・会議室内電源コード，コンセント 
+　　　③点検範囲 
+　　　　・事務本館（居室，食堂，放管測定室） 
+　　　　・緊急時対策室建屋
+　　　　・監視所 
+　　　　・正門守衛所 
+　　　　・チェックポイント建屋 
+　　　　・中央制御室（控室含む） 
+　　　　・サービス建屋（更衣室等） 
+　　　　・発電所構内にある協力会社事務所
+（２）本事象の周知と注意喚起 
+　　　ＪＩＴ情報※６を発行し，所員・協力会社社員に周知し，本事象について注意喚起した。また，安全衛生推進協議会※７や防火部会※８を通じて本事象の周知と注意喚起を行った。 
+　　　※６：Just In Time情報（社内外での災害情報等を平易に纏め社内及び協力会社へ速やかに周知するための様式） 
+　　　※７：当社・協力会社にて安全衛生，防火に関する意識高揚と災害防止等に関し協議を行う会議体（各社所長クラスが参加） 
+　　　※８：安全衛生推進協議会の下部組織であり，当社・協力会社にて火災防止に関する情報・諸課題等を協議し，火災防止の推進を図る会議体]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/06/13 22:03:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海発電所は廃止措置中，東海第二発電所は第２５回定期事業者検査中のところ，２０２３年２月８日１４時４６分頃，監視業務を行っていた委託警備員が監視所内の電気ストーブ（以下,「当該ストーブ」という）のスイッチを投入した際，当該ストーブの電源コード（以下，「当該電源コード」という）のコンセントプラグを差し込んでいるコンセント付近から煙と焦げ臭いにおいらしきものを確認した。このため，コンセントから当該電源コードのコンセントプラグを直ちに引き抜き確認したところ，当該電源コードに焦げ跡らしきものを確認した。これを受けて，１４時４８分に監視所より公設消防に通報（覚知時刻１４時４８分）した。また，自衛消防隊は１４時５７分に出動した。公設消防は，１５時０２分に発電所に到着（消防車１台，サイレン・赤色灯有り）し，現場確認を実施した。公設消防より，１６時４１分に「１５時０６分をもって本事象は火災※１であると判断し，同時刻に鎮火※２を確認した」旨の連絡を受けた。
+　その後，公設消防より１７時１９分に火災判断時刻の訂正があり，「１６時３５分に本事象は火災であると判断した（鎮火判断時刻に変更なし）」旨の連絡を受けた。 
+　なお，本事象に伴い当社及び公設消防は消火活動を実施していない。また，本事象に伴う人身災害の発生，発電所設備及び環境への影響は無かった。
+ 
+※１：燃焼現象の結果としての煤が見られたため。 
+※２：熱画像により周囲の温度と同じであることを確認したため。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-原電-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[本事象の原因は以下のとおりと推定する。
+　・電源コードの保護・養生等，電化製品の取扱い時の不注意が火災発生につながるという認識が不足していた。
+　・当該電源コードに椅子のキャスター等が接触し，外力が加わりやすい環境で使用しており，かつ，容易に持ち運びが可能であり，移動の都度，当該電源コードが引っ張られた可能性がある。
+　・当該ストーブは日々の使用前点検が未実施であった。
+ 
+ 
+　以上から，当該電源コードに外力が加わり，損傷を防ぐことができず，それを発見することもできなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[東海発電所・東海第二発電所　監視所内電気ストーブ電源コードの焦げ跡の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[委託警備員が確認した時刻]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>114650</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/02/21 10:20:28]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>13557</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>13588</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13622</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[なし]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[電化製品の管理]]></S_GENIN_NAME>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13622</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

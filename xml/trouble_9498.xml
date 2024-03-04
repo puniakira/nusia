@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+　D-GDT放出に係るR-14指示値上昇の原因を特定するため、放出操作の状況（放射能濃度評価、放出系統構成）、系統設備の健全性、他系統からの放出有無について調査を実施した。
+（１）放射能濃度評価
+ａ．放射能の減衰
+　当該D-GDTは、９８日間減衰（通常：３０日以上減衰）されており、特に問題はなかった。
+ｂ．放射能濃度測定方法
+　放出前のD-GDT放射能濃度分析（測定結果8.58×10^1Bq/cm3、12/5 18:42）は、手順どおり実施しており、問題はなかった。なお、事象発生後に再度分析した結果、7.34×10^1Bq/cm3（12/6 19:20）であり、前日の分析結果とほぼ同値であったことからも分析方法に問題はなかったと考える。
+　また、D-GDTの放出承認は、放出前のサンプリング分析結果が、放射能濃度8.58×10^1Bq/cm3、放射能量5.51×10^9Bq（12/5 18:42）であり、放出基準（減衰期間30日以上、また、今回の放出量を含めた積算が保安規定の年間放出管理目標値2.1×10^15Bq／年以下）を満足している。
+ｃ．放射能分析装置
+　校正が有効期限内の振動容量型電位計で測定しており、問題はなかった。
+
+（２）放出系統構成等
+ａ．放出系統構成
+　放出系統は、放出前に手順書を用いて確認し、放出系統が正しく構成されていることから問題はなかった。
+ｂ．放出手順
+　放出は手順書に基づき実施し、また、これまでも十分な実績のある操作であり、問題はなかった。
+ｃ．操作方法
+　ガス放出遮断弁（以下、RCV-014という）を開放し大気放出するが、当該弁を閉止から徐々に調整開（約4.3%開度）へと操作しており、急激な開放操作は実施していない。また、D-GDTの圧力も0.684MPa → 0.683MPaと極僅かに低下している程度であり、弁操作、弁開度とも問題のない操作であった。
+
+（３）系統設備不良
+　今回の事象は、放射能濃度評価、放出系統、放出操作等に問題がないにもかかわらず、R-14の指示値が短時間に上昇していることから、高濃度の希ガスが放出されたものと考えられる。このため、放出ラインの核種分析を実施した結果、D-GDTには検出されなかった短半減期核種Xe-133、Xe-135等が検出された。系統内で短半減期核種が検出された箇所は、体積制御タンク、受入中のC-GDTであるため、これらのタンクから放出ラインにつながる系統の調査を実施した。
+ａ．C-GDT排出弁（V-1773）のシート漏れ
+　受入中のC-GDT排出弁（V-1773）がシート漏れした場合、受け入れた放射能濃度の高い体積制御タンクの希ガスが補助建屋排気筒に放出される経路が形成される。
+このため、シート部からの漏えいを確認するため、D-GDTの圧力（約0.685MPa）を利用し、閉止状態のC-GDT排出弁（V-1773）上流側に圧力をかけ、下流側のC-GDT圧力変動を約１時間かけて確認した結果、圧力上昇は認められなかった。
+ｂ．D-GDT受入弁（PCV-1039A）のシート漏れ
+　当該D-GDT放出前からC-GDTに気体廃棄物の受入れを実施しており、GDT受入れラインには、放射能濃度の高い希ガスが充満していたことから、受け入れ側のD-GDT受入弁（PCV-1039A）がシート漏れした場合、D-GDT 放出時に当該弁を経由して、GDT受け入れラインの放射能濃度の高い希ガスが補助建屋排気筒に放出される経路が形成される。
+　このため、シート部からの漏えいを確認するため、窒素ガスを用いて、閉止状態のD-GDT受入弁（PCV-1039A）上流側に圧力（約0.731MPa）をかけ、下流側のD-GDTの圧力変動を約１時間かけて確認した結果、圧力上昇は認められなかった。
+ｃ．ガス減衰タンク分析ライン止め弁（SV-1725F）のシート漏れ
+　当該D-GDT放出操作中、体積制御タンクの水素と酸素濃度を連続監視するため、体積制御タンクの気相部のガスをガス分析器に連続通気していたことから、ガス減衰タンク分析ライン止め弁（SV-1725F）にシート漏れした場合、当該弁を経由してD-GDT放出ラインに体積制御タンクの気相部の希ガス（放射能濃度3.09×10^3Bq/cm3、12/7 5:40）が直接補助建屋排気筒に放出される経路が形成される。
+　このため、シート部からの漏えいを確認するため、当該弁を配管も含め取外し、事象発生当時の体積制御タンクのサンプリングガス圧である約20kPaを閉止状態のガス減衰タンク分析ライン止め弁（SV-1725F）下流側にかけ、上流側にて５分間漏えい量を計測した結果、約100ccの漏えいが確認された。
+ｄ．R-14の故障
+　検出部、測定処理部は毎定検点検するとともに、毎月月例点検も実施している。また、放出停止後は通常値となっていることから、R-14の故障は考えられない。
+
+（４）他系統からの放出
+　警報発信時、他に放射性物質放出につながるような操作、作業は実施していないことを確認した。
+
+２．弁分解点検結果
+　原因調査結果から、ガス減衰タンク分析ライン止め弁（SV-1725F）のシート漏れが原因であると考えられるため、当該弁の分解点検等を実施した。なお、C-GDT排出弁（V-1773）、D-GDT受入弁（PCV-1039A）についても念のため分解点検を実施した。
+（１）ガス減衰タンク分析ライン止め弁（SV-1725F）の分解点検結果等
+ａ．分解点検結果
+弁体（エチレン・プロピレンゴム製）には、弁座（SUS316）とのシート部に２箇所の漏えい痕があり、漏えい痕から噴出したと推定される扇状の茶色に変色したスラッジが確認された。
+　また、漏えい痕の一箇所には、金属光沢のある異物（約0.3mm）認められ、残りの一箇所には、くぼみが認められた。その他部品には特に異常は認められなかった。
+ｂ．異物の成分分析結果等
+漏えい痕で確認された異物の成分分析の結果、ステンレス鋼（SUS316と同等の成分である、Fe約65%、Cr約17%、Ni約13%、Mo約2%）であることを確認した。スラッジは、成分分析の結果、鉄成分（約85%～95%）が主体であった。
+また、ガス減衰タンク分析ライン止め弁（SV-1725F）の上流側のスエジロックを観察した結果、袋ナットのネジ山端部にスエジロックのボルトナットの摩耗粉（SUS316）と思われる細長いもの（長さ約1mm、太さ約0.2mm）が認められた。
+
+（２）C-GDT排出弁（V-1773）の分解点検結果
+弁座シート面、ダイヤフラムに異常は認められなかった。また、その他部品についても異常は認められなかった。
+
+（３）D-GDT受入弁（PCV-1039A）の分解点検結果
+弁座シート面、ダイヤフラムに異常は認められなかった。また、その他部品についても異常は認められなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[234]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9498</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[206]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード５]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/01/08 20:55:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4087</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/12/07 11:55:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200712061739]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）シート部の漏えいが確認されたガス減衰タンク分析ライン止め弁（SV-1725F）については取替えを実施した。
+
+（２）今後は、ガス減衰タンク分析ライン止め弁（SV-1725F）に加え、その上流側（ガス減衰タンク放出系統側）にある手動弁（V-1799F）を常時「閉」状態とし、２台の弁で２重に隔離する運用に変更することとし、運転操作所則に反映した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　湿分分離器ドレンタンク水面計取出しフランジ付近からの蒸気漏れの点検および補修のため原子炉を停止した後、発電室員が平成１９年１２月６日１７時３５分から４台あるガス減衰タンク＊のうち、D-ガス減衰タンク（以下、GDTという）に貯留している希ガスを補助建屋排気筒から放出していたところ、１７時３９分中央制御室に「プロセスモニタ計数率注意」警報(警報設定値：2000cpm)が発信したため、１７時３９分に放出を停止した。
+　補助建屋排気筒ガスモニタ（以下「R-14」という）の指示値を確認したところ、通常値の約850cpmから一時的に最大約4200cpmに上昇していることを確認した。その後、放出の停止により１７時４９分にR-14の指示値は通常値(約850cpm)に低下した。
+　なお、本事象による野外モニタの指示値に変化は認められなかった。
+　また、放出放射能量は約8.3×10^8Bqと評価され、保安規定に基づく放出管理目標値（2.1×10^15Bq/年）に比べ約２５０万分の１以下と十分低いものであった。
+　
+＊：原子力発電所の運転に伴い発生する放射性気体廃棄物（希ガス）の放射能を減衰させるために、一時的に希ガスを貯留するタンク（全４台）。放射能が減衰したことを確認し、定期的に希ガスの管理放出を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-M016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[・今回の放出前にガス減衰タンク分析ライン止め弁（SV-1725F）のシート漏れによりGDTの放出ライン（PCV-1040とRCV-014の間）に高濃度の体積制御タンクの希ガスが充満していた。
+・当該GDT放出ラインに充満していた希ガスが、D-GDTの放出のためRCV-014を開放した際、その希ガスが補助建屋排気筒に放出された。
+・充満していた希ガス分が放出された後、配管内の圧力が低下し、体積制御タンクの希ガスがガス減衰タンク分析ライン止め弁（SV-1725F）を通して放出されるとともに、D-GDTの放出分も補助建屋排気筒に放出された。
+
+これにより、補助建屋排気筒のモニタの指示値が上昇し計数率注意の警報が発信したものと推定される。
+なお、ガス減衰タンク分析ライン止め弁（SV-1725F）にシート漏れが発生した原因は、当該弁の上流側のスエジロックのボルトナットの摩耗粉がシート部に付着したために発生したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[放出放射能量は約8.3×10^8Bqと評価され、保安規定に基づく放出管理目標値（2.1×10^15Bq/年）に比べ約２５０万分の１以下と十分低いものであった
+]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期的な放射性気体廃棄物放出時の警報発信について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報発信]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/01/08 20:55:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+			<TROUBLE_ID>9498</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シート*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9498</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電磁弁]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[気体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[234]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9498</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9498</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9498</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該配管の工事が、電気事業法に基づく工事計画の届出手続きをしないまま、工事計画書に記載された材料と異なる材料の配管に取り替えた原因について調査を行った。
+
+１．事実調査
+　社内ルールに照らし、当該工事の計画・発注・実施段階における関係書類等により、法令に基づく手続きの要否の確認がどのように実施されていたか調査した。
+　また、実際に業務に携わった者に、関係書類で確認した事実に関し、聞き取りによる調査を行った。
+
+（１）長期設備保全計画の策定(平成１７年８月上旬)[工事計画部署]
+　長期設備保全計画件名表を確認した結果、許認可等の手続きは必要ないと記載されていた。
+　担当者Ａは、工事箇所が原子炉格納容器バウンダリ（境界）外の屋外配管であることから、当該部は工事計画対象ではないと誤認識しており、図書等による確認を行わず許認可手続きは必要なしとして、長期設備保全計画への計上を行った。
+
+（２）工事計画確認書の作成(平成１７年１２月２２日）[工事計画部署]
+　ア．法令に基づく手続き確認チェックシートを確認した結果、手続きは不要であると記載されていた。ただし、工事計画確認書の記載は、同仕様の配管類への取替とされており、法令要求手続きなしとして問題ないものであった。
+　しかし、担当者Ｂは、工事箇所が原子炉格納容器バウンダリ外の屋外配管であることから、当該部は工事計画対象ではないと誤認識しており、図書等の確認を行わず法令要求手続きが必要ないと判断していた。また、同仕様材料による取替であれば、工事計画対象設備であっても届出不要であるとの認識もあった。ただし同仕様材と記載しただけで材質等の仕様は確認していない。
+（他の担当者複数名にも確認した結果：工事計画対象設備か迷えば工事計画図書を確認するが、工事計画対象設備でないと思えば工事計画図書を確認しない。）
+　イ．「工事計画（基本設計）の段階における技術的に配慮すべき設計事項に対して確認した内容を記載することとするが、同仕様品への取替や、当社での採用実績がある工事については、その旨を記載すればよい。」とのルールから、副長Ａは、設計管理の要否を明確にするため「同仕様材料への取替」を明記させた。
+　ウ．調達段階で材料の仕様が工事計画確認書と異なる材料で発注されているが、工事計画確認書の変更の手続きがされていないことを確認した。
+担当者Ｂは、調達文書作成時に調達先との事前協議において、同材質のＳＴＰＬは、計画した工事実施時期に調達が間に合わないことがわかったため、材質を変更することとした。この時、技術基準適用範囲外であると認識しており、参考としてＪＩＳを確認しクラス３配管への適用が認められている材料（３号：ＳＴＰＧ、４号：ＳＴＰＴ）に変更した。また、変更した材料も同じ炭素鋼で同水準のものであり、同仕様材との認識であった。なお、工事計画確認書の変更手続きが必要であることを知らなかった。
+
+（３）調達文書の作成(４号:平成１８年３月１６日､３号:平成１８年６月８日)[工事計画部署]
+　担当者Ｂは、調達文書作成時に予算書を基に作成し、ルール上明確な記載がなかったことから工事計画確認書は確認しなかった。
+副長Ａは、承認の際に材料のことは気にしなかった。
+
+（４）工事要領書の承認(４号:平成１８年５月２日､３号:平成１８年７月３１日)[設備所掌部署]
+　社内手引には、「工事計画の対象設備に係る改造もしくは修理を行う場合（工事計画の手続きを伴わない場合も含む）には、試験検査要領書と工事計画図書を「試験検査要領書工認照合確認シート」を用い遺漏がないよう照合する。」となっているが、課長、副長、担当者は、照合するルールを知らなかった。
+
+（５）工事の実施(４号:平成１８年５月９日～、３号:平成１８年８月１日～)[設備所掌部署]
+　社内手引には、「作業責任者は、作業管理者に工事に先立ち使用する取替部品及び使用材料の品名、仕様、使用予定数量を「取替部品（使用材料）一覧表」にて確認させる。」となっており、担当者が、当該工事を受注した施工会社が確認した「取替部品（使用材料）一覧表」を書類確認している。「取替部品（使用材料）一覧表」には、ＳＴＰＧ３７０、板厚５．５ｍｍ（３号機）となっており、実際には板厚７．６ｍｍの配管が設置されていたことから、板厚の確認がされていなかった。
+
+２．原因調査のまとめ
+（１）工事計画に対する注意意識
+　工事の計画から発注までを担当した工事計画部署の課長、副長、担当者は、当該系統の工事箇所が原子炉格納容器バウンダリ外の屋外配管であることから、工事計画対象でないとの思いこみにより、工事計画図書の確認を行わなかった。
+
+（２）社内ルール
+　長期設備保全計画策定時及び工事計画確認書作成時において、法令に基づく手続きの要否を確認することが定められているが、必ず工事計画図書を確認することとなっていない。
+　また、同仕様と記載すればよいこととなっており、要求事項（配管であれば材質、口径、肉厚等）を明確にすることとなっていないため、材質を変更していながらも同じ炭素鋼で同水準のものであることから同仕様材と認識していた。
+　工事計画確認書は、予算策定時における工事概要を確認する目的で作成されるが、工事発注時の調達管理に反映される仕組みとなっていない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8716</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[06]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[机上検討・記録評価]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/06/18 13:56:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3720</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/03/22 15:25:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070228]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．工事計画の手続きに対する注意意識の醸成
+　設備所掌各課において、所掌する設備について、工事計画対象範囲を明確にし、課内教育により周知徹底する。
+
+２．社内ルールの改善
+（１）工事計画確認書作成時の「法令に基づく手続き確認チェック」において、必ず法令に係る文書（設置許可申請書、工事計画書等）そのものを確認し、確認のエビデンスを添付することをルール化する。
+　工事計画に係るものであれば、工事計画図書を確認し、工事計画対象範囲内については工事計画図書の写しを添付する。また、法令改正により、工事計画対象範囲の変更があることから、電気事業法施行規則別表二、三等を確認することをあわせて義務づける。
+また、長期設備保全計画策定時は、概略設計段階であり許認可等の要否の判断ができない場合もあることから、この段階での許認可等の要否の確認は行わないこととする。
+
+（２）工事計画確認書には「同仕様」とは記載しないこととし、その具体的な仕様を明確にする。（配管であれば材料、口径、肉厚等を明確にすることとし、機械品の他、電気品、計装品についても同様とする。）
+
+（３）調達管理における工事計画確認書の位置付けを明確にし、調達にあたって工事計画確認書の内容と照合することを義務付ける。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/18 13:56:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１８年１１月の原子力安全・保安院からの指示「発電設備に係る点検について」に基づき、発電設備について、データ改ざん、必要な手続きの不備、その他同様な問題がないかを評価・検討するための調査の中で、平成１８年に実施した浜岡３・４号機の窒素補給用配管（※１）の一部取替工事において、必要な手続きが行われていなかったことを確認した。
+　本件は、配管取り替えの計画段階において、取り替え前の工事計画書に記載されていた配管材料と同じものに取り替える予定としていたものを、異なる材料（※２）を使用して工事を実施し、結果として、電気事業法上必要な工事計画書の届出手続きを行わなかったことと使用前検査を受検せずに設備を使用していたものである。
+　このため法令違反である取り替えた配管は平成１９年２月２８日に系統から隔離し、今後、速やかに工事計画書の届出手続きを行った上で、平成１９年４月末までに取り替え前の配管材料と同じものに取り替える予定である。
+
+　なお、取り替えが完了するまでの間の必要な負荷への作動用ガス補給は、別に設けている計装用圧縮空気系等がバックアップして行う。
+　この場合、作動用ガスに含まれる酸素により原子炉格納容器内の酸素濃度が上昇する可能性があることから、酸素濃度等の関連パラメータについて傾向監視のため、２時間毎にデータを採取し、監視を強化する。
+
+※１窒素補給用配管は、原子炉格納容器内（運転中は窒素ガスで置換）に設置されている主蒸気隔離弁や主蒸気逃がし安全弁の駆動用窒素ガスを補給する配管。
+※２工事計画書には配管材料を記載する。取り替え前の工事計画書に記載されていた配管材料はＳＴＰＬ３９（低温配管用）。平成１８年の工事で、３号機はＳＴＰＧ３７０（圧力配管用）に、４号機はＳＴＰＴ３７０（高温配管用）にそれぞれ取り替えた。これらの配管はいずれも炭素鋼鋼管。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-M019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[推定原因
+　原因調査の結果、窒素補給用配管取替工事に必要な手続きを行わなかったという法令違反を起こしてしまった原因は、本工事における工事計画から発注までを担当した工事計画部署の工事計画に対する注意意識が欠けており、このことが原因で、本工事の計画当初の判断を誤り、その後の工事の実施までに期待される社内ルールによる是正機能も、工事計画対象でないという思い込みにより機能せず、発生してしまったものと推定される。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[３，４号機　窒素補給用配管取替工事における手続き不備について
+（電気事業法第１０６条に基づく報告）
+]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/27 10:22:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>8716</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8716</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納容器調気系（不活性ガス系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[147]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8716</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8716</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8716</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8169</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/07/20 15:29:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3459</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/04/03 11:14:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200603251210]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/07/20 15:29:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成18年３月25日午後０時10分頃、1･2号機廃棄物処理建屋ボイラー棟２階（非管理区域）を当該設備の委託運転員がパトロールを実施していたところ、ボイラー設備の給水ポンプ（Ｂ）出口の一部戻り配管（*1）の流量制限オリフィス（*2）部付近より水が漏れているのを確認した。
+　直ちに、当該ポンプを停止するとともにオリフィス部の前後弁を閉めたことにより水漏れは止まった。
+　漏れた水（非放射性）の量は約250リットルで、拭き取りによる清掃を実施した。
+　当該部の配管を取り外し点検したところ、配管に幅約１mm、長さ約8.5mmの貫通孔を確認した。
+
+　調査の結果、貫通孔周辺の配管内面に、キャビテーション（*3）発生時に見られる浸食跡が確認された。
+　また、当該オリフィス部の出口側にキャビテーションが発生しやすいことが分かった。
+　さらに、他の給水ポンプ（３台）について調べた結果、２台のオリフィス部の出口側においても、同様の配管の減肉を確認した。
+　なお、当該ボイラー設備の他の減肉しやすい部位（オリフィス下流近傍、弁下流、配管曲がり部）については、配管の減肉は確認されなかった。
+
+　当該配管に貫通孔が発生した原因は、ボイラー設備の給水ポンプ出口の一部戻り配管に設置したオリフィス部出口側で、キャビテーションによる気泡が発生し、これにより減肉したことによるものと推定した。
+
+　対策として、当該ボイラー設備の給水ポンプのオリフィスについて、出口側でキャビテーションが発生しにくい構造のものに取替える。
+　なお、当該部および減肉していた配管については、当面の対策として、同材質（炭素鋼）の新しい配管と取替え済みであるが、今後、念のため、その前後に設置してある弁を含め、より浸食にくい材質（ステンレス鋼）のものに取替える。
+　また、今後、当社の原子力発電所の補助ボイラー設備の減肉しやすい箇所については、計画的に点検を実施する。
+
+＊１：一部戻り配管
+　ポンプの過熱や振動を防止するため、ポンプの最低流量を確保するための系統。
+
+＊２：オリフィス
+　配管内を流れる水の経路を絞ることにより圧力を低下させる、または流量を制限する機器。
+
+＊３：キャビテーション
+　液体が狭い場所から広い場所に流れると圧力が部分的に下がり、圧力が急減した部分に気泡が発生し、短時間で消滅する現象。気泡が潰れるときに瞬間的に衝撃圧が発生し、配管内面の金属を減肉させる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S106]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物処理建屋ボイラー棟内の水漏れについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/04/04 18:49:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

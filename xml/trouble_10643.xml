@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10643</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/12 09:37:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4593</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/10/20 19:25:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910161824]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/12 09:37:12]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査で停止中の４号機（沸騰水型、定格出力78万４千キロワット）の原子炉冷却材浄化系に設置されているろ過脱塩装置への樹脂のプリコート操作の準備作業実施中、平成21年10月16日午後６時24分頃、原子炉建屋３階に設置されているプリコートタンク内の水位が上昇し、オーバーフローラインを通してファンネルに排水された水が一時的にファンネルより床にあふれていることを、作業を行っていた当社社員が発見した。
+
+その際、今回の作業においては全閉でなければならないプリコートタンク補給弁（47弁）ならびにろ過脱塩装置逆洗水入口元弁（197弁）が全開状態であったことを確認したことから、ただちに２つの弁を全閉にしたところ、水の漏えいは停止した。
+あふれた水は管理区域内にとどまっており、漏えい量は約1.6リットル、放射能量は約5.1×10^５ベクレルで、拭き取りによる清掃を実施した。
+
+本事象による外部への放射能の影響はない。
+
+[調査結果]
+調査の結果、以下のことが分かった。
+・ろ過脱塩装置への樹脂のプリコート操作を行う事前準備として、ろ過脱塩装置とプリコートタンクとの間で水を循環させる運転を行っていたこと。
+・その際、プリコートタンクの水位が下がったことから、所定の水位まで水を補給するため、当社社員は、手動で開閉する補給弁（47弁）を開けるとともに、現場制御盤で操作する入口元弁（197弁）の操作スイッチを「開」位置にして開け、水張り作業を行ったこと。
+・当該社員は、プリコートタンクの水張りを実施後、水の補給を停止させるために入口元弁（197弁）を閉める際、操作スイッチを「自動」位置にしていたこと。また、当該社員は「自動」位置にすることで、実際に水の補給が停止したことから、補給弁（47弁）を開けたままにしていたこと。
+・その際、当該社員は補給弁（47弁）について、一連のプリコート操作終了後に閉めようと考えていたこと。
+・その後、現場制御盤でろ過脱塩装置フィルターの樹脂のプリコート操作を行うにあたり、プリコート操作に不要な工程を省略する操作（以下、「スキップ操作」）を行ったこと。
+・入口元弁（197弁）の操作スイッチが「自動」位置のままスキップ操作を行った場合、同弁が自動で開く仕組みになっていることから、本来は当該弁の操作スイッチを「自動」位置ではなく「閉」位置にすべきであったが、当該社員にその認識がなかったこと。
+・工程のスキップ操作を行う場合の弁のスイッチ操作などの詳細な手順が手順書に記載されていなかったこと。
+
+[推定原因]
+当社社員は、手動で開閉する補給弁（47弁）を「開」のままにするとともに、手順書に工程のスキップ操作を行う場合の弁のスイッチ操作などの詳細な手順について記載がなかったことから、入口元弁（197弁）の操作スイッチを「閉」位置にすべきところを「自動」位置としていた。
+その後、工程のスキップ操作を行ったため、入口元弁（197弁）が自動で開いたことで、プリコートタンクに水が補給されてタンクの水位が上昇したことから、タンクのドレン弁を開けて排水を行いましたが排水しきれなかった。　
+このため、タンクの水位が上昇し続け、タンクのオーバーフローラインより水がファンネルに流入しましたが、受けきれず水があふれてしまったものと推定した。
+
+[対策]
+今後、手順書に工程のスキップ操作を行う場合の弁のスイッチ操作などの詳細な手順を新たに記載することとする。
+また、運転部門の社員に対し、今回の事象説明および事例検討会を実施し、再発防止の周知を実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S034]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　定期検査中の４号機における原子炉建屋内の水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/22 09:02:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

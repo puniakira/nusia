@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8313</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/02/26 19:29:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3529</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/06/26 19:14:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200606230925]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/02/26 19:29:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は定格出力にて運転中のところ、６月23日午前９時25分頃、タービン建屋地下１階の所内ボイラ室内において、重油サービスタンク付近の床に重油が溜まっているとの連絡を協力企業作業員より受けた。
+　ただちに当社運転員が現場状況を確認し、当該タンクレベル計の上下の弁を閉止したことにより、重油の漏えいは停止した。
+　なお、床に溜まっていた重油の量は約２リットルで、拭き取りによる清掃を実施した。
+　　
+　調査の結果、以下のことがわかった。
+　・重油サービスタンクレベル計の上部のパッキンが劣化していたこと。
+　・当該パッキンは、５月下旬の点検において製造が中止されていたため、復旧時に漏えいがないことを確認して再使用していたこと。
+　・重油補給しゃ断弁の開閉スイッチ部に埃の付着があったこと。
+　・当該開閉スイッチの部品にひびが確認されたが、機能に問題はなく、その他の部品にも異常は認められなかったこと。
+
+　重油漏れの原因は、当該弁の開閉スイッチ部が埃の付着で固着し、当該弁が閉まらずに重油の供給が継続したため、重油がレベル計の上部パッキンに達し、再使用したパッキンの劣化部から漏えいしたものと推定した。
+　
+　対策として、レベル計を新品に交換するとともに、ひびが確認された開閉スイッチの部品を交換した。
+　今後、当該開閉スイッチの点検およびパッキン交換を定期的に行う。
+
+　なお、本事象による外部への放射能の影響はない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１号機タービン建屋内における重油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/06/27 11:13:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

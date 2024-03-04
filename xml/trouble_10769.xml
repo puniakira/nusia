@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10769</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/02/05 14:52:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4642</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/01/12 10:40:26]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001061140]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/02/05 14:52:52]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 敦賀発電所１号機は、定格熱出力一定運転中のところ、平成２２年１月６日１１時４０分頃、雨水排水配管の点検を実施していた作業員がタービン建屋３階の雨水排水配管（以下「当該配管」という。）から雨水が漏れていることを確認した。その後、１２時２０分頃に作業員から保修室員に当該配管からの雨水漏れがあることを連絡し、１２時４５分頃、保修室員より当該配管から床面に雨水が漏れている旨の連絡が中央制御室にあった。
+ 運転員が現場の状況を確認したところ、当該配管より雨水が漏れており、タービン建屋３階階段（北側）より、タービン建屋２階及び１階の一部に、雨水の滴下が確認された。
+当該配管は平成２１年１２月２１日にタービン建屋３階で雨水の滴下（１秒に１滴）が確認され、修理依頼が発行されており、１２月２８日、平成２２年１月４日に保温材を取り外した状態で漏れ箇所調査を実施していたが漏れ箇所の特定ができず、１月６日も調査を継続している状況であった。
+１月６日の調査において当該配管に腐食による穴が確認され、当該箇所を止水テープにて補強を行い乾燥中であったが、当該配管へ雨水の流入を防止するため取り付けてあったタービン建屋屋上の雨水排水口の閉止栓から雨水が流入し、止水テープが乾燥途中であったことから漏れが発生した。
+ このため、雨水の漏れについては、タービン建屋屋上の雨水排水口の閉止栓※を手直しして１３時頃、雨水の漏れは停止した。また、雨水による機器への影響はなかった。
+今回発生した雨水の漏れ量は、床面に約５１リットル、大型バケツに受けた約５０リットルであった。
+
+※１２月２１日のタービン建屋排水配管からの雨水漏れの対応として、タービン建屋 屋上にある雨水排水口６箇所のうち、タービン建屋３階の雨水配管に流入する排水口２箇所に雨水が浸入しないように閉止栓を取り付けていた。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[敦賀発電所１号機　タービン建屋３階雨水排水配管からの雨水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/01/13 10:31:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

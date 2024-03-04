@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[・点検調査結果
+（１）水漏れ経路の特定
+以下の状況から，当該排水口下流側の排水配管取替作業のため，下流側配管が閉塞養生されているところに，上流側の残留熱除去系差圧検出器排水一次弁，二次弁（以下「当該弁」）が開となったため，当該排水口から逆流した水が溢れたものと推定された。
+ａ．水漏れ時，ラック排水弁下流に設置されているフローグラスにて水の流れを確認した。
+ｂ．ラック排水弁を「閉」したところ水漏れが止まった。
+ｃ．当該排水口へ接続されている排水ラインを確認した結果，通常「閉」である当該弁が「開」となっており，残留熱除去系差圧検出器ラインのみ水漏れ経路が形成されていた。
+ｄ．排水配管取替工事のために当該排水口下流側で排水配管を切断し，開口部を閉塞養生（以下「排水配管閉塞養生箇所」）していた。
+（２）原子炉建屋内に流出した水量等の評価
+　　ａ．原子炉建屋１階での水漏れ及び放射能量評価
+水漏れ量を評価するために，水平水準器・メジャー等を使用して寸法測定を行った結果，水漏れ量は約１００リットル，放射能量は約５．６×１０^6ベクレルであることが確認された。
+（添付資料－８）
+　　ｂ．原子炉建屋地下１階で処理した水の量
+　　　　原子炉建屋地下１階の排水配管閉塞養生箇所からの水については，原子炉建屋１階での水漏れ発生後に原因究明をしていく段階で，７月２８日に最終的に約１００リットル程度と確認された。
+　なお，この水についてはビニール袋で回収し，管理上適切に処理されていた。
+以上から，原子炉建屋内に流出した総量は，合計約２００リットルと推定された。
+（３）関連作業の調査
+関連作業調査の結果，水漏れ発生時，水漏れ発生箇所付近で残留熱除去系差圧検出器取替に伴い，午後から予定していた当社立会いによる残留熱除去系差圧検出器耐圧試験準備作業（以下「耐圧試験準備作業」）を行っていたことが確認された。
+（４）水漏れ経路確立時間の推定
+実測結果より，水漏れ量は当該弁全開において４．５リットル／分であることが確認されたこと，また，原子炉建屋内に流出した総量の評価結果から，水漏れ経路が確立した時間は耐圧試験準備作業時間帯であると推定された。
+ 
+
+・原因調査
+（１）事実関係の確認結果
+原因を特定するため事実関係の確認を行った結果，以下のことが確認された。
+
+ａ．６月２０日に実施した残留熱除去系差圧検出器Ａ系の点検後，当該弁が「閉」であることが確認されている。
+ｂ．水漏れ発生日２日前(７月２２日)に実施していた当該排水口下流側排水配管切断時，配管内からの水漏れがないことが当該作業員により確認されている。
+ｃ．以下の事実を併せ考えてみると，当該排水口へ水を流した可能性があるのは耐圧試験準備作業のみである。
+（ａ）耐圧試験準備作業直前の９時３０分頃，当該排水口下流側排水配管切断面からの水漏れがないことが当該作業員により確認されている。
+（ｂ）水漏れ経路が確立した時間は，耐圧試験準備作業時間帯であると推定された。
+（ｃ）事象発生後の確認において，耐圧試験準備作業を行っていた計装ラック内にある通常「閉」の当該弁が「開」となっており，それ以外の当該排水口へつながるラインの弁については「閉」となっていた。
+
+
+（２）要因分析結果
+事実関係の確認結果から，残留熱除去系差圧検出器耐圧試験準備作業（以下「耐圧試験準備作業」）中において残留熱除去系差圧検出器排水一次弁，二次弁（以下「当該弁」）が開となり水漏れ経路が確立したものと推定されることから，その要因について分析を行った。
+ａ．当該弁の開操作
+当該弁を開操作する可能性があるのは，当直員及び現場を管理する保修部員，耐圧試験準備をしていた作業員，当日の時間帯にいた第三者による操作が考えられるが，以下の調査の結果，耐圧試験準備作業をしていた作業員による誤操作の可能性を否定できなかった。
+（ａ）当直及び保修部監理員による操作
+聞き取り調査の結果，「当日，当該ラック内及び近傍での操作はしていない」との証言を得ている。
+（ｂ）耐圧試験準備をしていた作業員による操作
+当該作業員への聞き取り調査の結果において，「当日の作業では当該弁を操作していない」と証言しているが，当該弁近傍の弁操作を実施しているため，誤操作の可能性は否定できない。
+（ｃ）第三者による操作
+聞き取り調査，作業時系列確認，及び水漏れ経路確立時間の推定より，水漏れ推定時間には耐圧試験準備作業をしていた作業員しかラック内にはいなかったことから，第三者による操作の可能性がないことが確認された。
+
+ｂ．当該弁の設備不良
+当該弁のシートパス調査の結果，「閉」状態で水の流れがないことを確認していることから，シートパスが原因とは考えられない。なお，水漏れ停止操作時には当該弁がほぼ全開であったことが確認されている。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>274</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/11/26 18:58:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>18929</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/10/01 09:05:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200307241015]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[品質管理上の検討の結果，品質管理上の不適合及び改善すべき事項があったため，以下の対策を実施するとともに，安全に関わるようなルールについては当社の他発電所に対し指示文書を発信し実施状況を確認していく。
+（１）当社の再発防止対策
+ａ．計装作業の改善
+計装弁取扱時においては，点検作業札の適用及びダブルチェックにより確認することを受注者に対する契約上の要求事項として記載する。
+ｂ．安全処置方法の改善
+社内マニュアルに，計器校正時以外の作業（計器取替など）は原則，ラック入口弁を「閉」するとともに，当直発行タグにて弁が「閉」状態であることを明示し，その下流側にあるラック内弁については受注者発行による点検作業札を用いて作業するよう記載する。
+ｃ．設備の改良
+残留熱除去系差圧検出器計装ラックなどの計装弁において識別がされていない弁については基本仕様にあわせ識別管理できるように色を塗る。　　　
+ｄ．情報伝達の徹底
+以下の内容について，当社社員に対し掲示板や事例検討会などにより本事象を紹介し，トラブル対応時の心得として徹底する。
+・発電所管理部門→発電所内→本店所管部への情報伝達の徹底
+トラブル対応時の情報については，事象の内容を正確に把握するために必要となる情報はもとより，それに関連する周辺情報についても相互に共有するため，従来にもまして情報伝達を密にするようトラブル調査委員会をはじめ発電所内に徹底する。
+
+（２）受注者の再発防止対策
+ａ．「施工要領書」に弁操作時には点検作業札を用いるよう記載する。
+ｂ．「施工要領書」に弁操作・確認時のダブルチェックが確実に行われるようチェックシートを見直す。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/11/26 18:58:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[２号機は第２０回定期検査中のところ，７月２４日１０時０８分頃，原子炉建屋１階において水漏れを現場作業員が発見した。調査の結果，原子炉建屋１階の残留熱除去系の計装ラック排水口（以下「当該排水口」）から水が漏れており，残留熱除去系差圧検出器計装ラック排水弁（以下「ラック排水弁」）を閉めたところ水漏れが止まるのを当社社員が確認した。また，同時刻頃，原子炉建屋地下１階にある当該排水口下流の配管切断部において，水を回収した。なお，本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-T014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の結果，当該排水口下流側の排水配管取替工事のために配管を閉塞養生していたところ，通常「閉」である当該弁が耐圧試験準備作業中に「開」状態となったため，当該排水口から逆流した水が溢れたものと推定された。
+また，今回，当該弁が「開」していた事象に関して，調達管理，設計管理，施工管理，不適合管理について品質管理上の検討を行った結果，以下の不適合，改善すべき事項が抽出された。
+ａ．「調達管理」における不適合
+（当社）社内マニュアルに点検作業札の適用及びダブルチェックの実施が記載されているが，受注者に対する契約上の要求事項として記載されていなかったことが不適合として考えられる。
+ｂ．「設計管理」における改善すべき事項
+（当社）計装弁の色分けの基本仕様は平成元年制定の社内設計標準に記載されており，残留熱除去系差圧検出の計装ラックは平成元年以前に設置されたものであることから本仕様の適用がされておらず，識別管理（色別管理）が実施されていなかったことは，管理の高度化の観点から改善すべき事項として考えられる。
+ｃ．「施工管理」における不適合及び改善すべき事項
+（当社）社内マニュアルに計器校正時以外の作業（計器取替など）において，閉すべき弁の箇所が記載されていなかったことは，管理の高度化の観点から改善すべき事項として考えられる。
+（受注者）「施工要領書」に弁操作・確認時のダブルチェックが記載されていたにも関わらず，耐圧試験準備作業時ダブルチェックが行われていなかったことが不適合として考えられる。
+ｄ．「不適合管理」における改善すべき事項　　　
+（当社）原子炉建屋地下１階で約１００リットル程度の水を回収していたことについては，現場から発電所管理部門へは報告されていたが，当社内の関係箇所に速やかに伝達されず，情報の共有という観点から不十分であり，改善すべき事項として考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内での水漏れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃(当社確認)]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[その他]]></S_KEITO_NAME>
+	<PRESS_ATTACH_ID>18928</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/03 18:07:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他]]></S_BUHIN_NAME>
+					<TROUBLE_ID>274</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[その他]]></S_GENIN_NAME>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>274</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[7]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

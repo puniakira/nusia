@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場点検結果
+（１）差圧スイッチの状態確認
+［１］「注入弁両側差圧低（開許可）」を検出している差圧スイッチの圧力指示は約０．４ＭＰａ（約４ｋｇ／ｃｍ＾２）まで低下していた。
+［２］差圧スイッチの「ＴＲＩＰ」ランプは点灯していた。
+（２）警報回路の点検
+［１］Ｈ１３－Ｐ６２９内リレー「Ｅ２１Ａ－Ｋ８－１」の接点出力端子ＣＣ３７とＣＣ３８間の電圧を測定した結果、１２７．６Ｖ（判定基準：０Ｖ）であった。
+［２］Ｈ１３－Ｐ６２９内リレー「Ｅ２１Ａ－Ｋ８－１」の接点出力端子ＣＣ３７とＣＣ３８間をジャンパーしたところ、「ＬＰＣＳ　ＩＮＪＥＣＴＩＯＮ　ＶＡＬＶＥ　△Ｐ　ＬＯＷ」警報が発報した。
+［３］Ｈ１３－Ｐ９２５内リレー「Ｅ１２Ａ－Ｋ３３４Ａ」の接点出力端子ＪＪ１１５とＪＪ１１６間の電圧を測定した結果、０Ｖ（判定基準：０Ｖ）であった。
+　以上の結果により、「Ｅ２１Ａ－Ｋ８－１」のリレーに不具合のあることを確認した。
+（３）リレー「Ｅ２１Ａ－Ｋ８－１」の交換
+　上記点検の結果において不具合の認められたリレー「Ｅ２１Ａ－Ｋ８－１」について交換を行った結果、「ＬＰＣＳ　ＩＮＪＥＣＴＩＯＮ　ＶＡＬＶＥ　△Ｐ　ＬＯＷ」警報が発報した。
+（４）不具合リレー「Ｅ２１Ａ－Ｋ８－１」接点の接触抵抗測定
+　取外したリレー「Ｅ２１Ａ－Ｋ８－１」について、単体動作確認及びその時のリレーの接点抵抗を確認したところ、警報出力用接点の抵抗が無限大であることを確認した。なお、その他（注入弁自動開用、注入弁手動開用）の接点は正常であった。
+（５）差圧スイッチ及び警報回路の健全性確認
+　不具合リレーを交換後、ＬＰＣＳ注入弁（Ｆ００５）下流側のドレン弁を開閉することにより、注入弁の差圧を実際に変化させ、その時の警報発報状態を確認した結果、正常に「ＬＰＣＳ　ＩＮＪＥＣＴＩＯＮ　ＶＡＬＶＥ　△Ｐ　ＬＯＷ」警報が発報することを確認した。
+
+　以上の点検結果より、運転上の制限を満足していることが確認されたことから、１５時００分に運転上の制限の逸脱宣言を解除した。なお、運転上の制限の逸脱解除後、ＬＰＣＳ系定期試験を実施し、異常のないことを確認した。
+
+２．工場点検結果
+　当該リレーについて、接点不良（抵抗無限大）が確認されたことから、工場にて、外観検査、動作試験及び分解調査を実施した。
+（１）外観検査
+　外観検査を行った結果、ひび割れ、破損、配線損傷等の異常は確認されなかった。
+（２）動作試験
+　接点接触抵抗測定等を行なった結果、異常は確認されなかった。
+（３）接点観察
+　当該リレーについて、分解を行い接点観察を行った結果、以下のことが判明した。
+［１］当該リレーの不良接点を目視観察した結果、繊維状の異物が付着していることを確認した。
+［２］マイクロスコープ及び走査型電子顕微鏡（ＳＥＭ）で観察した結果、繊維状の異物が付着していることを確認した。
+［３］付着していた繊維状の異物について、蛍光顕微鏡を用いて分析した結果、蛍光反応を示したことから、有機物であることを確認した。
+［４］付着していた繊維状の異物について、顕微フーリエ変換赤外分光光度計（ＦＴ－ＩＲ）を用いて分析した結果、工場内で使用している防塵カバー、場内の作業服とは異なる波形が検出されたことから、作業者の私服等の繊維であると推定された。
+［５］接点の面荒れ、酸化膜等の異常は確認されなかった。
+
+３．履歴等調査
+　工場点検結果より、製造時における繊維状の異物混入が不具合の原因と推定されたことから、以下の調査を行った。
+（１）メーカーでの異物混入防止対策
+　リレーメーカーにおいて、以下の改善を行っていることを確認した。
+［１］１９９９年３月から、異物混入防止、生産性向上及びコスト削減のため、製品全体エアー洗浄工程を人から自動洗浄機による洗浄工程に変更
+［２］２０００年５月生産分より，製品の品質向上のため，完成品の繰り返し動作検査（３方向）を実施
+（２）当該品の製造年月日、同一型式の不具合事例調査
+［１］当該品の製造年月日を調査した結果、１９９８年１２月１日に製造されていた。
+［２］繊維屑付着による不具合事例を調査した結果、過去１９９７年４月から１９９９年２月までの出荷台数約５８万台の内、当該品を含め３台の不具合があった。また、それ以降に１００万台以上出荷しているが同様の不具合は発生していない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[107]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2157</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 18:04:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2777</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200209120958]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当該不具合リレー「Ｅ２１Ａ－Ｋ８－１」について、予備のリレー（２００２年９月製造）と交換した。また、念のため、同時期（第１７回定期検査）に交換した同一ロットのリレー９台について予備のリレー（２００２年９月製造）と交換した。
+　尚、今後仮に同様な事象が発生したとしても、保安規定に定める運転制限範囲内で修理が可能であり、現状の設備で今後ともプラントの安全・安定運転を確保できる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　海水温度上昇による出力低下運転中のところ、平成１４年９月１２日（木）９時５３分より低圧炉心スプレイ系（以下、ＬＰＣＳという）電動弁作動試験を開始した。９時５８分　ＬＰＣＳ注入弁（Ｆ００５）作動試験のために弁下流側の圧抜きを実施したところ、圧力が低下したことで発報するはずの「ＬＰＣＳ　ＩＮＪＥＣＴＩＯＮ　ＶＡＬＶＥ　△Ｐ　ＬＯＷ」警報が発報しなかった。
+　このことにより、非常用炉心冷却系のひとつでＬＰＣＳに係る要求事項である保安規定第２７条「注入弁両側差圧低（開許可）」を満足していないと判断されたため、１０時００分、「運転上の制限」の逸脱を宣言した。このため、保安規定第３９条（表３９－３）に従い、１０時１５分より低圧注水系３系統（ＲＨＲ（Ａ），（Ｂ），（Ｃ））について、系統健全性確認試験を開始した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　警報が発報しなかった原因は、以下の通りと推定される。
+（１）洗浄工程、検査工程の改善前、ごくまれな確率でリレーの製造、洗浄工程時に作業者の私服等の繊維状の異物がリレー内に混入し、それが検知されないまま出荷された。
+（２）繊維屑が混入したリレーが、中央制御室盤に設置された。
+（３）サーベランスの都度接点が開閉し、接点間に気圧の低い部分が発生することで、空気の流れが生じ、徐々に繊維状の異物が接点に接近した。
+（４）９月１２日の定期試験時において接点に繊維状の異物が付着した。
+（５）その結果、リレー作動時に接点間にわずかな隙間が発生し、接触抵抗が増えたため、警報が発報しなかったものと考えられる。
+　なお、工場における動作試験において正常であった理由は、リレーの開閉作動により接点間の異物がつぶれ、接触抵抗が回復したものと推察される。
+
+　以上のことから、当該品の不具合は異物混入防止対策実施前に製造されたものではあるものの、５８万台に３件という発生頻度から、極めてまれな偶発故障と考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[低圧炉心スプレイ系（ＬＰＣＳ）注入弁（Ｆ００５）作動試験時の不具合について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 18:04:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+			<TROUBLE_ID>2157</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[接触部*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2157</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[リレー]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[低圧炉心スプレイ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[107]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[107]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2157</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2157</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2157</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

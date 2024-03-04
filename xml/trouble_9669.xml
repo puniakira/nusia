@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9669</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/04/21 10:37:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4167</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/04/01 16:14:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200803311051]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/04/21 10:37:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成20年３月31日、定期検査中の福島第二４号機タービン建屋地下２階の原子炉に水を送るためのポンプを動かすタービン用の油タンク（以下、当該タンク）室において、定期検査時に一時的に潤滑油を貯蔵するタンクから当該タンクへ潤滑油の移送作業を行った。
+作業終了後に点検を実施したところ、当該タンクの上蓋から潤滑油が漏れてタンク上部と床に溜まっていることを、同日午前10時51分頃、当社社員が確認した。
+漏れた油の量は約3.4リットルであり、漏えいが停止していることを確認した。
+なお、本事象については、同日午前11時６分頃、消防本部へ連絡した。
+
+　調査の結果、以下のことがわかった。
+・貯蔵タンクはタービン建屋地下１階、当該タンクは地下２階に設置されており、約７メートルの高低差があるため、油移送ポンプを停止しても油移送配管の弁を閉めるまでは、潤滑油が当該タンクに流れ続けること。
+・操作手順書には、油移送ポンプの停止後、油移送配管の弁を閉める手順となっていたが、ポンプの停止後、速やかに弁を閉めることは明記されていなかったこと。
+
+　以上のことから、油が漏れた原因は、油移送ポンプの停止後、速やかに油移送配管の弁を閉めなかったため、貯蔵タンクと当該タンク間の高低差により潤滑油が流れ続け、当該タンクの上蓋から潤滑油があふれて漏えいしたものと推定した。
+
+　対策として以下を実施する。
+・油移送ポンプを停止しても、当該タンクと貯蔵タンク間の高低差により潤滑油が流れ続けることを操作手順書に明記し、注意喚起を図る。
+・タンク間に高低差がある油移送設備では、受け入れ側のタンクの液位を確認しながら、速やかに油移送配管の弁を閉じた後、油移送ポンプを停止するように手順を変更する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S127]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の４号機タービン建屋における油漏れの確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/03 09:43:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

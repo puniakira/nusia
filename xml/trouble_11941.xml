@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11941</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/06/10 11:01:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/03/11 19:56:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201403100820]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/06/10 11:01:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２６年３月１０日午前８時２０分頃，荒浜側共用設備である新設補助ボイラー建屋（非管 理区域）において，建設中の補助ボイラー設備の試験中に，ボイラーの給水タンクの水位ならびに非放射性ストームドレンサンプの水位が変動していることを示す警報が発生した。このため，ボイラーを管理する運転員が現場を確認したところ，同建屋２階にある給水タンクに外観上の異常はなく，その周辺等に水漏れは認められなかった。
+一方，同建屋地下１階の非放射性ストームドレンサンプピットから水が溢れ，非放射性ストームドレンサンプピット室内に水が溜まっていることを確認した。当該サンプピットから溢れた水の量は、約４７，６００リットル（７ｍ×８．５ｍ×約０．８ｍ）と推定された。
+その後，現場の運転員が異音を聞いたことから，現場を調査したところ，当該ボイラー設備の給水タンク（Ａ）（Ｂ）が大きく変形していることを確認した。ボイラーについては，溢水確認後，速やかに運転を停止した。
+
+＜時系列＞
+３月１０日（月）
+０８：２１　給水タンク水位（Ａ）（Ｂ）「高」警報発生
+０８：２２　給水タンク水位（Ａ）（Ｂ）「高」警報クリア
+給水タンク水位（Ａ）（Ｂ）「低」警報発生
+０８：２３　給水タンク水位（Ａ）（Ｂ）「低」警報クリア
+非放射性ストームドレンサンプピット水位「高／低」警報発生
+０８：２４～０８：４５
+給水タンク水位（Ａ）（Ｂ）「低」警報発生→クリア の繰り返し
+０８：４５　給水タンクに変形はなく，その周辺に水漏れのないことを確認
+（ＲＷ中操に連絡）
+０８：４８　非放射性ストームドレンサンプ（Ａ）（Ｂ）電動機過負荷警報
+ＭＣＣ　１Ｓ－５Ａ／Ｂ故障
+０８：５８　ボイラー５Ａ停止，異音および給水タンクの変形を確認
+※ピット内写真撮影のために下に降りている時に異音を確認
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S088]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[建設中の補助ボイラー設備における水の漏えいおよび給水タンクの損傷について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/03/11 19:57:55]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

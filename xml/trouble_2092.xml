@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１　格納容器圧力上昇時における点検調査結果
+　格納容器ベント間隔が短くなっていることから、格納容器内で漏えいが想定されたため、要因分析に基づき点検調査を行った。
+（１）原子炉冷却材等（給水、蒸気、制御棒駆動水、原子炉補機冷却系、原子炉水）の漏えい
+ａ）格納容器冷却器ドレン流量等：格納容器冷却器ドレン流量について確認した結果、有意な変化は認められず、その他の格納容器内パラメータについても有意な変化は認められず異常はなかった。なお、格納容器内床ドレン水の放射能分析を行った結果、原子炉水に含まれるナトリウム２４（半減期１５時間）は検出されなかった。また、原子炉補機冷却系（ＲＣＷ）に添加されている防錆剤（亜硝酸ナトリウム：ＮａＮＯ２）についても検出されなかった。
+ｂ）格納容器内ガス分析：格納容器内のガス分析においても、原子炉水及び蒸気系に含まれる窒素１３（半減期１０分）フッ素１８（半減期１１０分）の増加は認められなかった。
+（２）窒素の漏えい
+ａ）格納容器内酸素濃度：格納容器内酸素濃度について確認した結果、格納容器圧力上昇が確認された頃から濃度が低下傾向であった。
+ｂ）液体窒素貯蔵タンク液位：液体窒素貯蔵タンク液位について確認した結果、１２月中旬より液位の低下が早まっていることが確認された。
+　これらのことから、格納容器内で窒素が漏えいしていることが想定されたため、格納容器内に窒素を供給する５つの配管について、ラインの隔離等による調査を行った。
+［１］窒素ガスパージラインからの漏えい：当該ラインを隔離し、確認した結果、圧力上昇傾向に変化はなかった。
+［２］窒素ガス補給ラインからの漏えい：当該ラインを隔離し、確認した結果、圧力上昇傾向に変化はなかった。
+［３］移動式炉内計装系パージラインからの漏えい：当該ラインを隔離し、確認した結果、圧力上昇傾向に変化はなかった。
+［４］格納容器内弁作動用窒素供給ラインからの漏えい：格納容器内弁作動用窒素供給ラインの配管を音響センサーにより確認した結果、連続的に流れる音を確認した。
+［５］自動減圧系窒素供給ラインからの漏えい：自動減圧系窒素供給用ボンベの圧力状況を確認した結果、圧力の低下は、認められなかった。
+（３）調査結果まとめ
+　原子炉冷却材圧力バウンダリからの一次系の漏えいを監視するパラメータに異常は認められなかった。また、格納容器内弁作動用窒素供給ラインの聴音の結果、連続的に流れる音を確認したこと、液体窒素貯蔵タンク保有量の低下傾向が早まっていること及び格納容器内酸素濃度が低下していることから、格納容器内弁作動用窒素供給ラインを経由して格納容器内で窒素が漏えいしている可能性が高い。なお、漏えい量は平成１４年１月１日から１月６日の平均値で、格納容器内容量を９８００ｍ＾３として約７ｍ＾３／ｈと推定された。
+
+２　運転中の対応
+（１）関連パラメータの監視：１時間に１回の格納容器内圧力データの採取による監視を継続した。
+（２）保安規定に基づく検査での確認：保安規定に基づく検査（非常用炉心冷却系等）を行い、窒素で作動する機器に異常のないことを確認した。
+
+３　平成１４年２月１４日の状況調査
+　格納容器ベントは通常の１回／月程度から１回／３０時間前後に推移していたが、平成１４年２月１４日１２時以降、格納容器圧力は、ほぼ安定した状態となり、格納容器内弁作動用窒素供給ラインの聴音においても、連続的な流れる音もなくなった。
+（１）操作履歴調査：２月１４日当日の関連操作として、以下の操作を実施している。
+・定期試験　主蒸気隔離弁（以下、「ＭＳＩＶ」という。）１０％閉試験
+・格納容器ベント操作　６．４ｋＰａ（０．０６５ｋｇ／ｃｍ＾２ｇ）→２．９ｋＰａ（０．０３０ｋｇ／ｃｍ＾２ｇ）
+（２）圧力上昇率と定期試験との関係調査
+　これまでの格納容器圧力データより、圧力上昇率を求め、ＭＳＩＶ１０％閉の定期試験との相関を確認したところ、定期試験実施日と圧力上昇率の変動がほぼ一致していることを確認した。
+
+４　平成１４年４月の点検調査結果
+　平成１４年４月４日の原子炉給水系（Ｂ系）点検に伴う原子炉手動停止に合わせ、ＭＳＩＶ廻りを含め格納容器内弁作動用窒素供給ラインの点検を行った。当該配管に繋がるＭＳＩＶ及びその他の機器について漏えい確認を行った結果、有意な漏えいは認められなかった。ＭＳＩＶについては、２月１４日の１０％閉試験から圧力上昇が鈍化していることから、全開、全閉及びテスト閉時の状況も確認したが漏えいは認められなかった。
+
+５　第１９回定期検査での点検調査
+　格納容器内弁作動用窒素供給ラインからの一時的な漏えいであることから、当該ラインに接続されるすべての機器について漏えい確認等を行った。
+（１）試験可能逆止弁他の点検
+　格納容器内弁作動用窒素供給ラインに接続される各系統の格納容器隔離弁、試験可能逆止弁、均圧弁等の窒素作動弁について弁の作動試験を実施した結果、弁アクチュエータからの漏えいはなかった。また、電磁弁からの連続排気等の漏えいも認められなかった。
+（２）ＭＳＩＶ点検
+　ＭＳＩＶの作動試験を実施し、弁アクチュエータからの漏えいはなかった。また、電磁弁からの連続排気等の漏えいも認められなかった。ＭＳＩＶのアキュームレータ廻りの弁、フランジ等からの漏えいのないことを確認した。
+　また、コントロールパネルについて、単体漏えい試験を実施した結果、漏えいはなかった。さらに、分解点検を実施したがシール部品（ポペットシール）に割れ等の異常は認められなかった。
+　格納容器ベント頻度が、ＭＳＩＶ作動試験前後で変化していること、及び、格納容器圧力上昇が停止したときＭＳＩＶの作動試験を実施していることから、ＭＳＩＶの１０％閉の定期試験操作に係る電磁弁又はシール部品の錆等の異物かみ込み、電磁弁シート部のすわり不良、スピンドルのずれ等による一時的なシール不良が原因で連続排気していた可能性がある。
+（３）主蒸気逃がし安全弁点検
+　主蒸気逃がし安全弁の作動試験を実施し、弁アクチュエータからの漏えいはなかった。また、電磁弁からの連続排気等の漏えいも認められなかった。主蒸気逃がし安全弁のアキュームレータ廻りの弁、フランジ等からの漏えいのないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[103]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2092</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/05/13 13:15:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2713</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200112051636]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の事象は、異物による不具合も１つの要因として考えられることから、異物管理に関しては、従来と同様、確実な開口部の養生及び機器復旧時の配管のフラッシングを行い万全を期すものとする。
+　また、格納容器内側ＭＳＩＶ４台に係るコントロールパネルについては同一型式のローテーションパーツと入替を行った。
+　なお、取外したコントロールパネルについては健全性を確認し、異常がなかったが、念のため、次回定検（第２０回）で入れ替える前までに、パイロット弁（Ｂ）のシール部品、電磁弁（Ｃ）の取替及びコントロールパネルの手入れを実施する予定である。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/05/13 13:15:40]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は定格出力（電気出力１１００ＭＷ）で運転中のところ、平成１３年１２月５日頃から、原子炉格納容器（以下、「格納容器」という）内圧力の上昇が認められた。このため、その後の格納容器圧力の推移を確認するため、毎正時圧力データ等の採取をすることとした。格納容器ベントは通常の１回／月程度から１回／３０時間前後まで短くなっていたが、平成１４年２月１４日１２時以降、格納容器圧力は、ほぼ安定した状態となり、第１９回定期検査の停止（平成１４年９月１６日）まで上昇はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2001-原電-M009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　ＭＳＩＶの１０％閉定期試験において、ＭＳＩＶを制御するコントロールパネル内のパイロット弁（Ｂ）シール部品若しくは電磁弁（Ｃ）に一時的にシール不良が発生し、連続排気した。その結果、格納容器圧力の上昇率が通常と比較して高くなった。さらに１週間に１回のＭＳＩＶ作動の都度、連続排気量が増加したが、平成１４年２月１４日のＭＳＩＶ作動試験後、正常に復帰し、その後再発しなくなったと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉格納容器内圧力の上昇について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 17:59:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+			<TROUBLE_ID>2092</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2092</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2092</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の弁]]></KIKI_NAME>
+				<SORT_NO>17</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[主蒸気系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[103]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[103]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2092</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2092</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2092</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

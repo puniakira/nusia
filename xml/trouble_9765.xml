@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9765</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/05/16 16:00:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4205</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/05/15 16:59:26]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200805080145]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成20年５月８日１時45分頃に発生した茨城県沖地震後の現場パトロールにおいて、定期検査中の２号機タービン建屋地下１階（管理区域）で、床面に放射能を含んでいない水約75リットル、および堰内に放射能を含む水約25リットル（放射能量：2.78×10^2ベクレル）の漏えいを確認した。
+　現場を確認した結果、復水を一時的に貯蔵するタンク（以下、タンク）の排水用ポンプ（以下、ポンプ）を起動するための水位計（以下、水位計）が動かなくなりタンクから水が溢れ、床面および堰内にこぼれたものと推定し、水位計が動かなくなった原因について、地震との関連性も含めて調査することとした。
+　なお、本事象による外部への放射能の影響はなかった。
+
+　調査の結果、以下のことが確認された。
+・地震発生時刻と同じ平成20年５月８日１時45分、タンクの水位が高いことを知らせる警報が発生したこと。
+・床面に埋設されているタンク付近およびタンクの空気抜き配管から溢水が流れ込む排水口付近の床面２箇所で、合計約75リットルの水を確認したこと。
+・タンクの水が一定レベル以上になった場合、堰内に設置されているタービン建屋機器サンプに排水されるが、機器サンプに接続されている排水口付近で約25リットルの水を確認したこと。
+・ポンプは地震発生前まで正常に動いていたが、地震発生後に停止していたこと。また、停止していたポンプを手動で起動させたところ、正常に起動したこと。
+・地震発生後、水位計は動いていなかったが、手で叩いたところ、正常に動くようになったこと。
+・水位計の分解点検を実施したが、キズや異物の付着等の異常は認められなかったこと。また、動作確認の結果、水位計が動かなかったことについては再現性が認められなかったこと。
+・タービン建屋機器サンプの水を排水する機器サンプポンプは、正常に動作していたこと。
+
+　以上のことから、水位計が動かずポンプが起動しなかったことにより、タンク内の水が排水されずに溢れたものと推定した。
+　また、タービン建屋機器サンプの水を排水する機器サンプポンプは正常に動いていたものの、流入量が多かったため機器サンプに接続されている排水口から水が溢れ出たものと推定した。
+　なお、水位計が動かなくなった原因については特定でなかった。このため地震との関連性についても特定に至らなかった。
+
+　対策として、以下のことを実施することとした。
+・今後、水位計に異常が発生した場合でも他の水位計の信号を用いてポンプを起動させるなど、水位計の改造を検討する。
+・水位計を改造するまでの対策として、仮にタンクからの水が溢れ出ても、溢れた水を回収できるよう特別な養生を施した。
+・また、タンクからの水をポンプで復水器に移送している期間にタンクの水位が高いことを知らせる警報が発生した場合には、ただちにポンプを手動で起動するなどの必要な処置を行えるよう連絡・対応体制を整備する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中のタービン建屋内における水漏れについて
+]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/16 16:00:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

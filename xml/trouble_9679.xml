@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．線量計の異常の有無確認
+（１）現場の雰囲気線量率測定 
+　原子炉圧力容器上蓋（以下、「ＲＰＶヘッド」という。）移動後の３月２１日に実施した作業エリアの雰囲気線量率測定結果では、４方向５箇所において0.4～0.6mSv/hであった。
+　この結果と午後の作業時間（午後の作業時間：３時間）から、作業員Ａの線量指示値は妥当なものと考えられる。
+（２）線量計の健全性確認
+　線量計の健全性確認として、照射試験を実施した結果、警報設定及び表示、警報鳴動共に正常であることを確認した。
+２．原因調査
+（１）作業計画段階での調査結果
+　作業を実施する前には、作業指示書による指示、当日朝のＴＢＭによる作業内容の確認が行われる。それらの状況について調査した結果は以下の通り。
+１）作業指示書の作成
+　当該作業の作業指示書は、ＲＰＶヘッド移動前日の３月２０日（木）に作成※３しており、移動後に測定した現場の雰囲気線量率が反映されていなかった。※４
+※３：週末の作業指示書は予め作成することとしており、当該作業は２２日（土）であることから、２０日（木）に作成されている。ＲＰＶヘッド移動は２１日（金）、現場の作業環境測定も２１日（金）であった。
+※４：作業指示書の雰囲気線量率は～0.1mSv/hと記載されていたが、環境測定結果は0.4～0.6mSv/hであった。なお、前回定検は0.15～0.29mSv/hであり、今定検の約半分であった。
+　また、当該作業の作業指示書に現場の雰囲気線量率を記載した放射線管理員に状況を確認したところ、作業場所をウェル内作業（ＲＰＶ胴側作業）と勘違いし、雰囲気線量率を～0.1mSv/hと記載していた。
+　２）ＴＢＭの実施
+　２２日朝のＴＢＭは、現場の雰囲気線量率が～0.1mSv/hと記載された作業指示書で行われていたが、放管部門による作業指示書の訂正またはＴＢＭでの周知が出来なかった。
+（２）作業状況の調査結果
+　午後の作業開始後約２時間を経過した頃から、順次数名の線量計の警報が鳴動し、退出しているが、それらを確認している放射線管理員や作業班長は、鳴動していない者に対して、一時退出や線量の確認を行わず、作業を継続させていた。
+（３）聞取り調査結果
+　作業員Ａ及び作業班長からの聞取り調査を実施した結果、以下のとおりであった。
+　１）作業員Ａ
+　　・回りの作業員が退出していったことは判っていたが、自分の所持している線量計の警報が聞こえなかったので問題ないと思った。
+　　・隣で作業していた作業班長の線量計の警報が発報し、退出したため、一緒に退出し、線量計を確認した。
+　２）作業班長
+　　・前回定検と同一作業であり、線量計の警報が発報する作業ではないと思っていた。
+　　・他の作業員が線量計の警報が鳴動していることは確認したが、それは午前中の線量が違うために午後の入域時は警報設定が各人で違うからであり、午前中の線量実績が少なく警報設定を高めに設定している作業員Ａと自分は発報していないものと思った。
+　３）放射線管理員
+　　・当該作業は定例業務であり、過去の定検の環境測定結果・作業実績から、放射線管理上問題のある作業とは考えていなかった。
+　　・同一階で他作業（ダスト等の発生に注意を要する作業）があり、その作業を中心に放射線管理を実施した。
+　　・警報発報時、小さい警報設定の線量計を携帯した人だけが鳴動しているものであり、0.7mSv設定の人は大丈夫だと思っていた。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9679</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/04/04 09:23:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4170</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/04/03 14:06:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200803221750]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）本事象を発生させた会社（Ａ社）
+・今回の不具合を事例として作業関係者全員に事例教育を実施する。特に線量計の警報が発報した場合は、全員が一旦その作業エリアを退出し、線量計の指示値の確認を行うよう周知する。（周知済）
+・従来から常に安全を最優先に作業を行うということを徹底してきたが、再度周知徹底する。また、通常と異なる事象が発生した場合は、立ち止まり、状況を再確認することを周知徹底する。（周知済）
+・当該作業の作業指示書については、今回の環境測定結果を反映し、作業量等の見直しを行う。また、（３）に示す歯止めの報告が当社になされ、当社が了解するまで当該作業を中断する。（見直しを実施し作業再開済）
+・当該作業以外の作業については、すべての作業指示書と作業環境測定結果に差異のないこと、過去の実績（作業時間、線量）及び作業環境測定結果から１日の作業量に問題のないことを当社社員が確認する。（確認済）
+（２）Ａ社以外のすべての会社に対しては、２３日朝、各社放射線管理責任者に対し今回の事例を紹介し、今回の事例のような管理がなされていないことを確認すると共に再度徹底する。（確認済）
+（３）マニュアル等の見直し
+　今後同様な事象が発生しないよう歯止めとして、運用で行っていた以下の事項をＡ社の放射線管理マニュアル・入所時教育資料に明記し、定検開始時等に定期的に教育することにより再徹底を図る。なお、マニュアル等の変更が行われるまでは、Ａ社現地放管グループ内の事例教育を実施する。
+＜Ａ社マニュアルの見直し＞
+・放射線環境が特殊・１種作業※５の作業指示書は、放管監督者以上の者によるダブルチェックを行う。
+・作業環境測定に当たっては、前回定検の測定データを参照しながら（前回測定データがある場合）測定を実施する。
+・作業環境について、計画と測定結果との比較を実施し、差異がある場合は作業指示書の見直しまたはその差異内容をＴＢＭで周知する。また、その結果に応じて当日の作業内容の見直しを行う。
+＜Ａ社教育資料への取り入れ＞
+・同一作業メンバーで線量計警報鳴動者が発生した場合、作業を中断し線量実績を確認することは記載され教育しているが、より明確となるよう記載を見直す。
+・本事象を事例として取り入れ、新規入所者全員に周知できるようにする。
+※５：特殊作業とは、汚染区分がＤ、線量当量率が2mSv/h以上での作業
+　　　１種作業とは、汚染区分がＣ、線量当量率が1mSv/h以上での作業]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２０年３月１８日より第２３回定期検査中のところ、３月２２日、原子炉建屋６階オペレーティングフロアにて作業員１２名で原子炉圧力容器上蓋内点検手入れ作業を朝から実施していた。
+　午後になって、数名の作業員は線量計の警報（予め設定した１日の計画値である0.8mSvを超えないように設定※１）が鳴動したことから、作業エリアを退域していた。作業員Ａは自分の線量計の警報が鳴っていないと認識し、作業を継続したが、隣にいた作業班長の線量計の警報が鳴動したことから、作業を中断して作業エリアを退出した。
+　退出後、作業員Ａの線量計を確認したところ、線量計の指示値が、1.07mSv（午前中の作業線量との合計値は1.10mSv）であり、１日の線量管理目安値（１mSv※２）を超えていることを確認した。また、隣で作業を行なっていた作業班長の線量計の指示値は0.71mSvであった。
+
+※１：午前中の被ばく実績により0.8mSvを超えないように設定（例：午前中に0.03mSv被ばくした場合は、午後の設定は0.7mSv）する。
+※２：水戸基署発第580号（平成12年12月11日付）「原子力施設における放射線業務に係る安全衛生管理対策の強化について」により、放射線業務に係る作業のうち、・労働者の１センチメートル線量当量が1日につき１ミリシーベルトを越えるおそれのある作業を行なう事業者はあらかじめ「放射線作業届」の届出（緊急の場合を除く）、作業終了後の報告を求めている。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-M021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）計画段階
+　１）作業指示書のチェック不足
+　作業指示書中の現場の雰囲気線量率が実際の場所と異なる場所の値が記載されていたが、作業指示書の承認過程で十分チェックされず、それが検知できなかった。
+　２）作業グループへの周知不足
+　作業指示書には今定検の環境測定データが反映されておらず、現場の雰囲気線量率の値が大きく違っていたことから、作業指示書の修正若しくは当日のＴＢＭでの周知が必要であった。
+　しかしながら、放射線管理員が、(1)環境測定時に前回データを参照して測定していなかったこと、(2)作成された作業指示書と今回の測定データを比較しなかったことから、雰囲気線量率が上昇していることを認識出来ず、作業指示書の修正若しくは当日のＴＢＭでの周知が出来なかった。
+（２）実施段階
+　同一エリアで同一作業を行っている他者の線量計の警報が発報した場合、全員が一旦その作業エリアを退出し、線量計の指示値の確認を行うことを原則としている。
+　しかしながら、今回の場合、作業班長や放射線管理員は、重装備（ＰＶＡスーツ、フードマスク着用）であったことや線量計の設定が各人違っていたことから、この原則に従った対応を指示できなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[日の線量管理目安値１mSvの超過について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/04 09:23:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>2021</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[なし]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9679</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

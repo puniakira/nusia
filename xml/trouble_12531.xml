@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12531</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/11/11 14:20:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>64621</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/11/04 19:02:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201608100121]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　雑固体廃棄物焼却設備は、不具合箇所の点検を行うため、8月10日午前1時21分に雑固体廃棄物焼却設備（Ｂ）系、同日午前4時20分に雑固体廃棄物焼却設備（Ａ）系の焼却を停止。その後、雑固体廃棄物焼却設備（Ａ）系および（Ｂ）系の点検を行った結果、設備の点検・復旧等に伴う停止期間が長期に至る可能性があると判断。
+
+　なお、不具合箇所および状況については、以下のとおり。
+　＜雑固体廃棄物焼却設備（Ａ）系＞
+　　・焼却炉出口側の排ガス冷却器とバグフィルタの間の伸縮継手部に1箇所の割れ（割れの大きさは長さ約20cm×最大幅約2cm）
+
+　＜雑固体廃棄物焼却設備（Ｂ）系＞
+　　・焼却炉出口側の二次燃焼器と排ガス冷却器の間の伸縮継手部に2箇所のピンホール（ピンホール下部の床面に水の滴下あり）
+　　・焼却炉出口側の排ガス冷却器とバグフィルタの間の伸縮継手部に2箇所の割れ（割れの大きさは長さ約10cm×最大幅約1cm、長さ約10cm×最大幅約0.1cm）
+
+　雑固体廃棄物焼却設備は、焼却炉出口側の系統内を通る排ガスが周辺の建屋内に漏れないよう、系統内に加え、雑固体廃棄物焼却設備の建屋自体も負圧構造となっていることから、放射性物質による外部への影響は無い。
+　また、この発生前後において、雑固体廃棄物焼却設備の排ガスモニタ、ダストモニタおよび建屋内のエリア放射線モニタ、並びに発電所構内ダストモニタ、モニタリングポストの指示値に有意な変動は無い。
+　なお、雑固体廃棄物焼却設備の焼却炉出口側は、焼却炉で燃焼した排ガス（高温の気体）が系統内を通っているが、ピンホールが確認された箇所（２箇所）の床面に滴下した水の量がごく微量であったことから、床面の滴下跡をスミア測定したところ、放射性物質は検出されていない。その後、同日午前７時頃に滴下状況を確認したところ、ピンホール箇所からの滴下が止まっていることを確認。
+
+　本事象の主な発生原因は、以下の３つに分けられるが、今後更なる根本原因調査を行い、対策・水平展開を実施する。
+　　A【環境】排ガスからの凝縮水発生を防止する熱設計が不足していた。
+　　B【応力・材料】排ガスが凝縮するリスクを踏まえた材料選定・加工ではなかった。
+　　C【その他】熱による変位量を過小に見積もっていた。
+
+　主な発生原因が、凝縮水発生であったことから、温度低下や排ガス滞留部など結露しうる箇所の洗い出しを行い、発生メカニズムを顧慮して以下の対策を実施することとした。
+◯孔食への対策
+　　・局所的な温度低下による凝縮水を発生させないよう、ヒータ設置、保温施工により伸縮継手の温度低下の抑制を行う。
+◯応力腐食割れへの対策
+　環境因子
+　・排ガスが滞留しないよう、排ガス補助ブロワの運転方法の見直しを行う
+　・結露、潮解を防止するため、排ガス滞留部、消石灰付着箇所へのヒータ､保温の設置
+　応力因子
+　・残留応力を軽減するため、伸縮継手ベローズ部は加工後に固溶化熱処理を行う
+　材料因子
+　・耐食性を有する材料（SUS316L）への変更
+◯熱による変位量の過小見積もり
+　・伸縮継継手の熱による変位量の誤りは、再評価の上、適用可能な仕様に変更
+◯煙道の塗装剥離、腐食への対策
+　・伸縮継手と同様の対策により高湿度雰囲気を防止する。
+　・剥離した塗装部の再塗装及び付着した錆の清掃・手入れを実施する。
+
+[補足]
+　本事象の対応状況は、2016年10月27日に実施された「廃炉・汚染水対策チーム会合 第35回事務局会議」
+の【資料３－４】放射性廃棄物処理・処分（下記URL）のP12-P13より抜粋。
+（http://www.tepco.co.jp/nu/fukushima-np/roadmap/images1/images2/d161027_09-j.pdf）]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東京-S022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[雑固体廃棄物焼却設備停止について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/11/11 14:20:19]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

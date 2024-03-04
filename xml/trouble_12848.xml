@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12848</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/09/08 20:20:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>77650</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/08/29 13:45:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201805181128]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　5月18日午前11時28分、「免震棟ＰＬＣ間通信異常」の警報が発生し、免震重要棟においてサブドレン水位が監視不能となり、その後、現場に設置してある水位計にてサブドレン水位が監視できていることを午前11時45分に確認。現在、各建屋の滞留水水位は近傍のサブドレン水位を超えていないことを確認できているものの、今後、サブドレン水位が免震重要棟にて継続的に監視することができない懸念があることから、午後0時15分、実施計画第１編第２６条（建屋に貯留する滞留水）表２６－２で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」を満足できないと判断。
+　建屋内滞留水の水位よりもサブドレン水位を、引き続き高く保つため、午後0時27分にサブドレンポンプ全台のくみ上げを停止。なお、プラントパラメータ、モニタリングポスト、排水路モニタなどには異常はないことを確認。
+
+　その後、現場の状況を確認した結果、通信ケーブルに異常が確認されたことから、通信ケーブルの交換を実施し、サブドレン水位が免震棟にて監視できる状態となったことを午後4時6分に確認。また、サブドレン水位が確認できない期間において、各建屋の滞留水水位が近傍のサブドレン水の水位を超えていないことを確認。
+　このことから、実施計画第１編第２６条（建屋に貯留する滞留水）表２６－２で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」を満足していたと、午後5時55分に判断。なお、サブドレンポンプは全台起動を完了済み。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　サブドレン水位監視設備通信異常に伴う運転上の制限の逸脱について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/09/08 20:20:04]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

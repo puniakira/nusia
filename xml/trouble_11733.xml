@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11733</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/09/20 10:31:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>41531</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/06/10 20:57:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201305071040]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/09/20 10:31:01]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第３号機は定期検査中のところ、平成２５年５月７日、屋外開閉所エリアでの資材運搬作業準備のためにクレーン車を移動中、ケーブルダクト上において、ケーブルダクトの蓋が破損し、ダクト内へ蓋が落下した。
+　調査の結果、同日１０時４０分、落下した蓋により送電線の碍子を洗浄するためのポンプ※１電源ケーブル２本が損傷していることを確認した。
+　損傷した電源ケーブルについては、損傷箇所を含む約１０ｍを切断し、その部分を新しいケーブルで繋ぎ込み、動作確認を実施後、５月２３日１４時４３分、当該ポンプを運転可能な状態に仮復旧した。
+　仮復旧までの間は、送電線碍子洗浄ポンプは起動不能となっていたが、送電線が停止中であり、碍子を洗浄する必要がなかったため、問題はなかった。
+　落下した蓋部（２枚）については、ケーブルダクトの端部の蓋を流用して取り付け、端部の開口部となったところを足場板で養生していたが、７月４日に新品の蓋を端部の開口部に取り付けた。
+　その後、電源ケーブル（遮断器から当該ポンプまでの約５００ｍ）２本を新品に取り替え、動作確認を実施後、７月１６日１０時４９分、当該ポンプを通常状態に復旧した。
+　なお、本事象による環境への放射能による影響はなかった。　
+
+※１　送電線碍子洗浄ポンプ
+　大気に含まれる塩分や塵埃が屋外開閉所内の碍子表面に付着すると碍子の絶縁特性が低下する。このため純水にて洗浄し、塩分や塵埃を除去することで、碍子の機能を維持するための設備。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[送電線碍子洗浄ポンプ電源ケーブルの損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/06/10 20:57:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

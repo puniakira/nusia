@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>11339</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/07/17 13:51:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/06/06 15:53:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110311]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/07/17 13:51:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ ・ 平成２３年３月１１日の東北地方太平洋沖地震による津波発生以降、海水温度を測定している観測局からのデータが全て欠測したことから、点検したところ、取放水口付近（Ｏ．Ｐ．※１約＋２．５ｍ※２）に設置されている海水温度モニタリング装置のデータ伝送設備の破損を確認した（平成２３年３月２５日～４月１日）。
+・ データ伝送設備の破損は、津波により当該設備が冠水したことが原因でした。
+・ プラントの停止中は、運転中に比べ冷却に使用する海水の量が少量であるものの、定期的に海水温度を測定し発電所周辺の環境へ影響がないこと確認していた。
+・ また、データ伝送装置の再製作には長期間を要することから、バックアップ用として、測定値記録型の水温計を設置し、平成２３年９月１６日に海水温度の測定を始め、測定値を定期的に確認していた。
+※１ 女川の工事用基準面で、Ｏ．Ｐ．±０．０メートルは東京湾平均海面（Ｔ．Ｐ．）－０．７４ｍに相当。
+※２ 女川周辺の地盤沈下量（約１ｍ）を考慮。
+・ 海水温度モニタリング装置については、冠水、損傷したデータ伝送設備の取替工事を完了し、正常に伝送を開始した（平成２４年６月２９日）。
+なお、データ伝送装置は、冠水対策として、原子炉建屋等と同じ高さ（Ｏ．Ｐ．約＋１３．８ｍ※２）へ移設した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東北-S056]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[【東日本大震災関連】海水温度モニタリング装置の津波による破損に伴う全局欠測]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/06/09 09:35:36]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[２．事象発生時の状況調査
+　事象発生時の状況について関係者への聞き取り及び記録類により調査した結果、以下のことが確認された。
+（１）警報等の発生状況
+a．中央制御室表盤(H13-P603)の警報の発生状況を調査した結果、「主蒸気管放射能高」「主蒸気管放射能高高トリップ」「Ｂ系原子炉自動スクラム」等の警報が発生していた。
+また、中央制御室裏盤(H13-P604-2)の当該RISを確認したところ、「高」「高高」の表示灯が点灯していた。
+　なお、他の３チャンネル（Ａ、Ｂ、Ｃ）のRISを確認したところ、「高」「高高」の表示灯は、点灯していなかった。
+　主蒸気管放射線モニタ「高」設定値：4.30E^(-09)［Ａ］
+「高高」設定値：8.60E^(-09)［Ａ］
+
+（２）放射線モニタ等の指示値の状況
+a．中央制御室裏盤の主蒸気管放射線モニタ（Ｄ）の記録計（チャート）を調査したところ、指示値は通常値の約1.7×10^(-9)Ａ（アンペア）から瞬時に上昇し復帰していたことが確認されたものの、上昇値については、記録計から読み取ることはできなかった。
+なお、他のチャンネル（Ｃ）※１の指示値は、事象発生前後で変化はなかった。
+b．主蒸気管放射線モニタ（Ｃ、Ｄ）の記録計及び当該RISの監視のため設置されていたビデオカメラ※２を調査したところ、当該RISの指示値（デジタル）が、通常値の約1.7×10^(-9)Ａ（アンペア）から約6.7×10^(-7)Ａまで瞬時に上昇し復帰していたことが確認された。
+　このため、チャンネル（Ｄ）の記録計の指示値についても、約6.7×10^(-7)Ａまで上昇したものと推定される。
+c．原子炉建屋排気換気空調系放射線モニタや主排気筒放射線モニタの指示値及び記録計の指示値は、事象発生前後で変化はなかった。
+
+※１：主蒸気管放射線モニタは4チャンネルで構成しており、記録計には選択スイッチにより任意で2チャンネル選択出来るようになっており、事象発生時は、チャンネル（Ｃ）（Ｄ）を選択していた。
+
+※２：ビデオカメラによる監視は、平成21年7月31日9時30分頃、当該RISにおいて「高」「高高」の表示灯が点灯していたものの、記録計及び当該RISの指示値は通常値であり、中央制御室表盤に警報も発生していなかったことから、当該RISが誤動作している可能性も考えられたため、主蒸気管放射線モニタ（Ｃ、Ｄ）の記録計及び当該RISの動作状況を確認するため設置していたものである。
+
+（３）論理回路の動作状況
+　設備図書により調査したところ、主蒸気管放射線モニタチャンネル（Ｄ）の「高高」により原子炉保護系Ｂ系の論理回路が作動し、「Ｂ系原子炉自動スクラム」の警報が発生したものでありインターロック通りの動作であった。また、平成２２年５月１１日に当該インターロックの点検を実施し正常に動作することを確認した。
+
+（４）操作及び作業の実施状況
+　事象発生時において、中央制御室の当該RISでの操作及び現場の主蒸気管放射線モニタにて作業は実施していなかった。
+以上の状況調査の結果から、警報が発生したのは、当該RISにおいて何らかの不具合による誤動作が原因であると推定された。　　　　　　　　　　　　　　　　　
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10549</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/06 09:29:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>15115</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/04 15:08:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908191434]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[５．対策
+　推定原因の結果を踏まえ、以下の対策および点検を実施した。
+（１）当該RISを予備品と交換し、増幅器から当該RIS間のケーブルコネクタ部について再端末処理（コネクタピン交換）を実施した。（H21.9.4実施）
+　また、今回の定検時において、現状行っているコネクタ内部の目視確認に加えて異物除去の観点からエアブローを行った。なお、今後についてもコネクタ復旧前においてエアブロー等を実施することとする。
+（２）定検時にケーブルおよびコネクタの絶縁抵抗測定、検出器～RIS間の単体・ループ試験及びRIS外部出力試験（記録計・警報及びインターロック）を実施し、異常がないことを確認した。（H22.4.5～H22.5.11実施）
+　なお、他の３チャンネル（Ａ、Ｂ、Ｃ）についても、対策（２）と同様の試験等を実施し異常がないことを確認した（H22.4.5～H22.5.11実施）
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/06 09:29:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生の概要
+　当所２号機は、定格熱出力一定運転中のところ、平成21年8月19日14時34分頃、「主蒸気管放射能高」「主蒸気管放射能高高トリップ」「Ｂ系原子炉自動スクラム」等の警報が発生するとともに、「主蒸気管放射能高」「主蒸気管放射能高高トリップ」の警報は、発生後に即クリアした。このため、直ちにプラントの運転状態を確認したところ、主蒸気流量等の主要なパラメータに変化はなく原子炉の状態に異常は確認されなかった。
+　なお、主蒸気管放射線モニタの記録計を確認したところ、4チャンネルある主蒸気管放射線モニタの内、チャンネル（Ｄ）の記録計のみ指示値が瞬時に上昇・復帰していることが確認された。
+　さらに、主蒸気管放射線モニタチャンネル（Ｄ）の計測モジュール（RIS-752D）（以下、「当該RIS」という。）を確認したところ、「高」「高高」の表示灯が点灯していた。その後、14時37分頃にスクラムリセット操作等を行い、「Ｂ系原子炉自動スクラム」等の警報をクリアした。
+　また、本事象による主排気筒放射線モニタ等の指示値に変化はなく、外部への放射能の影響もなかった。
+
+　
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-M023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[３．原因調査
+　不具合の原因を調査するため要因分析表に基づき現場及び工場にて調査を実施したところ、以下のことが確認された。　　　　　　　　　　　　　　　　　　　　　　　
+　なお、現場での調査にあたっては、保安規定第74条（予防保全を目的とした保全作業を実施する場合）に基づき、平成２１年９月４日、計画的に運転上の制限外へ移行した後に実施したものである。
+
+３－１　工場調査（現場調査前）
+（１）本事象発生時に現場で撮影されたビデオカメラの挙動を調査するため、現場と同一仕様の増幅器＊とRISで回路を構成し、モックアップによる再現試験（再現条件；信号ケーブル及びコネクタの絶縁低下模擬、信号ケーブルとコネクタ間の接触不良模擬、電源回路内の短絡・電源供給ケーブルの接触不良模擬等）を実施したところ、増幅器とRIS間の-15V電源供給ケーブルの接触不良やRIS内の-15V電源回路における瞬間的な短絡を模擬した条件においてビデオカメラの挙動と同じ指示値の上昇や外部出力（記録計、警報及びインターロック出力）する事象が再現された。
+　また、モックアップ再現試験のうち、信号ケーブル及びコネクタの絶縁低下や接触不良等の実信号の挙動試験については、指示上昇後の降下がビデオカメラの挙動と相違（下降が緩やか）していることが確認されたことから、本事象は実信号の変化事象ではなく、増幅器とRIS間の電源の変動による可能性が高いことが確認された。　　　　　　　　　　　　　　　　　　
+＊：検出器からの信号を増幅し中央制御室の計測モジュール（RIS）に伝送するもの
+
+（２）平成21年7月31日に発生した当該RISの「高」「高高」表示灯の点灯事象についても、モックアップ再現試験において、-15V電源回路における瞬間的な短絡を模擬した条件で事象が再現することが確認されたことから、平成21年7月31日の事象についても、実信号の変化事象ではなく、増幅器とRIS間の電源の変動による可能性が高いことが確認された。
+
+　RISの信号は１周期 (６０ｍｓ)の演算周期で行なっているが、「高」「高高」の設定値以上の信号が１周期のみ演算された場合、RISの「高」「高高」表示灯は点灯するが、外部出力（インターロック動作・警報発生）はされず、２周期（１２０ｍｓ）以上のみ演算された場合、RISの「高」「高高」表示灯が点灯すると共に外部出力される処理であることが確認された。　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+３－２　現場調査
+（１）現場の増幅器から当該RISまでの各ケーブルコネクタ部の目視点検や当該RIS及びケーブルコネクタ部の打診・触診試験を実施したところ、異常はなく、打診・触診試験実施前後において記録計の指示値も変化はなかった。また、現場の増幅器から当該RISまでのケーブルコネクタ部について、端末処理実施し、端末処理実施前後（コネクタピン交換）において導通確認及び大地間抵抗測定を実施したところ、異常はなかった。
+　以上の現場調査結果から、事象の再現は確認できなかったこと及び主蒸気管放射線モニタの機器に異常は認められなかったことから、詳細に原因を追求するために当該RISを予備品と交換するとともに、交換したRIS及び増幅器側、中継コネクタパネル側及びRIS側のソケットコネクタ部を工場に搬出してさらなる調査（工場調査）を実施した。
+
+３－３　工場調査（現場調査後）
+（１）交換した増幅器側、中継コネクタパネル側及びRIS側のケーブルコネクタ部について外観・目視点検及び接触抵抗測定等を実施したところ、異常はなかった。
+（２）交換したRIS本体並びに内部の電源基板部及びCPU基板の外観・目視点検を実施したところ、異常はなかった。また、打診試験、電源電圧変動試験及び特性試験等を実施したところ、異常はなかった。　
+
+３―４　点検作業内容に係る調査
+（１）RISの点検作業の内容について施工要領書の確認および協力企業に聞き取りを行ったところ、RISの点検に伴いケーブルコネクタを取外した後、コネクタ部を異物混入防止の観点から養生しており、コネクタを復旧する際には、異物有無の目視確認を行っていることを確認した。
+
+３－５　原因調査結果のまとめ
+　以上の調査結果から、以下のことが確認された。
+（１）モックアップ再現試験の結果、瞬間的な電圧変動等の要因が生じた場合には、ビデオカメラの挙動と同様な事象が再現されたこと。
+（２）本事象が発生する以前から、当該RISのみ誤動作(平成21年7月31日に発生)と推定される事象が発生していたこと。また、モックアップ再現試験の結果、瞬間的な電圧変動等の要因が生じた場合に、同様な事象が再現されたこと。
+（３）現場にて当該RISや増幅器側・中継コネクタパネル側及びRIS側のケーブルコネクタ部の交換を実施し、その交換前後に調査したところ、異常は認められなかったこと。
+（４）工場にて交換したケーブルコネクタ部や当該RISを調査したところ、異常は認められなかったこと。　
+　　
+　また、当該RISやケーブルコネクタ部を交換した以降、現場において今回と同様な事象は再発していないこと。
+
+４．推定原因
+　本事象が発生した原因について要因分析を行った。　　　　　　　　　
+（１）RIS電源電圧の低下及びケーブルコネクタ部の接触不良
+　モックアップ再現試験結果から、-15V電源電圧の低下及びケーブルコネクタ部の接触不良により本事象と類似した挙動を示すことが確認されたこと、また、当該RISやケーブルコネクタ部を交換した以降、現場において今回と同様な事象は再発していないことから原因となる可能性が高い。
+　また、RISの点検に伴いケーブルコネクタを取外した後、コネクタ部を異物混入防止の観点から養生しているものの、ケーブルコネクタの復旧の際にはコネクタ内部の目視確認のみ行い、復旧していることから、混入した異物が見逃された可能性は否定できない。
+
+（２）検出器内部及び増幅器間のケーブルの絶縁低下
+　モックアップ再現試験結果から、検出器内部及び増幅器間のケーブルの絶縁低下による挙動は、本事象と相違していることが確認されたこと、現場調査以降、同様な事象は発生していないことから可能性は低い。
+
+　以上の調査結果から、本事象および平成21年7月31日に発生した当該RISの「高」「高高」表示灯点灯事象は、当該RISの誤動作及びケーブルコネクタ部の接触不良によるものと考えられるものの、原因を特定することまでは至らなかったが、現場で当該RISやケーブルコネクタ部を交換した以降、同様な事象は発生していないため、要因は除去されたものと推定した。
+
+　また、当該RIS内の電源回路における瞬間的な短絡もしくは増幅器とRIS間の-15V電源供給ケーブルの接触不良により当該ＲＩＳが１２０ｍｓ以上継続して誤動作したため、「主蒸気放射能高」「主蒸気放射能高高」「Ｂ系原子炉自動スクラム」等の警報が発生したものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所２号機における誤警報について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1099</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/08 09:29:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10129</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[439]]></KIKI_CODE>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10549</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[439]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の回路モジュール]]></KIKI_NAME>
+				<SORT_NO>9</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[430]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[430]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[回路モジュール]]></KIKI_NAME>
+					<SORT_NO>28</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[プロセス放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[131]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[その他]]></S_GENIN_NAME>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10549</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

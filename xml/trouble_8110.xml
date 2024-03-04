@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8110</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/02/17 21:28:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3427</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/02/17 21:09:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200602161725]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第二原子力発電所１号機は定格熱出力一定運転中のところ、平成１８年２月１６日１７時２５分頃、第４給水加熱器＊１（Ｂ）に取り付けられている逃がし弁＊２から温水がファンネル（排水受け容器）に断続的に流入していることを確認した。
+　当該ファンネルへの温水の流入は、逃がし弁のシートリークによるものと推定した。
+　
+　その後、当該逃がし弁を締め付け治具により増し締めする処置を行い、シートリークはほとんど止まっているが、流入先であるタービン建屋低電導度廃液サンプ＊３（Ａ）のポンプ運転状況ならびに当該サンプ内の水温について継続して監視＊４することとした。
+　
+　本事象は、プラント運転上の安全に影響を及ぼすものではなく、また、外部への放射能の影響はない。
+　
+＊１：給水加熱器
+　原子炉へ戻す水（給水）の熱効率を上げるため、給水の温度を上げるために使用する機器（３系列あり、１系列に６台設置）。
+　
+＊２：逃がし弁
+　給水加熱器内の水の膨張による圧力上昇を抑制するため、これを逃がすための弁。
+　
+＊３：低電導度廃液サンプ
+　建屋内の機器からの排水、試料採取の廃液等を受けるタンク。
+　
+＊４：継続して監視
+　平成１７年９月３０日、第４給水加熱器(Ａ)に取り付けられている逃がし弁のシートリークによる低電導度廃液サンプ(Ａ)への温水の流入が確認され、同日より当該サンプのポンプ運転状況や水温について監視を行なっている。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S100]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋低電導度廃液サンプ（Ａ）の監視について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/17 21:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

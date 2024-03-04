@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10944</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/07/15 09:31:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>15500</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/05/06 18:14:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201005050100]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/07/15 09:31:07]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+５月５日１時００分頃、通常運転中の伊方発電所２号機原子炉補助建家において、ほう酸濃縮液タンク室内のほう酸濃縮液ポンプ付近（同タンクおよび同ポンプは１、２号機共用）で微量の放射性物質（放射能量：約６１ベクレル）を含む約１リットルの液体が漏えいしていることを確認した。
+その後、当該ポンプに接続しているドレン配管のフランジ部からほう酸水が漏えいしたものであることを確認したため、当該フランジ部を点検した結果、フランジ部の締め付け状態は良好であり、フランジ面にも異常はなかったが、フランジ部からの漏えいを防止するために使用しているガスケットの厚みが減少していたことを確認した。このため、当該ガスケットの取替を行い、当該ポンプを運転して漏えいがないことを確認し、５月１２日１６時２０分、通常状態に復旧した。
+○原 因
+調査の結果、当該ガスケットは弱酸の環境において引張強さが減少し、液温が高くなると減少率が大きくなることが判明した。このことから、ほう酸水による弱酸環境およびほう酸析出防止のために常時約７５℃に加温している高温環境との組み合わせにより、ガスケットが劣化して復元力が低下した結果、シート機能が失われて漏えいに至ったものと推定した。
+○対 策
+・当該フランジのガスケットを耐薬品性に優れたノンアスベストガスケットに取り替えた。なお、当該ポンプと同型ポンプのうち、同様の使用環境（内包流体、温度）にある３号機ほう酸濃縮液ポンプのガスケットについては、既にノンアスベストガスケットに取り替えている。
+・当該ポンプと同型ポンプのうち、内包流体はほう酸水であるが、使用温度が常温である３号機の４台のポンプについて、念のため、次回の３号機第１３回定期検査時にノンアスベストガスケットに取り替える。
+
+詳細は添付資料に掲載した報告書一式参照]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ほう酸濃縮液ポンプ（１、２号機共用）ドレン配管フランジ部からの漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/05/06 18:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3180</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/09/26 15:47:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3274</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/09 16:00:26]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200507261033]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/09/26 15:47:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第一４号機において、使用済燃料プール内で燃料集合体外観の自主検査(＊1)を実施していたところ、午前10時33分頃、１体の燃料集合体下部（スペーサ＊２部）に金属らしきものを１個（長さ約１ｃｍ）発見した。
+
+　調査の結果、異物は見える範囲で長さ約８mm、太さ約0.3mmの線状のもので、ワイヤブラシの素線形状と類似していることからワイヤブラシの素線と推定した。また、その付着状態から当該異物は、プラント運転中に冷却水の原子炉下部からの流れとともに運ばれ、スペーサ内部に挟まったものと推定した。
+　異物の混入については、平成11年度以降に原子炉内への異物混入防止対策を強化していることから、平成11年度以前の保守作業で炉内等に混入したものと推定した。
+　当該異物は燃料棒表面に密着した状態で挟まっており機器等による回収が困難であること、また、異物が燃料移動中に落下することはないと考えられること、当該燃料は使用済燃料として取り出され再装荷しないことから、当該燃料については現状のまま保管することした。
+
+
+
+＊１　燃料集合体外観の自主検査
+　当社が自主的に実施しているもので、再使用しない使用済燃料のうち、燃焼の進んだ燃料数体を代表として水中カメラにより外観を確認するもの。
+
+＊２　スペーサ
+　燃料棒と燃料棒の間隔を所定の間隔に保つための部品。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S031]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料プールでの金属らしきものの発見]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/10 11:08:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13540</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/09/22 11:58:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>111247</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/09/22 11:58:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202208080540]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2022年8月8日、午前5時40分頃から浜岡原子力発電所1～5号機に係る緊急時対策支援システム（以下、「ERSS」という。）（注1）について、原子力規制庁へデータが伝送されていないことを確認した。
+　2022年9月12日、ERSSへのデータ伝送ができなくなっていた伝送システムの点検を完了し、データ伝送を再開した。
+　なお、伝送停止中もERSSへ伝送要求のあるパラメータについては監視できており、代替措置により、原子力規制庁への定期的な報告を実施していた。
+
+＜原因＞
+　伝送システムはデータの保存処理と伝送処理を同時におこない、片方の処理に異常が発生すると、もう一方の処理が停止する仕組みとなっていた。
+　伝送システムの点検を実施した結果、データの保存処理をおこなうためのデータファイルが破損し、これによってデータの保存処理に異常が発生したため、伝送処理が停止したものと推定した。
+
+＜再発防止対策＞
+　破損したデータファイルを復旧し、データ伝送を再開した。
+　再発防止として、伝送システムのソフトウェアを改修し、データの保存処理に異常が発生した場合においても、伝送処理を継続しておこなえるようにした。
+
+注 1　緊急時対策支援システム（ＥＲＳＳ：Emergency Response Support System）とは、原子力施設から常時伝送されるプラントパラメータ情報を受け、原子力施設の状況を把握するための原子力規制庁のシステム。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-中部-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[緊急時対策支援システム(ERSS)の伝送停止]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3,4,5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/09/22 11:58:38]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

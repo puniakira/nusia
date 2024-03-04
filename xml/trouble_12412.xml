@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　設計段階から現在の運用段階までにおいて，要因分析図を作成しフィルタが損傷に至る要因を以下のとおり抽出した。
+
+①局部的なフィルタ差圧の上昇
+　塩分除去装置内部の流れについて気流解析を実施した結果，塩分除去装置内の形状によって全9枚のフィルタに流れる流体の速度に偏りが発生しており，局部的にフィルタ負荷が高い状態であることを確認した。
+　また，モックアップ試験により，損傷していない使用済フィルタの差圧は取替管理値を超える差圧であることに加えて，一部が損傷した使用済のフィルタを使用すると損傷部が大きく振動することを確認した。
+
+②系統流量に対するフィルタ容量の裕度
+　系統流量に対する塩分除去フィルタの設計容量の裕度について，塩分除去装置と塩分除去フィルタを使用している他の建屋空調と比較した結果，塩分除去装置の裕度が若干少なく，フィルタの高負荷を助長する結果となることを確認した。
+
+③フィルタ劣化成分の流入による強度低下
+　損傷したフィルタに付着した物質を分析した結果，フィルタ劣化成分(硫黄，塩素等)(以下「劣化成分」という。)が検出された。
+　また，塩分除去装置運用中において，原子炉建屋の屋上で実施していた防水処理作業にて劣化成分が発生しており，原子炉建屋空調を経由して塩分除去装置内に流入していたことがわかった。
+
+　抽出した①～③の要因のうち，「①局部的なフィルタ差圧の上昇」，「③フィルタ劣化成分の流入による強度低下」について，更なる調査データの拡充のため，以下の追加調査を実施した。
+
+ａ．「①局部的なフィルタ差圧の上昇」に対する追加調査
+　塩分除去フィルタ損傷が発生した3号機塩分除去装置と，その他の塩分除去フィルタ設置系統との違いを確認するため，気流解析を実施した結果，その他の塩分除去フィルタ設置系統は整流効果が得られる設計となっており， 3号機塩分除去装置のみ装置内に流れの偏りが発生していることを確認した。
+
+ｂ．「③フィルタ劣化成分の流入による強度低下」に対する追加調査
+　塩分除去フィルタ劣化成分の流入による影響を調査するため，表面観察及び引張試験を実施した結果，劣化成分の付着によってフィルタの強度が低下していることを改めて確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[136]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12412</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2018/12/04 15:09:39]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[塩分除去装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>70586</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/04/14 14:18:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20160411]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　原因調査結果及び推定メカニズム，並びに塩分除去フィルタが損傷した際のプラントへの影響を踏まえ，以下の恒久対策及びリスク低減，並びに恒久対策のうち設備対策実施までの運用管理を実施する。
+
+（1）恒久対策
+ａ．設備対策
+　原因調査結果および推定メカニズムを踏まえ，3号機塩分除去装置のフィルタ損傷防止対策としては，重畳要因のうち，気流の偏りによる局部的な流体力の上昇を低減することを主の対策とした。併せて，同事象が発生した場合のプラントへの影響の大きさに鑑み，塩分除去フィルタ損傷時のフィルタ片を捕集するため捕集設備の設置を追加で行う。
+　以下に対策の詳細を示す。
+①バッフルプレートの設置
+　原因の一つである局部的な流体力の上昇（流れの偏り）を改善するため，整流効果が期待できる設備を設置する。具体的には，気流解析において，整流効果が確認できている4号機塩分除去装置をベースにバッフルプレートを設置する。なお，3号機塩分除去装置塩分除去フィルタ上流にバッフルプレートを設置した条件で気流解析を実施した結果，4号機塩分除去装置と同様に整流効果が得られることを確認した。
+②捕集設備の設置 
+　万一，塩分除去フィルタが損傷した場合に，損傷フィルタを捕集するため，下流に捕集設備として建屋空調で実績のあるワッシャブルフィルタ（パンチングメタル付き）を設置する。この捕集設備は、塩分除去フィルタが損傷した場合の全面閉塞による差圧においても損傷しない強度を有し、取替可能な構造とする。
+　また，捕集設備には差圧計を設置することで，上流の塩分除去フィルタの損傷兆候を早期に検知し，塩分除去フィルタが大きく損傷することを防止できる設備とする。
+
+ｂ．更なるリスク低減
+　ａ．の設備対策によって，塩分除去フィルタ損傷の発生リスクは低減できていると考えられるものの，それらに加えてできる限りのリスク低減を実施するため，管理面においても対策を実施する。具体的には以下①～③の管理方法を追加する。
+①塩分除去フィルタ定期取替の実施
+　取替頻度は，プラント長期停止前の実績（5サイクル毎の本格点検に合わせて取替実施）を踏まえて1回／15ヶ月（3ヶ月／定検×5サイクル）の頻度で取替えることとし，点検計画に反映することで管理していく。
+②塩分除去フィルタ外観点検の実施
+　実施頻度は，プラント長期停止前の実績（定期点検毎の塩分除去装置運用に合わせて実施）を踏まえて1回／3ヶ月程度の頻度で外観点検を実施する。また，再発防止対策で設置するバッフルプレート及びワッシャブルフィルタについても合わせて外観点検を実施することとし，点検計画に反映することで管理していく。
+③劣化成分の流入低減
+　塩分除去装置の運用中は、塩分除去フィルタのセパレータ劣化成分の流入を低減するため、建屋屋上面止水処理工事等の作業工程について事前に調整を行うこととし、作業前に設備主管課と事前調整を行うよう工事要領書に記載する。
+
+（2）恒久対策のうち設備対策実施までの運用管理
+　恒久対策のうち，設備対策完了までには時間を要することから，設備対策実施までに塩分除去装置を運用する場合は以下の運用を実施することで，塩分除去フィルタの損傷及び損傷拡大を防止する。
+ａ．損傷防止対策
+①取替管理値の引き下げ
+　3号機塩分除去装置内の気流解析の結果，差圧計による取替管理値0.49kPaに到達した場合，フィルタ差圧が局所的に設計差圧を超過することが判明したため，局所的な差圧上昇を踏まえて取替管理値を0.40kPa とする。
+②差圧監視強化
+　3号機塩分除去装置塩分除去フィルタ差圧が取替管理値0.40kPaに到達した場合，中央制御室に警報を発報させるよう仮設警報設備を設置する。
+
+ｂ．損傷拡大防止対策
+①起動前外観点検
+　パージ給気ファン起動前に塩分除去装置ユニット内へ入り，塩分除去フィルタの外観点検を実施する。
+②連続運転中における定期的な外観点検
+　連続運転中の場合は，1回／月の頻度で塩分除去装置ユニット内へ入り，塩分除去フィルタの外観点検を実施する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/12/04 15:09:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　施設定期検査中の浜岡3号機において，原子炉格納容器内でアルミの薄板等が散乱していることを確認した。このため，付近につながる系統を確認した結果，原子炉停止中に原子炉格納容器内の換気をおこなう空調に設置している塩分除去フィルタ（＊１）の一部が破損していることが分かった。
+　当該空調については圧力抑制室（＊２）にも接続しているため，2016年4月11日，圧力抑制室内に異物の混入がないかの点検を行ったところ，塩分除去フィルタの一部であるアルミの薄板等の異物を確認した。
+
+　2016年12月時点で，圧力抑制室などに混入した異物は，塩分除去フィルタ破損により減少した量と回収した量を比較した結果から，ほぼ回収が完了した。
+　2017年8月，圧力抑制室内に沈んでいた残りの異物および空調配管内の空気の流れがない部分に残存していた異物についても回収が完了した。また，異物が入り込む可能性のある箇所を点検し，異物がないことを確認した。これらにより，塩分除去フィルタの破損によって発生した異物についてすべて回収が完了した。
+
+　異物混入範囲の機器等の機能に対しては，混入した異物による影響がないことを機器等の点検により確認した。
+
+　なお，3号機の燃料は全て使用済燃料貯蔵プールに保管しており，当該燃料の冷却に必要な水源は確保されているため，本事象による安全上の影響はない。また，本事象は，外部への放射性物質の放出に係わる事象ではない。
+
+＊１：塩分除去フィルタは，原子炉停止中に原子炉格納容器内の換気をおこなう空調に設置している空気中の塩分を除去するためのフィルタ。原子炉運転中の格納容器は窒素で満たされており，塩分除去フィルタが設置されている空調は運転していない。
+
+＊２：圧力抑制室は原子炉格納容器下部に位置し，水を貯蔵している設備。原子炉圧力容器につながる配管の破断事故などで，原子炉格納容器内に放出された蒸気を圧力抑制室ベント管を経由して水中に導いて冷却し，原子炉格納容器圧力の上昇を抑制するとともに，非常用炉心冷却系ポンプの水源としての機能を有する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-中部-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　本事象においては，3号機塩分除去装置の構造が起因となって装置内に流れの偏りが発生し，局部的に塩分除去フィルタに作用する流体力が高い状態であった。しかし，使用している塩分除去フィルタの仕様及び塩分除去フィルタの差圧管理状況を考慮すると，流れの偏りのみでは塩分除去フィルタ損傷には至らないことから，他の要因が重畳した以下のメカニズムにより損傷に至ったと推定した。
+
+（1）セパレータの腐食・強度低下
+　局部的に塩分除去フィルタに作用する流体力が高い状況に加えて自然界に存在する劣化成分や建屋屋上面止水処理工事に伴う硫黄成分が流入し，塩分除去フィルタのセパレータが腐食したことにより強度低下が進んだ。
+
+（2）強度低下によるセパレータの一部損傷
+　セパレータの強度低下が進んだことにより，流れの偏りによる局部的な流体力がセパレータの耐力を上回り，一部が損傷した。
+
+（3）ろ紙の部分損傷
+　更に継続使用したことによってセパレータの損傷が進展し，セパレータによるろ紙の形状保持が困難となり，部分的なろ紙の損傷に至った。
+
+（4）損傷の拡大
+　ろ紙の一部が損傷した状態で継続使用したことによって，損傷部の流速の上昇及び振動が発生し，それによって損傷が徐々に拡大していき，最終的に大きな損傷に至った。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[圧力抑制室での異物の確認（原子炉格納容器内塩分除去フィルタの一部破損）]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[異物を確認したとき]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/04/14 14:18:40]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[塩分除去装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>12412</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[塩分除去（HEPA）フィルタ]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12412</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉建屋換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[136]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[136]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12412</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[設計不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[設計上の不備によるもの（管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1100]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12412</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12412</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12412</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

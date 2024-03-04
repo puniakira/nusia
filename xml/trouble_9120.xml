@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9120</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/11/26 10:49:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3878</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/09 11:54:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200706281434]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[＜事象発生時の状況＞
+　玄海原子力発電所3号機は，通常運転中のところ，平成19年6月28日14時34分「B循環水ポンプ電動機油タンク油面低」警報が発信した。現場を確認したところ，油面は正常であり油漏れ等も認められなかった。
+＜事象の原因＞
+当該電動機は第10回定期検査にて補修塗装（全塗装）を実施したが,警報用レベルスイッチ周辺を塗装した際に，塗装手順書にベントプラグ部が塗装禁止箇所として明示していなかったことから当該部の養生がなされず，本来開いているべきベントプラグの穴を塗装により塞いでしまった。そのため，外気温度上昇の影響により警報用レベルスイッチ（フロート式）が誤作動したと推定される。
+＜再発防止対策＞
+（１）レベルスイッチベントプラグを取外し，清掃を実施した。（「B循環水ポンプ電動機油タンク油面低」警報は復帰した。）
+（２）他の循環水ポンプ電動機の警報用レベルスイッチについて点検を行い，ベントプラグ穴が塞がれていないことを確認した。
+（３）循環水ポンプ以外の電動機には，ベントプラグ付レベルスイッチを使用していないことを確認した。
+（４）作業手順書の「塗装禁止箇所」に警報用レベルスイッチのベントプラグを明記した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-九州-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[玄海3号機B循環水ポンプ電動機油タンク警報用レベルスイッチベントプラグの閉塞について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/26 10:49:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

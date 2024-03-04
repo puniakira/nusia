@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13355</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/04/07 13:23:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>106368</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/08/30 17:31:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20210817]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/04/07 13:23:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2021年8月17日午前5時17分頃、定期検査中の浜岡原子力発電所5号機タービン建屋2階および3階（放射線管理区域内および外）において、火災報知器が鳴動した。
+　このため、午前5時20分に消防署に通報するとともに、中央制御室の運転員が現場を確認したところ、同建屋3階（放射線管理区域外）にて煙を確認した。
+　
+　その後、消防署による現場確認の結果、午前8時17分に火災でないことが確認された。
+　また、火災報知器が作動した同一時刻で5号常用冷水系冷凍機（注1）（E）（タービン建屋4階 放射線管理区域外）が停止したことから、その本体について調査を行った結果、外観上の異常はないものの、当該冷凍機の絶縁が大きく低下していることを確認した。
+　本事象は外部への放射能の影響に係る事象ではなく、人身災害もない。
+
+　その後、現場確認の結果、常用冷水系冷凍機（E）の高圧電源ケーブル（以下、「当該ケーブル」という。）がタービン建屋3階（放射線管理区域外）で損傷したことにより発煙に至ったことが判明した。発煙に至った一連のメカニズムは以下のとおり。
+・常用冷水系冷凍機（E）の電動機内部で地絡（注2）・短絡（注3）が発生。これにより、当該電動機に接続している当該ケーブルに短絡電流が流れ、瞬間的に大きな力が発生した。
+・この力により、当該ケーブルが動き、ケーブルラック内部に設置していた分離板（注4）と接触。同分離板が変形し、生じた突起部に当該ケーブルが更に押し付けられたことで損傷し、絶縁破壊に至り、地絡・短絡が発生した。
+・これにより、当該ケーブル損傷部に短絡電流が流れ、加熱されたことで、当該ケーブルの絶縁物および導線が溶損し、煙が発生した。
+・発生した煙により、当該ケーブル付近の火災報知器（放射線管理区域外）および火災報知器の電線管を通じて放射線管理区域内に設置している火災報知器が鳴動した。
+
+＜原因調査結果＞
+　当該ケーブルの損傷は、ケーブルラック内の分離板が外力により変形し、突起部が生じたことで発生したものと推定した。
+このため、ケーブルラックの設計、製作、施工等の観点で原因を調査した結果、ケーブルラックに外力が作用した場合に変形、突起部が生じうることを考慮しておらず、養生カバーを設置するなどのケーブル損傷の防止に係る設計上の配慮が不足していたものと推定した。
+　具体的には、ケーブルラックの設計要求として「ケーブルラックの製作にあたっては、収納するケーブルに損傷を与えないよう留意する」ことを設計図書に規定していたが、短絡電流によりケーブルに発生した大きな力などの外力に対する変形は考慮していなかった。
+　また、標準設計で施工したケーブルラックは、変形しても突起部が生じる構造ではなかったが、個別に設計をおこない追加で設置した当該分離板は変形により、突起部が生じており、ケーブル損傷の防止に係る設計上の配慮が不足したものと考えている。
+
+＜再発防止対策＞
+・当該ケーブルラックの分離板に養生カバーを設置
+・設計図書へケーブル損傷防止に係る事項を反映
+ケーブルラックの設計要求に「ケーブルラックの変形を考慮し、突起部が生じてもケーブルを損傷させないように養生する」旨を反映する。
+また、過去の施工記録を調査した結果、当該箇所以外において、個別に設計した施工実績は確認されなかった。このため、当該箇所以外は標準設計で施工されており、変形により突起部が生じるような可能性はないと考えているが、現場にて個別設計の有無を調査し、適切に対処していく。
+
+
+注1　常用冷水系冷凍機とは、空調機器に供給する冷水温度を一定に制御するための設備。冷凍機内には冷媒が充填されており、冷却水により冷媒を冷却している。5号常用冷水系冷凍機は5台あり、気温に応じて1～5台の常用冷水系冷凍機を運転している。
+注2　地絡とは、電気回路の絶縁性能が劣化し、大地に電流が流れ出る量が増える現象のことをいう。地絡は漏電ともいう。
+注3　短絡とは、電位差がある2点間が、抵抗が小さい導体（例えば、電線等）で接続されることをいう。短絡はショートともいう。
+注4　分離板とは、ケーブルラックに異なる電圧のケーブルを敷設する際に、ケーブル同士を仕切るために設置している板をいう。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-中部-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[5号機 タービン建屋（放射線管理区域外）における発煙]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/08/30 17:33:10]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

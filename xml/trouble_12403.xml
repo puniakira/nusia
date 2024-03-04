@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12403</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/09/27 09:39:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>63694</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/04/08 08:01:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20160322]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/09/27 09:39:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所3,4号機の工事計画届出書などにおける炉心シュラウドサポート部(※1)の強度評価に用いた計算プログラムの一部に誤りがあることを確認し，再評価を実施した。
+
+　3号機について，2017年8月に営業運転開始後30年が経過するため，高経年化技術評価(※2)を実施している。本評価を実施するため，過去の炉心シュラウドサポート部の強度評価を確認したところ，3,4号機の炉心シュラウド支持ロッド取付時の工事計画届出書（3号機は2005年，4号機は2006年に提出）などにおける炉心シュラウドサポート部の強度評価に用いた計算プログラムの一部に，必要な荷重が負荷されていないことや適用する理論式の符号が誤っていることを確認した。このため，炉心シュラウドサポート部の強度について，計算プログラムを修正したうえで再評価を実施した。
+　その結果，炉心シュラウドサポート部の再計算結果は許容値を下回っており，健全性は確保されていると評価した。
+　
+　原因調査の結果、誤りがあることを確認した炉心シュラウドサポート部の強度評価方法は、建設時に用いた炉心シュラウドサポート全体の強度を算出するための数値解析による計算プログラムに、追設することとなった炉心シュラウド支持ロッド部の局所的な強度を算出するための理論式による計算プログラムを組み合わせるという特殊なものであり、メーカにおいて計算プログラムを組み合わせる際の処理を誤っていた。また、当社およびメーカともに組み合わせた計算プログラムの検証が十分になされていなかった。
+　このため、今回の事象の原因は、組み合わせた計算プログラムの特殊性を踏まえた検証が十分ではなかったことと推定した。
+　なお、同様の誤りを発生し得る強度評価は、炉心シュラウドサポート部の強度評価以外にないことを確認した。
+
+　現在の強度評価のプロセスは、今回誤りがあることを確認した計算プログラムによる強度評価をした以降に、当社およびメーカともに計算プログラムを検証する手順を明確化し適切に運用していることを確認した。このため、現在は同様の事象が発生しないものと考える。ただし、検証の重要性に対する意識を維持していくため、今回の事象を踏まえた技術伝承をおこなっていく。
+
+※1 原子炉圧力容器内に円筒状に設置されており原子炉圧力容器内の冷却水の流れを分離する仕切り板の役割を持った機器（炉心シュラウド）のサポートのこと。
+
+※2 「実用発電用原子炉の設置，運転等に関する規則」に基づき，営業運転を開始して30年が経過する前（その後10年ごと）に，安全上重要な機器・構造物について今後長期間運転することを想定した技術評価を実施するもの。この評価に基づき長期保守管理方針を策定し，原子炉施設保安規定に記載することが義務づけられている。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-中部-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[炉心シュラウドサポート部の強度評価に用いる計算プログラムの誤り]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/04/08 08:02:11]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11551</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/12/11 09:06:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>34618</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2012/07/13 18:21:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201207131034]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/12/11 09:06:07]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所第３号機は、第１３回定期検査中のところ、７月１３日１０時３４分、中央制御室において、運転中の格納容器再循環ファン３Ａ＊１の振動が高いことを示す信号が発信した。
+このため、格納容器再循環ファン３Ｂを起動し、１０時４３分に格納容器再循環ファン３Ａを停止した。
+その後、振動値を確認するため１２時１２分に格納容器再循環ファン３Ａを再度起動したところ、警報値７．１ｍｍ／ｓｅｃ＊２を超えなかったが、振動値５．８ｍｍ／ｓｅｃを確認した。
+振動上昇の原因調査のため分解点検を実施した結果、ケーシング合わせ面に塗膜のはく離、液状ガスケットおよびボンドの部分的な付着が確認された。このため、ケーシング合わせ面を手入れし、確認運転を実施したところ、振動値が低下し且つ安定した状態となったため、通常状態に復旧した。
+なお、本事象によるプラントへの影響および周辺環境への放射能による影響はなかった。
+＊１　格納容器再循環ファン
+格納容器内の機器、配管類からの放散熱を除去して格納容器内の空気を冷却するためのファン
+＊２　警報値７．１ｍｍ／ｓｅｃ
+中央制御室に振動が高いことを示す信号を発信する設定値。格納容器再循環ファンについては、ＪＩＳＢ０９０６「機械振動－非回転部分における機械振動の測定と評価－一般的指針｣では「大形回転機で，剛基礎上に据え付けられたもの」で「長期間の連続運転は期待できないと考えられる」とされる振動領域の上限値は１１．２ｍｍ／ｓｅｃであるが、余裕を見て「中形機械」における同様の振動領域の上限値７．１ｍｍ／ｓｅｃを警報値として採用している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-四国-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[格納容器再循環ファン３Ａの不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/07/13 18:22:25]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

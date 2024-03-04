@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．発生時の状況調査結果
+（１）Ｂ－ＳＷＰが自動停止した同時刻に、当該ポンプ潤滑水流量異常低のインターロックを含む１次系補助ラック（以下ＢＯＰ２という）点検のため同電源を開放していた。
+（２）Ｂ－ＳＷＰのモータ電源はＡ・Ｂ両トレンのどちらからでも供給できる機器（Ｙトレン機器）であるが、計器用電源はＢトレン（ＢＯＰ２）より供給されており、Ｂ－ＳＷＰ運転中にＢＯＰ２の電源を開放すれば、ポンプが自動停止するロジックとなっていた。
+２．Ｂ－ＳＷＰ自動停止に係る作業状況の調査結果
+　ＢＯＰ２定検作業状況の調査を実施した結果、隔離明細書作成の前提条件について保修員と運転員の相互確認が不十分であり、さらに運転員は、Ｙトレン機器への影響について十分な認識がなく、また、保修員は、Ｂ１－ＳＷＰコンロールスイッチの隔離を隔離明細書に記載していなかったことが確認された。
+３．Ａ－ＳＷＰ自動起動不可に係る調査結果
+（１）Ａ－ＳＷＰが自動起動しなかった原因調査結果
+　計装ロジック図等により要因を抽出し調査した結果、Ａ－海水ヘッダー圧力低信号発信用補助リレーの誤配線（２本）が発見され、それが原因であると判明した。
+（２）補助リレー誤配線に関する調査結果
+　誤配線発生の時期については、建設記録、運転開始以降の補修経歴を調査した結果、建設時の「原子炉補機冷却海水系統試験」時に一旦解結線作業を行い、その後、第７回～第９回定期検査時、中央制御室外原子炉停止盤回路の健全性確認の条件設定のため、当該箇所を解線していることが判明した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[211]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>1904</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/22 15:07:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2478</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199812151027]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．ＳＷＰ自動起動不可に対する対策
+　誤配線を修復の上、Ａ，Ｂ－ＳＷＰが正常に自動起動することを確認し、Ｃ－ＳＷＰの補助リレーについて誤配線のないことを確認した。
+　なお、念のため、原子炉の安全確保、運転上重要な系統・機器に関連する盤、リレーラックを全て対象とし、今回の定期検査において配線状態を図面と照合し、誤配線のないことを確認した。
+２．再発防止対策
+（１）隔離作業時における対策
+　ａ．発電室は、Ｙトレン機器の計器用電源構成について運転員全員に周知する。
+　ｂ．発電室は、提出された隔離明細書を検討する際、影響を受ける計器・警報・インターロック等について多面的に検討するとともに、その旨を内規に記載する。
+　ｃ．保修課は、Ｙトレン機器であるＢ－ＳＷＰの隔離にあたっては、燃料取出し後の時点で、２つあるコントロールスイッチの隔離が完了されるよう隔離明細書に記載する。
+　ｄ．保修課は、電源断対象機器一覧表に電源断によるＹトレン機器への影響を明確にするとともに、隔離明細書においても注意喚起する。
+　ｅ．打ち合わせにおける確認ポイントを保修課及び発電室の内規に記載するとともに、定検前教育で全員に周知する。
+　ｆ．当直課長は、運転操作に関する責任者であることを再認識し、隔離明細書のチェック結果を承認するに際して、内容を十分に確認した上で承認する。
+　ｇ．発電室は、保修作業の着手前に電源断対象機器一覧表により、プラントへの影響を再チェックすることとし、発電室の内規にもその旨を記載する。の重要性を再度周知徹底する。
+　ｈ．保修課は、作業着手前に作業の前提条件が確保されていることを確認することとし、保修課の内規にもその旨を記載する。
+（２）解結線作業時における対策
+　ａ．補助リレー等の電気機器について、端子から配線を解線する際には、対応する端子番号が書かれた表示札を配線側に、また、対応する配線番号が書かれた表示札を端子側に取り付けることとし、結線の際にそれらの表示札を照合することにより誤配線を防止する。
+　ｂ．表示札の運用について保修課の内規に反映するとともに、解結線作業に従事する保修課員及び協力会社作業員に周知する。
+　ｃ．今後、定検の都度、各課室及び協力会社で実施する定検前教育において解結線作業の重要性および作業時のダブルチェックの重要性を再認識させるとともに、表示札の運用についても徹底することにより再発防止に努める。
+]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所３号機（８７０ＭＷ）は、第１１回定期検査中のところ、平成１０年１２月１５日１０時２７分、「海水ポンプトリップ」（海水ポンプは以下ＳＷＰという）の警報が発信し、運転中のＢ－ＳＷＰが自動停止した。３台あるＳＷＰのうち他の１台（Ｃ－ＳＷＰ）は、定期検査のため作業中であり、残る１台（Ａ－ＳＷＰ）は、待機状態であった。
+　さらにＢ－ＳＷＰの自動停止に伴い、待機状態のＡ－ＳＷＰが自動起動すべきところ自動起動しなかったことから、１０時３７分、Ａ－ＳＷＰを手動で起動した。この間、海水系統が一時的に停止する状態となったが、原子炉補機冷却系統の温度上昇はわずかであり、プラントに影響はなく、周辺環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-関西-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．Ｂ－ＳＷＰ自動停止
+　ＢＯＰ２電源の開放作業により、Ｂ－ＳＷＰの軸受潤滑水流量計の電源が断となり、潤滑水流量異常低信号が発信し同ポンプ停止に至ったものである。
+　Ｂ－ＳＷＰ運転中にもかかわらずＢＯＰ２の電源を開放するに至ったのは、ＢＯＰ２定検作業準備の隔離作業において、保修員と運転員の間の連絡や相互確認が不十分という問題があったことによる。
+２．Ａ－ＳＷＰ自動起動不可
+　Ａ－海水ヘッダ圧力「低」の信号を伝える補助リレーの１つに誤配線があったため、Ｂ－ＳＷＰ自動停止に伴いＡ－海水ヘッダ圧力「低」信号が正常に発信したものの、誤配線箇所から先へ信号が伝わらなかったためと判明した。
+　誤配線があった原因は、第９回定検時の結線作業において、作業員が結線を誤ったものと推定された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中における海水系統の一時的な停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/22 15:07:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉補機海水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[211]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[211]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>1904</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

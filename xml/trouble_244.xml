@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）ひび発生要因の調査
+　下部リング溶接部近傍にひびが発生した原因について要因分析表に基づき、調査を行うとともに、当該部よりボートサンプルを採取し調査した結果、以下のことが確認された。
+ａ．材料不良
+　製造時の材料検査証明書がＪＩＳ　Ｇ　４３０４（ステンレス鋼板）を満足していることを確認した。
+ｂ．溶接割れ
+　水中テレビカメラによる目視検査およびボートサンプル調査の結果、欠陥は母材部に発生しており、溶接割れは認められなかった。
+ｃ．腐食
+　ボートサンプルの破面を観察した結果、腐食や浸食の痕跡は認められなかった。
+ｄ．疲労割れ
+（ａ）ボートサンプル調査
+　ボートサンプルの破面を観察した結果、疲労による破面は確認されなかった。
+（ｂ）応力調査
+　通常運転中の中間部胴と下部リング溶接部における、高サイクル疲労および低サイクル疲労の影響を調査した結果、変動応力は十分小さいことから疲労による可能性がないことを確認した。
+ｅ．応力腐食割れ
+（ａ）中性子照射量の確認
+　過去の運転時間より、溶接部（Ｈ６ａ）の中性子照射量を算出した結果、１．３×１０＾２２ｎ／ｍ＾２程度であり、照射誘起型の応力腐食割れが発生すると評価されている約１×１０＾２５ｎ／ｍ＾２に比べ十分少ない照射量であることが確認された。
+（ｂ）断面・破面観察
+　ボートサンプルの断面及び破面を観察した結果、枝分かれを伴う応力腐食割れの破面に特徴的な粒界に沿った割れが確認された。なお、下部リング外表面から約０．３ｍｍの深さ（以下、「極表層部」という）の組織には、すべり線が認められ、この範囲は粒内割れであることが確認された。
+以上のことから、ひびは応力腐食割れの可能性が高いと推定された。
+（２）粒界型の応力腐食割れ発生要因の調査結果
+　ひび発生の要因分析表に基づく調査において、ボートサンプルのひびの破面に応力腐食割れに特徴的な破面が確認されたことから応力腐食割れの発生要因を材料、環境、応力の各要因について詳細に調査を行った結果、以下のことが確認された。
+ａ．材料
+　極表層部における割れの存在
+［１］ボートサンプルの金属調査の結果、ひび断面の観察において開口部の極表層部に粒内割れの存在が確認された。
+［２］（財）原子力発電技術機構実証試験によれば、低炭素ステンレス鋼は、耐粒界型応力腐食割れ性に対して優れていることが確認されている。しかしながら文献によれば、切欠きがある場合には、粒界型応力腐食割れが進展することがわかった。
+ｂ．環境
+　運転中の原子炉水の溶存酸素濃度は、約２５０ｐｐｂであり過去の応力腐食割れの発生事例から原子炉内の環境は、応力腐食割れの発生する環境であることを確認した。
+ｃ．応力
+　当該溶接部近傍の溶接による残留応力を評価するため、有限要素法により解析を行った。
+　解析の結果、当該溶接部の下側リング外表面には２００～３００ＭＰａ程度の引張り応力が発生していることが確認された。また、外表面から内部への残留応力の分布は、下側リング外表面の引張り応力が最大となり、内部に行くに従って、引張りから圧縮応力に転じ、再び引張り応力になることが確認された。
+以上のことから、極表層部以外の割れは粒界応力腐食割れであると推定された。
+　なお、粒界の化学成分分析の結果、粒界近傍の狭い領域でＣｒ濃度の低下が認められており、これは、低炭素ステンレス鋼に応力腐食割れが発生した海外事例と同様な傾向である。
+（３）極表層部の割れ発生の調査
+　応力腐食割れ要因の調査において、開口部の極表層部付近に応力腐食割れと思われる粒内割れの存在が確認されたことから、発生要因に基づき更に調査した結果、以下のことが確認された。
+ａ．材料の機械加工による硬さ上昇と粒内割れとの関係
+　ボートサンプルによる硬さ測定の結果、極表層部の硬度が上昇しているのが確認されたため、機械加工による硬さ再現試験および製造履歴調査等を実施した結果、次のことが確認された。
+［１］サンプルの硬さ測定を実施した結果、極表層部でＨｖ３００を超える硬化層が確認された。
+［２］文献によれば、表面硬さがＨｖ３００を超えた場合には、低炭素ステンレス鋼に粒内型応力腐食割れが発生することが確認されている。
+［３］文献によれば低炭素ステンレス鋼の海外におけるシュラウド損傷事例において、表面近傍の硬さがＨｖ４００程度と高いことが確認されている。
+［４］製造履歴調査から、各リング部の表面は機械加工を受けていることを確認した。
+［５］機械加工による硬さ再現試験結果より、切削速度／切り込み量の条件によっては表面硬さがＨｖ３００を超える硬化層が認められた。
+ｂ．環境
+　運転中の原子炉水の溶存酸素濃度は、約２５０ｐｐｂであり過去の応力腐食割れの発生事例から原子炉内の環境は、応力腐食割れの発生する環境であることを確認した。
+ｃ．応力
+　残留応力解析の結果、下側リング溶接部下側外表面には２００～３００ＭＰａ程度の引張り応力が発生していることが確認された。
+以上のことから、極表層部の割れは粒内型応力腐食割れであると推定された。
+（４）ひびの進展評価結果
+　確認された粒界型応力腐食割れによるひびが、下部リング内側にどの程度進展して停留するを評価するため、残留応力解析結果を基にひびの進展解析を行った。進展解析に当たっては、下部リングの外表面の全周にひびがあるものと仮定して、残留応力解析結果より応力拡大係数を求め、実験から求められているステンレス鋼の応力腐食割れのき裂進展速度から、ひびの進展寸法を算出した。評価の結果、シュラウド下部リングに発生したき裂は、初期段階では緩やかに進展し、途中で進展速度が増加するが、その後再び、緩やかな進展となり最終的に２２～２８ｍｍ程度で停留すると評価された。この停留は、下部リング内部の残留応力が、リング内部で引張り方向から圧縮方向になることによる。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>244</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/08/25 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>482</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20010706]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当該リングのひびは、約２８ｍｍ程度で停留すると評価され、この場合においても必要な肉厚が確保されていることから強度的な問題はない※１が、今後の運転に万全を期すため、タイロッド工法による補修※２を行う。
+　※１　シュラウド下部リング溶接部（Ｈ６ａ）の必要最小肉厚については、日本機械学会「原子力発電設備用規格　維持規格」の考え方に基づいて評価した結果、中間部胴肉圧５０．８ｍｍに対し８．７ｍｍとなった。ひびは約２８ｍｍ程度で停留するとの評価から必要な肉圧が確保される。
+　※２　タイロッド工法による補修については、タイロッド及びその付属物等の構造健全性、既存の施設、設備に与える影響について原子力安全・保安院長指示（平成１３・０９・０５原院第１号　平成１３年９月６日付）に基づき報告した。]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は第１１回定期検査中の平成１３年７月６日、炉内清掃状況のビデオ確認を行っていたところ、ひびらしきものが見えたことから水中テレビカメラで確認した結果、シュラウド中間部胴と下部リングとの溶接部近傍にひびが認められた。シュラウドの中間部胴と下部リングとの溶接部（以下、「溶接部（Ｈ６ａ）」という。）について、水中テレビカメラにより目視点検を実施した結果、下部リングの周方向溶接部の下側のほぼ全周にひびが発見された。なお、その他の溶接部についても点検したがひびは認められなかった。目視点検によりひびが発見された溶接部（Ｈ６ａ）近傍の超音波による深さ測定を実施した結果、当該部のひびの深さは、最大で約２６ｍｍ（１１５°付近）、平均で約１６ｍｍであることが確認された。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2001-東京-T010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査結果から、ひび発生のメカニズムは次のとおりと推定される。
+［１］シュラウド製造時における下部リングの機械加工により、下部リング外表面から０．３ｍｍの範囲にＨｖ３００を超える硬化層が形成された。
+［２］ＳＵＳ３１６Ｌは、耐応力腐食割れ性に優れた材料であるが、
+・下部リング外表面が機械加工により硬くなっていたこと
+・溶接による引張り残留応力があったこと
+・応力腐食割れが発生する可能性のある環境であったことの条件が重畳して、下部リング外表面から０．３ｍｍの範囲に粒内型の応力腐食割れが発生した。
+［３］ＳＵＳ３１６Ｌは、耐応力腐食割れ性に優れた材料であるが、
+・初期き裂（リング外表面から０．３ｍｍの範囲に粒内型応力腐食割れによるき裂）が発生したこと
+・溶接による引張り残留応力があったこと
+・応力腐食割れが発生する可能性のある環境であったこと
+の条件が重畳するとともに、溶接部近傍の結晶粒界近傍の狭い領域におけるＣｒ濃度の低下により、耐食性の低下傾向が生じ、これらの結果粒界型応力腐食割れに至ったものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[シュラウド下部リングのひびについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（発見）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[640]]></KIKI_CODE>
+			<TROUBLE_ID>244</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シュラウド廻り*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>244</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[640]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[炉心支持構造物]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[722]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[722]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[炉内構造物]]></KIKI_NAME>
+					<SORT_NO>39</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[102]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>244</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>244</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>244</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>244</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

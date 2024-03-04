@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．海水ポンプなどの機器が起動しない原因調査
+　４－３Ｃ母線の低電圧信号発信により、４－３Ｃ母線から給電されているＡ海水ポンプ等の機器が停止したが、Ａ非常用ディーゼル発電機が起動・しゃ断器が投入されたにもかかわらず再起動しないことから、Ａ非常用ディーゼル発電機および４－３Ｃ母線を確認したところ、Ａ非常用ディーゼル発電機の自動起動状態（現地ＤＧ電圧計：6900Ｖ）に問題はないが、母線電圧計の指示に低下（中央制御室電圧計：ＡＢ相：０Ｖ、ＢＣ相：3900Ｖ、ＡＣ相：4000Ｖ）が認められた。
+　このことから、母線電圧検出回路の点検を行った結果、母線電圧検出回路にヒューズ切れ（Ａ・Ｂ相）が認められた。当該ヒューズが切れたため、母線低電圧信号が継続し、４－３Ｃ母線に電源が供給されているにもかかわらず、海水ポンプなどが起動しないことを確認した。
+
+２．低電圧信号発信要因調査
+　電圧検出回路のヒューズ溶断以外に低電圧信号が発信した要因がないことを次のとおり調査した。
+　ａ．低電圧リレー不良
+　ヒューズ取替後、低電圧リレーは復帰しているため、当該リレーは正常である。
+　ｂ．ＰＴ盤の扉開放によるＰＴ２次側回路開放
+　４－３Ｃ母線のＰＴ盤が開放されるとＰＴ２次側回路が開放され、低電圧リレーが動作するが、ＰＴ盤を確認した結果、ＰＴ扉は施錠され閉止状態であったことから、同扉は開放されていなかった。
+　ｃ．ＰＴ２次側故障
+　外観点検、巻線抵抗測定の結果、導通抵抗測定値は正常であったが、ヒューズの導通抵抗測定の結果、Ａ、Ｂ相のヒューズが断線していることを確認した。なお、Ｃ相ヒューズの導通抵抗測定値は正常であった。
+　ｄ．ＰＴ１次側故障
+　外観点検、導通抵抗測定の結果、導通抵抗測定値は正常であったことから、１次側に異常は発生していないことを確認した。
+　ｅ．外部電源喪失
+　起動変圧器から給電されている４－３Ａ１及び４－３Ｂ母線の低電圧リレーは動作しておらず、４－３Ｃ母線の低電圧リレーのみが動作していることから、外部電源喪失ではない。
+
+３．母線電圧検出回路のヒューズ切れ原因調査
+　　　４－３Ｃ母線電圧検出回路のヒューズが溶断し、低電圧信号が発信していたことから、電圧検出回路のヒューズが溶断する原因と同時刻に実施していた作業を調査した。その結果、発電機負荷開閉装置設置工事における計器校正及び調整作業において４－３Ｄ母線の電圧検出回路のテスト端子に模擬入力配線を接続する作業を実施しており、その作業の中で作業停電中の４－３Ｄ母線に接続すべきところ誤って充電中の４－３Ｃ母線の電圧検出回路のテスト端子に接続していたことが判明した。この時点では、この誤接続とヒューズ切れの因果関係が明確に確認できなかったため、さらに調査し、電圧検出回路のテスト端子に接続した模擬入力装置の内部抵抗値が約０.５Ωと確認されたため、充電中の４－３Ｃ母線の電圧検出回路が模擬入力装置を介して短絡し、電圧検出回路のヒューズが溶断したことを確認した。
+
+４．誤接続の原因調査
+　作業員が４－３Ｄ母線の電圧検出回路のテスト端子に模擬入力の出力配線を接続する作業において、作業停電中の４－３Ｄ母線に接続すべきところ誤って充電中の４－３Ｃ母線の電圧検出回路のテスト端子に接続した原因について調査するにあたり、作業の時系列を確認した結果、当日午前中の作業においては接続する端子に養生（マーキング）を取り付けていたが、午前中の作業終了時にマーキングを取り外し、午後の作業再開時に養生（マーキング）を取り付けずに作業を開始していたことを確認した。
+　誤接続の要因を次のとおり調査した。
+ａ．設備
+　(ａ)盤の識別性
+　４－３Ｃ、４－３Ｄ母線の電圧検出回路のテスト端子は、所内盤内で隣接しているが、端子上部の名板で識別されている。
+　(ｂ)端子の識別性
+　端子番号はあるが、４－３Ｃ、４－３Ｄともに同じ番号であり、番号での識別はないが、端子上部の名板で識別が可能である。
+ｂ．環境
+　(ａ)照度
+　接続作業場所は、中央制御室であり十分な照度がある。
+　(ｂ)騒音
+　騒音を出す様な作業はなく、通常の静かな状態であった。
+　(ｃ)温度
+　空調装置は通常どおり運転中であり、適温に制御されていた。
+　(ｄ)広さ
+　所内盤前面での作業であり、狭隘部ではなかった。
+ｃ．管理
+　(ａ)作業計画書
+　作業計画書には養生に関する記載があり、養生を実施していれば問題なかったことから、作業計画書に問題はない。
+　(ｂ)作業指示
+　当社から作業再開時に再養生（マーキング）・再検電するよう注意しなかった。また、作業責任者からも作業再開時に隔離養生及び検電の確実な実施に関する注意がなく、作業員は継続作業であり、再養生、再検電の必要性に関する自覚が十分でなかった。
+　(ｃ)計画性
+　事前に計画し、前日に作業内容を再確認した作業であり、また、当日も午前に引き続き実施した計画的な作業であった。
+ｄ．人
+　(ａ)技量
+　当該作業の経験は豊富であり技量に問題はなかった。
+　(ｂ)あせり
+　午前中に作業中断があったがあせりはなかった。
+　(ｃ)疲労度
+　特になかった。
+　(ｄ)錯覚
+　午前中に作業を中断した際、養生（マーキング）を撤去したが、午後の作業再開時に午前中と同じ作業対象機器を作業しており、間違いないと思っていた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2947</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/08/03 19:52:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3189</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/05/09 17:50:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200504061331]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１） 作業開始および作業再開時における隔離養生（作業対象範囲外のテープ養生）および検電の確実な実施に関する再徹底・周知を行った。
+（２） 当社は安全作業指示書確認時に、作業中断し養生を撤去したときは、再開後も隔離養生および検電を確実に実施するよう協力会社に指示するとともに、作業再開にあたっては、これらが確実に実施できていることを当社社員が確認する。また、協力会社の作業責任者も作業中断後の再開時の隔離養生および検電に関する指導を徹底する。
+（３） 隔離養生の重要性について今回の事例を徹底し、当社及び協力会社の作業関係者に再教育を実施した。また、今後、定期検査前の説明会毎に、継続的に周知し注意喚起を行う。
+（４） 号機間違い、トレン間違い等の作業対象箇所の誤り防止に関する協力会社からの改善の提案により、継続的に改善活動を行う。
+（５）協力会社内における事例周知、ヒューマンエラー防止教育を実施する
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/08/03 19:52:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２１回定期検査中のところ、４月６日１３時３１分に４－３Ｃ母線（安全系母線）の電圧低下を示す警報「４－３Ｃ、Ｄ母線電圧低（ＵＶ動作）」が発信、Ａ非常用ディーゼル発電機が自動起動し、４－３Ｃ母線に電源を供給した。
+　４－３Ｃ母線の低電圧信号発信により、４－３Ｃ母線から給電されているＡ海水ポンプ等の機器が停止した。(４－３Ｄ母線は作業停電中)　
+　運転員がＡ非常用ディーゼル発電機および４－３Ｃ母線を確認したところ、Ａ非常用ディーゼル発電機の自動起動状態（ＤＧ電圧6900Ｖ）に問題はないが、母線電圧計の指示に低下が認められた。（ＡＢ相：０Ｖ、ＢＣ相：3900Ｖ、ＡＣ相：4000Ｖ）
+　母線電圧検出回路の点検を行った結果、母線電圧検出回路のヒューズ切れが認められ、４－３Ｃ母線に電源が供給されているにもかかわらず、電圧計の指示のみが低く、警報が発信していることがわかった。
+　このため、１４時１０分に当該ヒューズの取替を行い、母線電圧が正常に復帰したことを確認した。その後、起動変圧器からの受電に切り替えるとともに、電圧低下信号により停止した海水ポンプ等の各機器を順次起動させ、１４時１５分にＡ非常用ディーゼル発電機を停止・待機状態として、４－３Ｃ母線を通常状態とした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-関西-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　作業員が４－３Ｄ母線の電圧検出回路のテスト端子に模擬入力の出力配線を接続する作業において、作業停電中の４－３Ｄ母線に接続すべきところ誤って充電中の４－３Ｃ母線の電圧検出回路のテスト端子に接続したため、４－３Ｃ母線の電圧検出回路のヒューズが溶断し、４－３Ｃ母線の低電圧信号が発信した。
+　このため、Ａディーゼル発電機が起動したが、電圧検出回路のヒューズが溶断していたため、４－３Ｃ母線の低電圧信号発信が継続し、海水ポンプなどが起動しなかった。
+　誤接続した原因については、昼休憩後の午後作業再開直後に事象が発生していることから、当社から協力会社に対して作業中断後の再開時に再養生（マーキング）、再検電の実施を注意しなかったこと、また、作業責任者から作業再開時に隔離養生および検電の実施に関する注意がなく（作業指示不十分）、作業員は継続作業であり、再養生、再検電の必要性に関する自覚が十分でなかった（自覚不十分）ことが原因と推定される。
+　また、午前中に一旦、養生（マーキング）を撤去し、作業を中断したが、午後の作業開始時に午前中と同じ作業対象機器を作業しており間違いないと思った（錯覚）ことも原因と推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[４－３Ｃ母線電圧低信号発信に伴うＡディーゼル発電機の自動起動について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（４－３Ｃ母線低電圧信号発信）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/05/19 18:13:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[211]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[非常用ディーゼル発電機]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2947</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[試験用端子・ヒューズ]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2947</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御用電気回路]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[261]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2947</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

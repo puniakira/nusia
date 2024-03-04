@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[非常用ディーゼル発電機３Ａの燃料弁冷却水タンクオーバーフロー管から冷却水が流出して、床面に溢水した原因について調査を実施した。
+（１）当該フロート弁の動作状況の調査
+３月２３日に当該フロート弁の動作状況を確認するため、燃料弁冷却水タンクの水位を下げて自動補給を行った結果、既定の水位に到達すると当該フロート弁は自動閉止し、補給は停止した。
+再度、同様の動作確認を実施したが、フロート弁の動作状況に異常はなかった。
+
+（２）当該フロート弁の分解調査
+ａ．分解前調査
+３月２４日に外観点検を行った結果、各部に損傷および組立不良等の異常は確認されなかった。
+ｂ．分解調査
+３月２４日に外観点検を行った結果、弁体内部に若干の錆が認められたものの、弁の漏えいの要因となるような、駆動部の固着、シート部の傷等の異常は確認されなかった。また、その他構成部品（フロート、弁本体、シリンダ、弁棒、ストレーナ等）についても、異常は確認されなかった。
+ｃ．考察
+事象発生時、タンク内に設置されているフロート弁のフロートは浮上し弁は閉まる方向にあったが完全に閉まりきらず、脱塩水が補給され続けていた。
+これは、燃料弁冷却水タンクの水位上昇に伴いフロートに生じた浮力は弁を閉止する方向に作用していたが、何らかの要因により弁の摺動部に抵抗力が生じ、弁が完全に閉止できない状況となっていたものと推定される。
+
+（３）当該フロート弁の保守状況調査
+フロート弁の取替周期は１回／２定検としている。
+当該フロート弁は平成２４年８月に取替ており、次回は平成２７年５月に取替を計画していた。
+また、補修履歴を調査した結果、過去に同様な事象はないことを確認した。
+
+（４）フロート弁の不具合事象調査
+１号機～３号機非常用ディーゼル発電機の燃料弁冷却水タンクおよびシリンダ冷却水タンクに設置しているフロート弁について、補修履歴を調査した結果、過去に同様な事象はないことを確認した。
+設備設置メーカに同様なフロート弁の不調が過去に発生したか確認したが、設備設置メーカは経験がないことを聞き取りにより確認した。
+また、原子力施設情報公開ライブラリーのトラブル情報を調査した結果、同様なフロート弁の不調は発生していないことを確認した。
+
+（５）溢水に係る調査
+燃料弁冷却水タンク３Ａよりオーバーフローした冷却水が床面に溢水した原因について系統構成の観点から調査を実施した。
+ａ．３号機非常用ディーゼル発電機補機室の溢水検知および系統に係る調査
+・燃料弁冷却水タンクには、水位低警報(水位55%)の設定はあったが、水位高警報の設定はなかったため、タンクに過剰に給水されていることは確認できない状態であった。また、サンプピットにも水位高警報が設置されていなかったため、サンプピットの異常な水位上昇を検知ができない状態であった。なお、同様にフロート弁により自動補給されるタンクであるシリンダ冷却水タンクには、水位低警報(水位70%)および水位高警報(水位110%)が設置されている。
+・サンプピットの排水弁は、火災時に放出される二酸化炭素が排水配管を介してタービン建屋に流出することを避けるため、また、タービン建屋からの溢水流入防止のため閉運用とする必要がある。
+ｂ．溢水に係る類似箇所の調査
+・伊方発電所第１，２号機非常用ディーゼル発電機室の調査
+燃料弁冷却水タンクおよびシリンダ冷却水タンクの給水ラインには同様なフロート弁が設置されているが、タンクからのオーバーフローラインは床ドレン配管を経由して直接、室外のピットに排水される系統構成となっていることから、タンクのオーバーフローが発生しても非常用ディーゼル発電機に影響を与えることはないことを確認した。
+・その他１号機～３号機のサンプピットの調査
+非常用ディーゼル発電機補機室以外の１次系および２次系のサンプピットについて調査した結果、どのサンプピットにおいてもポンプにより自動排水を行っており、３号機非常用ディーゼル発電機補機室サンプピットのように排水弁を閉運用としているエリアはないことを確認した。
+ｃ．３号機非常用ディーゼル発電機の健全性確保に係る溢水評価
+３号機非常用ディーゼル発電機補機室内に設置されている機器のうち、溢水により最も先に影響を受ける機器は燃料油移送ポンプであり、水位が床面から約２５ｃｍを超えると、非常用ディーゼル発電機に燃料油を移送するためのポンプの駆動用モータ下端が水没し、使用できなくなることから非常用ディーゼル発電機に影響を与える恐れがある。
+今回の溢水において水位は床面から約１０ｃｍ程度であり、非常用ディーゼル発電機の安全機能に影響はないことを確認している。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12191</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2017/02/21 20:29:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>54988</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2015/04/13 10:38:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201503202020]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該フロート弁を新品に取替て、動作状況に異常のないことを確認した。
+（２）万一、フロート弁に不調があったとしてもサンプピットへの漏えい量を低減できるよう、燃料弁冷却水タンクＡおよびＢへの補給水流量を調整した。
+（３）フロート弁の動作不良のリスクを低減するため、１号機～３号機非常用ディーゼル発電機の燃料弁冷却水タンクおよびシリンダ冷却水タンクに設置している全てのフロート弁について取替周期を現状の1 回／２定検から1 回／１定検に変更する。
+（４）タンクへの過剰給水およびサンプピットの異常な水位上昇を検知できるよう、３号機非常用ディーゼル発電機について以下の検知システムを設置する。
+・燃料弁冷却水タンクへ水位高警報を設置する。
+・サンプピットへ水位高警報を設置する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/02/21 20:29:25]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第３号機は定期検査中のところ、平成２７年３月２０日２０時２０分頃、非常用ディーゼル発電機補機室Ａ（管理区域外）において、運転員が、非常用ディーゼル発電機３Ａの燃料弁冷却水タンクオーバーフロー管から冷却水（脱塩水）が流出して床面に溢水していることを確認した。このため、燃料弁冷却水タンクへの補給水弁を閉止して、脱塩水の供給を停止したことにより、冷却水の流出は停止した。補給水弁を閉止後、燃料弁冷却水タンク内を確認したところ、タンク内に設置されているフロート弁のフロートは浮上していたものの、タンク内の水位上昇に伴い水没していた。
+点検の結果、燃料弁冷却水タンクへ脱塩水を補給するラインに設置されているフロート弁の不調により、脱塩水が連続補給され、オーバーフローしたものであることを確認した。
+　その後、燃料弁冷却水タンクへの脱塩水の流入量の調整を行い、当該フロート弁を新品に取替て、動作状況に異常がないことを確認し、通常状態に復旧した。
+　なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-四国-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回のフロート弁の調査において、
+・フロート弁の不調（漏えい）に再現性はなかった。
+・フロート弁の動作状況に異常はなかった。
+・分解点検においてフロート弁の駆動部およびシート部等に異常は認められなかった。
+以上のことから、何らかの原因により弁体が弁本体内面に引っ掛かり、弁のシート機能が一時的に失われた一過性の事象であると推定される。
+要因としては、弁本体内面の錆の影響およびシート部のゴミ噛み等が考えられる。
+また、タンクへの過剰給水およびサンプピットの水位上昇を検知するシステムがなかったことから、溢水の検知ができず、今回の事象に至った。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　非常用ディーゼル発電機補機室内における溢水について]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[モード外]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>54990</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/04/13 10:40:29]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[522]]></KIKI_CODE>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12191</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[050]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[弁]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>34</SORT_NO>
+						<BUHIN_CODE><![CDATA[050]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[522]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[水タンク]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[520]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[520]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[タンク・槽・アキュムレータ装置]]></KIKI_NAME>
+					<SORT_NO>33</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[260]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[異物混入（保守・施工時の異物混入は除く）]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[運転中トラブルによる部品脱落等による異物混入（保守・施工不良による異物混入は除く）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12191</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査結果
+（１）当該弁の点検結果
+　原子炉停止後のドライウェル内点検時に当該弁の外観点検を行った結果、異常はなくシールイン回路復旧後の弁動作状況にも問題ないことを確認した。したがって、シールイン回路が除外されていた状態であっても、弁の操作スイッチを継続的に開操作することにより弁を全開にすることは可能であり、当該系統は動作可能な状態であった。
+
+（２）聞き取り調査結果
+　シールイン回路が除外されていたことについて、関係者に対し聞き取り調査を実施した結果、以下のことが確認された。
+ａ．１号機の点検停止に伴う原子炉停止時冷却系Ａの運転操作（ウォーミング含む）の準備として、手順書改訂前に作成された従来より使用しているＣＡＵＴＩＯＮ管理シート（プラントの停止や起動等に行う操作に伴う安全処置事項をタグで管理するために発行するシート）の使用について当直長Ａの承認を得た。
+ｂ．当直員Ａ（以下、３直の当直員をＡ、次直の１直の当直員をＢ、２直の当直員をＣとする。）は、当直長Ａの指示により、原子炉停止時冷却系Ａのフラッシングを実施した。
+ｃ．当直員Ａは、引継ぎ時間が間近となったことから引継ぎ日誌に原子炉停止時冷却系Ａのフラッシングの完了の旨を記載し、当直長Ａの承認を得た。
+ｄ．その後、当直員Ａは、原子炉停止時冷却系Ａのウォーミングの準備項目である入口弁（Ａ）のシールイン回路の除外を実施した。
+　この際、当直員Ａは、引継ぎ日誌に当該処置について追記しなかった。
+ｅ．当直員Ａは、次直への引継ぎ時、引継ぎ日誌及びユニット操作手順書により、「原子炉停止時冷却系Ａのフラッシング完了」、「原子炉停止時冷却系Ａのウォーミングより実施」する旨の引継ぎを行った。
+　この際、当直員Ａは、ＣＡＵＴＩＯＮ管理シートの実施状況（ウォーミングのための準備状況）については引継ぎをしなかった。
+ｆ．引継ぎ終了後、1直の当直員Ｂは、原子炉停止時冷却系Ａのウォーミング準備として、ユニット操作手順書に基づき入口弁（Ａ）の開操作を実施する旨を当直長Ｂに報告し、操作を実施したが赤と緑ランプ点灯となるものの、全開とならなかった。
+　その後、入口弁（Ａ）を全閉とし数回開操作を実施したが、同様に全開とならなかったため、制御回路図等を確認した。
+ｇ．再度開操作を実施したが、入口弁（Ａ）が全開とならなかったことから、当直長Ｂは、当該弁の動作不良はドライウェル内の弁本体側に原因があるものと考え、原子炉停止時冷却系Ａが動作不能であり，運転上の制限を満足していないと判断した。
+ｈ．Ｄ／Ｗ開放後、保全部員現場立ち会いのもと当直員Ｃは、入口弁（Ａ）の開操作を実施したが、現場指示開度５％で開動作が停止したことを確認した。保全部員は、当該弁の外観点検を行うとともにリミットスイッチの動作状態を確認した結果、異常がなかったことから、入口弁（Ａ）のシールイン回路が除外されていないか確認するよう当直員Ｃへ依頼した。
+ｉ．当直員Ｃは、ＣＡＵＴＩＯＮ管理シートを確認し、入口弁（Ａ）のシールイン回路が除外されていることが記載されていることを確認するとともに、制御盤の当該端子にＣＡＵＴＩＯＮタグが取り付けてあることを確認し、当直長Ｃに報告した。
+ｊ．３直と１直の当直長にシールイン回路の除外の必要性について確認したところ、３直の当直長Ａは過去に当該弁を開操作した時に原子炉水位が低下した事例があり、現状の手順書では水位低下の可能性はないことは理解していたが、より安全側の操作としてシールイン回路を除外して当該弁を除々に開けることとしていた。
+　一方、１直の当直長Ｂは、過去の事例は知っていたが、操作手順書が改訂された際に対策はとられており、シールイン回路除外の手順が削除されたことから、シールイン回路除外操作は必要ないと考えていた。
+
+２．問題点の抽出
+　聞き取り調査の結果から、入口弁（Ａ）のシールイン回路が除外されていることに気がつかなかったことの問題点は、以下の２点と考えられた。
+（１）３直は、ユニット操作手順書に加え、ＣＡＵＴＩＯＮ管理シートを参考にして、シールイン回路の除外操作を実施したが、手順書に記載されていない操作であった。
+（２）３直の当直員は１直の当直員にシールイン回路が除外済みであることを引き継ぎしていなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[105]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>3264</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[103]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[高温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/10/12 18:05:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　原子炉停止時冷却系の起動準備中において、当該系統の入口弁（Ａ）を開操作したところ、全開にならなかった。このため、当該系統が動作可能な状況にないことを確認したことから、平成17年９月17日午前10時10分、保安規定第34条で定める「運転上の制限」を満足していないと判断した。　
+　その後、当該系統の入口弁（Ｂ）を開けて冷却を開始し、平成17年９月17日午後２時10分に冷温停止状態となった。これにより、同時刻に保安規定第34条に係わる「運転上の制限」の逸脱は解除となったが、冷温停止状態における保安規定第35条で定める「運転上の制限」の逸脱に移行した。
+　点検調査の結果、当該弁のシールイン回路が一時的に切り離してあることがわかったことから、当該回路を復旧し、同日午後５時５４分当該弁が正常に動作することを確認し、当直長は、運転上の制限内への復帰を判断した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3317</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/09/20 19:27:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200509171010]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の要因に対し，以下の再発防止対策を実施する。
+（１）シールイン回路除外操作の実施の認識に対する対策
+ａ．ユニット操作手順書に関連するＣＡＵＴＩＯＮ管理シートを作成する際には、十分な事前検討を行い、作成することを徹底する。
+ｂ．起動・停止操作に関するＣＡＵＴＩＯＮ管理シートの内容をユニット操作手順書に追加し、遵守する。また、ＣＡＵＴＩＯＮ管理シートはタグ管理のみに使用することを再徹底する。
+（２）引き継ぎに対する対策
+ａ．一連の操作は一貫して行うように計画することを再徹底する。また、当直長は作業の進捗状況を把握し、作業の継続・中断を明確に指示するよう再徹底する。
+　なお、当直間の引継ぎについても手順書により確実に引き継ぐことを再徹底する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/10/12 18:05:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は、平成17年９月16日より点検停止のため停止操作中だったが、原子炉停止時冷却系の起動準備中において、当該系統の入口弁（Ａ）を開操作したところ、全開にならなかった。このため、当該系統が動作可能な状況にないことを確認したことから、平成17年９月17日午前10時10分、保安規定第34条で定める「運転上の制限」を満足していないと判断した。
+　その後、当該系統の入口弁（Ｂ）を開けて冷却を開始し、同日午後２時10分に冷温停止状態となった。これにより、同時刻に保安規定第34条に係わる「運転上の制限」の逸脱は解除となったが、冷温停止状態における保安規定第35条で定める「運転上の制限」の逸脱に移行した。
+　点検調査の結果、当該弁のシールイン回路（開操作した場合に自動的に全開にする回路）が切り離してあることがわかったことから、当該回路を復旧し、同日午後５時５４分当該弁が正常に動作することを確認し、当直長は、運転上の制限内への復帰を判断した。
+　なお、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-M032]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　問題点についてＲＣＡにより分析した結果、入口弁（Ａ）のシールイン回路が除外されていることに気がつかなかった根本原因は以下のとおりであることがわかった。
+（１）シールイン回路除外操作の実施の認識が異なった原因
+ａ．ユニット操作手順書を補足するものとしてＣＡＵＴＩＯＮ管理シートを手順書の一部として使っていた。
+ｂ．ＣＡＵＴＩＯＮ管理シートは、手順書の改訂以前に作成されていたが、承認の際、ユニット操作手順書を確認しておらず、事前検討を十分に行わなかった。
+ｃ． ユニット操作手順書には安全処置等が全て記載されていなかった。
+（２）引き継ぎをしなかった原因
+ａ．運転員引き継ぎ日誌作成後の引き継ぎ準備時間中にシールイン回路の除外をした。
+ｂ．ＣＡＵＴＩＯＮ管理シートがあるので、口頭で引き継げばよいと思ったが失念した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉停止時冷却系における運転上の制限の逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限の逸脱を判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/09/22 18:13:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉停止時冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[105]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[105]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>3264</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

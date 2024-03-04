@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10339</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/05/21 13:27:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4450</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/05/12 13:58:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200905020930]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、定格熱出力一定運転中のところ、平成２１年５月２日９時３０分頃、巡視点検をしていた運転員がタービン建屋地下１階（非管理区域）で水溜りを発見した。
+　溜まっていた水の流入経路を調査した結果、タービン建屋に隣接する給水処理建屋からタービン建屋地下１階に通じているトレンチ（配管やケーブルを設置しているトンネル。以下、「当該トレンチ」という。）の堰を越えて、流入していることを確認し、さらに給水処理建屋を確認した結果、碍子の汚損検出器※１の排水が継続していることを確認した。
+　碍子の汚損検出器は、碍子の表面に付着した海塩粒子を水で洗浄し塩分濃度を測定する装置です。その洗浄水は補給水槽から供給されるが、その水位が下がると自動で排水電磁弁が閉じ、給水電磁弁が開いて水が供給される。
+　今回は、排水電磁弁が動作不良で閉じずに給水が行われたため、直接、排水先である当該トレンチに給水が流れ込む状態が継続していることを確認した。このため、排水電磁弁の上流側にある給水元弁を閉じたところ、当該トレンチへの給水の流れ込みが停止し、タービン建屋地下１階への水の流入も停止した。
+流入した水による機器への影響はなかった。
+　また、溜まっていた水の量は、水溜りの範囲からタービン建屋地下１階（面積：約５８０ｍ2、深さ：約１ｃｍ、水量：約５．８ｍ3）と当該トレンチ内（面積：約７４ｍ、深さ：約１０cm、水量：約７．４ｍ3）合計で約１３．２ｍ3と推定した。
+　なお、碍子の汚損検出器の補給水槽への給水は、２次系で使用する放射能を含まない水であるため、この事象による環境への影響はなかった。
+
+　対策として、排水電磁弁を新品に取替えるとともに、碍子の汚損検出器の補給水槽給水配管の排水を当該トレンチに入らない箇所に変更する。
+
+　※１：屋外開閉所の碍子の汚損状況を確認するために設置している検出器
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋地下１階で水溜りの発見について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/05/21 13:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

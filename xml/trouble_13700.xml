@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[状況確認を実施した結果、事象の原因は以下のとおり。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[233]]></KEITO_CODE>
+	<SL_HANTEIKEKKA_TXT><![CDATA[令和５年（2023年）８月23日の原子力規制委員会において、令和５年度第１四半期の原子力規制検査結果が報告され、次のことについて、安全重要度「－」、深刻度の評価「SLⅣ（通知なし）」と判断された。
+
+①点検計画表に定められた点検頻度を超過している事象
+②原子力規制委員会へ誤った定事検実績の報告
+
+]]></SL_HANTEIKEKKA_TXT>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13700</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[06]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[机上検討・記録評価]]></HAKKEN_HOHO_CODE_NAME>
+	<SL_HANTEIKEKKA_CODE><![CDATA[4]]></SL_HANTEIKEKKA_CODE>
+	<SL_HANTEIKEKKA_CODE_NAME><![CDATA[SLⅣ]]></SL_HANTEIKEKKA_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2023/09/13 11:20:37]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[安全補機室冷却ユニット]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>118432</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/09/04 20:30:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20230823]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[①点検計画表に定められた点検頻度を超過している事象
+（１）保修課は長期点検計画表のデータ管理者を設定する。各設備担当者より管理者へ連絡をしなければ変更ができない運用とすることで、把握されない変更が起こることを防止する。なお、管理者はデータ管理を行うが、内容については、そのデータを印刷したものを、設備主管係の担当者及び管理職が確認して制定する。
+（２）長期点検計画表改訂時には、担当者がExcelの機能を活用して前回改訂時のデータと比較して前回改訂時からの変更点を抽出し、担当者及び管理職が変更を意図した箇所以外に変更点がないか確認を行う運用とする。
+（３）発電所内の技術系社員全員に対して定期的に実施する定期事業者検査全体教育に合わせて本事象の周知を行うこと、及び保修課の担当者が定期的に（定期検査終了後及び補機計画整備工事終了後（年度毎）の点検実績反映時）全ての機器について次回の点検計画が点検周期の範囲内に入っていることの確認を実施する運用とすることにより、点検計画が実施頻度内であること等、適切な計画となっていることを確認する意識が不足することを防止する。
+（４）第13回定検でプラント長期停止に伴って追加実施した点検の実績について、保全計画を管理するシステムから出力される表においても13回定検にて実施したことが分かるよう表記する。但し、追加点検の実施時期を把握するため、別紙管理も継続する。
+
+
+②原子力規制委員会へ誤った定事検実績の報告
+　３号機第１６回定期事業者検査報告書（定期事業者検査開始時）「添付書類三　施設管理の実施に関する計画」のうち「参考資料１　玄海第３号機点検計画期間中における点検の実施状況等（第１６保全サイクル）」作成時に、管理職のフォローが不十分であったため誤記があったことを保修課内に周知し、今後当該資料作成時には、保修課の担当者は長期点検計画表等のバック資料と突き合わせ確認をすること及び管理職は担当者がその確認を行うようフォローすることで、同様の事象が発生しないよう注意喚起する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[1]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[あり]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/09/13 11:20:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　令和５年１月18 日に、令和４年１月21 日から令和５年１月10 日まで実施された定期事業者検査（以下「定事検」という。）に係る原子力規制検査を実施したところ、３Ｂ安全補機室冷却ユニット（以下「当該設備」という。）の定事検に係る２つの事象を原子力検査官が確認した。
+
+①点検計画表に定められた点検頻度を超過している事象
+　令和５年１月18 日 原子力検査官が令和４年１月21 日から、令和５年１月10 日まで実施された定事検の記録確認時に、当該設備に対する定事検の点検頻度が２保全サイクルとなっているが、直近２回の実績は第13 保全サイクル及び第16 保全サイクルであり、３保全サイクルの点検頻度となっており、定められた点検頻度を超過していることを確認した。
+
+　点検計画表に、点検実績等を反映することにより、保全の計画・実績を管理している。
+当初、当該設備の定事検頻度は、２保全サイクルとして点検計画表の第14 保全サイクルの欄に計画を「○」で表記していたが、平成30 年８月から11 月の間に表記していた「○」を保修課員が意図せず誤って削除し、点検頻度と整合していない記載となったが、修正箇所と認識されなかったことから削除されたことに気づかないまま保全サイクルが進捗し、第16 保全サイクルまで定事検が実施されず、結果として、第13 保全サイクルから第16 保全サイクルまでの間、技術基準の適合確認がなされないまま運転を継続した。なお、点検計画表は平成30 年11 月まで共有ネットワーク内に電子ファイルとして保存されており、保修課員であれば誰もが編集可能であったこと及び変更履歴も確認できない状況であった。
+
+　一方で、第16 保全サイクルにおいて、当該設備の定事検を行い「ユニット内部に残留物がないこと」、「フィルタが正常に取り付けられていること」及び「ユニット本体及びその他の部品に異常がないこと」を確認しており、異常は認められておらず、それまでの間、実用発電用原子炉及びその附属設備の技術基準に関する規則は満足していたと考えられる。
+また、当該設備以外で、同様の事象はなかった。
+
+
+②原子力規制委員会へ誤った定事検実績の報告
+　上記①の事象を踏まえて、原子力検査官が３号機第16 保全サイクル開始時に原子力規制委員会へ報告した定事検報告書を確認したところ、第14 保全サイクルに当該設備の定事検を実施したとして誤った報告を確認した。
+　定事検報告書の作成担当者が、定事検の記録の確認を行うなどの実績の確認をせず、当該設備の定事検の点検頻度が２保全サイクルであることから、当該設備の定事検を実施していない第14 保全サイクルに機械的に実績ありと表記した定事検報告書を作成し、原子力規制委員会に報告していた。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-九州-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[①点検計画表に定められた点検頻度を超過している事象
+　保修課では定期事業者検査の実施時期は長期点検計画表にて管理している。
+　本事象は、本来長期点検計画表の第１４回定検に計画を示す「〇」が記載されていたが、何らかの要因で元データからその「〇」が削除され、それが変更点として把握されていなかったため、適切な変更かどうか確認されることなく長期点検計画表が改訂された。その結果、実施頻度を超過する計画となったが、それが気づかれないままであったため、そのまま定期事業者検査が実施されたなかったことにより、実施頻度を超過した。
+（１）長期点検計画表は以前は共有のExcelデータで管理していた。当時は、長期点検計画表が保修課員であれば誰でも編集可能な状況となっており、誰かが変更を加えても変更点として把握されないことが起こりうる状況であった。
+（２）長期点検計画表を改訂する際に管理職は、変更を意図した箇所以外は確認していなかった。
+（３）ほとんどの保修課の担当者が日常的に、点検計画が実施頻度内であること等、長期点検計画表の点検計画が適切な計画となっていることを確認しているが、一部の保修課の担当者はまれにその意識が不足してしまうことがあった。
+（４）第13回定検でプラント長期停止に伴って追加実施した点検は、保全計画を管理するシステムの構造上その実施時期を区別して管理することができなかったため、別途Excelデータの表で管理しており、保全計画を管理するシステムから出力される表に13回の実績として記載されなかったことから、点検計画が点検頻度の範囲内かの確認がしづらかった。
+
+②原子力規制委員会へ誤った定事検実績の報告
+　当該資料の作成は、長期点検計画表を単純に転記するだけの作業であったため、保修課副長は担当者に対するフォローが不十分になり、長期点検計画表との突き合わせ確認が実施されず、当該資料についての確認が不十分であった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[玄海原子力発電所３号機　不適切な点検計画表の管理によるＢ安全補機室冷却ユニット定期事業者検査実施時期の超過及び原子力規制委員会への誤った報告（令和５年度第１四半期　原子力規制検査指摘事項）]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1180</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>118444</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/09/04 20:30:32]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[安全補機室冷却ユニット]]></S_KIKI_NAME>
+			<TROUBLE_ID>13700</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[安全補機室冷却ユニット]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13700</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他の換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[233]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[233]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13700</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13700</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13700</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

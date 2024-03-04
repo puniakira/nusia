@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11988</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/21 22:45:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/04/01 18:43:52]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201403251020]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/21 22:45:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[３月25日午前10時20分頃、３号機海側モバイル処理装置にて、漏えい検知器が作動。現場状況を確認したところ、吸着塔に設置したドレンパン内に水が溜まっていることを確認。漏えいした水は、同処理装置内のドレンパンの中に収まっており、外部への汚染水の流出はない。漏えいした水は、吸着塔の空気抜きラインからの水を受けるために接続されているポリタンクから溢れたものと推定。なお、同処理装置の自動停止に伴い、漏えいは停止。漏えい量について、ドレンパンの大きさ約3.3ｍ×約2.0ｍ、深さが実測値で19mmであることから、約101Ｌと推定。
+
+ドレンパン内に漏えいした水の分析結果は以下のとおり。
+・セシウム－134　　 1.2×10^３ Bq/L
+・セシウム－137　　 3.5×10^３ Bq/L
+・コバルト－60　　  1.2×10^２ Bq/L
+・マンガン－54　　  9.7×10^１ Bq/L
+・全ガンマ         4.94×10^３ Bq/L
+・全ベータ          7.3×10^６ Bq/L
+〔参考：モバイル処理装置処理前の水（吸着塔入口）：３月24日採取分〕
+・セシウム－134　   1.1×10^５ Bq/Ｌ
+・セシウム－137　   2.9×10^５ Bq/Ｌ
+
+以上から、ドレンパン内に漏えいした水のガンマ核種の全放射能量は約5.0×10^５ Bq、ベータ核種の全放射能量は、約7.4×10^８ Bqと推定。今後、水の回収を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S141]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所３号機 モバイル処理装置漏えい検知器の作動について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/04/03 13:41:06]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

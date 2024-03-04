@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3149</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/05 15:24:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3262</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/02 11:38:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20050727]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[浜岡原子力発電所で発生した紙等の可燃性固体廃棄物は、可燃性固体廃棄物焼却炉において焼却処理している。その際、可燃性固体廃棄物焼却炉排気筒（以下、「焼却炉排気筒」という。）から放出される排ガスについては、法令で定める放射能濃度限度以下であることを連続監視モニタにより監視測定（※１）している。また、環境への影響がないようなごく低いレベルの放射能を定量的に評価する目的で、１週間連続通気捕集したフィルタを高感度の放射能測定器を用いて測定している。
+連続監視モニタの指示には有意な変化はなかったが、平成１７年７月１９日から７月２６日の期間に使用したフィルタを７月２７日に測定したところ、検出限界値（※２）をわずかに超える濃度（当該期間の平均で約２Ｅ－９ベクレル／ｃｍ３）のヨウ素１３１が検出された。
+検出された濃度のヨウ素１３１が１週間連続的に焼却炉排気筒から放出されたと仮定して放出量を評価すると、当該期間におけるヨウ素１３１の放出量は約２Ｅ＋３ベクレルとなる。これは、保安規定で定める年間の放出管理目標値（３．１Ｅ＋１１ベクレル）（※３）の約１億分の１に相当するごく微量なものであった。
+なお、当該期間中のモニタリングポストに有意な変化はなく、本事象による外部への放射能の影響はない。
+
+焼却炉排気筒の排ガスから検出されたヨウ素１３１の発生原因について、当該期間に焼却した可能性のある可燃性固体廃棄物のうち、ヨウ素１３１に汚染された可能性のある廃棄物の調査を行った。その結果、廃棄物の発生時期や処理状況等から、原子炉水中に含まれる金属の濃度を分析した後の、使用済みの金属捕集用フィルタを焼却した際、このフィルタに捕集されていたヨウ素１３１（※４）が検出されたものと推定した。
+ヨウ素１３１は、半減期が約８日と比較的短いため、焼却前に適切な減衰期間をおけば検出されることはないが、これまで、ヨウ素１３１の減衰期間を確保した上で焼却するというルールが明確になっておらず、結果的に減衰期間が不十分のまま金属捕集用フィルタを焼却したため、検出されたものと考えられる。
+
+今後は、当該フィルタを焼却する際は、ヨウ素１３１の減衰期間を十分確保した上で焼却するよう社内ルールに定め、保管管理を徹底する。
+
+※１　連続監視モニタによる測定は、環境への影響があるレベルのヨウ素１３１の放出を監視する目的で行っているもので、法令で定められる周辺監視区域での３ヶ月間の平均濃度限度（５Ｅ－６ベクレル／ｃｍ３）に至らないよう、上記濃度が検出された場合に警報を出す機能を持っている。警報が発生した場合は、焼却炉を停止する処置をとる。
+※２　検出限界値は、一般的な試料の測定において、放射能が原理的に測定できる下限値。（今回の測定における：検出限界値は約１Ｅ－９ベクレル／ｃｍ３）
+※３　保安規定で定める放出管理目標値は、原子力発電所から放出された放射性物質により周辺の人たちが受ける放射線の量の目標値である年間０．０５ミリシーベルトを超えないように定めたもの。なお、人が通常１年間に受ける自然放射線の量は平均で約２．４ミリシーベルトといわれている。
+※４　燃料被覆材に用いられているジルコニウム合金には、不純物としてウランがごく微量含まれている。また、燃料製造時から燃料の被覆管の表面にごく微量のウランが付着している。これらのウランが、原子炉内で核分裂することに伴い、ヨウ素１３１が生成される。ヨウ素１３１は燃料破損がなくても原子炉水中に存在する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所　可燃性固体廃棄物焼却炉排ガスからのごく微量な放射性ヨウ素の検出について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/05 15:24:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

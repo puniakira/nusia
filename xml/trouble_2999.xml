@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2999</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/17 17:36:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3209</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/06/10 10:34:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200506081004]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/08/17 17:36:32]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の当所４号機において、平成17年６月８日、タービン主蒸気止め弁の作動試験の準備作業を実施していたところ、午前10時４分、「主蒸気隔離弁トリップ論理作動」の警報が発生し、原子炉格納容器内の主蒸気隔離弁が閉動作した。
+なお、プラントは停止中であり、安全は確保されていた。
+
+当該事象発生時、タービン主蒸気止め弁は、作動試験の準備作業のため閉めている状態から全開方向へ動作させており，定期検査時のように復水器の真空度が低い状況においては、タービン主蒸気止め弁が開く方向へ一定以上動作すると、主蒸気隔離弁を閉める信号が発生し当該弁は閉することになっている。
+したがって，当該試験の準備作業としてタービン主蒸気止め弁を開方向へ動作させる場合は、復水器の真空度が低いという信号を発しないような処置を実施することになるが、当該処置を行わなかったため警報が発生したものである。
+
+当該処置が行なわれなかった原因を調査した結果、作動試験準備のための作業許可書に当該処置を実施する旨の記載がないことが確認された。
+これは、前回の定期検査でタービン主蒸気止め弁の制御盤を取り替えたことから、新たにタービン主蒸気止め弁の作業許可書を作成したが、当該処置を施す旨の記載のある取り替え前に使用していた過去の作業許可書と比較するなどの確認を実施しなかったために，当該処置が作業許可書に記載されていないことに気が付かなかったことが確認された。
+また、作業許可書を受付・審査する当直員は、作業許可書に記載されていた作業内容が不十分であったため、当該作動試験が行われることを把握できなかったことから、当該処置が必要であることに気付くことが出来なかった。
+
+今後、今回施されていなかった処置を作業許可書に追記するとともに、制御盤などの取り替えがあった場合の安全処置の検討にあたっては、取り替え前の作業許可書の安全処置内容についても確認した上で検討を行い、処置内容が適正となるようマニュアルに反映する。 
+さらに、作業許可書の記載にあたっては、内容が明確となるよう作業・試験項目毎に記載することとし、今回の事例などと合わせて作業許可書作成箇所および当直員に周知する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の福島第二原子力発電所４号機における警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/06/13 19:51:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【原因】設備所管箇所
+１．共用プールのエリアモニタが復旧途中と誤認していた。また、重要な計器であることの認識はあったが、正式に運用開始されているのかを関係箇所に確認していなかった。
+２．共用プールのエリアモニタが復旧途中との誤認もあったので、共用プールエリアモニタ電源が喪失しても、ＧＭへの報告は必要ないと判断してしまった。
+３．ＰＴＷ作業の安全処置実施時に、共用プールエリアモニタ電源が喪失する想定外の状態となってしまったが、作業を継続させてしまった。
+
+【原因】作業主管箇所
+①平成２４年６月に実施した復旧工事において、作業手順書がなく十分な確認が行われないまま工事を実施したことにより、本来Ｂ系のエリアモニタにはＢ系の電源が接続されているべきところＡ系の電源に誤って結線してしまい、Ａ系の電源を落としたことで、Ｂ系の電源が落ちてしまった。
+②エリアモニタの線量当量率測定に関する実施計画の要求事項について十分に理解できていなかったことから、燃料移動に関する燃料移動の監視用としての可搬型エリアモニタが設置されていれば問題ないと判断し、ＧＭ及び関係箇所へ連絡しなかった。
+③エリアモニタの３チャンネル復旧に伴い、正式な文書で関係箇所へリリースを通知していなかったことで、設備所管Ｇ側で仮復旧中であると誤って認識し、ＧＭ及び関係箇所へ連絡しなかった。
+④放射線管理部門は、欠測や異常警報があった場合は、毎日巡視点検を行う設備部門や計測器の管理部門といった他グループから情報が得られるものと考えていた。
+
+【原因】放射線管理部門
+記録回収の頻度を1回/週の頻度で実施していたため、欠測していることに気付くのが遅れた。1回/週の頻度で確認を行うこととした理由は以下のとおり。
+ａ. 欠測や異常値（警報）の発生は、巡視点検・監視箇所から情報が得られると考えていたことから数値自体の確認は毎日実施しなくても問題ないと考えていた。
+ｂ．記録回収の頻度と測定の頻度は必ずしも一致することはないと理解していた。
+ｃ．震災前のHP業務では、S/Bに24H常時滞在で実施していたが、震災後、HPの居室を準備することや数値の確認を毎日実施することは被ばくの観点から取りやめていた。
+
+]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[132]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12018</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2019/09/12 11:12:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/04/25 16:27:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201404221345]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[【再発防止対策】設備所管箇所
+１．実施計画に係わる設備が復旧し使用可能なることが分かった場合は、設備復旧箇所に対し運用開始の有無を確認すると共に、運用開始については正式な文章にて発行するよう依頼することとし、文章受発信システム又はＧＭまでの承認のある文章にて通知を受けることとする。
+２．共用プールのエリアモニタは実施計画に記載の重要な監視計器であることから、巡視点検点検結果を記録するチェックシートに、　実施計画６０条、６１条関連計器である旨を記載する。
+３．ＰＴＷ作業の安全処置実施時に当初予定と違う想定外事象が発生した場合は、作業を中断すると伴に関係箇所及び所管ＧＭに報告（報連相）し、指示に従うことを、再度周知・徹底を図るためＣＢＡチェックシートに記載し、作業前に確認することで再発を防ぐ。
+
+【再発防止対策】作業主管箇所
+原因①工事に対しては、作業手順書を必ず作成し、遵守する。なお、継続しているエリアモニタの復旧工事に関しては、作業手順書を確認し、インターロック試験等により配線が健全であることを確認する。
+原因②「実施計画の要求事項－設備」、「実施計画の要求事項－責任所管ＧＭ」の一覧を基に、当該工事・作業が実施計画の要求条項に該当するかを確認する。
+原因②作業許可書の作業内容に関連する実施計画の要求条項、及び所管ＧＭを明記する。実施計画の要求事項に該当しない場合は「無」と記載する。
+原因③設備復旧箇所で復旧した設備については、正式な文書発行にて設備移管し、設備運用状態に関して、グループ間の情報共有を行う。
+原因①②③今回の事例について事例紹介（ＪＩＴ）を作成し、グループ会議等の場において実施計画の要求事項の重要性、及び「報連相」の実施することを周知徹底する。
+原因③設備運営箇所は、実施計画の要求事項に該当する設備・監視計器であることを「巡視チェックシート」に記載し、巡視点検時に確認する。
+原因③設備運営箇所にて「ＨＥ撲滅シート」による計画外の事象の発生有無、上職への報告のチェック項目を設け実践する。
+原因④欠測や異常警報があった場合は、毎日巡視点検を行う設備部門や計測器の管理部門といった他グループから情報が得られることになっていることは、実施計画の上からも役割分担は明確となっていることから、設備が運用状態になっていることが確認されているものは、関係グループからの情報をもって欠測の情報を入手することができる。なお、放射線管理グループでは、念のため、監視場所で容易に確認できる場合は、確認頻度を１日に１回とする。
+
+【再発防止対策】放射線管理部門
+・復旧までの欠測期間中は、毎日１回電離箱式サーベイメータにて代替測定を実施する。
+・エリア放射線監視盤（デジタルレコーダ）にwebカメラを設置してもらい指示値の確認ができるようにする。(4/28完了)
+・測定を行うエリア放射線モニタは共用プール建屋以外に乾式キャスク仮保管設備と4号機があり、これらは中操にて当直が監視しており、また、中操の監視装置で１回／日に測定値を確認している。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/09/12 11:12:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[共用プール建屋に設置してあるエリアモニタ（３台）について、４月22日午後１時45分頃、欠測していることを確認。当該エリアモニタについては、４月19日から４月21日の３日間、１日に１回の線量当量率の測定が出来ていなかった。なお、４月22日、手サーベイによる当該エリア周辺の測定を行い、欠測前の値と比較し、有意な変化がないことを確認している。
+・共用プール建屋３階オペレーティングフロア
+　４月18日：　1.9μSv/h、４月22日：　1.8μSv/h
+・共用プール建屋１階監視操作室
+　４月18日： 11.0μSv/h、４月22日：　7.0μSv/h
+・共用プール建屋１階キャスク保管エリア
+　４月18日： 16.0μSv/h、４月22日： 20.0μSv/h
+
+当該エリアモニタが欠測した理由については、今後調査を実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【原因】設備所管箇所
+１．共用プールのエリアモニタが復旧途中と誤認していた。また、重要な計器であることの認識はあったが、正式に運用開始されているのかを関係箇所に確認していなかった。
+２．共用プールのエリアモニタが復旧途中との誤認もあったので、共用プールエリアモニタ電源が喪失しても、ＧＭへの報告は必要ないと判断してしまった。
+３．ＰＴＷ作業の安全処置実施時に、共用プールエリアモニタ電源が喪失する想定外の状態となってしまったが、作業を継続させてしまった。
+
+【原因】作業主管箇所
+①平成２４年６月に実施した復旧工事において、作業手順書がなく十分な確認が行われないまま工事を実施したことにより、本来Ｂ系のエリアモニタにはＢ系の電源が接続されているべきところＡ系の電源に誤って結線してしまい、Ａ系の電源を落としたことで、Ｂ系の電源が落ちてしまった。
+②エリアモニタの線量当量率測定に関する実施計画の要求事項について十分に理解できていなかったことから、燃料移動に関する燃料移動の監視用としての可搬型エリアモニタが設置されていれば問題ないと判断し、ＧＭ及び関係箇所へ連絡しなかった。
+③エリアモニタの３チャンネル復旧に伴い、正式な文書で関係箇所へリリースを通知していなかったことで、設備所管Ｇ側で仮復旧中であると誤って認識し、ＧＭ及び関係箇所へ連絡しなかった。
+④放射線管理部門は、欠測や異常警報があった場合は、毎日巡視点検を行う設備部門や計測器の管理部門といった他グループから情報が得られるものと考えていた。
+
+【原因】放射線管理部門
+記録回収の頻度を1回/週の頻度で実施していたため、欠測していることに気付くのが遅れた。1回/週の頻度で確認を行うこととした理由は以下のとおり。
+ａ. 欠測や異常値（警報）の発生は、巡視点検・監視箇所から情報が得られると考えていたことから数値自体の確認は毎日実施しなくても問題ないと考えていた。
+ｂ．記録回収の頻度と測定の頻度は必ずしも一致することはないと理解していた。
+ｃ．震災前のHP業務では、S/Bに24H常時滞在で実施していたが、震災後、HPの居室を準備することや数値の確認を毎日実施することは被ばくの観点から取りやめていた。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　共用プール建屋放射線エリアモニタの線量当量率未測定について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[欠測を確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[当該エリアでは、実施計画に定める保安の措置 第１編 第６０条（外部放射線に係る線量当量率の測定）第１項において１日に１回の線量当量率の測定が要求されており、当該条項に不履行があったもの。]]></IHAN_SHOSAI_TXT>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>69458</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/04/25 17:35:25]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>12018</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12018</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[エリア放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[132]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[132]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12018</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[放射線管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[放射線管理業務に関する同上の問題]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12018</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12018</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12018</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

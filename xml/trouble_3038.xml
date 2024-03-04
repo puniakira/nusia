@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3038</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/09/05 13:17:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/06/20 12:00:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200309241625]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　調整運転中のところ、平成15年9月24日13時50分頃、５号機タービン建屋１階において、給水加熱器(*1)抽気逆止弁(*2)より水滴が滴下していることを当社社員が発見し、現場調査の結果当該逆止弁のフランジ部(*3)から微量な蒸気の漏えいが確認された。このため、当該逆止弁の調査及びフランジ部の増し締めを行ったところ、16時25分頃作業員1名に計画線量(*4)を若干超える被ばく(1.02ミリシーベルト)が認められたが、身体に影響を与えるものではなかった。
+　なお、当該逆止弁フランジ部からの漏えいについては16時25分、停止したことを確認した。
+　また、外部への放射能の影響はなかった。
+　計画外の被ばくの原因は、作業前の指示において、作業時間は移動時間を含んでいるものであること、また作業場所への適切な移動経路、作業姿勢及び作業位置を指示しなかったことにあると推定した。
+　再発防止対策として、作業場所までの往復時間と作業時間に区別して指示することとし、現場の線量分布説明に加え、作業員の姿勢及び位置も合わせて説明することとした。また、放射線管理責任者は放射線管理員に今回の事象の原因と問題点を抽出し、教育を実施した。
+
+*1：給水加熱器
+　復水器により水に戻された復水を原子炉に戻す際、原子炉への熱効率を良くするため、蒸気タービンから抽出した蒸気（抽気）を用いて加熱する装置。
+
+*2：抽気逆止弁
+　給水加熱器への抽気ラインに設置されており、蒸気タービンが停止した時に給水加熱器からの蒸気の逆流を防ぐための弁。
+
+*3：フランジ部
+　弁の内部構造物（弁体等）出し入れ口の蓋の合わせ部分。
+
+*4：計画線量
+　法令では放射線業務従事者の線量限度（50ミリシーベルト／年、100ミリシーベルト／５年）が定められているが、きめ細かい放射線管理を行うため、１日の線量管理目安値として定めたもの。本作業の計画線量は0.9ミリシーベルト。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋作業における計画線量を超える被ばくについて(1.0mSv超え)]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/09/05 13:17:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

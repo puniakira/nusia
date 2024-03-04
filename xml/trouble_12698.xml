@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12698</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/11/15 15:14:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>71716</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/08/14 13:23:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201708101024]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/11/15 15:14:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+　８月１０日１０時２４分、通常運転中の伊方発電所３号機の中央制御室において、火災感知設備の異常を示す信号が発信しました。保修員が現地を確認したところ火災の発生はありませんでしたが、管理区域内の火災感知器用ケーブル２本が切断されていることを確認しました。
+　調査の結果、３号機第１４回定期検査の事前準備として、ケーブルの移設作業を行っていたところ、作業員が空のケーブル保護管を切断する際に、誤って当該ケーブルが入った仮設ケーブル保護管を切断したことから、当該ケーブルが切断されたことを確認しました。
+　その後、当該ケーブルの再接続を行い、同日１７時５分に通常状態に復旧しました。
+
+
+○原 因
+　調査の結果、当該ケーブルを誤って切断した原因は以下のとおりと推定しました。
+・作業責任者は作業員に対し仮設ケーブル保護管の切断作業に関する具体的な指示ができていなかったため、作業員は切断作業を行う前に空の仮設ケーブル保護管であることを確認していなかった。
+・作業員は仮設ケーブル保護管を自ら設置したため、切断する際に対象を間違えるかもしれないという危険を予知できなかった。
+・作業要領書に「新たに設置する仮設ケーブル保護管に識別を行う手順」、「切断前に対象の仮設ケーブル保護管であることを確認する手順」の記載がなかった。
+
+
+○対 策
+・切断した火災感知器仮設ケーブル２本を再接続して復旧しました。
+・本事象は、ヒューマンエラーに起因する重大な事象であるため、事象発生日に事象の概要を関係者に周知し、注意喚起を行いました。
+・作業要領書に、「仮設ケーブル保護管を布設する際は、ケーブル入線後、運用中であることを識別表示すること」、「保護管切断時は、内部のケーブル有無を確認し、切断対象であることを確認のうえ切断すること」を追加しました。
+・本事象について、ワンポイントレッスンを作成し、今後、類似工事の着手前に作業関係者全員に周知します。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-四国-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　火災感知器のケーブル切断について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/08/14 13:24:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

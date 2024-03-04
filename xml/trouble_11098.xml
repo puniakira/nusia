@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11098</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/12 11:09:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/10/05 09:35:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100727]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/12 11:09:12]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海第二発電所は，原子炉熱出力一定運転中のところ，平成２２年６月１７日，残留熱除去系（Ｃ）系定期試験に合わせて実施する残留熱除去系海水系（以下，「ＲＨＲＳ」という）（Ｂ）系定期試験のために，１０時３４分よりＲＨＲＳ（Ｂ）系のポンプ（Ｂ）号機（以下，「ＲＨＲＳ－Ｂ」という）および（Ｄ）号機（以下，「ＲＨＲＳ－Ｄ」という）の順で起動したところ、系統流量が４８０リットル／秒と定期試験基準値の４９２．１リットル／秒以上を満足していないことを確認した。
+　このため、目視により確認可能な機器状態確認※１を実施したが異常は見られなかった。また，流量計等※２の空気抜きを実施したが指示値に改善が見られなかった。
+以上のことから，ＲＨＲＳ（Ｂ）系については保安規定第５２条に定められる動作可能であることが確認できないとして，発電長は１５時４１分に運転上の制限を満足していないことを宣言するとともに，要求される措置として他の１系列であるＲＨＲＳ（Ａ）系が動作可能であることを１７時１２分に確認完了した。
+　
+　本事象において、ポンプの健全性を確認する上で要求される流量の確保は不可欠な要素であるが、当該定期試験手順書においては参考値として記載しており、定期試験の合否判定基準として必要な流量が明記されていなかったために速やかに運転上の制限を満足していないことの判断がなされなかった。
+　このため、保安規定に関連する試験において、「動作可能であること」の判断基準について明確な判断が可能となるように必要な判定基準を追加し、定期試験手順書の適正化を図ることとした。
+　なお、ポンプ流量が確保できなかった原因、対策等については、ニューシア登録番号２０１０－原電－Ｔ００４にて詳細に報告しています。
+
+※１：ポンプの運転に異常（異音，異臭，漏えい）のないこと，系統に漏えいのないこと。 
+※２：系統流量計（１台），ポンプ出口圧力計（２台），ストレーナ差圧計（１台）。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-原電-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[残留熱除去系海水系（Ｂ）系　定期試験の不明確な判断基準について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/10/05 09:38:40]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

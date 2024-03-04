@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．作業状況の調査
+（１）事象発生時の現場状況
+　原子炉冷却材再循環系配管修理工事にて発生した廃材の細断作業は，配管を除染，切断しドラム缶に詰める作業で，現場監督１名，作業班長２名，作業員４名の計７名体制で実施することになっていた。
+　作業員２名は，防燃服脱衣ハウスで放射性物質吸入防止のため，エアラインマスクを装着し，流量調整弁を開き空気が供給されていることを確認後，マスクにエアホースを接続した。その後，作業員Ａは廃材処理作業エリアで，作業員Ｂは当該マスクを装着した防燃服脱衣ハウスにおいて，意識を失って倒れたことを現場監督が確認した。
+　なお，装着にあたっては手順に従いエアラインマスクの異常の有無を確認していた。
+（２）当該作業に従事していた作業員２名（Ａ，Ｂ）以外の作業員からの聞き取り調査結果
+　・作業開始前の体調確認では問題は特になかった。
+　・使用前点検において，エアラインマスク装備が所内用圧縮空気系（以下，「ＳＡ※系」という。）の供給元弁(F396)に確実に接続されており，流量調整弁を開いて空気が供給されていることを確認した。
+　・エアラインマスクの装着は手順どおり行われていた。
+　・作業員は事象発生の前日にもエアラインマスクを装着し，同様の装備，同様の手順で作業を実施していた。
+　　※：Station Air：建屋内作業用に使用される圧縮空気を供給する設備
+２．原因調査
+　作業エリア内で作業員２名がエアラインマスクを装着後，意識を失い倒れたことについて要因分析表に基づき詳細調査を行った。
+（１）人によるもの
+　作業前の朝のミーティングにおいて，現場監督が作業員２名の当日の体調は良好であることを確認していた。
+（２）エアラインマスク装備によるもの
+　供給元弁(F396)からマスクまでのエアラインマスク装備について点検した結果，穴，閉塞有害物質の付着や供給装置の接続異常等はなく，窒息，有害物質の摂取，過呼吸の原因となる異常はなかった。
+（３）供給系統の異常によるもの
+　・作業員２名が着用していたエアラインマスクから吹出す空気の酸素濃度を測定した結果，３％と４％と低かった。
+　・ＳＡ系へのガス流入源となりうる系統を配管計装線図にて抽出し，その系統の圧力および内包気体の種類を確認し，ガスの流入により酸素濃度を低下させる可能性を調査したところ，可能性があるのは残留熱除去機器冷却系（以下，「ＲＨＲＣ系」という。）調圧タンク加圧用Ａ／Ｂ系の高圧窒素ガス供給系（以下，「ＨＰＩＮ系」という。）のみであり，それ以外は酸素濃度を低下させる可能性のないことが判明した。
+　　なお，ＲＨＲＣ調圧タンクは，残留熱除去系（以下，「ＲＨＲ系」という。）を冷却する中間ループ（ＲＨＲＣ）を加圧するためのものであり，その調圧タンクを加圧するため福島第二４号機はＳＡ系又はＨＰＩＮ系のいずれか一方を切り替えて使用している。
+　　　よって，ＲＨＲＣ調圧タンクを介してＳＡ系とＨＰＩＮ系が接続されている構造となっている。
+（４）仮設エリア内の環境によるもの
+　作業員２名の電子式線量計の値は０．００ｍＳｖであり，問題ないことを確認した。 
+　また，作業環境について確認した結果，高温・多湿となる環境ではなかった。
+　以上の要因分析から，二人が倒れた原因としてはＲＨＲＣ調圧タンク加圧用Ａ／Ｂ系からの窒素がＳＡ系に流入したことによる酸素欠乏で倒れた可能性のあることが判明した。
+３．詳細調査結果
+　前項の調査結果より，ＲＨＲＣ調圧タンク加圧用Ａ／Ｂ系より窒素がＳＡ系に漏れ込みＳＡ系内の酸素濃度が低下したと考えられたことから，原因特定を行うため詳細調査を行った。
+（１）ＲＨＲＣ調圧タンク加圧用Ａ／Ｂ系とＳＡ系の系統構成の状況
+　ＲＨＲＣ調圧タンクは，ＲＨＲ系の原子炉停止時冷却系運転時にはＨＰＩＮ系で，通常時にはＳＡ系で加圧しており，事象発生時，ＲＨＲ（Ａ）系は原子炉停止時冷却系で運転中であったことから，ＲＨＲＣ調圧タンク（Ａ）へのＨＰＩＮ系側の仕切弁（F073A）は「開」状態で，ＳＡ系側の仕切弁（F075A）は「閉」状態で構成されていた。又，ＲＨＲ（Ｂ）系は停止中であったため，ＲＨＲＣ調圧タンク（Ｂ）へのＨＰＩＮ系側の仕切弁（F073B）は「閉」状態で，ＳＡ系側の仕切弁（F075B）は「開」状態で構成されていた。
+　従って，ＨＰＩＮ系からＳＡ系への窒素の流入は，ＲＨＲＣ調圧タンク（Ａ）側ではＨＰＩＮ系からＳＡ系側への流入防止用の逆止弁（F076A）とＳＡ系側の仕切弁（F075A）で，又，ＲＨＲＣ調圧タンク（Ｂ）側ではＨＰＩＮ系側の仕切弁（F073B）とＨＰＩＮ系からＳＡ系側への流入防止用の逆止弁（F076B）で隔離されていたが，逆止弁（F076A）及び仕切弁（F075A）の両弁，若しくは逆止弁（F076B）及び仕切弁（F073B）の両弁からの漏えいがあった場合には，ＨＰＩＮ系からの窒素がＳＡ系に漏れ込むことが分かった。
+　なお、ＲＨＲＣ調圧タンク（Ａ）の加圧は３月２４日まではＳＡ系を使用しており、事象発生の前日（３月２５日）に原子炉建屋内のＳＡ系弁点検に伴う原子炉建屋のＳＡ系隔離のため、ＨＰＩＮ系に切り替えたが、原子炉建屋とタービン建屋の隔離弁（Ｆ２０３）（「３月２４日２３時３０頃から３月２５日１６時３０分頃まで、「全閉」状態で隔離されていた」）で遮断されていたことから、前日まで同様の作業を実施していたタービン建屋の作業員に影響を与えることはなかった。
+（２）漏えい系の特定
+　ＲＨＲＣ調圧タンク加圧用Ａ／Ｂ系のＨＰＩＮ系から窒素がＳＡ系に漏れ込むことが考えられたことから，漏れ込んでいる系を特定するためＳＡ系の運転状況について調査した結果，３月２６日１４時頃，ＳＡ系の系統圧力（ＳＡヘッダー圧力）が上昇傾向にあることが確認された。
+　このため，ＳＡ系側の仕切弁（F075A）前に設置されている開状態の手動弁（F074A）を「閉」にしたところ，ＳＡ系の系統圧力の上昇が止まったことからＲＨＲＣ調圧タンク加圧用Ａ系のＨＰＩＮ系より窒素がＳＡ系に流入していた可能性があることが分かった。
+　なお，ＳＡ系は，系統圧力に応じてローディング・アンローディングを繰り返すが，そのローディング・アンローディングの状況は警報や計算機打ち出し等の記録管理はなく，中央操作室での把握は難しい。また，ＳＡ系の系統圧力計（ＳＡヘッダー圧力）は中央操作室に設置されているが指示計であり連続監視することが出来ないこと，系統圧力を記録管理していないこと，ＳＡ系統の圧力上昇を監視する警報がないこと，更にＨＰＩＮ系とＳＡ系の境界部はＨＰＩＮ系からＳＡ系側への流入防止用の逆止弁（F076A）とＳＡ系側の仕切弁（F075A）で隔離されており，これらの両弁が同時にシートパスすることは想定できなかったことから，事象発生時にＨＰＩＮ系の窒素がＳＡ系に流入していることまでは把握できなかった。
+（３）ＳＡ系配管の切断による確認
+　ＲＨＲＣ調圧タンク加圧用Ａ系のＨＰＩＮ系からの窒素が逆止弁（F076A）と仕切弁（F075A）から漏えいしているかを確認するため，ＳＡ系側の仕切弁（F075A）前に設置されている手動弁（F074A）の入口配管を切断し，ＨＰＩＮ系側の切断面にビニール袋をあて手動弁（F074A）を微開にしたところ，配管内で気体が漏えいしていることが確認された。又，回収した気体の酸素濃度を測定した結果，通常の空気中の酸素濃度と比べ，かなり低いこと（2.4～５％程度）が確認された。
+　これらのことから，ＨＰＩＮ系からの窒素が逆止弁（F076A）及び仕切弁（F075A）から漏えいしＳＡ系に流入していると判断された。
+　以上の調査結果から，逆止弁（F076A）と仕切弁（F075A）の隔離機能が低下したことにより，窒素がＳＡ系に流入することで酸素濃度が低下し，ＳＡ系にエアラインマスクを接続した作業員Ａ，Ｂが酸素欠乏により，意識を失い倒れたものと推定される。
+４．逆止弁（F076A）と仕切弁（F075A）の点検調査結果
+　隔離機能が低下していると推定された逆止弁(F076A)及び仕切弁（F075A）について，点検および調査を実施した結果，以下のことが確認された。
+（１）逆止弁（F076A）
+ａ．分解点検前確認
+　逆止弁（F076A）外側から放射線透過試験を実施し，逆止弁（F076A）内部の状態を確認した結果，逆止弁（F076A）の弁体が弁座より上部に押し上げられた状態（開状態）であることが確認された。
+ｂ．分解点検
+　弁フタを取外したところ，弁体が弁フタに固着した状態（開状態）であることが確認された。弁フタから弁体を取外したところ弁フタの摺動部分に錆が付着していたことから，この錆により一時的に固着していたものと推定された。他の部位について，目視点検を実施した結果，異常は認められなかった。
+　また，浸透探傷検査の結果，特に異常は確認されなかった。
+（２）仕切弁（F075A）
+　ａ．分解点検前確認
+　仕切弁（F075A）外側から放射線透過試験を実施し，仕切弁（F075A）内部の状態を確認した結果，弁体の位置は閉状態であることが確認された。
+　ｂ．分解点検
+　（ａ）弁本体
+　弁座及び弁体のシート面の目視点検を実施した結果，弁座には噛み込んだ錆，弁体には噛み込んだ錆及び傷が確認された。弁内部には大きさ２～３ｍｍの錆の固まりがいくつか確認されたが，他の部位については，異常は認められなかった。
+　ＳＡ系配管は炭素鋼を使用しており，系統内に除湿器を設置していないことから，配管内面にはある程度の錆は発生するものであり，他に錆が外部から混入するルートがないことから，ＳＡ系配管内面の錆が弁座に噛み込んだものと推定される。
+　また，浸透探傷検査の結果，特に異常は確認されなかった。
+　（ｂ）駆動部
+　分解点検した結果，駆動部に異常は認められなかった。
+（３）点検履歴
+　逆止弁（F076A）と仕切弁（F075A）は供用期間中検査の対象とはなっておらず，社内マニュアルに基づき点検周期は１０年としていることから，前回の第１１回定検時（平成１４年２月）に弁本体の分解点検を実施しており，その記録を確認した結果，弁座，弁体及び弁棒等に異常がないことを確認した。
+（４）逆止弁（F076A）及び仕切弁（F075A）の動作実績調査
+　前回の第１１回定検時（平成１４年２月）の分解点検以降の弁動作実績について調査したところ，仕切弁（F075A）については以下のとおりであった。
+　・平成１４年２月当該２弁の分解点検後　　　　　　→　　　開
+　・平成１５年４月ＲＨＲＣ（Ａ）系弁点検時　　　　→　　　閉
+　・平成１５年５月ＲＨＲＣ（Ａ）系弁点検終了後　　→　　　開
+　・平成１６年３月ＳＡ系弁点検時　　　　　　　　　→　　　閉
+　上記の状況から，仕切弁（F075A）は，配管内の錆を閉操作を行った際に噛み込んだと考えられる。
+　また，逆止弁（F076A）は，仕切弁（F075A）の閉操作により閉状態となると考えられるが，上記の間に錆の噛み込みにより開状態で固着したと考えられる。
+　以上のことから，逆止弁（F076A）については，分解点検を行った前回の第１１回定検時（平成１４年２月）以降，ＲＨＲＣ調圧タンクの加圧のためＳＡ系を使用することにより逆止弁（F076A）が「開」状態になり，弁体と弁フタとの摺動部が錆により一時的に固着したものと推定される。
+　仕切弁（F075A）については，分解点検を行った前回の第１１回定検時（平成１４年２月）以降に弁シート部に錆が蓄積し，ＲＨＲＣ（Ａ）系弁点検時又は原子炉建屋側のＳＡ系の弁点検時に仕切弁（F075A）を閉操作した際，錆を噛み込んだものと推定される。
+（５）当社プラントにおけるＲＨＲＣ調圧タンク加圧ラインの設計調査
+　ａ．ＲＨＲの設計の変遷
+　（ａ）福島第一１～６号機については，海水系により直接ＲＨＲを冷却する方式であった。
+　（ｂ）福島第二１号機以降のプラント（福島第二１～４号機，柏崎刈羽１～７号機）については，ＲＨＲの水が直ちに海水側に漏れることが無いようＲＨＲと海水系の間に淡水の中間ループを設けた。
+　ｂ．中間ループ加圧方法の変遷
+　（ａ）福島第二１～４号機，柏崎刈羽１号機については，中間ループ（ＲＨＲＣ）に調圧タンクを設け，気体により加圧することにより，ＲＨＲ及び海水系よりＲＨＲＣの圧力を高くした。
+　（ｂ）柏崎刈羽２号機以降（柏崎刈羽２～７号機）については，中間ループにプロセス放射線モニタを設置することにより放射性物質の混入を早期に発見できるようにし，加圧系統を必要としない設計とした。
+　ｃ．気体による加圧の方法の変遷
+　　　加圧方法はプラントの建設時期，プラントメーカにより異なる。
+　（ａ）ＳＡ系と高圧の空気系による加圧設計としたプラント
+　　　　福島第二１，２号機
+　（ｂ）ＳＡ系と高圧の窒素系による加圧設計としたプラント
+　　　　福島第二４号機
+　（ｃ）高圧の窒素系のみによる加圧設計としたプラント
+　　　　福島第二３号機，柏崎刈羽１号機
+　ｄ．空気と窒素の系統が直接接続される設計採用の判断
+　　　空気と窒素の系統が直接接続される設計となるのは福島第二４号機のみであり，この設計の採用にあたっては，複数の弁を設置することでこれら系統の分離ができると判断し，さらに作業安全の観点からもＨＰＩＮ系側の弁が開放した場合，ＳＡ系の弁が自動で閉となるよう設計したものと推定されるが，現段階では確定に至らなかった。
+５．品質管理上の適合性について
+　今回の事象に関して，品質管理上の適合性について｢調達管理｣，「設計管理」，「施工管理」，｢不適合管理｣の面から分析した結果，「設計管理」の面に要改善事項が抽出された。
+（１）「調達管理」における適合性
+（当社の適合性）
+　当社からのエアラインマスクの器具提供において，適切な管理をされたものが調達されており問題はなかった。
+（２）「設計管理」における適合性
+（当社の適合性）
+　当社からのエアラインマスクの器具提供において，高圧窒素を有する系統とエアラインマスク呼吸用空気供給源としても用いているＳＡ系を直接接続（隔離弁は有り）していたことから，弁のシートパスによって窒素がエアラインマスクに供給されてしまった。ＳＡ系の設計時においては，他系統との取り合いであることから，弁を２重に設置し，さらにＨＰＩＮ系側の弁が開放した場合，ＳＡ系の弁が自動で閉となるよう制御していたが，今回事象のような2台の弁が同時にシートパスするような事象は想定していなかった。　
+（受注者の適合性）
+　聞き取り調査の結果，ＳＡ系の設計時においては，他系統との取り合いであることから，弁を２重に設置し，さらにＨＰＩＮ系側の仕切弁（F073A）が開放した場合，ＳＡ系の弁が自動で閉となるよう設計したが，今回事象のような2台の弁が同時にシートパスするような事象は想定していなかった。
+（３）「施工管理」における適合性
+（当社の適合性）
+　原子炉冷却材再循環系配管修理工事（廃材の細断作業）において，エアラインの使用等について適切に使用されており問題はなかった。
+　また，前回の第１１回定検時（平成１４年２月）に分解点検を実施した，逆止弁（F076A）及び仕切弁（F075A）において，点検記録を確認した結果問題はなかった。
+（受注者の適合性）
+　原子炉冷却材再循環系配管修理工事（廃材の細断作業）において，エアラインの使用等施工状況について問題はなかった。
+　また，前回の第１１回定検時（平成１４年２月）に分解点検を実施した，逆止弁（F076A）及び仕切弁（F075A）において，点検記録を確認した結果問題はなかった。
+（４）「不適合管理」
+（当社の適合性）
+　原子炉冷却材再循環系配管修理工事（廃材の細断作業）において，管理対象となる事象は発生していないことから，管理上問題はなかった。
+　また，前回の第１１回定検時（平成１４年２月）に分解点検を実施した，逆止弁（F076A）及び仕切弁（F075A）においても管理対象となる事象は発生していないことから管理上問題はなかった。
+（受注者の適合性）
+　原子炉冷却材再循環系配管修理工事（廃材の細断作業）において，管理対象となる事象は発生していないことから，管理上問題はなかった。
+　また，前回の第１１回定検時（平成１４年２月）に分解点検を実施した，逆止弁（F076A）及び仕切弁（F075A）においても管理対象となる事象は発生していないことから管理上問題はなかった。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[112]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2340</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/07/08 16:47:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2890</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/03/27 00:45:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200403281404]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ＲＨＲＣ調圧タンクへの加圧は窒素のみで行うこととし，高圧窒素を有する系統と直接接続するＳＡ系を分離するために，ＳＡ系の配管を切断，閉止栓を取り付けることとする。
+（２）呼吸用空気供給源としては，原則ＳＡ系を使用せず，専用のコンプレッサーを使用した空気供給装置を設置し供給することとする。
+　　　この場合，コンプレッサーの運転状況を監視する専任監視員の配置，マスク装着前の酸素濃度測定，電源の確保，コンプレッサー容量の確保，バックアップ装置の設置等の安全対策を十分実施することとする。
+　　　また，作業エリアによっては，狭隘な場所やエリア近傍全てが汚染区域である場所など空気供給装置を設置できない場合など，やむを得ずＳＡ系による供給方法を選択する場合にも，酸素濃度計および圧力計の設置，それらを監視する専任監視員の配置，マスク装着前の酸素濃度測定，バックアップ装置の設置等の安全対策を十分に実施することとし，作業前に工事主管箇所が確認することとする。さらに，安全対策については，調達管理マニュアルおよび保守管理マニュアルに反映し作業者へ周知することとする。
+（３）設備を設計（変更）する場合，人身安全の影響評価を行うことを設計管理マニュアルにおいて明記し，デザインレビュー（設計のレビュー）委員会等で審議することを当社標準とする。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　4号機は，定期検査中のところ平成16年3月26日（金）9時20分頃，タービン建屋2階において，作業員2名（A,B）が原子炉冷却材再循環系配管修理工事にて発生した廃材の細断作業を実施するため，ビニールシートで覆われた作業エリア内に入ったところ，意識を失って倒れたことが確認された。
+　このため，同作業を行っていた他の作業員は，当該作業員に心肺蘇生法による応急処置を実施し，救急車を要請した。その後，作業員2名の意識が回復したが救急車により病院へ搬送した。作業員2名は，入院し容態を観察することになった。
+　なお，本事象による作業員2名への放射性物質による汚染はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-T058]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）前回の第１１回定検時（平成１４年２月）の分解点検以降，ＲＨＲＣ（Ａ）系弁点検時にＳＡ系を隔離した際，又はＳＡ系弁点検時にＲＨＲＣ調圧タンク（Ａ）の加圧をＳＡ系からＨＰＩＮ系に切り替えた際，仕切弁（F075A）及び逆止弁（F076A）に配管内の錆が噛み込み，シート機能が低下した。これらにより弁のシート機能が低下したため，窒素がＳＡ系に流入し，ＳＡ系の酸素濃度が低下したことから，酸素欠乏状態となったものと推定される。
+（２）また，窒素の流入に対し弁の二重化で対応できるとした設計については，人身安全の観点から影響評価が不足していたと考える。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[タービン建屋における作業員の障害について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[配管内で窒素が漏えいしていたことを確認]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/07/08 16:47:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シート*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2340</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁体*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2340</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>3</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[機器名：その他または不明の弁（空気作動弁（窒素作動弁），逆止弁）]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2340</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の弁]]></KIKI_NAME>
+				<SORT_NO>17</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉非常用補機冷却水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[112]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[112]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[13]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2340</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[3]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

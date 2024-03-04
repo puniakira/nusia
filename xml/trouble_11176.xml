@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11176</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/02/09 13:44:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>20490</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/11/30 19:28:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201011301110]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/09 13:44:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年11月29日、定期検査で停止中の４号機において、原子炉冷却材浄化系＊１の弁の分解点検を行っていたところ、同日午後０時頃、協力企業作業員が当該弁の内部に異物らしきものがあることを発見し、ただちに回収した。
+　翌11月30日午前９時35分に当社へ報告があり、同日午前11時10分、当該異物らしきものが針金１本（長さ約10cm、直径約0.5mm）であることを当社社員が確認した。
+　当該異物を回収後、原子炉底部、当該弁上流側の配管を点検し、他に異物がないことを確認した。
+
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+　（１）異物
+・回収した異物の金属成分を分析したところ、ステンレス製の針金であること。
+・原子炉冷却材浄化系の弁および原子炉圧力容器につながる系統のポンプや弁等の機器の分解点検時に異物が混入したことを想定し、作業関係者に聞き取り調査を実施したところ、当該針金と同様な針金は使用していないこと。
+・原子炉上部、原子炉内の作業において使用した機器、点検器具からの脱落等を想定し、作業関係者に聞き取り調査を実施したところ、当該針金と同様な針金を燃料交換機等のボルト回り止めに使用していること。
+・プラント建設時、燃料交換機を据え付けた後、同機のボルトに針金で回り止めを施工した時に切れた針金の一部が同機に付着した可能性があること。
+・プラント建設時、原子炉が開放されている状態で燃料交換機を約１ヶ月間調整運転していたこと。
+・プラント運転開始後は、同様な針金でボルト回り止め施工を行っているが、作業は原子炉閉鎖状態で原子炉付近から離れた場所で行っていること。
+（２）報告遅延
+・異物発見時、協力企業作業員は報告する義務があることは認識していたが、速やかに報告するという認識がなかったこと。
+
+３．推定原因
+・今回の異物は、プラント建設時、燃料交換機のボルトに針金で回り止め施工をした時に切れた針金の一部が燃料交換機に付着した可能性がある。さらに、プラント建設時に、原子炉が開放されている状態で燃料交換機の調整運転を行った際に、針金の一部が原子炉内へ落下し、原子炉底部から原子炉冷却材浄化系の配管に流入したものと推定した。
+・協力企業作業員は、異物発見時、報告する義務があることは認識していたが、速やかに報告するという認識がなかったため、発見の報告が遅れたと推定した。
+
+４．対策
+　今後も引き続き、異物混入防止対策＊２（作業に伴い発生した不要な針金の混入防止等を含む）を徹底する。
+当社への異物らしきものの発見の報告が遅れたことについては、以下の対策を実施する。
+・協力企業に、異物発見時に速やかな報告について周知するとともに、異物発見時に速やかに報告をお願いするポスターを原子炉建屋内に掲示した。
+・協力企業は、異物混入防止対策に関する教育内容に、異物発見時の速やかな報告を追加する。
+・作業実施前の検討会の際に、当社工事監理員は、協力企業に対して異物発見時の速やかな報告を求めることとする。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以　上
+
+＊１　原子炉冷却材浄化系
+原子炉水中の不純物を除去し水質を維持する系統。原子炉停止中は、原子炉内の余剰水を排出して原子炉の水位を制御するためにも使用される。
+
+＊２　異物混入防止対策
+持込物品の制限や員数管理を行うとともに、専任監視員を配置するなどして、原子炉等への異物混入を防止する取り組み。
+なお、上記対策の強化により、平成11年９月以降、確認のための工事記録等が的確に保存されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所４号機における原子炉冷却材浄化系での異物の発見および回収について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/12/01 20:28:01]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

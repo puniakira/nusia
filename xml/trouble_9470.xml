@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9470</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/01/09 16:00:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4071</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/11/26 15:41:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711221722]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/01/09 16:00:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所６号機は定期検査中のところ、平成19年11月22日17時22分頃、原子炉建屋地下２階に水たまりがあるとの連絡を、協力企業作業員より受けた。ただちに当社運転員が現場を確認したところ、原子炉建屋地下２階にある機器ドレンサンプより水が溢れていたことから、サンプポンプを起動し、溢水は停止した。
+　
+　調査において、原子炉再循環ポンプ（Ａ）の点検にともないポンプ内の水を当該サンプに排水し、本設ポンプのスイッチを切った状態で、その水を仮設ポンプで隣接する床ドレンサンプに汲み上げていたことが分かった。
+　また当日は、原子炉再循環ポンプ（Ａ）の点検作業が終了したことから仮設ポンプを撤去したが、本設ポンプのスイッチが切ったままであったため流入水を汲み上げることができず、水が溢れたことが分かった。
+　
+　なお、漏れた水は堰内にとどまっており、漏えい量は約245リットル、放射能量は約2.1×10^7ベクレルで、拭き取りによる清掃を実施した。
+　これによる外部への放射能の影響はない。
+
+　その後の調査の結果、以下のことがわかった。
+・仮設サンプポンプの撤去作業を行う作業担当者は、本設サンプポンプの操作を行う運転員に撤去作業開始の連絡はしたが、撤去作業終了の連絡はしなかったこと。
+・当該運転員は、撤去作業終了後に本設サンプポンプのスイッチを入れることとしていたが、撤去作業終了の連絡がなかったため、操作スイッチが「切」のままとなり、本設サンプポンプによる水の汲み上げができなかったこと。
+・また、撤去作業については本来、作業前日までに作業担当者から運転員に連絡するべきであったが、実際には作業当日の連絡であったため、運転員間で十分に情報共有や作業調整ができなかったこと。このため、当該サンプの計器点検が当日実施されることとなり、安全処置のためサンプ内の水位上昇を知らせる警報の電源を切ったことから、水位上昇の際に警報が発生せずポンプを起動させることができなかったこと。
+
+　以上のことから当該サンプから水が溢れた原因は、作業担当者が撤去作業終了の連絡を失念し、本設サンプポンプが切ったままであったため、機器ドレンサンプへの流入水を汲み上げることができず溢水に至ったものであった。また、当該サンプの計器点検を作業当日に行い、サンプ内の水位上昇を知らせる警報の電源を切ったため発見が遅れ、溢水する前にポンプを起動させることができなかったものと推定している。
+
+　対策として以下を実施する。
+・仮設サンプポンプの撤去作業を行う作業担当者は、運転員の操作をともなう作業については、十分な作業調整を行うために前日までに運転員に連絡すること、また、実際の作業にあたっては、作業の開始や終了について必ず運転員に連絡し、作業担当者と運転員との情報共有に留意するよう周知徹底する。
+・また、サンプへ仮設ポンプを設置している場合には、予期せぬサンプ内の水位上昇を早期に検知し対処できるよう、サンプの水位計などの計器点検を行わないこととし、手順書に明記する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S096]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の原子炉建屋内における水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/27 16:45:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

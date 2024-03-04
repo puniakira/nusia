@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　２７５ｋＶ系送電線が隔離（遮断器「O－３」「O－４」が開放）された場合、４３Ｇを「使用」にするとＤ／Ｇが自動起動するインターロックとなっていることから、定検中など２７５ｋＶ系母線点検時にはＤ／Ｇの自動起動を防止するため作業票により４３Ｇを「ロック」としていた。今回の事象は、Ｄ／Ｇ２Ｃの定期試験を行うための準備として、定期試験手順書に沿って確認したところ４３Ｇは「使用」との記載があったため、手順書に従い「使用」としたため、Ｄ／Ｇが自動起動したものである。
+　　定期試験を行う場合には、運転員は手順書を遵守することとなっていたことから手順書通りの行動を取った。しかし、手順書は通常運転状態を想定して作成されているものであったことから、定検等の系統状態が変更となるものに対応できるものではなかった。よって、手順書の記載が不十分であったことが第一の問題ではあるが、過去問題なく定期試験を実施できていたことなどから、人・物・環境の問題の有無の観点から検討した。
+１．問題点
+　問題点の整理、原因の究明に当たっては、聞取り調査を実施した上で、当日の時系列を整理し、それらの各々のタイミングで問題の有無を整理し、根本的な原因を究明した。
+（１）人の問題
+　定期試験を計画していた発電長等については、定期試験を実施する上での問題点が運転員から上申されているが、十分な確認がなされず、スイッチを復旧してしまった。これら運転部門側の問題点は次の通りである。
+１）疑念を持った際の再確認不足
+２）運転員と発電長等のコミュニケーション不足
+保修部門は、副発電長から当該スイッチの復旧を依頼され、一考はしたものの、十分な確認がなされず、作業・試験に影響がないことから、当該スイッチの復旧手続きを実施してしまった。これら保修部門側の問題点は次の通りである。
+３）隔離状態変更に関する重要性の認識不足
+
+（２）物の問題
+　人的過誤を発生させた物的要因として評価した結果、問題点は次の通りである。
+１）定期試験手順書の記載不十分
+２）当該スイッチの表示不足
+
+（３）環境の問題
+　運転部門、保修部門が（１）（２）の要因によって人的過誤を発生させたが、その背後要因として挙げられた問題点は次の通りである。
+１）時間的圧迫感により判断不十分
+２）停電時の他系統波及防止という運転管理の隔離を作業隔離で代用
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9742</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/05/08 11:46:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/05/08 11:12:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200804210918]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[以上の問題点を踏まえ、次の対策を講じることとする。
+（１）定期試験手順書の見直し
+　非常用Ｄ／Ｇ定期試験手順書について、２７５ｋＶ停止時の手順を確立した手順書改正を行った。
+　また、その他の定期試験については、試験前準備の確認事項に今回のようにプラントの運転状態によって問題の生じるものがないことを確認した。
+（２）発電部門、保修部門における今回の原因と対策の周知徹底
+　１)．発電部門においては、発電室長指示文書を発出し、次の事項の周知徹底を図った。
+　・定期試験準備項目の余裕を持った確実な事前確認及び隔離・復旧時の確実な事前検討の実施（運用について取扱書に反映する）
+　・操作に疑問を感じた時の操作の中断・報連相の実施
+　・グループディスカッションの実施
+　２)．保修部門においては、当社保修部門関係者全員に次の事項の周知徹底を図った。
+　・急な依頼による隔離の一時解除など､安全措置の状態が変わる場合には「関係箇所に相談する」､「自分の目で現場を確認する」などにより納得した上で実施すること
+（３）注意表示の掲示
+　当該スイッチは表示が４３Ｇのみであり、盤面上は重要スイッチと認識しにくかったことから、当該スイッチを操作することにより発生する事象を記載した注意表示を取り付けた。
+（４）停電時の系統波及防止隔離札の運転管理札への変更
+　当該スイッチによる隔離は、２７５ｋＶの停電作業の安全を確保するための隔離ではない。当該隔離は、系統運用上必要な隔離であり、保修部門の作業票によって隔離するというより、電源切り替えに伴って必要な隔離であることから、発電部門による管理札に変更することで検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２３回定期検査期間中の平成２０年４月２１日９時１８分、非常用ディーゼル発電機２Ｃ及び２Ｄ（以下、「Ｄ／Ｇ２Ｃ、Ｄ／Ｇ２Ｄ」という。）が自動起動したことを確認した。
+　このため、所内電源系統状況を確認した結果、電源系の異常を示す警報が無かったため、Ｄ／Ｇ２Ｃ及びＤ／Ｇ２Ｄの自動起動は誤動作であると判断し、９時１８分Ｄ／Ｇ２Ｃ、Ｄ／Ｇ２Ｄを手動停止した。
+　Ｄ／Ｇ２Ｃ及びＤ／Ｇ２Ｄが自動起動した原因を調査したところ、以下のことが確認された。
+・本日Ｄ／Ｇ２Ｃの定期試験が予定されており、定期試験手順書にて「Ｄ／Ｇ自動起動切替スイッチ「４３Ｇ」※１が使用の位置であること。」が定められていた。
+・当該４３Ｇは２７５ｋＶ系の点検に伴う作業票※２にてＤ／Ｇの自動起動を防止することから「ロック」位置に隔離されていた。
+・発電室より作業担当室へ隔離の一時復帰手続き依頼を行い、発電長は４３Ｇの隔離を復帰するため「ロック」より「使用」位置とした。
+・２７５ｋＶ系は、点検のため（２７５ｋＶ点検期間：３／２４～４／２４）遮断器「O－３」及び「O－４」が開放中であったことから、４３Ｇを「使用」位置にした時点で、Ｄ／Ｇ２Ｃ、Ｄ／Ｇ２Ｄの自動起動インターロックが確立し、自動起動した。（ＨＰＣＳＤ／Ｇについては、定検作業により隔離状態であった為、自動起動しなかった）
+　なお、本事象に伴うけが人等の発生は無かった。
+
+※１：４３Ｇ：２７５ｋＶ遮断器「O－３」「O－４」が開放によるＤ／Ｇ２Ｃ、２Ｄ、ＨＰＣＳＤ／Ｇの自動回路の除外スイッチ。
+※２：２７５ｋＶ系送電線を停止状態とし、母線の点検（しゃ断器等）を実施していた。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の概要における１．問題点のとおり。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査期間中における非常用ディーゼル発電機２Ｃ及び２Ｄの自動起動について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/08 11:41:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[114]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[非常用ディーゼル発電機]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>9742</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9742</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9742</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9742</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9742</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

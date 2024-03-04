@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　高圧安全注入系弁の耐圧部の溶接継手は、ＩＳＩ計画策定時以降、JEAC4205-1996までは管理対象外であったが、JEAC4205-2000において、呼び径５０Ａ以上、１００Ａ以下の高圧安全注入系内の機器がＩＳＩ対象に追加されたことにより、新たに管理対象となった。
+　しかしながら、改訂された規程をＩＳＩ計画に反映する際に、一部の弁が反映されていなかった。このため、規程等が改訂された場合におけるＩＳＩ対象箇所の変更・修正手順について、当社及びプラントメーカに確認した。
+（１）ＩＳＩ対象箇所の変更・修正手順の調査
+　　調査の結果、ＩＳＩ対象箇所の変更・修正手順は以下の通りであった。
+　　　①規格改訂内容の把握
+　　　②ＩＳＩ実施範囲系統図の修正、作成
+　　　　系統図に規程等の要求の範囲を反映し、ＩＳＩ実施範囲系統図を修正、作成する。
+　　　③ＩＳＩ対象箇所の抽出
+　　　　ＩＳＩ実施範囲系統図、配管図よりアイソメ図を修正、作成すると共に、弁の場合は、
+　　　　構造図等により溶接継手の有無を確認し、ＩＳＩ対象箇所の抽出を行う。（溶接継手
+　　　　有りの場合はアイソメ図中に検査対象であることを記載するとともに構造図等をアイ
+　　　　ソメ図に添付する）
+　　　④ＩＳＩ対象箇所一覧表の修正、作成
+　　　　ＩＳＩ対象箇所について溶接継手番号（溶接継手が存在することを確認した弁につい
+　　　　ては、弁番号を記載）、試験方法及び試験範囲等の一覧表を修正、作成する。
+　　　⑤検査箇所図の修正、作成
+　　　　アイソメ図、構造図等をもとに、ＩＳＩ対象箇所を明示する個別検査用の検査箇所図を
+　　　　修正、作成する。
+　　　⑥最終確認
+　　　　④で作成した一覧表と、ＩＳＩ実施範囲系統図、検査箇所図との照合により、最終確
+　　　　認を行う。
+
+（２）ＩＳＩ対象箇所の変更・修正手順における問題点の抽出
+　ＩＳＩ対象となる配管、容器の溶接継手については、溶接継手番号が付番されており、個々の管理・識別が容易にできる状況であった。
+　一方、弁本体及びポンプ本体の溶接継手については、以下の問題点が抽出された。
+　　a．ＩＳＩ対象箇所の変更・修正の手順③の弁の構造図等により溶接継手の有無を確認
+　　　 し、ＩＳＩ対象箇所を抽出する作業において、溶接継手がある場合はアイソメ図に
+　　　 検査対象であることを記載し構造図等を添付する運用としていたが、溶接継手がな
+　　　 い場合はアイソメ図にその旨の明示がなく構造図等を添付しない運用としていた。
+　　b．弁本体及びポンプ本体の溶接継手については、溶接検査対象外であったことから溶
+　　　 接継手番号が付番されておらず、個々の管理・識別が容易に出来ない状況であり、
+　　　 溶接継手が存在しない場合は構造図を添付しない運用としていたため、ＩＳＩ対象
+　　　 箇所の変更・修正の手順③の作業において溶接継手の存在を見逃した場合、手順
+　　　 ⑤において、弁構造図から弁の検査箇所図が作成されないため、手順⑥の最終確
+　　　 認において溶接継手の有無を再確認できる仕組みとなっていなかった。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[204]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11144</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[06]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[机上検討・記録評価]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/04/02 17:15:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/11/16 14:41:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20101102]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．対策
+（１）本調査で判明したＩＳＩの管理対象とすべき溶接継手については、ＩＳＩ計画に反映し、検
+　　　査を追加実施する。（一部実施済み）
+（２）ＩＳＩ計画の見直し時における具体的な見直し手順を社内要領に定める。
+（３）プラントメーカに対して、以下の調達上の要求を行う。
+　　a．ＩＳＩに係る規格等改訂によりＩＳＩ計画の変更・修正を行う場合における「手順③ＩＳＩ対
+　　　 象箇所の抽出」において、対象の弁及びポンプをリスト化し、溶接継手の有無を確認
+　　　 すること。
+　　b．さらに、溶接継手の有無に関らず構造図等を添付し、「手順⑥最終確認」において構
+　　　 造図等を再確認すること。
+　　c．ＩＳＩ計画を変更するにあたって、構造図等を当社へ提出すること。
+
+２．「供用期間中検査の適切な実施について（指示）」（２２原企課第１２２号平成２２年１１
+　　月１５日）の指示に対する検討結果
+上記の指示文書を受け検討した結果を以下に示す。また、その改善内容について、社内要領に反映し再発防止を図る。
+
+（１）電気事業者と調達先である製造事業者との間で溶接箇所に係る設計情報を十分共有し、供用期間中検査の計画に確実に反映できる体制を構築すること。（指示）
+
+　配管・容器・弁本体・ポンプ本体の溶接継手については溶接線が記載された構造図等を確実に情報共有することとする。但し、ポンプ本体の溶接継手が記載された構造図等については、メーカノウハウにより情報共有が困難である場合があるため、このような場合は、ＩＳＩ計画の変更にあたって、プラントメーカが保有している溶接線が記載された構造図等の確認を当社及びプラントメーカの双方で行うことで、情報の共有化を図ることとする。
+また、今後の設備改造に伴い、ＩＳＩ対象箇所が変更となる場合は、変更箇所を確認した構造図等を当社へ提出することを調達上の要求事項として追加し、設計情報がＩＳＩ計画に確実に反映できる体制とする。
+
+（２）供用期間中検査を規定する社団法人日本機械学会の維持規格の改訂が行われた場合には、その改訂内容を電気事業者内の関係部署において共有し、改訂内容が供用期間中検査の計画に確実に反映させる体制を構築すること。（指示）
+
+　維持規格の改訂内容を関係部署において共有できる仕組みはあるものの、ＩＳＩ計画見直しに関する具体的な見直し手順が明確でなく、プラントメーカに対しては、溶接継手の有無を確認する方法や提出する構造図等について具体的な指示が十分なされていなかった。従って、維持規格改訂時において、改訂内容をＩＳＩ計画に確実に反映させるために、維持規格改訂からＩＳＩ計画への反映までの具体的な作業フローを定め改善を図る。
+
+（３）供用期間中検査の計画にある検査対象箇所と現場の設備における溶接箇所との不整合が生じないよう確認体制を構築すること。（指示）
+
+　検査対象箇所と現場の設備における溶接箇所については、定期事業者検査要領書における検査手順にて検査対象箇所を示した検査箇所図を用いて現場確認をしているため問題ない。
+　なお、今後の設備改造に伴い、ＩＳＩ対象箇所が変更となる場合は、構造図等と現場設備の溶接箇所が整合していることを確認することとする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/04/02 17:15:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．経緯
+（１）平成２２年７月２１日　他社のポンプ本体及び弁本体の溶接継手について、供用期間
+　　　中検査※１（以下、「ＩＳＩ」という。）計画に反映されていないことが確認された
+　　　事象を踏まえ、同様の事象の有無について、調査を実施した。
+（２）調査の結果、玄海原子力発電所２号機においても、一部の弁の溶接継手が、ＩＳＩ計画
+　　　に反映されていないことが判明したことから平成２２年１１月２日付けで原子力安全・
+　　　保安院へ報告した。
+（３）平成２２年１１月１５日付けで原子力安全・保安院より、以下の事項を含めて再発防止
+　　　対策を検討し平成２２年１２月１５日までに報告する旨の指示を受けた。
+　　　・電気事業者と調達先である製造事業者との間で溶接箇所に係る設計情報を十分共
+　　　　有し、供用期間中検査の計画に確実に反映できる体制を構築すること
+　　　・供用期間中検査を規定する社団法人日本機械学会の維持規格の改訂が行われた
+　　　　場合には、その改訂内容を電気事業者内の関係部署において共有し、改訂内容
+　　　　が供用期間中検査の計画に確実に反映させる体制を構築すること
+　　　・供用期間中検査の計画にある検査対象箇所と現場の設備における溶接箇所との不
+　　　　整合が生じないよう確認体制を構築すること
+
+２．事象の概要
+　調査の結果、全てのポンプ本体の溶接継手はＩＳＩ計画の対象となっていたが、弁については玄海２号機にて２台の弁をＩＳＩ計画へ追加し、そのうち、１台について追加で検査を実施する必要があることが判明した。これらの弁については、ＩＳＩ計画策定時以降、「電気技術規程　軽水型原子力発電用機器の供用期間中検査（JEAC4205-1996）」（以下、「JEAC4205-1996」という。）までは管理対象外であったが、「電気技術規程　軽水型原子力発電用機器の供用期間中検査（JEAC4205-2000）」（以下、「JEAC4205-2000」という。）において新たに管理対象となった高圧安全注入系の弁である。
+　なお、これらの弁の「発電用原子力設備規格　維持規格（2002年改訂版）（JSME S NA1-2002）」への適合性については、次回定期検査以降、計画的に検査を実施することで満足することができる。
+　また、これらの弁については、製造時に材料検査、寸法検査、外観検査及び耐圧検査を実施し、また、使用前検査に合格しており、異常がないことを確認している。更に、ＩＳＩ計画に基づき当該系統の漏えい試験を実施し、異常のないことを確認しており、健全であることを確認している。
+　
+　※１：供用期間中検査とは、原子力発電所の運転（供用）開始後に、機器や配管等の
+　　　　健全性を確認するため、機器毎に検査方法、検査範囲、検査期間を計画的に定
+　　　　めて実施する非破壊検査及び漏えい検査等
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-九州-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　JEAC4205-2000に新たに追加された高圧安全注入系の機器のＩＳＩ計画への反映に当たり、弁本体の溶接継手は溶接検査対象外であったことから溶接継手番号が付番されておらず、管理・識別が容易ではなかったため、ＩＳＩ対象箇所の抽出時において、弁本体の溶接継手の有無の確認が不十分となった。このような状況で、溶接継手が存在しない場合はその旨がアイソメ図中に明示されていなかったことから、確認したのかどうかが明確でなく、さらに構造図等を添付する運用となっていなかったことから、以降の手順においても溶接継手の有無を確認できず、最終的に、高圧注入系弁の耐圧部の溶接継手の一部がＩＳＩ計画に反映されなかった。
+　また、ＩＳＩ計画の見直しに関する具体的な見直し手順が明確でなく、プラントメーカに対しては、提出する構造図等について具体的な指示が十分なされていなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[供用期間中検査計画不備についての原因と対策について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[原子力安全・保安院へ調査結果を報告した日]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>575</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/11/16 14:49:38]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+			<TROUBLE_ID>11144</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[溶接継手]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11144</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[501]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧注入系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[204]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[204]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11144</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11144</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11144</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11144</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11262</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/03/18 14:30:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>21977</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/03/09 21:05:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20101217]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　調整運転中の島根原子力発電所２号機（定格電気出力８２万キロワット）において，平成２２年１２月１７日，原子炉補機海水系※１の定期切替（Ⅰ系統からⅡ系統）を行うため，Ⅰ系統の原子炉補機海水ポンプ（Ａ，Ｃ２台）を停止したところ，Ａ－原子炉補機海水ポンプが逆回転したことから，当該ポンプ出口に設置している逆止弁※２（以下，「Ａ－ポンプ出口逆止弁」という）が完全に閉じていないことがわかった。
+　その後，Ａ－ポンプ出口逆止弁の状態や機能を確認していたが，１２月２０日に当該ポンプに同様な事象が再現したため，１２月２３日より，Ａ－ポンプ出口逆止弁を分解点検することとした。
+　１２月２３日，Ａ－ポンプ出口逆止弁の弁蓋を開放し内部を確認したところ，弁箱内の弁棒の廻りに泥状の付着物があり，弁が動きにくい状態にあったことから，弁箱内の清掃・手入れを行った。
+　１２月２４日，当該逆止弁を組み立てたのち，ポンプを起動して逆止弁の動作状態に異常のないことを確認し，２０時２０分，通常の状態に復帰した。
+　また，本点検にともなう，定期検査工程の変更はない。
+
+※１ 原子炉補機海水系
+　原子炉建物内の原子炉補助系機器（ポンプ等）を冷却するための系統を原子炉補機冷却系といい，この冷却水を海水により冷却しているのが原子炉補機海水系である。なお，Ⅰ系統およびⅡ系統の２つの系統から構成されており，通常，定期的に系統を切り替えながら，一方の系統のみ運転している。
+※２ 逆止弁
+　ポンプ停止時等に，系統内の海水が逆流しないよう設置している弁]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中国-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉補機海水系ポンプ（A）出口逆止弁の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/03/18 14:30:07]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

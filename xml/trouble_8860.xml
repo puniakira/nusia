@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8860</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/05/31 21:07:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3788</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/30 15:41:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20000901]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+平成１２年度第１回保安検査（平成１２年８月２８日から９月１４日）において、原子炉施設保安規定第２７条に定める「主蒸気隔離弁閉動作設定値確認」の記録確認が実施され、同弁の１０％閉動作点の基準（１０％以下）を満足していない記録があった（４号機第５回定期検査分（平成１２年２月）の記録で１０．１％というのがあった）。調査の結果、１０％閉動作点を算出するデータの転記ミスであることが判明した。正しいデータで再計算したところ、基準を満足しており、保安検査官による確認を受けた。その後、本件は保安検査における「指摘事項」として処理され、再発防止対策を実施し、完了している。
+当時、本事象を踏まえた社内対応として、保安規定第２７条で定める「主蒸気止め弁１０％閉動作点確認」について、「過去のデータを社内調査したところ、基準値である『１０％以下』を超えるデータが数件見つかり、記録を改ざんした」との証言があった。
+保安規定に係る記録は保管年限が５年であるため、既になく、発電設備の点検にあたり、その元データ（「弁ストローク」と「全開からの１０％閉動作点」の記録）から算出した結果、第１３回～第１６回定期検査（平成７年～１０年）で実施された２号機の６件（１０．１２％～１０．１５％）のデータが基準値を超えることが確認されたことから、平成１２年当時に過去の設定値確認の記録を改ざんしたと推定した。
+
+２．原因分析
+（１）企業倫理遵守・企業風土上の問題
+　検査官に指摘されたくないとの理由で過去のデータを改ざんした。（倫理観不足）
+（２）安全文化の醸成・定着上の問題
+　改ざんに対し異議を唱えなかった。
+
+３．再発防止対策
+○コンプライアンス意識の醸成
+　平成１４年度「コンプライアンス推進会議」を設置し全社的にコンプライアンス推進に取り組んでいる。今後とも、この取組の中で、今回の事例をもとに啓発活動を進め、引き続きコンプライアンスの徹底を推進する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-中部-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[２号機　主蒸気止め弁１０％閉動作点確認記録の改ざんについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/31 21:07:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

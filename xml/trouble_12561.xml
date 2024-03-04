@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12561</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/09/29 10:09:20]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>70870</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/01/23 18:07:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201612201430]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/09/29 10:09:20]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2016年12月20日14時30分頃，協力会社社員が原子炉建屋2階の床にある4か所の排水枡から合計で約30リットルの水があふれて床に広がっていることを確認した。連絡を受けた当社社員がただちに現場を確認し，原因調査，漏えい拡大防止措置および水の放射能分析を実施した。
+
+　現場の状況から床に広がった水は，空調設備を解体するために空調設備の冷却水を抜いていたところ排水管が詰まり排水枡から逆流したものと推定した。水抜きを中止したところ漏えいは止まったため，床に広がった水のふき取りを実施した。漏えいした水は脱塩水（※1）であり，放射能分析の結果からも放射性物質を含まない水であることを確認している。
+
+　原因調査の結果，当該排水管の詰まりは錆の堆積によるものであることを確認した。また，1,2号機の床ドレン排水管のうち3か所において当該排水管同様(最地下階埋設エルボ付近)に錆の堆積が認められた。錆が堆積していた排水管は，使用した後，プラント停止後長期間において排水がない状態であり，錆は最地下階のエルボ部に堆積していた。
+　このことから，長期間排水がなかったことで配管内面に発生していた錆が，空調設備の解体のため冷却水を連続排水したことにより，押し流されて最地下階のエルボ部に堆積し，配管内に詰まりが発生したことで，冷却水が流れきらず，排水枡より漏えいしたものと推定する。
+
+　再発防止対策として，解体・撤去により，ファンネルに残水をブローする際は「系統・機器の残水等を排水枡に排水する場合，事前に排水先の図面を確認し，排水時は関連する排水枡を常時監視する。」旨を社内規定に反映する。
+　
+
+※1：脱塩水は，新野川の伏流水を脱塩処理したものであり，放射性物質を含まない。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-中部-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋2階　排水枡からの水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/01/23 18:07:55]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

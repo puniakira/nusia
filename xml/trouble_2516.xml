@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1.状況調査結果
+　事象の経緯について、関係者への聞き取り調査、関係ルール（マニュアル等）との適合性の確認により、以下の状況を確認した。
+
+（１）３体のFMCRDの隔離が解除されていた背景
+　当直主任(B)は、8月24日に予定されていた原子炉停止余裕検査（注３）（以下、SDM検査という）のため、8月23日23時55分に、06－27，22－19，10－31の3体のFMCRD隔離を解除（駆動電源ON、水圧制御ユニットのアキュムレータ充填）した。
+　その後、SDM検査は24日の05時36分に現場確認を終了したが、24日の夜から制御棒フリクション検査（注４）を予定しており、この検査のために全てのFMCRDを隔離解除する予定であったことから、当直主任(B)は当該3体のFMCRDについて隔離解除を復旧する必要はないと判断し、当該3体のFMCRDについては隔離を解除したままとするよう白板に記載し保安直に依頼した。
+
+（注３）原子炉停止余裕検査とは、最大価値制御棒（205本ある制御棒の内、制御棒を 引き抜いた際に原子炉を最も臨界に近い状態にする一対の制御棒）が挿入でき  ないような異常状態を想定し、これ以外の制御棒の挿入により原子炉を停止することができることを確認する検査。
+
+（注４）制御棒と炉内構造物（燃料集合体等）との異常な摩擦の有無を確認する検査。
+
+（２）３体のFMCRD隔離解除状態下での原子炉スクラム機能バイパスの背景
+【検 査 側】
+・マニュアルにおいて、LCO関連インターロックを除外する場合は作業票（以下、PTWという）にその旨を記載する運用となっていたが、検査担当者は今回のMSIV機能検査のPTWに、LCO関連インターロック除外である旨を記載していなかった。
+・検査担当者は、LCO関連インターロック除外時にPTWに記載する運用は知っていたが、マニュアルの内容理解が不十分であり、その運用が何にどのように規定されているかを確認しなかった。
+　また、LCO関連インターロック除外時のPTWへの記載要否について、上司等へも相談していなかった。
+　なお、当直員に検査要領書の事前説明を行った際、PTWへの記載要否を問い合わせたが、的確な判断は示されなかった。
+・検査担当者は、FMCRDの隔離が解除されていることについて把握していなかった。
+　また、従来MSIV機能検査はSDM検査の前に実施されていたことから、検査要領書には、検査前条件として「全制御棒が全挿入状態、かつ除外（隔離）されていること」を確認するよう記載していなかった。
+・今回の検査は運転評価グループ主管であったため検査担当者（計測制御Ｇ員）－検査指揮者（計測制御Ｇ員）－検査実施責任者（運転評価GM）という変則的なルートで上覧が行われ、計測制御GMの審査機能が働かなかった。
+
+【当 直 側】
+・検査担当者から検査要領書の事前説明を受けた際、LCO関連インターロック除外時のPTWへの記載要否の問い合わせを受けたが、当直担当者は的確な判断を示せなかった。
+・当直担当者は、PTWのLCO関連インターロックの記載要領について疑問を持ったが、本人及び上司の当直主任(A)ともに、複数の定期事業者検査を掛け持ちしていたため忙しく、疑問点を当直主任(A)に直接相談できなかった。
+（PTWの安全処置一覧に、「LCO？」と記載した付せんをつけて上覧した）
+・PTWを審査した当直主任(A)は、Ｋ－６とＫ－７のインターロック回路が同じだと  思い、Ｋ－７第５回定期検査時のLCO除外許可書を確認し、MSIV機能検査のLCO除外許可書がなかったことから、Ｋ－６についてもLCOインターロック除外対象ではないと判断した。
+・PTWを審査した当直副長は、PTWにLCOインターロックの除外である旨の記載がなかったため、原子炉スクラム機能をバイパスした場合にLCO逸脱となるという認識はなかった。
+・当直長(A)は、PTWに記載されていたスクラムソレノイド作動防止の処置が、単一の要素（主蒸気管放射能"高高"信号）のみによるスクラム防止措置だと考え、スクラム回路全体をバイパスする措置とは思わずPTWの承認を行った。
+・本検査を担当した当直担当者は、FMCRD3体の隔離が解除されていることを把握していなかった。
+・３体のFMCRD隔離解除を知っていた当直主任(C)は、MSIV機能検査のため当日原子炉スクラム機能のバイパスを実施することを把握していなかった。
+・当直長(B)は、PTWにLCOインターロック除外対象となる処置が含まれている旨の記載がなかったため、LCO逸脱になると気づかず安全処置通知書の内容を承認した。
+
+（３）LCO逸脱に対する判断が途中で変更となった背景
+・当初当直長(C)は、検査のために必要なバイパス処置であることから保安規定第72条第5項のLCO適用除外条件によりLCO逸脱には該当しないと判断したものの、確認のためLCO逸脱の可能性について検査実施責任者等に意見を求めた。
+・13時頃から関係GMが集まり検討した結果、13時40分頃、今回の事象は保安規定第27条ではLCO逸脱と判断されるものの、第72条第5項のLCO適用除外条件を満たしているとの意見を当直長(C)へ回答した。
+・当直長(C)及び検査実施責任者等は以下の通りプラントの安全性に問題が生じていないことを確認していた。
+1）FMCRDが隔離解除された状態で原子炉スクラム機能をバイパスした場合、保安規定第27条では燃料が装荷されているセルのCRを速やかに挿入することを要求しているが、この時、全てのCRは当初から全挿入状態にあり、また引き抜き操作が行われる可能性もなかった。
+2）仮にCRの引抜操作が行われると仮定しても、定期検査中はCRは１本しか引き抜けないインターロックとなっており、またCRが１本完全に引き抜かれた場合でも、原子炉は臨界とならないことをSDM検査で確認済みであった。
+・検査実施責任者等は、LCO逸脱に該当しないと判断したことを速やかに原子炉主任技術者に報告しようとしたが、不在であったため、帰席を待って19時30分頃に行った。
+　その結果、原子炉主任技術者から、保安規定第72条を本件へ適用することの可否について再検討すべきであるとの判断が示されたため、直ちに関係者を招集して再検討を開始した。
+・再検討において、保安規定第72条第5項を適用しない限りMSIV機能検査が実施できないというわけではなく、安全管理の観点からは、FMCRDを隔離した状態で検査を進めるべきであったという点において、最終的に第27条を適用すべきとの判断に至った。             （添付資料－５、６）
+                                                                                                                                                                                                                         
+
+２．問題点の抽出
+（１）状況調査の結果をまとめると以下のとおりとなる。
+・LCO関連インターロックを除外する場合には、PTWにその旨を記載することがマニュアルに定められているが、検査担当者は今回のMSIV機能検査のPTWに、LCO関連インターロック除外である旨を記載していなかった。
+・PTWに「LCO関連インターロック除外」の記載がなかったため、当直員によるPTWの審査過程で、原子炉スクラム機能をバイパスした場合にLCO逸脱となるという認識が持たれず、適切なＰＴＷの審査・承認が行われなかった。
+・事象発生からLCO逸脱であると判断するまでに時間を要しているが、以下の通り、必要な対応は行われていたと考える。
+1）当直長(C)はLCO逸脱に該当しないとの判断を直ちに行うとともに、関係GMに連絡をとり意見を求めていること。
+2）関係GM（安全管理・計測制御・運転評価）は速やかに協議・検討を行いLCOに逸脱しないとの判断を下していること。
+3）原子炉主任技術者へは速やかに報告しており、原子炉主任技術者から再検討が必要との判断が示された後は直ちに再検討を開始していること。
+
+（２）以上から、問題点は以下の点に絞り込まれる。
+・マニュアルでは、PTW申請の際、保安規定のLCOに関わるインターロックを除外する場合は、PTWにその旨を記載するよう定めている。
+・今回のMSIV機能検査においては、原子炉スクラム機能のバイパス処置を行う必要があったが、PTWにはLCOインターロックの除外であることを記載していなかった。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2516</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/09/16 16:43:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第27条3項
+平成16年8月24日08時30分頃より主蒸気隔離弁（MSIV）の機能に関わる検査の準備を開始し、その一環として09時30分～10時09分にかけて原子炉スクラム機能等の一時的なバイパス処置を行った。このとき全制御棒は全挿入状態であったが、11時00分頃、このうち３体の制御棒（FMCRD）の隔離が解除（駆動電源ON等）となっているのを確認した。
+
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2993</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/08/27 14:34:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408242220]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）検査関係者へのルールの再徹底
+　検査関係者にマニュアルに基づくLCOインターロック除外措置時のルールの再徹底を行った。
+（２）マニュアルの見直し
+　LCOに関わるインターロック除外対象の検査・作業をリスト化し、マニュアルに反映した。
+                                                                                                                                                                          
+　なお、定期検査時においては、検査対応等でプラント安全管理上重要な設備・機器の状態変更を行う場合も多く、プラント監視の一層の強化が望まれるところである。
+　このため、6号機第6回定期検査においては、LCOを逸脱しないよう、当直長のサポートを目的とした要員を定期検査途中より配置し、プラント重要情報の監視強化を図った。この運用（定期検査期間中のみの配置）については、4号機第8回定期検査以降も継続して実施している。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/09/16 16:43:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所6号機は第6回定期検査中のところ、平成16年8月24日08時30分頃より主蒸気隔離弁（MSIV）の機能に関わる検査（以下、MSIV機能検査と記す）（注１）の準備を開始し、その一環として09時30分～10時09分にかけて原子炉スクラム機能等の一時的なバイパス処置（注２）を行った。このとき全制御棒は全挿入状態であったが、11時00分頃、このうち３体の制御棒（FMCRD）の隔離が解除（駆動電源ON等）となっているのを確認した。
+　当直長は、検査のために必要なバイパス処置であることから、原子炉施設保安規定の「運転上の制限（LCO）」の逸脱には該当しないと判断したが、LCO逸脱の可能性について検査実施責任者達に意見を求めるとともに、プラントをより適切な状態に移行させるべきであると考え、11時27分に３体のFMCRDを隔離状態に復旧した。
+　なお、FMCRDの一部隔離解除が判明した以降、検査準備を一時中断した。
+　検査実施責任者を含めた関係ＧＭが集まり、本事象の扱いについて検討を行った結果、本件は保安規定第72条第5項のLCO適用除外条件を満たしており、LCO逸脱には該当しないと考え、13時40分頃、その旨を当直長に伝えるとともに、中断していた検査の再開を指示した。
+　19時30分頃、本件について当該号炉の原子炉主任技術者に報告したところ、LCO逸脱に該当する可能性があるとの判断が示され、「事故・故障等検討委員会」のメンバーを招集し、再検討した。その結果、22時20分に本件は保安規定第27条に基づくLCO逸脱に該当するとの判断に至った。
+　なお、隔離が解除されていた3体のFMCRDについては、11時27分に隔離状態に戻しており、LCO逸脱となっていたのは09時30分から11時27分までの約2時間であった。また、この間当該の3体も含め全ての制御棒は全挿入状態であり、保安規定で要求されている措置『1体以上の燃料が装荷されているセルに挿入可能な制御棒の全挿入操作を速やかに開始する』は満たしており、安全上の問題がないことは確認済みであった。　　　（添付資料－１，２，３，４）
+
+（注１）MSIV の機能に関わる検査とは、MSIVが自動隔離信号発生時に所定の時間内で全閉することを確認する「MSIV機能検査」と、多重化されている個々の自動隔離信号が所定の組み合わせで動作（自動隔離信号発生）することを確認する「RPSインターロック機能検査（その３）」が該当する。
+
+（注２）MSIV自動隔離信号の一部が原子炉自動スクラムにも利用されているため、MSIV機能検査を実施する際は、実際に原子炉スクラム機能が動作しないよう、検査実施中は当該機能を一時的にバイパスする処置を実施している。
+　
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M027]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　問題点について要因分析を行った結果、今回の事象が発生した原因は以下の通りであった。
+（１）マニュアルにおけるLCOに関わるインターロックの除外に関する内容理解が不十分であった。
+（２）どのような検査や作業がLCOに関わるインターロック除外対象に該当するのかということが具体的になっていないため、適切な判断ができなかった。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒の隔離解除に関するLCO逸脱事象の発生]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[LCO逸脱を判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/08/27 16:08:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+			<TROUBLE_ID>2516</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[制御回路*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2516</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御用電気回路]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2516</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2516</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2516</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2516</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

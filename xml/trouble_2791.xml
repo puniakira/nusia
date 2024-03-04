@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１.「母線地絡」警報が発信した要因の特定
+　「母線地絡」警報が発信し、中央制御室ＣＲＴに「３－４Ａ１母線地絡」が表示されていたことから、３－４Ａ１母線の下流側において地絡が発生し、三相間の電圧が不平衡となったことを地絡検出リレー（電圧不平衡検出）が検出したことを示している。
+　一方、警報発信時に操作していた当該弁は４Ａ１原子炉コントロールセンタ負荷であり、３－４Ａ１母線の下流側の負荷である。
+　また、同警報が発信した際には当該弁以外、３－４Ａ１、４Ａ２、３－４Ｂ１、４Ｂ２母線に接続している他の機器の操作を実施していないこと、当該弁動作完了後には「母線地絡警報」がリセットできたこと、並びに再現試験として当該弁の開閉操作を繰り返したタイミングにおいて同警報が発信したことから、「母線地絡」警報が発信した要因は当該弁の動作によるものと判断した。
+
+２.地絡発生状況確認
+　当該弁の動作が「母線地絡」警報発信の要因と考えたが、４Ａ１原子炉コントロールセンタの受電しゃ断器後に設置されている地絡検出リレー（地絡電流検出）が作動していなかった。
+　これは、地絡リレー（電圧不平衡検出）が地絡継続時間に係らず動作するのに対して、地絡検出リレー（地絡電流検出）は時限を持って動作することから、短時間の地絡事象の場合には動作しなかったものと考えられる。
+
+３.点検結果
+(１)地絡部位調査
+ａ.地絡リレー単体の調査として、当該弁の開閉動作確認時における３－４Ａ１パワーセンタの対地電圧計指示を確認した結果、地絡リレーが動作した際にＡ～Ｃ相の対地電圧（Ａ相:295V、Ｂ相:193V、Ｃ相:305V）はＢ相が低く、Ａ，Ｃ相が高いアンバランスが生じており、地絡リレーが正常に動作していることを確認した。
+ｂ.コントロールセンターの電磁開閉器及びケーブル部、ケーブルの端末部及びケーブル部の絶縁抵抗測定を実施した結果、１０００ＭΩ以上であり、異常は認められなかった。
+ｃ.電動機リード線及びコイルの絶縁抵抗測定、コイル抵抗測定を実施した結果、絶縁抵抗は１０００ＭΩ以上、コイル抵抗も基準値以内であり、異常は認められなかった。
+ｄ.電磁ブレーキリード線及びコイルの絶縁抵抗測定、コイル抵抗測定を実施した結果、コイル抵抗は基準値以内であったが、絶縁抵抗は全て０Ωであり地絡していること確認した。
+(２)過去の定期検査における当該弁の調査結果
+　当該弁は第９回定期検査時（平成１６年９月２５日解列、同年１１月５日並列）に分解点検を実施しており、その結果を確認したところ、寸法記録、絶縁測定記録及び開閉試験記録等全て異常は認められなかった。
+(３)電磁ブレーキ追加点検結果
+　電磁ブレーキカバーを取外し、電磁ブレーキ部の外観点検を実施した結果、Ｂ相のコイル用リード線がブレーキライニングに接触していることを確認した。
+　更に、コイル用リード線の接触部を確認したところ、ブレーキライニングとの接触箇所と思われる部位にこすれが認められ、素線が一部露出していることを確認した。
+　また、当該電動機を取り外し、Ｂ相コイル用リード線がブレーキライニングと接触していない状態で絶縁抵抗測定を実施した結果、判定基準値以上であることを確認した。
+　以上の調査結果から、今回の地絡は電磁ブレーキのＢ相のコイル用リード線とブレーキライニングとの接触部で発生したものと特定された。
+(４)組立に対する聞き取り調査結果
+　上記のような接触状態を生じる可能性について調査した結果、当該部位（電磁ブレーキ）点検後の復旧時（駆動部と電動機の接続時）のリード線接続作業において、リード線に余長がある場合にはその余長部をケース内部に押し込むことがあることを作業員からの聞き取りにより確認した。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[204]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2791</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/03/01 19:12:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　警報は当該弁操作時に発信していることから、当該弁のコントロールセンタ内ケーブル及び電動弁駆動部の電気室（制御回路部を収納するために設けられた箱）内ケーブル等の目視点検を行ったが、異常は認められなかったことから、詳細点検のため、当該弁「開」状態で電源を開放した。これにより、高圧注入系統及び低圧注入系統の１系統が動作不能と判断し、保安規定の運転上の制限（「ＬＣＯ」という）を満足しない状態に移行したと判断した。
+２月１４日　１８時４５分　運転上の制限を満足していない状態に移行
+２月１５日　　４時３０分　運転上の制限を満足している状態に復帰
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3130</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/02/25 15:34:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502141845]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(１)当該電動弁駆動部の電動機及び電磁ブレーキ一式を予備品に取り替えるとともに、電動弁診断装置により健全性を確認した。
+(２)電動機部を駆動部に取り付ける際に、コイル用リード線を駆動部電気室側に引き込みながら取り付け、コイル用リード線が電磁ブレーキのライニング部と接触することがないようにするとともに、組立後に電磁ブレーキカバーを開放して再度確認することを作業要領書に明記する。
+　なお、今回の電動部取替え作業に際しては、上記の作業要領を反映した要領書を使用し健全性確認を行った。
+(３)同型電動弁の内、プラント運転中で点検可能なものについては、電磁ブレーキカバーを取外し目視点検を行った結果、異常のないことを確認した。その他の同型電動弁については、至近の定期検査にて点検を実施する。
+(４)当社請負工事全般に係る要求事項である「原子力発電所請負工事一般仕様書」へ電気配線の余長に関する注意事項を記載し、協力会社へ今回の事例と併せて周知・徹底するとともに、この事例の反映状況について品質調査等で確認していく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯発電所４号機は定格熱出力一定運転（電気出力１２０５ＭＷ、蒸気発生器熱出力３４１５ＭＷ）中のところ、２月１４日１０時４６分に「３－４Ａ１・４Ａ２、３－４Ｂ１・４Ｂ２母線地絡」（以下、「母線地絡」という）の警報が発信するとともに、中央制御室ＣＲＴに「３－４Ａ１母線地絡」が表示され警報はすぐにリセットされた。
+　直ちに運転操作を確認したところ、定期点検である安全注入系統弁開閉確認を実施しており、Ａ高圧注入ポンプ燃料取替用水ピット側入口弁（４Ｖ－ＳＩ－００２Ａ、以下、「当該弁」という）開操作と同時に警報が発信していた。
+　当該弁は電気駆動により動作し、その供給電源は３－４Ａ１母線であった。また当該弁は通常開状態であり、最初の閉操作時には警報発信しなかった。
+　再現性確認のため、１１時０４分に再度、閉及び開操作を実施したところ、閉操作時及び開操作時ともに地絡警報が再発信し、それぞれ弁動作後に警報はリセットされた。　
+　警報は当該弁操作時に発信していることから、当該弁のコントロールセンタ内ケーブル及び電動弁駆動部の電気室（制御回路部を収納するために設けられた箱）内ケーブル等の目視点検を行ったが、異常は認められなかったことから、詳細点検のため、２月１４日１８時４５分に当該弁「開」状態で電源を開放した。これにより、高圧注入系統及び低圧注入系統の１系統が動作不能と判断し、保安規定の運転上の制限（以下、「ＬＣＯ」という）を満足しない状態に移行したと判断した。
+　その後、不具合が認められた当該弁の電動部を取替え健全性を確認した上、２月１５日０４時３０分、ＬＣＯを満足する状態に復帰した。
+　なお、今回の事象に伴う、放射能による環境への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-M027]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　今回の警報発信は、組立時に電磁ブレーキのコイル用リード線余長部をケース内部に押し込んだことにより、ブレーキライニング部と電磁ブレーキのＢ相のコイル用リード線が接触状態となり、電動弁の動作試験時にブレーキライニング部が回転し、リード線被覆が徐々に削られて薄くなり、リード線素線が露出したため、地絡に至ったものと推定される。
+　なお、電磁ブレーキのコイル用リード線には弁動作中のみに通電されることから、当該弁の電源供給元である３－４Ａ１母線地絡の警報が弁動作中のみに警報が発信したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ａ高低圧注入系の不具合について（Ａ高圧注入ポンプ燃料取替用水ピット側入口電動弁の地絡）]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限からの逸脱]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1205</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/01 19:12:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[141]]></KIKI_CODE>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁駆動機構*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2791</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[高圧注入ポンプ燃料取替用水ピット側入口弁]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2791</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[141]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動弁駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧注入系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[204]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[204]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2791</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

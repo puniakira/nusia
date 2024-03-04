@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．動作不良を示す（以下、「FAIL」という。）ランプが点灯した原因
+（１）警報発生時の観測波形
+　運転中に設置したオシロによって採取された「FAIL」警報発生時の当該計装回路廻りの信号波形を評価したところ、警報発生時に±24V回路およびアナログ回路の接地ライン（以下、「ＣＯＭ」という。）～デジタル回路の接地ライン（以下、「ＧＤ」という。）の間に、瞬時の約10μS周期の電位差変動が確認された。
+
+（２）工場モックアップ試験
+　運転中に設置したオシロで採取された約10μS周期の変動事象から「FAIL」検出のメカニズムについて、工場でモックアップ試験を実施した結果、基板内のＧＤ～ＣＯＭ間の電位が約1.5～2.0V、数μS変動した場合に「FAIL」ランプが点灯することが確認された。
+
+（３）要因分析表に基づく各種点検・調査
+　「FAIL」ランプ点灯に至る要因分析表に基づき点検・調査を実施したところ、ＧＤ～ＣＯＭ間の電位変動を除き、要因の可能性はないものと判断された。
+
+　以上の結果より、今回の「FAIL」ランプ点灯事象は、何らかの要因によりＧＤ～ＣＯＭ間に電位変動が生じたためと推測された。
+
+※ＧＤ～ＣＯＭ間の電位変動による「FAIL」ランプ点灯のメカニズム
+　流量指示計には、流量変換器からの入力電圧信号を監視する回路が設置されている。
+　この回路は、流量変換器からの入力電圧信号が設定値より高く（または低く）なった場合に動作し、「FAIL」ランプが点灯する設計としている。
+　また、回路の入力電圧の範囲を超えてしまうと、回路の特性により流量変換器からの入力電圧に関係なく回路が誤動作し、「FAIL」ランプが点灯する。
+　ＧＤ～ＣＯＭ間の電位が変動すると、回路の入力電圧範囲を超えるため「FAIL」ランプが点灯する。
+
+２．ＧＤ～ＣＯＭ間電位変動の要因調査
+　ＧＤ～ＣＯＭ間電位変動について要因分析を行い、アース設置の不良・方式の影響、電源ライン短絡・混触、電源装置の影響および外部ノイズの影響等が考えられるため、以下の調査を行った。
+（１）アース接地不良・方式の影響調査
+ａ．アース接地状況について、抵抗測定等の点検を行い異常がないことを確認した。
+ｂ．アース接地方式の影響調査
+　現状の流量指示計のＧＤ、ＣＯＭは、中継端子台よりそれぞれ個別にアースに接続されており、工場モックアップ試験結果を踏まえ現地試験を行った結果、ＧＤ～ＣＯＭ間の電位変動が生じやすい接地方式であることがわかった。
+
+（２）電源ライン短絡・混触調査
+　＋5V、±15V、＋24V回路について、短絡および混触がないか絶縁抵抗試験、異物確認、打診試験等を実施したが異常は認められなかった。
+
+（３）電源装置の調査
+　当該電源装置および健全である電源装置について、工場での詳細調査を実施した。
+ａ．工場での電源装置単品調査結果
+　リップルノイズ測定、スイッチング周波数測定等、通常製作時に実施する特性試験において電源仕様を逸脱する結果はなく、また当該電源装置と健全である電源装置の有意差はなかった。
+
+ｂ．工場でのＧＤ～ＣＯＭ間の電位波形確認
+　ＧＤ～ＣＯＭ間の電位波形に着目した場合、当該電源装置は実機と同等の負荷の条件下で、健全である電源装置側には見られない電源装置のスイッチングに同期した振動事象が定期的に観測された。但し、警報発生時のオシロ波形で確認された電位変動と比較すると電位差ピークは低いものであった。
+
+ｃ．工場での当該電源装置ノイズ試験調査（ノイズ試験にてＧＤ～ＣＯＭ間の電位波形確認）
+　ＡＣ入力部および24V出力部にノイズを印加し、ＧＤ～ＣＯＭ間の電位波形を確認した。
+・24V出力部に1kV、1μSのノイズを印加した際に、ＧＤ～ＣＯＭ間の電位にノイズ印加幅を超え、約60μS間にわたり振動波形が観測された。（AC入力部へのノイズ印加では、ノイズ印加幅を超える振動は発生していない）
+・発生した振動成分は、電源装置の実負荷時に観測された振動成分と共に数μSで同期している。
+・ＧＤ～ＣＯＭ間を分割接地方式から一括接地方式にすることで振動が抑えられることを確認した。
+
+ｄ．工場での電源装置内部の詳細調査
+　電源装置に振動波形が観測されたことから、電源装置内部の詳細調査を実施したが、振動波形の発生原因の特定には至らなかったが、本事象発生前の定期検査（第20回定期検査）において、電源装置内部の電解コンデンサの交換を行っており、その影響による可能性は否定できない。
+
+（４）外部ノイズの影響調査
+　外部ノイズの可能性が考えられたことから、現地にて流量変換器からの信号ケーブル模擬回路にノイズを印加した結果、ＧＤ～ＣＯＭ間の電位に急峻なノイズ波形を確認したが、警報発生時のオシロ波形で確認された電位変動と比較すると変動周波数は高いものであり、「FAIL」ランプ点灯の再現はなかった。しかし、電源装置の電源を切った状態でＧＤ～ＣＯＭ間の電位を観測した結果、電位変動が観測されたことから、外部ノイズ浸入の可能性は否定できない。
+
+（５）その他の機器の調査
+　流量変換器等、関連する他の機器を調査した結果、異常は確認されなかった。
+
+　以上の結果から、直接「FAIL」ランプを点灯させる異常は認められなかったが、ＧＤ～ＣＯＭ間の電位変動の要因として流量指示計のアース接地方式がＧＤ～ＣＯＭ間に電位差を生じやすい状態であったこと、当該電源装置のＧＤ～ＣＯＭ間に数μS周期の振動が生じやすい状態であったことが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9143</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/08/07 00:57:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　４号機は定格出力にて運転中のところ、平成19年７月20日19時58分、原子炉保護系に関する警報が発生した。
+　このため、ただちに原子炉保護系の動作につながる主蒸気配管の流量指示計16個の指示値を確認したところ、指示値は安定していたが、４個の流量指示計に動作不良を示すランプが点灯していることを確認した。
+　流量指示計は、保安規定において16個すべてが動作可能であることが要求されており、本事象は、当該指示計が一時的に動作不能になった可能性があることから、20時14分、保安規定で定める「運転上の制限」からの逸脱を宣言した。
+　また、すべての流量指示計の指示値はその後も安定していたことから、当該指示計の動作不良を示すランプの解除を行うとともに、20時16分、保安規定で定める「運転上の制限」の逸脱からの復帰を宣言した。
+
+　その後、同号機は本事象の原因調査のため動作不良ランプが点灯する回路の電気信号の監視を行いながら運転中のところ、平成19年11月29日11時34分、平成19年７月20日に発生した警報と同じ原子炉保護系に関する警報が発生した。
+　このため、ただちに原子炉保護系の動作につながる主蒸気配管の流量指示計16個の指示値を確認したところ、すべての指示値は安定していたが、１個の流量指示計に動作不良を示すランプが点灯していることを確認した。
+　本事象は、当該指示計が一時的に動作不能になった可能性があることから、11時39分、保安規定で定める「運転上の制限」からの逸脱を宣言した。
+　また、すべての流量指示計の指示値はその後も安定していたことから、当該指示計の動作不良を示すランプの解除を行うとともに、11時51分、保安規定で定める「運転上の制限」の逸脱からの復帰を宣言した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3892</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/24 01:34:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707201958]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．コモン電位の変動抑制対策
+　現状のＧＤ，ＣＯＭ分割接地方式では、電源装置のスイッチングや外部ノイズにより、数μS周期の振動波形が発生した場合、コモン電位の変動を助長していることから、対策としてＧＤ～ＣＯＭ間を流量指示計側に近い部位で接続し、ＧＤ～ＣＯＭ間の電位変動を抑制する対策を実施する。
+
+２．電源装置の交換
+　電源装置については、機能上は問題なかったものの、電位変動事象が発生しやすい傾向になっていることが確認されたことから念のために交換を実施する。
+　なお、今回の事象発生以降に交換していなかったその他の計器およびPIユニットについても、念のために新品に交換する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/08/07 00:57:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　４号機は定格出力にて運転中のところ、平成19年７月20日19時58分、原子炉保護系に関する警報が発生した。
+　このため、ただちに原子炉保護系の動作につながる主蒸気配管の流量指示計16個の指示値を確認したところ、指示値は安定していたが、４個の流量指示計に動作不良を示すランプが点灯していることを確認した。
+　流量指示計は、保安規定において16個すべてが動作可能であることが要求されており、本事象は、当該指示計が一時的に動作不能になった可能性があることから、20時14分、保安規定で定める「運転上の制限」からの逸脱を宣言した。
+　また、すべての流量指示計の指示値はその後も安定していたことから、当該指示計の動作不良を示すランプの解除を行うとともに、20時16分、保安規定で定める「運転上の制限」の逸脱からの復帰を宣言した。
+
+　その後、同号機は本事象の原因調査のため動作不良ランプが点灯する回路の電気信号の監視を行いながら運転中のところ、平成19年11月29日11時34分、平成19年７月20日に発生した警報と同じ原子炉保護系に関する警報が発生した。
+　このため、ただちに原子炉保護系の動作につながる主蒸気配管の流量指示計16個の指示値を確認したところ、すべての指示値は安定していたが、１個の流量指示計に動作不良を示すランプが点灯していることを確認した。
+　本事象は、当該指示計が一時的に動作不能になった可能性があることから、11時39分、保安規定で定める「運転上の制限」からの逸脱を宣言した。
+　また、すべての流量指示計の指示値はその後も安定していたことから、当該指示計の動作不良を示すランプの解除を行うとともに、11時51分、保安規定で定める「運転上の制限」の逸脱からの復帰を宣言した。
+
+　さらに、平成20年1月25日９時30分、平成19年７月20日ならびに11月29日に発生した警報と同じ原子炉保護系に関する警報が発生したため、主蒸気配管の流量指示計16個を確認した結果、すべての指示値は安定していたが、４個の流量指示計に動作不良を示すランプが点灯していることを確認した。
+　また、すべての流量指示計の指示値はその後も安定していたことから、９時35分、当該指示計の動作不良を示すランプおよび警報の解除を行った。
+　その後、原因調査のため取り付けた監視装置の記録を評価し、当該指示計の動作不良と判断したため、９時59分、保安規定で定める「運転上の制限」からの逸脱を宣言するとともに、動作不良を示すランプおよび警報は解除されていることから同時刻、「運転上の制限」の逸脱からの復帰を宣言した。
+
+　これによる外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M041]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　主蒸気流量計の流量指示計のＧＤ、ＣＯＭのアース接地方式が、ＧＤ～ＣＯＭ間に電位差を生じやすい接地方式であったところに、ＧＤ～ＣＯＭ間に瞬時の電位差が発生したことによって、流量指示計内下限検出用比較器が誤動作し「FAIL」信号が発信したものと推定される。
+　ＧＤ～ＣＯＭ間の電位差変動については、明確な原因特定には至らなかったが、ＧＤ～ＣＯＭ間の電源装置スイッチングに同期した電圧振動に外部ノイズが重畳することで、流量指示計内下限検出用比較器が誤動作する程度の電位変動となった可能性は否定できない。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[主蒸気配管の流量指示計一時的な動作不能による運転上の制限の逸脱ならびに復帰について
+]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>784</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/07/24 22:28:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[439]]></KIKI_CODE>
+			<TROUBLE_ID>9143</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[回路モジュール*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9143</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[439]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の回路モジュール]]></KIKI_NAME>
+				<SORT_NO>9</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[430]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[430]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[回路モジュール]]></KIKI_NAME>
+					<SORT_NO>28</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[工学的安全施設作動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9143</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9143</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9143</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9143</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

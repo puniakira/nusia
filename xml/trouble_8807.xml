@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8807</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/05 18:45:33]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3757</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/07 20:59:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704260821]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/05 18:45:33]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の３号機において、空気圧縮機の冷却水（非放射性）を海水ストームサンプタンクで受けていたところ、平成19年４月26日午前８時21分頃、同タンクの水位が高くなったことを示す警報が発生した。
+　その後、同日午前８時34分頃、当直員がタービン建屋地下２階の現場を確認したところ、同タンクから溢れた水が海水ストームサンプピットへ流れ込み滞留していること、また、同タンクの排水ポンプが自動起動し、タンク内の水位が下がっていることを確認した。
+　海水ストームサンプピットに滞留した水は約1,600リットルで、同日、回収した。
+
+　これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・同タンクの水位が起動位置まで上昇しているにもかかわらず、排水ポンプが自動起動していなかったこと。
+・当社社員が現場を確認している際に、排水ポンプが自動起動し、排水運転状態には異常がなかったこと。
+・その後の水位上昇により排水ポンプは正常に自動起動したこと。
+・排水ポンプを起動させるスイッチを点検したところ、排水ポンプを自動起動させる設定値に異常がなかったこと。
+
+　排水ポンプが自動起動しなかった原因は、水位上昇により排水ポンプを起動させるためのスイッチが一時的に動作不良を起こしたことによるものと推定した。
+
+　対策として、排水ポンプの起動を当該スイッチのほか、別のスイッチでも自動起動する仕組みに変更した。
+　また、一時的に動作不良を起こしたスイッチについては、念のため、新品に交換する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋海水ストームサンプピットへの水の流入について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/08 18:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

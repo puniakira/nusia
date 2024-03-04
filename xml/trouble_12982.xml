@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<TROUBLE_ID>12982</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/08/19 18:36:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>84300</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/07/10 13:03:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201906180810]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/08/19 18:36:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+６月１８日８時１０分、屋外の総合浄化槽※１の排水貯槽※２において、排水が漏れ出ていることを当社社員が確認した。漏れた排水は敷地内にとどまっており、海への流出はなかった。
+調査の結果、電源設備点検に伴う停電により、排水貯槽の移送ポンプが停止するため、仮設の移送ポンプとホースで排水貯槽に溜まった排水を別の貯槽へ移送していたが、ホースが折れて閉塞したことから移送ができなくなり、排水貯槽の水位が上昇し、漏れ出たものと推定した。
+その後、ホースの折れを解消したことから、正常に排水が移送されて排水貯槽の水位が低下していることを確認し、１０時１１分に排水の漏れの停止を確認した。
+なお、漏れ出た排水の量は約４０リットルと推定した。排水が漏れ出た箇所については、洗浄したのち漏れた排水の拭き取りを実施した。本事象によるプラントへの影響および環境への影響はなかった。
+
+※１ 総合浄化槽
+　１、２号タービン建家等の生活排水を適正水質まで処理するための浄化槽。
+
+※２ 排水貯槽
+　浄化槽各設備に生活排水が短時間に多量に流入しないように流入量を調整する貯留槽であり、中継槽※３と流量調整槽※４からなる。
+
+※３ 中継槽
+　排水を一旦貯留し、移送ポンプで流量調整槽へ移送するための槽。
+
+※４ 流量調整槽
+　浄化槽に汚水が短時間に多量に流入した場合などでも、次の工程への流量を定量以下に調整するため設けている貯留槽。
+
+〇原因
+排水貯槽からの水漏れについては、排水の移送に使用していた仮設ホースが折れ曲がって閉塞したことで、排水貯槽の排水の移送が行われず、流入する排水により排水貯槽の水位が上昇したことで漏えいに至ったものと推定した。
+仮設ホースが折れ曲がった原因は、仮設ホースが必要以上に余長があったこと、仮設移送ポンプは自動で起動および停止をするため未通水時の仮設ホースは軽いこと、また、ホースの敷設場所が屋外で海からの風の影響を受けやすかったことから、これらの要因が重なり、仮設ホースの使用中にホースが折れ曲がったものと推定した。
+
+〇対策
+（１）排水貯槽の排水の移送作業においては、適正な長さの仮設ホースを選定し、仮設ホースが折れ曲がらないよう直線に敷設する。さらに、簡単に折れ曲がらないホースを使用する。
+（２）排水貯槽の排水移送以外の作業においても、屋外で仮設ホースを用いてプラント設備のタンク間の移送を行う際、移送状況の確認ができない場合は、敷設経路を考慮した適正な長さのホースを選定し、ホースが折れ曲がらないよう直線に敷設する。なお、障害物等により、直線敷設が困難な場合は、簡単に折れ曲がらないホースを使用する等の対策を講じることとする。
+（３）屋外においてタンク間の移送に仮設ホースを設置する場合の注意事項（ホース長、ホースの固縛、使用前の立会確認等）を記したワンポイントレッスンを作成し、所内関係個所へ周知した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所　総合浄化槽排水貯槽からの水漏れについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/07/10 13:05:05]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

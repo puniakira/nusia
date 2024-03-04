@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．漏えい状況調査
+（１）滴下物の放射能分析等
+　タービン建屋１階ヒータールーム床面の結晶状の物質及び滴下水をスミヤにて回収し、Ｇｅ核種分析を行った結果、検出限界未満であった。また、結晶状の物質の成分分析の結果、Ｃａ等が検出され保温材に使用されている石膏と推定された。
+（２）漏えい箇所調査
+　漏えい箇所特定のため、ＲＦＰ－Ｔ（Ａ）下部廻りの保温材を取り外して調査した結果、ＲＦＰ－Ｔ（Ａ）（第１軸受側）のグランド下部（パッキンホルダー下部）から滴下が確認され、漏えい量は３～４滴／１０秒程度であった。
+　なお、タービン駆動原子炉給水ポンプ室内漏えい箇所周辺の空気中の放射性物質濃度は検出限界未満であった。
+（３）グランド部負圧調整
+　ＲＦＰ－Ｔ（Ａ）のグランド部第１段と第２段の間の排気側は、グランド蒸気復水器へ導かれており、スチームパッキンエギゾースタ（以下、「ＳＰＥ」という。）により負圧に保たれていることから、ＳＰＥ出口弁の開度を調整しグランド蒸気排気圧力を調整（負圧増加）し、漏えい状況の確認を行ったが、漏えい量（３～４滴／１０秒程度）に変化はなかった。
+（４）漏えい量測定
+　漏えい箇所（以下、「当該箇所」という。）には、７月６日３時３５分頃に受け皿を設置した。その後、回収した漏えい水の量を定期的に計測していたが、若干の増減はあるものの約２ミリリットル／分で、増加傾向は認められなかった。
+（５）漏えい水の放射能分析
+　ＲＦＰ－Ｔ（Ａ）のグランド部（第１軸受側）下部から滴下している漏えい水を回収し、Ｇｅ核種分析を行った結果、主蒸気系の主要核種であるフッ素が検出された。回収水の放射性物質濃度は約３７３Ｂｑ／ミリリットルであった。なお、漏えいの発見から漏えい水を受け皿にて容器に回収する措置を行うまでの期間に漏えいした全放射能量は３．３×１０＾５Ｂｑであると推定された。
+
+２．点検調査結果
+２－１　ＲＦＰ－Ｔ（Ａ）運転状態での調査
+　ＲＦＰ－Ｔ（Ａ）のグランド下部からの漏えいについて、要因分析に基づき運転・保修記録等により原因調査を行った。
+（１）ラビリンスパッキンの接触・摩耗
+　第１８回定期検査試運転時及び７月６日の振動値を確認した結果、有意な差はなく異常のないことを確認しており、ラビリンスパッキンの接触・摩耗による漏えいの可能性は低い。
+（２）ラビリンスパッキンの浸食
+　分解点検毎にラビリンスパッキンの間隙を測定しており、その結果に異常は認められないものの、運転中に浸食が進展し、漏えいが発生する可能性は否定できない。なお、第１８回定期検査時に＃１－４ラビリンスパッキンの一部に若干の浸食が認められたため、取替えを行っている。
+（３）水平継手面の変形
+　第１８回定期検査の組み立て時の水平継手面の間隙測定記録より、水平継手面が面タッチされていることを確認しており、運転中にケーシング合せ面が変形することは考えられない。
+（４）水平継手面の浸食
+　分解点検毎にケーシング合せ面の点検を行っており、その結果に異常は認められなかったものの、運転中に浸食が進展し、漏えいが発生する可能性は否定できない。なお、第１８回定期検査時に、グランド部近傍の水平継手面に若干の浸食が認められたため、手入れを行っている。
+（５）グランドシール蒸気不足
+　グランドシール蒸気圧力は約２７ｋＰａであり、設計値範囲内（１４～２８ｋＰａ）であることを確認した。
+（６）グランド蒸気復水器への排出不足
+　グランド蒸気復水器の圧力は約－２．４５ｋＰａであり、設計値範囲内（－２．４５～－３．４３ｋＰａ）であることを確認した。
+（７）水平継手面締め付け力不足
+　第１８回定期検査の締め付け状況を確認した結果、手順どおりに締め付けられていることを確認した。
+　以上のことから、今回の漏えいは、ＲＦＰ－Ｔグランド部の水平継手面、もしくは、ラビリンスパッキン部を経由してグランド下部からの漏えいしていると考えられる。
+２－２　運転状態でのＲＦＰ－Ｔ（Ａ）の評価
+　ＲＦＰ－Ｔのような回転体においては、軸受潤滑油系及び軸振動が正常であれば、性能には影響はしない。今回の事象発生前後においてこれらの値に異常を示す傾向は認められない。
+　また、漏えい量の増加を想定しても、タービン性能に影響せず、継続監視※１をすることで運転継続は可能と考えられたため、運転を継続し、第１９回定期検査にてＲＦＰ－Ｔ（Ａ）の点検を行うこととした。
+※１：監視は、以下の通り。
+（１）漏えい水について定期的な漏えい量の測定（１直１回）を行う。
+（２）ＲＦＰ－Ｔ（Ａ）の健全性確認のために軸振動、軸受温度、グランドシール蒸気圧力、グランド蒸気復水圧力等のパラメータの監視強化（１回／１時間）を行う。
+（３）タービン駆動原子炉給水ポンプ室内漏えい箇所周辺にダストモニタを設置し、空気中の放射性物質濃度を連続的に測定する。
+２－３　第１９回定期検査における点検結果
+　今回の漏えいはＲＦＰ－Ｔグランド部の水平継手面、もしくは、ラビリンスパッキン部を経由してグランド下部からの漏えいしていると考えられたため、第１９回定期検査において、点検を行った。
+（１）水平継手面の点検結果
+　ケーシングを開放し、水平継手面の観察を行った結果、タービン内部からラビリンスパッキン部まで貫通する浸食が認められた。当該箇所の当たりを確認したところ、浸食部は当たりが取れなかった。なお、念のため、ケーシング開放前の水平継手面の間隙測定を実施した結果、異常は認められなかった。
+（２）ラビリンスパッキンの点検結果
+　ラビリンスパッキンには＃１－４に軽微な浸食は認められるものの、その他のラビリンスパッキンには浸食が認められなかった。
+　なお、念のため、ラビリンスパッキンのケーシングとの摩耗状況を確認したが、ラビリンスパッキンの接触・摩耗による傷等は確認されなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2152</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 18:03:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2772</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200207051420]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　当該浸食部について肉盛補修を実施した後、当たりの確認を行い全面良好な当たりが得られたことを確認した。
+　なお、Ｂ号機についても点検を実施し、若干当たりがとれなかったため、念のため肉盛補修を行った。
+　また、運転中における経年的な浸食による漏えいについては、現場巡視等により早期に発見できるため、今後とも２定検に１回の分解点検は引き続き実施することとし、水平継手面の状況に応じ、手入れ又は肉盛補修等の修理を行っていくこととする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は海水温度上昇に伴う出力低下運転中（電気出力１０９２ＭＷ）のところ、平成１４年７月５日１３時３０分頃から開始された特別立入区域のパトロールにて、１４時２０分頃タービン建屋１階ヒータールーム床面に結晶状の滴下跡（約５０ｃｍ×５０ｃｍ、湿りあり）を発見した。このため、保修課員が状況を確認したところ、平成１４年７月５日１５時ごろ、天井付近から１滴／１２～１３秒の水の滴下を確認した。
+　滴下が確認された箇所の階上は、原子炉給水ポンプ駆動タービン（以下、「ＲＦＰ－Ｔ」という。）（Ａ）があり、ＲＦＰ－Ｔ（Ａ）下部を確認したところ、架台部に濡れが認められた。漏えい水は架台部よりタービン建屋２階床を貫通する主復水器へ向かうグランド蒸気排気配管をつたわって１階床に滴下したものと考えられた。事象発生から第１９回定期検査の停止（平成１４年９月１６日）までにおいてパラメータの監視を行った結果、漏えい量の若干の変動はあるもののポンプの運転に支障を来す監視パラメータの変動はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　点検調査の結果より、今回の事象の原因は、ＲＦＰ－Ｔ（Ａ）ケーシング水平継手面の蒸気による経年的な浸食によって発生したものと考えられる。
+　当該箇所については、前回定検（第１８回定検）時に若干の浸食が確認されていたが、浸食が進展しておらず、貫通もしていなかったため、次回の開放点検（第２０回定検）時に肉盛補修を行う予定であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉給水ポンプ駆動タービンＡ号機グランド下部からの凝縮水微少漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1092</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 18:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[102]]></KIKI_CODE>
+			<TROUBLE_ID>2152</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ケーシング・ケース・ハウジング*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2152</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[102]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[ポンプ駆動タービン]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[158]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[158]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2152</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2152</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2152</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2152</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

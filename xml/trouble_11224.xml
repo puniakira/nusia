@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）現地点検結果
+ａ．開放時間確認
+原子炉トリップ遮断器ＲＴＢ－２を取り替え前に測定した遮断器単体の開放動作時間は、通常約７０～９０msであるところ、約５３０msであった。また、取り替え後の原子炉トリップ遮断器単体の開放動作時間は約80msであり、遮断器を取り替えることにより正常な状態になった。
+ｂ．外観点検
+取り出した原子炉トリップ遮断器の外観点検を実施した結果、異常は認められなかった。
+ｃ．開閉試験
+原子炉トリップ遮断器盤から取り外した状態で遮断器単品（以下、「遮断器単品」という。）の開閉試験を実施したところ、遮断器開閉機構の一部を構成するトリップラッチの動作が緩慢であり、開放動作時間の遅延に影響を与えていることが確認された。
+（２）メーカー工場調査結果
+原子炉トリップ遮断器ＲＴＢ－２をメーカー工場に送り、詳細調査を実施した。
+ａ．外観点検
+組立て状態での外観目視点検、各部位の隙間寸法測定および遮断器開閉機構
+部分解後の各部品の寸法測定を実施した結果、異常は認められなかった。
+ｂ．不足電圧引外し装置＊４特性試験
+不足電圧引外し装置の動作特性を確認するため、引外し動作電圧等の単体特性を試験した結果、異常は認められなかった。
+＊４　不足電圧引外し装置
+原子炉トリップ信号により不足電圧引外し装置を動作させて、原子炉トリップ遮断器を開放させる構成になっており、原子炉トリップ遮断器に取り付けられている。
+ｃ．遮断器単品の開放動作時間測定
+遮断器を投入した状態での保持時間を変化させて遮断器単品の開放動作時間を測定した結果、投入状態保持時間を長くするに従い開放動作時間が増加することを確認した。また、この時間増加は、遮断器開閉機構部の一部を構成するトリップラッチが始動してから主接点開放までの時間により生じていることが判明した。
+ｄ．分解による部品状態（注油状態等）確認
+遮断器開閉機構部を分解し操作力等を確認した結果、トリップラッチ回転軸と主ローラの回転動作が健全遮断器に比べて重くなっていることが触手により確認された。また、トリップラッチ回転軸については健全遮断器の操作力０．０４Ｎに対し０．５７Ｎとかなり高い値になっており、トリップラッチ回転軸の摺動抵抗が増大していることが確認された。
+また、トリップラッチ回転軸のグリースに変色が見られ、粘度が高い状態であることが確認された。また、塗布グリースについて赤外分光光度計により酸化劣化度を測定した結果、トリップラッチ回転軸のグリースは著しい酸化劣化状態であった。また、主ローラのグリースについては、若干酸化劣化が進行した状態であった。
+また、グリースの油種については、分析の結果、設計段階で指定されているリチウム系グリースが使用されており、適切なグリースが選定されていることを確認した。
+なお、その他の部位については、スムーズな動作状態であり、摩耗・変形・異物付着等の異常は認められなかった。
+（添付資料－３、４）
+（３）保守状況等の調査結果
+ａ．当該原子炉トリップ遮断器の点検状況
+原子炉トリップ遮断器は定検毎に、開閉機構部の外観点検、開閉機構部の注油、開閉試験等を実施しており、第１２回定検（平成２２年１月～３月）においても開閉機構部の外観点検、開閉機構部の注油、開閉試験等を実施するとともに、トリップピン軸受部のグリースの劣化が懸念されたことから、トリップピンを分解して軸受部のグリースを交換し、異常は認められなかった。
+また、毎定検実施している開閉機構部の注油方法を確認した結果、開閉機構部摺動部のグリースにスポイトにより潤滑油を滴下させる要領であり、狭隘部であるトリップラッチ回転軸および主ローラにおいては注油が浸透せずグリースへの油分の補充が出来なかった可能性があることが分かった。
+また、原子炉トリップ遮断器の開閉回数が２，５００回に達すると、開閉機構部の分解点検を実施して各部位のグリースを交換することとしていたが、当該遮断器の第１２回定検までの開閉回数は約１，８００回であったことから、トリップラッチ回転軸および主ローラの分解点検およびグリースの交換の実績はなかった。
+ｂ．他の原子炉トリップ遮断器の点検状況
+トリップピン軸受部のグリースの劣化が懸念され、2台の予備遮断器を保有していたことから、他の7台の原子炉トリップ遮断器のうち2台については第１２回定検において予備遮断器に取り替えた。
+残り５台については、当該遮断器と同じ点検を実施し、異常は認められなかった。なお、原子炉トリップ遮断器の開閉回数が規定回数に達していなかったことから、トリップラッチ回転軸および主ローラの分解点検およびグリースの交換は実施しなかった。
+ｃ．１，２号機の原子炉トリップ遮断器の点検状況
+１，２号機原子炉トリップ遮断器は3号機原子炉トリップ遮断器とは構造が異なることから、２定検に１回の頻度で開閉機構部の分解点検を実施して全グリースの交換を実施していることを確認した。
+（2019.03.11 上記（１）～（５）の対策が完了していることを確認した。）]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11224</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2019/03/11 15:31:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成２３年２月１４日
+１６時５８分　原子炉トリップ遮断器ＲＴＢ－２を取り替えるため、原子炉保護系論理回路（Ａ～Ｄトレンの４系統)のうち１系統（Ｂトレン）を動作不能としたことから、保安規定に定める運転上の制限を逸脱
+１７時　４分　原子炉トリップ遮断器ＲＴＢ－２を開放。開放にあわせて原子炉トリップ遮断器盤に組み込んだ状態での遮断器単体の開放動作時間を測定
+１７時１７分　予備遮断器への取替作業終了
+１８時１０分　取替後の遮断器単体の開放動作時間確認
+１８時１５分　原子炉保護系論理回路(４系統)のうち１系統（Ｂトレン）を動作可能にもどしたことから、保安規定に定める運転上の制限逸脱から復帰
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>81319</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/02/15 16:21:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201102141658]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）原子炉トリップ遮断器８台のうち、これまで遮断器取替を行っていない５台について、第１３回定検において開閉機構部の分解点検およびグリースの交換を実施する。
+（２）今後、遮断器開閉回数が規定回数に達しない場合でも、１０定検ごとに開閉機構部の分解点検およびグリースの交換を実施する。
+（３）グリースの交換に当たっては、遮断器開閉機構部摺動部に使用しているグリースをリチウム系グリースから酸化劣化が生じにくいフッ素系グリースに変更する。
+なお、既に取り替えている原子炉トリップ遮断器についてはフッ素系グリースに交換済みである。
+（４）毎定検実施している開閉機構部摺動部への注油にあたっては、油分がグリースに浸透しやすいよう、スポイトにより油を滴下する要領から、霧状にスプレイする要領に変更する。
+（５）上記対策により、グリースの劣化に起因する開放動作時間遅延事象は生じないと考えるが、今後は原子炉トリップ回路ロジック試験に合わせて、遮断器単体の開放動作時間を測定し、開放動作時間の管理値を設定して適切に管理を実施していく。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/03/11 15:31:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[通常運転中の伊方発電所第３号機において、原子炉トリップ遮断器＊１ＲＴＢ－２の開放動作に遅延傾向が見られたことから、当該遮断器の開放動作時間を測定するとともに、当該遮断器を予備品に取り替えることとした。この作業を行うにあたり、保安規定において必要とされる原子炉保護系論理回路(４系統)のうち１系統を動作不能としたことから、２月１４日１６時５８分、一時的に保安規定に定める運転上の制限＊２から逸脱した。
+その後、当該遮断器を予備品に取り替えて、開放動作時間に問題のないことを確認し、同日１８時１５分、保安規定に定める運転上の制限の逸脱から復帰した。
+また、２月１５日に実施した原子炉トリップ回路ロジック試験＊３において、当該遮断器が正常に動作することを確認し、同日１１時１５分、通常状態に復旧した。
+なお、保安規定に定める運転上の制限を逸脱した間、原子炉保護系論理回路の残りの３系統が正常であったことから、原子炉を停止させる機能に問題はなかった。
+また、本事象によるプラントおよび環境への放射能の影響はなかった。
+（添付資料－１、２）
+＊１　原子炉トリップ遮断器
+原子炉トリップ遮断器は４系統構成であり、各系統にそれぞれ２台ずつの計８台の遮断器が相互接続されている。原子炉トリップ信号が発信した場合には、４系統のうち２系統以上の動作により、制御棒駆動装置への電源が遮断されて制御棒を自重で落下させるロジックを形成している。
+＊２　保安規定に定める運転上の制限
+伊方発電所原子炉施設保安規定において、原子炉保護系論理回路に関する運転上の制限は「原子炉保護系論理回路が４系統動作可能であること」と定められている。原子炉トリップ遮断器１台を取替のため、原子炉保護系論理回路（４系統）のうち、１系統を動作不能としたことから、一時的に保安規定に定める運転上の制限を逸脱した。
+＊３　原子炉トリップ回路ロジック試験
+原子炉停止信号により、原子炉トリップ遮断器が開放することを確認する試験であり、１回／月の頻度で実施している。なお、２系統を交互に試験するため、遮断器単独では１回／２月の頻度となる。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原子炉トリップ遮断器開閉機構部のトリップラッチ回転軸および主ローラにおいて、定検時に実施している注油がグリースへ浸透しなかったため、塗布していたグリースの酸化劣化の進行等により、グリースの粘度が増大した結果、トリップラッチ回転軸および主ローラの摺動抵抗が増加して回転動作が緩慢となり、開放動作時間が遅延したものと思われる。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉トリップ遮断器の開放動作時間遅延について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>914</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>81320</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/02/15 16:21:49]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11224</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[207]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[操作・駆動機構]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>61</SORT_NO>
+						<BUHIN_CODE><![CDATA[207]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[Ｐ／Ｃ遮断器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11224</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

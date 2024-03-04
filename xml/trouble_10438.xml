@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．指示模様の詳細調査
+N12Aのノズルセーフエンド部に確認された指示模様について，走査型電子顕微鏡（以下，「SEM」という。）を用いて外表面観察を行った結果，以下のことが分かった。
+（１）当初PTで確認された2箇所の指示模様は，極めて微細なものを含めて概ね6本のひびであることを確認した。
+（２）これらのひびが粒界に沿って割れていることを確認した。
+
+２．ノズルセーフエンド部切出しサンプル調査
+２．１　ノズルセーフエンド内表面観察
+切出したノズルセーフエンド部の内表面をPTにて観察した結果，指示模様は確認されなかった。
+２．２　ひびの断面観察及び破面観察
+切出したノズルセーフエンド部のひびの部分について，断面観察を行うとともに，破面を開放して観察を行った結果，以下のことが分かった。
+（１）断面観察の結果，ひびの深さは最大で約0.5mmであり，当初再PTを行った際に研磨した約0.3mmと合わせるとひびの深さは0.8mm程度であったことが分かった。
+（２）断面観察の結果，ひびは粒界割れであることを確認した。
+（３）破面観察の結果，破面にはロックキャンディ状の金属組織が見られ，典型的な粒界割れの様相を呈していることを確認した。
+
+３．発生要因調査
+　　確認されたひびの発生要因について調査した結果，以下のことが分かった。
+（１）材料欠陥
+当該ノズルの製造時の記録（製造要領書，ミルシート）を確認した結果，材料欠陥にいたる要因は確認されなかった。また，建設時の当該ノズルセーフエンド部の溶接後のＰＴの記録も確認したが，判定は「良」であり異常なしが確認された。
+（２）疲労割れ
+外表面観察，断面観察及び破面観察の結果，ひびは粒界に沿った性状を呈していることから疲労割れではないと考えられる。なお，破面観察の結果，疲労特有のストライエーションは確認されなかった。
+また，当該ノズルは水位計装ノズルであり，流体の流れがないことから，流体振動による繰返し荷重は作用しないこと，近くにポンプ等の振動源がないことからも，高サイクル疲労ではないと考えられる。
+（３）腐食
+ａ．全面腐食
+外表面観察の結果，全面腐食は確認されなかった。
+ｂ．孔食
+外表面観察の結果，孔食は確認されなかった。
+（４）応力腐食割れ（以下，「SCC」という。）
+ａ．高温水中SCC
+当該ノズルセーフエンド内表面をPTにて観察した結果，指示模様は確認されなかったこと，また，ひびの断面観察及び破面観察の結果，ひびは外表面を基点とした割れであることが確認されたことから，高温水中SCCではないと考えられる。
+ｂ．塩化物SCC
+ノズルセーフエンド外表面観察，ひびの断面観察及び破面観察の結果，粒界に沿った割れが確認されるとともに，ひび内部をエネルギー分散X線分析装置（以下，「EDX分析」という。）により元素分析を実施した結果，塩素が検出されなかったことを確認した。
+また，当該ノズルセーフエンド外表面の塩分付着量を測定した結果，塩分付着量は3mg/m2程度であり，塩化物SCCが発生するような量ではないことを確認した。
+
+以上のことから，塩化物SCCではないと考えられる。
+
+ｃ．溶接割れを起点としたSCC
+当該ノズルセーフエンド内表面及び切断面（溶接金属近傍）をPTにて観察した結果，指示模様は確認されなかったこと，また，ひびの断面観察及び破面観察の結果，ひびは外表面を基点とした割れであることが確認されたことから，配管内面に生じた溶接割れを起点としたSCCではないと考えられる。
+（５）過大応力
+ａ．過大内圧
+当該ノズルセーフエンド部にかかる内圧は，原子炉圧力（約7MPa）と同圧であり，当該部に限って過大な内圧がかかることはない。
+ｂ．過大外力
+当該ノズルセーフエンド部の外表面を観察した結果，過大外力が伴った塑性変形は確認できなかった。
+　また，ひびの破面観察の結果，破面の形態は粒界割れであり，過大外力に伴う塑性変形は確認されなかった。
+（６）溶接割れ
+当該ノズルセーフエンド部の外表面を観察した結果，溶接痕は確認されなかったことから，溶接割れではないと考えられる。
+（７）亜鉛脆化割れ
+当該ノズルセーフエンド部の外表面観察，ひびの断面観察及び破面観察の結果，粒界割れが確認されたこと，また，ひび内部をEDX分析により元素分析を実施した結果，ノズルセーフエンド部の材料（ステンレス鋼SUSF316）には含まれていない亜鉛が検出されたことから，ひびは亜鉛脆化割れである可能性が高いと推定される。
+（８）キズ
+当該ノズルセーフエンド部の外表面を観察した結果，冶工具等によるひっかき及び接触傷等は確認されなかった。
+
+４．亜鉛脆化割れに関する調査結果
+４．１　亜鉛脆化割れの発生メカニズム
+ステンレス鋼の亜鉛脆化は，高温下でステンレス鋼が亜鉛と接触した場合に，亜鉛が金属組織内に拡散侵入し脆化を引き起こす現象である。亜鉛の存在と，亜鉛の融点である420℃以上の高温が条件となり脆化が生じる。
+さらに，ここに引張応力が存在すると，粒界割れの様相を呈した亜鉛脆化割れに至る。亜鉛の浸透はごく短時間に，また引張応力下での粒界割れの発生も比較的短期間に生じると見られている。
+
+４．２　亜鉛付着時期及び付着経路の調査結果
+当該ノズルセーフエンド部に確認されたひびは，亜鉛脆化割れと推定されることから，亜鉛の付着時期及び付着経路について調査した結果，以下のことが分かった。
+
+（１）亜鉛付着時期
+亜鉛脆化割れは，亜鉛の融点（約420℃）以上の高温が必要であり，プラント運転開始以降は当該部の温度はそのような高温に曝されていないことから（運転中の温度は約280℃），今回確認されたひびはプラント建設時に行った当該ノズルセーフエンド部の溶接時や溶接後に配管表面に付着した塗料等のグラインダーによる除去時等，亜鉛の融点以上に曝された可能性のある時期に発生したものと推定される。
+なお，モックアップ試験の結果から，溶接時の当該部の温度は最大で約550℃となること，グラインダー使用時の施工面温度は450℃程度となることを確認している。また、建設後においては、当該部に亜鉛の融点以上の高温が加わるような溶接等の作業は行っていないことを確認した。
+以上より，当該ノズルセーフエンド部に亜鉛が付着した時期は，プラント建設時と推定される。
+
+（２）亜鉛付着経路
+プラント建設時に当該ノズルセーフエンド部に付着する可能性のある亜鉛含有物の使用実績を調査した結果，以下のことが分かった。　　　　　　
+　
+ａ．メーカ工場で原子炉圧力容器に塗布した防錆材（カーボンジンク）には亜鉛が含有しているが，亜鉛脆化を防止するため防錆材塗布の際には計装ノズル部はマスキングを実施する運用を徹底している。防錆材がノズルに付着する可能性は，運用上，極めて低いと考えられるが，防錆材塗布後，原子炉圧力容器運搬までの間にマスキングを保護キャップに付け替える等の作業を実施しており，防錆材塗布時及びその後の過程で偶発的に防錆材の成分が接触付着した可能性は否定できない。
+
+ｂ．現地での原子炉格納容器，ガンマシールド，サポート等の炭素鋼材の塗装には，下塗り剤に亜鉛を含有した塗料（ジンクプライマー）が使用されているが，亜鉛
+を含む低融点金属より保護する目的で，計装ノズル部は養生管理することが規定されている。塗料がノズルに付着する可能性は運用上，極めて低いと考えられる
+が，塗装時及び塗装後の当該ノズル周り作業時に偶発的に塗料が接触付着した可能性は否定できない。
+
+以上の付着経路が考えられるが，特定には至らなかった。
+
+４．３　亜鉛脆化割れによるひびの発生のプロセス
+プラント建設時における当該ノズルセーフエンド部の亜鉛脆化割れの発生メカニズムを以下のように推定した。
+（１）プラント建設時のノズルセーフエンドと配管の溶接前もしくは溶接後の段階で，当該部に微量の亜鉛が偶発的に付着した。付着物の形態としては，亜鉛を含む防錆剤や塗料の可能性が考えられる。
+
+（２）ノズルセーフエンド外表面に微量の亜鉛が付着した状態で，ノズルセーフエンドと配管を溶接，もしくはグラインダーによる除去を実施した際の入熱で亜鉛が溶融液化し，温度が低下するまでの間，約0.8mmの深さまで浸入した。このとき，粒界の結合力が低下し溶接により発生した引張応力により，亜鉛の浸入深さまで粒界割れが達した。なお，配管表面におけるひびの発生方向（斜め方向）については，溶接時の引張応力分布またはグラインダーがけの方向等による影響と考えられる。
+
+（３）プラント運転中の当該部の温度は280℃程度であり，亜鉛の融点（約420℃）よりも低いことから，すでに粒界に侵入している亜鉛がさらに拡散する環境ではない。亜鉛脆化割れは亜鉛の侵入深さがひびの深さを支配するものであり，現状以上に，ひびが拡大する可能性は無い。
+
+５．当該ノズルセーフエンド部の欠陥評価について
+今回確認されたひびについては，調査の結果、亜鉛脆化割れであり、ひびが拡大する可能性がないことを踏まえ、更なる亜鉛の浸透範囲の拡大はないものと判断できる。「発電用原子力設備に関する技術基準を定める省令」に適合していることを以下の通り評価し，許容基準を満足していることを確認した。
+
+（１）維持規格を準用し，欠陥評価の第１段階として，当該欠陥が「評価不要欠陥寸法基準を満足するか」を評価し，その結果，当該欠陥は評価不要欠陥と判定された。
+（２）念のため、欠陥評価の第２段階として，「許容基準を満足するか」をき裂進展評価および破壊評価により評価し，その結果，許容基準を満足し，破壊に至る可能性はないことから，評価期間の間，当該欠陥は許容基準を満足すると判断された。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10438</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/06 09:37:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4511</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/07/08 22:18:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200907071155]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[当該ノズルセーフエンドの一部は今回の調査のため切り出したことから，切断部を加工するとともに配管を製作し，原設計と同じソケット溶接にて復旧した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/06 09:37:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成21年6月29日，定期検査で停止中の福島第二原子力発電所4号機において，原子炉圧力容器計装ノズル配管12本の浸透探傷検査（以下，「PT」という。）を実施していたところ，N12Aのノズルセーフエンド部に指示模様（2箇所）を確認した。指示模様は極めて微細であり表面の傷等の可能性を考慮して，当該部を約0.3mm磨いた上で再PTを行った結果，7月7日，午前11時55分頃，当該指示模様（2箇所：長さ約1.5mm，約2.5mm）が取り除けないことを確認した。
+本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-M016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[調査の結果，今回確認されたひびは亜鉛脆化割れであり，プラント建設時に偶発的に付着した亜鉛（防錆材又は塗料）が溶接熱もしくはグラインダーによる入熱等で溶融し，母材の粒界に沿って侵入したことで材料が脆化したこと，さらに，溶接により発生した引張応力下で粒界割れが発生したことが原因であるものと推定される。　　　
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所４号機における原子炉圧力容器計装ノズル配管の指示模様（ひびらしきもの）の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[ひびらしきものを確認した時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/07/10 20:44:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[620]]></KIKI_CODE>
+			<TROUBLE_ID>10438</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10438</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ノズルセーフエンド]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10438</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[620]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[原子炉圧力容器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[720]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[720]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[原子炉圧力容器]]></KIKI_NAME>
+					<SORT_NO>37</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[102]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10438</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0609]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+				<SORT_NO>27</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0609]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[腐しょく]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10438</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10438</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10438</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

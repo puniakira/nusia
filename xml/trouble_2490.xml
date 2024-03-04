@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．配管破損メカニズムおよび設備への影響評価
+
+（１）配管破損メカニズムに関する評価
+ａ．配管調査
+　・Ａ系配管（破損配管）の外観観察を行った結果、頂上部近傍で軸方向および周方向に大きく破口し、破口幅は、軸方向に約５１５ｍｍ、周方向に約９３０ｍｍであり、下流側に向かって、右方向に進展したき裂は、上流側、下流側ともに溶接部直近で停止し、左方向に進展したき裂は、管底部近傍で停止していた。
+　・Ａ系配管およびＢ系配管について、超音波肉厚測定器による肉厚測定を行った結果、いずれもオリフィス下流側において、ほぼ全周にわたり減肉傾向が認められ、最も薄い箇所はＡ系配管：０．４ｍｍ、Ｂ系配管：１．８ｍｍであった。
+　・Ａ系配管のオリフィス下流側について、破口部からデジタルマイクロスコープで内面を観察した結果、残留水によって表面が腐食し表面状態が変化したと推定される１８０°位置（配管底部）を除くすべての内面に、約１ｍｍ幅の鱗片状模様が一様に認められ、オリフィス近傍では約３～５ｍｍ幅とやや大きいものであった。
+　・破面の観察を行った結果、延性破壊の特徴であるディンプルが観察された。
+　以上のことから、当該部位はオリフィス下流部でエロージョン／コロージョンが発生したことにより減肉が進行し、肉厚が薄くなった部位を中心に延性破壊によるき裂が発生した結果、破損したものと推定される。
+
+ｂ．特性要因図による主な評価結果
+　・当該部位はＰＷＲ管理指針において管理すべき箇所として登録されていれば適切な管理が可能であったが、登録漏れのため、ＰＷＲ管理指針に則った管理が行なわれていなかった。
+　・当該配管の材料は炭素鋼（ＳＢ４２）であり、内面に鱗片状模様が認められたことから、エロージョン／コロージョンであると考えられる。
+　以上のことからエロージョン／コロージョンによる減肉が、ＰＷＲ管理指針に則った管理が行われていなかった当該部位で進行したことにより、肉厚が薄くなり内圧によって破損したものと考えられる。
+
+ｃ．試験・解析によるエロージョン／コロージョン評価
+　Ａ系配管とＢ系配管のオリフィス下流部の流れの乱れの状況を確認するために、試験および解析を実施した。その結果、Ａ系配管・Ｂ系配管ともに旋回流が発生し流れに乱れが発生していることを確認した。また、Ａ系配管はＢ系配管に比べて強い旋回流が発生し、オリフィス下流部で比較的大きな非定常な流れの乱れが発生しているという特徴を確認した。
+　
+　以上の検討から、配管破損メカニズムはオリフィス下流部での流れの乱れによってエロージョン／コロージョンによる減肉が、ＰＷＲ管理指針に則った管理が行なわれていなかった当該部位で進行したことによって、肉厚が薄くなり内圧によって破損したものと考えられる。
+
+（２）事故による設備への影響評価
+ａ．復水配管破損による影響
+　現場点検を実施し、床面や設備に残った水分痕を確認することにより、熱水および蒸気の影響範囲を確認した。周辺配管の保温材落下状況等より破口部からの噴出水による影響は、破口部上方および配管内部から見た破口部の前方約７ｍの範囲であった。破口部から流出した蒸気は、タービン建屋全域に広がるとともに、制御建屋・中間建屋・中央制御室に侵入したものと推定される。
+
+ｂ．プラントの安全停止に係る設備への影響調査結果
+　事故の影響を受けたと推定される範囲内に設置されている安全系設備の内、主蒸気隔離弁駆動用電磁弁は、事故時に直流接地警報が発信した。また、中央制御室制御盤、計器用電源設備および直流電源設備は、蒸気の侵入が認められた。また、事故の影響範囲に設置されている安全系設備以外の設備については、脱気器内部構造物の変形、給水ポンプモータ内部の発錆等が認められた。
+　・主蒸気隔離弁駆動用電磁弁の端子箱の内部に熱水が浸入し、直流電源回路に直流電源回路に片側接地を生じていたが、電磁弁の駆動電源が確保されていたことから、事故後に主蒸気隔離弁を閉止することができた。
+　・中央制御室制御盤内のケーブル床貫通部等にシール処理の不適切な箇所があったため、蒸気が中央制御室制御盤内等に侵入したが、事故時は正常に動作した。
+
+２．２次系配管肉厚管理に関する評価
+　全プラントの２次系配管の肉厚管理状況について調査した結果、ＰＷＲ管理指針に規定される主要点検部位に対して２次系配管肉厚管理が未実施の部位が１５箇所（美浜３号機の当該部位およびＢ系の同一部位を除く）あることを確認した。
+
+３．２次系配管肉厚管理システムの検討
+ａ．業務の計画・体制において
+　・ＰＷＲ管理指針は２次系配管肉厚管理業務の基本ルールを定めたものであり、具体的な業務の役割と責任分担等、業務の計画を綿密に定めていなかった。
+　・２次系配管肉厚管理業務のデータをチェックするための人的資源が不十分であった。
+　・２次系配管肉厚管理業務のデータをチェックするための機械化が不十分であった。
+　・２次系配管肉厚管理の点検リストを定期的に見直す仕組みがなかった。
+
+ｂ．調達管理において
+　・協力会社を信頼し、詳細を明示しなくてもやってくれているだろうとの思い込みから、点検対象漏れ発見時の当社への報告等、外注先に対する要求仕様が記載されていなかった。
+　・要求事項で記載しきれない、あるいは予想できない異常や不具合を発見したときに、契約先である協力会社とその情報を共有できるプロセスが明確でなかった。
+　・三菱重工業から提出された工事計画や結果報告にはＰＷＲ管理指針が引用されていたものの、当社としては、点検リストに照らして充足したものであることを確認していなかった。
+
+ｃ．情報の共有において
+　・不適合の定義が明確ではなく、「点検リスト漏れ」を不適合として水平展開できなかった。
+　・事業者間の水平展開ができなかった。
+　・三菱重工業から当社に対して、ＰＷＲプラントに共通の点検・調査において、不具合等がいずれかのＰＷＲプラントにおいて発見されたとき、当社に確実に伝わる仕組みがなかった。
+　・当社社員と協力会社社員との接触が少なく、コミュニケーションが不十分であった。
+
+ｄ．教育において
+　・配管からのリークは発生しても最初は小リークで、大きな破損が直ちに起こり、甚大な被害をもたらすとは考えておらず、米国サリー発電所での２次系配管破損事故（以下、「サリー事故」という）のような危機に対する意識付けが不十分であった。
+　・サリー事故に対する教訓が必ずしも正確には伝わっていなかった。　
+　・２次系配管肉厚管理に対する業務の計画の重要性について認識不足であった。
+　・調達管理の重要性に関する教育が不十分であった。
+
+ｅ．監査において
+　・内部監査（第一者監査）は、社内標準類の整備状況や整合性に力点が置かれ、その社内標準に基づく業務の詳細な実施状況はサンプル的に確認することにとどまっていた。
+　・協力会社に対する監査（第二者監査）についても、主として品質保証体制の整備状況に関するものとなっていたため、個別業務の実施内容まで踏み込めていなかった。
+
+４．被災者救出に関する初動対応
+ａ．被災者救出のため、消防・救急への通報を行ったが、所内連絡の一部に消防計画にあらかじめ定められていた経路にて連絡されていなかった。
+ｂ．当初、当社社員等による救出活動の際、耐熱服を着用していなかった。
+ｃ．作業人員把握等の状況を迅速に消防・救急に対して説明できる体制となっていなかった。　
+ｄ．管理区域外での災害で被ばく・汚染がなかった場合は、その旨を当社から医療機関へ直接連絡する仕組みとなっていなかった。
+ｅ．迅速に作業責任者等を通じて作業者の安否確認をすることができなかった。
+
+５．事故発生時のプラント状況に関する評価
+（１）運転パラメータおよび運転操作
+　事故発生前の運転パラメータには当該配管破損の兆候を示す変化は認められなかった。また、事故時における原子炉停止操作については、運転マニュアルに基づき実施していることを確認した。
+
+（２）プラントの挙動評価　
+ａ．１次系のプラント挙動
+　今回の事故は、ＳＧ器内水の放出はなく、１次冷却材ポンプも停止していないこと等から、安全解析の評価結果の範囲内であり、原子炉の冷却は正常に行われ、原子炉への影響はなかった。
+
+ｂ．２次系のプラント挙動
+　脱気器へ流れる復水流量は、１５時２３分からＡ系が増加、Ｂ系が急激に低下し、Ｂ系流量は「０ｔ／ｈ」となり、脱気器水位が急激に低下している。Ａ系流量については、２次系のプラント挙動再現解析を行なった結果、最大約４，６００ｔ／ｈとなった。
+　復水配管からの流出量は、２次系純水タンクからの補給水（約５６５ｔ）および系統保有水減少分（約３２０ｔ）から、合計で約８８５ｔと推定される。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[252]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2490</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/06/13 20:53:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成１６年８月９日
+１５：２８　電動補助給水ポンプ、タービン動補助給水ポンプ自動起動
+１５：３２　タービン動補助給水ポンプ流量制御弁（全３台）閉止
+１７：１２　タービン動補助給水ポンプ停止
+１７：１３　流量制御弁開操作するも２台が動作せず
+１８：３０　弁グランド調整後開操作するも動作せず
+１８：３８　運転上の制限を満足していないと判断
+
+平成１６年８月１０日
+０５：５５　モード４移行により、運転上の制限を満足している状況に復帰]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2976</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/08/13 08:08:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408091522]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[上記のとおり。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/06/13 20:53:50]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生時のプラント状況
+　平成１６年８月９日、定格熱出力一定運転中のところ、１５時２２分に中央制御室の「火災報知器動作」「３Ｂ直流接地」警報、１５時２３分に「３Ａ直流接地」警報が発信した。このため、運転員が中央制御室の表示盤で火災報知器動作箇所が脱気器に隣接しているタービン建屋２階のエリアであることを確認し、点検のためタービン建屋３階面入口から建屋内に入ったところ、脱気器に隣接しているエリアに蒸気が充満していることを確認した。
+　このことから、２次系の配管から蒸気または高温水が漏えいしている可能性が高いと判断し、１５時２６分から緊急負荷降下を実施していたところ、１５時２８分に「３Ａ　ＳＧ給水＜蒸気流量不一致トリップ」警報が発信し、原子炉が自動停止、続いてタービンが自動停止した。
+　プラントの自動停止状態に異常はなく、１次冷却材温度、加圧器水位・圧力、蒸気発生器（以下「ＳＧ」という）水位等が安定したことから、１５時３５分に原子炉は高温停止状態で安定していることを確認し、さらに、原子炉の低温停止操作は８月１０日２３時４５分に完了した。タービン建屋内の点検を実施し、８月９日１７時３０分に脱気器に隣接しているタービン建屋２階エリアの天井付近にある第４低圧給水ヒータから脱気器へ至るＡ系の復水配管に破口部を確認した。破口が認められた部位は、２系統（Ａ・Ｂ系）ある復水配管のうち、Ａ系配管であり、Ａ系の復水流量を計測するオリフィス下流側近傍であった。また、Ａ系配管の破口部付近や周辺の配管に取り付けていた保温材は付いておらず、周囲に散乱している状況であった。
+　本事象は、２次系設備に起因する事故であり、環境への放射能の放出はなく、環境への影響もなかった。
+
+２．被災者の状況および初動対応
+　事故発生当時、タービン建屋内には、当社社員１名と８月１４日から予定していた美浜３号機第２１回定期検査の準備作業等に携わっていた協力会社作業員１０４名がおり、破損したＡ系復水配管の付近で準備作業に従事していた協力会社作業員１１名が被災（熱傷）した。
+　運転員がタービン建屋２階のエレベータ前で倒れている被災者を発見し、発電室長等を経由して所長室員が１１９番救急通報を実施した。
+　被災した協力会社作業員は、当初、当社社員および他の協力会社作業員により、その後、消防署救急隊員も加わり、順次タービン建屋外へ運ばれ、救急車で病院へ運ばれた。１１名のうち、５名が亡くなり、６名が熱傷のため入院（うち５名は退院［平成１７年２月２８日現在］）された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-T012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[＜再発防止対策＞
+
+１．２次系配管破損に関する対策　　
+　破損した配管は、経済産業省からの「美浜発電所３号機に対する技術基準適合命令について」（平成１６・０９・２２原第１８号　平成１６年９月２７日付）により、第４低圧給水ヒータ出口弁から脱気器入口までの間について技術基準に適合するよう、配管の取替え等復旧を行い、かつ技術基準に適合していることを確認する。　
+　・既にステンレス鋼配管としている復水配管ヘッダ部については、技術基準が要求する計算必要厚さを満足していることを配管肉厚測定により確認する。　　
+　・復水配管ヘッダ出口から脱気器入口については、現状の炭素鋼から耐食性に優れたステンレス鋼配管に取替えるとともに、材料変更に伴い、運転中に受ける熱の影響を緩和する観点から、一部配管支持構造物配置の見直しを実施する。また、配管取替工事にあたっては、材料、構造の技術基準適合確認検査を実施する。新設配管についても配管肉厚測定を実施する。
+
+２．２次系配管肉厚管理に関する対策　　
+　・主要点検部位について、「余寿命が５年未満となる時期に点検を行なう。さらに余寿命が５年未満の場合は取替・溶接補修を立案し、余寿命がゼロ年になるまでの間に補修すること、また、補修までの間は、定期検査において毎回点検する」と変更した。（管理指針改善済）　　
+　・その他に分類されている部位の未点検箇所については全て至近３回以内の定期検査において点検する。（管理指針改善済）　　
+　・肉厚測定範囲、測定ポイントおよび詳細測定方法を明記（管理指針改善済）　　
+　・過去減肉データの分析に基づき、当社の管理指針、点検計画を見直す現在、（社）日本機械学会において、減肉管理の機能性規格の策定およびそれをふまえた技術規格が検討されている。これらの規格が策定されるまでの暫定措置として、行政文書の発出がされたが、これらに適切に対応していく。
+
+３．２次系配管肉厚管理システムに関する対策
+（１）２次系配管肉厚管理業務に反映すべき品質保証上の対策　　
+ａ．業務の計画と体制　　　
+　・直営化までの間の２次系配管肉厚管理業務の当社による主体的管理の実施・当社現場立会い等の強化　　　
+　・２次系配管肉厚管理業務の直営化　　　
+　・２次系配管肉厚管理業務に携わる人員の強化　　　
+　・原子力データ処理システムの改善および高度化　　　
+　・経年変化点検管理票の定期的なレビューの実施　　
+
+ｂ．調達管理　　　
+　・協力会社および社内の役割分担の明確化　　　
+　・点検対象漏れ発見時の報告等調達要求事項の明確化　　　
+　・検収時に確認すべき内容・方法の明記と周知徹底　　
+
+ｃ．情報の共有　　　
+　・「点検リストの漏れ」に関する事例の社内標準への反映　　　
+　・「点検リストの漏れ」以外の事例の確実な水平展開の実施　　　
+　・情報管理専任者の設置による水平展開の確実な実施　　　
+　・重要情報がキーパーソンへ直接入るシステムの構築　　　
+　・「点検リストの漏れ」のような事例の国内電力会社間での水平展開の仕組みの改善　　　
+　・電力・メーカ間の保全情報共有化の仕組みづくり　　　
+　・水平展開された知見を協力会社と共有する仕組みの構築　　　
+　・協力会社とのコミュニケーションの充実　　　
+　・現場における作業員とのコミュニケーションの充実　　
+
+ｄ．教育　　　
+　・美浜３号機二次系配管破損事故による教訓等の事例周知　　　
+　・２次系配管肉厚管理に対する業務の計画の重要性に関する項目の教育システムへの組み込み　　　
+　・調達管理の重要性に関する教育の充実　　
+
+ｅ．監査　　　
+　・個別業務の業務実施内容に沿って詳細に確認する業務プロセスに着目した監査へのシフト
+
+（２）ＰＷＲ管理指針の的確な運用
+　ＰＷＲ管理指針では、余寿命が２年以下と評価された場合には取替計画を策定することとなっているが、調査の過程で、「発電用火力設備の技術基準の解釈について」を誤って解釈し、適用していた事例があったため、以下の対策を実施することとした。　　
+　・技術基準の解釈に明記されている別表の許容値を厳正に用いて運用する。　　
+　・当社の管理指針について、「余寿命が５年未満となる時期に点検を行なう。さらに、余寿命が５年未満の場合は取替・溶接補修を立案し余寿命がゼロ年になるまでの間に補修すること、また、補修までの間は、定期検査において毎回点検を継続する」と改正した。また、事前に補修方法や補修用部材を準備しておくなどの運用・管理を適切に実施する。　　
+　・技術基準を運用する者が適切に技術基準を理解できるよう教育を実施する。
+
+（３）労働安全活動に反映すべき対策　　
+　・事故後、運転中のプラントへの立ち入り制限を実施。当面、定期検査前準備作業を不実施。事前準備作業の内容、優先度および重要度を精査。　　
+　・管理区域内外の発災を問わず、被ばく・汚染の有無に関する情報を確実に救急隊ならびに医療機関に連絡するよう、社内標準に反映した。　　
+　・救急通報のルール遵守を周知徹底した。　　
+　・救出活動にあたる際の注意事項について周知徹底した。　　
+　・消防・救急の現地指揮本部と連携強化を図るため、必要な説明が速やかに行える体制とした。　　
+　・作業エリアへの入域システムによる、現場での作業人員の的確な把握を行なう運用とした。　　
+　・発電所内の作業者に対して、プラントの運転状態に応じた危険箇所の周知等を行なうよう、各発電所作業担当箇所に指示し、各発電所は現場作業従事者に周知・説明した。　　
+　・立入制限中の現場には、耐熱服の設置場所、安全通路を表示するとともに主復水・主給水系統の配管については点検状況等を記載した表示札の取り付け。　　
+　・入構時安全衛生教育に災害発生時の避難経路、耐熱服の設置場所などの項目を追加する。
+
+４．事故再発防止対策の保全業務への水平展開
+（１）業務の計画と体制
+　当社の原子力発電所の保全業務は、業務の計画と結果の評価は当社が行ない、現場作業を外注することを基本としてきたが、２次系配管の肉厚管理業務は、業務の計画段階で、当社・メーカ・協力会社の役割分担が不明確であった。この反省から当社の保全業務全般について役割分担をより明確にする。工事の安全上の重要度、必要とされる技術力や法的な位置付け、工事形態などに応じて役割分担を定めて基本計画を策定し、それぞれの工事の種別ごとに類型化しルール化する。
+
+（２）調達管理　　
+　ａ．請負工事に加え委託調査も含めた、当社の役割の明確化　　
+　ｂ．調達要求事項記載内容のさらなる明確化と周知徹底　　
+　ｃ．検収時に確認すべき内容・方法の明確化と周知徹底
+
+（３）情報の共有　　
+　ａ．「点検リストの漏れ」に関する事例の社内標準への反映　　
+　ｂ．「点検リストの漏れ」以外の事例の確実な水平展開の実施　　
+　ｃ．情報管理専任者の設置による水平展開の確実な実施　　
+　ｄ．重要情報がキーパーソンへ直接入るシステムの構築　　
+　ｅ．「点検リストの漏れ」のような事例の国内電力会社間での水平展開の仕組みの改善　　
+　ｆ．電力・メーカ間の保全情報共有化の仕組みづくり　　
+　ｇ．水平展開された知見を協力会社と共有する仕組みの構築　　
+　ｈ．協力会社とのコミュニケーションの充実　　
+　ｉ．現場における作業員とのコミュニケーションの充実
+
+（４）教育の充実　　
+　ａ．美浜３号機二次系配管破損事故による教訓等の事例周知　　
+　ｂ．業務の計画や調達管理に関する教育の充実
+
+（５）監査の強化品質・安全監査室による内部監査および原子力部門による協力会社に対する監査について、より現場に密着した業務プロセスに着目した確認ができるような体制を構築する。
+
+５．事故により影響を受けた設備の措置　　
+　・主蒸気隔離弁駆動用電磁弁を収納しているパネルを防水型のものに変更する。
+　・中央制御室制御盤等、壁床貫通部の隙間のある箇所に適切なシール施工を実施する。
+　・脱気器損傷部修理、発錆部の手入れ等、今後必要な処置を実施し、健全性を確認する。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[二次系配管破損事故について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（「火災報知器動作」警報等発信）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>825</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/09/30 17:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[201]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉緊急停止系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2490</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[復水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[252]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[252]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2490</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12007</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/07/07 16:20:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>48097</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/04/14 21:17:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201403062144]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/07/07 16:20:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２６年３月６日２１時４４分頃、福島第二原子力発電所２号機および３号機の緊急時安全パラメータ表示システム（以下、ＳＰＤＳ）計算機において、緊急時支援対策システム（以下、ＥＲＳＳ）データ伝送異常の警報が発生し、データ受信側である原子力規制庁への当該号機データ伝送が停止となった。
+調査の結果、当社側に設置されているＳＰＤＳ伝送サーバの不具合と特定し、予備サーバに切り替え、再起動操作を実施したところ、３月７日１時２８分に正常に起動し、３月７日１時３６分に原子力規制庁緊急時ネットワーク監視センターへ電話にて報告し、データ伝送が正常に復帰したことを確認した。
+その後原因を調査するため、３月７日１時４８分より伝送を停止し、点検を行ったところ、不具合箇所が当該サーバのＣＰＵであることが判明し、原因は経年劣化により発生したものと推定。当該ＣＰＵの交換を行い予備サーバを復旧した。
+再発防止対策として、今回と同様な事象が発生した場合には、速やかにサーバの切り替えが出来るよう手順を策定・周知し、極力２時間以内に伝送を復旧できる仕組みを整えた。
+
+＜事象発生経緯＞
+　3/6 21:44 福島第二原子力発電所２，３号機のＳＰＤＳ計算機にてエラーメッセージが発報
+　　　22:21 原子力規制庁緊急時ネットワーク監視センターへ電話にて報告
+　　　　～ （伝送停止の応急復旧対応） ～
+　3/7 1:28 ＳＰＤＳ伝送サーバの再起動を行い、正常に起動
+　　　1:36 原子力規制庁緊急時ネットワーク監視センターへ電話にて報告し、伝送状態が正常であることを確認
+　　　1:48 当該号機の点検停止を開始
+       ～ （伝送停止の原因調査） ～
+　3/10 9:00 当該号機の点検停止を終了
+
+なお、原子力規制庁にて今回の事象は停止中プラントの伝送停止が２時間を超過したことから「異常」と判断され、原子力規制庁ホームページへ『緊急時支援対策システム（ＥＲＳＳ）の伝送停止について』が掲載された。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S123]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所　２号機，３号機　緊急時支援対策システム（ＥＲＳＳ）データ伝送停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[2,3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/04/14 21:18:01]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

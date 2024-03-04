@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）事象発生時の調査
+Ｄ／Ｇを起動・運転し動弁注油圧力の状況を確認したところ，圧力の上昇が遅く「動弁注油圧力 低」警報の発報とともに，電動ポンプが自動起動（補足）した。
+なお，動弁注油圧力は必要な圧力を確保されていることを確認した。
+　　　　　　　　　　　　　　　　　　　　
+（補足）
+動弁注油設備は，Ｄ／Ｇの待機中は電動ポンプにより6時間毎に10分間の間欠運転を行いシリンダー給・排気弁に潤滑油を供給し，運転中は機関付動弁注油ポンプ（以下，機付ポンプという）がＤ／Ｇ 機関の軸動力を利用して潤滑油を供給している。
+今回発生した「動弁注油圧力 低」警報は機関運転速度が90％以上で且つ10秒後に，動弁注油圧力が0.0534MPa（リセット値〔実測〕）に達していない場合に発報し，警報発報と同時に電動ポンプがバックアップで自動起動する設計となっている。
+
+（２）他Ｄ／Ｇとの比較
+Ｄ／Ｇ１Ａ と１～４号機の同型Ｄ／Ｇについて，動弁注油圧力の上昇傾向を　データ採取し比較した結果，Ｄ／Ｇ１Ａの動弁注油圧力の上昇が遅いことを確認した。　　　　　　　　　　　　　　　　　　　　　　　　　
+なお，１号機の動弁注油圧力の整定値は，常用値内ではあるものの他号機と比べて低いことから，調査した結果，整定値の差異はポンプ吐出から圧力検出位置までの配管口径が細いことにより，相対的に圧力損失が高く，その分低めに指示しているものと推測した。
+
+
+（３）現場調査
+動弁注油圧力の上昇が遅くなる要因について，要因分析表に基づき調査を行った。
+
+ａ．機付ポンプ
+機関からの動力伝達不良またはポンプ構成部品の劣化などによる機付ポンプの性能低下の有無について以下の確認を行った結果，異常は認められなかった。
+・Ｄ／Ｇのターニング運転にて，機関軸動力がポンプ駆動軸に正常に伝わっていることを確認した。
+・Ｄ／Ｇを運転し，Ｄ／Ｇ起動時に自動起動した電動ポンプを停止することで機付ポンプ単体での動弁注油圧力を確認した結果，通常の定例試験データと同等の圧力であり，異常は認められなかった。
+・ポンプの分解点検を実施した結果，各部品に異常は認められなかった。
+・機付ポンプは予備品（未使用品）に交換し，その後Ｄ／Ｇの確認運転を実施したが，動弁注油圧力の上昇傾向に変化は認められなかった。
+なお，ポンプの交換前後で動弁注油圧力は若干低めを指示したが，交換した機付ポンプは新品であり，また使用に際して異常がないことを確認していることから，ポンプ個体差により若干低くなったものと推測した。
+
+ｂ．配管
+ａ）機付ポンプ直近配管
+　　電動ポンプを単体で運転した場合の動弁注油圧力の上昇が速かったことから，機付ポンプ直近出入口配管の詰まりの有無を以下のとおり確認した結果，異常は認められなかった。
+・出口側配管の目視点検の結果，異物は確認されなかった。
+・吸込側配管内の残油を#200メッシュにて濾した結果，異物は確認されなかった。また，可能な範囲で目視点検を実施したが，異物などは確認されなかった。
+ｂ）吐出配管
+　　シリンダーヘッドカバーを開放し潤滑油の給油状況を確認した結果，全気筒正常に給油されており，プラグの外れや異常注油がなかったことから，背圧が低下し動弁注油圧力の上昇を遅らせる状況は認められなかった。 
+ｃ）吸込配管
+動弁注油タンクからポンプ吸込配管での空気の流入の有無を確認するため，電動ポンプを運転しスモークテスタで状況調査した結果，ポンプ吸込配管での空気の流入はなかったことから，潤滑油がポンプに供給されるまでに時間を要する状況は認められなかった。
+
+ｃ．安全弁（機付ポンプ安全弁）
+機付ポンプの安全弁を経由して機付ポンプより吐出される潤滑油のポンプ吸込側への流入の有無として，以下の確認を行った結果，異常は認められなかった。
+・手押しポンプにより安全弁の機能を確認した結果，異常は認められなかった。
+・なお，念のため安全弁は新品に交換したが，その後のＤ／Ｇ確認運転では圧力上昇の傾向に変化は認められなかった。
+
+ｄ．逆止弁（電動ポンプ，機付ポンプ）
+逆止弁のシートパスの有無について，以下の確認を行った結果，異常は認められなかった。
+・手押しポンプにより各逆止弁のシートパスの有無を確認した結果，圧力は安定して保持できた。
+・機付逆止弁を取り外した際に，触手で弁体の動作が緩慢でないことを確認した。
+・機付ポンプ側の逆止弁を電動ポンプ側の逆止弁と付け替えて電動ポンプによる確認運転を行ったが，圧力上昇に変化は認められなかった。
+・なお，各逆止弁ともに異常はないことを確認したが，念のため新品に交換を実施した。
+　
+ｅ．フィルタ
+ポンプ吸込側及び出口側に設けているフィルタの詰まりの有無について確認した結果，詰まりは認められなかった。
+なお，フィルタ清掃後にＤ／Ｇの確認運転を実施したが，動弁注油圧力の上昇傾向に変化は認められなかった。
+　
+ｆ．潤滑油の性状
+計装配管内で潤滑油の性状（動粘度）劣化の有無として，以下の確認を行った結果，異常は認められなかった。
+・計装配管内および動弁注油タンク内の潤滑油の性状（動粘度）について，新油と比較した結果，いずれも許容値内（新油と比較して±10％以内）であり異常は認められなかった。
+・潤滑油の温度差による圧力上昇の変化について確認を実施したが，電動ポンプ運転によって潤滑油の温度を変えても動弁注油圧力の上昇傾向に変化は確認されなかった。
+
+ｇ．調圧弁
+調圧弁のシートパスの有無として，以下の確認を行った結果，異常は認められなかった。
+なお，調圧弁に問題はないと考えられたものの，念のため新品に交換を実施し，その後電動ポンプ運転による確認を実施したが，圧力上昇傾向に変化は認められなかった。
+また，吐出圧力が調圧弁に影響されるか確認するため，設定値を0.12 MPa の調圧弁と0.15 MPa の調圧弁を入れ替えて比較した結果，動弁注油圧力に変化のないことを確認した。
+
+ｈ．計装元弁
+計装元弁内で異物若しくは計装元弁の弁体脱落により計装配管への圧力伝達不良の有無を確認するため，分解点検を実施した結果，異常は認められなかった。
+
+ｉ．計装品
+ａ）計装品 検出配管（計装ラック内配管含む）
+検出配管（計装ラック内配管含む）の詰まりの確認を行った結果，異常は認められなかった。
+また計装品，検出配管内に空気が混入すると圧力伝搬が緩慢となり，動弁注油圧力低圧力スイッチのリセットが遅くなる可能性があることから，計装ラック内で空気抜きを行い圧力上昇の傾向について確認を行った。また他号機との計器構成の比較を行った結果，以下のことが確認された。
+・計器テスト弁から電動ポンプ起動状態において空気抜きを実施した結果，空気の排出は確認されなかった。
+・計装ラックベント弁から電動ポンプ起動状態において空気抜き操作を実施した結果，空気の排出は確認されなかった。（ベント配管長が長いため空気の排出は確認できなかった。）更に長時間空気抜き操作を実施した後に，電動ポンプを起動し，圧力上昇傾向を確認した結果，圧力の上昇傾向が速まることを確認した。
+・計器近傍入口配管から電動ポンプ起動状態において空気抜きを実施した結果，空気の排出が確認され，電動ポンプを起動し，圧力上昇傾向を確認した結果，圧力の上昇傾向が速まることを確認した。（通常はテスト弁にて空気抜きを実施するが今回は追い込み確認のため通常取り外しを行わない箇所にて空気抜きを実施した。）
+・圧力スイッチは空気にて校正を行っており，至近の校正は平成25年6月25日に実施していることを確認した。
+・他号機との計装ラック内計器構成の比較を設備図書及び現場確認にて行った結果，計装ラック内計器構成が１号機では，ＰＳ（圧力スイッチ）･ＰＩ（圧力指示計）の２台構成に対し，２～４号機ではＰＩＳ（圧力指示スイッチ）１台のみで構成されていることを確認した。
+
+ｂ）圧力スイッチ及びタイマー
+「動弁注油圧力　低」警報を検出する圧力スイッチ及びタイマーの点検を行った結果，異常は認められなかった。
+
+（４）確認運転
+現場調査を実施していく中で段階的に，電動ポンプ運転またはＤ／Ｇを無負荷で運転して動弁注油圧力上昇傾向の変化の有無を確認した。その結果，計装配管の空気抜き（計器テスト弁及び計装ラックベント弁により），ＳＡによるエアブ　ロー，計器（ＰＳ，ＰＩ）近傍入口配管での空気抜き後に電動ポンプの確認運転を実施したところ，徐々に圧力上昇傾向が速まり改善することを確認した。
+また，3月13日，19日，31日に実施したＤ／Ｇ確認運転では「動弁注油圧力　低」警報は発報しなかった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11922</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:44:56]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[計測装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/02/25 19:52:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201402211753]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）動弁注油設備または計装品側の点検作業に伴って，動弁注油圧力を検出する計装配管内に空気が混入する可能性がある場合には，計装配管内の空気抜きを確実に実施する旨，『計器点検ガイド』に反映する。
+（２）計装配管内の空気の残存量を低減するため，２号機以降で採用している計測方式に設備変更する。（圧力スイッチ，圧力指示計→圧力指示スイッチ）
+（３）また，動弁注油圧力の整定値が２～４号機 と同程度となるよう動弁注油ラインの配管構成について検討を行う。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:44:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の１号機において，平成26年2月21日17時53分頃，非常用ディーゼル発電機Ａ号機（以下，Ｄ／Ｇ１Ａ という）の定例試験（手動起動試験）を実施したところ，「動弁注油圧力 低」警報が発報するとともに，Ｄ／Ｇに付属しているバックアップ用の動弁注油電動ポンプ（以下，電動ポンプという）が自動起動した。このため運転員は現場点検を行い，Ｄ／Ｇ１Ａの機関および電動ポンプの運転状態に異常のないこと，油漏れ等が発生していないことを確認した。
+また，翌22日にＤ／Ｇ１Ａの確認運転を行った結果，事象は再現し，動弁注油圧力の上昇が遅いことが確認されたことから，動弁注油設備※１に何らかの不具合があるものと推定した。
+なお事象発生時，１号機は停止中であり，保安規定第61条に定める非常用交流　母線に接続する動作可能なＤ／Ｇは自号機で２台を確保していた。
+※１：動弁注油設備は，Ｄ／Ｇ運転時にシリンダーの給・排気弁の駆動機構の焼き付き防止のために潤滑油を供給する設備。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-M050]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[計装品の点検・校正（空気）に伴って，計装ラック内の構造上，空気を完全に排出できない箇所に空気が残存したため，動弁注油圧力の検出ラインでの圧力伝播が緩慢となり，圧力上昇を遅らせ「動弁注油圧力　低」警報が発報に至ったものと推定された。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　非常用ディーゼル発電機（Ａ）の動弁注油設備の不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報発生時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>51077</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/02/25 19:52:31]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[903]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[計測装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>11922</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11922</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[903]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[703]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[703]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ディーゼル発電機装置]]></KIKI_NAME>
+					<SORT_NO>5</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[空気の残存]]></S_GENIN_NAME>
+			<TROUBLE_ID>11922</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11922</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11922</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11922</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

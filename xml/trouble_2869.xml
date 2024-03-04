@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2869</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/11 19:49:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/03/28 10:08:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503260330]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/11 19:49:37]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所３号機（沸騰水型、定格出力７８万４千キロワット）は、平成１７年３月２５日より調整運転を実施していたが、気体廃棄物処理系の流量が、通常運転時は約２０Ｎｍ＾３／ｈ（＊１）のところ約３６Ｎｍ＾３／ｈまで漸増傾向が続いたことから、３月２６日午後３時３０分頃、発電機の出力上昇を約６６万キロワットにて中断した。これにより気体廃棄物処理系の流量の漸増傾向は見られなくなった。
+　その後、調査を行ったが、不具合箇所の特定には至らなかったことから、３月２７日午後４時頃より発電機出力を低下させ、詳細な調査を行った。
+　
+　発電機出力を約１６万キロワットまで降下させ、復水器等への空気の流入の有無について調べたところ、異常は認められなかった。
+　その後、運転操作の状況について調査を行った結果、３月２５日の発電開始以降、復水器内の真空度調整（＊２）を積極的に実施していなかったことが確認された。このため、復水器内に通常より多い非凝縮性のガス（＊３）が滞留し、復水器内から排出される非凝縮性のガスが流れ込む気体廃棄物処理系の流量が増加したものと推定されたことから、３月３０日に復水器内の真空度調整を行いながら発電機出力を約３７万キロワットまで上昇させ気体廃棄物処理系の流量の確認を行ったところ、通常運転時の変動範囲で安定していることを確認した。
+　引き続き、復水器内の真空度調整を継続して発電機出力を定格出力まで上昇させ（４月３日定格出力到達）気体廃棄物処理系の流量を確認した結果、通常運転時の変動範囲で安定していることが確認された。
+　
+　以上の結果から、気体廃棄物処理系の流量が増加した原因は、発電開始以降、復水器内の真空度調整を積極的に実施していなかったために復水器内に通常より多く滞留した非凝縮性のガスが気体廃棄物処理系に流れ込み、流量が増加したものと推定された。
+　
+　対策として、発電機出力を上昇させる際には、復水器内の真空度に加え気体廃棄物処理系の流量を適切に把握しながら、非凝縮性のガスの影響により気体廃棄物処理系の流量が増加する前に復水器内の真空度調整を実施するよう運転員に周知し、手順書に反映することとした。
+
+　なお、これによる外部への放射能の影響はなかった。
+
+＊１　Ｎ（ノルマル）ｍ＾３／ｈ
+　気体は温度と圧力により体積が変わることから、状態を比較しやすくするために０℃の大気圧条件で換算した流量。
+＊２　復水器内の真空度調整
+　復水器内の真空度は、復水器から排出する非凝縮性のガス量を空気抽出器入口弁の開度を調整することにより、適切に維持している。
+＊３　非凝縮性のガス
+　原子炉から発生した蒸気に含まれる酸素、水素等の気体や微量な放射性希ガス。復水器内の非凝縮性のガスは、復水器内の真空度維持のため、気体廃棄物処理系に抽出し処理している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S134]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[調整運転中における気体廃棄物処理系の流量増加について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/28 10:25:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

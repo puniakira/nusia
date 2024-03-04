@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査
+　　　分解前の充てんポンプ３Ｃの外観点検を行うとともに、損傷状況を確認した。
+（１）外観点検等の調査
+ポンプ主軸が軸端部から２枚目の羽根車（第７段）のスプリットリング溝部軸端側で折損していた。
+また、継手側の封水部のメカニカルシールに割れ、軸受部の油切り付近の変色、油切りのフィンの変形が認められたほか、主軸ジャーナル部等に摺動傷が認められた。
+電動機、増速機およびその他の部位には、重大な変形、損傷は認められなかった。
+（２）浸透探傷検査
+主軸折損箇所がスプリットリング溝部であったことから、折損部（第７段）以外のスプリットリング溝部の損傷状況を確認するため、全てのスプリットリング溝部の浸透探傷検査を実施した結果、有意な指示は認められなかった。
+
+２．詳細調査
+　　　状況調査の結果、主軸継手側の封水部および軸受部等に損傷が認められたが、これらの損傷は主軸が折損し、軸継手方向に移動したことに起因すると考えられる。
+このことから、事象の発生原因である主軸折損の詳細調査を要因分析図に従い実施した。
+（１）破面等調査
+主軸折損部の破断状況を把握するため、破面観察等による詳細調査を行った結果、以下のことを確認した。
+　　ａ．破断部
+・破断部は、軸方向に対してほぼ垂直、破面は全体にほぼ平坦であり、また、破面上にき裂の起点になったと考えられる部分が２箇所（き裂Ａおよびき裂Ｂ）あり、その近傍には疲労破壊に特有のビーチマークが認められた。
+・最終破断部と推定される延性破壊した部分がき裂Ａから約180°の位置に１
+箇所認められた。
+・起点部および最終破断部を除く破面では、粒界および粒内割れが混在した破面が認められた。
+　　ｂ．起点部
+・２箇所の起点部において、材料欠陥、顕著な機械加工傷等は認められなかった。
+・起点部にはストライエーションは認められず、低応力高サイクル疲労破壊に
+特徴的な粒内割れが認められた。
+　　ｃ．その他
+・硬度および化学成分については、異常は認められなかった。
+以上の調査結果から、当該ポンプ主軸に発生したき裂には、平坦な破面、粒内割れおよびビーチマーク等が観察され、また、変動応力が比較的大きい場合に観察されるストライエーションが認められなかったことから、低応力高サイクル疲労によるものであることが分かった。
+（２）材料・製作・施工調査
+　　　　材料、製作および施工が問題なく行われていたかどうか確認した。
+　　ａ．材料の評価
+材料証明書を確認した結果、化学成分、機械的性質、熱処理および硬さが規定値内であった。
+　　ｂ．製作不良の評価
+製作時の試験・検査記録を確認した結果、主軸・羽根車の寸法等の検査結果は規定値内であり、異常は認められなかった。
+　　ｃ．施工不良の評価
+　据付時の工事記録および試運転記録を確認した結果、各部振動、温度等は規定値内であり、異常は認められなかった。
+（３）疲労発生の調査
+折損部の形状、接触痕の有無、運転に係る履歴等を調査し、疲労の要因となるような変動応力発生の有無を確認した。
+　　ａ．応力集中
+　第７段スプリットリング溝部の型取測定を実施した結果、継手側（折損部の反対側）溝部コーナの曲率半径が設計値0.8mmに対し、Ｒ止まりでは0.3～0.6mm程度であった。これは、工場での製作段階において、スプリットリング溝加工用バイトの刃先形状が連続加工により変化したためと考えられる。
+　このことから、折損部においても同様に曲率半径が小さくなっていたものと推定され、当該部の応力集中係数が大きくなっていた可能性がある。
+　　ｂ．過大応力
+　第７段スプリットリングの詳細調査の結果、当該リングの軸端側の面に接触痕が認められた。このことから、第７段スプリットリングと主軸の接触による溝部への応力発生の可能性がある。
+　　ｃ．流体振動
+運転記録を確認した結果、各種パラメータに問題は認められなかったが、定期検査中に体積制御タンクの大気開放状態で、充てんポンプの運転が行われていた。
+　　ｄ．機械振動
+　定期検査記録等を確認した結果、運転時の振動は規定値内にあり、静止部と回転部との接触および内部の異物による振動の増加はなく、異常は認められなかった。
+　　ｅ．フレッティング
+　スプリットリング溝部表面には光沢等すべりの痕は認められなかった。
+（４）腐食の評価
+材料証明書を確認した結果、SUS403相当材であった。
+また、運転記録を確認した結果、運転温度は45℃程度であり、応力腐食割れの可能性はない。
+（５）温度・圧力異常の評価
+運転記録および定期検査記録を確認した結果、運転温度・圧力とも設計条件内で運転しており、異常は認められなかった。
+（６）保守不良の評価
+定期検査記録を確認した結果、分解・組立状況に異常は認められず、また、試運転時の振動は規定値内にあり、保守上の異常は認められなかった。
+
+３．損傷要因の推定
+　主軸折損の詳細調査結果から、低応力高サイクル疲労が発生要因と考えられることから、応力の発生要因について検討した結果、（１）破断した第７段スプリットリング溝部コーナの曲率半径が小さいことによる応力集中、（２）第７段スプリットリングと主軸の接触による溝部への応力の発生、（３）定期検査中の体積制御タンク大気開放により発生した気泡のポンプへの流入に起因する機械振動の発生が考えられる。
+以上、抽出された応力の発生因子について低応力高サイクル疲労き裂の発生および進展に対する評価等を以下のとおり実施した。
+（１）き裂の発生評価
+　上述のとおり、曲率半径が小さいこと、主軸との接触、機械振動の発生が考えられたので、以下のとおり検討した。
+　　ａ．応力集中係数
+　スプリットリング溝部コーナの曲率半径が型取測定結果から、設計値より小さかったことから、最小曲率半径を0.3mmとして３次元ＦＥＭ解析により応力集中係数を算出した。
+　その結果、応力集中係数は、引張応力3.84，曲げ応力3.59，ねじり応力3.52であり、曲率半径0.8mmの場合に比べて1.25～1.76倍であった。
+　　ｂ．スプリットリングと主軸の接触による発生応力
+　第７段スプリットリングの軸端側の面に接触痕があることから、当該スプリットリングを介して溝部に荷重が作用していたものと考えられる。
+　評価にあたっては、スプリットリング溝部に作用する荷重の最大値が羽根車焼嵌グリップ力相当と想定し、発生応力を評価した結果、第７段スプリットリング溝部の発生応力は128N/mm2であった。
+　　ｃ．定期検査時の体積制御タンク大気開放時の発生応力
+運転記録の調査の結果、通常運転と異なる運転をしていたのは定期検査時の体積制御タンクの大気開放状態であることが確認されており、ミニマムフローラインの流量制限オリフィス下流で発生した気泡が充てんポンプに流れ込み、第１段羽根車で流体力のアンバランスによる機械的な振動が発生する可能性がある。調査の結果、特に第７段スプリットリング部では大きな応力となることが判明し、このときの振動による発生応力を評価した結果、第７段スプリットリング溝部での発生応力は238N/mm2であった。
+　　ｄ．発生応力および疲労強度評価
+通常のポンプの運転により発生する流体力、自重、ねじり力等による応力に加え、上記ａ、ｂ、ｃを考慮し、各段のスプリットリング溝部の発生応力を評価した。
+評価の結果、第７段スプリットリング溝部の平均応力は185N/mm2、変動応力は279N/mm2となり、設計値を上回る過大な応力が発生する可能性があることから、体積制御タンク大気開放時の充てんポンプ運転時に、溝部表面に応力が集中し、き裂が発生する可能性があることが確認された。
+なお、その他の段のスプリットリング溝部の発生応力ではき裂は生じないことが判明した。
+（２）き裂の進展評価
+　定期検査中の体積制御タンクの大気開放中に発生する応力等によりき裂が発生したものと推定され、次にき裂の進展と破断に至る過程について評価した。
+　　ａ．定期検査中の発生応力による進展
+３．（１）ｄ．にて算定した応力が、定期検査中における体積制御タンク大気開放時の充てんポンプ運転に伴いスプリットリング溝部に加わると、主軸の疲労限度を上回ることから、き裂が最終ビーチマークの深さである7.6mmまで進展したものと考えられる。
+　　ｂ．通常運転中の発生応力による進展
+き裂深さが7.6mmに達すると、「き裂深さ」と「疲労き裂進展限界変動応力」の関係からスプリットリング溝部に10N/mm2以上の変動応力が加わるとき裂が進展する。
+一方、充てんポンプの通常運転によりスプリットリング溝部に発生する変動応力は10N/mm2であることから、き裂が7.6mmとなった時点からは、通常運転中の応力によってもき裂が進展するものと推定された。
+（３）まとめ
+損傷要因の推定結果から、損傷が発生した第７段スプリットリング溝部コーナで、定期検査中の体積制御タンク大気開放運転中に発生する応力等によりき裂が発生し、定期検査毎の応力で徐々に進展し、第７回定期検査終了時点で主軸表面より7.6mmの深さまで進展したものと推定された。
+さらに、第７回定期検査後の通常運転中に主軸に発生する応力によって、き裂が進展し主軸折損に至ったものと推定された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2308</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/05/28 09:06:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2879</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/03/10 17:48:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200403150930]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）折損した充てんポンプ３Ｃの主軸は予備品と取り替えた。
+（２）充てんポンプの運転については、必ず体積制御タンクを加圧した状態で運転することとする。
+（３）充てんポンプ３Ａ，３Ｂについては、電流、振動等の運転監視強化を継続する。なお、念のため、主軸の改良を検討のうえ、次回定期検査終了までに取り替える。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/05/28 09:06:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１．事象発生の状況
+
+伊方発電所第３号機（定格電気出力８９０ＭＷ）は、定格熱出力一定運転中（電気出力９２９ＭＷ）のところ、平成１６年３月９日９時５７分頃、１次冷却材ポンプへの封水注入系統の流量低下を示す信号が発信した。このとき、充てんポンプ３Ｃを点検中の保修員が、当該ポンプの封水部から１次冷却水が漏えいしていることを確認したため、直ちに充てんポンプ３Ｂ（予備ポンプ）を起動し、当該ポンプを停止した。
+その後、３月１１日より充てんポンプ３Ｃを点検した結果、３月１５日９時３０分、ポンプ主軸が軸端部から２枚目の羽根車（第７段）のスプリットリング溝部で折損していることを確認した。
+また、補助建屋排気筒ガスモニタの指示値が一時的に上昇したが、発電所周辺に設置しているモニタリングポストには有意な変動はなく、本事象による外部への放射能の影響はなかった。
+ 
+２．時系列
+　　　３月９日
+　　　　　９時５７分頃　「ＲＣＰ封水注入流量低」警報発信
+充てんポンプ３Ｃ室でポンプの振動状況を点検していた保修員が封水部からの漏えいを確認し中央制御室へ連絡
+　　　１０時００分　　充てんポンプ３Ｂ起動
+　　　　　　　　　　　　「ＲＣＰ封水注入流量低」警報復帰
+　　　　１０時０１分　　充てんポンプ３Ｃ停止
+　　　　１０時１２分　　充てんポンプ３Ｃ隔離開始
+　　　　１０時１４分　　補助建屋排気筒ガスモニタ（３Ｒ－１４，３Ｒ－２８）指示値上昇確認
+　　　　１０時２１分　　充てんポンプ３Ｃ隔離完了
+　　　　１０時４０分　　漏えい停止
+　　　　　　　　　　　　補助建屋排気筒ガスモニタ（３Ｒ－１４，３Ｒ－２８）指示値復帰確認
+　　　３月１５日　
+　　　　　９時３０分　　充てんポンプ３Ｃ主軸の折損を確認
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-四国-T009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　工場製作段階において、第７段スプリットリング溝部の加工時に、加工用バイトの刃先形状が連続加工により変化したため、溝部コーナのＲ止まりの曲率半径が小さく、応力集中係数が大きい状態で製作されるとともに、羽根車焼嵌に伴うスプリットリングと主軸の接触により、当該溝部に応力が発生したと推定される。
+　これに加えて、定期検査時に体積制御タンクを大気開放にした状態で充てんポンプの運転を行ったため、ミニマムフローラインのオリフィス部で気泡が発生し、この気泡の流れ込みで生じた振動により当該溝部に応力が発生したと推定される。
+折損部における初期き裂は、第７段スプリットリング溝部において発生したこれらの応力が疲労限度を超えたため、発生したと推定される。
+　その後の定期検査において同様のメカニズムによりき裂が進展し、第７回定期検査終了時点では、通常運転中の変動応力でもき裂が進展する深さに達したため、通常運転中にき裂が進展し主軸が折損したと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[充てんポンプ３Ｃ主軸の損傷について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（確認）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>929</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/04/09 17:07:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[軸（タービンロータ含む回転体の軸）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2308</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動ポンプ本体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[化学体積制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[209]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2308</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

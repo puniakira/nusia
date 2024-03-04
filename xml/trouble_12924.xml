@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<TROUBLE_ID>12924</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/05/23 08:35:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>82585</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/02/07 11:50:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201902051508]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/05/23 08:35:07]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+　２０１９年２月５日１５時０８分、焼却炉建家※１（管理区域内）のハロン消火設備※２（以下、「焼却炉建家ハロン消火設備」）が動作した。現場を確認したところ火災の発生はなく、ハロン消火設備の動作による負傷者の発生もなかった。焼却炉建家ハロン消火設備が動作した原因は、作業員が雑固体処理建屋※３のハロン消火設備（以下、「雑固体処理建屋ハロン消火設備」）の点検中に誤って焼却炉建家ハロン消火設備を動作させる模擬信号※４を入力したことによるものであった。なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１ 焼却炉建家
+　管理区域内の作業で発生した紙ウエス、布きれ等可燃性の低レベル放射性廃棄物を焼却減容する設備がある建家。
+　
+※２ ハロン消火設備
+　火災を感知した際に自動または手動にて、対象区画にハロン１３０１※５を放出して消火する設備。燃焼反応を化学的に抑制（火災の熱により分解し、燃焼の連鎖反応を中断）することで、５％程度の低濃度で迅速確実に消火でき、消火後の汚損も少ない。動作した場合でもガス濃度は５％程度であり、人体への影響はなく、また、酸欠にもならない。
+
+※３ 雑固体処理建屋
+　不燃性の低レベル放射性固体廃棄物（配管・ケーブル等）を圧縮減容するための油圧プレス機である高圧圧縮装置を設置している建屋。
+
+※４ 模擬信号
+　火災感知器を模擬動作させるため、受信機※6 の操作画面上で対象の火災感知器のアドレス番号を入力する信号。
+
+※５ ハロン１３０１
+　消火剤として用いられるハロンガスで、常温大気圧下では無色無臭で毒性が少ない安定した気体。
+
+※６ 受信機
+　火災感知器の動作信号を受信し、警報の発信及び火災発生時の連動機器を動作させるための信号を発信する設備。
+
+○原 因
+（１）模擬信号入力作業
+　ａ．アドレス番号
+　点検する受信機が変わって、最初の模擬信号の入力であったことと、移動する前段の作業におけるアドレス番号が、「１」から始まる番号であったことから、「３」から始まるアドレス番号を入力すべきところ、アドレス番号は「１」から始まるものと思い込んだものである。
+また、作業要領書の「アドレス番号入力用リスト」には、「ノード」※８＋「系統」＋「ＡＤ（機器番号）」がアドレス欄に記載されている。模擬信号として入力するアドレス番号は、このリストから「系統」＋「ＡＤ（機器番号）」の欄に記載されている数字を読み取り、入力するものであり、模擬信号の入力には使用しない「ノード」欄に「１」が記載されていたことから、作業責任者の思い込みを助長したことが考えられる。
+
+※８ ノード
+　火災感知器の追加等により、接続する設備を増やした場合に使用する設計情報
+
+ｂ．入力作業体制
+　作業責任者は焼却炉制御室に移動して最初の作業であることから、作業員に対して入力方法の説明が必要と考えて、作業員に説明を行いながら１人で実施した。なお、２つ目以降の模擬信号入力は、予定通り作業員がアドレス番号を読み上げ、作業責任者が入力する手順に戻すことを考えていた。また、作業要領書には、模擬信号入力の具体的な手順は定められておらず、ダブルチェックを行う手順とはなっていなかった。
+
+（２）作業要領書
+　組合せ試験時に入力する模擬信号のアドレス番号が決められてなかったことから、作業要領書の記載が不十分であったことが考えられる。また、過去の点検において当該作業要領書を使用して問題なく作業が終了していたことから、作業要領書への問題意識は無かったものと推測される。
+
+（３）設備
+　設計上の要求から、焼却炉建家受信機は、２つの消火設備の起動回路が収納された兼用設備となっており、焼却炉建家あるいは雑固体処理建屋の感知器の動作信号により対応する消火設備に動作信号を送る。そのため、感知器のアドレス番号を焼却炉建家受信機に模擬入力する時に誤入力があれば、意図しない側の消火設備が動作する場合がある。
+
+○対策
+（１）本作業における模擬信号入力時の思い込みを防止するため、あらかじめ指定したアドレス番号を記載し、且つ、入力時にアドレス番号毎にチェックできる記録様式に変更するとともに、入力作業時のダブルチェックの実施などの手順や注意事項を追加した作業要領書に改定した。
+また、焼却炉建家受信機での組合せ試験では、誤入力があれば意図しない側の消火設備が動作する場合があるため、影響が考えられる２つの建物に火災感知のための監視人を配置した上で、消火設備を隔離してから作業を開始する作業要領書に改定した。
+
+（２） 本事象について、伊方発電所員に周知するとともに、模擬信号の誤信号入力によって、対象外の消火設備が動作することが考えられることについて、ワンポイントレッスンを作成し、作業要領書読み合わせや作業前ミーティングで注意喚起する旨を関係者に周知した。
+
+（３） 今回の事象の水平展開として、模擬信号により機器の動作を確認する作業を調査し、模擬信号の入力時にヒューマンエラーを防止する対策が盛り込まれた作業要領書になっているかを確認する。対策の追加が必要な場合は、作業要領書の改定等必要な対策を行う。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所焼却炉建家 ハロン消火設備の作動について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/02/07 11:50:36]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

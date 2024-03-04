@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12814</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/07/23 14:30:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2018/06/08 16:51:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201806041332]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/07/23 14:30:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の概要
+　平成３０年６月４日、電解鉄イオン（以下、ＦＥＩ）電解槽のドレンライン配管接続部（フランジ）から海水約５４００リットルが周辺の床に漏えいしていることを協力企業作業員が発見した。１３時３２分中操で連絡を受け、直ちに同装置の運転停止並びに隔離操作を行い、１３時４８分に漏えいは停止した。
+漏えいが確認された配管接続部はＦＥＩ電解槽の電極交換作業に伴い、開放・復旧された範囲であり、事象発生同日の午前中に実施した漏えい検査では異常は確認されなかったが、その後の調査で１２時３７分に漏えいが発生したことを現場監視カメラの映像記録により確認した。
+
+２．当該漏えいフランジの状況
+　漏えいが確認されたフランジを確認した結果、４本中３本の接続ボルトが緩んでおり、ガスケット（ゴム製）が下側にはみ出している状況であった。
+
+３．原因調査結果
+　確認された当該漏えいフランジの状況から、復旧時の締付けに問題があると考えられるため、施工時の状況について聞き取り調査を実施した。
+その結果、平成３０年５月２９日に施工した際、当該漏えいフランジ接続ボルトを締付けた後、一旦緩めて再締付けを実施しなかったため、最終的に接続ボルトが緩んだままの状態でインサービスしたことが原因で漏えいに至った事象であることが確認された。
+
+以下に本状況に至った要因を整理した。
+
+（１）接続ボルトを緩めた要因
+　当該漏えいフランジを含むドレンラインを復旧する際、仮組み※をせずに１箇所ずつフランジの締付けを行った結果、エルボ継手のフランジ部に芯ずれが発生し、接続ボルトがボルト穴に入らない状況に陥った。
+このため、エルボ継手の下流側に位置する当該漏えいフランジの接続ボルトを一旦緩めて位置調整を行い、エルボ継手のフランジ部２箇所の締付けを完了した。
+
+※仮組み…複数の接続部を有するラインのフランジを復旧する場合に、芯ずれしないよう復旧するため、接続ボルトを手締め状態で接続すること。
+なお、施工要領書内の配管取付要領には、ボルトのかじり、配管の向きや片締め等の注意事項の記載はあるが、配管を取付ける場合の具体的な手順は記載されていなかった。
+
+（２）再締付けを失念した要因
+　上記（１）まで終了した段階で午前中の作業を終了し、休憩後午後からも継続して同ライン上のフランジ締付け作業を実施した。当該漏えいフランジ部は外観上接続ボルトが締め付けられているようであったため、作業員の誰かが再締付けを実施したものと思い込み、改めて締付け状態を確認しなかった。
+また、当該漏えいフランジ部は締付け完了後に計測記録の採取を行っているが、接続ボルトを緩めた情報までは記録されなかった。このため、記録上では締付けが完了しており、記録を採り直したかについて思いが至らず、再確認することもなかった。
+
+（３）最終確認時に接続ボルトの緩みに気付かなかった要因
+　施工要領書のフローチャートに基づき各接続部の最終確認を実施しているが、最終確認の方法が明確でなかったため、上記（２）の締付記録で確認してしまったことから、当該漏えいフランジ部の接続ボルトが緩んでいることに気付かなかった。
+
+以上の要因から、以下の問題点を抽出した。
+　① 施工要領書に配管復旧時の具体的な手順の記載がなかった。
+　② 手順に手戻り（締付け後の緩め）が発生した場合の方法が明確でなかった。
+　③ 配管復旧作業を中断した場合の再開手順が明確でなかった。
+　④ 最終確認方法が明確になっていなかった。
+
+４．対策
+　① 配管取付け作業は仮組み状態で配管取付けを行い、芯ずれがないことを確認してから締付けを実施する
+　　 手順とする。
+　　※当該設備のベントライン側の復旧は本手順で行っていたため、芯ずれは発生していない。
+　② 締付けた接続ボルトを緩める事象が発生した場合には、配管復旧したライン全てを一旦緩めた後、
+　　 再度①の手順で配管取付作業を実施するとともに新たに締付け記録を採取する。
+　③ 配管復旧作業は作業中断することなく行うことを基本とするが、作業中断後に再開する場合は、中断前の
+　　 作業内容を再確認してから作業開始する。
+　④ 面間最終確認は作業班長と工事担当者が以下の内容をピアチェックする。
+　　・最終確認方法は記録確認とせず、現物確認とし、緩み確認、面間寸法計測、アイマークの実施及び、照合
+　　　シールの張付けを実施する。
+　　・締付記録時の計測ポイントは事前に定点ポイントをマーキングする。
+
+　上記内容を全て施工要領書へ記載する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所６号機　電解鉄イオン供給装置からの海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/06/08 16:52:15]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

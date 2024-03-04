@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[事象発生時の状況を踏まえて，以下の通り原因調査を行った。
+１．分解点検
+動作不良が発生した弁に対して，以下の点検調査を実施した。
+a．開閉（再現性）確認
+現場にて再現性確認のため動作不良直後に弁開閉操作を実施した。開閉確認では弁の動作は良好であり，動作遅れの再現性はなかった。
+
+b．弁本体，弁駆動部点検
+動作不良弁の弁本体及び弁駆動部の点検を実施した。その結果，各部に動作不良となる傷，変形，異物噛み込みの痕跡等の異常は見当たらなかった。
+
+c．電磁弁点検
+　動作不良弁の付属電磁弁について，工場に持ち帰り分解点検・調査を実施した。その結果，電磁弁内部のコア部から微量な油脂類の付着が確認された。
+付着物について，成分分析調査を行ったところ，主成分は耐熱性に優れたシリコーンオイルであったが，副成分として粘着性油脂（カルボン酸）の含有が確認された。
+また，継手部で使用していた液状パッキン（以下，タイトシール）の固形化が確認され，電磁弁内部にも同様の固形物が確認された。
+
+　以上の点検調査より，電磁弁コア部に付着した粘着性油脂類及び電磁弁内部で確認されたタイトシールによる悪影響を動作遅れの原因と考え，原因調査及び原因特定試験を実施した。
+
+２．机上調査及び原因特定試験
+
+【机上調査】
+ａ．使用された油脂類
+実機でグリス等が使用されている部位は
+・弁駆動部（摺動部の焼付き防止及びシール部のシール性向上のため）
+　ペーストスプレー及びＨＩＶＡＣ－Ｇを使用
+・弁駆動部・電磁弁－管の接続部【ねじ込み継手部】（シール性向上のため）
+　タイトシールを使用
+・電磁弁内部（シール性向上のため）
+　ＤＣ550及びナイオゲルを使用
+
+ｂ．油脂類の酸化劣化
+　油脂類については，酸化劣化により粘着性（ゲル化）を持つことが一般的に知られており，熱的影響により更に劣化は加速される。また，電磁弁コア部については，プラント長期停止中は常時励磁されるため熱的影響を受け易いと言える。また，実機で使用された製品のうち弁駆動部で使用されるHIVAC-Gは使用温度が200℃まで，電磁弁内部で使用されるDC550・ナイオゲルは使用温度が約250℃までと耐熱性に優れた製品である。一方で弁駆動部で使用されるペーストスプレーは使用温度が130℃までであった。
+
+ｃ．電磁弁コア部への油脂類の流入
+　AO弁は開閉時に動作用空気が電磁弁内部を通過することにより，弁駆動部に使用されている鉱油，シリコン成分が電磁弁内へ混入することが想定される。
+
+【原因特定試験】
+ａ．グリス特性確認（劣化）試験
+　実機の各部位で使用される同仕様の油脂類を酸化劣化させ劣化前後の成分分析を行った。分析結果より，ペーストスプレーについては動作不良弁の内部で確認された粘着性油脂（カルボン酸）及びグリス固化が発生していることが確認された。なお，継手部に使用するタイトシールについては，劣化前の成分分析により，主成分がカルボン酸であることが確認されたため，劣化試験は実施していない。
+
+ｂ．コア離脱試験
+　グリスを酸化劣化させた後に，コア部にグリスを強制的に付着させ，荷重(約1kgf程度あれば固着発生の可能性有り)及び動作時間（通常は20ms程度で動作）を測定した。
+全てのグリスでコア離脱荷重及び動作時間が増加したが，動作不良を発生させる程の有意な変化はなかった。
+
+ｃ．実機グリス持ち帰り試験
+　弁動作不良が発生した実機のシリンダで使用されていたグリスを用いて，上記a.b.と同様の試験を行った。
+・成分分析の結果，カルボン酸系化合物の発生が確認された。
+・動作時間測定の結果，140℃/168hの供試体で最大400ms以上の動作時間を確認した。(通常20ms程度)
+・固着力測定の結果， 140℃/168hの供試体で930gfの固着力発生を確認した。(約1kgf程度あれば固着発生の可能性有り)
+
+ｄ．異物混入試験
+　実機電磁弁の分解調査にて内部から異物（1ｍｍ～2ｍｍ）が認められたため，供試体の内部に異物（電磁弁内部の流路閉塞を想定した任意の異物としてシールテープ片）を配置し，供試体を作動させることで動作への影響があるか確認した。繰返し作動を行ったところ，電磁弁の閉動作時間が増加した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11993</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2017/11/23 13:23:23]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>69893</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/10/08 13:08:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090316]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　原因特定試験のうち，実機グリス持ち帰り試験及び異物混入試験にて動作不良は再現されたものの，意図的に劣化させたグリスによる試験では動作不良を再現することはできず，これ以上の原因特定はできなかった。このことから，対策検討においては，上記２通りの推定メカニズムの両方の可能性を排除せず，【劣化グリス（カルボン酸）の排除】及び【電磁弁内部流路閉塞の防止】について検討した。
+
+【劣化グリス（カルボン酸）の排除検討】
+ａ．弁シリンダ部
+　弁シリンダ部に使われる従来品グリスの酸化劣化試験を行ったところ，実運転の想定温度にてカルボン酸の発生が確認されたため，可能な限り耐熱性の優れたグリスを選定することとし，代替グリスとしてPMS-Mを使用する。（基油：ジフェニルエーテル，使用温度範囲：-40～200℃）なお，その他代替品を今後適用する場合は，劣化がなくカルボン酸が発生しないことを試験等で確認した上で適用することとする。
+
+b．継手部
+　継手部に使用されるタイトシールは主成分がカルボン酸であること及び固形化し異物となる可能性があることが判明したため，継手部のシール材はシールテープを使用する。
+
+【流路閉塞の防止検討】
+
+油脂類捕捉用のフィルタ設置
+　弁駆動部から排出される油脂類を電磁弁に侵入しない様，弁駆動部と電磁弁の間にフィルタを設置する。
+なお，フィルタには方向性があり給排気双方向では使用できないことから，逆止弁を設け弁駆動部排気のみフィルタを通るように流路を切替える。また，当該フィルタは電磁弁計画交換周期に合わせて交換していく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/11/23 13:23:23]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２１年３月１６日定期検査中の5号機において，不活性ガス系※１（以下，「AC系」）空気駆動弁（T31-F002，F003）※２を中央制御室より弁閉操作した際，操作から弁動作までの時間が計画値20秒であるところ，F002が操作後約50分後，F003は操作後約20分後に遅れて全閉する動作遅れが発生した。
+事象の再現性を確認するために全開全閉操作を行ったところ，事象は再現せず動作は良好であった。
+また，平成２２年１０月１日には同系統弁T31-F022においても，閉操作から約5分を経過してから全閉する事象が確認された。
+
+※１　不活性ガス系：運転中の原子炉格納容器内の空気を窒素ガスで置換することで，酸素濃度を一定値以下に保つ系統。今回動作遅れが発生した弁は，運転中は閉運用されているが，定期検査に伴って開運用されていた。
+※２　空気駆動弁：弁開閉の駆動動力として圧縮空気を用いる弁。今回動作遅れが発生した弁は，附属電磁弁が励磁状態にある間は，圧縮空気がシリンダーへ継続的に供給されることで開状態が維持され，電磁弁を非励磁にすることにより圧縮空気がシリンダーより排出されて弁は閉状態となる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-M040]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の結果より，事象の発生メカニズムを以下のように推定した。
+１．劣化グリスによる電磁弁コア固着
+　弁駆動部で使用されるグリス及び継手部で使用する液状パッキンが酸化劣化し，作動用空気の吸排気を繰り返すことで劣化グリスが電磁弁コアまで到達・滞留する。更に電磁弁の長期間励磁にてコア部が熱せられることでカルボン酸が発生し，これによりコアが固着する。
+２．固形物による電磁弁内部流路閉塞
+継手部で使用される液状パッキンの固形化やグリスの固形物などが異物として電磁弁内部の流路を塞ぐことで，動作不良が発生する。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所５号機　不活性ガス系バタフライ弁の弁動作遅れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/10/10 09:47:14]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+			<TROUBLE_ID>11993</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コア部]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11993</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電磁弁]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[格納容器調気系（不活性ガス系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[147]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[147]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11993</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2070]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>8</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[熱,放射線による劣化、熱劣化、樹脂の劣化、材料劣化、課電劣化、ゴムの劣化、性能劣化]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2070]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11993</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11993</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11993</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

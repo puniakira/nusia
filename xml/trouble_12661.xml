@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．粒状樹脂の流入源の特定
+　建屋内排水系への粒状樹脂の流入源を特定するため，堆積物を確認した排水枡が繋がっている「廃棄物減容処理装置床ドレン系，薬液ドレン系ライザー線図」を確認した結果，流入源は，①洗浄ドレン受タンク，②除染シンク，③排水枡の3 箇所に限定できた。運転操作や点検作業による排水実績を調査した結果，堆積物の主成分である粒状樹脂の建屋内排水系への流入源は，①洗浄ドレン受タンクであり，2017年4月6日の洗浄操作により洗浄ドレン受タンクから粒状樹脂を排水したと特定した。
+
+２．要因分析図に基づく調査 
+　2017年4月6日の洗浄ドレン受タンクの洗浄操作により，建屋内排水系配管内に粒状樹脂が堆積した原因を特定するため，要因分析図を作成し調査を実施した。この結果，建屋内排水系配管内での樹脂堆積に繋がる要因として，「運転操作に係る要因」及び「設備に係る要因」を抽出した。
+
+（１）運転操作に係る要因
+ア　2017年4月6日の運転操作にて，乾燥機給液タンク（B）から洗浄ドレン受タンクに樹脂濃度が高い洗浄廃液（樹脂濃度 約7.2wt%）を排水し，その後，本来，給液系の希釈運転後の洗浄廃液（樹脂濃度 約1.36wt%）に対して実施するべき洗浄ドレン受タンクの洗浄操作を実施した。この操作により，樹脂を多く含んだ残水（樹脂濃度 約2.6wt%）を建屋内排水系へ排水したこと。
+
+イ　洗浄ドレン受タンク洗浄操作の運転操作手順書に適用できる前提条件の記載がなかったことから，適用すべきでない状態においても当該手順を適用する可能性があったこと。
+
+（２）設備に係る要因
+洗浄ドレン受タンクの洗浄操作は，給液系の希釈運転後の洗浄廃液（樹脂濃度約1.36wt%）に対して実施することを想定して設計している。しかし，給液系の希釈運転後の洗浄廃液に対して実施する洗浄ドレン受タンクの洗浄操作時に建屋内排水系へ排水される残水の樹脂濃度（約0.42wt%）は，液体廃棄物処理系の排水基準値よりも高く，建屋内排水系へ排水する廃液としては適切ではないこと。
+そのため，2017年4月6日に実施した樹脂濃度が高い洗浄廃液（樹脂濃度 約7.2wt%）に対する洗浄ドレン受タンクの洗浄操作時に，適切に樹脂が粉末樹脂受入槽へ移送されず，洗浄ドレン受タンク内の残水に多くの樹脂が含まれた状態（樹脂濃度 約2.6wt%）で建屋内排水系へ排水されたため，建屋内排水系配管内に粒状樹脂が堆積した。
+
+３．運転操作における問題点の抽出及び要因の整理
+要因分析図に基づく調査の結果，運転操作に係る要因として，2017年4月6日の運転操作を抽出し，この運転操作が本事象の起因となっていたことから，一連の運転操作について原因分析を実施した。以下にその詳細を示す。
+
+（１）問題点の整理
+以下のとおり、問題点①～⑨を整理した。
+
+問題点①：協力会社社員Eは，警報処置手順書の処置をすべて実施すべきであったが，処置の一部（抽気エゼクタ不良の場合の弁調整）については，運転中に当該弁を調整した経験がなかったことから，操作を実施できなかった。
+問題点②：廃棄物管理課副長（当直）Bは，協力会社社員Eからの警報処置手順書の処置の一部の実施可否についての相談に対して，配管計装図，電源・弁チェックリストによる情報収集及び他の廃棄物管理課副長（当直）への相談等の対応を実施した上で実施可否を判断すべきであったが，これらの対応をすることなく協力会社社員Eができないのであれば実施できないと判断した。
+問題点③：廃棄物管理課副長（当直）Bは，乾燥機（B）の圧力が常時正圧となった後の対応について，休日の廃棄物管理課副長（当直）Cに相談し，「乾燥機（B）停止」，「乾燥機給液タンク（B）の排水」，「洗浄ドレン受タンク洗浄操作」を実施するよう助言を受けた際に，操作の目的を確認すべきであったが，「乾燥機給液タンク（B）の排水」，「洗浄ドレン受タンク洗浄操作」の目的を確認していなかった。
+問題点④：廃棄物管理課副長（当直）Bは，「乾燥機・B圧力高」の警報点灯後の対応（「乾燥機（B）停止」，「乾燥機給液タンク（B）の排水」，「洗浄ドレン受タンク洗浄操作」）をすべて廃棄物管理課長Aに報告すべきであったが，報告したのは「乾燥機（B）停止」のみであった。
+問題点⑤：廃棄物管理課長Aは，廃棄物管理課副長（当直）Bから「乾燥機（B）停止」の連絡を受けた際に，「乾燥機（B）停止」の報告を了承するだけではなく，その後の対応まで確認すべきであったが，警報処置手順書の範囲内の対応を実施するという認識であったため，その後の対応まで確認しなかった。
+問題点⑥：廃棄物管理課副長（当直）Dは，廃棄物管理課副長（当直）Bからの引継の際に，「乾燥機（B）停止」，「乾燥機給液タンク（B）の排水」，「洗浄ドレン受タンク洗浄操作」について，操作の目的及び具体的な操作手順を確認すべきであったが，確認しなかった。
+問題点⑦：廃棄物管理課副長（当直）Dは，警報点灯時の対応においては，協力会社社員Fが使用する運転操作手順書を確認すべきであったが，運転操作手順書の使用箇所を確認しなかった。
+問題点⑧：協力会社社員Fは，運転操作手順書を一部流用して使用する場合は社内規定に従い廃棄物管理課副長（当直）Dに報告すべきであったが，報告せずに操作を実施した。
+問題点⑨：廃棄物管理課副長（当直）Dは，樹脂濃度が高い廃液に対して「洗浄ドレン受タンク洗浄操作」を依頼すべきではなかったが，操作を依頼した。
+
+（２）要因の整理
+（１）の問題点から本事象に至った、要因①～⑥を整理した。（「（ ）」内は関連する問題点）
+
+要因①：警報処置手順書の処置を実施するための具体的な運転操作手順が不足していた。（問題点①）
+要因②：警報点灯時（異常時）における廃棄物管理課副長（当直）の役割と権限が明確となっていなかった。（問題点②③⑥⑦）
+要因③：警報点灯時（異常時）における廃棄物管理課副長（当直）から廃棄物管理課長への報告事項が明確となっていなかった。（問題点④）
+要因④：警報点灯時（異常時）における廃棄物管理課長の確認・判断すべき事項が明確となっていなかった。（問題点⑤）
+要因⑤：運転操作手順書の使用方法に関する社内規定の記載内容が明確ではなかった。（問題点⑧）
+要因⑥：洗浄ドレン受タンク洗浄操作の運転操作手順書の前提条件に「給液系の希釈運転後の廃液に対して実施する」という内容が記載されていなかった。（問題点⑨）
+
+４．建屋内排水系配管内からの粒状樹脂の噴き上がりに関する調査
+　建屋内排水系配管内に堆積した粒状樹脂の挙動（排水枡からの噴き上がり）を確認するため，ドラム保管室及びドラム運搬装置メンテナンス室の負圧値の測定結果を模擬した試験を実施した結果，水分を含んだ状態では配管内の粒状樹脂の移動は確認されなかったが，乾燥後は粒状樹脂が空気の流れにより配管内を移動し，排水枡から噴き上がることを確認した。
+
+５．粉末樹脂・金属屑の流入源の特定
+　粉末樹脂及び金属屑（以下「粉末樹脂等」という。）の流入源について調査を実施した結果，これまでに粉末樹脂を含む廃液及び濃縮廃液の乾燥処理を実施しており，洗浄ドレン受タンク及び除染シンクから建屋内排水系に排水した廃液に少量の粉末樹脂等が含まれていた可能性が高いことを確認した。また，至近では，2017年4月5日に実施した洗浄ドレン受タンクの洗浄操作にて，粉末樹脂を含む廃液（粉末樹脂濃度 約0.21wt％，粉末樹脂量 約2.5kg）を建屋内排水系に排水していたことを確認した。
+　従って，排水した廃液に含まれていた少量の粉末樹脂等が建屋内排水系配管内に堆積したと推定した。
+
+６．事象発生のメカニズム
+　原因調査結果より，建屋内排水系配管内に堆積した粒状樹脂及び粉末樹脂が排水枡から噴き上がり，床面に堆積したメカニズムを以下のとおり推定した。
+【① 建屋内排水系配管内に粉末樹脂が堆積】
+①：洗浄ドレン受タンクの洗浄操作（建屋内排水系に自動排水）
+2017年4 月5 日，洗浄ドレン受タンク洗浄操作を実施した結果，洗浄ドレン受タンク内の洗浄廃液は，粉末樹脂受入槽に移送された後，粉末樹脂を含む残水が建屋内排水系に自動排水された。
+粉末樹脂は，樹脂の形状や密度等の違いから粒状樹脂に比べ沈降速度が遅いため，殆どの粉末樹脂は，薬液床ドレンサンプタンク（B）まで排水されたが，建屋内排水系配管（分岐管）内に僅かに残存した。
+
+【② 建屋内排水系配管内に粒状樹脂が堆積】
+②－1：乾燥機による焼却処理操作（乾燥機給液タンク(B)に粒状樹脂が残存）
+4月6日，第2 焼却炉にて粒状樹脂と可燃性雑固体廃棄物との混焼処理を行うため，粒状樹脂を乾燥機（B）により乾燥処理していた際に，「乾燥機・B 圧力高」警報が点灯したため，乾燥機（B）の停止を判断し，給液系の停止操作を実施した。そのため，乾燥機給液タンク（B）に粒状樹脂濃度が高い廃液が残存した。
+
+②－2：乾燥機給液タンク(B)の洗浄操作（洗浄ドレン受タンクに排水）
+過去の乾燥機給液ポンプや配管における詰まりの発生経験から，同様な詰まりの発生を懸念し，乾燥機給液タンク（B）に洗浄水を供給しながら，通常運転時（給液系の希釈運転後）の洗浄廃液より粒状樹脂濃度が高い洗浄廃液を洗浄ドレン受タンクに排水した。
+
+②－3：洗浄ドレン受タンクの洗浄操作（建屋内排水系に自動排水）
+乾燥機給液タンク（B）と同様な詰まりの発生を懸念し，洗浄ドレン受タンク洗浄操作を実施した結果，洗浄ドレン受タンク内の洗浄廃液は，粉末樹脂受入槽に移送された後，粒状樹脂を多く含む洗浄ドレン受タンク内の残水が建屋内排水系に自動排水された。洗浄ドレン受タンク内の残水には，粒状樹脂が多く含まれており，粒状樹脂の形状や密度等から沈降速度が速いため，多くの粒状樹脂（約17.3kg）は，薬液床ドレンサンプタンク（B）に排水されることなく建屋内排水系配管内に堆積した。
+
+【③ 排水枡から床面への樹脂の堆積】
+　4月6日の建屋内排水系への排水以降，本事象が発生した2017年5月2日までの間に，洗浄ドレン受タンクから建屋内排水系に排水した実績がないことから，堆積した粉末及び粒状樹脂は徐々に乾燥した。その後，建屋内排水系配管内に堆積した粉末及び粒状樹脂は，ドラム保管室とドラム運搬装置メンテナンス室において，排水枡から噴き上がり，床面に堆積した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>5</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12661</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2020/02/05 12:53:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>87438</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/05/18 09:50:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201705021430]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　事象の原因で抽出した「設備の要因」及び「運転操作の要因」に対して，以下のとおり再発防止対策を実施する。
+
+（１）設備の要因に対する再発防止対策
+ア　洗浄ドレン受タンク洗浄操作の運用変更
+洗浄ドレン受タンクから建屋内排水系への排水を防止するため，洗浄ドレン受タンクのドレン弁2個を「常時閉」運用とする。また，運転操作手順書のうち，洗浄ドレンタンク内の残水を建屋内排水系に自動排水する手順を削除するとともに，自動排水する操作を実施できない処置を講じる。
+なお，洗浄ドレン受タンクの点検時には，タンク内の残水を仮設設備により粉末樹脂受入槽又は濃縮廃液受入タンクへ移送することを社内規定に定め，工事要領書等に反映する。
+
+（２）運転操作の要因に対する再発防止対策
+ア　警報処置手順書の処置を実施可能な手順書の作成（要因①に対する対策）
+警報処置手順書の処置内容に具体的な手順，補足説明等を追加するとともに，設備を安定した状態にするための手順書として，設備非常停止運転操作手順書を新規制定する。
+イ　警報点灯時（異常時）における廃棄物管理課副長（当直）の役割と権限の明確化（要因②に対する対策）
+設備不具合発生時における行動フロー，確認・報告事項，役割と権限等をまとめた異常時の対応ガイドを作成し，社内規定に反映する。
+ウ　警報点灯時（異常時）における廃棄物管理課長の確認事項及び廃棄物管理課副長（当直）の報告事項の明確化（要因③，④に対する対策）
+設備不具合発生時における行動フロー，確認・報告事項，役割と権限等をまとめた異常時の対応ガイドを作成し，社内規定に反映する。
+エ　廃棄物管理課副長（当直）に対する警報点灯時（異常時）の対応訓練の実施
+（要因①から④に対する対策）
+廃棄物管理課副長（当直）があらかじめ作成したシナリオに対して，異常時の対応ガイドに従い対応できることを確認する。
+オ　運転操作手順書の使用方法に関する社内規定の記載の明確化（要因⑤に対する対策）
+社内規定に「手順書どおりの操作」の詳細な説明を追加し，運転操作手順書の一部流用は該当しないことを明確化する。
+カ　協力会社社員に対する運転操作手順書の使用方法に関する教育の実施（要因⑤に対する対策）
+協力会社社員に対して運転操作手順書の使用方法に関する教育を実施する。
+キ　洗浄ドレン受タンク洗浄操作の運用変更（要因⑥に対する対策）
+（１）設備の要因に対する対策と同様。
+
+（３）再発防止対策の実施による安全文化の醸成への寄与
+要因分析において確認した以下の事実から，NRWの運転を管理する当社社員に対して，自身の役割に対する責任を果たす姿勢をさらに高める必要があると考える。
+
+ア　要因分析において確認した事実
+①NRWの運転操作は，試運転時より協力会社へ委託しており，協力会社社員は，これまでの運転経験からNRWの運転操作を適切に実施することができ，NRWの運転操作に関する様々な運転経験も蓄積している。
+②廃棄物管理課副長（当直）は，NRWの運転に関する管理・監督を実施するため，NRWの設備知識及び異常時の処置を含む操作知識の教育を受け，「NRWの運転管理，監視及び異常時の対応操作の概要を把握し協力会社社員に適切な業務依頼ができること」という力量を有している。ただし，NRWの運転操作を協力会社へ委託していることから，ポンプの起動停止や弁の開閉といった実操作を実施することはない。
+③廃棄物管理課長は，主にNRWの運転及び保守管理並びに放射性固体廃棄物の管理に関する業務を実施しているが，廃棄物管理課副長（当直）と同様にNRWの実操作を実施することはない。
+
+イ　確認した事実からの考察
+廃棄物管理課副長（当直）は，NRWの実操作を実施することはないため，運転操作に精通し，様々な運転経験を持つ協力会社社員に対して，NRWの操作に係る提言については疑うことなく頼るといった協力会社社員への依存心が高まったものと推定している。また，廃棄物管理課長は，力量（NRWの運転管理，監視及び異常時の対応操作の概要を把握し協力会社社員に適切な業務依頼ができること）を有した者を廃棄物管理課副長（当直）として登用していること及びNRWの実操作を実施することはない。このため，NRWの操作に係ることについては廃棄物管理課副長（当直）に任せておけば問題ないと考え，NRWの運転操作の責任者という役割に対して責任を果たすことができなかったと推定している。
+
+ウ　安全文化の醸成に対する再発防止対策の有効性
+（２）に記載した運転操作の要因に対する対策イ，ウ，エを実施することにより，廃棄物管理課副長（当直）及び廃棄物管理課長は，自身の役割について理解を深め，自身の役割に対する責任を果たす姿勢を醸成することができるため，さらなる安全文化の醸成に対して寄与するものと考える。
+
+○運転操作の要因に対する再発防止対策 イ
+　警報点灯時（異常時）における廃棄物管理課副長（当直）の役割と権限の明確化
+
+○運転操作の要因に対する再発防止対策 ウ
+　警報点灯時（異常時）における廃棄物管理課長の確認事項及び廃棄物管理課副長（当直）の報告事項の明確化
+
+○運転操作の要因に対する再発防止対策 エ
+　廃棄物管理課副長（当直）に対する警報点灯時（異常時）の対応訓練の実施
+
+（４）他の運転操作・機器への水平展開
+本事象の原因を踏まえ，水平展開対象の抽出フローを運転操作（運転操作における建屋内排水系への排水）と保守点検（保守点検時における建屋内排水系への排水）に分けて作成し，そのフローに従い水平展開対象の運転操作・機器を抽出した。
+抽出した運転操作・機器に対して，以下の分類で対策を実施する。
+
+ア　本事象と同様に自動操作により建屋内排水系に排水される運転操作については，インターロックの改造又は運転操作の削除等を実施し，自動操作による排水を防止する。ただし，液体廃棄物処理系への排水基準値以内であることを確認できる場合には，十分に希釈したうえで排水する。
+
+イ　手動操作による排水（運転操作及び保守点検）については，濃縮廃液の場合は，サンプルの採取，測定を実施し，液体廃棄物処理系への排水基準値以内となるよう必要に応じて希釈したうえで排水する。また，固形物（粉末樹脂，粒状樹脂及び活性炭）を含む廃液の場合は，排水枡にフィルタを取り付けることにより，固形物を回収したうえで排水する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/02/05 12:53:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2017年5月2日14時30分頃，廃棄物減容処理装置建屋（第1建屋）（以下「NRW-Ⅰ」という。）（※1）の巡視点検を実施していた協力会社社員（委託運転員）（※2）がNRW-Ⅰ地下2階（放射線管理区域（以下「管理区域」という。））ドラム運搬装置メンテナンス室の排水枡まわりの床面（場所①）に粉状の堆積物を発見し，廃棄物管理課副長（当直）に報告した。この報告を受け，当社社員が現場を確認したところ，当該箇所に粉状の堆積物（約70cm×約80cm）を確認した。
+　さらに廃棄物管理課副長（当直）から指示を受けた協力会社社員が現場調査を実施したところ，同室で2箇所（場所②，③），隣接するドラム保管室で2箇所（場所④，⑤）の排水枡のまわりの床面に粉状の堆積物があることを発見し，廃棄物管理課副長（当直）に報告した。この報告を受け，当社社員が現場を確認したところ，当該箇所に粉状の堆積物（場所②，③：約50cm×約180cm，場所④：約80cm×約70cm，場所⑤：約240cm×約120cm）を確認した。
+
+　最初に発見した場所①における粉状の堆積物の放射能濃度を測定した結果，表面汚染密度が 141Bq/cm2であり，浜岡原子力発電所原子炉施設保安規定（以下「保安規定」という。）第93条で定める管理区域内における特別措置（※3）が必要な基準である40Bq/cm2を超えたため，17時10分，場所①に対して保安規定第93条に基づき，特別措置を講じた。　
+　このことから，17時10分，実用発電用原子炉の設置，運転等に関する規則第134条第10号に定める報告事象に該当すると判断した。その他の場所②から⑤に対しては，18時25分に原子炉施設保安規定第93条に基づき，特別措置を講じた。
+　また，粉状の堆積物の性状を確認した結果，粒状樹脂，粉末樹脂及び金属屑であることを確認した。
+　その後，18時40分から19時20分にかけて，5箇所の堆積物を全て回収した。
+　さらに，5月3日15時45分から17時15分に粉状の堆積物のあった5箇所の除染作業を実施した。
+
+　後日，堆積物を確認した排水枡に繋がる建屋内排水系の配管内部を調査したところ，NRW-Ⅰ地下1 階及び地下2 階の配管内に堆積物を確認したため，回収を実施した。また，配管内から回収した堆積物の性状を確認した結果，一部の金属屑を除き粒状樹脂のみであることを確認した。
+
+　本事象に伴う外部への放射性物質による影響はなかった。
+　本事象に係った対応者の外部放射線による個人最大線量は0.22mSvであり，発電所で定める線量管理の目安値（1日1mSv）を十分に下回っていた。また，本事象で発生した放射性物質を含む堆積物による身体の汚染及び内部被ばくはなかった。
+
+
+※1：発電所の放射線管理区域において発生した放射性固体廃棄物の減容を行うための機器等のある建屋。
+※2：廃棄物減容処理装置建屋に設置された共用施設の運転に従事する委託運転員。
+※3：人の立入制限措置として標識を設けて他の場所と区別し，区画，施錠等の措置の実施。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-中部-T002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[本事象の原因は，「樹脂濃度の高い廃液を乾燥機給液タンク（B）から洗浄ドレン受タンクへ排水操作を実施したことにより，洗浄ドレン受タンクを介し，建屋内排水系に排水（洗浄ドレン受タンク洗浄操作）した」ことであると推定した。
+本事象の原因に至った要因は，【原因調査の概要】欄の「２ 要因分析図に基づく調査」及び「３運転操作における問題点の抽出及び要因の整理」より，抽出した以下の要因である。
+
+（１）設備の要因（「２ 要因分析図に基づく調査」より抽出）
+　洗浄ドレン受タンクは，通常操作時の洗浄廃液（希釈運転後の洗浄廃液）に対して洗浄操作を実施した場合においても，約5kgの樹脂が含まれた状態で建屋内排水系に排水される設備であった。
+
+（２）運転操作の要因（「３ 運転操作における問題点の抽出及び要因の整理」より抽出）
+①警報処置手順書の処置を実施するための具体的な運転操作手順の不足
+②警報点灯時（異常時）における廃棄物管理課副長（当直）の役割と権限が不明確
+③警報点灯時（異常時）における廃棄物管理課副長（当直）から廃棄物管理課長への報告事項が不明確
+④警報点灯時（異常時）における廃棄物管理課長の確認・判断すべき事項が不明確
+⑤運転操作手順書の使用方法に関する社内規定の記載内容が不明確
+⑥洗浄ドレン受タンク洗浄操作の運転操作手順書の不備（前提条件の記載なし）]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物減容処理装置建屋（第１建屋）地下２階における放射性物質を含む堆積物の確認]]></TITLE_NAME>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>87440</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/05/18 09:51:07]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12661</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[運転・操作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[プラント運転員の監視・判断・機器操作の誤りによるもの（管理不良を含むクレーン等保守作業に関連する操作ミスは施工不良に含める）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[運転・操作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+					<SORT_NO>3</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12661</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[10]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

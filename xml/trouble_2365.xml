@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．Ａ濃縮液ポンプシール水流量低の警報発信に関する調査　　　　
+（１）シール水圧力及び廃液濃縮液ポンプの健全性確認
+シール水圧力及び廃液濃縮液ポンプ入口洗浄水弁の漏れ及び廃液濃縮液ポンプの絶縁抵抗測定を行った結果、いずれも問題はなかった。
+
+（２）計装設備の健全性確認
+シール水流量計入口ストレーナつまり状態、流量計本体の分解点検、警報動作値確認を行った結果、いずれも問題はなかった。
+
+（３）廃液濃縮液ポンプのキャビテーション発生有無の確認
+廃液濃縮液ポンプ入口配管付近からの漏えいにより、ポンプ入口側の圧力が低下し、キャビテーションを発生した可能性があることが判明した。
+以上のことから、廃液濃縮液ポンプ入口配管からの漏えいによりポンプ入口側圧力が低下し、キャビティーションが発生した場合、ポンプ内部圧力が変化し、シール水が流れにくくなるため、警報発信に至ったものと推定された。
+
+
+２．Ａ廃液濃縮液ポンプ入口配管からの漏えいに対する調査　　　　　
+（１）現地調査
+ａ．外観点検　　　　　　　　　　　　　　　　　　　　　　　　
+Ａ廃液濃縮液ポンプ入口ラインの外観目視点検を行った結果、廃液蒸発装置から廃液濃縮液ポンプへ行く配管に長さ約９０ｍｍの割れが認められた。
+
+ｂ．振動計測及び配管据付状態　　　　　　　　　　　　　　　　　　　　　　　
+Ｂ廃液濃縮液ポンプを運転した際の振動解析結果及び配管移動量解析結果は、ＳＵＳ配管の疲労限及び許容応力に対して十分低く問題はなかった。
+
+ｃ．器内水分析　　　　　　　　　　　　　　　　　　　　　　　
+Ａ廃液蒸発装置器内水を分析した結果、塩素イオンや硫酸イオン等のｐＨを低下させる陰イオンが存在していた。
+
+（２）ホットラボ等の調査　　　　　　　　　　　　　　　　　　　
+ａ．外観点検
+配管外面を外観点検した結果、約９０ｍｍの割れが斜め約半周に渡り認められ、こげ茶色に変色していた。また、配管内面を外観点検した結果、外面に比べ長い約１００ｍｍの割れが確認された。
+
+ｂ．浸透探傷検査（以下　ＰＴという）
+配管外面のＰＴを実施した結果、割れが認められた箇所において浸透指示模様が認められた。また、その他の箇所においては、浸透指示模様は認められなかった。
+
+ｃ．破面観察（マクロ観察、ミクロ観察）
+漏えい配管の破面を観察した結果、破面表面は疲労破面の特徴であるフラットな面ではなく凸凹を有しており、粒界破面であることが確認された。
+
+ｄ．付着物調査（ＥＤＳ）
+破面及び配管、内面のスケールを採取し分析した結果、ステンレス鋼の成分以外にＡｌ、Ｓ、Ｓｉ等が検出された。
+
+ｅ．鋭敏化測定、組織観察
+漏えい部付近の配管断面及び外表面の再活性化電気量を測定した結果、平均４９C／cm2･GBAであり、ＳＵＳ３０４材の鋭敏化の目安である１０C／cm2･GBAを超えていることが確認された。
+また、シュウ酸電解エッチングにより組織観察した結果、組織は鋭敏化していることが確認された。
+
+ｆ．材料成分分析及び硬さ測定
+ＳＵＳ３０４材の基準（ＪＩＳ Ｇ３４５９）の範囲内でありまた、ステンレス鋼の代表的な硬さ範囲１４０～１９０ＨＶ内であり、いずれも問題のないことを確認した。
+　　
+（３）追加調査
+漏えいした配管が鋭敏化していたことから、現地での追加調査を行った。
+ａ．現地配管色調調査　　　　　　　　　　　　　　　　　　　　
+Ａ廃液蒸発装置の他の配管色調を確認した結果、切り出したＡ廃液濃縮液ポンプ入口配管前後の配管（ヒートトレースを８条施工している箇所）に軽微な変色が見られたほか、Ａ廃液濃縮液ポンプ入口配管損傷部とほぼ同じ位置のＢ廃液濃縮液ポンプ入口配管（ヒートトレースを８条施工している箇所）にも一部軽微な変色が見られた。
+
+ｂ．現地配管組織観察　　　　　　　　　　　　　　　　
+切り出したＡ廃液濃縮液ポンプ入口配管の前後の配管についてシュウ酸電解エッチングにより組織観察した結果、漏えい部に近い所は組織が鋭敏化していたことが確認された。
+　　　　　
+（４）文献等調査
+ａ．すきま腐食の発生　　　　　　　　　　　　　　　　　　　
+配管表面にスラッジが付着した場合、局部的にすきま部が生じる。酸素が溶存し、塩素イオンや硫酸イオン等のｐＨを低下させる陰イオンが存在する場合は、すきま部では低ｐＨ化し、腐食環境が形成される。
+
+ｂ．配管鋭敏化による影響　　　　　　　　　　　　　　　　　
+ＳＵＳ３０４材が鋭敏化している場合、粒界腐食割れが発生し、鋭敏化度に伴い粒界腐食速度は大きくなる。
+
+（５）廃液蒸発装置運転履歴調査
+ａ．Ａ廃液蒸発装置処理水　　　　　　　　　　　　　　　　　　
+過去６年間のＡ廃液蒸発装置濃縮液の分析結果を確認した結果、ｐＨ，塩素イオン濃度、ホウ素濃度は全て標準値を満足しており問題はなかった。
+
+ｂ．廃液蒸発装置運転方法　　　　　　　　　　　　　　　　　　
+廃液蒸発装置を運転した場合、廃液蒸発装置から廃液ベントコンデンサ排気ラインに至る弁は「常時開」運用されており、大気開放状態となっているため、廃液に酸素が溶け込み、冷却、保管時に溶存酸素濃度が上昇することから陰イオンの存在とあいまって低ｐH化すると考えられる。　　
+
+ｃ．廃液蒸発装置廃液処理実績　　　　　　　　　　　　　　　　
+Ａ廃液蒸発装置は、年間約５０回運転（１回約７時間運転）しているが、ほとんどの期間が待機状態であり、廃液中の懸濁物が配管内にスラッジとして堆積する可能性があることが推定された。
+
+（６）ヒートトレースに関する調査（鋭敏化原因の調査）
+ａ．鋭敏化する温度　　　　　　　　　　　　　　　　　　　　　
+文献調査の結果から、６００℃では数十分、５００℃では数時間の入熱が必要である。今回漏えいした配管部（ヒートトレースを８条施工している箇所）のヒートトレースの配管軸方向温度分布を評価した結果、ヒータが連続通電となった場合には、配管母材（ＳＵＳ３０４材）の鋭敏化温度（５００～６００℃）以上に過加熱されることがわかった。このため、以下の調査を実施した。
+
+ｂ．ヒートトレース布設状況調査　　　　　　　　　　　　　　　
+一般的な配管には４条でヒートトレースを施工されているところ、漏えい配管付近は当該部付近にサポート部があり、これによる熱拡散を考慮して、折り返しを含め８条で施工されていることが確認された。
+また、ヒートトレース材質はＭＩケーブル（キュプロニッケルシース）で、最高使用温度は４５０℃であった。
+
+ｃ．ヒートトレース温度制御方法　　　　　　　　　　　　　　
+ヒートトレースは、サーモスタット設定温度により、約７０℃前後で温度制御している。また、配管温度状態を解析した結果、ＳＵＳ配管の疲労限に対して十分低く、問題のないことを確認した。
+
+ｄ．ヒートトレース補修履歴　　　　　　　　　　　　　　　　　
+当該部のヒートトレースは、平成２年に実施した廃液蒸発装置取替工事に合わせて、銅シース（最高使用温度２５０℃）からキュプロニッケルシース（最高使用温度４５０℃）に変更しており、この際の改造工事記録を確認し、試運転結果に問題がなかったことを確認した。ただし、改造工事期間のため全ブローの状態で調整運転し、サーミスタ不良（断線、接続端子部ゆるみ）又はサーモスタット制御不良によって配管温度上昇に至った可能性は否定できない。
+また、補修履歴について、昭和６３年以降の点検・補修記録（昭和６３年１０月～平成１６年３月）を確認した結果、当該部のヒートトレースに異常のないこと及び補修実績がないことを確認した。ただし、一部期間（平成２年１０月～平成３年３月，平成３年４月～８月，平成４年４月～平成５年２月）の点検記録がないためサーミスタ不良又はサーモスタット制御不良がなかったことは否定できない。
+なお、接続端子部ゆるみの増締め程度の補修については、補修記録に残らない可能性がある。
+
+ｅ．ヒートトレース運用方法　　　　　　　　　　　　　　　　　
+平成１２年以降のヒートトレース運転状態をチャートにて確認したところ、異常な温度まで上昇した履歴はなかった。
+しかし、廃液蒸発装置定期点検等の作業手順としては器内水の全ブローとヒートトレースの電源を切る順序が明確になっておらず、また、全ブローを先にした場合のヒートトレース電源を切る期限が決められていなかったことから、全ブロー後、ヒートトレースが連続通電・過熱された場合は、配管内に廃液のない空焚き状態となり、配管が鋭敏化された可能性は否定できない。
+また、ヒートトレース温度上昇により警報が発信するが、ヒートトレースの機能としては温度低下を防ぐものであり、ヒートトレース電源切り処置の遅れがあった可能性は否定できない。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[235]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2365</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/21 19:06:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2896</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/04/16 17:12:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200403241825]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1) 漏えいした配管及び切り出した配管を同種・同材料の配管に取り替える。
+(2) 廃液蒸発装置を運転した場合、廃液蒸発装置から廃液ベントコンデンサ排気ラインに至る弁を停止・保管時は「閉」運用とし、溶存酸素の持ち込みを防止する。
+(3) Ａ，Ｂ廃液蒸発装置蒸発器の窒素シール化を計画する。
+(4) ヒートトレースの補修・取替え工事においても、系統に水のない状態で通電しないよう徹底する。
+(5) 廃液蒸発装置隔離操作時は、系統水を全ブローする前にヒートトレース電源を切ることとし、「補助札掲示箇所明細書」注意事項にその旨を記載し標準化を行う。
+また、ヒートトレース温度高警報発信時には、速やかに電源を切るとともに異常加熱していないことを確認することを発電室員に周知徹底する。
+　なお、ヒートトレースについては、過大な温度にならないような方策についても検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/21 19:06:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯発電所１号機は定格熱出力一定運転中、大飯２号機は第１８回定期検査中（調整運転中：電気出力約２４％出力上昇中）、１、２号機共用設備であるＡ廃液蒸発装置の循環運転を行っていたところ、平成16年3月24日18時25分、「Ａ濃縮液ポンプシール水流量低」の警報が発信したため、同装置室内を点検した結果、室内の床面に水溜りを確認したため、当該装置を停止した。
+　漏えいした水の量は約700リットル、放射能濃度は約4.0×10E2Bq/cm3で、全て装置室の堰内に収まっており、フロアドレンタンクに回収された。
+　漏えい箇所の調査（目視）を行った結果、廃液濃縮液ポンプ入口配管で割れが認められた。
+　なお、この事象による環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-関西-M018]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　廃液蒸発装置を運転した場合、廃液蒸発装置から廃液ベントコンデンサ排気ラインに至る弁が「常時開」運用されていたため、大気中の酸素が濃縮廃液に溶け込み溶存酸素が高くなり、また塩素イオン及び硫酸イオンが存在していることから低ｐHとなった。また、濃縮廃液配管内にスラッジが付着し、すきま部が存在したこと及びヒートトレースによる異常加熱に伴う配管の鋭敏化により、すきま腐食（粒界腐食割れ）が発生した。
+
+　なお配管が鋭敏化した原因としては、改造工事又はその後の定期検査時等の作業で器内水を全ブロー（器内水全ブローとヒートトレース切りの手順が明確でなかった）した状態で、サーミスタ不良等によりヒートトレースが連続通電・加熱したため、配管が異常に加熱され鋭敏化したものと推定される。
+
+　このため、発生したすきま腐食（粒界腐食割れ）が、配管を拘束している力の影響を受け斜めに進行し、今回の循環運転時に貫通に至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ａ廃液蒸発装置の廃液濃縮液ポンプ入口配管からの漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報発信）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/04/27 19:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2365</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[235]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[235]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[化学腐しょく]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+				<SORT_NO>26</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[腐しょく]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[060]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2365</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

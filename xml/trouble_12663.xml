@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<TROUBLE_ID>12663</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/10/10 14:08:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>71332</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/05/16 10:02:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201705150854]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/10/10 14:08:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事象
+　５月１５日、定期検査中の伊方発電所２号機の原子炉補助建家（管理区域内）において、洗浄排水蒸発装置※のドレン配管表面に付着物を確認したことから、保修員が配管の確認を行った結果、同日８時５４分頃、当該配管に貫通穴を確認しました。引き続き、当該配管の確認を行った結果、５月１６日、更に貫通穴２個を確認しました。本事象確認時、配管からの漏えいはありませんでした。
+　その後、類似箇所の調査として、当該ドレン配管からの排水が流れ込む可能性のある配管を調査したところ、当該ドレン配管へ合流する３系統の水平配管表面に６箇所の付着物を発見し、この付着物を取り除いたところ、ごく微小の貫通部があることを確認しました。
+　このため、付着物が確認された配管を取替えて、９月７日に通常状態に復旧しました。
+
+※洗浄排水蒸発装置：管理区域内で使用した作業服を洗濯した際に発生する洗濯排水や作業員の手洗い水を蒸発処理し、減容する装置
+
+○原因
+　調査の結果、洗浄排水蒸発装置ドレン配管は、洗浄排水蒸発装置の廃液が間欠的に排水されており、排水停止時は、配管内の廃液の水分蒸発に伴い、水平配管の底部を中心に、廃液中の塩素を含む不純物が堆積することから、配管内表面と不純物の隙間に腐食が発生し、配管の貫通に至ったものと推定しました。
+　また、洗浄排水蒸発装置ドレン配管へ合流する水平配管についても、洗浄排水蒸発装置からの廃液が流入することから、同様に貫通に至ったものと推定しました。
+
+○対策
+・貫通が確認された配管および貫通には至っていないが配管内に不純物の堆積を確認した配管を取替えて、復旧しました。
+・配管内への不純物の堆積防止対策として、洗浄排水蒸発装置ドレン配管および洗浄排水蒸発装置の廃液が流れ込む水平配管について、洗浄排水蒸発装置の廃液排水後に、脱塩水で配管内に残る不純物を含む廃液を洗い流す洗浄操作を新たに追加し、手順書を改定します。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-四国-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所２号機　洗浄排水蒸発装置ドレン配管の貫通穴発見について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/05/16 10:02:40]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

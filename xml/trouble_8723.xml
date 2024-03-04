@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8723</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/04/12 13:43:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/03/22 21:39:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200703201600]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/04/12 13:43:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成19年３月20日午後４時頃、キャスク建屋において、外壁の補修工事で使用した足場板の片付け作業を行っていた協力企業作業員１名が、足場板を吊り上げて台木の位置を調整していた際に、吊り上げ用のワイヤーが外れて足場板と台木の間に手をはさみ、両手の指を負傷した。
+　このため、業務車にて病院に搬送した。
+　診察の結果、「左第４指基節骨骨折、左第３指挫傷、右第３指挫傷、右第４指挫傷」と診断された。
+　なお、本人は診察後、事務所に戻った。
+　当該作業員に放射性物質による汚染はなかった。
+
+　調査の結果、協力企業作業員が負傷した原因については、以下のように推定した。
+・吊り上げ用のワイヤー２本のうち１本が足場板と台木の間に挟まったことから、当該ワイヤーを外すために台木の位置を直す際、当該ワイヤー１本のみで、外れ止めなどの措置を講じないまま足場板の片側を吊り上げた。
+・台木の位置を直す際、当該作業員は足場板の下に直接手を入れて作業を行った。
+
+対策として以下のことを行うこととした。
+・外れ止めなどの措置を講じていない場合は、ワイヤー１本のみで荷の片側を吊り上げないこととする。
+・荷を吊り上げた際は、吊り荷の下に体を入れないこととする。
+・これらについて、協力企業作業員へ周知し再発防止を徹底する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S085]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[協力企業作業員の負傷について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/22 23:32:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8799</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/21 14:16:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/04/26 21:37:40]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704241524]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/21 14:16:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号は、定期検査中のところ、４月24日午後３時24分に「Ａ系原子炉手動スクラム」と「Ｂ系原子炉手動スクラム」の警報が発生し、午後３時41分、同警報を解除した。
+　なお、本事象は警報のみ発生したもので、原子炉内の全ての燃料は取り出されており、安全上の問題はなかった。
+　これによる外部への放射能の影響はなかった。
+
+　警報が発生した原因は、本来、点検作業時の原子炉手動スクラム警報の発生を防止するためのジャンパーが行われた後に実施すべき、起動領域モニタのスイッチの切り替え作業が、当該ジャンパーが行われる前に実施されたことにより、原子炉手動スクラムの警報を発生させる条件が成立したためとわかった。
+
+　起動領域モニタのスイッチの切り替え作業が、当該ジャンパーの前に実施された原因は、以下のとおり。
+・当直員は、準備作業である当該ジャンパーが実施されていない段階で、当該スイッチの操作を許可する札および鍵を、作業関係者に渡してしまった。
+・当直および作業主管グループにおいて、当該札の受け渡し時期および鍵の使用条件についての確認方法が明確ではなかった。
+・当該スイッチの当該札には、当該ジャンパーが実施された後に鍵を用いてスイッチの切り替え作業を行うという条件が記載されていなかった。
+・当社と作業関係者間において、点検にともなう準備作業についての調整が不十分であった。
+
+　本事象を踏まえ、以下の対策を実施する。
+・当該札および鍵については、当直および作業主管グループにて管理をするとともに、受け渡しの際には点検にともなう準備作業が完了していることを確認する。
+・操作時にジャンパーなどの条件がある場合には、その条件を当該札に記載する。
+・当社と作業関係者間において、点検にともなう準備作業についての調整を確実に行うことを周知徹底する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中における誤警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/27 17:38:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

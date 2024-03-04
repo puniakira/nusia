@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10943</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/05/12 08:57:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4719</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/05/06 17:30:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201005041432]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 敦賀発電所２号機は第１７回定期検査中のところ、平成２２年５月４日１４時３２分、「原子炉保護系制御盤等取替工事（その１）原子炉安全保護装置Ａ系」の作業において、安全保護系シーケンス盤Ａトレン取替に伴うロジック試験中に主蒸気ライン圧力低信号にて非常用炉心冷却設備作動信号（以下、「Ｓ信号」という。）を動作させた際、２台ある非常用ディーゼル発電機のうちＡ号機が自動起動した。
+ また、Ｓ信号を動作させた際に、雑固体減容処理設備非常用コントロールセンタの遮断器がインターロックにより開放し、雑固体減容処理設備排気じんあいモニタ等※１が停止したため、雑固体減容処理建屋換気系を手動にて停止した。この間、雑固体減容処理設備は運転しておらず、建屋内のサンプリング結果により放射能の放出はなかったと判断した。その他の雑固体減容処理設備の機器については停止はなかった。
+ なお、Ｂ非常用ディーゼル発電機は隔離中であり、他の工学的安全施設は停止時保安処置によりブロック中のため動作はなかった。
+現在、原子炉の状態は全燃料取出中で、モード外であり、保安規定上、非常用ディーゼル発電機の要求はない。
+自動起動したＡ非常用ディーゼル発電機については、自動起動状態に異常のないことを確認した後、１４時５９分に手動停止した。
+ また、雑固体減容処理設備非常用コントロールセンタを受電し、雑固体減容処理設備排気じんあいモニタ等を復旧後、雑固体減容処理建屋換気系を起動した。
+
+※１：雑固体減容処理設備排気じんあいモニタ等
+雑固体減容処理設備ダストモニタ、気体状放射性物質サンプリング装置、ＲＭＳヒートトレース制御盤用変圧器
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[敦賀発電所２号機　Ａ非常用ディーゼル発電機の自動起動について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/05/12 08:57:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

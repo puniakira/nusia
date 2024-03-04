@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．問題点
+水位計の指示が低下した原因を計器故障と考え、ＬＣＯ逸脱に該当しないと判断したこと。
+１．原因
+・サブドレン水位が低下するのは，ポンプの汲み上げが前提であり、その水位低下は緩やかであることから、急激に低下することはないとの思い込みがあった。
+・近傍のサブドレンに影響を与えることなく、1つのサブドレン水位のみが急激に低下することはないとの思い込みがあった。
+・実施計画Ⅲ第１編第２６条では、機器の不具合等で確認出来ない場合は近傍のサブドレン水位を評価することとしており、ＬＣＯ逸脱判断は不要としてしまった。]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<PLANT_EIKYO_TXT><![CDATA[実施計画Ⅲ第１編第２６条「建屋に貯留する滞留水」において、各建屋の滞留水水位が「各建屋近傍のサブドレン水の水位を超えないこと」を満足していないと判断]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[サブドレン設備]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12715</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2019/12/13 09:38:24]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[サブドレン]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[実施計画Ⅲ第１編第２６条「建屋に貯留する滞留水」において、各建屋の滞留水水位が「各建屋近傍のサブドレン水の水位を超えないこと」を満足していないと判断]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[2]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[なし]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>84816</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/09/06 22:32:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201708021831]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[①．LCO逸脱の判断の遅延の対策
+1・機器（計器）の不具合を考慮することなく当直長は速やかにＬＣＯ逸脱判断をする部長指示書の発行。
+
+2・当直長はＬＣＯ逸脱の可能性がある事象発生時は、機器の不具合等を考慮することなく、ＬＣＯ逸脱を判断
+することとし、判断を支援するために以下を整備・実施する
+実施計画の条文ごとに警報や計器番号等、ＬＣＯ逸脱を判断する条件を明確にした資料を整備する
+
+3・なお、上記資料の補完として、計器故障と誤認しＬＣＯ逸脱判断を誤ることがないよう、現状の計器の故障
+要因を整理した上で、計器故障かどうかを判断するための資料を整備する　
+
+4・当直長は判断力向上と連携性を高めることを目的として、当直の訓練に今回の事象を踏まえたＬＣＯ逸脱判
+断ならびに現場状況も含めた各種情報を適切に収集・確認することをシナリオに盛り込み実施する
+
+5・当直長は福島第一原子力発電所で取り組んでいる対応は、誰もが経験したことがないことが起こりうること
+から、経験による判断をせず安全を最優先とした保守的な判断を行い確実な対応と責任を果たすことの重要性を
+当直の訓練にて指導・再認識させる
+
+6・社内のOE情報を共有する掲示板に掲載されなかった他社事例について、必要な情報をタイムリーに掲載する
+よう改善。
+
+②.原子力規制委員会及び原子力運転検査官への報告の遅延の対策として下記実施。
+1.発話すべき対象の基本的考え方及び具体的な発話対象警報を警報発生時操作手順書等で明確化
+
+2.緊急時対策本部要員は、発話すべき対象の基本的な考え方等を明確化した資料を活用し、ＬＣＯ逸脱判断や緊急時対策本部内での発話等の訓練を実施。
+
+3.LCO逸脱判断した場合や発話された事象は、緊急時対策本部で周辺情報も併せて共有し、通報・連絡の必要性を判断することをガイドに明記。
+
+4.設備に不具合や異常な兆候が確認された場合、その後正常復帰したとしても、まずは緊急時対策本部で情報共有し、通報・連絡が必要と判断された場合は緊急時対策本部にて初動対応（通報・連絡）することをガイドに明記。
+
+5.上記ガイドに明記した初動対応（通報・連絡）を緊急時対策本部内に掲示し、緊急時対策本部要員は、要員交代時などに内容を確認。
+
+6.通報文に記載した判断・評価・考察等について、事実に基づいた情報が共有され、情報の本質が伝わる内容となっているかという観点から、事前に専門部署へ確認することをガイドに明記するとともに通報文作成後の確認項目に追加。
+
+7.福島第一原子力発電所のトラブル情報が社会に与える影響を再認識するとともに、発生事象やデータの意味合い（評価）を正しく且つわかりやすく伝える情報発信力の向上を目的とした研修を開始。
+
+8．サブドレン及び建屋滞留水に係わる部分以外についての、計器故障かどうかを判断するための資料を整備した。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/12/13 09:38:24]]></KOKAI_UPDATE_DATE>
+	<S_PLANT_EIKYO><![CDATA[ＬＣＯ逸脱]]></S_PLANT_EIKYO>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　8月2日午後６時31分頃、４号機原子炉建屋南西側に設置しているサブドレンピットNo.51（以下、「当該サブドレン」という）において当該サブドレン水の水位が一時的に低下する事象が発生。
+
+　発生状況については、以下の通り。
+　　　午後６時31分　当該サブドレン水位（２箇所）の低下確認
+　　　　　　　　・当該サブドレン水位①：T.P.1982mm → T.P.－222mm
+　　　　　　　　・当該サブドレン水位②：T.P.1959mm → T.P.－243mm
+　　　　　　　　・４号機原子炉建屋滞留水水位：T.P.769mm
+　　　　　　　　・４号機廃棄物処理建屋滞留水水位：T.P.881mm
+　　　午後６時50分　当該サブドレンポンプ停止状態確認
+　　　午後６時54分　当該サブドレン水位が建屋滞留水より高い位置に復帰したことを確認
+　　　　　　　　・当該サブドレン水位①：T.P.2982mm（本日午後０時現在の値）
+　　　　　　　　・当該サブドレン水位②：T.P.2954mm（本日午後０時現在の値）　　
+　　　午後６時59分　４号機原子炉建屋および廃棄物処理建屋近傍のサブドレンを手動停止
+
+　当該サブドレン水位の指示低下が急激であること、当該サブドレン以外の周辺サブドレン水位に変化がないことから、当該サブドレン水位計の計器故障と判断。
+
+　8月3日、当該サブドレン水位計の健全性を確認するため、現場にて実水位測定を行ったところ、当該サブドレンの実水位と水位計の指示値が同等であることを確認。また、当該サブドレン水位が低下した時間帯における周辺での作業状況を確認したところ、当該サブドレンに隣接しているサブドレンNo.215において、同時間帯にサブドレン増強復旧工事のケーシング削孔作業を行っていたことが判明。
+
+　確認結果から、当該サブドレン水位計の故障の可能性は低いことが判明したため、掘削作業との因果関係は不明なものの、実際に当該サブドレン水の水位が低下した可能性が高いと判断。特定原子力施設の保安第１編第26条「建屋に貯留する滞留水」において、各建屋の滞留水水位が「各建屋近傍のサブドレン水の水位を超えないこと」を運転上の制限として定めている。当該サブドレン水の水位が一時的に低下したことにより、４号機原子炉建屋および廃棄物処理建屋の滞留水が、当該サブドレン水の水位を超えていた時間帯があり、運転上の制限を満足しているとはいえない状態だった。ただし、当該サブドレン水の水位は一時的に低下したものの、23分で４号機廃棄物処理建屋滞留水より高い位置に復帰しており、その後は運転上の制限を満足した状態を継続。
+
+　今回の事象のように、過去に運転上の制限を満足していなかったことを確認した場合において、確認した時点で運転上の制限を満足している状態、または適用されない状態であれば、要求される措置※を実施する必要がないため、運転上の制限を満足していないと判断する必要はないこととなっている。（※運転上の制限を満足していないと判断した場合に要求される措置としては、速やかに運転上の制限を満足できる状態に復旧するとともに、建屋近傍にあるサブドレン水の放射能濃度を測定することとなっている。）
+
+　当該サブドレン水の放射能濃度を測定した結果、以下の通りであったことから、４号機原子炉建屋および廃棄物処理建屋滞留水が、当該サブドレンに流出した可能性はないと判断。
+
+　＜当該サブドレン水の測定結果＞[採取日8月3日]
+　・Cs-134：　検出限界値未満（検出限界値：4.7Bq/L）
+　・Cs-137：　検出限界値未満（検出限界値：4.8Bq/L）
+
+　今回の事象においては、当該サブドレン水の水位が一時的に低下したことにより、４号機原子炉建屋および廃棄物処理建屋の滞留水が、当該サブドレン水の水位を超えていた時間帯があり、運転上の制限を満足しているとはいえない状態。過去に運転上の制限を満足していなかったことを確認した場合において、確認した時点で運転上の制限を満足している状態であれば、要求される措置を実施する必要がないことから、一旦は「運転上の制限を満足していないと判断する必要はない」と判断。
+
+　他社事例も踏まえて社内関係者で協議したところ、４号機原子炉建屋および廃棄物処理建屋の滞留水が当該サブドレン水の水位を一時的に超えていたことは、過去に遡ってでも「運転上の制限を満足していない」と判断すべき事象であったと判断。
+以上のことから、8月3日午後７時48分、本事象については、2017年８月２日午後６時31分から午後６時54分にかけて、特定原子力施設の保安第１編第26条「建屋に貯留する滞留水」において、各建屋の滞留水水位が「各建屋近傍のサブドレン水の水位を超えないこと」を満足していないと判断。また、午後６時54分の段階で運転上の制限を満足できる状態に復旧したと判断。
+
+　当該サブドレン近傍のサブドレン水について放射能濃度を測定した結果、至近の分析結果と比較して有意な変動はなし。
+　＜４号機原子炉建屋および廃棄物処理建屋近傍のサブドレン分析結果＞[採取日8月3日]
+　　　サブドレンNo.40　 ：Cs-134　2.0×101Bq/L
+　　　　　　　　　　　　  Cs-137　2.0×102Bq/L
+　　　サブドレンNo.45　 ：Cs-134　検出限界値未満（検出限界値：5.0Bq/L）
+　　　　　　　　　　　　  Cs-137　1.6×101Bq/L
+　　　サブドレンNo.52　 ：Cs-134　検出限界値未満（検出限界値：2.7Bq/L）
+　　　　　　　　　　　　  Cs-137　検出限界値未満（検出限界値：5.8Bq/L）
+　　　サブドレンNo.53　 ：Cs-134　検出限界値未満（検出限界値：4.7Bq/L）
+　　　　　　　　　　　　  Cs-137　7.0×100Bq/L
+　　　サブドレンNo.55　 ：Cs-134　検出限界値未満（検出限界値：5.3Bq/L）
+　　　　　　　　　　　 　 Cs-137　5.8×100Bq/L
+　　　サブドレンNo.211　：Cs-134　検出限界値未満（検出限界値：4.1Bq/L）
+　　　　　　　　　　　　  Cs-137　検出限界値未満（検出限界値：4.3Bq/L）
+　　　サブドレンNo.212　：Cs-134　検出限界値未満（検出限界値：5.0Bq/L）
+　　　　　　　　　　　　  Cs-137　3.9×100Bq/L
+　　　サブドレンNo.213　：Cs-134　検出限界値未満（検出限界値：5.3Bq/L）
+　　　　　　　　　　　　  Cs-137　検出限界値未満（検出限界値：4.3Bq/L）
+　　　サブドレンNo.214　：Cs-134　検出限界値未満（検出限界値：4.7Bq/L）
+　　　　　　　　　　　　  Cs-137　検出限界値未満（検出限界値：3.9Bq/L）
+　　　サブドレンNo.215　：Cs-134　検出限界値未満（検出限界値：3.3Bq/L）
+　　　　　　　　　　　　  Cs-137　検出限界値未満（検出限界値：3.8Bq/L）
+
+　これ以降、前日の分析結果と比較して有意な変動はなし。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【水位低下の原因】
+＜ No.51水位低下の発生状況＞
+・No.51の急激な水位低下は、新No.215のケーシングを連通管と同じレベルまで下げたほぼ同じ時刻に発生している。
+＜ 連通性確認試験の結果＞
+・No.51と新No.215の連通性確認試験では、ケーシングの動きに伴いNo.51の水位が変動することを確認した。
+＜推定原因＞
+・No.51の急激な水位低下は、新No.215のケーシング掘削作業が影響した。
+【問題点】
+①施工方法に対する問題点
+8月2日のNo.51の急激な水位低下は、近傍での掘削作業による影響と推定されることから、再発防止対策を実施した上で、工事を再開する。
+②工事計画時の問題点
+②－１ 工事実施箇所（建築部門）は、サブドレン掘削工事は周辺地盤全体に対して局所的な掘削であり、周辺地盤地下水位に大きな影響を及ばさないこと、
+また、近傍サブドレン水位の変動は、周辺地盤の地下水位の変化に連動して生じるもので、サブドレン掘削工事では生じないと認識していた。
+このため、地下水ドレン・地下水バイパス・凍土遮水壁等の地下水に関わる工事を行っている土木部門へ、サブドレン掘削工事の具体的な情報提供を行わず、
+工事実施箇所（建築部門）と放射線管理部門、協力企業のみで工事計画や安全事前評価を行った。
+②－２ 新No.215サブドレンの掘削作業が既存サブドレンと連通管の近傍作業にも関わらず、工事実施箇所は当直に工事情報を共有しなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　サブドレンNo.51の一時的な水位低下について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[保安規定違反「監視」]]></IHAN_SHOSAI_TXT>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[サブドレン設備]]></S_KEITO_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/09/19 09:50:36]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[サブドレン]]></S_KIKI_NAME>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[サブドレン]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12715</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[品質管理不良]]></S_GENIN_NAME>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[199]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[その他]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[特定原子力施設の保安第1編第26条]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[99]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[その他]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>12715</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

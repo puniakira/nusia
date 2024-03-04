@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10994</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/06/16 13:29:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/06/15 13:58:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100528]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定格熱出力一定運転中の4号機については、平成２１年８月頃より原子炉建屋地下2階（放射線管理区域内）に設置している制御棒駆動水ポンプ※１(A)、(B)のポンプ軸封部に、ポンプの機能に影響はない僅かな漏えいを確認しており、これまで軸封部の漏えい量を監視するとともに、ポンプの運転を継続してきた。
+平成２２年５月９日頃より運転中のポンプ(B)の漏えい量が増加し、軸封部の取替目安（１０ｃｃ／分）の半分程度まで増加したため、予防保全の観点から、ポンプ(A)，(B)の軸封部の取替を行うこととした。
+なお、本事象による原子炉の緊急停止機能およびプラントの運転への影響はなく、安定運転を継続している。
+
+【取替結果】
+平成２２年５月３１日から制御棒駆動水ポンプ (Ａ)，(Ｂ)の軸封部の取替を順次行い、平成２２年６月１０日に完了した。
+取り替えた軸封部の外観を観察した結果、軸封部の摺動面に面荒れがあったことから、ごく小さい鉄錆等の不純物が摺動面に噛み込み、面荒れが生じたことで、軸封部からポンプ内の制御棒駆動水が漏えいしたものと推定した。
+軸封部の取替により、ポンプ(Ａ)，(Ｂ)軸封部からの漏えいはなくなった。
+
+※１　制御棒を原子炉内に挿入・引抜するための駆動水を供給するポンプである。制御棒駆動水ポンプは（A），（B）2台あり、1台運転、1台予備としている。なお、制御棒駆動水ポンプとは別に、制御棒を原子炉内に緊急挿入するための専用の蓄圧装置を制御棒ごとに有しており、緊急時には、この蓄圧装置により制御棒を原子炉内に挿入し、原子炉を停止する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒駆動水ポンプの軸封部の取替について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/06/16 13:29:38]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

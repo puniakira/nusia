@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13480</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/04/27 11:04:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>106594</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/04/12 09:13:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202202151040]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・2月15日午前10時40分頃、ブライン配管電動弁追設工事のため陸側遮水壁設備を停止したところブラインタンクの水位が低下していることを当社社員が発見。
+状況は以下のとおり。
+・発生場所：陸側遮水壁ブラインタンク
+・設備名称：陸側遮水壁設備
+・設備の状況：陸側遮水壁ブラインタンクの水位が低下
+・応急処置：午前11時頃、ブラインタンクからブラインを陸側遮水壁へ送り出す弁を閉操作したところ水位低下は停止した。
+・外部への影響：なし
+プラントパラメータ、モニタリングポストの指示に異常なし。
+
+設備が停止しても陸側遮水壁が溶け始めるまでには数ヶ月程度の期間があることから直ちに陸側遮水壁に影響が出るものではないと評価。
+現場調査の結果、2・3号間山側道路の横断部の下部において、陸側遮水壁設備の配管よりブラインが漏えいしていることを午後4時に確認した。なお、ブラインは汚染しておらず、環境影響も確認されていない。
+また、ブラインタンクの水位低下が確認されていない系統について午後4時8分に運転を再開した。陸側遮水壁設備の温度に有意な変動は確認されていない。
+
+2月16日、陸側遮水壁設備の配管からブラインが漏えいしている箇所について、保温材を取り外して確認した結果、配管接合部からの漏えいであることを確認。
+2月17日、系統内の残液の回収を完了し、当該箇所の復旧に向けた作業を実施。
+陸側遮水壁の機能維持のため、2月18日午前11時15分、ブライン漏えい箇所復旧までの暫定措置として、運転中のプラント1系から連絡弁を介して、停止中のプラント2系の一部へのブライン供給を開始した。
+2月18日午前11時42分に運転後の設備に異常がないことを確認、温度等のパラメータ監視を継続。
+2月20日、陸側遮水壁設備のブラインが漏えいした配管接続部について、配管の位置調整およびカップリングジョイントの交換を実施し復旧した。
+2月21日午後10時27分、ブライン供給を停止しているエリアへの供給を再開し、設備に異常が無いことを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東京-S043]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[陸側遮水壁におけるブラインタンク液位低下について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/04/27 11:04:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

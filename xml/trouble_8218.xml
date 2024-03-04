@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地での点検結果
+（１）手動ハンドルによる弁動作確認
+　当該弁について手動操作を実施したところ、引っかかり等異常はなく開閉操作できた。また、外観目視点検を実施したが、異常は認められなかった。
+（２）電気回路点検
+　１）弁駆動部点検
+　電気ボックス内外観目視点検、リミットスイッチ接点導通確認、ケーブル健全性確認（導通確認）の結果、異常は認められなかった。
+　２）操作スイッチ関係点検
+　操作スイッチ導通確認、ケーブル健全性確認（外観目視）の結果、異常は認められなかった。
+　３）中央制御室外原子炉停止装置
+　中央制御室外原子炉停止装置におけるセレクタースイッチ接点（導通確認）、ケーブル健全性確認（導通確認）の結果、異常は認められなかった。
+　４）ＭＣＣ
+　電動機駆動回路の電磁接触器について接点の導通確認を実施した結果、当該弁が全開の状態において、導通状態にあるべき接点の１箇所（４２／ｏ１－２）に導通がないことが確認された。これ以外に異常はなかった。
+　なお、この導通のなかった接点は、当該事象に伴う触手による単体点検中に正常（導通状態）に復帰した。
+　また、セレクタースイッチ接点、ヒューズ（導通確認）、ＭＣＣ２次側電圧測定、ケーブル健全性確認、サーマル動作の有無確認の結果、いずれも異常は認められなかった。
+（３）電動機点検
+　絶縁抵抗測定、巻線抵抗測定の結果、異常は認められなかった。
+２．工場における点検調査結果
+（１）接点拡大観察
+　固定側接点表面に付着物が確認された。
+（２）接点付着物成分分析
+　定性分析の結果、付着物の成分として、ナトリウム・マグネシウム・ケイ素・硫黄・塩素・カルシウム・クロム・鉄・亜鉛が確認された。また、赤外線吸収スペクトルでは有機酸塩及び水酸基の存在が確認された。
+（３）その他
+　その他実施した不具合電磁接触器の寸法測定・電気的動作確認等の結果に異常はなかった。
+（４）電磁接触器組立手順確認
+　電磁接触器補助接点部にはカバーが取り付けられており、完成後は補助接点に手が触れる可能性はないことから、製作時の組立手順を確認したところ、組立作業は素手で実施しており、接点を素手で触れてしまう可能性のあることが判明した。
+　又、製作工場では、手洗水に温泉が使用されていることを確認した。
+（５）付着物の推定
+　不具合発生の電磁接触器接点付着物の成分分析結果より、以下の成分が含まれている可能性があることが分かった。
+・皮脂成分 …塩害汚損が少ない場所においてナトリウムと塩素を検出
+・石鹸成分 …有機酸塩に加え、ナトリウムを検出
+・温泉水成分…水酸基に加え、マグネシウム・カルシウム・ケイ素・硫黄等を検出
+　以上より、製作工場にて手洗い時に使用している石鹸及び温泉水が接点に付着したと推定し、当該温泉水と石鹸を溶かした温泉水の成分分析を実施したところ、温泉水からはナトリウム・ケイ素・硫黄・塩素・カルシウムが、石鹸を溶かした温泉水からはナトリウム・ケイ素・硫黄・塩素・カルシウム・チタンが確認された。これらの成分は不具合発生の電磁接触器補助接点付着物の成分にほぼ含まれることから、補助接点には石鹸及び温泉水または温泉水のみが付着したと考えられる。
+　確認された成分の中で、今回のような接触不良を起こさせる可能性がある成分物としては、硫黄と接点表面の銀の反応による硫化銀と、ケイ素の酸化による酸化ケイ素が考えられる。
+（６）再現試験
+　電磁接触器２台の補助接点に石鹸を溶かした温泉水を付着させ、乾燥した上で電磁接触器を動作させ接触抵抗測定を１００回ずつ実施したところ、それぞれ１７回と６回の導通不良状態が確認された。
+
+　なお、今回と同様な事象が平成１８年７月３日にも発生したため、取替えた電磁接触器についても同様に工場にて調査した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[110]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8218</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/08/10 18:26:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第41条第2項の運転上の制限を満足していないと判断
+平成18年5月8日　11時20分　運転上の制限を満足していないと判断（運転上の制限逸脱を宣言）
+平成18年5月9日　13時10分　運転上の制限逸脱解除を宣言]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3477</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/05/11 09:19:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200605081120]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）不具合の認められた電磁接触器について、新品（未対策品）と取替を実施し、弁単体動作確認にて正常に動作することを確認するとともに、ＲＣＩＣ健全性確認において、当該弁の動作に異常のないことを確認した。
+（２）再発防止対策として、補助接点部の組立作業は、手袋を着用して実施する手順とした。さらに作業場における清浄度を向上させるため、組立作業に使用する作業台について、作業開始前にアルコールで洗浄することとした。
+（３）水平展開として、当該電磁接触器と同型の電磁接触器のうち、不具合品と同時期に同様な手順にて製作、交換された電磁接触器については、同様の不具合発生が否定できないことから、対策済の電磁接触器に全数取替えることとする。なお、対象電磁接触器のうち、ＲＣＩＣ系で使用されているものについては、対策品製作完了後、当該系統を計画的に待機除外として速やかに取替えることとする。また、その他系統の電磁接触器については設備の重要度に応じ取替時期を設定する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/08/10 18:26:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中のところ、平成１８年５月８日９時３２分より、原子炉隔離時冷却系（以下、「ＲＣＩＣ」という。）の定期試験を開始し、ＲＣＩＣポンプを起動した。その後、ポンプ起動後全開となっているＲＣＩＣテストバイパス弁E51-F022（電動弁）（以下、「当該弁」という。）を、ポンプ出口圧力調整のため徐々に閉操作しようとしたところ、当該弁が閉動作しないことが確認された。
+　これにより、原子炉施設保安規定第４１条第２項の確認ができないことから、１１時２０分ＲＣＩＣの運転上の制限逸脱を宣言した。
+　なお、ＲＣＩＣポンプ運転に先立って実施した電動弁単体での作動試験においては、当該弁が正常に開閉動作したことを確認している。
+　運転上の制限逸脱に伴い、原子炉施設保安規定で要求される措置として、自動減圧系及び高圧炉心スプレイ系の健全性確認を実施した。
+　なお、本事象による外部への放射能の影響はなかった。
+　点検の結果、電磁接触器に不具合が確認されたため、当該電磁接触器の取替を行った。取替後、弁の単体作動試験を実施し、動作に異常がなかったことから、ＲＣＩＣの健全性確認を行ない、異常のないことを確認し、平成１８年５月９日１３時１０分運転上の制限逸脱を解除した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-原電-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査の結果、当該弁が閉操作できなくなった原因は、当該弁を閉操作する際に導通状態になるべき接点４２／ｏ１－２が導通状態になく、弁閉動作に必要な電気回路が形成されていなかったことによるものと考えられる。
+　また、補助接点が接触不良に至った原因は、補助接点組立作業に際し、作業開始前の手洗いで作業者の手に付着した石鹸成分及び温泉水成分が、組立作業時に補助接点表面に付着し、付着物に含まれる硫黄と接点表面の銀が反応して生成された硫化銀や、付着物に含まれるケイ素が酸化して生成された酸化ケイ素等の絶縁物が接点間表面に生成されたためと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉隔離時冷却系の運転上の制限逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1115</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/05/12 10:41:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[接触部]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8218</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[リレー]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉隔離時冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[110]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[110]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8218</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

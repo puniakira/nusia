@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地調査結果
+　ＧＩＳに封入されている絶縁ガス（六フッ化硫黄）について分析した結果、当該ブロックの絶縁ガス中に、ＧＩＳ内部で放電があったことを示すガス（二酸化硫黄）が検出され異常が確認された。
+　このため、当該ブロックの開放点検を実施した結果、以下の内容が確認された。
+　・絶縁スペーサ表面の白相、黒相間に短絡した跡が確認された。
+　・白相、黒相の導体およびシールドに放電によるものと思われる溶損が確認された。
+　以上のことから、ＧＩＳ試充電中に当該ブロックの白相と黒相間が短絡し、試充電用の電源として使用していた伊方南幹線２号線の保護リレーが作動し試充電が自動停止したものと推定される。
+
+２．工場調査結果
+（１）各部点検調査
+　当該ブロックを工場に搬送し調査した。
+ａ．取付部品点検調査
+　各相（赤相、白相、黒相）の各部品について点検を行った。
+
+（ａ）コンタクト部　
+　・白相、黒相のシールド、アダプタおよび絶縁スペーサ埋金部に放電による溶損が確認された。
+　・全相のシールド先端部下部に打痕と削れが認められた。
+　・コンタクト部を分解点検した結果、赤相コンタクト内部より金属性異物（長さ１０ｍｍ程度の線状）が確認された。
+　なお、確認された異物は当該異物のみであった。
+
+（ｂ）導体部
+　・白相、黒相に放電による溶損が確認された。
+　・赤相、白相の導体先端部に削れが確認され、黒相の導体先端部には圧迫痕が確認された。なお、それらの導体先端部の傷位置はシールドの傷位置と一致していた。
+
+（ｃ）絶縁スペーサ
+　・絶縁スぺーサ表面の白相、黒相間に短絡による炭化が確認された。
+　・Ｘ線検査を実施した結果、内部欠陥等の短絡の要因となる異常は確認されなかった。
+
+（２）異物の調査
+　赤相コンタクト内部で確認された金属性異物について成分分析等を実施した結果、当該異物は導体先端部と同一成分であった。
+
+（３）異物による放電発生の可能性
+　ＧＩＳ内部に金属性異物が存在した場合、短絡に至る可能性を検討した結果、以下のことが判明した。
+　・導体先端部傷と同形状の金属性異物が存在する状態で荷電した場合、ＧＩＳ内の電界等の影響を受け、異物がＧＩＳ内を浮遊する可能性がある。
+　・金属性異物が荷電部（コンタクト）近傍の絶縁スペーサ表面に付着した場合、放電が発生し短絡に至る可能性がある。
+　以上の結果から、シールドと導体先端部の接触により金属性異物が発生した。さらにＧＩＳの荷電によりこの異物が電界等の影響を受け浮遊し、コンタクト近傍の絶縁スペーサ表面に付着し、白相と黒相の間で短絡が発生したものと推定される。
+
+３．現地組立状況等の調査
+金属性異物がシールドと導体先端部の接触により発生したと推定したことから、現地組立状況等を調査した。
+（１）現地受入時の点検状況
+　聞き取り・組立記録を調査した結果、ＧＩＳ現地受入時の導体先端およびシールドの点検において、接触痕等の異常は確認されていなかった。
+
+（２）現地組立の状況
+　当該ブロックを含む伊方北幹線１号線ユニット（以下「幹線ユニット」という）と甲乙母線連絡ユニット（以下「連絡ユニット」という）の組立は、メーカ技術員の指導の元、ＧＩＳ組立では十分実績がある以下の要領で行われた。
+　・連絡ユニットを、基礎ベースに設置完了済みの幹線ユニットの直前までチルローラで移動後、基礎ベース上に仮置き。なお連絡ユニットは、制御盤と当該ブロックが輸送用支持部材で連結された状態。
+　・連絡ユニットと基礎ベースの間に上下位置調整用の鉄製の薄板（以下「シム」という）を挿入し、幹線ユニット側のコンタクトと連絡ユニット側の導体の上下位置を調整。なおシムは、４本ある基礎ベースの内、中側の２本にのみ挿入。
+　・レバーブロックにより連絡ユニットを基礎ベース上を滑らせながら引込み、コンタクト（６箇所）に導体（６本）を同時に挿入。なお挿入時は、母線着脱ブロック側面のハンドホールから目視および触手で状況を確認。
+　組立状況の聞き取り調査の結果、連絡ユニットは組立時にシールドと導体の位置ずれが大きく、他のユニットに比べ作業が難しい状態であったことが確認された。
+
+（３）類似母線着脱ブロック内調査
+　連絡ユニットと同じ要領で組み立てられたユニットの母線着脱ブロック（１４箇所）についても開放点検した結果、シールドと導体の有意な接触痕や金属性異物は確認されなかった。　
+　以上のことから、現場組立方法は、規定どおりの手順で実施されていたが、当該ユニットのみシールドと導体の相対的な位置のずれが大きく、手順どおりに組み立てても当該部が接触する可能性があることが判明した。
+　このため、連絡ユニット接続時の導体の変位（以下「たわみ」という）量を調査した。
+
+４．導体のたわみ量調査
+　現地組立と同じ以下の条件で連絡ユニットの甲・乙母線用のそれぞれの導体の自重によるたわみ量を解析した。
+　・制御盤と当該ブロックを輸送用支持部材により連結
+　・ユニットの全体荷重はシムを挿入した２本の基礎ベースで支持
+　その結果、連絡ユニットの形状から甲側の導体のたわみ量が大きいことに加え、上記の条件により、甲側の導体のたわみ量が乙側に比べ０．６５ｍｍ大きくなることが確認された。
+　一方、シールドと導体の隙間は３ｍｍ、組立寸法公差は最大２．５ｍｍであり、組立寸法公差が最大値近くあった場合には、乙母線側のシールドと導体の芯を合わせると、甲母線側のシールドと導体は接触する可能性のあることが判明した。
+（組立寸法公差２．５ｍｍ　＋　甲・乙導体のたわみ量差０．６５ｍｍ）
+　　＝　３．１５ｍｍ　＞　シールドと導体の隙間３ｍｍ
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2457</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/05/11 16:24:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2953</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/07/12 10:55:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200406031000]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）短絡箇所である幹線ユニットおよび連絡ユニット間の当該ブロックについては、新品（１号機で使用予定であった同仕様ユニット[伊方南幹線１号線用]）に取り替えた。
+
+（２）連絡ユニットと同じ要領で組み立てられたユニットの母線着脱ブロック（１４箇所）を開放点検し、シールドと導体の有意な接触痕や異物がないことを確認した。
+また、異物確認等を行った上で導体がシールドに接触しないように、組立方法をユニット一体から、導体１本ずつ組み立てる方法に変更して実施した後、再度、耐電圧試験と試充電を実施し、異常のないことを確認した。
+　なお、念のため、耐電圧試験と試充電時、微少放電の確認および音波による内部異物の確認によるＧＩＳの内部診断を実施し、異常のないことを確認した。
+
+（３）今後、１号機の定期検査で実施する作業については、ＧＩＳユニットの設置は終了しているので、今回開放点検した母線着脱ブロック以外の３箇所を開放し、導体先端部およびシールドに接触がないことおよびＧＩＳ内部に異物のないことを確認するとともに、導体がシールドに接触しないよう変更した方法で組み立てる。
+　また、当該事象発生部位である当該ブロックは工場修理を実施し、伊方南幹線１号線用として、１号機定期検査時に同様の変更した方法で組み立てる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/11 16:24:09]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第１７回定期検査中の伊方２号機で、屋内開閉所のガス絶縁開閉装置（ＧＩＳ）の設置工事において、試充電を行っていたところ、電源として使用していた伊方南幹線２号線の保護リレーが作動した。
+このため、ＧＩＳの調査を行ったところ、６月３日１０時００分頃、ＧＩＳ内部の絶縁ガスの分析結果に異常が認められた。
+その後の調査の結果、ＧＩＳの現地組立作業時に、導体先端とシールド先端が接触し、その際に金属異物が発生したため、試充電時にこの金属異物により短絡（ショート）が生じ、保護リレーを作動させたものと推定される。
+このため、当該部を取り替えるとともに、ＧＩＳ設置工事で同様な接続作業を行った１４箇所について点検を行い、異常のないことを確認した。
+
+［試充電］
+電気設備を組み立て後、設備の健全性を確認するため、初めて通電すること。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-四国-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　連絡ユニットの現地組立において制御盤とＧＩＳの自重により、想定以上の導体たわみが発生したため、シールドと導体がわずかに接触し、金属性異物がＧＩＳ内に発生した。
+　発生した金属性異物がＧＩＳ試充電により電界の影響を受け浮遊し、絶縁スペーサ沿面の高電界部に付着したことから、放電が発生し短絡に至り、送電線の保護リレーが作動し、試充電が自動停止したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[ガス絶縁開閉装置（ＧＩＳ）の不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/07/13 11:50:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+			<TROUBLE_ID>2457</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[遮断器・断路器*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2457</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[超高圧遮断器]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[264]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2457</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2457</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2457</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2457</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

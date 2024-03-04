@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11611</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/10/19 11:08:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2012/10/19 11:07:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20120907]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[敦賀発電所２号機において、排気筒から放出されるトリチウム※1放出量及び濃度の評価に使用している、トリチウムサンプリング系の露点温度記録計の記録スケールの設定に誤り※２があることを９月７日に確認した。
+その原因を調査した結果、平成２３年１１月に当該露点温度記録計を取り替えた際に、受注者が記録スケールの設定を誤り、当社もその誤りに気付かずに使用していたことを確認した。
+また、トリチウムの放出量及び濃度について、当該露点温度が実際より高めに指示した値を使用して計算したため、平成２３年１１月から平成２４年６月までの間、実際より高く評価されていることを確認した。
+対策として、今後記録計取り替え時には、記録計スケールの設定確認を行う。
+なお、本事象は、トリチウムの放出量及び濃度を実際より高く評価したものであり原子炉施設への影響はなく、周辺環境への影響もない。
+国や自治体に提出している排気筒から放出されるトリチウム放出量及び濃度については、正しい値にて評価を行い９月１２日に再提出した。
+※１：トリチウムは空気中の水蒸気に含まれているため、サンプリング装置で定期的に空気を凝縮した水を回収しトリチウムの放射能測定を行なっている。その際、空気中の水蒸気の量は季節等によって変動するため露点温度の指示値で空気中の水蒸気の量を補正してトリチウム濃度を評価している。
+※２：本来－２０℃～６０℃に設定するところ、他の温度記録計の設定と見誤り－２０℃～８０℃に設定]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-原電-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[排気筒トリチウムサンプリング系露点温度スケールの設定誤り]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/10/19 11:08:40]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

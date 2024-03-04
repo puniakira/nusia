@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12079</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/08/05 17:43:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>49117</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/07/29 10:24:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201407181400]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/08/05 17:43:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2014年7月18日 14時00分頃、当社ホームページ「リアルタイムデータ」で公開している第2焼却炉放射線モニタ※1のダスト※2およびヨウ素の指示値が、自然放射線による変動範囲の上限をわずかに超過した。その後の調査の結果、放射性物質の放出および環境への影響はなかった。
+　ダスト：自然放射線による変動範囲　6.5～7.5cps 　 14時00分時点の指示値　7.8cps※3
+　ヨウ素：自然放射線による変動範囲　6.9～7.9cps  　14時00分時点の指示値　8.0cps
+
+　事象発生時、可燃性固体廃棄物の焼却のために当該焼却炉の運転をおこなっていたが、その後、すみやかに運転停止操作を実施した。
+　当該放射線モニタに設置されているフィルタを取り外し、詳細に放射能測定をおこなったところ、放射性物質は検出されなかった。
+　
+　要因分析に基づく原因調査の結果から、焼却炉放射線モニタ指示値が一時的に上昇し、自然放射線による変動範囲をわずかに超過した原因は、実際に放射性物質が放出されたものでないこと、作業などにより測定設備にノイズなどの外部からの影響が加わったものでないことを確認した。また、検出器などの測定設備の点検をおこなった結果、異状は確認されなかったものの、一過性の不調の有無については確認できなかった。
+　調査結果から、本事象は測定設備の一過性の不調が原因で発生する可能性を否定できないことから、部品の取替をおこなう。
+
+※1　焼却炉放射線モニタとは、廃棄物減容処理装置建屋焼却炉排気筒から放出する排気中の放射性物質の濃度を連続して測定する装置。
+※2　粒子状の放射性物質のこと。
+※3　放射性物質の濃度は、カウント毎秒（count per secondの略）という単位で表示している。これは、1秒間に測定された放射線の数を示す。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-中部-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所　廃棄物減容処理装置建屋（第2建屋） 焼却炉放射線モニタ指示値の自然放射線変動範囲の超過について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/07/29 10:24:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

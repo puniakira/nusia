@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10355</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/05/18 16:01:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4459</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/05/18 00:04:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200905151727]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[柏崎刈羽７号機は、平成19年７月16日に発生した新潟県中越沖地震の影響により停止していたが、平成21年５月８日よりプラント全体の機能試験を開始し、その後、計画的に試験を進めている。
+
+平成21年５月15日、午後１時９分、主タービンを起動した後に、発電機の仮並列による発電開始の準備を進めていたところ、午後５時27分頃、「計算機検出器故障」の警報が発生し、その後、運転中の電動機駆動原子炉給水ポンプ（Ｂ）の給水流量調節弁の状態が正しく表示されなくなり、現場の弁の開度と異なっていることが確認された。そのため、原子炉を未臨界状態にして、当該原子炉給水ポンプ（Ｂ）の給水流量調節弁の開度表示器を点検・修理・調整することとし、あわせて、もう１台ある電動機駆動原子炉給水ポンプ（Ａ）の給水流量調節弁の開度表示器の点検も実施することとした。
+
+調査の結果、給水流量調節弁を絞った状態で電動機駆動原子炉給水ポンプを運転していた際、当該弁に取り付けられている開度発信器に加わる振動により、開度発信器のゼロ点調整部等にズレが生じ、当該弁の開度表示が実際の弁の開度と異なる事象が発生したものと推定した。
+
+　対策として、電動機駆動原子炉給水ポンプ（Ｂ）の給水流量調節弁の開度発信器を予備品に交換するとともに、ゼロ点調整部等を固定し、実際の弁の開度と開度表示が一致していることを確認した。なお、現場に遠隔監視カメラを設置し当該部の開度を常時監視できるようにした。
+電動機駆動原子炉給水ポンプ（Ａ）については、本年５月11日に当該ポンプを起動した際に、実際の弁の開度と開度表示にズレが発生したため、調整を行い正常な状態に復帰させていた。その際、電動機駆動原子炉給水ポンプ（Ｂ）の給水流量調節弁の開度表示については異常がないことを確認していた。
+また、電動機駆動原子炉給水ポンプ（Ａ）についても、本日、念のため予備品に交換するとともに、ゼロ点調整部等を固定し、実際の弁の開度と開度表示が一致していることを確認した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[電動機駆動原子炉給水ポンプ給水流量調節弁の開度表示器の不具合]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/05/18 16:01:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

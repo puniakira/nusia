@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[RCIC・ADS継電器盤の盤内配線が焼損していることから，当該ワイヤ部に過電流が流れたものと想定し，原子炉格納容器内にある逃がし安全弁作動用の電磁弁（SV02-1BC）回路の抵抗値を継電器盤からテスターで測定した。
+その結果，抵抗値は約２Ωであり短絡状態であることを確認した。また，電磁弁端子箱内部の点検のため端子箱に接触したとき継電器盤で測定している抵抗値が変動した。また，電磁弁，電磁弁端子箱，可とう電線管付近をタッピングすると抵抗値が大きく変動した（約２～５６７Ω）。その後，調査により以下を確認した。
+（１）電磁弁（SV02-1BC）
+電磁弁単独での抵抗値を測定したところ，５６１Ωであり正常であった
+（仕様値５５６±２８Ω）。また対地間の絶縁抵抗値も２００ＭΩ以上であり問題なかった。（基準値１００ＭΩ以上）
+（２）電磁弁端子箱
+電磁弁端子箱内部を目視点検したところ異常はなかった。また，端子ビスおよびその締め付け状況に異常はなかった。
+（３）ケーブル
+電磁弁端子箱の現場側のケーブル（白，黒）をジャンパし継電器盤から導通状態を確認し，断線がないことを確認した。またケーブルの絶縁抵抗値は対地間・線間とも　２０００ＭΩ以上であり問題はなかった（外部ケーブル絶縁抵抗管理値１０ＭΩ以上）。
+（４）再現性試験
+電磁弁ケーブルを調査前の状況にもどして直流１１０Ｖ電源を印加し，白ケーブル端子部にドライバーをあて繰り返し回転動作を加えたところ，電圧が低下・復帰を繰り返す事象を確認した。
+このため，再度電磁弁端子箱のケーブルを外して目視で確認したところ，白ケーブルの端子から約５ｃｍ離れた箇所で，ケーブル芯線被覆に貫通穴が２箇所あることを確認した。この位置は，端子を固定したときに黒ケーブルの端子の圧着部からはみ出した素線と重なる箇所であることを確認した。
+また，盤内配線（ラッピングワイヤ）の過電流試験を実施したところ，３０Ａの電流が流れると約５秒で溶断することを確認した。
+（５）要因分析
+電磁弁端子箱のケーブル芯線被覆へ貫通による短絡が，RCIC・ADS継電器盤の盤内配線焼損の直接的な原因と考えられるが，それ以外の要因がないか要因分析図を用いて確認した。
+a-1.制御盤内の短絡
+論理回路の点検結果を確認し，健全性を確認した。
+a-2.ケーブルの短絡
+ケーブルを端子台から取り外した状態において，導通状態を確認した結果，異常は見られなかった。
+a-3.ケーブル２線の地絡
+ケーブルの絶縁測定および事象発生時の直流地絡警報の発報状況を確認した結果，異常は見られなかった。
+a-4.電磁弁端子台での短絡
+ケーブルを事象発生時と同じ状態に接続して通電したところ，事象が再現した。
+a-5.電磁弁コイルの短絡
+電磁弁単体の抵抗，絶縁抵抗測定を実施した結果，異常は見られなかった。
+a-6.格納容器ペネトレーションでの短絡
+ケーブルの一部として抵抗値，絶縁抵抗測定を実施した結果，異常は見られなかった。
+b.信号投入の不良
+社内確認に用いた定期事業者検査要領書を確認した結果，操作上に問題は見られなかった。
+c.仮処置の不良
+社内確認に用いた定期事業者検査要領書を確認した結果，仮処置における問題は見られなかった。
+d.結線の不良
+結線の復旧状態を工事記録で確認した結果，正しく結線され問題の無いことを確認した。
+e.経年劣化による絶縁不良
+事象発生当時に直流地絡警報が発生していないことを確認した結果，異常は見られなかった。
+f.運転操作不良
+事象発生当時，当該系統に影響を与える運転操作を実施していなかったことを確認した。
+g.作業による外部からの入熱
+事象発生当時，中央制御室での火気作業を実施していないことを確認し，外部からの要因が無いことを確認した。
+（６）B-RV開動作せず，A,C-RVが開動作した理由について
+盤内配線の焼損痕の調査から，配線を束ねた部分の焼損により配線被覆が溶けた状態となっており，A,C-RVの回路が通電していたことが考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10551</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/11/05 19:53:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/09/08 16:49:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200907251315]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）RCIC・ADS継電器盤（922）およびHPCI継電器盤（921）において損傷した盤内配線，端子台等電気品を新品に取り替える。
+（２）当該電磁弁端子箱内のケーブル端末を一旦切断し，再度端末処理した後，ケーブル端子の素線上に重ならないように引き回しを手直しする。
+（３）逃がし安全弁の他の全ての電磁弁についてもケーブル端子の取り付け状況を確認し，短絡が発生しない取り付け方法に変更する。
+（４）ケーブル端子箱におけるケーブル端末の引き回し方法についての要求事項を，当社仕様書に明確にする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/11/05 19:53:08]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第28回定期検査中の島根原子力発電所１号機（定格電気出力46万キロワット）において，7月25日（土）10時から「主蒸気逃し弁（以下，「RV」という。）機能確認」を開始していたところ，10時13分にB-RVを開させる信号投入を行った際，当該弁が開動作すべきところ開動作しない事象が発生した。
+　ただちに当該試験を中断し，原因調査を行っていたところ，13時15分頃中央制御室内にある「RCIC・ADS継電器盤」内に焦げ跡（横10cm縦8cm）があることを発見した。（RCIC：原子炉隔離時冷却系，ADS：自動減圧系）
+連絡を受けた当直長は，13時57分に消防チームに，14時12分に松江市消防本部に連絡を行った。そして消防署にて現場確認が行われ，16時56分に本事象は「非火災」であると判断された。
+なお，本事象による発電所周辺への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中国-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[調査結果から，RCIC・ADS継電器盤の盤内配線が焼損に至った原因は，以下のように推定した。
+（１）６月１８日に毎回の定期検査で実施する逃がし安全弁および作動用空気供給電磁弁（SV02-1BC）の点検を行うために，電磁弁端子箱にてケーブル（３．５mm２）を切り離した。
+（２）電磁弁を復旧し，７月１８日にケーブルを復旧した時，最初に黒ケーブルの端子を取り付け，次に白ケーブルの端子を取り付けた。この際，ケーブル余長は端子が重ならないように逆方向で端子を固定した。
+（３）白ケーブルの端子を取り付ける際に，ケーブル芯線が圧着端子の下側を通過するように引き回した。そのため，端子締め付け時に，白ケーブルが黒ケーブル端子の圧着部はみ出し素線（圧着により上方向にはみ出しており切り口は鋭利であった）に押し付けられ，ケーブル芯線被覆を貫通するとともに短絡状態となった。
+（４）逃がし安全弁の動作確認時に過電流が流れ，電線サイズの小さい盤内配線（ラッピングワイヤ：電線サイズ０.１８mm２）が焼損した。また，これによりA,C-RVの回路が通電状態となり，A,C-RVが開動作した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[中央制御室継電器盤の盤内配線の焼損について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/09 07:44:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[261]]></KIKI_CODE>
+			<TROUBLE_ID>10551</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ケーブル・導線*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10551</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[盤*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10551</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[261]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[中央制御室制御盤]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[工学的安全施設作動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10551</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10551</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10551</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10551</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

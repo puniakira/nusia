@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．１０月２８日の発生事象にかかわる点検調査結果・原因及び対策
+　蒸気加減弁急速閉トリップ信号の発生に至る要因分析の結果に基づき、現場及びメーカー工場において所要の点検調査を行った結果、以下のことが確認された。
+（１）発電機出力約３００ＭＷｅから解列までの過程において、３００ＭＷｅ，２９０ＭＷｅ，２２０ＭＷｅ及び無負荷時に、蒸気加減弁急速閉トリップ用圧力スイッチ及び当該スイッチ取付架台の振動を測定した結果、５００Ｈｚ近傍の周波数を中心に振動加速度のピークが発生していることが確認された。なお、約３００ＭＷｅ付近では約４７０～５６０Ｈｚの周波数領域で最大０．８Ｇの加速度が確認されている。
+（２）発電機出力約３００ＭＷｅから解列までの過程において、圧力スイッチに内蔵されているマイクロスイッチの接点の動作状況を仮設レコーダにて確認したところ、Ａ１，Ａ２，Ｂ１，Ｂ２の４つのトリップ論理回路のうち、Ａ１トリップ論理回路用マイクロスイッチの接点がチャタリング（接点が短時間の内にＯＮ／ＯＦＦを繰り返す現象）していることが確認された。なお、圧力検出用配管の制御油圧力に変化は認められなかった。
+（３）発電機並列時の圧力スイッチの挙動を確認するため、１０月２９日１４時２５分に発電機の再並列を行ったところ、仮設レコーダによりＡ１，Ａ２，Ｂ２トリップ論理回路用圧力スイッチの動作が確認された。またＡ１トリップ論理回路用圧力スイッチの振動を測定したところ、並列前の鉛直方向の加速度は約０．５Ｇであったものが、並列時は３．７Ｇまで上昇していることから、特に並列時においては誤動作しやすい状況にあることが確認された。
+　なお、発電機並列時において圧力検出用配管の制御油圧力に変化は認められなかった。
+（４）圧力スイッチの振動に対する性能を確認するため、工場において同一仕様の圧力スイッチについて加振試験を行ったところ、０．７Ｇ以上の加速度で加振すると５００～５７０Ｈｚの周波数領域で、マイクロスイッチの接点がチャタリングすることが確認された。
+（５）工場において、現場に取付けられていた当該圧力スイッチ（４台）の分解点検を行った結果、Ａ１トリップ論理回路用マイクロスイッチの接点の接触抵抗に、チャタリングの影響と思われる抵抗値の増加が確認されたが、その他の異常は認められなかった。
+　以上の結果より、１０月２８日の「Ａ系原子炉自動スクラム」警報発生事象の原因は、Ａ１トリップ論理回路用圧力スイッチが振動により誤動作を生じたものと推定されたため、以下の対策を行った。
+　［１］蒸気加減弁急速閉トリップ用圧力スイッチ部への振動の影響を低減させるため、モックアップ試験の結果を踏まえ、当該圧力スイッチの取付架台の固有振動数を、マイクロスイッチの接点がチャタリングを起こす振動数領域から離調するように構造を補強した。
+　［２］工場での当該圧力スイッチの点検結果から、Ａ１トリップ論理回路用マイクロスイッチの接点に接触抵抗の増加が認められたため、マイクロスイッチを同一仕様の新品と交換した。
+　さらに念のため、他のトリップ論理回路用圧力スイッチ３台についてもマイクロスイッチを同一仕様の新品と交換した。
+２．１１月２日の発生事象にかかわる点検調査結果
+　上述の対策を完了した後、１１月１日に原子炉を起動し、翌日２日８時２９分に発電機を並列したところ、再度「蒸気加減弁急速閉トリップ」警報が発生し、同日９時２５分～１０時３３分にかけて蒸気加減弁急速閉トリップ信号が発生瞬時動作）したことから、再度原子炉を停止し、現場及びメーカー工場において点検調査を行った。
+（１）状況確認結果
+　Ａ１トリップ論理回路用圧力スイッチの振動を測定したところ、発電機並列時の加速度（鉛直方向）が、圧力スイッチ取付架台の改善前に測定された３．７Ｇよりも大きい４．５Ｇであった。
+（２）蒸気加減弁急速閉トリップ用圧力スイッチの点検調査結果
+　圧力スイッチ取付架台の固有振動数をマイクロスイッチのチャタリング発生の振動数領域から離調して、圧力スイッチへの入力加速度を低減させる対策を実施したが、依然として圧力スイッチは５００Ｈｚ近傍の振動領域の振動に対して大きく応答することが確認された。
+　また、工場において当該圧力スイッチ及び同型品の加振試験を実施した結果、チャタリング発生加速度の下限（以下、「チャタリング発生下限加速度」という。）は圧力スイッチ上面で０．３～１．４Ｇ、周波数は約４４０～５９０Ｈｚと共に大きなばらつきがあることが確認された。
+（３）マイクロスイッチの接点のチャタリング発生下限加速度の変動要因分析調査結果
+　工場において、マイクロスイッチの接点のチャタリング発生下限加速度について調査した結果、チャタリング発生下限加速度はマイクロスイッチの接点のオーバートラベル量（マイクロスイッチの接点がＯＮしてから更にＯＮ側にプランジャー部が移動する距離）の増加と共に増加する傾向があり、オーバートラベル量が小さい状態で組立られた場合は、チャタリング発生下限加速度も低下することが確認された。
+（４）振動伝達経路にかかわる点検調査結果
+　１１月２日以降の点検調査の結果、「蒸気加減弁急速閉トリップ」警報発生事象の原因は、１０月２８日の事象と同様に圧力スイッチの振動による誤動作が要因であると推定されたことから、振動の発生源及び圧力スイッチに至るまでの振動伝達経路を詳細に調査した。蒸気加減弁から主蒸気リード管等を経由して前側軸受箱に至る範囲をモデル化した有限要素法（ＦＥＭ）解析を実施した結果、主蒸気リード管において５００Ｈｚ近傍に多数の振動モードが存在し、さらにこの振動が高圧タービンケーシングを介して前側軸受箱まで伝播することが確認された。なお、ほぼ同一設計の本発電所５号機の試運転時データから、主蒸気リード管には、５００Ｈｚ近傍を含む広範囲の周波数領域において加速度ピークを持つ振動が多数確認されている。　
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>148</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/08/25 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>14</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>292</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199710281807]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）圧力スイッチの入力加速度を低減するため、当該圧力スイッチの設置場所を前側軸受箱から別に新設した計器収納ラックに移設した。
+（２）なお、今回の対策に万全を期すため、工場並びに現地において、架台設計の妥当性を確認する試験を行い、より確実なデータを得て対策案の妥当性を確認した。
+（３）更に、念のため、当該圧力スイッチについては耐振動性が高いものに変更した。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第３回定期検査中の４号機は、調整運転のため１０月２７日１５時００分より発電を開始し出力上昇中のところ、発電機出力約４２０ＭＷｅにて１０月２８日１８時０４分「Ａ系原子炉自動スクラム」警報が発生した。当該警報はプラント状況を確認後リセット操作により直ちに復帰され、運転記録等より警報発生の原因は蒸気加減弁急速閉トリップ信号によるものと確認された。この信号は、１０月２６日の発電機仮並列時においても瞬時動作（発生した信号が、継続的に発信することなく、瞬時に正常状態に復帰する動作）し、警報の発生には至らなかったものの、プロセス計算機の打ち出しにメッセージ出力されており、１０月２７日の発電機並列時には、この信号により「蒸気加減弁急速閉トリップ」警報が発生（瞬時動作）していた。なお、１０月２７日及び２８日の警報発生前後の運転パラメータについては特段の変化は認められなかった。
+　このため、１０月２８日１８時０７分より発電機出力を約４２０ＭＷｅから約３００ＭＷｅまで降下させた後、同日１９時５０分より当該信号の発生原因の調査を開始した。調査の結果、蒸気加減弁制御油圧系統の圧力に変動がないにもかかわらず、蒸気加減弁急速閉トリップ用圧力スイッチが動作していることが確認されたため、原子炉を手動停止して当該圧力スイッチの誤動作の原因について調査を行うこととし、１０月２９日１１時１０分より出力降下を開始、同日１４時０５分発電機を解列、同日１９時０１分に原子炉を手動停止した。
+　その後の原因調査の結果、蒸気加減弁急速閉トリップ用圧力スイッチの接点がタービン設備の運転に伴う振動により、圧力スイッチ取付架台との共振を生じ誤動作するものと推定された。このため、モックアップ試験等の結果を踏まえ、圧力スイッチ取付架台について所要の補強を行うことにより、固有振動数をシフトし、当該圧力スイッチの共振を避ける対策を行った。
+　この対策実施後、１１月１日５時３０分原子炉を起動し、２日８時２９分に発電機を並列させたところ、「蒸気加減弁急速閉トリップ」警報が再度発生（瞬時動作）した。このため、原子炉を停止して詳細な原因調査を行うこととし、同日１０時４３分より発電機出力約７０ＭＷｅから出力降下を開始、同日１０時４５分発電機を解列、同日１４時５６分原子炉を手動停止した。
+　なお、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>36</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1997-東京-T013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　点検調査の結果、１１月２日に発生した事象の原因は、以下の要因が重畳し圧力スイッチが誤動作したものと推定される。
+　［１］タービン設備の運転に伴う振動が主蒸気リード管・圧力スイッチ取付架台等を介して当該圧力スイッチに伝播したこと。
+　［２］当初、マイクロスイッチのチャタリング発生下限加速度は０．７Ｇ以上（５００～５７０Ｈｚ）と　想定していたが、２回目の調査結果では、０．３～１．４Ｇ（４４０～５９０Ｈｚ）においてもチャタリングが発生することなど、圧力スイッチの個体差により、マイクロスイッチ接点のチャタリング発生下限加速度及び周波数にばらつきがあったこと。
+　［３］圧力スイッチ取付架台の固有振動数をマイクロスイッチのチャタリング発生振動数領域から離すことにより、圧力スイッチへの入力加速度を低減させる改善を図ったが、当該圧力スイッチは５００Ｈｚ近傍の周波数領域の振動に対して大きく応答したこと。
+　また、今回の事象について、その評価を深めるため、圧力スイッチの構成部品の振動特性及び圧力スイッチの振動とチャタリングとの関係について評価を行った。その結果、マイクロスイッチ単体でのチャタリングを発生させる主たる部品は、マイクロスイッチ内の平板バネであること、さらに圧力スイッチのチャタリングは圧力スイッチの内部構造による要因とマイクロスイッチの内部構造による要因が相乗することにより発生していることが判明し、今回の不具合発生時における調査結果を裏付ける知見が得られた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[蒸気加減弁急速閉トリップ用圧力スイッチ不具合に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（出力降下開始）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[460]]></KIKI_CODE>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[スイッチ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>148</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[接触部*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>148</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>3</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[マイクロスイッチ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>148</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[460]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[スイッチ]]></KIKI_NAME>
+				<SORT_NO>5</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[119]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>148</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>148</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

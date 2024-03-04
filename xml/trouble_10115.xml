@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　事象発生時におけるプラント状況および操作内容について，関係者への聞き取りおよび記録から調査を行った結果，以下のことが確認された。
+
+１．給復水系の再循環運転時に給水原子炉入口弁(B)を開した状況に至るまでの経緯
+（１）12月15日，作業主管グループ監理員は、原子炉操作主任に対し，給水原子炉入口弁(B)の点検及び開閉試験を12月19日に実施することを依頼した。なお，給水原子炉入口弁(B)はタービンと原子炉側の隔離境界弁となっていた。
+（２）12月16日，依頼を受けた原子炉操作主任は，給水原子炉入口弁(B)の点検及び開閉試験を12月19日に給復水系の水張り終了後に実施することで了解した。しかし，12月18日に12月19日は原子炉圧力容器の漏えい試験が実施されることから，給水原子炉入口弁(B)は原子炉圧力容器漏えい試験の隔離境界弁のため開閉試験は出来ないが，点検のみ実施可能であることを作業主管グループ監理員に連絡した。
+（３）連絡を受けた作業主管グループ監理員は給水原子炉入口弁(B)の点検を12月19日に実施するとともに，開閉試験を12月22日に実施することを原子炉操作主任に再度依頼した。原子炉操作主任は内容を確認はしたが，12月22日に開閉試験の実施の可否については未検討であった。
+（４）タービン操作主任は、12月20日に低圧復水ポンプ，21日に高圧復水ポンプの試運転を行い，給復水系の再循環運転を開始した。なお，原子炉操作主任は，この両日は休日のため出社していなかった。
+（５）12月22日，作業主管グループ監理員は給水原子炉入口弁(B)の開閉試験を実施することを原子炉操作主任に連絡し，原子炉操作主任はこれを了解した。この時，給水原子炉入口弁(B)の操作スイッチには原子炉系および給復水系の操作禁止タグと再循環運転を実施するために必要な条件作成のためのジャンパー（給水原子炉入口弁(B)の閉模擬）を実施している旨の注意タグが取り付けられていたが，再循環運転中のため開けてはならないという注意タグは取り付けられていなかった。原子炉操作主任は，原子炉圧力容器漏えい試験が終了し，同試験の隔離境界弁ではなくなっていること，原子炉系及び給復水系の操作禁止タグは互いに水張りが完了しており，条件作成のためのジャンパーも開閉に影響がないことから開閉しても問題ないと判断した。また，給復水系が休日の間に再循環運転になっていることを知らず，給復水系の運転状態を確認していなかったことから，給水原子炉入口弁(B)を開けることにより，原子炉圧力容器へ給水されるとは認識しなかった。
+（６）作業主管グループのセルフ操作（＊２）により給水原子炉入口弁(B)の１回目の開閉試験が行われた。開操作後，復水器ホットウェルの水位低警報が発信されたことを作業管理副長が確認し原因を調査したが，タービン系の警報であったため原子炉圧力容器の水位上昇には気づかず特定には至らなかった。続いて２回目の開閉試験が行われたが，再度復水器ホットウェルの水位低下を作業管理Ｇ当直長，作業管理副長が確認し原因追求を実施していたが，原子炉操作主任の報告により，給水原子炉入口弁(B)の開閉試験が原因と分かったため，作業主管グループ監理員に開閉試験を中止し弁を閉めるよう指示した。また，復水器ホットウェルの水位低下により，低圧及び高圧復水ポンプが自動停止し，原子炉圧力容器の水位が1500mmから7600mmに，圧力が大気圧から約1.0MPaまで上昇していることを確認した。
+　＊２：当直員による操作ではなく，作業主管グループにおいて実施する操作
+
+２．工程管理に関わる調査結果　　　　　　　　
+　作業工程管理については，定期検査主要工程表が作成され，これを基本に系統別工程表（＊３）が作成される。更にこれを基本とし日々の作業工程（以下「デイリー工程表（＊４）」という）が定期検査開始前までに作成され，作業工程が管理されている。
+これらのプロセスについて今回の給水原子炉入口弁(B)開閉試験の工程管理を調査したところ，以下のことが確認された。
+（１）系統別工程表を確認したところ，給水原子炉入口弁(B)開閉試験を何時実施するかなどの記載はないことを確認した。また，他の電動弁についても同様であった。
+（２）12月22日のデイリー工程表を確認したところ，給水原子炉入口弁(B)開閉試験の記載はなかった。また，他の電動弁についても同様であった。
+　＊３：プラントを構成する系統毎に，機械・電気・計装関係の作業工程が記載されたもの。
+　＊４：系統別工程表から日々の作業を抽出し，一日の作業，安全処置を記載した時間単位の工程表
+　　　　　
+３．作業管理に関する調査結果
+（１）隔離境界弁については，通常セルフ操作が認められていないが，当該弁の開閉実施時期の条件が適切であったことから，「電動弁開閉試験時はセルフ操作」として当直長が承認（＊５）していた。
+（２）当該弁の開閉試験の実施時期については，定期検査前に作成されたステップ工程表（作業ステップを記載した資料）によって，給復水系の水張りが完了し，低圧復水ポンプのテストラン前に行うことで承認されていたが、適切な時期に開閉試験が行われるような工程管理がなされていなかった。
+（３）作業主管グループと当直間の作業調整は，パソコン上で運用されるデータベース調整用紙（＊６）で行われている。このデータベース調整用紙の当直での運用は，その数が膨大となるため，保安規定関連事項や安全処置の追加など重要な調整については上覧して当直長の承認を得ているが，電動弁開閉試験の日時調整など軽微なものは上覧していない。このため，12月22日に作業主管グループ監理員から給水原子炉入口弁(B)の開閉試験を依頼された際にも，原子炉操作主任は当直長まで上覧しなかった。その結果，上位職に開閉試験の情報が伝わらなかった。
+　＊５：現行のルールにおいては，設備主管（当直）と作業主管グループとの協議によりセルフ操作を認めている。
+　＊６：作業主管グループ及び当直間で，作業管理上必要な項目を依頼・回答するシステム
+
+４．問題点の整理
+（１）開閉試験を１２月２２日に実施することについて、十分な検討がなされなかった。
+（２）給水原子炉入口弁(B)に取り付けられていた３枚の操作禁止タグからは、給水再循環運転を実施していることが認識できなかった。
+（３）給水原子炉入口弁(B)は，通常セルフ操作は認められていないが，開閉試験実施時期の条件が適切であったことからセルフ操作を認めてしまった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10115</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/02/02 09:41:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定　第３７条　原子炉冷却材温度および原子炉冷却材温度変化率
+
+原子炉の水温が規定の温度（38℃以上）より低い状態（24℃）で、原子炉へ水が送られ原子炉の圧力が規定の圧力（大気圧）を超えたことから、保安規定第37条で定める「運転上の制限」を満足していないと判断した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4390</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/12/22 17:27:41]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200812221130]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）今後は今回のような隔離境界弁を事前に抽出し，開閉試験日を定期検査プロジェクト会議で決定し、定期検査前に作成する系統別工程表に反映する。さらに，デイリー工程表にも隔離境界弁の開閉試験日を記載することにより，適切な時期に行われるよう管理する。　　
+
+（２）また，定期検査中の作業管理を的確に行うため，以下の事項を実施する。
+　・給復水系の再循環運転中は，給水原子炉入口弁を開けないよう「注意タグ」を取付けることにより，明確な識別管理を行う。
+　・隔離境界弁はセルフ操作をさせないことする。対象弁については定期検査プロジェクト会議で抽出し，当直と保全との情報共有をはかる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所２号機（沸騰水型，定格出力110万キロワット）は，第18回定期検査中のところ，平成20年12月22日10時頃，原子炉圧力容器へ給水を行う給復水系の再循環運転（＊1）を行っていたが，給水原子炉入口弁(B)の開閉試験のため開操作を行ったことにより原子炉圧力容器に給水され，原子炉圧力容器の圧力が大気圧から最大約1.0MPaまで加圧された。この時の原子炉圧力容器内の原子炉冷却材温度は約24℃であった。
+　原子炉圧力容器耐圧・漏えい試験(7.63MPa)時の原子炉冷却材最低使用温度は38℃と定められており，今回，原子炉冷却材温度が約24℃で原子炉圧力容器を約1.0MPaではあるが加圧したことから，午前11時30分，保安規定第37条に定める「運転上の制限」を満足していないと判断した。
+　なお，給水原子炉入口弁(B)を開したことで原子炉圧力容器に給水されたことから，復水器ホットウェルの水位が低下し，10時07分に給水していたポンプ（低圧復水ポンプ，高圧復水ポンプ）が自動停止したため，原子炉圧力容器の給水（加圧）は停止した。
+その後，速やかに原子炉圧力容器の減圧を行い，加圧前の圧力（大気圧）になったことから午前11時55分，「運転上の制限」を満足していない状態から復帰したと判断した。
+
+　＊１：原子炉に水を送るための系統を浄化するために，低圧及び高圧復水ポンプを運転し，復水器内の水を原子炉内を経由せずに再び復水器内へ水を戻す運転のこと。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-M033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）給水原子炉入口弁は適切な時期（＊７）において開閉試験を行う必要のある弁であるにも係らず，他の弁と同様に扱われていたため，当該弁の開閉時期を工程管理する扱いとなっていなかった。このため，デイリー工程表に反映がなされず，開閉試験の日程変更については，担当者間のデータベースのみでの調整となったため，当直長および定検専任副長に情報が共有されなかった。
+
+（２）給水原子炉入口弁(B）に取り付けられていた３枚の操作禁止タグからは，給水再循環運転を実施していることが認識できなかった。このため，原子炉操作主任は12月19日の状態（給復水系の水張りが完了している状態）と変わっていないと思い込み，給水原子炉入口弁を開けても良いと判断した。
+
+（３）給水原子炉入口弁(B)はタービンと原子炉側の隔離境界弁となっており，通常セルフ操作は認めておらず，当直操作員が操作を行う弁であったが，作業主管グループより出された作業依頼ではセルフ操作申請となっており，承認した当直長は当該弁の開閉実施時期の条件が適切であったことから承認していた。なお，今回の直接的な原因ではないが当該弁の開閉試験がセルフ操作で実施されたことから，ホットウェル水位低下事象と開閉試験との関連への気付きと，対応の遅れを招く結果となった。
+
+　以上の推定原因により，給復水系の再循環運転中に給水原子炉入口弁(B)が開けられ，原子炉圧力容器に給水，加圧されたものと推定した。
+　＊７：給復水系の水張りが完了し，復水ポンプが起動していない時期。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査中の福島第二原子力発電所２号機における運転上の制限の逸脱ならびに復帰について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[ＬＣＯ判断時間]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/02/02 09:41:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[620]]></KIKI_CODE>
+			<TROUBLE_ID>10115</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[620]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[原子炉圧力容器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[720]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[720]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[原子炉圧力容器]]></KIKI_NAME>
+					<SORT_NO>37</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[102]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10115</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10115</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10115</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10115</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11735</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/10/13 10:27:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>42506</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/06/14 14:27:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201306131545]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/10/13 10:27:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第１号機は第２８回定期検査中のところ、原子炉補助建家２階において、運転員が床に水溜りがあることを確認したことから周辺を調査した結果、６月１３日１５時４５分、燃料取替用水タンク水浄化系統＊１のドレン弁＊２の閉止栓＊３から、にじんでいることを確認した。
+　このため、当該ドレン弁と周辺弁の増し締めを実施し、６月１３日１６時５２分、にじみが止まったことを確認した。また、床に溜まった水の量は約４０ｃｃ、放射能量は約２８ベクレルであり、すべて拭き取って回収した。
+その後、調査で閉止栓の漏えい検査を実施した結果、微少な漏えいがあったことから、閉止栓を新品に取り替えるとともに、念のため当該ドレン弁の分解点検を行い、６月２１日１０時００分、閉止栓の取り替えおよび当該ドレン弁の組立後の漏えい検査にて異常がないことを確認し、通常状態に復旧した。
+　なお、本事象によるプラントの運転への影響および周辺環境への放射能の影響はなかった。　　　　　　　　　　　　　　　　　　　
+＊１ 燃料取替用水タンク水浄化系統
+　燃料取替用水タンク水を燃料取替用水タンクポンプにより循環し、脱塩塔、フィルタを通して放射性物質および不純物を除去させる系統。
+　　　
+＊２ ドレン弁
+　系統の点検のため、配管内の水を排出するための弁。
+
+＊３ 閉止栓
+　配管内の水抜き用ホースを接続するための接続部を閉止しておく栓。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-四国-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[燃料取替用水タンク水浄化系統からの水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/06/14 14:28:17]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　主給水ポンプ１Ｂシール水注入配管の管台から水が漏えいした要因について、以下の調査を実施した。
+（１）現地での調査結果
+ａ．管台部外表面の外観目視点検を実施した結果、腐食等の異常は認められず、割れ等の開口部は肉眼では確認できなかった。また、管台とポンプケーシングの溶接部の脚長を測定した結果、設計値を満足しており、異常は認められなかった。なお、水がにじみ出た箇所は、管台とポンプケーシングとの狭隘部で溶接施工性が悪い状況であった。
+ｂ．外表面の液体浸透探傷検査を実施した結果、管台のポンプケーシング側の溶接部近傍に周方向に約７ｍｍの線状指示が認められた。
+ｃ．フランジのずれや無理な拘束力の有無を確認した結果、異常は認められなかった。
+ｅ．シール水管台及び溶接部の外表面については、第１８回定期検査にて、液体浸透探傷検査を実施し、異常のないことを確認していた。
+（２）プラントメーカ工場での調査結果
+ａ．外観目視点検を実施した結果、内・外表面には腐食等の異常は認められず、割れ等の開口部は肉眼では確認できなかった。
+ｂ．液体浸透探傷検査を実施した結果、外表面のポンプケーシング側の管台溶接部近傍に、周方向の約８ｍｍの線状指示が認められ、この指示から周方向に約１５ｍｍ離れた位置に、軸方向の約２ｍｍの線状指示が認められた。
+　また、管台の内表面には、軸方向の約１７ｍｍの線状指示が認められた。なお、周方向に約１０ｍｍ離れた位置に、軸方向の約１５ｍｍの線状指示が認められた。
+ｃ．破面を拡大観察した結果、外面側に錆による変色が確認され、内・外面側の破面はつながっており、錆による変色が確認された。また、管台と溶接金属の境界部には、溶接欠陥（スラグ巻き込み及び未溶着部）が確認された。なお、走査型顕微鏡により観察した結果、いずれも粒界割れで、疲労破面に見られるストライエーションは観察されなかった。
+ｄ．断面マクロ・ミクロ観察を実施した結果、管台と溶接金属の境界部には、溶接欠陥（スラグ巻き込み及び未溶着部）が確認され、この部分を起点とする分岐を伴う粒界割れが認められた。
+（３）事象発生に係る要因検討
+ａ．材料の成分は、化学成分分析の結果、規定値を満足しており、材料不良が要因とは考えられないが、炭素含有率が規格値の上限であることから、比較的鋭敏化しやすい材料であった。
+ｂ．溶接部の脚長測定の結果、設計値を満足しており、異常は認められなかったが、破面の外観拡大観察の結果、管台と溶接金属の境界部に溶接欠陥（スラグ巻き込み及び未溶着部）が確認され、溶接不良が要因の一つである可能性がある。なお、当該管台部はポンプケーシングとの狭隘部にあり溶接施工性が悪く、管台とポンプケーシングの溶接方法が被覆アーク溶接であったことから、溶接終了後、ポンプケーシングの熱影響部の組織改善を行うため管台を取り付けた状態でポンプケーシングを熱処理しており、この影響により管台が著しく鋭敏化していた可能性がある。
+ｃ．破面の拡大観察の結果、疲労破面に見られるストライエーションは認められず、疲労破壊が要因であるとは考えられない。なお、外観目視点検の結果から、管台外表面、内表面とも腐食・孔食は認められないこと、破面の拡大観察の結果から粒界割れであったこと、管台と溶接金属の境界部には溶接欠陥（スラグ巻き込み及び未溶着部）が確認されこの部分を起点とする分岐を伴う粒界割れであったことから、スラグに含まれる不純物により、著しく鋭敏化していた管台に粒界腐食割れが発生した可能性が高い。
+　以上により、管台の材料はＳＵＳ３０４の規格値は満足していたが、炭素量は規格値の上限であり、比較的鋭敏化しやすい材料であったことから、製造工程における管台とポンプケーシングの溶接作業時に、当該箇所の溶接施工性が悪いため、溶接部にスラグを巻き込むとともに、未溶着部が発生した。その後、管台が取り付けられた状態で熱処理を行ったため、管台が著しく鋭敏化し、スラグに含まれる不純物と未溶着部からの内部流体の侵入により、管台の溶接部近傍の粒界が腐食して割れが生じ、運転時間の経過とともに割れが進展し、最終的に貫通、漏えいに至ったものと推定される。
+（４）類似箇所の点検
+　前項の調査結果に基づき、材料がオーステナイト系ステンレス鋼材であること、溶接施工性が悪い箇所で被覆アーク溶接を実施したこと、熱処理を実施したことの条件に合致する箇所を調査した結果、該当するのは主給水ポンプ１Ａ、１Ｂ、１Ｃの軸端側のシール水配管管台であったことから、点検を実施した結果、１Ａ、１Ｃの軸端側のシール水配管管台部について、外面から液体浸透探傷検査を実施した結果、指示は認められなかったが、超音波探傷検査を実施した結果、１Ｂと同様にポンプケーシング側に有意な指示が認められたため、主給水ポンプ１Ａ、１Ｃの軸端側の管台についても、詳細調査を実施した結果、溶接欠陥（スラグ巻き込み及び未溶着部）及び粒界腐食割れが認められた。
+　また、念のため、溶接施工性は良いが、他の条件には合致する主給水ポンプ１Ａ、１Ｂ、１Ｃのモータ側のシール水配管管台部について、外面から液体浸透探傷検査及び超音波探傷検査を実施した結果、有意な指示は認められなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2056</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/25 14:11:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2673</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200011111530]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）主給水ポンプ１Ｂのシール水配管管台（軸端側）の材料を炭素鋼材（Ｓ２５Ｃ）に取り替え、スラグが発生しないＴＩＧ溶接を実施した。
+（２）主給水ポンプ１Ａ、１Ｂ、１Ｃのその他管台で、ポンプ製造時に被覆アーク溶接を行い、その後焼鈍を行っているステンレス鋼材の管台についても、炭素鋼材（Ｓ２５Ｃ）に取り替えた。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第１号機は、平成１２年９月５日より第１９回定期検査を実施中であり、１１月１０日から主給水ポンプの試運転準備のための水張りを実施したところ、１１月１１日１５時３０分頃、目視点検を実施していた作業員が主給水ポンプ１Ｂの軸端側のシール水注入配管取付部（管台とポンプケーシングとの溶接部近傍）から、水がにじみ出ているのを発見した。管台溶接部近傍の目視点検を実施した結果、水が約５秒に１滴にじみ出ていたことから、当該ポンプを隔離・水抜きし、１１月１２日に液体浸透探傷検査を実施した結果、シール水配管の管台に線状の有意な指示が認められたため、主給水ポンプ１Ｂの上部ケーシングを取り外し、プラントメーカ工場に搬送して詳細点検を実施した。
+　当該設備には放射能は含まないため、本事象による周辺環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-四国-M029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［施工不完全］
+　漏えいの原因は、管台の材料がオーステナイト系ステンレス鋼材（ＳＵＳ３０４）であり、ポンプ製造時の長時間の焼鈍により著しく鋭敏化し、当該箇所は構造的に溶接施工性が悪いので、被覆アーク溶接により溶接部にスラグを巻き込むとともに未溶着部が発生していたため、スラグに含まれる不純物と内部流体の侵入によりスラグ巻き込み部を起点とする粒界腐食割れが発生し、運転時間の経過とともに進展し、最終的に貫通に至り、漏えいしたものと推定される。　　　　　　
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[主給水ポンプ１Ｂのシール水注入配管取付部からの漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（発見）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/25 14:12:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+			<TROUBLE_ID>2056</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ケーシング・ケース・ハウジング*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2056</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動ポンプ本体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[253]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2056</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2056</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2056</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2056</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

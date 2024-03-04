@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）加減弁開度変動事象発生時の運転状況調査
+加減弁が開方向に変動し発電機出力が上昇した時の運転データを確認した結果、同じタイミングでタービン調速装置の負荷制限器油圧が上昇していたことから、この油圧上昇により加減弁開度を制御するガバナ制御油圧も上昇して、加減弁が開方向に変動したものと推定された。
+ａ．加減弁開度の変動状況
+事象発生時の加減弁(第１弁～第４弁)開度の運転データを確認した結果、第３弁は約64.8%から全開（100%）となり、第４弁は約12.5%から約64.8 %まで上昇し上昇量は約52.3%であった。
+なお、第１弁、第２弁については、事象発生前の全開（100%）から変動はなかった。
+ｂ．負荷制限器油圧の状況
+負荷制限器油圧の運転データを確認した結果、加減弁第３弁、第４弁開度上昇時に、負荷制限器油圧が約0.2921MPa から約0.3056MPa まで上昇しており、上昇量は約0.0135MPa であった。
+ｃ．オートストップ油圧の状況
+オートストップ油圧の運転データを確認した結果、加減弁第３弁、第４弁開度上昇時に、約0.870MPa から約0.880MPa の範囲で変動がみられた。
+（２）運転員への聞き取り結果
+事象発生時、運転員は特に操作をしていない状態で加減弁が変動し、その後、数十秒で事象を判別し、負荷制限器油圧を見ながら負荷制限器の操作を行うことにより加減弁の開度調整（減方向）を実施した。
+このとき、加減弁第３弁、第４弁の動作は、負荷制限器の操作に対してスムーズに追従しており、特に異常な動きは認められなかった。
+（３）機器点検結果
+１号機第２７回定期検査において、タービン油系統の機器の点検を行った結果は以下の通りであった。
+ａ．タービン調速装置（負荷制限器）点検結果
+負荷制限器を含むタービン調速装置の分解点検を実施した結果、各部に損傷等の異常は認められなかった。
+また、負荷制限器内および負荷制限器入口オリフィス等に残留異物等は確認されなかった。
+なお、負荷制限器油の空気抜き穴（直径0.5mm）が閉塞した場合には、負荷制限器油圧が上昇することが考えられるため、工場にて検証試験を実施した結果、油圧の上昇量は約0.0008MPa 程度であり、事象発生時の上昇量（約0.0135MPa）に比べて極わずかであったことから、今回の事象との関連はないものと推定された。
+ｂ．オートストップ油圧リリーフ弁点検結果
+オートストップ油圧リリーフ弁の分解点検を実施した結果、異常は認められなかった。
+なお、オートストップ油圧リリーフ弁の作動不良等によりオートストップ油圧が上昇した場合には、負荷制限器油圧も上昇することが考えられるため、工場にて検証試験を実施した結果、事象発生時のオートストップ油圧変動量0.010MPaに対する負荷制限器油圧の変動量は約0.0008MPa 程度であり、実際の上昇量（約0.0135MPa）に比べて極わずかであったことから、オートストップ油圧の影響により負荷制限器油圧が変動したものではないと推定された。
+ｃ．その他関連機器の点検および内部異物等確認結果
+（ａ）主油タンク
+主油タンクの開放点検を実施した結果、タンク底部の一部に少量の黒色の柔らかい細かな固形物（以下「油カス」という。）の堆積が確認された。
+（ｂ）主油タンク戻り油ストレーナ
+タービン潤滑油および制御油の主油タンクへの戻り油ストレーナ（目開き約0.2mm）の開放点検を実施した結果、従来よりも比較的大量の油カスの付着が確認された。
+油カスの成分を確認したところ、外気から取り込まれたと思われるカルシウム等の成分が確認されており、前回定期検査時の大規模工事に伴うコンクリートのハツリ作業等により、従来よりも微細な粉塵が多い環境であったと考えられる。この微細な粉塵がタービン軸受箱内に従来よりも多く取り込まれ、油劣化成分等との混合により粒子の大きい油カスとなって、戻り油ストレーナにて捕捉されたものと推測する。
+なお、戻り油ストレーナ下流の主油タンク内で確認された油カスは、これまでの定期検査において確認された油カスと同様に少量であったことから、油カスのほとんどは戻り油ストレーナにて捕捉されていた。
+（ｃ）クノーフィルター
+高圧油クノーフィルター（目開き約0.13mm）および高圧制御油圧リリーフ弁クノーフィルター（目開き約0.13mm）の分解点検を実施した結果、異常は認められず、ゴミの付着もほとんど確認されなかった。
+（ｄ）マルティプルオリフィス
+マルティプルオリフィス（２台）の分解点検を実施した結果、機器に異常は認めらなかったが、内部に微量の油カスの付着が確認された。
+（ｅ）エアーパイロット弁
+エアーパイロット弁（３台）の分解点検を実施した結果、機器に異常は認められなかったが、分解時に同弁から抜き取った残油の中に油カスやスラッジが確認された。
+ただし、当該弁は、負荷制限器へ給油する配管からは分岐された箇所に取り付けられているため、油カス等が負荷制限器へ流れていく可能性はない。
+（ｆ）タービン過速度トリップ装置取り付け部
+タービン過速度トリップ装置取り付け部の内部点検を実施した結果、異常は認められなかった。
+（ｇ）オートストップ油圧リリーフ弁取り付け部
+オートストップ油圧リリーフ弁取り付け部の内部点検を実施した結果、配管表面に微量の油カスが薄い膜状に付着しているのが確認された。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[246]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10837</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2011/02/15 15:48:34]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[タービン調速装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第28条LCO逸脱宣言]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>15470</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/02/15 11:46:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200911200019]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１） 負荷制限器へ給油するオートストップ油系統のマルティプルオリフィス等の分解点検を行い、内部付着物の点検清掃を行った。
+（２） 第２７回定期検査のタービンオイルフラッシングから次回の第２８回定期検査まで、試験的に静電浄油装置を使用して、主油タンク内の油を循環処理することにより、クノーフィルターでは除去できない0.1μm 程度までの微細な油カス等の除去を行い、タービン油系統の清浄度を向上させる。
+また、次回の第２８回定期検査時に、マルティプルオリフィスの分解点検およびオートストップ油圧リリーフ弁、エアーパイロット弁、負荷制限器の取り外しによりオートストップ油系統の点検を行い、内部付着物等の確認を行う。
+なお、第２８回定期検査時の機器点検による付着物の確認結果等により静電浄油装置の効果を評価し、今後の静電浄油装置の使用について検討するとともに、適切な機器の点検頻度を設定する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/15 15:48:34]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所第１号機（定格電気出力５６６ＭＷ）は通常運転中のところ、平成２１年１１月２０日０時１９分、運転員が操作をしていない状態で、タービン蒸気加減弁（以下「加減弁」という。）第３弁、第４弁が開方向に変動し、発電機出力が最大５９９ＭＷまで上昇した。
+また、発電機出力の上昇に伴い、蒸気発生器熱出力にも上昇傾向が見られたため、加減弁開度を手動で調整したが、蒸気発生器熱出力は、０時２３分（１６６２ＭＷ）から０時２６分までの３分間、保安規定で定める運転上の制限（１６５０ＭＷ）を逸脱した。
+保安規定で定める運転上の制限の逸脱から復帰後、加減弁開度を操作し、発電機出力および蒸気発生器熱出力を事象発生前の状態に戻した。
+その後、加減弁の動作確認のため、発電機出力を５ＭＷ低下・復帰させ、第３弁、第４弁の動作状況に異常がないことを確認した後、状態を監視しながら運転を継続し、第２７回定期検査まで問題なく運転を行った。
+なお、本事象による環境への放射能の影響はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-四国-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[加減弁開度変動に至った負荷制限器油圧の上昇原因は、タービン油圧制御系統を循環するクノーフィルターでは捕捉できないような微細な油カス等が、オートストップ油系統のマルティプルオリフィス内などに堆積し、それが運転中に剥がれて負荷制限器へ流れることにより、カップ弁およびピストン部への噛み込みによりカップ弁からの排油量が減少し、負荷制限器油圧が上昇したものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン蒸気加減弁開度変動に伴う発電機出力の変動]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>566</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/02/15 13:37:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[907]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[タービン調速装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[負荷制限器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10837</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[907]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[100]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[100]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[主タービン装置]]></KIKI_NAME>
+					<SORT_NO>9</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[タービン制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[246]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[異物混入（保守・施工時の異物混入は除く）]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[運転中トラブルによる部品脱落等による異物混入（保守・施工不良による異物混入は除く）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10837</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

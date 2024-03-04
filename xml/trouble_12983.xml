@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<TROUBLE_ID>12983</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/08/19 22:00:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>84304</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/07/10 13:04:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201906181619]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/08/19 22:00:52]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+伊方発電所第３号機は通常運転中のところ、６月１８日１６時１９分、主タービン油系統の異常を示す警報が発信した。
+運転員が、現地を確認したところ、タービン建屋地下１階（非管理区域）の主タービン油系統油清浄器ガス抽出機※１（以下、「油清浄器ガス抽出機」）が停止していることを確認した。
+油清浄器ガス抽出機を分解点検したところ、軸シール※２の摩耗とモーターベアリング内のグリースの減少が確認されたため、軸シールとモーターベアリングの取り替えを実施した。その後、油清浄器ガス抽出機を起動し、運転に異常の無いことを確認し、６月２４日９時５０分、通常状態に復旧した。
+本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１ 主タービン油系統油清浄器ガス抽出機
+　主タービン潤滑油の不純物を除去する油清浄器の中のガス（水蒸気他）を除去するための排気ファン。
+※２ 軸シール
+　回転軸の隙間からの油漏れや、外部からのほこりの侵入を防止するゴム製のシール。
+
+〇原因
+調査の結果、油清浄器ガス抽出機が自動停止した原因は、軸シールのゴムの劣化により、ゴムの亀裂と部分的な剥離が生じ、剥離したゴムの粉塵が軸シールの摺動部に堆積したことで、主軸の回転抵抗が増大して摺動部の温度が上昇し、この摺動熱が主軸を伝って、モーターのインペラ側ベアリングの温度も徐々に上昇したため、ベアリング内のグリースが徐々に減少したことで、更に主軸の回転抵抗が増大したことにより、電源回路の保護装置が作動したものと推定した。
+軸シールのゴムが劣化した原因は、定期検査中に油清浄器ガス抽出機の周辺で実施した工事に伴い発生した塵埃が、軸シールとインペラの摺動部に偶発的に侵入したことで、摺動部の回転抵抗が増大し、摺動熱と軸シールの温度が徐々に上昇したことによるものと推定した。
+
+〇対策
+（１）油清浄器ガス抽出機の軸シールおよびモーターベアリングを新品に取り替えて復旧した。
+（２）油清浄器ガス抽出機の軸シールを耐ダスト性に優れた型式の軸シールへ、次回の定期検査時に変更する。また、当該機を除く４台中の１台についても、同じ型式の軸シールを使用しているため、同様に耐ダスト性に優れた軸シールへ型式変更する。
+（３）油清浄器ガス抽出機の軸シールの型式変更まで、軸シール部の温度が通常よりも高い状態となった場合に容易に認識できるよう、油清浄器ガス抽出機の軸シールケース上部にサーモラベル※３を貼り付け、日常の巡視点検時に確認することとした。
+
+※３ サーモラベル
+　ラベルの表示部の変色により、温度上昇の有無を容易に確認できる温度管理用シール。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　主タービン油系統油清浄器ガス抽出機の不具合について　]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/07/10 13:04:47]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

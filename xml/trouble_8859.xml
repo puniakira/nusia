@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8859</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/05/31 21:05:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3787</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/30 15:30:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20010101]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+１号機炉心スプレイポンプ定期試験時にポンプの出口圧力が、判定基準値を下回る可能性があったため、第１６回定期検査（平成９年度）以前は、計器精度範囲内で圧力が最も高く指示されるよう出口圧力計の調整を実施していたとの証言があった。
+なお、調査の結果、平成１３年１月に炉心スプレイポンプの定期試験時におけるポンプの出口圧力についてより精度の高い算出方法に見直しを行い、出口圧力が判定基準値を下回る可能性がなくなったことから、これ以降、不適切な調整は行われていない。
+発電設備の点検にあたり、当時の調整前のポンプ出口圧力を見直し後（現行）の算出式に当てはめ評価した結果、現行の判定基準を満足していることを確認した。
+
+２．原因分析
+（１）品質保証上の問題
+　ポンプ出口圧力値の技術評価を実施せず、単に出口圧力計の計器調整を行っていた。（２）企業倫理遵守・企業風土上の問題
+　計器精度範囲内とはいえ、計器を調整したという点で、倫理上の問題がある。
+（３）安全文化の醸成・定着上の問題
+　不適切と感じながら、慣例のように実施していた。
+
+３．再発防止対策
+　○コンプライアンス意識の醸成
+　平成１４年度「コンプライアンス推進会議」を設置し全社的にコンプライアンス推進に取り組んでいる。この取組の中で、今回の事例をもとに啓発活動を進め、引き続きコンプライアンスの徹底を推進する。
+　]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-中部-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[平成１３年１月以前の
+１号機　炉心スプレイ系ポンプ出口圧力計の不適切な調整について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/31 21:05:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

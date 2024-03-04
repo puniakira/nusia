@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2777</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/12 13:45:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/02/17 19:21:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200401221407]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/12 13:45:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機は平成15年９月30日からの第18回定期検査において、平成16年１月22日午後２時７分頃、原子炉建屋の原子炉格納容器内において発煙があると作業員より当直長へ連絡があり、運転員が現場に急行し、午後２時13分頃現場の発煙がタバコの煙程度であり、徐々に静まりつつあるのを確認した。
+　その後、到着した上位職者とともに現場の状況を確認していたところ、午後２時30分頃煙は収まった。この状況について、午後２時41分に消防署に連絡した。
+　なお、本件は消防署から火災ではないと判断された。また、これによる周辺への放射能の影響もなかった。
+
+　当該弁の弁帽カバーを分解し、内部状況の確認を行った結果、以下のことが確認された。
+ａ．弁棒カバー内底部には、ほこり、グリスが垂れており、その表面は焦げが確認された。また、カバー奥に拳程度の焦げたキムタオルが入っており、中央から上部に焦げた跡が確認された。
+ｂ．弁棒は、すす、ほこりの付着はあるものの、焼け焦げた様子はなく異常は見られなかった。
+
+　調査の結果、原因は当該弁の近傍で実施していた計装用空気系配管の修理工事中に、グラインダーによる磨き作業の火の粉が近傍の弁棒の潤滑用グリースに飛び、発煙したものと推定された。
+
+　対策として、以下の事項を実施することとした。
+（１）火気養生の再徹底
+　「火気作業エリア内に油、グリス等を使用している機器がある場合は、養生を行う」ことを火気作業チェックシートに追加する。
+（２）異物混入防止
+　「弁棒カバー復旧時には、異物がないことを確認する」ことを施工要領書に追加する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S062]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉格納容器内における発煙について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/18 09:58:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

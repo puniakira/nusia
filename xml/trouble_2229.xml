@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2229</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/12 13:51:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/02/06 14:44:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200401281030]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/12 13:51:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第18回定期検査中の福島第一原子力発電所６号機（沸騰水型、定格出力110万キロワット）において、平成16年1月28日午前10時30分頃、制御棒駆動機構（以下CRDという）の分解点検中にCRD内から塗膜片らしきもの（最大で長さ約8mm×幅約4mm×厚さ約0.1mm、その他微細な破片）を発見した。
+（なお、同CRD分解点検中において、平成15年12月5日に薄い金属片１個（長さ約24mm×幅約2mm×厚さ約0.8mm）、また平成16年1月26日に金属片１個（長さ約14mm×幅約3mm×厚さ約0.9mm）を発見している）
+
+　その後、塗膜片らしきものについて調査を行った結果、以下のことが確認された。
+
+・塗膜片らしきものは最大で長さ約8mm×幅約4mm×厚さ約0.1mm（その他：微細破片）で、非常に脆い性状であり、その色は表・裏ともに灰色系であることから、「塗膜片」と推定された。　　　　　　　　　　　　　　　　　
+
+・混入経路の検討
+ａ．CRD系及び制御棒駆動水圧系（以下HCU系という）には、それぞれフィルタ（※１）が設置されており、塗膜片の大きさから判断して当該系統から流入した可能性はない。
+　※１：CRDポンプ入口フィルタメッシュサイズ：約5μm
+　　　　　　〃　 出口フィルタメッシュサイズ：約20μm　
+　　　：HCUフィルタメッシュサイズ：約40μm
+ｂ．制御棒（以下CRという）が全引抜状態以外の場合には、原子炉圧力容器内からCR案内管とCRDインデックスチューブとの隙間を通って流入した可能性がある。　
+ｃ．当該塗膜片は、原子炉一次系機器の耐圧部材の内部には塗布されていない。
+ｄ．原子炉圧力容器内及び炉外系統から混入する可能性のある現場の塗装状況について調査を実施した結果、灰色系で塗装されている機器・構築物は多数あることから、それらの機器の点検時等に何らかの要因で混入した可能性は否定できない。
+
+　以上より、今回発見された塗膜片については、原子炉一次系廻り作業の作業において、エリア付近の機器・構築物の塗装面が何らかの要因により剥離し、炉内へ混入したものと推定される。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S071]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機制御棒駆動機構内における金属片の調査状況について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/04/08 18:31:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

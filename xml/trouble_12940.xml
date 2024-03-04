@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12940</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/05/10 13:04:23]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>82349</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/02/27 09:37:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201902261046]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/05/10 13:04:23]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+　２０１９年２月２６日１０時４６分、伊方発電所３号機は通常運転中のところ、３号機原子炉補助建屋出入管理室に設置している小物物品搬出モニタ※１　２台のうち１台から発煙していることを監視員が確認した。当該小物物品搬出モニタの状況を保修員が調査したところ、小物物品搬出モニタの表示器※２の基板の一部に変色があることを確認した。
+　その後、表示器を取替えた後、当該小物物品搬出モニタが正常に動作することを確認し、４月１２日９時３０分、通常状態に復旧した。本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１ 小物物品搬出モニタ
+　管理区域内に持ち込んだ手持ち物品（チェックシート、筆記用具等）を持ち出す際に放射線量を測定する装置。
+
+※２ 表示器
+　小物物品搬出モニタの測定可否等の状態を表示するためのＬＥＤの表示器。
+
+
+○原 因
+　小物物品搬出モニタの表示器の基板中の電源回路を構成する電子部品のＤＣ－ＤＣコンバータの単体故障あるいは電解コンデンサの液漏れが起因して、その二次側回路に過負荷が生じ、電子部品から発煙したものと推定される。
+
+
+〇対策
+（１）当該小物物品搬出モニタの表示器を現行品とは別型式の同等品と交換した。
+（２）当該小物物品搬出モニタと同形式の表示器を使用しているもう1 台の小物物品搬出モニタの表示器も当該小物物品搬出モニタと同様に現行品とは別型式の同等品と交換した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　小物物品搬出モニタからの発煙について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/02/27 09:37:47]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

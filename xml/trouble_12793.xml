@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12793</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/07/23 14:20:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2018/04/02 16:23:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201803301050]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/07/23 14:20:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生の状況
+　平成30年3月30日より、5号機海水熱交換器建屋（非管理区域）地下２階において、電解鉄イオン供給設備（以下、「ＦＥＩ」という。）の点検後、復旧作業のため海水にて水張りを実施していたところ、他の点検作業にて開放されていたタービン補機冷却海水系（以下、「ＴＳＷ」という。）熱交換器（Ｂ）ブロー弁［Ｐ４２－ＭＯ－Ｆ００７Ｂ］のフランジ部から周辺の床に海水（約470リットル）が漏えいしていることを１０時５０分に確認した。
+　その後、ＦＥＩ系の水張り作業を中断し、隔離操作を実施したことにより、漏えいは停止した。
+　なお、本事象による外部への放射能の影響はなかった。
+
+２．推定原因
+　海水漏えいが発生した系統の状態、ＦＥＩ系の水抜き及び水張り操作を実施した操作員への聞き取り調査の結果からＴＳＷ系熱交換器ブロー弁のフランジ部から海水が漏えいした原因は以下のとおりと推定した。
+（１）系統を隔離（弁閉）していたＴＳＷ鉄イオン注入設備入口元弁［Ｐ４２－Ｆ０１０］からの漏えい（シートパス）
+（２）系統を隔離（弁閉）していたＦＥＩ ＴＳＷ－４海水母管鉄イオン注入止め弁［Ｐ９５－Ｆ００５］からの漏えい（シートパス）可能性あり
+（３）電解鉄イオン供給設備のアイソレ時と復旧時のＴＳＷ系の運転状態が変わっていたが、ＴＳＷ鉄イオン注入設備入口元弁［Ｐ４２－Ｆ０１０］シートパスのリスクを認知していない。
+
+３．対策
+　原因として抽出した問題点をふまえ、対策は以下のとおりとする。
+（１）下記の点検を実施する。
+　・ＴＳＷ鉄イオン注入設備入口元弁［Ｐ４２－Ｆ０１０］を点検する。
+　・ＦＥＩ ＴＳＷ－４海水母管鉄イオン注入止め弁［Ｐ９５－Ｆ００５］を点検する。
+（２）当該事象をリスクとして認知するため以下を講じる。
+　・ＦＥＩ水抜き中に隣接する系統（ＴＳＷおよび原子炉補機冷却海水系（以下、「ＲＳＷ」という。））の運転状態が変更（ＴＳＷは「通常→バイパス」または「バイパス→通常」。ＲＳＷは「アイソレ」。）となった場合にシートパスの可能性がある弁を明確に示した表を制定するＦＥＩ手順書の注意事項欄に記載する。
+　・水張り弁（（例）Ｐ９５－Ｆ００１、Ｐ９５－Ｆ０１０、Ｐ９５－Ｆ０１８）に対し、「バウンダリ弁のシートパス確認が行われていること」およびシートパス確認対象弁を記載した注意喚起の表示を行う。
+　・本事例を社内データベースに登録するとともに関係者へ周知する。
+
+４．対応結果
+（１）系統を隔離（弁閉）していた弁のうち、シートパスが考えられる２台の弁（ＴＳＷ鉄イオン注入設備入口元弁［Ｐ４２－Ｆ０１０］、ＦＥＩ ＴＳＷ－４海水母管鉄イオン注入止め弁［Ｐ９５－Ｆ００５］）の分解点検を行った結果、ＴＳＷ鉄イオン注入設備入口元弁［Ｐ４２－Ｆ０１０］の内部に海生生物が付着しており、弁が完全に閉まらない状態であることを確認した。そのため、当該弁に付着していた海生生物の除去などの手入れを行い、弁からの漏えいが無くなったことを確認した。
+（２）今回の事象を踏まえ、電解鉄イオン供給設備点検後の復旧作業のための水張り時に使用する手順書について、シートパスの可能性を考慮した手順に見直すことにより、海水漏えい防止を図ることとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-S044]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[海水熱交換器建屋（非管理区域）における海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/04/02 16:24:06]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

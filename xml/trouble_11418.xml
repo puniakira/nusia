@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11418</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/03/05 13:15:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/09/15 09:24:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201109131330]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/03/05 13:15:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　定期検査中の７号機において、平成23年９月13日午後１時30分頃、週に１回実施している主排気筒放射線モニタの定例サンプリングにおいて、ごく微量（６×10^-9ベクレル／cm３）のヨウ素131 を検出した。
+　国が定める測定指針の測定下限濃度は７×10^-9ベクレル／cm3であり、今回測定されたヨウ素131の濃度は、この指針の測定下限濃度を下回る低いレベルだった。
+
+（評価結果）
+　当該測定データをもとに周辺監視区域外における濃度を評価したところ、1.2×10^-15ベクレル／cm3であり、この値は空気中の濃度限度５×10^-6ベクレル／cm3（告示濃度）に比べ約42億分の１と極めて低い値である。
+　また、今回確認されたヨウ素から受ける放射線量は、７×10^-9ミリシーベルトであり、自然界から１年間に受ける放射線量2.4 ミリシーベルトの約３億分の１であり、胸のエックス線検診（１回）で受ける放射線量（0.05ミリシーベルト）と比べても十分低い値である。
+
+（外部への影響）
+　７号機の主排気筒放射線モニタや発電所敷地境界に設置された空間線量率を測定するモニタリングポストの指示値に変動はなく、発電所周辺環境への影響はない。
+
+（対応状況）
+　他の号機の主排気筒の定例サンプリングではヨウ素が検出されていないことから、今回検出されたヨウ素は福島第一原子力発電所由来ではなく、７号機の定期検査においてわずかに放出されたものと推定した。
+　７号機では漏えい燃料集合体が確認されており、定期検査にあたってはヨウ素の放出防止対策を講じているが、ヨウ素が検出された原因について調査を行った。
+
+（原因調査の結果）
+　調査の結果、本事象の原因は、燃料プール冷却浄化系を停止したため漏えい燃料集合体の影響により使用済燃料プール水のヨウ素濃度が上昇し、原子炉建屋オペレーティングフロアの空気中へ移行するとともに、原子炉建屋換気空調系を経由して主排気筒にて、検出限界値をわずかに超えて検出されたものと推定した。
+
+（再発防止対策）
+　漏えい燃料が発生し使用済み燃料プールへ移動した場合は、漏えい燃料を移動後１ヶ月程度は燃料プール冷却浄化系を停止することがないよう、関係者への周知・徹底を図るとともに、その旨を社内手順書に記載することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所７号機　主排気筒の定例サンプリングにおける微量な放射性ヨウ素の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/09/15 09:24:30]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

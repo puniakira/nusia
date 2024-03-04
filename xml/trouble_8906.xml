@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8906</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/12 13:53:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3827</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/07 21:09:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[19870401]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備についてデータ改ざん、必要な手続きの不備、その他同様な問題がないかを評価するための調査の中で、以下の事象が確認された。
+　運転記録であるＢＯＰの発電端電力量の出力値を１１６１ MWhに制限し、また，見かけ上発電端電力量の変動が大きくならないように改ざんしていた。
+　営業運転開始後の第１運転サイクルで、運転記録（ＢＯＰ）の発電端電力量（１時間積算値）は最大で約１１６４MWhを出力していた。このため、第１回定期検査おいて発電端電力量が１１６３MWh以下の場合は１１６０MWh、１１６３MWhを超える場合は１１６１MWhと運転記録に出力し、繰越処理するソフト変更が実施された。このソフト変更は当社からメーカに依頼したものと推定される。
+　また、発電端電力量は復水器の逆洗等で１日の中で数MWh変動するが、電気出力の管理が適切に行なわれていることを示すために正時の発電端電力量を書き換え、データの平坦化（数MWh）が行なわれた。
+　平成９年に逆洗設備の改造が行なわれ、逆洗中の発電端出力の低下が小さくなり書き換えは少なくなった。
+また、平成１４年７月より定格熱出力一定運転が行われ、さらに平成１４年にプロコンの取替えが行なわれ、発電端電力量が１１６１ MWhを超えた値が運転記録に出力しないプログラミングはなくなったことから、現在は問題ない。 ]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1987-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[発電機の電気出力データの改ざん]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 13:53:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

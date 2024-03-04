@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．要因調査
+　プラント挙動から本事象の発生に至った調査すべき要因として、以下の項目が考えられた。
+・何らかの要因により、所内側しゃ断器が２台同時に「開放」されたこと。
+・所内側しゃ断器が開放された際に所内切替が行われず、常用系電源喪失に至っていること。
+　このため、要因分析表に基づき調査を行ったところ、以下のことが確認された。
+
+（１）発電機ロックアウトリレー（86G1、86G2）の誤動作
+　外観点検、および配線点検を実施し、発電機ロックアウトリレーに異常は認められなかったことから、誤動作の可能性はない。
+
+（２）所内側しゃ断器の操作スイッチを手動で「切」とした
+　運転員に聞き取り調査を行った結果、事象発生当時に、所内側しゃ断器の操作スイッチは操作していない。
+
+（３）系統安定化装置の所内切替指令用リレー動作・誤動作の可能性
+　昭和59年に設置された福島系統安定化リレーシステム（以下、「系統安定化装置」）の動作により系統安定化装置の所内切替指令用リレー（以下、「56AX・56BX」）が動作すると、所内側しゃ断器2台が同時に「開放」されることから、56AX・56BXの動作について調査した結果、以下のことが確認された。
+ａ．56AX・56BXの動作
+　56AX・56BXは動作した可能性について調査した結果、56AX、56BXが設置されている系統安定化装置は、送電系統の増強により送電系統の安定度が改善され、当初想定していたような系統事故は発生しないと評価され、平成21年1月より機能除外されていることから、56AX・56BXが動作した可能性はない。
+ｂ．56AX・56BXの端子台での誤接触（短絡）
+　56AX・56BXの端子台での誤接触（短絡）の可能性について調査した結果、56AX・56BXから、所内側しゃ断器の「開放」信号を発信する端子は隣接（隣同士）しているが、誤接触させた痕は認められず、また作業では接触させていないとの証言を得た。
+ｃ．56AX・56BXの単体誤動作
+（ａ）過大な振動による誤動作
+　56AX、56BXが過大な振動により誤動作する可能性について調査した結果、事象発生当時、地震の発生はなく、またリレーが設置されている制御盤付近に過大な振動を発生させるような設備はないことから、振動によるリレー単体の誤動作はない。
+（ｂ）衝撃による誤動作
+　56BXが衝撃により誤動作する可能性について調査した結果、系統安定化装置は平成21年1月より機能除外されているものの、56BXは衝撃により動作することが確認された。
+　手および肘による打振試験により調査を行い、その両方で動作することが確認され、動作時間は5～7ミリ秒であった。
+　また、56BX取付部横にあるケーブル端子台についても肘で打振を行ったところ、同様に56BXが動作することが確認された。
+　さらに、設備図書等による調査および工場にて当該品と同等品による模擬試験結果から、短時間の誤動作により所内側しゃ断器が「開放」する可能性があることが確認された。
+　56AXについては、前回定期検査（第２４回定期検査）の際に56AXが設置されている発電機保護継電器盤の取替に伴い、56BXと異なるリレーの形式に変更されていたこと、および取り替えた際にその他のリレーと同じリレー収納箱に収められていたため、56AXだけが誤動作することは考えられないことから、56AXの衝撃による誤動作の可能性がないことが確認された。
+なお、56AX、56BXの制御盤付近にて衝撃を発生させるような設備はない。
+（ｃ）ノイズによる誤動作
+　56AX・56BXは過去にノイズにより誤動作した実績はなく、ノイズによるリレー単体のみが誤動作する可能性はない。
+
+（４）過電流引外しリレー（51）の動作
+　所内側しゃ断器を確認した結果、過電流リレーは動作していないため、過電流リレーによる常用側しゃ断器の「開放」はない。
+
+（５）起動側しゃ断器の操作スイッチを「入」にした
+　起動側しゃ断器の操作スイッチを「入」にすると、しゃ断器が「投入」された段階で所内側しゃ断器が「開放」されるインターロック（所内切替）となっているが、事象発生当時、スイッチは操作していない。
+
+（６）所内側しゃ断器の誤動作
+　所内側しゃ断器が２台同時にトリップしていることから、しゃ断器が２台同時に誤動作することは考えられない。
+
+　以上のことから、集合リレーケースに収納されていない56BX（56AXは集合リレーケースに収納されている）に衝撃が加えられ、56BXに短時間の誤動作が発生した場合に、所内側しゃ断器が2台同時に「開放」する可能性があることが確認された。
+　なお、リレー単体の衝撃による誤動作で所内側しゃ断器が２台同時に「開放」する可能性のあるリレーについて調査を行ったところ、56BXだけであることが確認された（56AXは集合リレーケースに収納されており、衝撃により誤動作する可能性はない）。
+
+２．56BXを誤動作させる衝撃の発生の可能性について
+　衝撃により56BXが動作することが確認されたが、衝撃を発生させるような設備は56BX付近に認められなかったことから、56BX付近にて作業を行っていなかったかどうか調査したところ、以下のことが確認された。
+（１）事象発生当時の作業状況を調査した結果、56BX近傍に設置されている打点式温度記録計（以下、「記録計」）の交換作業を実施していた。
+
+（２）記録計の点検を行っていた作業員へ聞き取り調査を行った結果、
+ａ．事象発生当時は、記録計の配線接続を終了し、電源の復旧も完了していた。
+ｂ．「合いマーク」挿入冶具（絶縁体）を持って、「合いマーク」取り付け作業を実施しており、治具による配線短絡のおそれはなかった。
+ｃ．56BXに接触しておらず、また振動を与えるようなこともしていない。
+ｄ．制御盤内通路から作業しており、56BXに腕以外の体の一部が触れることはない。
+以上の証言を得た。
+
+（３）制御盤内の状態および作業状況の再現確認について
+　制御盤内の状態および事象発生当時の作業状況の再現確認を行った結果、
+ａ．制御盤内は狭隘であり、作業していた記録計と56BXとの距離は約10cmであった。
+ｂ．56BXは昭和59年の改造工事の際に設置されたリレーであるため、集合リレーケースに収納されておらず、単体で制御盤内に設置されていた。
+ｃ．56BXは記録計側に出っ張っており、設備的に接触しやすい位置にあった。
+ｄ．系統安定化装置の機器設計において、56AXおよび56BXは接点容量が大きいことから、専用のリレーケースに収納できないため、リレー単体で設置することとした。なお、56AXについては、前回定期検査（第24回定期検査）の際に56AXが設置されている発電機保護継電器盤の取替に伴い、56BXと異なるリレーの形式に変更され、取り替えた際にその他のリレーと同じリレー収納箱に収められている。
+　以上のことから、作業員からは56BXに接触、または振動を与えたとの証言は得られなかったものの、記録計の裏盤に「合いマーク」を取り付ける作業を実施していた際に右手が56BXに接触するなど、何らかの衝撃が56BXに加わり、その振動により56BXが誤動作した可能性が考えられた。
+なお、当社の不適合管理システムおよびニューシア（原子炉施設情報公開ライブラリー）において、リレーへの接触による衝撃によりリレーが誤動作する事象がないか調査したが、類似事象は発生しておらず、稀な事象であることを確認した。
+
+３．所内側しゃ断器の開放動作後、所内切替が行われなかったことについて
+　打振試験により短時間ではあるが、56BXが誤動作し、所内側しゃ断器が「開放」した後、所内切替が行われなかったことについて、設備図書等による調査および工場にて当該品と同等品による模擬試験結果から、以下のことが確認された。
+（１）56BXが正常に設計上の動作をした場合には、所内切替信号が発信され、所内切替は正常に行われる。
+
+（２）56BXが短時間ではあるものの、誤動作した場合には、所内側しゃ断器を「開放」する回路が形成され、しゃ断器が「開放」する。
+
+（３）起動側しゃ断器の投入回路が形成されるためには、56BXが動作して、所内側しゃ断器が「開放」位置信号が必要であり、その「開放」信号が発信するまで56BXの動作が保持される必要がある。
+
+（４）56BXが短時間（5～7ミリ秒）だけ動作した場合には、所内側しゃ断器が「開放」されるが、所内側しゃ断器の「開放」位置信号を発信する前に56BXが復帰してしまうため、起動側しゃ断器の投入回路が形成されず、しゃ断器が「投入」されないことから、所内切替が行われない。
+
+（５）昭和59年頃、系統安定化装置の設置に関する検討がなされた際に、系統安定化装置は、電力系統の重大事故時に少しでも早く発電機しゃ断器の開放と所内切替を行うことを目的として設計されたため、発電機ロックアウトリレーによる所内切替とは別に所内切替を行う設計とするとともに、センサーが確実に動作を継続することにより、確実に所内切替を行える設計としていた。
+このため、56BX単体が誤動作した場合の影響について配慮された設計や設置方法ではなかった。
+
+４．推定メカニズム
+ａ．56BXが単体で瞬時誤動作した場合の所内切替への影響について配慮された設計や設置方法ではなかった。
+ｂ．系統安定化装置は、送電系統の増強により運用廃止となったが、運転中に56BXを含む、系統安定化装置のリレー撤去はプラントの安全に対する影響が大きいため、次回定期検査時に撤去することとし、回路が動作しないよう安全処置を実施していたが、56BX単体の瞬時誤動作した場合の所内切替への影響まで配慮した安全処置や注意を促す表示等が行われていなかったこと。
+ｃ．狭隘な制御盤内において、56BXが設備的に接触しやすい位置にあったことから、記録計の点検を行っていた作業員の右手が56BXに接触したなど、何らかの衝撃が56BXに加わったため、56BXの接点が瞬時ではあるものの、動作して誤信号が発生した。
+ｄ．56BXが動作したため、シーケンスに従い所内側しゃ断器2台が自動で「開放」されたが、56BXの動作が瞬時であったことから、起動側しゃ断器の投入回路が形成されなかった。これにより、起動用変圧器のしゃ断器が投入されなかったことから、所内電源系が全て停止した。
+ｅ．その後、常用系電源喪失により、主発電機励磁装置のサイリスタ冷却装置が停止したため、主発電機界磁しゃ断器が「開放」され、主発電機ロックアウトリレーが動作しトリップに至った。
+ｆ．そのため、常用系電源が喪失するとともに、非常用交流電源が喪失し、D/G2台（A系、B系）が自動起動した。
+ｇ．常用系電源喪失により、発電機ロックアウトリレーが動作したことにより、主タービンの非常用トリップ系が動作し、主タービン主要弁が全閉して主タービントリップした。
+ｈ．主タービンの主要弁の全閉したため、「タービン止め弁閉」の信号により、原子炉自動スクラム回路が動作し原子炉スクラムに至った。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[「発電機界磁しゃ断器トリップ警報」が発生し、発電機の保護装置が作動して発電機が停止したため、タービンならびに原子炉が自動停止した。]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11010</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/03/15 11:23:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>783</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>22659</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/06/23 15:58:30]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201006171452]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）集合リレーケースに収納されておらず、リレー単体の衝撃による誤動作で所内切替が行われない可能性があるリレーである56BXは、誤って接触しても、誤信号が発信しないよう、至近のプラント停止時（停止しているプラントについては、停止中）に回路の取り外しを行う。
+回路の取り外しを行うまでは、原則当該リレーに接触する可能性のある作業を行わないこととし、設備の不具合対応等で作業をする必要がある場合には、当社監理員立ち会いの下実施する。
+　なお、集合リレーケースに収納されており、誤動作の可能性がない56AXについても、現在使用していないことから、回路の取り外しを行う。
+
+（２）当該リレーと同様に集合リレーケースに収納されておらず、リレー単体で制御盤に設置されているものを調査・抽出する。
+抽出された制御盤内作業時に接触または衝撃を与える可能性のあるリレーに対し、至近のプラント停止時（停止しているプラントについては、停止中）にて識別するためのマーキングを行うとともに、制御盤内リレー近接箇所での作業時は、接触防止用防護処置を施すか、安全処置を行うかを関係者で協議する。
+
+（３）マーキングが施されるまでは、作業前に制御盤の事前調査を行い、作業箇所近傍に設置されているリレーの有無を確認し、有る場合には、接触防止用防護処置を施すか、安全処置を行うかを関係者間で協議する。
+
+（４）リレー単体で制御盤に設置されているリレーについて、今後、重要度に応じた設計および設置方法について改善方法を検討する
+・リレー単体で制御盤に設置されているリレーを調査・抽出
+・抽出されたリレーについて誤動作をした場合の影響評価を実施
+・影響に応じて重要度分類を実施
+・重要度に応じて対策（設計・設置方法・管理方法等の運用）を検討
+　なお、今後、設備的な事情等によりリレー単体で制御盤に設置する場合についても、同様に検討を行った上で設置する。
+
+（５）制御盤内作業時は、リレーに接触または衝撃を与えないよう十分に注意する事を当直員および作業員へ周知する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/03/15 11:23:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成22年６月17日午後２時52分頃、運転中の福島第一原子力発電所２号機（沸騰水型、定格出力78万４千キロワット）において、「発電機界磁しゃ断器トリップ警報」が発生し、発電機の保護装置が作動して発電機が停止したため、タービンならびに原子炉が自動停止した。
+また、この事象にあわせて当該プラントの電源が停止し、非常用ディーゼル発電設備が自動起動するとともに、原子炉へ給水するポンプが停止したことから、原子炉の水位が一時的に低下したが、代替のポンプである原子炉隔離時冷却系を起動して給水を行い、現在、原子炉の水位は通常の範囲内で安定している。
+
+主排気筒放射線モニタおよび、空間線量率を測定するため発電所周辺に設置されているモニタリングポストは通常の変動の範囲内であり、本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>42</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査の結果から、56BXが誤動作した原因は以下のとおりと推定された。
+（１）昭和59年に系統安定化装置を設置した際、56BX単体の瞬時誤動作や誤動作した場合の影響については、配慮された設計や設置方法ではなかったこと、また、平成21年1月に系統安定化装置を運用停止した際の安全処置において、56BX単体の瞬時誤動作や誤動作した場合の影響を配慮した安全処置や注意を促す表示等が行われていなかったこと。
+
+（２）56BXが設置されている制御盤内は狭隘であり、56BXが設備的に接触しやすい位置にあったことから、近傍にある記録計の点検作業を行っていた作業員の右手が56BXに接触したなど、何らかの衝撃が56BXに加わった可能性が考えられた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機における原子炉自動停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>784</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>22661</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[1]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/06/25 11:33:40]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[103]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[主蒸気隔離]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[109]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[自動減圧系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[109]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[自動減圧系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[2]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[手動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[110]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉隔離時冷却系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[2]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[手動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[114]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[非常用ディーゼル発電機]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[リレー]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11010</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[470]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[リレー]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1900]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[故意・過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[作業者の過失又は公衆の故意・過失によるもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1900]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>11010</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

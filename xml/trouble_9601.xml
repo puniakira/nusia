@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[ＲＰＶノズル部の供用期間中検査（ＩＳＩ）実施の際、遮へい体取外し・取付け作業における被ばく線量を極力低減する事を目的として、従来から採用してきた遮へいブロックを積上げるだけの方式とは別に、一体かつ人力で移動が可能なよう下面に４個のローラーを取付けた鉄板枠内に、遮へいブロックを積上げて固定した、スライド式プラグも２／３／６号機で採用されている。
+スライド式プラグは、閉鎖時には上部に設置されているストッパー１本を取付け穴に差し込むことにより、スライド式プラグの移動を防止する構造となっている。
+
+原因究明にあたり、作業員の聞き取り調査、及び現場においてストッパーの調査を実施した。その結果、ストッパーが正規の状態で取付けられていなかった事が判明した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9601</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/03/31 09:05:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4144</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/02/15 16:44:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080207]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[推定原因に対して、スライド式プラグを採用している号機について、以下の対策を実施することとする。
+なお、積上式プラグを採用している号機については、点検の結果移動等は確認されていないことから対策は不要と判断した。
+
+＜設備面＞
+・ストッパーが取付け穴に正常に取付け可能なよう、穴の修正加工を実施する。
+＜人的面＞
+・ストッパーの取付け要領等が分かる内容を工事施行要領書へ記載し、取付け後の確認及びチェック項目を追加する。
+・スライド式プラグとストッパーの、正規な取付け状態を示した注意銘板を現場に設置する。
+＜その他の予防処置＞
+・現状、ストッパー機構が上部１箇所に設置されている。そのため、地震時にスライド式プラグのガタつきが発生する可能性があることから、下部にもストッパー機構を追設する。
+・ＩＳＩ実施の際のスライド式プラグ開放状態における固定機能がないことから、開放時のストッパーも追設する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[３号機は、新潟県中越沖地震後の定期検査中のところ、原子炉圧力容器（ＲＰＶ）のノズル点検において、平成20年2月7日ＲＰＶ水位計装用ノズル（Ｎ１２Ａ～Ｄ）の遮へい扉を開放したところ、下記の事象を確認した。
+
+【Ｎ１２C】
+両側のスライド式の遮へい体（コンクリートシールドプラグ）がガイドを乗り越えて動きRPV側にハの字に開いており、スライド式コンクリートシールドプラグが配管保温材に接触して、配管保温材を変形させていることを確認した。
+配管保温材を取外し後、水位計装配管について外観目視確認を実施し、変形・傷等無いことを確認した。
+【Ｎ１２Ｄ】
+片側がスライド式、片側が積上式のコンクリートシールドプラグとなっているが、スライド式コンクリートシ－ルドプラグがガイドに沿ってＲＰＶ側に移動しており、積上式コンクリートシールドプラグ（遮へいブロック）が崩れ、崩れた遮へいブロックの一部が、水位計装配管（配管保温材が無い箇所）に接触していることを確認した。
+水位計装配管について外観目視確認及び浸透探傷試験を実施し、変形・傷等無いことを確認した。
+
+なお、他のノズルの同様なスライド式コンクリートシールドプラグを使用している遮へい扉内においては、シールドプラグの若干のズレは確認されたが、配管や配管保温材に影響を与える事例はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M086]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因究明にあたり、作業員の聞き取り調査、及び現場においてストッパーの調査を実施した。その結果、ストッパーが正規の状態で取付けられていなかった事が判明し、本事象の原因は以下の通りであると判断した。
+
+（１）Ｎ１２Ｃ：スライド式プラグが保温材に接触した事象について
+　ストッパーは取付けられていたものの、スライド式プラグが正規位置にある状態で取付けられておらず、ストッパー機能が働かなかった。その結果、スライド式プラグが地震によってＲＰＶ側へ移動後、ハの字状態に開いたことにより保温材に接触して保温材を変形させた。
+（２）Ｎ１２Ｄ：積上式プラグが水位計装配管に接触した事象について
+スライド式プラグのストッパーが取付けられておらず、Ｎ１２Ｃと同様にストッパー機能が働いていなかったことによりスライド式プラグが地震によりＲＰＶ側へ移動した。
+その結果、積上式プラグの押さえがなくなって、地震により積上式プラグが左側へ崩れ、水位計装配管への接触に至った。
+
+前述に示したように、Ｎ１２Ｃ／Ｄともに“ストッパー機能が働いていなかった”ことにより、“スライド式プラグが移動した”ことが原因であるが、“ストッパー機能が働いていなかった”ことの直接的な原因としては以下の点が考えられる。
+＜設備面＞
+・スライド式プラグが正規の位置にない（ストッパー機能が働かない）状態でストッパーが取付けられていたため、ストッパーが効かなかった。
+・ストッパーが取付け穴に入らない箇所があった。
+＜人的面＞
+・ストッパー機構に関する設計要求が施行要領書に反映されていなかった。
+・当社監理員及び請負企業ともに、スライド式プラグやストッパーに対する認識が低かった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[【新潟県中越沖地震】３号機原子炉圧力容器遮へい体の地震による移動について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[発見]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/03/31 09:05:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>9601</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[工学的安全施設作動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[120]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9601</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9601</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9601</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

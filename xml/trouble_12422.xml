@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[平成28年４月21日13時52分頃、柏崎刈羽原子力発電所６／７号機廃棄物処理建屋地下１階（非管理区域）に設置している定電圧浮動充電装置に接続された７号機ＰＨＳ交換機用蓄電池を収容するキャビネットから白煙が発生していることを協力企業作業員が発見し中央制御室へ連絡した。
+中央制御室では連絡を受け、直ちに119番通報を行うとともに初期消火を開始した。
+キャビネット内部を確認したところ、収容する計25個の蓄電池のうち１個（No24）の底部から発煙しており、その部位からは蓄電池の電解液（希硫酸）が漏れ出ていることを確認した。
+火災の有無を確認するため、当該蓄電池への充電を停止し、隣接する蓄電池を撤去して、発煙部を確認した結果、４月22日11時00分、公設消防により火災ではないと判断された。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[166]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12422</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2018/02/13 16:28:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2016/04/28 15:39:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201604211352]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の調査により、外部からの瞬間的な応力が加わることにより蓄電池電槽が割れ、その結果として発煙に至ることを確認した。
+　本事象は電槽割れを防ぐことで再発を防止できることから、直接的な原因は特定できなかったものの、以下の対策を講じて再発を防止する。また、低温環境下では割れ易くなることを留意して取り扱うこととする。
+
+　①運送時はエアサスペンション搭載の車両で運搬する（精密機器と同等の扱い）。
+　②荷受け時、施工時（据付前）に割れの有無を確認する。
+　③収容キャビネットへの搭載時は段差の無い状態で施工する（すべり板を使用する）
+
+　加えて、６号機および７号機のＰＨＳ交換機用蓄電池については、上記対策を講じた上で全ての蓄電池を新品へ交換を行う。また、これまで割れが確認されていない１～５号機のＰＨＳ交換機用蓄電池については、全数外観点検を行い、割れ等の異常のないことを確認した上で再接続する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/02/13 16:28:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【発生状況】
+　2016年4月21日午後2時頃、6/7号機廃棄物処理建屋地下１階（非管理区域）において、当該エリアを通過していた協力企業作業員が定電圧浮動充電装置に接続された7号機PHS交換機用蓄電池（電子通信設備）から発煙を確認しました。
+　発煙を確認した協力企業作業員が当社社員へ連絡を実施し、当社社員が消火活動を実施しました。
+　その後、消防署による現場確認が行われ、発煙部の詳細調査を実施した結果、火災ではないと判断されております。
+　なお、今回の発煙に伴う外部への放射能の影響はありません。
+（2016年4月21,22日お知らせ済み）
+【対応状況】
+○調査結果
+　当該PHS交換機用蓄電池の容器底部に割れを確認しました。
+　また、他号機も含め調査した結果、６号機および７号機に設置されている複数のPHS交換機用蓄電池に容器の割れおよび液の滲みを確認しましたが、これらについては発煙に至たる状況ではありませんでした。
+　今後、６号機および７号機のPHS交換機用蓄電池を当該品も含め全て新品に取替えます。
+○推定原因
+  直接的な原因は特定できていませんが、発煙のメカニズムは蓄電池容器の一部に割れが生じその割れから電解液が滲み出て、蓄電池を収容する収容キャビネットの塗装部を浸食させ地絡回路を形成し、スパークが断続的に発生することで、電解液および蓄電池容器が加熱され水蒸気と共に臭気を伴う白煙（発煙）が発生したものと推定しました。
+　また、蓄電池容器割れのメカニズムについては、検証結果により外部からの強い力によるもので、人力程度の力でも蓄電池容器に割れが発生する可能性があることを確認し、特に低温環境下においては配慮が必要であることを確認しました。
+　割れの発生は、蓄電池が工場出荷から現地に据え付けられるまでのいずれかの段階で生じたものと推定しております。
+　
+○再発防止対策
+　発生メカニズムより本事象は蓄電池容器の割れを防ぐことで再発を防止できることから、以下の再発防止対策を講じます。
+　　①運送時はエアサスペンション搭載の車両で運搬し、精密機器と同等の扱いとします。
+　　②今回の事象を踏まえ今後特に荷受け時、施工時（施工前）に割れの有無を確認します。
+　　③収容キャビネットへの搭載時はすべり板を使用し段差の無い状態で施工します。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東京-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）発煙要因
+ａ．発煙のメカニズム　　　　　　　　　　　　　　　　　　　　　　　　
+　後述の「検証内容」の結果から、以下のメカニズムで発煙することがわかり、発煙の根本原因は蓄電池電槽割れにあることを確認した。
+　①電槽底部の割れ部分より蓄電池内の電解液（希硫酸）が滲み出る。
+　②滲み出た電解液が蓄電池を収容するキャビネットの塗装面を侵食する。
+　③塗装面の侵食が進行し金属部分が露出する。
+　④蓄電池内部の電極とキャビネット金属部分が電解液を介して地絡回路を形成する。
+　⑤滲み出た電解液が減少し、地絡回路が途切れることでスパークが発生する。
+　⑥スパークにより、電槽底部および滲み出た電解液を加熱する。
+　⑦スパークにより、加熱された部位の温度が上昇し、電解液の水分が蒸発し水蒸気が発生する。
+　⑧電槽が加熱されることで臭気を伴う白煙が発生する。
+　⑨④～⑧を繰り返すことで電槽底部より発煙が断続的に発生する。
+
+ｂ．検証内容
+①電解液による耐酸性塗料で塗装されたキャビネットの腐食状況確認
+・塗装面（耐酸性塗装）へ希硫酸数ｍＬを滴下させ長期間観察を行い、300日目の観測結果※において金属部分までの侵食を確認した。
+（※過去に製造メーカが実施した観測結果より引用）
+　　　　　　　　　　
+②電槽割れによる地絡回路形成の確認
+・蓄電池電槽底部に割れを模擬した穴を空け、蓄電池の収容キャビネットを模擬した未塗装の鉄板の上に載せ、蓄電池の電極と鉄板間の電位差を確認した結果、電位差はほぼ0Ｖであり、この状態で鉄板の接地をとることで地絡状態となることを確認した。
+
+③模擬スパークによる状況確認　　　　　　　　　　　　　　　　　
+・電槽樹脂部分（ＡＢＳ樹脂）にリテーナ（隔離板）を２枚隙間を空けて並べ、その隙間へ電解液を滴下させた上で充電電圧を印加した結果、実際の充電電圧を模擬した55.75Ｖ（2.23Ｖ×25個分）の印加でリテーナ間にスパークが発生することを確認した。また、スパーク発生と共に白煙の発生を確認し、白煙発生時のスパーク付近の温度は110℃～120℃程度であった。
+
+④電解液の温度上昇試験　　　　　　　　　　　　　　　　　　　　
+・ビーカに入れた電解液を加熱すると、100℃付近で気泡が発生し始め、更に加熱すると気泡が増加し沸騰することで水蒸気が発生することを確認した。
+
+（２）割れの発生要因
+ａ．蓄電池電槽割れのメカニズム
+　後述の「検証内容」の結果から、蓄電池電槽の割れは外部から瞬間的な強い応力を受けることで発生したことを確認した。
+　この破断は検証の結果、蓄電池が冷えた状態において強い応力を加えた際の破断と類似していたが、製造・輸送・施工の各段階で強い応力を加えた瞬間の有無を調査した結果からは、直接的な原因は特定できなかった。
+
+ｂ．検証内容
+①電槽製造ロットの確認
+・６号機、７号機へ納入した各25個のＰＨＳ交換機用蓄電池の電槽製造ロットは１号機または５号機と同一のものが含まれていたが、蓄電池電槽割れは６、７号機に納入したもののみに発生しており、１号機および５号機へ納入したものには発生していないことを確認した。
+
+以上より、割れの発生は電槽製造ロットに依存していないと判断した。
+
+②破断面観察　　　　　　　　　　　　　　　　　　　　　　　　　
+・６号機および７号機のＰＨＳ交換機用蓄電池全て（各25個）の割れ状況を確認し、６号および７号共に25個中17個の蓄電池に割れを確認した。
+・割れた蓄電池の破断面を観察した結果、全て脆性破壊（強い応力により一気に破壊された状態）を示す断面であり、割れの進行方向は外部から内部へ広がる方向であることを確認した。
+・有機溶剤の付着によるケミカルストレスクラックを想定し、蓄電池への付着物調査を行ったが、残留物は確認されなかった。
+
+以上より、蓄電池へ外部から強い応力が瞬間的に加わることで割れが発生したものと判断した。
+
+③脆性破壊の傾向分析　　　　　　　　　　　　　　　　　　　　　
+・今回、割れが発生した蓄電池電槽（ＡＢＳ樹脂）は、一般的に耐寒性があるとされているが、当該蓄電池の納入日は冬期であり、納入場所である柏崎市の当日の最低気温は氷点下前後を記録していたことから、外力を受けた時期との関連性を含めて調査するため、温度条件を低温下として脆性破壊の傾向分析を行った。
+・人力で蓄電池に加えることのできる応力（92.2J）を模擬し、蓄電池電槽（ＡＢＳ樹脂）を切断した試験片に対して、温度条件を変えながら破壊実験を実施し、低温下（-20℃、-10℃、-5℃、0℃の各温度条件）において「事故品と同様な脆性破壊を示す断面の割れ」または「欠け（一部が削り取られる状態）」が発生することを確認した。
+・同様の実験を+25℃の環境下にて実施した結果、試験片の割れを確認したが、その断面は延性破壊（ゆっくり破壊された状態）を示す断面であり、高い温度においては割れにくい特性があることを確認した。
+
+以上から低温環境下において人力程度の応力でも割れる可能性があることが確認できたことから、工場出荷後の輸送時および現地施工時において、強い応力が加わった可能性について調査を行った。
+
+④蓄電池輸送状況の確認　　　　　　　　　　　　　　　　　　　　　
+・運送会社への聞き取り確認の結果、運送時における交通事故・遅延に関する情報はなかった。
+・輸送後の荷受け時に荷崩れは確認されなかった。
+　　
+以上から輸送時に強い応力が加わった瞬間は見つからず、原因有無の特定は困難であった。
+
+⑤施工時の状態確認　　　　　　　　　　　　　　　　　　　　　　　
+・実際の蓄電池収容キャビネットを模擬した架台への押し込み時を再現した実験では「割れ」または「欠け」の発生は確認できなかった。
+・当社、施工会社、製造メーカ合同にて、現地を見ながら搬入方法、施工方法を確認したが、特に問題となる点は見つからなかった。
+
+以上から施工時に強い応力が加わった瞬間は見つからず、原因有無の特定は困難であった。
+
+（３）原因のまとめ
+　以上の調査から、直接的な原因は特定できなかったものの、外部からの瞬間的な応力が加わり割れたことは確認できたことから、低温環境下において蓄電池が輸送から現地に据え付けられるまでのいずれかの段階で強い力が加わったものと推定する。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所での発煙について]]></TITLE_NAME>
+	<UNITS><![CDATA[6,7]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>66962</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/04/28 15:39:31]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[200]]></KIKI_CODE>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12422</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[112]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[ケーシング・ケース・ハウジング]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>43</SORT_NO>
+						<BUHIN_CODE><![CDATA[112]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[200]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[蓄電池（バッテリ）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[708]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[708]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[蓄電池・充電器装置]]></KIKI_NAME>
+					<SORT_NO>12</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＤＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[166]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[調査しても原因が明らかでないもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+					<SORT_NO>8</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12422</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

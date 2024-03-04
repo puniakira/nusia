@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　今回の事象は、Ａ、Ｂ、Ｃ－ＡＣＣリ－クチェックのために仮設水位計元弁を閉止してＡＣＣのＮ２加圧操作を行わねばならないところ、開状態で行ったために発生したことからＡＣＣ水張り・リ－クチェックの経緯について調査した。
+（１）ＡＣＣ水張り操作［平成１２年９月１日～８日］
+　運転定期点検所則（定検時操作編）「ＡＣＣ水張り・Ｎ２加圧」の手順書（チェックシート）に基づき９月１日よりＡＣＣ水張り操作を行ったが、水張り時に仮設の水位計を使用するため水張り操作前に１次系補機員が各仮設水位計元弁の開操作を行った。この仮設水位計元弁の開状態は、ＡＣＣリ－クチェック前までの一時的な状態であること及び系統隔離支援システム（以下ＳＩＳという）の入力範囲が一部不明確であったことから、開操作を行った直の制御員は、弁の開状態をＳＩＳに入力する必要はないと考え入力しなかった。
+　なお、水張りは９月１日から９月８日まで断続的に実施した。
+（２）ＡＣＣリ－クチェック操作［平成１２年９月１１日］
+［１］引継段階
+　当該制御員は、１直勤務で３直の制御員よりＡＣＣの水張り状況について口頭で引継を受けたが、仮設水位計元弁が開状態であること及びＡＣＣリ－クチェックの手順書（チェックシート）の引継は受けなかった。
+［２］事前ミーティング段階
+　制御員は、ＡＣＣリ－クチェックにあたってＳＩＳのピンボード系統図にてＡＣＣ廻りの系統状態を確認し、仮設水位計元弁が閉止状態であることを確認した。そのうえで、操作関係者（制御員１名、１次系補機員１名、主機員１名）間で事前ミーティングを実施し、ピンボード系統図に基づきＡＣＣリ－クチェックの操作手順について相互確認した。この時、制御員は前直の制御員から手順書（チェックシート）の引継を受けておらず、また、ＡＣＣリ－クチェックは軽微な操作であり、リ－クチェックの操作手順が「ＡＣＣ水張り・Ｎ２加圧」の手順書（チェックシート）に記載されていることの認識が薄れていた。さらに、定検時操作は必ず手順書（チェックシート）に基づいて行うことの認識が薄れていた。
+［３］実施段階
+　Ａ、Ｂ、Ｃ－ＡＣＣのＮ２加圧操作を開始したところ、仮設水位計元弁が開状態であったことから仮設水位計上部開口部よりＡＣＣ器内水が漏えいした。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[206]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2009</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/22 12:04:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2605</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200009111412]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）定検時操作マニュアルに関する再教育、勉強会等を実施するとともに、定検工程（運転操作工程）と手順書（チェックシート）との関係を明確にした整理表を作成し手順書（チェックシート）使用の再徹底を図った。また、定検時操作は必ず手順書（チェックシート）に基づいて行うこと等、運転操作の基本について再教育を実施した。
+（２）当直間の引継時は、操作途中の手順書（チェックシート）等を確実に引継げるように一覧表、ファイリング等で管理するよう周知徹底を図った。
+（３）現状の系統状態については、再度ＳＩＳの状態表示と現場の状態に差異がないかを点検し整合性を確認するとともに不整合箇所については現場の開閉状態に合わせてＳＩＳへ入力した。
+（４）定期検査中に系統状態を変更した場合（作業隔離範囲内等を除く）は、ＳＩＳへ必ず弁の状態表示を入力するよう徹底した。
+
+　上記（１）（２）（４）については、発電室にてルール化を実施し本事例の研修と合わせ発電室員に周知徹底を図った。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜発電所３号機（定格出力８２万６千キロワット）は、平成１２年７月２８日から第１８回定期検査中のところ、平成１２年９月１１日１４時１２分頃、格納容器（以下Ｃ／Ｖという）内ＥＬ２４ｍフロアにおいて、Ａ－アキュムレータ（以下ＡＣＣという）上部付近からの水漏れを作業員が発見し中央制御室へ連絡した。直ちに１次系補機員が現地確認をしたところ、１４時２０分から１４時３０分頃、Ａ、Ｂ、Ｃ－ＡＣＣ仮設水位計上部開口部からの水漏れを確認した。
+　当時、ＡＣＣリ－クチェック（ＡＣＣ気層部Ｎ２加圧中）を実施中であり、仮設水位計の元弁であるＡ、Ｂ、Ｃ－ＡＣＣサンプルライン隔離弁漏えい検査用接続弁（以下仮設水位計元弁という）が閉止していなければならないところ、全開状態となっていた。そのため、各仮設水位計元弁を閉止し、１４時４０分頃水漏れが停止した。
+　漏れた水はＣ／Ｖ内ＥＬ２４ｍのＡ、Ｂ、Ｃ－ＡＣＣ付近フロアとＥＬ１７ｍの下部付近フロアに広がっており、１４時３０分頃から汚染拡大防止処置及び除染作業準備を行い１８時０５分から２０時０５分の間にて除染作業を実施した。
+　また、漏れた水は約３６５リットル（推定放射能量：約１．５×１０＾６Ｂｑ）と推定され、ほぼＣ／Ｖサンプに回収された。
+　なお、今回の事象による環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-関西-M015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）定検時操作における手順書（チェックシート）については、前回定期検査時における主蒸気管水撃事象の反映として１操作１確認の記載とする等改善を図られてきたが、その制・改定の内容についての教育、定検前勉強会等が不十分であった。また、定検時操作は必ず手順書（チェックシート）に基づいて行うことの認識が薄れていた。
+（２）９月１１日、前直からＡＣＣリ－クチェック操作の当該直へは、ＡＣＣ水張り状況については口頭で引継されたが、手順書（チェックシート）や仮設水位計元弁が開状態であることの引継が行われなかったため、手順書（チェックシート）に基づく操作が行われなかった。
+　なお、今回の定期検査において定検時操作マニュアルの使用状況を調査した結果、今回のＡＣＣリ－クチェックの操作以外は確実に手順書（チェックシート）が使用されていることを確認した。
+（３）９月１日のＡＣＣ水張り操作前に１次系補機員が仮設水位計元弁の開操作を行ったが、ＳＩＳの入力範囲が一部不明確であり、制御員が当該弁の開状態をＳＩＳに入力しなかったため、ＡＣＣリ－クチェック操作直の制御員は当該弁を閉状態と認識した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[格納容器内での水漏れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（発見）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/22 12:04:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[蓄圧注入系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[206]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[206]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2009</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10961</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/05/14 15:59:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4725</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/05/14 11:19:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100425]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜発電所２号機は、漏えい燃料の特定調査を実施するため、平成２２年４月２４日に原子炉を停止した。その後、２５日１３時２７分から格納容器内の空気を入れ替えるため、格納容器内の空気を格納容器排気筒から排気する操作（以下「排気操作」という）を実施していたところ、格納容器排気筒ガスモニタの指示値が予測値（約９１０ｃｐｍ）を超える値（最大１，４１０ｃｐｍ）まで上昇したことから、排気操作を中断した。その結果、指示値は通常値（約７３０ｃｐｍ）に戻った。
+　格納容器内の排気操作は、格納容器ガスモニタ指示値等を確認し、外部への影響の事前評価を行った上で格納容器排気筒から排出することとしており、今回の事前評価は４月２３日に実施していた。
+　格納容器内の状況を確認したところ、２台ある１次冷却材ポンプのうち、Ｂ号機のシールカバーの取り付けボルト部付近にごく僅かな水溜り（約５ｃｃ）とほう酸の析出痕（約２０ｃｍ×３０ｃｍ）が確認され、１次冷却材中に含まれる放射性物質が検出された。
+　当該ポンプについては、排気操作開始前に停止した後、「２Ｂ ＲＣＰスタンドパイプ水位注意」警報が発信したため、スタンドパイプに水の補給を行い、警報をリセットした。このことから、当該ポンプ停止により、ポンプのシール機能が一時的に低下したものと判断し、１次冷却材ポンプオイルリフトポンプの起動停止により、シール機能の回復を行った。
+
+　ポンプ停止時には、ポンプの１次冷却材のシール部が、ポンプ内外の圧力の変動等により、一時的に動くことがあり、この変動により、ポンプ軸シール部から僅かな漏えいがあったものと推定した。
+　また、格納容器内の空気の流れを確認したところ、１次冷却材ポンプのあるループ室内に排気筒へ接続されている作業用ダクト吸い込み口が設置されていたため、排気操作時にループ室の空気が格納容器内で攪拌されずに、作業用ダクトから直接排気筒へ排気されることがわかった。
+　これらのことから、原因は、排気操作直前に停止した１次冷却材ポンプのポンプ軸シール部から僅かに漏えいした１次冷却材中に含まれる希ガス＊６が、ループ室内に漏れ、排気操作開始の際に、ループ室内に設置されていた作業用ダクトから直接排気筒へ排気されたため、格納容器排気筒ガスモニタの指示値が予測値を超える値まで上昇したものと推定した。
+　このため、格納容器内の空気の攪拌を行った後、格納容器内の空気をサンプリングし、ガス濃度を再確認した上で排気操作を再開した。
+
+　今後は、燃料漏えい等で原子炉を停止した場合、１次冷却材ポンプ停止等による格納容器内への希ガス放出の可能性がある操作を行った後は、すぐに排気操作に移ることはせず、プラント状態の確認と空気の攪拌を行います。また、排気操作前に、格納容器内の空気をサンプリングし、ガス濃度を再確認する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[格納容器内空気排気時の格納容器排気筒ガスモニタ指示値の上昇について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/05/14 15:59:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

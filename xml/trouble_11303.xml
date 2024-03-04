@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<TROUBLE_ID>11303</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/03/17 19:02:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>52993</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/05/06 14:36:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110331]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/03/17 19:02:08]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当社は、排気筒から放出している排ガスの放射能濃度を定量的に把握するため、常時、排ガスの一部を放射能測定器に送り1週間ごとの放射能濃度を分析しており、微量な放射性物質が検出されているが、浜岡原子力発電所に起因したものではない。（通番11272へ登録）
+　当面、同様の事象が発生することが懸念されることから、本ＮＵＣＩＡを更新し状況を登録していく（詳細な情報については、添付する当社のホームページ内容を参照。）
+
+　また，5号機主復水器海水流入事象（NUCIA通番11312）に起因し微量な放射性物質が検出されたことから，概要を以下に示す（詳細な情報については、添付する当社のホームページ内容を参照。）。
+
+（2011年5月19日公表資料の概要）
+・2011年5月12日～18日まで通気したフィルタを分析した結果、5号機排気筒のフィルタから人工放射性物質である「ヒ素76」を検出した。
+・これは、2011年5月14日に発生した5号機主復水器海水流入事象（NUCIA通番11312）により原子炉水に混入した海水に起因するものと推定した（海水中のヒ素75の放射化による）。
+
+（2011年5月26日公表資料の概要）
+・2011年5月18日～25日まで通気したフィルタを分析した結果、5号機排気筒のフィルタから人工放射性物質である「コバルト58」を検出した。
+・これは、2011年5月14日に発生した5号機主復水器海水流入事象（NUCIA通番11312）に伴う、原子炉水の浄化操作中に発生した。
+
+（2011年6月2日公表資料の概要）
+・コバルト58を検出した事象の原因と対策
+（原因）海水流入により、原子炉水中のコバルト58の粒子が通常状態より小さくなり、一部の粒子がフィルタを通り抜け、検出されたものと推定した。
+（対策）粒子の小さくなったコバルト58も除去できるフィルタを新たに設置した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S031]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所の排気筒排ガスからの微量な人工放射性物質の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3,4,5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/05/11 09:44:10]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

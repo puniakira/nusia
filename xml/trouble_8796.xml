@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[配管肉厚測定、表面・断面観察、系統圧力・温度測定を行った結果、以下のことが確認された。
+（１）肉厚測定
+（添付図２（状況図１）を参照のこと）
+・当該部は曲げ部背側に局所的な減肉が確認された。
+・Ａ、Ｂ、Ｃの３系統の内、Ｃ系は当該部下流にも有意な減肉が確認された。
+・Ａ、Ｂ系は有意な減肉は確認されなかった。
+
+（２）表面・断面観察
+（添付図３（状況図２）を参照のこと）
+・配管内面を観察した結果、曲げ部背側に漏えいが生じた貫通孔（約Φ０．５ｍｍ）が確認された。
+・当該漏えい配管の上流側は赤色の酸化皮膜であったが当該漏えい部を含めた下流側は黒色の酸化皮膜となっており、肉厚測定結果と外観観察結果から黒色の酸化皮膜近傍から減肉傾向が生じていた。
+・減肉の激しい曲げ管背側において、エロージョン、コロージョン特有の鱗片模様が確認された。
+・ＳＥＭ観察の結果、減肉した部分の表面はしま状模様に、ひび割れたような酸化皮膜であり、皮膜破壊を伴う減肉形態であった。
+・Ａ、Ｂ系配管内部は赤色の酸化皮膜となっていた。
+　　
+（３）系統圧力・温度測定
+・通常運転中の当該系統の圧力・温度を測定したところ、実機圧力が設計圧力に対して約０．１ＭＰａ低かった。 
+・実際の系統圧力が下がった結果、内部流体が配管の中を頂部へ向けて立ち上がる途中で、流体圧力が飽和蒸気圧を下回り、減圧沸騰によって蒸気が発生した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[157]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8796</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/09/29 11:01:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3750</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/04/25 18:30:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704251426]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）オリフィス穴径の見直し
+　本事象の根本原因は、ブリードオフラインの第３給水加熱器入口に設置されたオリフィスの実機差圧が、計画差圧を満足しなかったことによって、当該配管内の圧力が低下し、フラッシュが発生したため、内部流体が二相流となり、減肉環境となったことである。 
+　また、オリフィス差圧の低下は、設計で考慮したチョーキング現象（オリフィス穴部でのフラッシュによる閉塞現象）が生じなかったことによる。 
+　上記原因に対する対策として、オリフィス差圧にはチョーキング現象を考慮せず、オリフィス出入口圧力差を基にオリフィスの穴径を見直し、穴径を小さくすることとした。
+
+（２）配管修理
+　今回の事象により減肉が確認された部分について、既設と同一仕様の炭素鋼で取替工事を行った。オリフィスについては、Ａ系、Ｂ系、Ｃ系のそれぞれについて穴径を変えたものに交換した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/09/29 11:01:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　柏崎刈羽原子力発電所６号機（改良型沸騰水型、定格出力135万６千キロワット）は、定格熱出力一定運転中のところ４月２５日１４時２６分頃、タービン建屋地下２階復水器室において、床面に水溜まりがあることをパトロール中の当社社員が発見した。
+　現場を確認したところ、タービン建屋１階復水器室内にある配管に取り付けている保温材の隙間より水が滴下し、グレーチング（金網状の床）を通じて地下２階床面に溜まっていたことがわかった。
+　発見した際に床面に溜まっていた水の量は約４リットル、放射能量は約1.2×10^4ベクレルだった。
+　微少な漏えいは継続しているが、液体廃棄物処理系で適切に処理した。
+
+　調査の結果、当該配管のエルボ部（配管を曲げている部分）付近からの漏えいであることを確認した。
+　本事象は直ちに運転に影響を及ぼすものではないが、点検、原因の調査および補修を行うため、４月２６日１６時からプラントの停止操作を開始した。
+
+　これによる外部への放射能の影響はなかった。
+（添付図１（概略系統図１）を参照のこと）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）推定原因
+（添付図４（状況図３）を参照のこと）
+・ブリードオフライン内を流れる高温水は、垂直上向きの配管を通過するにつれて配管のヘッド差および配管圧損により減圧され、TMSL11000付近のレベルに到達した時点で飽和蒸気圧より低下し、蒸気の発生によって二相流を形成した。（スラグ流れ） 
+・その後、水平配管である頂部ヘッダ管を通過し、Ａ系、Ｂ系、Ｃ系の順番に垂直下向き配管に流入した。 
+・水平配管内では、流体は重力の影響により下側が水、上側が蒸気の二相流を形成していると推定されるため、Ａ系およびＢ系の下向き配管には、蒸気よりも水がより多く流れたと推定する。 
+・よって、蒸気は主にＣ系に流れたと推定する。 
+・また、最も流路の長いＣ系においては、さらに配管圧損による減圧が大きいことから、Ａ系、Ｂ系と比較して、圧力は低く、湿り度は低下（蒸気の比率が大きい）することになった。 
+・従って、Ａ系、Ｂ系と比較して、Ｃ系を流れる流体の比容積（体積／重量）は大きく、流速は速くなり（※）、また水中に溶存していた酸素が気相に移行することにより溶存酸素濃度も低下したと考えられることから、Ｃ系に有意な減肉が発生したと推定した。 
+（※）実機の条件から各系統における流速を評価した結果、Ａ系およびＢ系と比較して、Ｃ系は約７倍程度の流速となると評価された。 
+・なお、Ａ系、Ｂ系は主に水が流入していると考えられることから、有意な減肉は発生しなかったと評価した。
+
+（２）系統圧力が低下した推定メカニズム
+　　（添付図５（状況図４）を参照のこと）
+・第３給水加熱器入口オリフィスは、オリフィス上流側をフラッシュさせないためにオリフィス上流の配管内圧力が、流体温度の飽和蒸気圧を上回るように設計している。 
+・当該のオリフィスの設計においては、下流部でフラッシュし気泡が発生することから、気泡によって絞り部の流路面積がさらに小さくなる事象（チョーキング現象）を想定して、オリフィス差圧を設計（オリフィス穴径を大きく）していた。
+・しかし、実際にはオリフィス絞り部で気泡は発生せず、フラッシュ開始点（気泡発生点）がオリフィスの下流側に遅れたことにより、オリフィス差圧は設計段階で想定していたよりも小さくなった。（流れがオリフィス穴の部分で気泡によって、邪魔されなかったため、流れがスムーズになり、差圧が立たなかった）
+・オリフィスで設計通りに差圧が立たなかったため、ヒーター内の圧力に引きずられるようにしてオリフィス上流側の系統圧力低下に至ったと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[６号機タービン建屋内での水漏れについて]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/26 13:44:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[復水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[157]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[157]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8796</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

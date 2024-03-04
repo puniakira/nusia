@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11114</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/12/17 16:18:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>19344</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/10/06 16:53:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201010061155]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/12/17 16:18:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方２号機は第２２回定期検査中のところ、平成２２年１０月６日１１時４６分にＯＦケーブル※１の異常を示す信号が発信した。現場を確認した結果、１，２号屋内開閉所にて、２号ＯＦケーブル監視盤※２から発煙していることを１１時５５分に運転員が確認した。このため、１２時０１分に監視盤の電源を「切」とし、発煙の停止を確認した。１２時０４分消防署に連絡し、１３時０１分消防署により「火災では無い」と判断された。
+調査の結果、発煙はＯＦケーブル監視盤内の制御電源用の変圧器（以下「制御用変圧器」という。）から発生しており、一部に過熱損傷が見られ、監視機能が喪失していることを確認した。また、整流器※３の一部に異常が見られたため、当該の制御用変圧器と整流器等を取り外し、同じ機能をもつ電源装置と交換した後、ＯＦケーブル監視盤の機能が正常であることを確認し、１０月８日１５時４５分、通常状態に復旧した。
+なお、本事象によるプラントおよび環境への放射能の影響はなかった。
+※１：ＯＦケーブル
+絶縁油をケーブル内に充てん密封した高電圧ケーブル
+※２：ＯＦケーブル監視盤
+ＯＦケーブルに充てんされている絶縁油の状態（油量・油圧）およびＯＦケーブルダクト内の火災を監視する盤
+※３：整流器
+交流を直流に変換する機器
+
+詳細は添付の報告書参照。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ＯＦケーブル監視盤からの発煙]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/10/06 16:54:31]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9658</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/04/25 00:19:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/03/24 15:00:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200803051500]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/04/25 00:19:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+原子炉施設保安規定第３７条で規定している「原子炉冷却材温度」について，その計算方法を示した東海第二発電所の細則「原子炉冷却材温度制限値算定手順書」を平成１８年１２月１５日に改訂したが，その際「中性子照射に伴う関連温度移行量の算定」のマージン値の解釈に誤りがあることが判明した。（下記のとおり）
+関連温度移行量（ΔＲＴＮＤＴ）の予測式
+・東海第二の細則の記載 
+ΔＲＴＮＤＴ　＝　16.1・ｆ（0.29－0.04logｆ）＋4.5※（※ 4.5=平成１９年時点のﾏｰｼﾞﾝ計算値）
+・ＪＥＡＣ４２０１－２００４ 付録１の記載
+ΔＲＴＮＤＴ　＝　16.1・ｆ（0.29－0.04logｆ）＋MR　MR=Min.（16.1・ｆ（0.29－0.04logｆ），12.0）
+
+この誤りは、マージン値を照射量の変数とすべきところ，第２２回定期検査（平成１８年１１月～平成１９年５月）時の計算値としていた。
+保安規定に基づく第２２回定期検査における「原子炉冷却材温度制限値」算定は，平成１９年時点の評価値であることから問題はなかった。
+しかしながら，先般提出した高経年化技術評価等報告書に係る「関連温度移行量算定時のマージン」については，運開以降６０年目の値を使用しているため，約２℃の差が生じることとなった。
+なお，この差があっても原子炉圧力容器の耐圧試験時の制限は、最低使用温度要求が３８℃であり，この温度以下にはしないこととしているため，今後の運用管理面での影響はない。
+
+２．対応
+　本事象は，保安規定に抵触するものではないものの，高経年化技術評価等報告書の記載事項に誤りがあったことから，速やかに高経年化技術評価等報告書の修正を実施する。
+　細則「原子炉冷却材温度制限値算定手順書」におけるマージン値の解釈に誤りがあったため、関連温度移行量のマージン値を修正し細則の改訂手続きを実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉圧力容器関連温度移行量のマージンの誤りについて]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/03/24 20:23:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

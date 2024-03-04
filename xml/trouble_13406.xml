@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13406</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/01/24 09:43:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>104068</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/12/15 16:47:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202112091220]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/01/24 09:43:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[・2021年12月9日、柏崎刈羽原子力発電所 6/7号機 サービス建屋の排水を収集するピットの排水ポンプが連続運転していることを確認
+・流入源の調査を実施したところ、サービス建屋のシャワーエリアから当該のピットへ流入していることが判明
+・シャワーエリア付近を調査したところ、シャワー室外に少なくとも225リットル（150cm×150cm×10cm）の水が漏れ出していることを確認
+・漏れた水は生活用水(シャワー水)であり、水の供給元弁を閉めたことで漏えいは停止
+・漏えいした水から放射性物質は検出されておらず、外部への放射能の影響無し
+
+【調査結果】
+2020年3月、6/7号機サービス建屋の耐震性を強化する工事において、1階男子ホットシャワー室内に耐震壁を設置する為、耐震壁と干渉する位置にあった給水配管を切断し、切断箇所を止水プラグで塞いだ。
+2021年11月、別の給水設備改修工事を行った際に給水弁を誤って開けてしまい、継続して水が当該配管に流入し、止水プラグに水圧がかかる状態となっていた。
+その結果、12月9日に給水圧力に耐えられなくなった止水プラグがはずれ、漏えいに至った。
+
+【事象の原因】
+①別の給水設備改修工事を行った際に、給水弁を誤って開としていた。
+②給水弁が閉状態であることを前提としていたため、当該配管への水の流入は想定しておらず、非耐圧の止水プラグを設置していた。
+
+【再発防止対策】
+①誤って弁の開操作ができないよう、当該の弁を針金またはチェーン等で固定し、注意喚起の表示を行う。
+②給水圧力に耐えられる止水プラグに交換を実施]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-東京-S029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[サービス建屋 1階 シャワーエリア (管理区域)における水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/12/15 16:47:45]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

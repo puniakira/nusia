@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該サンプの水源を調査した結果，地震による外部電源喪失に伴う常用系電源の停電により開となった実験室サンプポンプシール水電磁弁から供給された消火水（停電により自動起動した，ディーゼルエンジン駆動消火ポンプにより供給）が当該サンプに流入し続け，当該サンプ内に溜まったことを確認した。
+　それに加え，停電により当該サンプの制御電源が喪失したことからサンプの水位高信号が発信されなかったこと，当該ファンネルを閉塞していたゴム栓が外れたことで，当該サンプとの僅かな水頭差により，非管理区域側の当該ファンネルへ逆流したことによる溢水であったことを確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11283</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[103]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[高温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/02/29 14:47:11]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[ドレン配管]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>28494</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/04/08 10:47:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201103281030]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．当該ファンネルの対策
+　当該ファンネルについては実験室サンプとの恒久的な隔離措置として，鋼板とモルタルを用いた閉止措置を実施した。
+　また，当該ファンネルと当該サンプの接続配管につながる複合建屋１階と中１階の他のファンネル８箇所（この内１箇所は当該ファンネル同様に逆流の可能性があった）を含め，鋼板とモルタルを用いた閉止措置を実施した。
+　なお，サンプポンプシール水電磁弁は停電により開となってしまうこと，および制御電源の喪失で水位高信号が発信されなくなることについては，改善を検討する。
+ 
+２．水平展開
+　管理区域からの放射性液体を内包する配管等※４で非管理区域において開口を有し，溢水を生じる可能性があるものの抽出と逆流の可能性の有無確認を実施した。
+　この結果，複合建屋４階空調機械室において原子炉建屋地下２階の床ドレンサンプへ接続されているファンネル１３箇所を確認した。
+　これについては，ファンネルの設置位置がサンプから見て高所に位置するため，逆流の懸念はないものの、管理区分の異なるエリアで接続されていることから，念のため恒久的な閉止措置を行なう。
+　また，当該サンプに流入する配管で，サービス建屋ランドリーボイラー室（管理区域外）のファンネルにて既に閉止プラグ（鋼製）により閉止されているものを１箇所確認したが，これについても念のため，当該サンプ側でも流入配管の恒久的な閉止措置を行なう。
+　なお，サンプポンプシール水電磁弁は停電により開となってしまうこと，および制御電源の喪失で水位高信号が発信されなくなることについては，改善を検討する。 
+
+※４：ドレンファンネル，ベント・ドレン配管などをいう。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/02/29 14:47:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．プラント状況
+ 東海第二発電所は定格熱出力一定運転中，平成２３年３月１１日１４時４６分頃に発生した東北地方太平洋沖地震（茨城県東海村での観測震度「６弱」）により，１４時４８分にタービン軸受振動大（トリップ設定値０．２５ｍｍ以上に対し，第５および第６軸受振動最大値は０．３３５ｍｍ）でのタービントリップに伴うタービン主蒸気止め弁閉の信号により原子炉が自動停止した。
+ 地震発生直後，外部電源（２７５ｋＶ並びに１５４ｋＶ系）に地震の影響による停電（外部電源の喪失）が発生したが，非常用ディーゼル発電機（以下，「ＤＧ」という）３台（ＤＧ２Ｃ，ＤＧ２Ｄ，及びＨＰＣＳ ＤＧ）が自動起動し，それぞれに負荷が投入されたことにより，非常用機器への電源は確保されていた。
+ 地震発生から約４時間半後，取水口の南北に配置されている海水ポンプ槽のうち，北側のポンプ槽（以下、「北側ポンプ槽」という）への津波による海水浸入のため，非常用ディーゼル発電機２Ｃ用海水ポンプ（以下，「ＤＧＳＷ（２Ｃ）」という）電動機が水没し自動停止したことから，３台のＤＧのうち，１台が使用不能となったが，残りの２台により，非常用機器への電源は確保されていた。
+ その後，東海第二発電所は，２台のＤＧによる電源を用いた運転手順書に従った操作・対応により冷温停止に移行した。
+
+（１）「止める」機能の状況
+ 地震の影響によりタービン軸受の振動が増加し，タービン軸受振動大の信号によりタービンがトリップ，原子炉スクラムに至った。
+ 原子炉スクラムにより全制御棒は正常に全挿入（３月１１日１４時４８分）された後，未臨界を確認した（同日１５時１０分）。
+ なお，地震加速度大による原子炉スクラム信号はタービントリップによるスクラム信号の１秒後に発信していた。
+ また，軸受振動大によるタービントリップの３秒後にはタービンスラスト軸受異常トリップの信号が発生しており，主タービンはトリップ後においても地震の影響により軸系が加震されていたものと推定する。
+
+（２）「冷やす」機能の状況
+ 原子炉スクラム直後の水位変動により，非常用炉心冷却系の１つである高圧炉心スプレイ系（以下，「ＨＰＣＳ」という），原子炉隔離時冷却系（以下，「ＲＣＩＣ」という）が自動起動し原子炉が高圧状態での原子炉への注水機能が確保され，原子炉水位は，通常水位に保たれた。その後の原子炉水位維持は，ＲＣＩＣ（水源は，当初は復水貯蔵タンク，後にサプレッションプール）により実施し，原子炉圧力の制御は，主蒸気逃し安全弁により実施した。
+ また，原子炉スクラム後の崩壊熱除去のため，残留熱除去系（以下，「ＲＨＲ」という）を手動起動（Ａ系１５時０１分～，Ｂ系１６時４０分～）し，サプレッションプールの冷却を開始した。
+ その後，津波による北側ポンプ槽への海水浸入による，ＤＧＳＷ（２Ｃ）の停止により，ＤＧ２Ｃ及びその負荷であるＲＨＲ（Ａ）が使用不能となったが，サプレッションプールの冷却は，ＲＨＲ（Ｂ）により継続した。
+ なお，北側ポンプ槽内に設置してあるＤＧＳＷ（２Ｃ）以外の残留熱除去系海水系（以下，「ＲＨＲＳ」という）ポンプ（Ａ）および（Ｃ），補機冷却海水系（以下，「ＡＳＷ」という）ポンプ（Ａ）および（Ｃ）は電動機下部付近まで浸水したものの，後の確認で機能への影響はなかった。
+
+（３）「閉じ込める」機能の状況
+ 原子炉スクラム直後の水位変動（低下）により，格納容器隔離系が正常に作動（３月１１日１４時　　４８分）したことで，格納容器が隔離された。
+ また，同様に，原子炉スクラム直後の水位変動（低下）により，原子炉建屋が自動隔離され，原子炉建屋の換気系が通常の換気系から非常用ガス再循環系（ＦＲＶＳ）／非常用ガス処理系（ＳＧＴＳ）へ正常に切換わった。
+
+（４）冷温停止に向けた操作
+ 原子炉注水手段として，２系統（ＲＣＩＣ，ＨＰＣＳ）を用いて原子炉水位を確保した。
+ また，炉心から発生した蒸気はサプレッションプールに排出しＲＨＲ（Ｂ）にて冷却した。
+ 原子炉冷温停止に向けてはＲＨＲを２系統確保して，より確実な冷却を達成するために，ＲＨＲ（Ａ）を運転可能とする電源確保としてＨＰＣＳ　ＤＧからの電源融通や，ＤＧ２Ｃの復旧もしくは外部電源の復旧などを検討していた。
+ この際，ＨＰＣＳについては原子炉冷温停止に至るまではＲＣＩＣと合わせ複数の原子炉水位維持手段として確保することが最善と判断，ＲＨＲ（Ｂ）については格納容器圧力を安定した状態で維持するためにサプレッションプール冷却を継続することとし，当面は，主蒸気逃し安全弁による減圧とＲＣＩＣ（原子炉圧力が低下して，ＲＣＩＣが運転継続不可能となった後はＨＰＣＳ）による原子炉水位制御，ＲＨＲ（Ｂ）によるサプレッションプール冷却を継続することとした。
+ その後，外部電源（１５４ｋＶ系）の復旧可能連絡を給電所より受けた（３月１３日１０時４０分）ことから，ＲＨＲ（Ａ）を停止時冷却モードとして使用することとし，所内電源の１５４ｋＶからの受電準備を開始，線路充電（３月１３日１２時３２分）を経て準備が整った後に，受電操作を実施した　　（３月１３日　　１９時３７分）。
+外部電源（１５４ｋＶ）復旧後，電動機下部付近まで水没したＲＨＲＳ（Ａ）（Ｃ）ポンプについて健全性確認により健全であることを確認，停止時冷却系配管等のウォーミング操作を経て，ＲＨＲ（Ａ）の停止時冷却モードによる運転を開始（３月１４日２３時４３分），原子炉を冷温停止とした（３月　　１５日０時４０分）。
+ なお，外部電源が復旧した３月１３日には，ＨＰＣＳでの原子炉水位維持と主蒸気逃し安全弁による減圧，ＲＨＲ（Ｂ）によるサプレッションプール冷却の継続により原子炉圧力は低下し，安定（圧力　　　１ＭＰａ以下，水位は有効燃料頂部上４ｍ以上）な状態を保っていた。
+ 仮に外部電源の復旧がさらなる期間で不可能に及んだ場合においても，原子炉水位維持はＨＰＣＳ以外の補助的手段（復水移送ポンプ，ディーゼル駆動消火水ポンプ）またはＲＨＲ（Ｃ）にて可能であり，これらによる原子炉水位維持が可能となった時点で，ＨＰＣＳを停止，ＨＰＣＳ　ＤＧからの電源融通によりＲＨＲ（Ａ）を停止時冷却モードにて運転することで，原子炉を安全に冷温停止にすることが可能であった。
+
+（５）使用済燃料プール冷却の状況
+ 使用済燃料プールは，地震によるスロッシングにより，使用済燃料プール水位警報（「FUEL POOL LEVEL HI/LO」）が発報するとともにプールの周囲に溢水が発生したため，通常の水位から約２０ｃｍ低下した。
+ そのため，「警報処置手順書」に従い，復水貯蔵タンク水による使用済燃料プールへの水張りを行った。（３月１１日１８時５１分～２２時１３分）
+ なお，水位は低下したものの，使用済み燃料プールに保管されている使用済み燃料は，十分冠水されている状態（燃料頂部＋約７ｍ）が継続されていた。
+ 使用済燃料プール冷却浄化系は，外部電源喪失で停止していたが，地震に伴う停止状態の確認および起動準備をした後，ＤＧ２Ｄからの給電による運転状態(脱塩器バイパス運転)に復帰した。（３月１２日１８時１４分）※１
+ ※１：直近(H23.1.9)での使用済燃料プール温度上昇の評価では，使用済燃料プール冷却浄化系の停止で運転時水温２７℃から保安規定上の制限である６５℃に達するまでの時間が約１４２時間（約６日間）と時間的に余裕があった。
+
+（６）津波調査結果
+ 発電所構内に設置した監視カメラの映像により,津波による取水口エリアの浸水状況を確認した結果,１５時３５分頃，取水口エリア（標高（以下、「ＴＰ」という）＋３．３１ｍ程度：地震発生前の標高）が約１ｍ（浸水高さは何れも監視カメラの映像を元に概算）浸水していることを確認した。
+ 更に１６時５１分頃にも取水口エリアが約２ｍ浸水していることを確認するとともに，その後も取水口エリアが複数回浸水（１ｍ以下）していることを確認した。
+ 現場調査による痕跡等の確認結果から，東海第二発電所における津波遡上高は，ＴＰ＋５．３ｍ程度（地殻変動調査後の標高）であったと推定される。
+
+
+２．１２５Ｖ蓄電池２Ｂ室における溢水（状況）
+ 平成２３年３月１１日２１時５０分頃，複合建屋電気室１階（非管理区域）に設置されている１２５Ｖ蓄電池２Ｂ室（以下，「２Ｂバッテリー室」という）内にあるドレンファンネル（以下，「当該ファンネル」という）から逆流が見られ，床面に約３ｃｍの深さで溢水していることを発見した。
+ 当初，同時期に非管理区域内の複合建屋に隣接するサービス建屋内で発生していた飲料水系の漏えい事象があったことから，この影響による非放射性流体による溢水と考えた。
+ また，外部電源が喪失し冷温停止操作に必要な電源であるＤＧ２Ｄの制御電源に用いられている１２５Ｖ蓄電池２Ｂを含め，溢水拡大による電気室内の非常用交流電源盤にも影響を与える可能性がある溢水であると考えた。
+ 非管理区域における，明らかに管理区域からの漏えいではない非放射性の漏えい水等については，放射線管理上考慮することはなく，処理にあたっては測定不要としていた。
+ 今回の漏えいについては流入源が特定できていなかったことから，汚染の無いことをＧＭ汚染サーベイメータによる測定※２にて確認したうえで，電源盤等への影響を回避するために仮設ポンプ（１１０リットル／分）を用いて約１０分間，屋外に排水（排水量約１，１００リットル）した。
+　その後，モニタリングカー積載のＮａＩ放射線検出器による核種分析※２を実施したが，バックグラウンド以外のピークは確認されなかったことから，排出水は汚染が無いものと判断した。
+　なお，排水作業とほぼ同じ時期に，複合建屋に隣接するサービス建屋１階管理区域内を巡視していた運転員が実験室サンプ※３（以下，「当該サンプ」という）水位がサンプポンプシール水の流入継続により高くなっていることを発見，当該サンプの溢水防止としてシール水元弁を閉止していたが，この時点において本事象との関連付けはしていなかった。
+
+　※２：外部電源が喪失した影響で通常の放射線管理に使用している測定機器が使用できなかったため。通常の管理に用いるＧｅ半導体測定器に比べると検出感度や放射能核種を判別する精度は劣る。
+　※３：管理区域内の一次系の水を含む液体サンプルについて成分等の化学分析を行った後の排水を受けるための溜め。溜った水は液体廃棄物処理系へポンプにより移送される。
+
+　溢水に至った原因調査として図面確認を実施したところ，当該ファンネルは，当該サンプに接続している可能性が考えられた。
+　当該ファンネルからのドレン配管は一部が埋設となっており，目視では追いきれなかったため，実際に当該ファンネルからドレン水を流し，当該サンプに流入することを確認することで，両者の接続を特定した。
+　また，電源が復旧した後に，改めて屋外排水時に採取していたサンプルについて，Ｇｅ半導体検出器で核種分析を実施した結果，コバルト５８ならびにコバルト６０が検出された。
+以上の結果から，本事象は「核燃料物質又は核燃料物質によって汚染された物が管理区域外で漏えいしたとき」に該当するものであり，平成２３年３月２８日１０時３０分に法令報告事象であると判断した。
+
+
+３．環境への影響
+　放出された放射性物質は，トリチウム（１．４×１０－３Ｂｑ／ｃｍ３），コバルト５８およびコバルト６０（両者とも４．６×１０－５Ｂｑ／ｃｍ３）が検出された。その発電所周辺監視区域外の水中濃度は，核種毎に定められた濃度限度（トリチウム：６×１０＋１Ｂｑ／ｃｍ３，コバルト５８：１×１０＋０Ｂｑ／ｃｍ３，コバルト６０：２×１０－１Ｂｑ／ｃｍ３）に対し，各々の割合の和として，約３千分の１である。
+　また，トリチウム，コバルト５８およびコバルト６０の放出により一般公衆の受ける線量は　　９．８×１０－６μＳｖであり，「発電用軽水型原子炉施設周辺の線量目標値に関する指針」で定められた線量目標値である年間５０μＳｖの５百万分の１以下であることならびに保安規定に定める年間の放出管理目標値（３．７×１０１０Ｂｑ／年）を放出した場合の線量評価値である年間５．２μＳｖの５０万分の１であることから，本事象による環境への影響はなかったものと判断する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-原電-T012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　本事象は，管理区域のサンプと非管理区域のファンネルを接続する配管が存在していたことに加え，管理区域のサンプと非管理区域のファンネルが同じフロアレベルに設置されていたことにより発生した。
+　地震に伴う常用系電源の停電により開となった実験室サンプポンプシール水電磁弁から消火水が供給され続け当該サンプに流入したこと，また，停電により当該サンプの制御電源が喪失したことからサンプ水位高信号が発信されなかったこと，さらに，当該ファンネルを閉止していたゴム栓が外れたことで，当該サンプとの僅かな水頭差によりサンプ内を満たした水がファンネル側に逆流したものと推定する。
+　本事象に至った原因調査として，当該ファンネルと当該サンプが接続されていた経緯について調査を実施した結果，昭和６３年３月２２日に実施された東海第二発電所の管理区域縮小に伴い，中央制御室および電気室等が管理区域から保全区域（非管理区域）に変更されたが，サンプとファンネルを接続する配管はそのままであったことから，管理区域と非管理区域が接続された状態となっていた。
+　また，管理区域縮小の際，当該ファンネルの閉止の仕方について具体的な検討状況は確認できなかったが，ゴム栓のみの閉止に留まり，当該サンプからの逆流防止用逆止弁等設置の措置は講じられていなかったことを確認した。
+以上より本事象の原因は，管理区域と非管理区域を接続する配管が存在していたことと，当該サンプと当該ファンネルに高低差がなかったことに加え，逆流を防止する措置が講じられておらず，当該ファンネルをゴム栓のみの閉止としていたことによるものである。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[【東日本大震災関連】１２５Ｖ蓄電池２Ｂ室における溢水について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[法令報告事象であると判断した日時]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>28495</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/04/08 10:47:48]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[ドレン配管]]></S_KIKI_NAME>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ドレン配管]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11283</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[放射線管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[放射線管理業務に関する同上の問題]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1420]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11283</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[9]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

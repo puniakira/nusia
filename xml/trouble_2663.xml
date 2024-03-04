@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2663</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/12/14 11:15:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/12/13 21:18:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200412121249]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第一原子力発電所5号機において、平成16年12月12日午後０時49分、非管理区域のタービン建屋東側屋外の配管洞道内で漏えいを検出する警報が発生した。当社社員が現場を確認したところ、当該洞道内２箇所ならびに当該洞道からつながるタービン建屋地下１階配管洞道（管理区域）内に水たまりを確認した。
+　調査の結果、屋外にある飲料水タンクから５・６号機サービス建屋に飲料水を供給する配管の接続部（屋外洞道内）から漏えいしているのが確認され、午後２時40分、上流側の弁を閉めることにより漏えいは停止した。なお、管理区域内のタービン建屋地下１階配管洞道内の水たまりは、屋外の洞道とタービン建屋配管洞道との境界にある堰を越え、流れ込んだことが分かった。
+　漏えいの原因は、同日午前中に実施した５・６号機サービス建屋受水槽等の点検清掃において、受水槽入口弁の開閉操作にともなう配管内の圧力変動により、劣化がみられた当該接続部パッキンの一部が損傷したためと推定した。
+　当該接続部パッキンについては、同日交換作業を行い、異常のないことを確認した。今後、当該箇所含め類似の接続部について、毎年目視による確認を行う。
+　漏えい量は非管理区域内で約21立方メートル、管理区域内で約0.7立方メートルであり、いずれも放射能は検出されなかった。
+　これによる外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S086]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋近傍洞道内配管からの水漏れ（飲料水）について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/12/14 11:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

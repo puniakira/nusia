@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10479</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/28 17:20:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4528</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/08/05 09:23:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908031042]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/28 17:20:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成21年8月3日午前10時42分頃、定期検査で停止中の福島第二原子力発電所４号機タービン建屋地下１階の油清浄機室（管理区域）において、当社社員が主タービン油タンクの油張りの準備作業のために潤滑油配管の弁を開けたところ、弁点検のために取り外していた配管取り付け部から、主タービンの潤滑油が同室内の床に漏えいしていることを発見した。
+　当該社員は、ただちに油張りの準備作業を中止し、潤滑油配管の弁を閉めたところ、床への油の漏えいは停止した。
+　漏れた油の量は約１リットルで、放射性物質は含まれていない。
+　本事象については、午前11時１分頃に、消防本部に連絡し、その後の消防本部による現場確認の結果、「危険物の漏えい」と判断された。
+　なお、漏れた油については、消防本部の現場確認が終了した後、拭き取りにより処理した。
+
+１．調査結果
+調査の結果、以下のことがわかった。
+・点検のため配管から取り外していた弁（以下、「当該弁」）は、本来は主タービン油タンクの油張り前に点検が終了する予定であったが、当初の計画より遅れており、終了していなかった。
+・点検作業工程を監理していた当社監理員は、当該弁が今回の油張りの範囲外であり、当該弁の点検作業が終了していなくても油張りに影響しないと思いこんでいたため、弁の点検状況を運転員に連絡していなかった。
+・運転員は、油張りの準備作業を行った際に、当該弁がシートで覆われていたことは認識していたが、監理員から当該弁の点検が終了していないことの連絡がなかったため、計画どおりに当該弁の点検が終了しているものとして、現場で当該弁の状況を確認しなかった。
+
+２．推定原因
+監理員は、当該弁が主タービン油タンクの油張りの範囲外であり、当該弁の点検作業が終了していないことが油張りに影響しないと思いこんでいた。このため、監理員は当該弁の点検が終了していないことを運転員に連絡しておらず、運転員は計画どおりに当該弁の点検が終了しているものとして、当該弁の状況を現場で確認せずに油張りの準備作業を行いった。
+この結果、運転員が潤滑油配管の弁を開けた際に、配管内の油が当該弁の配管取り付け部から漏れたものと推定した。
+
+３．再発防止対策
+調査結果をふまえ、以下の対策を実施する。
+・監理員は、油張りの準備作業にあたり、弁や機器等の点検が終了しており配管の油張りが可能な状態であることを現場確認し、運転員に連絡することとする。また、運転員は監理員とともに油張り作業が可能な状態であることを現場確認することとし、作業手順書に反映する。
+・運転員は、油張り作業を実施する際、現場で潤滑油系統全体の機器の状況を確認することとし、作業手順書に反映する。
+
+なお、作業の進捗状況や作業予定の変更を確実に関係者間で共有することを再度周知・徹底する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所４号機　タービン建屋における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/08/05 16:21:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

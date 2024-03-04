@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[点検調査
+当該端子が折損したことについて調査を実施した。
+１．製造不良
+（１）初期欠陥
+　当該端子の製造段階において、製造不良等の欠陥により、折損箇所の強度が低下していた可能性について調査した。
+　①履歴調査
+　使用履歴を調査した結果、第２５回定期検査の中で、過去に発生した不具合（平成２２年９月２２日発生の排気温度測定用ケーブル不具合）の反映として、平成２３年７月２７日に交換したものであった。
+　②外観調査
+　当該端子と同じロットで製造された圧着端子の外観調査を実施したところ、端子頸部にすじ状の段差が見られた。
+　なお、第２５回定期検査で交換の予定であった、他のＤＧ（２Ｄ系および高圧炉心スプレイ系）の交換前の圧着端子（平成１５年施工）については、同様のすじ状の段差は見られなかった。
+　③ＳＥＭ（走査型電子顕微鏡）による観察
+　破断面を観察した結果、初期欠陥を示すものは見られなかった。あわせて、以下のことを確認した。
+　・折損箇所は、端子頸部のすじ状の段差部に沿っており、応力集中しやすい形状変化部であった。
+　・破断面には、すじ状の段差を起点とした疲労破面特有のストライエーション状の縞模様※１が扇状に広がっていた。また、縞模様は破断面全体にわたり、その幅は約０．１３～０．３５μｍであった。
+　・縞模様の幅から、全長３．５ｍｍの破断面に対して約２７，０００～１０，０００回の振動応力があったと考えられる。
+　・引張り応力による破断面にみられる、ディンプル模様※２は確認されなかった。
+※１：貝殻のようにある起点から年輪のように成長していく模様をいう。
+※２：引きちぎり時に突起の集まりができ、穴ぼこ状に見える模様をいう。
+　④製造工程調査
+　製造工程について端子メーカに確認した結果、端子頸部のすじ状の段差は、製造工程における金型プレス跡であることを確認した。
+　また、今回の折損と同様の事象が発生した経験の有無について確認を行ったが、同様の事象は発生していない、とのことであった。
+　さらにすじ状の段差は異常なものではなく、製品包装前の全数目視検査においても問題とはなっていないことを確認した。
+　なお、当該端子については、JIS C 2805（銅線用圧着端子）に基づき製作されたものであり、端子としての性能に問題はないことを確認した。
+
+（２）異物混入
+　当該端子の製造段階において折損した部分への異物の混入により、強度が低下していた可能性について調査した。
+　①ＥＤＸ（エネルギー分散型蛍光Ｘ線）による定性分析
+　折損部位について、ＥＤＸによる分析の結果、母材の主成分は銅（Cu）であり、窒素（N）や硫黄（S）、塩素（Cl）等の検出がないことから、異物混入や腐食はなかったものと考える。
+　②製造工程調査
+　製造工程について端子メーカに確認した結果、原材料受入れ時に材料メーカの検査成績書により化学成分を確認しており、受入れ後の材料はコンテナ単位でシート養生がなされ、かつ取扱い時には帽子および手袋着用などの異物混入防止対策がなされていることを確認した。
+　また、過去において異物混入に起因した不具合が発生した経験の有無について確認を行ったが、経験はない、とのことであった。
+
+（３）材質不良
+　製造段階において材質に不良があったことで、強度が低下していた可能性について調査した結果、上記（２）①と②に示すとおり、材質不良はないものと考える。
+
+２．施工不良
+（１）圧着不良
+　当該端子の圧着施工の不良により端子の折損に至った可能性が考えられたことから、圧着状況について目視確認した結果、所定の部位で端子は潰されており、施工には問題無いことを確認した。
+　なお、圧着端子については既設同等品として選定したものの、これまでの端子と違い、端子頸部にすじ状の段差があることには気づかなかった。
+
+（２）端子締付不良
+　当該端子の端子締付時に、捩れが生じて引張り力がかかり強度を低下させた可能性が考えられたことから、締付状況について目視調査を実施した結果、端子およびケーブルの位置関係から、捩れが生じる状況にはなかった。
+　また、ＳＥＭの観察結果から引張り応力による破断面にみられるディンプル模様が確認されず、歪みや曲がりは見られなかったことから、施工の段階で人為的に曲げを発生させ、強度を低下させた可能性は考えにくい。なお、施工会社への聞き取りにおいては、端子を曲げるよう施工を実施していないことを確認している。
+　しかし、圧着端子に被せてある熱収縮チューブ（厚さ約０．５ｍｍ）が圧着端子と端子台との間に挟まれていたことから、当該端子頸部のすじ状の段差部位に僅かな曲げ応力が生じていた可能性は否定できない。
+
+３．環境不良
+（１）振動の影響
+　ＤＧ運転中の振動が端子部に伝播し、この影響により当該端子の折損に至った可能性について調査を実施した。
+　①ＳＥＭ観察
+　前述のとおり、疲労破面に特徴的なストライエーション模様が見られ、ほぼ一定の速度で進展し、折損に至ったものと考えられる。
+　また、ＳＥＭ分析メーカの見解においても、すじ状の部位が形状変化部であることから、折損の起点となった可能性が高いとの見解を得た。
+　②端子台他の振動測定
+　ＤＧ２Ｃと同型式のＤＧ２Ｄの運転時に、当該端子が接続されていたものと同様な構造の端子台部について振動を測定した結果、機関の運転により発生する、３．５Ｈｚおよび７Ｈｚの振動周波数が支配的であった。
+　なお、当該端子に接続されているケーブルについては、約４５０～６５０Ｈｚと、端子部とは異なる振動周波数であることを確認するとともに、フレキシブル管が大きく揺れていたことを目視にて確認した。
+　以上から、検出器内部でケーブルに余長が無い状態（ケーブルが張った状態）では、端子台部に加わった機関の振動がケーブルに吸収されず、端子頸部に機関振動による繰返し応力が加わりやすい状態になるものと推察した。
+　③モックアップ試験
+　ケーブルの張りの違いで、応力の加わり方に違いを生じるかについて確認するため、以下の条件で加振機を用いて模擬試験を実施した。
+　・ケーブルを張った（余長が無い）状態で、端子頸部に曲げ応力を与えた場合
+　・ケーブルに余長を持たせ、端子頸部へ曲げ応力を与えた場合
+　・その他、端子頸部へ曲げ応力を与えない場合と端子頸部へすじ状段差の無い場合
+
+　模擬試験の結果、ケーブルが張った状態では、端子頸部にすじ状段差があり端子頸部に応力が加わっている（実機と同じ状態）の場合に折損した。このことから、ケーブルを長くして余裕を持たせることで端子頸部への繰返し応力が小さくなり、折損環境が軽減されることを確認した。
+
+（２）熱の影響
+　ＤＧ運転中の排気熱が端子部に伝播し、この影響により当該端子の折損に至った可能性について調査を実施した結果、当該端子の許容温度１２０℃に対して、端子台部での設計温度は約１００℃となっていることおよび当該端子に溶断した形跡が見られなかったことから、熱影響により折損したものではないと考える。
+
+４．調査結果のまとめ
+　調査の結果、当該端子には以下の特徴が認められた。
+　・端子頸部にすじ状の段差部位が製造過程にて生じていた。
+　・折損した破面には、疲労破壊に特徴的な模様が観察された。
+　・当該端子と端子台の間に熱収縮チューブが挟み込まれ、すじ状の段差部位に応力が集中していた可能性があった。
+　・温度検出器内のケーブルに余長がないことで、当該端子頸部に機関の振動による繰返し応力が加わりやすい状況であった。
+ 
+５．事象発生の推定メカニズム
+　点検調査の結果から、当該端子折損に至ったメカニズムは以下のとおりと推定する。
+　①圧着端子頸部にすじ状の段差部位があるものを使用した。
+　②施工時において、端子台と端子の間に熱収縮チューブを挟み込む施工を行ったことで、すじ状の段差部位に応力が集中した。
+　③応力が集中した部位においてＤＧ機関運転による振動を受け、初期き裂を生じた。
+　④初期き裂を生じた当該端子はＤＧ機関運転による振動をさらに受け、比較的短時間でき裂が進展し折損に至った。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11420</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/10/11 10:49:40]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[排気温度検出系]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[定期試験のため、非常用ディーゼル発電機２Ｃ（以下、「Ｄ／Ｇ２Ｃ」という。）を起動したところ、定期試験記録項目であるシリンダ排気温度の一つ（左側シリンダＮｏ．５（以下「Ｌ－５シリンダ」という。）の排気温度）が約－６００℃から約４００℃間（通常３００℃程度で安定）で指示値がランダムに変化していることを確認したため、アクセス可能な中継端子について増し締め等の点検を実施したが改善が見られなかった。
+この結果、発電長はＬ－５シリンダ排気温度の確認が出来ないことから非常用ディーゼル発電機２Ｃが動作可能でないと判断し、同日１４時５０分に保安規定第６１条に定める運転上の制限からの逸脱を宣言した。
+その後、Ｌ－５シリンダ排気温度測定回路を目視にて点検したところ、機関上部に設置されている排気温度計の検出器端子箱内で端子が折損していることを確認した。
+このため、折損した端子部を取替えるとともに他のシリンダの排気温度測定回路の点検を行った上で、同日１８時５０分からＤ／Ｇ２Ｃの健全性確認試験を実施した結果、動作可能な状態であることを確認できたことから、同日２１時２１分に発電長は、運転上の制限の逸脱の解除を宣言した。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/09/29 14:40:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201109201450]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[対策
+１．施工時に圧着端子と端子台間に熱収縮チューブを挟み込まないようにすることおよび機関の振動が直接、圧着端子に伝播することは避けられないことから端子台内でのケーブルに余裕を持たせて端子部の振動がケーブル側で吸収できるように、端子台内におけるケーブル引き回しを改善した。
+
+２．当該端子を含むシリンダ排気温度測定用ケーブルの圧着端子を、端子頸部にすじ状の段差部位がないものに交換した。
+
+　また、実機運転確認時に確認されたケーブルのフレキシブル管の振動に対しては、フレキシブル管へサポートを取り付けた。
+
+　なお、上記対策については、同様の施工を実施していた２ＤＤＧおよびＨＰＣＳＤＧについても実施した。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/10/11 10:49:40]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２５回定期検査実施中（原子炉の状態「燃料交換」）の平成２３年９月２０日、定期試験のため、非常用ディーゼル発電機２Ｃ（以下、「ＤＧ」という。）２Ｃを起動したところ、定期試験記録項目であるシリンダ排気温度の一つ（左側シリンダＮｏ．５（以下「Ｌ－５シリンダ」という。）の排気温度）が約－６００℃から約４００℃間で指示値がランダムに変化していることを確認したため、アクセス可能な中継端子について増し締め等の点検を実施したが改善が見られなかった。
+　この結果、発電長はＬ－５シリンダ排気温度の確認が出来ないことからＤＧ２Ｃが動作可能でないと判断し、同日１４時５０分に保安規定第６１条に定める運転上の制限からの逸脱を宣言した。
+　その後、Ｌ－５シリンダ排気温度測定回路を目視にて点検したところ、機関上部に設置されている排気温度計の検出器端子箱内で圧着端子（以下、「当該端子」という。）が折損していることを確認した。
+　このため、折損した端子部を取替えるとともに他のシリンダの排気温度測定回路の点検を行った上で、同日１８時５０分からＤＧ２Ｃの健全性確認試験を実施した結果、動作可能な状態であることを確認できたことから、同日２１時２１分に発電長は、運転上の制限の逸脱の解除を宣言した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-原電-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[推定原因
+　当該端子が折損した原因について、以下のとおり推定する。
+１．施工時の配慮不足
+　当該端子と端子台間に熱収縮チューブを挟み込む形状としたことで、端子頸部に曲げ応力を与え折損を発生させる可能性を生じさせた。
+　また、温度検出器内でのケーブルが短く施工されていたことで、機関の振動がすじ状の段差部へ繰返し応力として加わりやすい状況となった。
+
+２．圧着端子の選定
+　端子単体としての性能に問題はないものの、振動で応力が集中しやすいすじ状段差部を有したため、施工の状況によっては応力集中による折損を発生させる可能性を生じさせた。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機２Ｃの運転上の制限からの逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限からの逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>30588</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/09/29 14:40:21]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>11107</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[901]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[排気温度検出系]]></S_KIKI_NAME>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[排気温度検出系]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11420</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[901]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[701]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[701]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[給排気装置]]></KIKI_NAME>
+					<SORT_NO>3</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11420</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

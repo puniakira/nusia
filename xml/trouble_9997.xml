@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9997</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/09/26 20:01:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/09/24 17:00:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200808291615]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の３号機において、平成20年８月29日午後４時15分頃、原子炉建屋格納容器内（地下２階相当）で作業を行っていた協力企業作業員が、上部階から水が滴下していることを発見した。当該作業員より連絡を受けた当社社員が現場を確認したところ、原子炉建屋格納容器内ダイヤフラムフロア（地下３階相当）の床面に水が溜まっていることを発見した。床面に溜まった水の量は約98リットル、放射能量は約1.8×10^５ベクレルだった。
+
+調査の結果、残留熱除去系＊２配管の水張り作業中に、原子炉建屋格納容器内（地下１階相当）に設置している排水弁が開いていたため、排水口に流れ込んだ水の一部が排水口から溢れ、グレーチング（金網状の床）を通じてダイヤフラムフロアの床面に溜まったことがわかった。
+
+本事象により漏れた水は、液体廃棄物処理系によって処理されるため外部への放射能の影響はない。　なお、付近で作業していた４名の作業員に滴下した水滴の付着があったが、確認の結果、放射性物質による汚染はなかった。
+
+当該排水弁を閉めたことにより水漏れは停止した。また、床面に漏れた水は８月29日に拭き取りによる清掃を実施した。対策として、運転員に対して弁操作に際しての指差呼称の再徹底を行った。また、運転員全員を対象として本事例についての事例検討を行うこととする。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-S024]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内（管理区域）における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/09/26 20:01:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

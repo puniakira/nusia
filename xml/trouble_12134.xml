@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12134</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/27 18:23:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>59275</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/11/10 15:20:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201411072259]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/27 18:23:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[11月７日午後10時59分頃、４号機の廃棄物処理建屋において漏えい検知器が動作し、使用済燃料プール代替冷却系の１次系ポンプが自動停止。４号機については、11月５日に全ての使用済燃料の移動作業が終了しており、現在は新燃料180体のみが保管されていることから、プール水温の上昇はない。
+（停止時の４号機使用済燃料プール水温度は約16℃）　　　　　　　　　　　　　　
+その他のプラントパラメーターの異常、モニタリングポスト指示値の有意な変動は確認されなかった。
+現場を確認したところ、当該漏えい検知器周辺に約１m×約２m×深さ約１cmの水たまりがあり、検知器近傍に敷設されていた仮設ホースから水が流れていることを確認。
+周囲を調査したところ、屋外に設置されていた工事用水（淡水）を溜める仮設プラスチックタンク内の停止中の水中ポンプから、サイフォン効果により仮設ホースを通じて水が流れ込んでおり、当該ポンプを取り外したことにより水の流入は停止。
+漏えいした水については、堰内に留まっており建屋外への流出はない。
+使用済燃料プール代替冷却系の配管に漏えいは確認されなかった。
+漏えいした水の表面線量は、１cm線量当量率（γ線）0.07mSv/h、70μm線量当量率（β線）0.02mSv/hであり、高線量のβ線は確認されず、バックグラウンドと同程度であり、漏えいした水の分析結果は、セシウム134：1,800Bq/L、セシウム137：5,600Bq/L、コバルト60 ：41Bq/L。
+分析結果から、工事用水（淡水）がフォールアウトによる床面汚染を取り込んだものと判断した。
+当該漏えい検知器周辺の床面の拭き取りが完了し、11月８日午前２時45分に当該警報が解除された。
+使用済燃料プール代替冷却系の一次系ポンプについては、午前６時に起動し、運転状態に異常はなく、午前６時25分現在の使用済燃料プール水温は15.9℃であり、自動停止時の16℃と比べ、変化はない。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-S059]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　４号機廃棄物処理建屋漏えい検知器動作に伴う使用済燃料プール代替冷却系の自動停止について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/11/13 10:02:14]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

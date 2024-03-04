@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．管理区域への入退域の流れ
+　原子炉建屋等の管理区域への入域に際しては，サービス建屋入口に入退域管理装置が設置されており，この装置を通過することによって入退域管理を行っている。なお，通過時には線量計着用が必要となっている。
+　一方，今回の事象が発生した１号機復水タンク廻りの配管・弁室のように原子炉建屋から離れた管理区域の一部については，入退域管理装置が管理区域の入口に設置されておらず，サービス建屋入口に設置された入退域管理装置を利用して入退域管理を行っている。
+　このような入退域管理を行う運用となっている管理区域は，このほか，1号機ドラム缶搬出入口および2号機復水タンク・復水サージタンク廻りの配管・弁室の2箇所である。
+　これらの場所への入退域方法は，以下の流れとなっている。
+　入域しようとする者は，サービス建屋にあるチェックポイントまで出向いてサービス建屋にある線量計を着用後，入退域管理装置を一旦通ることにより，管理区域への入域登録を行い，入退域管理装置をバイパスして外に出ることにより，これらの場所に向かうことになっている。一方退域時においてはこの逆の流れとなっている。
+　これらの場所は管理区域であることから，施錠管理されており，1号機復水タンク廻りの配管・弁室および2号機復水タンク・復水サージタンク廻りの配管・弁室の管理区域施錠管理扉の開錠にあたっては，監視員（管理区域への入退域を監視する者）が行い，施錠にあたっては監視員が行うか，現場監督者が行ったことを監視員が現地で確認をすることとしている。また，1号機ドラム缶搬出入口の管理区域施錠管理扉の開錠および施錠にあたっては，1，2号機放射線管理センター員が現場監督者または作業員に鍵を貸与し，現場監督者または作業員が行うこととしている。
+（添付資料　参照）
+
+２．類似事象の調査
+　今回の事象に鑑みて，3箇所への入退域状況について，現状の線量計管理となった平成14年4月以降の入退域記録，放射線下作業記録等を用いて調査を行った。
+　その結果，同日9時25分頃～9時30分頃および10時45分頃～10時50分頃の間，同様の入退域管理を行っている1号機ドラム缶搬出入口で作業を行っていた協力会社作業員1名が，線量計を着用せずに入域していたことが新たに確認された。また調査した範囲では，これ以外に線量計を着用せず管理区域に入域した事例は確認されなかった。
+　なお，当該作業員の放射線被ばく線量についても同様に評価した結果，被ばく線量は0.00mSvであることを確認した。
+
+３．線量計が未着用となった問題点の抽出
+今回確認された2件の事象について，線量計が未着用となった問題点の抽出のため関係者への聞き取り調査を行った。
+（１）聞き取り調査結果
+ア．復水タンク廻りの配管・弁室における作業
+　現場監督者および作業員は，当該区域が非管理区域であるとの認識を持っていたため，当該管理区域施錠管理扉の管理区域表示は目に入ったものの，先入観から当該区域が管理区域と認識せず，線量計を着用することまで思い至らなかった。
+一方，管理区域施錠管理扉は施錠管理されており，当該区域入域の際には，現場監督者はチェックポイントまで出向いて監視員に開錠依頼をするとともに，線量計を着用してから入域手続きを行うルールとしていた。しかし管理区域施錠管理扉を開錠するタイミングについて明確に規定されていないことから，事象当日監視員は現場監督者が入域手続きを行う前に，当該管理区域施錠管理扉の開錠を実施した。
+
+イ．1号機ドラム缶搬出入口における作業
+　作業員は当該区域が管理区域であることを認識していたことから，入域前に当該区域出入口の鍵を放射線管理センターで借用し，監視員に作業のために当該区域に入域するための管理区域入域手続きする必要があることを伝えた。この際，監視員は作業員から告げられた『ドラム缶』のキーワードだけで詳細な入域エリアの確認をしなかった。このため監視員は当該作業員が廃棄物減容処理施設のドラム缶搬出入口エリアに入域するものと勘違いをし，当該エリアに入域する際は，入退域管理装置および線量計が配備されているため，そこで入域手続きを実施すれば良いと考え，監視員は作業員に対して，チェックポイントでの入域手続きは不要であると伝えた。
+　作業員は疑問に思いながらも，改めて確認せずに入域手続きしないまま，線量計未着用で借用した鍵を用い管理区域に入域した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8047</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/01/05 16:35:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3400</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/01/04 13:25:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20051222]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　浜岡原子力発電所においては，1号機復水タンク廻りの配管・弁室，2号機復水タンク・復水サージタンク廻りの配管・弁室および1号機ドラム缶搬出入口の計3箇所において，原子炉建屋等の管理区域への入域と異なる運用となっている。
+　このような管理区域への入域方法に対する現場監督者および作業員の認識不足と，線量計未着用でも管理区域に入域が可能となってしまう現状の管理方法に不備があったことが今回の事象の直接的な原因である。従って，この両面から以下の再発防止対策措置をとることとする。
+
+（１）管理面
+　●管理区域施錠管理扉の開錠時の確実な線量計着用
+　1号機復水タンク廻りの配管・弁室および2号機復水タンク・復水サージタンク廻りの配管・弁室の管理区域施錠管理扉を開錠するにあたっては，監視員は，現場監督者が線量計を着用していること，および入退域管理装置による手続きが終了していることを確認し，チェック表に記入した上で行うこととする。
+　1号機ドラム缶搬出入口の管理区域施錠管理扉の鍵を貸与するにあたっては，放射線管理センター員は，現場監督者が線量計を着用していること，および入退域管理装置による手続きが終了していることを確認し，チェック表に記入した上で行うこととする。
+　また上記3カ所において，作業のため管理区域施錠管理扉を開錠している期間において，当該扉入口に監視する者を配置することとする。
+
+（２）認識面
+　●通常と異なる入域方法の管理区域への入域方法の認識向上
+　原子炉建屋等の管理区域への入域方法と異なる運用について，協力会社を含め所員に周知を行うとともに，入域方法や該当個所について継続的に教育を実施する。また，教育実施にあたっては今回の2件の事象を事例として取り上げ，今回の失敗を確実に伝承していく。これにより，通常とは異なる入域箇所があることを所員に認識させる。
+　●入域前における再確認による線量計未着用防止
+原子炉建屋等の管理区域への入域方法と異なる管理区域の出入口に，従来の管理区域標識に加え，入域の際には線量計着用が必要である旨がわかるように新たに表示を設置する。これにより，当該区域への入域に際し，線量計の着用が必要であることを，入域前に確認できるようにする。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所1号機（第19回定期点検中）にて，平成17年12月22日，屋外に設置されている復水タンク廻り（放射性物質による汚染の恐れのない放射線管理区域※1）の配管・弁室にある弁の点検作業を行っていた協力会社作業員2名が，9時35分頃～11時30分頃および13時50分頃～14時10分頃の間，個人線量計（以下，線量計という。）を着用せずに同区域へ入域したことが確認された。
+　入域した現場の雰囲気線量率は非常に低く，当該作業員の放射線被ばく線量について現場雰囲気線量率および入域時間から評価したところ，被ばく線量は0.00mSvであることを確認した。
+
+※1以下の値を超える恐れのない区域のことをいう。
+●表面汚染密度：α線を放出する核種が存在する場合：0.4Bq/cm2以下
+　　　　　　　　α線を放出する核種が存在しない場合：4Bq/cm2以下
+●空気中の放射性物質濃度：0.1×（DAC※2）以下
+※2「実用発電用原子炉の設置，運転等に関する規則の規定に基づく線量限度等を定める告示（経済産業省告示第187号）第7条第1号～第4号に規定する空気中の放射性物質の濃度。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[聞き取り調査の結果，それぞれの作業において以下の問題点（原因）が抽出された。
+ア．復水タンク廻りの配管・弁室における作業
+　●現場監督者および作業員に当該区域が管理区域であるという認識がなかった。
+　●当該現場の管理区域施錠管理扉には管理区域表示が見えたにもかかわらず，現場監督者および作業員は先入観から線量計を着用することについて思い至らなかった。
+　●管理区域施錠管理扉の開錠のタイミングが明確に規定されておらず，監視員は，現場監督者または作業員が入域手続きを完了する前に開錠することが可能であり，タイミングによっては現場監督者または作業員が線量計を着用しなくても入域可能であった。
+イ．1号機ドラム缶搬出入口における作業
+　●作業員と監視員のコミュニケーションがかみ合っておらず，入域する場所を明確に伝えないまま思いこみでお互い行動してしまった。
+　●放射線管理センター員は，作業申請に基づき，現場監督者または作業員に管理区域施錠管理扉の鍵を貸与することができるが，その際に入域管理手続きの完了を確認するルールになっておらず，タイミングによっては現場監督者または作業員が線量計を着用しなくても入域可能であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[放射線管理区域入域時における個人線量計の未着用について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/01/05 16:35:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8047</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8047</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8047</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

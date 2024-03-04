@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11569</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/09/10 13:12:21]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>32042</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2012/09/10 13:12:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201207041905]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は第２５回定期検査中のところ、平成２４年７月４日１９時０５分頃、電源復旧作業のためサービス建屋屋外を歩行中の保修室員が、ランドリーボイラー※室屋外のオイルサービスタンク（以下、「当該タンク」という。）からの重油の漏えい（堰内）を発見し、監視所及び中央制御室へ連絡した。
+　発電長は、現場確認を指示した運転員よりタンク上部の腐食部から油が漏れていること、漏れた油は堰内に留まっていること、漏れ量は１滴/秒程度であることを確認した。運転員は、当該タンクからの漏えいを停止させるため、運転中であったランドリーボイラーＮｏ.３を１９時４３分に停止するとともに、当該タンクレベル計ドレン弁により油抜きを実施し、２０時１８分に重油の漏えい停止を確認した。
+　また、堰内に溜まっていた雨水と漏えいした重油の量を合わせると約５０リットルになると考えられたことから、総務室長より２０時００分に公設消防へ１１９番通報した。（２０時０４分に連絡を終了した。）
+　公設消防による現場確認の結果、本事象は「危険物施設からの漏えい」であると判断された。また、その後の現場検証により、漏えい量は約３０ｃｃと評価された。
+　この後、当該タンクから堰内に漏えいした重油を回収し、漏えい箇所から雨水が浸入しない様、タンク養生を実施した。
+※：管理区域内で使用した被服類の洗濯乾燥に使用する蒸気を供給するためのボイラー。
+
+本事象の原因は、当該タンク天板が堰形状となっており、雨水が溜まり易く腐食しやすい状態となっていたこと。また、当該タンクは、所内ボイラー用サービスタンクと連結されており、同じ油レベルとなるよう運用されていたことから、重油が当該タンク天板部より高いレベルで運用されることがあったため、腐食による天板貫通部より重油が漏えいしたものと推定した。
+
+上記原因の対策として、天板貫通部を補習するとともに、当該タンクの空間容積１０％を確保できるよう、タンク架台高さを変更した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-原電-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非管理区域における重油の漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/09/10 13:12:21]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

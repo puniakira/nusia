@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1．ＨＰＣＳ　Ｄ／Ｇ再起動について
+　１．１ 原因調査
+　　１．１．１ 聞き取り調査結果
+ＨＰＣＳ　Ｄ／Ｇ機関の停止操作を行ったにもかかわらず機関が再起動し、かつ電気計器（発電機周波数、発電機電圧など）の指示が出なかった原因を調査するため、運転員への聞き取り調査を行った。その結果は以下のとおりであった。
+1)定期試験手順書に従い中央制御室操作スイッチを「ＳＴＯＰ」位置にし、その後、「ＡＵＴＯ」位置に戻した。
+2)機関回転速度５０％以下で消灯する中央制御室警報「ＨＰＣＳ　Ｄ／Ｇ　ＳＴＡＲＴ」が消灯するとともに、現場運転員は機関が減速
+していることを確認した。
+3)中央制御室警報「ＨＰＣＳ　Ｄ／Ｇ　ＳＴＡＲＴ」が再点灯するとともに、現場運転員は機関が昇速し定格回転速度となったことを確
+認した。
+4)機関再起動時にＨＰＣＳ　Ｄ／Ｇを自動起動させる警報（母線低電圧、原子炉冷却材喪失など）は発生していなかった。
+
+以上より、今回の再起動は、通常の操作スイッチによる起動、または自動起動信号による起動では無いことが確認された。
+
+１．２ 点検調査結果
+  １．２．１聞き取り調査の結果、ＨＰＣＳ  Ｄ／Ｇが再起動した原因は、停止操作による機関減速中に何らかの要因により燃料供給が再開されたことによるものと推定されたことから、要因分析に基づき点検調査を行った。
+
+  １．２．２　電気的要因
+（１） 起動回路
+起動回路の不具合として、起動信号が発生しない状態で起動用電磁弁が動作したことが考えられたため、同電磁弁の動作回路について点検を実施した。その結果、各部に異常はみられなかった。
+（２） 停止回路
+停止回路の不具合として、停止用電磁弁の動作回路のシーケンス不良、電磁弁コイルの不良などにより機関停止まで燃料弁遮断が維持されなかったことが考えられたため、停止用電磁弁動作回路、電磁弁コイルの点検を実施した。その結果、停止指令後に燃料を９０秒間遮断するためのタイマー（設定値１．５min（９０秒）、以下、「５Ｔタイマー」という。）の目盛位置が１．０min（６０秒）となっていることを確認した。タイマー単品による動作時間を測定したところ、６２秒であった。また、設定ダイヤルの保持状態に問題は見られなかった。
+このタイマー以外に異常はみられなかった。
+なお、５Ｔタイマーの点検記録を確認した結果、今回定期検査で平成２０年４月２３日に単体試験を実施しており、その際には設定値が約９０秒（３回実施：８８．９８秒、８９．０７秒、８９．１４秒）であることを確認している。
+　
+　１．２．３　機械的要因
+（１）燃料供給系
+機関が停止完了する前に燃料供給が行われたことが考えられたため、燃料供給用リンク機構、同リンク駆動用ピストン（停止ピストン）、停止ピストン作動用空気系統（配管、電磁弁弁体など）の点検を実施した。その結果、各部に異常はみられなかった。
+
+　１．３ 補修状況
+上記点検にて目盛位置のずれが確認された５Ｔタイマーについて、正規の値である１．５min（９０秒）に設定を変更し、シーケンス試験において機関の停止信号により燃料供給系の遮断が正常に行われることを確認した。
+
+２． ５Ｔタイマーの目盛位置ずれについて
+　２．１ 原因調査
+　　２．１．１　聞き取り調査結果
+５Ｔタイマーの目盛位置を動かす可能性のある作業について作業者への聞き取り調査を行った。その結果は以下のとおりであった。
+１）５Ｔタイマー単体試験※１終了後、目盛位置を変更する作業は実施していない。
+※１：タイマー単体試験とは、制御盤からタイマーを取外し専用の試験装置を用いて設定値の確認を実施する試験。
+２）当該タイマーが取り付けられている制御盤は狭隘な作業環境に置かれていることから、単体試験終了後、所定位置への復旧（取付）作業時にダイヤルに接触し、目盛が動いてしまったことは否定できない。
+３）単体試験後の目盛位置を残した記録はない。
+以上より、５Ｔタイマー単体試験終了後、制御盤への取付作業において、ダイヤルに誤って接触したか、隣接したタイマー復旧時に接触した可能性があることを抽出した。
+なお、ＨＰＣＳ　Ｄ／Ｇを含めたＤ／Ｇ室は、進入経路である電気室入口にて立入者を制限※２しており、第三者により目盛位置の変更が行われる可能性は低い。
+※２：予め書面にて立入者所属氏名、作業件名、立入期間申請を行い、許可登録された者しか立ち入ることができない。
+
+２．１． ２　再現性確認試験（モックアップ試験）
+　２．１．１聞き取り調査の結果、復旧時に誤って目盛位置を動かした可能性が考えられたため、据付状況を模擬したモックアップ装置により再現性確認を実施した。その結果、下記（３のステップにおいてダイヤル部に触れて目盛位置を動かす可能性のあることが分かった。その他のステップにおいては、ダイヤル部への接触の可能性は低かった。
+ステップ　（１
+・作業内容
+タイマー単体試験終了後、制御盤までの移動
+・再現性試験結果
+試験終了後、タイマーを箱に入れて移動するが、今回のずれ量（1.5→1.0）からしても可能性は低い
+
+ステップ　（２
+・作業内容
+制御盤へのタイマー挿入
+・再現性試験結果
+制御盤側に取り付けられているタイマー脱落防止金具を手で押し広げタイマーを挿入するが、本作業においてはダイヤル部に触れる可能性は低い
+
+ステップ　（３
+・作業内容
+タイマーへ脱落防止金具取付
+・再現性試験結果
+制御盤へ取付けたタイマーを片手で押さえた状態で脱落防止金具を引っ掛ける際、タイマーを押さえていた手の指がダイヤル部に当たり目盛位置を動かす事象が再現された
+
+ステップ　（４
+・作業内容
+隣接したタイマーの取付
+・再現性試験結果
+タイマーの取付け、脱落防止金具の取付の際、隣接タイマーのダイヤル部へ接触する可能性を確認したが、タイマー間の間隔から隣
+接タイマーのダイヤル部に触れる可能性は低い
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9934</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/08/13 20:11:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[定期試験実施中に保安規定第６０条第２項表６０－２で定める発電機電圧及び周波数の値が確認できないことから、保安規定第６０条第１項に定める運転上の制限を満足していないと判断した。
+平成２０年７月１１日　１２時００分運転上の制限を満足していないと判断（運転上の制限逸脱を宣言）
+平成２０年７月１３日　１５時５０分運転上の制限逸脱解除を宣言
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4290</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/08/12 20:53:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200807111200]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．機関再起動に対する対策
+目盛位置のずれが確認された５Ｔタイマーについて、正規の値である１．５min（９０秒）に設定を変更し、シーケンス試験、無負荷起動・停止において停止指令信号により燃料供給系の遮断が正常に行われることを確認した。
+さらに、無負荷起動時（起動信号投入による起動）においてＡＶＲが動作し、発電機電圧、発電機周波数などの電気計器が正常に指示することを確認した。
+５Ｔタイマー以外のＨＰＣＳ　Ｄ／Ｇ関連のタイマー及び非常用ディーゼル発電機２Ｃ，２Ｄの全てのタイマー設定値に問題のないことを確認した。
+
+２．タイマーの目盛位置ずれに対する対策
+（１） 物的対策
+１）タイマー単体試験時に確認された目盛位置からのずれが無いことを確認できるように、テープの貼付、マジックによる印付け等
+を行う。
+２）タイマー点検の記録に目盛位置を追加するとともに、復旧後の目盛位置の確認についてチェック欄を追加する。
+（２）管理的対策
+１）役務調達時に当社からの要求事項として発注仕様書の特記事項にて、上記、物的対策の実施を要求する。
+２）現地工事実施段階において同プロセスが確実に実施されていることを当社監理員が確認できるように、ＱＭＳ規程に反映する。
+（３）水平展開
+５Ｔタイマーの目盛位置がずれていた事象に鑑み、所内（ＭＣＲ、原子炉建屋、電気室、タービン建屋、取水口廻り、廃棄物処理建屋）
+に設置されている類似のタイマー（ダイヤルにて設定を行う全てのもの）について、過去の点検記録、設計資料などを基に設定目盛位
+置にずれが無いか点検した。
+全１，４４５個のうち、設定目盛のずれもしくは、設定値が不明なもの２６個が抽出されたが、安全上重要な設備に関するもの、定期事業者検査結果に影響を与える可能性のあるものは含まれていない。また、いずれもプラントの運転には支障のないことが確認できた。
+これらについては今後、設定値を調査したうえで、設計資料へのフィードバックもしくは再設定等、適切な処理を実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海第二発電所は調整運転中の平成２０年７月１１日、高圧炉心スプレイ系ディーゼル発電機（以下、「ＨＰＣＳ　Ｄ／Ｇ」という。）の定期試験において発電機解列後、１１時４５分に機関の停止操作を中央制御室より行い機関回転数低下を確認した。その後、１１時４６分に警報「ＨＰＣＳ　Ｄ／Ｇ　ＳＴＡＲＴ」が発報するとともに、機関が再起動したことを確認した。このため関連パラメータを確認したところ、機関が定格回転数で運転していること、当該定期試験時において確認する電気計器（発電機周波数、発電機電圧など）の指示が出ていないことを確認した。
+このため発電長は、ＨＰＣＳ　Ｄ／Ｇの定期試験を中断するとともに定期試験実施中に保安規定第６０条第２項表６０－２で定める発電機電圧及び周波数の値が確認できないことから、保安規定第６０条第１項に定める運転上の制限を満足していないと１２時００分に判断した。
+その後、１２時０４分ＨＰＣＳ　Ｄ／Ｇの燃料ハンドルを０ポジション（燃料供給遮断）にして、機関を停止した。
+また、保安規定第６０条第３項に基づき、非常用ディーゼル発電機２Ｃ，２Ｄ及び原子炉隔離時冷却系の健全性確認試験を実施し、問題のないことを確認した。
+次項以降に示す補修の後、ＨＰＣＳ　Ｄ／Ｇの健全性確認を実施し機能が健全であることを確認したことから、発電長は、７月１３日１５時５０分に運転上の制限逸脱からの復帰を宣言した。この健全性確認試験については、保安規定第７３条第７項に基づき、保安規定第６０条第２項で定める発電長の確認事項に代えることとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．機関再起動に対する原因
+ＨＰＣＳ　Ｄ／Ｇ機関の停止操作を行った後に再起動した原因は、機関の停止指令後に燃料を遮断する５Ｔタイマーが、正規設定値９０秒であるべきところ６２秒となっていたことから、機関が完全停止する前に燃料供給遮断が解除されたため、機関に燃料が供給され再起動したものである。
+なお、今回、健全性確認試験に先立ち無負荷起動・停止を実施した際に測定した結果では、完全停止まで約６４秒を要したことを確認した。
+機関の再起動において確認する電気計器（発電機周波数、発電機電圧など）の指示が出なかった原因は、停止信号が投入された後の機関燃料再供給による起動であり、起動信号がないために自動電圧制御装置（以下、「ＡＶＲ」という。）が動作しなかったものである。
+
+２．タイマーの目盛位置ずれに対する推定原因
+聞き取り並びに再現性確認の結果より、５Ｔタイマーの目盛位置がずれていた原因は、タイマー単体試験後の復旧時に、ダイヤルに誤って触れて目盛位置がずれたものと推定される。
+さらに、復旧状態を確認、記録するプロセスがないことから、事象発生までチェックがなされなかったものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[高圧炉心スプレイ系ディーゼル発電機　定期試験中における運転上の制限からの逸脱について（停止操作中における機関再起動について）]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限からの逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1097</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/08/13 20:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>9934</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[燃料遮断用タイマー]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9934</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9934</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9934</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9934</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9934</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

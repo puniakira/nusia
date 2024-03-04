@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場状況
+　Ｄ/Ｙ Ａ棟１階前室に設置されているドラム貯蔵庫Ａ棟火災受信機補助盤（以下「当該パネル」という。）内にあるプリンタ及び基板等に燃え跡が認められた。
+　なお、火災発生時、当該パネルにおいて、作業は行っていない。
+
+２．状況調査
+２－１．関連作業、当該パネルの点検実績等の確認
+　火災発生当日の巡視点検、関連作業の有無、当該パネルの点検・取替実績について調査した結果は以下のとおりであった。
+（１）巡視点検
+　Ｄ／Ｙについては、１回／日の頻度で巡視点検を行っており、１２月２日１４時の巡視時において、当該パネルに異常のないことを確認している。
+　なお、１２月２日は、運転員の巡視以降、火災発生までの間、Ｄ/Ｙ Ａ棟１階前室への立入り実績はなかった。
+
+（２）関連作業
+　１１月２９日廃棄物処理系電気設備定検工事のため、４８０Ｖパワーセンター１Ｅの停電作業を実施した。これに伴い、Ｄ／Ｙの電源が停電するため、仮設電源を布設しＤ／Ｙへ給電していた。その後、停電作業終了に伴い、４８０Ｖパワーセンター１Ｅが復旧したことから、仮設電源からの給電を停止し、１２月２日２０時３４分に通常電源である　　４８０Ｖパワーセンター１Ｅからの給電とした。
+なお、４８０Ｖパワーセンター１Ｅの停電作業は、２定期検査毎に行っており、その際、仮設電源への切替えを実施しているが、仮設電源の供給元は従来と同じであった。
+
+（３）点検履歴の調査
+　当該パネルを含め、法定点検にて火災報知器及び消火設備保守点検工事を２回／年実施しており、平成２２年度下期の点検については、１１月２４日、２５日にかけて実施し、異常はなかった。
+
+（４）取替実績の調査
+　当該パネルの取替実績について調査した結果、他社で発生した火災の水平展開として、発生の時期を記録する装置を設置するため、当該パネルを平成１０年（１９９８年）　３月に追加しており、設置後１２年の使用期間であった。
+
+２－２．火災受信機補助盤現場状況確認
+　当該パネルの現場状況を目視で確認した結果は、以下のとおりであった。
+（１）当該パネルの電源回路が実装されている電源ユニットの外観に激しい焼損が認められ、特に電源ユニットの左側が激しく焼損していた。また、上部にある入力用端子台が焼損し落下していた。
+
+（２）電源ユニットの左側には、①ノイズフィルタ　②変圧器　③バリスタ　④交流１００Ｖ回路を接続する配線　⑤直流電源電圧監視基板等があり、これらの焼損が激しかった。
+なお、配線には短絡と思われる箇所を確認した。
+
+（３）電源ユニットの右側には、⑥スイッチングレギュレータ　⑦直流電源供給回路基板等があり、周辺の焼損による燃え跡（煤の付着含む）があるが、内部の部品には大きな焼損はなかった。
+
+（４）プリンタに燃え跡が確認されたが、以下の事項からプリンタが火災に寄与した可能性は低い。
+①プリンタ付近の焼損状況から、プリンタロール紙は全焼していたが、プリンタ基板及び印字用基板に著しい焼損はないことを確認した。
+②プリンタの上部には開口があり、電源ユニット等が焼損した場合、焼損した部品が落下し、プリンタロール紙に着火する構造であった。
+③プリンタ自体からの発火を確認するため、工場試験にて、印字機能の固着事象による発熱がないか、固着事象を模擬し、通電確認を実施した結果、プリンタ基板などからの発煙は発生したが、断線により発火現象は確認できなかった。
+④プリンタ自体から発火があった場合の延焼状況を確認するため、工場にてプリンタ部を強制的に燃焼させたところ、ロール紙は燃え残りがあり、また、入力用端子台には延焼せず、今回の火災とは、異なる状況であった。
+
+３．原因調査
+　今回の火災の火元が電源ユニットであると考えられることから、電源ユニットに火災が発生した原因について、特性要因図に基づき、当該パネル内部の不具合（内部要因）と当該パネル外部の不具合（外部要因）に分類し調査を実施した。
+３－１．内部要因調査
+（１）電源関連設備
+当該パネルの電源回路に実装されている電源ユニットは、外部電源の交流１００Ｖを直流電源に変換する交流１００Ｖ回路と電圧変換後の直流電源供給回路に区分される。
+①交流１００Ｖ回路
+ａ．開閉器等の電気部品でのトラッキング現象による発熱状況について確認した結果、トラッキング現象が発生した場合、ヒューズが溶断し、保護されること、また、至近に点検を実施していることから、火災に寄与した可能性は低い。なお、ヒューズの溶断状況を導通確認により確認したが、開閉器やヒューズ単体は、焼損状況が激しく、火災に寄与したかは、判断できなかった。
+ｂ．電源ユニット前面に取り付けられた外部電源入力端子と主電源スイッチ間のヒューズにて保護されない電源ユニット内の配線の２本のうち１本に断線が確認され、断線箇所は電源ユニットのカバー近くで短絡して発生していることが確認された。
+　なお、短絡した配線サイズは、２ｍｍ２を採用しており、ヒューズ定格電流３Ａに対し、十分な容量を確保していることから、電線が発熱し、絶縁材が損傷したことにより短絡に至ったとは考えにくい。
+②直流回路（５６Ｖ，２８Ｖ，２４Ｖ，５Ｖ）
+ａ．直流電源電圧監視基板の発熱状況について目視にて確認した結果、焼損状況は激しいものの、残された直流配線の状況から、発熱したものではないと推定され、火災に寄与した可能性は低い。なお、同型の電源ユニット内に設置されている直流電源電圧監視基板の温度測定の結果、素子の発熱はあるが、内部配線に異常な発熱はなく、火災に寄与した可能性は低い。
+ｂ．スイッチングレギュレータの不具合による発熱状況について目視にて確認した結果、ほとんど焼損していないこと、配線に変色、変形、劣化、硬化がないことから、火災に寄与した可能性は低い。
+ｃ．変圧器の不具合による発熱状況について目視にて確認した結果、変圧器上部（２次側端子方向）に焼損、発熱跡がないことから、火災に寄与した可能性は低い。
+　なお、変圧器下部（１次側端子）が激しく焼損している原因は、下部に配置されたプリンタの火災による影響か、電源ユニット内部の交流１００Ｖ回路を接続する配線の短絡による影響であるかは、判断することができなかった。
+ｄ．整流器の不具合による発熱状況について目視にて確認した結果、ほとんど焼損していないこと、配線に変色、変形がないことから、火災に寄与した可能性は低い。
+ｅ．蓄電池の不具合による発熱状況について目視にて確認した結果、ほとんど焼損していないことから、火災に寄与した可能性は低い。
+
+（２）電源サージ侵入・出力抑制関連設備
+①盤内部品
+ａ．バリスタの不具合による発熱状況について目視にて確認した結果、焼損状況が激しいが、厚みが増していること及び表面に破壊した跡を確認した。これは、内部発熱によるものか、プリンタ火災の影響を受けたものかは、判断することができなかった。
+　なお、当該パネルが新廃棄物処理建屋の電源盤を設置している建屋から離れた建物に設置されているため、雷サージ等による高電圧により、バリスタが機能低下していたことを想定し、工場にて内部発熱の状態を確認した。機能低下した場合に発生する漏れ電流が多く流れる状態にしたバリスタを、当該パネルの電源ユニットと同形状の物に、変圧器、バリスタ及び配線を類似盤の配線状態を参考に配線が受ける影響が最も厳しい条件となるバリスタと接触した状態として収納し、更に火災受信機補助盤内に設置された状態を模擬するために密閉状態としたうえで、ヒューズが溶断しない程度の漏れ電流をバリスタに印加した。
+　試験は、２回実施し、１回はバリスタが赤熱 注）し、接触した配線の被覆が発火し、１回は発煙のみで配線の被覆の発火には至らなかった。
+ｂ．ノイズフィルタの不具合による発熱状況について目視にて確認した結果、焼損状況は激しいものの、残された部分や配線に変色、変形がないことから、発熱したものではないと推定され、火災に寄与した可能性は低い。
+
+注）試験的条件により発生
+
+３－２．外部要因調査
+（１）電源サージ侵入・出力抑制関連設備
+①盤外部品
+アレスタ（保安器）の不具合による発熱状況について目視確認した結果、損傷、変形等は確認できなかった。
+工場にて電気的特性を測定したが、仕様規格を満足していることが確認できたこと、外観にも異常が確認できなかったことから、アレスタ（保安器）としての機能が正常に動作していたと考えられるため、火災に寄与した可能性は低い。
+
+（２）電源系へのサージ侵入
+①雷サージ
+雷サージ侵入に伴う過電圧、過電流による内部部品の不具合について、火災発生時の気象状況から確認した結果、落雷音は確認されていないことから、雷サージにより内部部品に不具合が発生した可能性は低い。
+②開閉サージ
+火災発生前に４８０Ｖパワーセンター１Ｅの停電作業終了に伴い、Ｄ／Ｙの電源を仮設電源から通常電源への給電に復旧していたことから、開閉サージの侵入により内部部品に不具合が発生した可能性があったことから、開閉サージの有無を測定により確認した。その結果、開閉サージによる電圧波形の歪を確認できたことから、当該電源回路は、電源投入時に開閉サージが発生することを確認した。
+測定された電圧値は通常と相違なかったが、一般的に電源投入時に発生する開閉サージ電圧は、最大２倍程度となることが知られており、火災発生当日の電源投入時には高電圧となった可能性もある。
+③電源系統の故障
+電源系統の故障に伴う過電圧、過電流による内部部品の不具合について、運転履歴より確認した結果、４８０Ｖパワーセンター１Ｅからの電源供給系統を含む所内電源系統及び外部電源に電気故障の発生がないことから、電源系統の故障により内部部品に不具合が発生した可能性は低い。
+　なお、固体廃棄物貯蔵庫Ａ棟火災報知器用電源供給盤の主幹ＮＦＢが「トリップ」位置となっていた理由は、当該パネル内で発生した短絡によるものと考えられる。このとき、同盤内の主幹ＮＦＢと火災受信機盤用ＮＦＢの過電流遮断電流値が同じ値（２０ＡＴ）であったため、ＮＦＢの特性により主幹ＮＦＢが先にトリップしたものと考えられる。
+
+３－３．交流１００Ｖ回路健全性確認
+　火災受信機盤の復旧にあたり、交流１００Ｖ回路の健全性を確認した結果は以下のとおり異常がなかったことから、火災報知設備損傷箇所の切り離しを行い、１２月７日に火災受信機盤を復旧した。
+（１）交流１００Ｖ回路を含む基板一式交換前における交流１００Ｖ回路の入力電流を確認した結果、ヒューズ定格電流（２Ａ）及び受信機盤での消費電力以下（ヒューズ定格電流×　１／３）の０．１８Ａであり、異常な電流が流れていないことを確認した。
+
+（２）交流１００Ｖ回路を含む基板一式交換前における交流１００Ｖ回路構成部品の温度を測定した結果、異常な過熱のないことを確認した。
+
+（３）交流１００Ｖ回路を含む基板一式交換後における電源電圧は１０４Ｖであり異常のないことを確認した。また、交流１００Ｖ回路の入力電流を確認した結果、ヒューズ定格電流（２Ａ）及び受信機盤での消費電力以下（ヒューズ定格電流×１／３）の０．１８Ａであり、異常な電流が流れていないことを確認した。
+
+（４）交流１００Ｖ回路を含む基板一式交換後における交流１００Ｖ回路構成部品の温度を測定した結果、異常な過熱のないことを確認した。
+
+（５）交流１００Ｖ回路の変圧器の目視確認の結果、変色がないこと及び対地間絶縁抵抗測定の結果、異常のないことを確認した。
+
+（６）火災受信機盤と固体廃棄物貯蔵庫Ａ棟火災報知器用電源供給盤の電源回路に設置しているアレスタ交換後の線間絶縁抵抗測定の結果、異常のないことを確認した。
+
+４．調査結果のまとめ
+　状況調査及び原因調査より以下の事項を確認した。
+（１）目視調査
+①バリスタの不具合による発熱状況について目視にて確認した結果、焼損状況が激しいが、厚みが増していること及び表面に破壊した跡を確認した。
+②電源ユニット前面に取り付けられた外部電源入力端子と主電源スイッチ間のヒューズにて保護されない電源ユニット内の配線の２本のうち１本に断線が確認された。断線箇所は電源ユニットのカバー近くで短絡して発生しており、電源ユニットのカバーを開放して点検した際、配線を挟み、被覆に傷を付けていた可能性があり、その状態で過電圧がかかると短絡が発生し、その際に発生する熱により被覆が発火する可能性があると考えられた。
+　なお、同環境にあった交流１００Ｖの内部配線については、設置後１２年であり、直流回路の内部配線の状態から劣化等は考えにくい。
+
+（２）関連作業
+　関連作業の実施状況を調査した結果、廃棄物処理系電気設備定検工事に伴い、Ｄ／Ｙの電源が停電するため、仮設電源から給電していたが、１２月２日停電作業が終了したことに伴い、Ｄ／Ｙの電源を一旦停電させたのち通常電源への切替作業を終え、２０時３４分に遮断器の投入操作を行い受電状態としていた。
+
+（３）開閉サージ測定
+　この遮断器の投入操作時、開閉サージによる一時的な過電圧が発生している可能性があったことから、開閉サージの有無を測定した。その結果、開閉サージによる電圧波形の歪が確認され、当該電源回路は、電源投入時に開閉サージが発生することを確認した。
+測定された電圧値は通常と相違なかったが、一般的に電源投入時に発生する開閉サージ電圧は、最大２倍程度となることが知られており、火災発生当日の電源投入時には過電圧となった可能性がある。
+
+（４）工場試験
+　雷サージ等によりバリスタが機能低下を想定し、以下の条件を模擬して、バリスタに対する試験を実施した。
+・当該パネルの電源ユニットと同形状の物に、変圧器、バリスタ及び配線を類似盤の配線状態を参考に配線を構成する。
+・バリスタと配線を接触した状態として収納し、密閉状態とする。
+・電源回路に流れる最大電流（ヒューズが溶断しない程度）を想定した電流をバリスタに印加する。
+試験を２回実施したところ、１回はバリスタが赤熱し接触した配線の被覆が発火した。
+また、１回は発煙のみで配線の被覆の発火には至らなかった。
+
+【用語解説】
+・固体廃棄物貯蔵庫
+　管理区域内での工事に伴い発生した金属類や、管理区域内で使用した作業着等の雑固体廃棄物を鉄箱やドラム缶に封入したものを保管する建屋でＡ・Ｂ・Ｃの３棟がある。
+
+・火災受信機補助盤
+　火災報知器からの信号を受けて、火災発生場所や発生時刻を印字するプリンタ及び基板等を収納する盤。
+
+・ノイズフィルタ
+　電子回路を使用している制御機器において、電源回路から侵入するノイズによる誤動作事故を防止するために設置している。また、その機器自体の内部で発生するノイズが電源ラインに漏えいすることを防ぎ、他の機器に対して悪影響を及ぼすことを防止する。
+
+・バリスタ
+　雷による影響以外に、しゃ断器の開閉時に発生する高電圧（開閉サージ）から電子回路を保護する目的で電源回路に設置しており、アレスタと同様の原理である。
+
+・アレスタ（避雷器）
+　落雷などが発生すると、過渡的に異常な高電圧が電源回路に発生する場合がある。この異常な電圧が電子回路に侵入すると内部部品を破壊させるため、保護の目的で電源回路にアレスタを設置している。異常電圧が発生した場合には、アレスタを通じて大地に流す回路を形成し、通常の系統電圧では、高抵抗体となり電流は流さない。
+電路への落雷により発生する異常電圧を「直撃雷サージ」といい、避雷針への落雷や雷雲内の放電により発生する異常電圧を「誘導雷サージ」という。
+
+・スイッチングレギュレータ
+　交流電力を一定の直流電力に変換する電源装置、または直流電力を別の直流電力に変換する電源装置。電力を変換・調整するために、スイッチング素子と呼ばれる電気回路の一部をON/OFFできる素子を用いている。
+
+・雷・開閉サージ
+　雷サージとは、落雷等によりサージが発生する事象のことで、直撃雷は、膨大なエネルギーを有し、誘導雷は、数kV～数十kVの電圧が、数十μ秒～数百μ秒と非常に短い時間発生する。一方、開閉サージは、雷サージに比べ波高値は高くないが継続時間が長いのが特徴となる。電源投入時に発生する開閉サージ電圧は、一般的に最大２倍程度となることが知られている。
+なお、「サージ」は、電気回路に発生する瞬間的な過渡的過電圧のことで、単発的で高電圧のものをいう。
+
+・トラッキング現象
+　通電部に溜まった埃に湿気などが付着することで、通電部に微小な放電（ショート）が繰り返され、発熱、発火に至る現象。
+
+・難燃性ホックチューブ
+　盤内配線の保護を行うための、ホック付きの難燃性ケーブルカバー
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[143]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11180</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[火災警報発報]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2011/12/22 17:24:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>20422</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/12/08 10:08:05]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201012022105]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．類似盤の点検状況
+　当該パネル以外の火災受信機盤及び火災受信機補助盤について外観目視点検及び健全性確認を行い異常のないことを確認した。
+
+２．対　策
+　当該パネル火災受信機盤と補助盤について、火災受信機盤に補助盤の機能を統合し、以下の対策を施した新盤に取り替えを行なう。また、その他の火災受信機盤と補助盤についても同じ対策を行う。
+
+（１）点検や据付けを実施する場合、配線の被覆について外観目視点検を行ない、傷がないことを確認する。また、配線を固定するなど、カバー開閉時の配線の挟み込みによる被覆の傷付きを防止する処置を行う。この旨を工事要領書に反映する。また、他の工事の盤点検時においても配線の挟み込みを防止するよう、「敦賀発電所　工事等要領書作成手引き書」に反映する。
+
+（２）雷サージ等の発生は不定期であり、また影響も異なることから、バリスタの機能低下については、予測は困難であるため、発熱が生じた場合を想定し、配線の被覆への着火を防止するため、基板に取り付けられたバリスタの近傍に配線がないことを確認するとともに、外部ケーブル端子と交流１００Ｖ回路を含む火災受信機基板を接続する配線に耐熱性を確保したケーブルを採用する。また、その他の盤内の配線については、難燃性ホックチューブで覆う等の措置を施す。
+
+（３）プリンタ上部にある電源ユニットの発火により延焼した可能性があるため、延焼を防止するための仕切板を施した新品の盤に取り替える。
+
+（４）雷サージ等の影響を受ける可能性がある火災受信機盤、及び補助盤については、火災受信機盤内に設置されているバリスタの漏れ電流増加による機能低下を把握するため、電源ユニット上流側の電源回路に、従来から設置していたアレスタをバリスタ付アレスタに取替える。なお、新しく電源回路のアレスタに設置するバリスタには、漏れ電流の増加を表示する装置を設置し、定期的に表示を監視することにより、火災受信機盤内に設置しているバリスタの取替時期の目安とする。
+また、新しく電源回路のアレスタに設置するバリスタについては、火災受信機盤内に設置されているバリスタより、動作電圧を低く設定することにより、火災受信機盤内のバリスタの機能低下を抑制する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/12/22 17:24:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所１号機、２号機は定格熱出力一定運転中の平成２２年１２月２日２１時０５分、１号機中央制御室に「ドラム貯蔵庫Ａ棟火災」警報が発報した。このため、運転員が現場確認を行ったところ、２１時１１分に固体廃棄物貯蔵庫（１号機、２号機共用設備）　（以下「Ｄ／Ｙ」という。）Ａ棟１階入口扉の外側で焦げ臭いにおいがあり、その後、副発電長が現場に到着し、２１時１８分にＤ／Ｙ Ａ棟１階入口扉を開け現場状況を確認したところ、Ｄ／Ｙ Ａ棟１階前室（管理区域）において火災受信機補助盤付近から炎を確認したことから、副発電長の指示により運転員が消火器により初期消火を行った。
+　２１時１５分に公設消防へ通報を行い、公設消防による現場確認の結果、２２時１９分に鎮火が確認された。
+　なお、火災によるＤ／Ｙ Ａ棟に保管している低レベル放射性廃棄物への影響はなく、けが人の発生もなかった。
+　また、Ｄ／Ｙ Ａ棟１階入口扉の外側及びＤ／Ｙ Ａ棟１階前室で測定した放射線量率について異常はなく、本事象による外部への放射能の影響もなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-原電-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）公設消防の見解
+　公設消防による現場検証の結果から、当該パネルの火元は、交流１００Ｖ回路であり、交流１００Ｖ回路の配線が短絡して電線被覆に着火したことによる火災との見解であった。
+　短絡した配線は、据付け不良など何らかの原因によって被覆が弱い箇所で発生したと考えられ、短絡に至る要因として「開閉サージ」によって生じた可能性が最も高いとの見解であった。
+（２）当社における推定原因
+　当社にて行った調査結果、及び公設消防の見解から、原因は以下のいずれか、また、その両方が重なり火災に至ったと推定した。
+①当該パネルの電源ユニット内の配線の被覆を、点検や据付け時に行ったカバーの開閉時に挟み込んだことで被覆が傷付き、この状態で当該パネルの電源の切替えに伴う、一時的な開閉サージによる過電圧により、被覆に傷がある箇所で短絡し、配線の被覆に着火したことで火災に至った。
+②機能が低下していたバリスタが、当該パネルの電源の切替えに伴う、一時的な開閉サージによる過電圧により発熱し、近接していた配線の被覆に着火したことで火災に至った。
+
+また、プリンタの焼損は、上部にある電源ユニットからの延焼と考えられた。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[敦賀発電所　固体廃棄物貯蔵庫Ａ棟１階での火災発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[火災警報が発報した時刻]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>357</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/12/08 10:08:23]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>11180</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11180</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[044]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[電気回路]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>28</SORT_NO>
+						<BUHIN_CODE><![CDATA[044]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[固体廃棄物貯蔵庫]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[143]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[施工不良及び偶発的故障]]></S_GENIN_NAME>
+			<TROUBLE_ID>11180</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11180</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11180</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11180</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

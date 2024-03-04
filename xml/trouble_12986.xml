@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12986</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/07/17 11:34:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>90555</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/07/16 16:10:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201907091224]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/07/17 11:34:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象の発生】
+　2019年7月9日午前11時40分頃、7号機屋外にてクレーンによる重機の吊り下ろし作業を行っていたところ、重機（吊り荷）の天地が反転し、重機（吊り荷）から燃料（軽油）が漏れたことを確認したことから、柏崎市消防本部へ連絡（一般電話にて実施）した。
+　なお、一連の作業でけが人の発生はない。
+　7月25日に重機（吊り荷）の回収作業を完了。
+
+【原因】
+今回の重機の吊り下ろし作業では、長方形の枠型吊り治具を初めて使用した。
+その際、吊り治具の縦横の取り付け向きを誤ったことで、吊り治具と重機を繋ぐ下部のワイヤーが重機を側面から見たときに「逆ハの字状」になり不安定な状態となった。
+さらに、重機の先端部のアタッチメントをバケットより重いコンクリートブレーカ（掘削機）に交換したことで重心位置が変わり、前方向に回転しやすい状態になったことが原因と推測。
+
+【再発防止対策】
+初めて使用する機材については、作業者が機材の使用方法を十分に理解していることを当社がヒアリングで当該作業関係者に確認するとともに、当社監理員が立ち会うなど安全管理を徹底。
+また、重機のアタッチメントを交換して吊り作業を行う場合、当社監理員を含む当該作業関係者が事前に吊り下ろす重機（吊り荷）の重心位置を確認するとともにワイヤーの玉掛位置などを明示した図を使用して安全な吊り作業ができることを確認。
+また、必要に応じて発電所構外の安全な場所で吊り試験（1ｍ程度の吊り上げ）を行う。
+なお、作業の再開にあたり、使用する重機については、作業効率は若干低下するものの安全性を重視して、一周り小さな重機を使用するとした。使用する重機はメーカー推奨の吊り方（吊り治具を使用しない）で、再度重機を吊り下ろしている。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-東京-S013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[屋外重機吊り下ろし作業における油漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/07/16 16:45:07]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

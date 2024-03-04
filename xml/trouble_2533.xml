@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2533</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/07/21 13:40:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3003</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/09/14 19:47:30]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200409071040]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/07/21 13:40:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は、平成14年11月20日より第23回定期検査を実施中であるが、平成16年9月7日午前10時40分頃、非常用ディーゼル発電機（＊１）（Ｂ）（以下Ｄ／Ｇ１Ｂという）の定例試験を実施したところ、所内電源に並列できない事象が発生した。
+　調査の結果、所内電源に並列する際に使用する同期検出継電器（＊２）の動作範囲が狭いことが判明したことから、同期検出継電器の調整を行い、Ｄ／Ｇ１Ｂは問題なく所内電源に並列できた。
+
+　その後の調査の結果、同期検出継電器に損傷等の異常はなかった。
+　また、当該発電機については、所内電源の周波数と当該発電機の回転速度を一致させる調整操作において、操作員が一致状況を確認するための同期検定器（＊３）の針の回転速度が遅くなるよう調整しているが、調整操作が難しいことが分かった。このような場合、針の回る速度が速く、接続可能となる同期検出継電器の動作範囲が狭くなる傾向にあり、操作性が悪くなることが確認できた。
+　
+【対策】
+　同期検出継電器の動作範囲を調整することにより、他の非常用ディーゼル発電機と同等の操作性を確保した。
+
+＊１：非常用ディーゼル発電機
+所内電源喪失時に所内の非常用電気負荷へ電源を供給するためのディーゼルエンジン駆動の非常用発電機
+
+＊２：同期検出継電器
+運転員の誤操作防止を目的として、非常用ディーゼル発電機を所内電源に並列する際、発電機と所内電源の電圧と周波数を検出し、並列可能な動作範囲を制限する装置。
+
+＊３：同期検定器
+非常用ディーゼル発電機と所内電源に接続する際、所内電源の周波数と同発電機回転速度が一致していることを確認するための計器。一致していると針が静止し、上記の差が大きいほど針の回る速度が速くなる。
+
+【参考】
+　同期検出継電器は定例試験など手動で非常用ディーゼル発電機を所内電源系統に接続するために使用するものであり、非常時には非常用ディーゼル発電機が自動起動し、同期検出継電器を使用せずに自動で接続されることから、安全上問題はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S046]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の１号機非常用ディーゼル発電機定例試験の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/09/14 21:03:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

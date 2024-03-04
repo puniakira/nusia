@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13627</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/03/03 10:30:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>114332</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/03/03 10:30:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202302131504]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[大飯発電所１号機は廃止措置中のところ、２月１３日１５時０４分、「グリコールサージタンク水位低」警報※１が発信した。現場を確認したところ、原子炉格納容器内で実施していた床面のコアボーリング作業において、埋設されていたアイスコンデンサ室冷却配管を損傷させ、グリコール※２が床面に漏えいしていることを確認した。
+その後、配管の弁を閉止したところ、漏えいは停止した。
+なお、本事象による環境への放射能の影響はない。
+
+【推定原因】
+作業準備段階において、当社の工事担当課は、埋設物の有無等を関係課に確認しておらず、協力会社作業員は、図面による埋設物の詳細情報の確認をしていなかった。また、作業前には金属探査を実施し、４０ｍｍまでの浅い位置に鉄筋を確認したが、その直下にある配管は確認できなかった。
+このためボーリング範囲に当該配管が埋設されていることを認識しないまま作業を進めた結果、ボーリング装置により配管が損傷し、グリコールが漏えいしたと推定した。
+
+【対策】
+ボーリング前に関係課への埋設物の確認や図面の確認等の作業時に確認が必要な事項をルールで明確化するとともに、当社の工事担当課に対して教育を実施する。
+また、協力会社に対しても、図面により埋設物の有無等を事前に確認すること、および不明点等は当社の工事担当課へ確認を行うことを改めて周知する。
+
+※１：グリコールサージタンクが水位低下（４３．０％）した場合、警報を発信する。
+※２：冷媒用の薬品であり、アイスコンデンサ室内および床を冷却する用途で使用している。
+　　　なお、希釈したものを使用しており、危険物ではない。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-関西-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[大飯発電所１号機 原子炉格納容器内におけるアイスコンデンサ室冷却配管の損傷に伴う冷媒の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/03/03 10:30:50]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

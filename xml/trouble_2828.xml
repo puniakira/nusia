@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2828</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/09/16 13:14:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/03/10 15:52:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503041732]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/09/16 13:14:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成17年３月４日午後５時32分頃、屋外洞道において、排水ポンプ点検作業を実施していた作業員の両腕に湿疹が出たとの連絡が当社社員からあったため、業務車にて病院へ搬送した。
+　また、当該作業に立ち会い、病院に同行した当社社員も右手および両足に違和感を覚えたため、念のために診察を受けたところ、両者とも化学熱傷と診断された。
+　なお、放射性物質による汚染はなかった。
+
+　洞道内に溜まっていた水を分析した結果、強アルカリ性を示し、ナトリウムイオンが検出された。当該洞道内には復水脱塩装置の樹脂を再生するための水酸化ナトリウム溶液を移送する配管が敷設されており、何らかの理由で配管から漏えいした可能性があることから、原因調査を行った。
+　原因調査の結果、タービン建屋壁貫通部の配管表面に腐食が認められたため、詳細調査を実施したところ、貫通口１箇所（直径約0.4mm）が確認された。
+　腐食の原因は、貫通部の止水機能が低下したため、当該洞道内へ侵入した雨水等の影響により、当該貫通部の配管表面の腐食が進行し、貫通に至ったものと推定した。
+
+　対策として、当該貫通部の配管は防錆塗装を施した配管に交換するとともに、壁貫通部の雨水侵入防止対策を実施した。今後、類似配管の調査を行い、必要に応じて同様の対策を実施する。
+　また、洞道内の溜まり水に接して作業を実施する場合には、事前に水質確認を行い、災害防止に努めていくこととした。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S118]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所における作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/10 19:54:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

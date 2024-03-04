@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）現地調査
+ａ．事象発生時の状況調査
+（ａ）１，２号機中央制御室に設置している野外モニタ盤に「野外モニタ（ｶﾞﾝﾏ）・水モニタ故障」の信号が発信していることを確認した。
+このため、関連する表示や記録計を確認したところ、以下の事象が確認された。
+（野外モニタ盤）
+・ 「野外モニタ（ｶﾞﾝﾏ）・水モニタ故障」の信号が発信していた。
+・ 「Ｍ３伝送装置Ｂ異常」の信号が発信していた。
+・ 低レンジ線量率および高レンジ線量率の指示値、低レンジ線量率記録値は正常であった。また、高レンジ線量率記録値についても、最低レンジ（1×10^3nGy/h）を指示しており正常であった。
+（環境モニタリング盤）
+・ 「野外モニタ（ｶﾞﾝﾏ）故障」の信号が発信していた。
+・ 「Ｍ３伝送装置Ａ異常」「Ｍ３伝送装置Ｂ異常」の信号が発信していた。
+・ 低レンジ線量率指示値はスケールダウンしていた。また記録値は最低レンジ（1×10^0nGy/h）以下にスケールダウンしていた。
+・ 高レンジ線量率指示値は通常（通常時の表示は「---」である）と同様であったが、記録値は最低レンジ（1×10^3nGy/h）以下にスケールダウンしていた。（通常は最低レンジに記録）
+（放射線管理用計算機システム）
+・ 「モニタリングポストＮｏ．３空間ｶﾞﾝﾏ計数率（リニア）レンジ低」の信号が発信していた。
+・ 高レンジ線量率指示値が＊０を表示していた。（不信頼）
+・ 低レンジ線量率指示値は正常であった。
+（モニタリングポストＮｏ．３現地盤）
+・ 「伝送装置Ｂ異常」の信号が発信していた。
+・ 伝送装置Ｂ本体のアラームランプが点灯していた。
+・ 低レンジ線量率および高レンジ線量率の指示値および記録値は正常であった。
+（ｂ）点検・調査の途中（１４時３１分）に、スケールダウンしていたデータが自然復旧したが、その時点で環境モニタリング盤の低レンジ線量率指示値、記録値および高レンジ線量率指示値、記録値の信頼性は不明であった。
+ｂ．伝送装置および光コンバータ点検
+（ａ）伝送装置および光コンバータ運転状態確認
+スケールダウンしていたデータが自然復旧した後、モニタリングポストＮｏ．３現地および環境モニタリング盤の伝送装置および光コンバータのタッピング試験を実施したが異常の再現性は確認されなかった。
+また、モニタリングポストＮｏ．３現地盤より模擬信号を入力し、野外モニタ盤および環境モニタリング盤の指示値・記録値が正常であることを確認した。
+（ｂ）伝送装置、光コンバータ取り替えおよび動作確認試験
+モニタリングポストＮｏ.３現地盤、野外モニタ盤および環境モニタリング盤の状況（異常信号、記録値および放射線管理用計算機システム伝送データのスケールダウン）から、不具合が発生したと考えられたモニタリングポストＮｏ.３現地盤の伝送装置Ｂおよび光コンバータを予備品に取り替えた。
+取り替え後、入出力試験およびシーケンス試験を実施し、正常に動作することを確認した。
+（２）工場調査
+取り外した伝送装置および光コンバータをメーカーに送付し、外観検査および再現性確認等の検査を実施した。
+ａ．伝送装置
+（ａ）外観検査
+伝送装置の損傷（汚れ、割れ、変形、損傷、腐食）を目視確認した結果、異常は認められなかった。
+（ｂ）再現性確認検査
+伝送装置を起動し、以下に示す試験を行い、故障の再現性を確認したが異常は認められなかった。
+（ア）モデムの安定性試験
+故障した伝送装置のモデム（伝送装置以外の他の光コンバータ等の機器等との連係を行う機器）にその動作状況を確認するテストプログラムを入力し、メーカー所有の正常な伝送装置に組み込んで衝撃を与えたり温度等の環境条件や制御電圧を変動させるなどの試験を36日間継続して行い、長期間の安定性を確認したが、異常はなく故障の再現性は認められなかった。
+（イ）本体の安定性試験
+故障した伝送装置にメーカー所有の正常なモデムを組み込み、装置外部から模擬信号を入力し、６０℃の高温環境で４日間連続運転を行い、正しい出力が出されることを確認する等の試験を実施したが、異常はなく故障の再現性は認められなかった。
+ｂ．光コンバータ
+（ａ）外観検査
+光コンバータの損傷（汚れ、割れ、変形、損傷、腐食）を目視確認した結果、異常は認められなかった。
+（ｂ）機能確認検査
+送付した光コンバータをゴムハンマにて衝撃を与える試験を行ったが異常は認められなかった。
+また、メーカー所有の正常な伝送装置および光コンバータを用いて野外モニタと同じ伝送経路を構築し、そこに送付した光コンバータを組み込み、伝送装置に動作状況を確認するテストプログラムを入力し、伝送装置から出力された模擬信号を光コンバータにより光信号に変換させ、その光信号レベルの測定を行ったが異常は認められなかった。また、同じ回路を用いて16 時間（2系統，計32時間）連続運転した結果、伝送エラーは発生せず、異常は認められなかった。
+（３）保守状況の調査
+伝送装置の保守は、１サイクルに１回の頻度で点検しており、至近では平成２２年４月に点検を実施していた。
+このときの点検では、入出力試験およびシーケンス試験を実施し、正常に動作することを確認しており、点検結果は正常であった。
+なお、野外モニタリング設備は平成８年度に現在の設備に更新されている。
+また、今回の不具合で取り替えを実施した伝送装置および光コンバータについては定期的な取り替えは実施しておらず、至近の取り替え実績は平成１３年であった。
+（４）まとめ
+ａ．異常を示す信号の自然復旧後、現地調査の結果、異常信号発信の原因と考えられる伝送装置や光コンバータに異常の再現性は確認されなかった。また、模擬信号の入力により、野外モニタ盤および環境モニタリング盤の指示値・記録値は正常であることを確認した。
+ｂ．メーカーによる工場検査の結果、安定性試験、機能確認検査により、伝送装置および光コンバータに異常のないことを確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[227]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11090</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2015/10/06 11:42:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>19832</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/09/13 10:38:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201008041344]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）念のため、当該伝送装置および光コンバータを予備品に取り替えた。
+（２）運転中に伝送装置故障が発生すれば速やかに状況を確認し、必要であれば予備品に取り替えが行えるよう、今後とも伝送装置の予備品を保有する。
+（３）野外モニタリング設備については、設置から長期間が経過しており、製造中止部品の増加が予想されること、および経年劣化による故障の増加を予防するため、平成２３年度中を目処に取り替える計画である。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/10/06 11:42:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所1 号機は第２７回定期検査における調整運転中、２，３号機は通常運転中のところ、１，２号機中央制御室において、モニタリングポストＮｏ．３の異常を示す信号が発信したため、保修員が点検を実施したところ、環境モニタリング盤の低レンジ線量率および高レンジ線量率のデジタル指示計、記録計への記録値（以下、記録計への記録値は単に記録値という。）、低レンジ計数率記録値および放射線管理用計算機システム（ＴＲＡＭＳ）の高レンジ線量率および低レンジ計数率（リニア）の指示値が正常でないことを確認した。
+このため、不具合が発生したと考えられたモニタリングポストＮｏ.３現地盤のＭ３伝送装置Ｂおよび光コンバータを予備品に取り替えた。
+取り替え後、入出力試験およびシーケンス試験を実施し、正常に動作することを確認した後、８月５日１６時２５分、健全性を確認して、通常状態に復旧した。
+なお、復旧までの間、以下の機能については正常であった。
+・ モニタリングポストＮｏ．３現地盤における、低レンジ線量率および高レンジ線量率の指示値および記録値
+・ 野外モニタ盤における低レンジ線量率および高レンジ線量率の指示値および記録値
+・ 放射線管理用計算機システム（ＴＲＡＭＳ）における低レンジ線量率指示値
+・ 野外モニタ盤における監視
+また、復旧までの間、線量率に異常の無いことを確認している。
+本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[事象発生後の調査の途中で自然復旧しており、その後の調査においても異常は認められず再現性もなかったことから、異常の特定には至っていないが、事象発生時の状況から伝送装置および光コンバータの一過性の不具合により一時的な伝送障害が発生したものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所 モニタリングポストの不具合]]></TITLE_NAME>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>567</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/09/13 10:40:31]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10561</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[伝送装置、光コンバータ]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11090</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[放射線検出器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[周辺放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[227]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[調査しても原因が明らかでないもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+					<SORT_NO>8</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11090</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

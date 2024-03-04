@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9914</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/08/05 10:17:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4278</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/08/04 17:49:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200807031423]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所３号機は、第１８回定期検査中の平成２０年７月３日、「３号機　補助建屋（１次系）ＥＬ４．０ｍ」の漏えい検知警報が発信した。
+　現地を確認したところ、Ｂ－余熱除去冷却器※１バイパス流量制御弁※２グランドリークオフ配管※３フランジより、１秒間に２滴の水(１次冷却材)の漏えいを確認し、漏えいした水は、目皿から補助建屋サンプタンクに回収された。
+　直ちに漏えい箇所をビニール袋で養生し、その後、当該系統を隔離・水抜きの上、当該パッキンを取替え、翌７月４日に復旧した。
+　漏えいした水の量は、約１．８リットルと推定されたが、本事象における周辺環境への放射能の影響はなかった。
+　漏えい原因について調査した結果、今定期検査において、高サイクル疲労割れに係る対策工事として実施した余熱除去冷却器バイパスライン合流部の配管ルート変更に伴い、当該グランドリークオフ配管についても改造を行った。改造後、フランジ接続の配管を上下逆に取り付けた箇所があることが判明したため、再取付けを行うこととした。その際、正規仕様パッキンの在庫がなかったため、メーカ作業責任者の判断で別仕様のパッキンを使用したことにより、芯ズレした状態で取り付けられた。このため、系統の水張りを行った際に、グランドリークオフ配管内の水が、当該フランジから漏えいしたものと推定された。
+　対策として、以下のとおり実施することとした。
+（１）当該フランジ部は、正規仕様パッキンを使用し復旧した。
+（２）メーカおよび協力会社に対して、正規仕様部材の確実な使用に関する作業要領、手順の遵守など、周知徹底を図った。
+（３）配管フランジ部におけるパッキンの取付記録に、正規仕様品と相違ないことの
+確認項目を追加する。
+（４）今定期検査における当該部以外の配管フランジ部のパッキン取替箇所について、正規品が取り付けられていることを確認した。
+　　
+※１：余熱除去冷却器
+　プラント停止時などに、１次冷却材を冷却する冷却器。
+
+※２：バイパス流量制御弁
+　余熱除去冷却器を通る系統とバイパスの系統の全流量を一定になるように制御している制御弁。
+
+※３：グランドリークオフ配管
+　バイパス流量制御弁の弁棒と本体のすき間をふさいでいる箇所をグランド部といい、そのグランド部から流れる水(１次冷却材)を回収するための配管。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ｂ－余熱除去冷却器バイパス流量制御弁グランドリークオフ配管フランジからのわずかな漏えいについて
+]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/08/05 10:17:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

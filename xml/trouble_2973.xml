@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検調査結果
+（１）D/W外点検結果（原子炉停止前の5月20日，23日実施）
+　CAMS計測用配管に圧力を加え，弁の切替操作により配管の詰まりの有無を確認した。
+　その結果，D/W側の吸込配管に何らかの原因で配管系統に詰まりが生じている可能性があることが確認されたため，電磁弁及び手動弁について点検を行った結果，異常のないことを確認した。
+
+（２）D/W内点検結果（原子炉停止後）
+　D/W内のCAMSの配管を点検したところ，A系及びB系とも吸込配管先端部のカップリングに閉止栓が取り付けられていることを確認した。
+
+（３）健全性確認結果
+　CAMSのA系及びB系について吸込配管の閉止栓を取り外した後，D/W側配管の健全性を確認するためサンプルポンプを起動し流量を計測した結果，正常な値であることを確認した。
+
+２．聞き取り調査結果
+　閉止栓を取り付けた経緯について関係者に対し聞き取り調査を実施した結果，以下のことが確認された。
+　また，プラント起動前の総点検において設備の機能に影響するような指摘事項は本事象の他にはなかった。
+（１）プラントメーカからの聞き取り調査結果
+（ａ）今回の起動前総点検（平成17年4月13日実施）は，異物混入防止対策に重点をおいて実施した。
+（ｂ）工事担当者Ａは，D/W内の起動前点検中において使用していないかどうか不明な設備を発見したため，その結果を当社監理員Ａに報告し一緒に現場を確認した。
+　（現場状況）
+　ａ．設備が取外されたような上向きで開放され端部がねじ切りされた配管があり，空調ダクトの保温材を通っていた。
+　ｂ．その配管の近傍には，何も設置されていない架台，ケーブルが接続されていない電線管及び付属の中継BOXが設置されていた。　　　　　　　　　　　　　　　　　　　　　
+（ｃ）工事責任者は，電線管番号（MH23Z02Z）からCAMS系設備でないかと判断し，不明な配管，電線管，架台等が発見されたこと及び電線管番号を設計担当者に問い合わせを行った。
+　その結果，設計担当者より問い合わせのあった電線管番号は，第4回定期検査（昭和61年度）に改造された旧CAMS設備であるとの回答を受けた。
+（ｄ）また，工事責任者は，不明な配管は空調ダクトの保温材を貫通していることから，写真を空調設備の協力会社に照会した結果，空調系の配管ではないことを確認した。
+（ｅ）工事責任者は，不明設備は第4回定期検査のCAMS改造の残材である不用な設備の可能性が高いため，調査するよう工事担当者Ｃ及び現地工事設計担当者に調査を指示しした。
+　また，当該配管の上部が開口したままでは，異物混入の可能性があることから工事担当者Ｃに閉止栓の準備を指示した。
+（ｆ）工事責任者は，工事担当者Ｃ及び現地工事設計担当者に不明設備の撤去範囲の確認を指示した。
+（工事担当者Ｃと現地工事設計担当者は，撤去範囲の確認をするため，建設時のCAMS関連図書と現場を比較し，その図書に記載されている設備全てが撤去範囲であると認識し調査を行った）
+（ｇ）その後，現場配管撤去範囲の調査終了の報告を受けた工事責任者は，現場の状況や電線管が旧CAMSの設備であることから，使用状況について未確認のまま当該配管は不要なものと判断し，配管開口部への閉止栓の取付について当社監理員Ｂへ連絡し承認した後，工事担当者Ｃに閉止栓取付を指示した。
+
+（２）作業主管グループからの聞き取り調査結果
+（ａ）監理員Ａは，起動前総点検時，プラントメーカーの工事担当者Ａから，D/W内点検中に使用していないと思われる設備（配管，架台，中継BOX，電線管）を発見した旨の連絡を受け，現場確認を行った。
+（ｂ）監理員Ａは，D/W内において使用しているかどうか不明な設備を発見したことを監理員Ｂへ報告し，監理員Ｂは，不明な設備についての詳細調査を実施するよう工事責任者へ依頼した。
+（ｃ）監理員Ｂは，同年4月15日，プラントメーカー工事責任者より現場調査の結果，当該配管は使用していないため異物混入防止の観点から，開口部に閉止栓を取り付ける旨の連絡を受け了承した。
+
+３．CAMSの改造履歴調査結果
+　CAMSの信頼性の向上を目的として，第4回定期検査にD/W内に設置されていた酸素・水素濃度検出器を撤去して，直接測定方式からD/W外で測定を行うサンプリング測定方式に変更した。
+　この際，D/W内の検出器設置用架台と電線管は，定期検査時にエリア放射線モニタ設置用に使用する予定があったため撤去しないこととした。
+　また，D/W内の配管については，A系及びB系とも１本は吸込用配管としてそのまま再使用し，残りの１本は戻り配管としてD/W貫通部近傍まで撤去した。
+
+　なお，吸込用として再使用した配管は，検出器を取外した状態のままであったことから，配管の先端部がねじ切りされ上向きに開放された状態であった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[126]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2973</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/07/12 14:45:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>158</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3202</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/05/25 17:19:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200505242200]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．再発防止対策
+今回の推定原因に対し，以下のとおり再発防止対策を実施する。
+（１）原子炉起動前までに，D/W側吸込配管の先端部を切断し上向きの開放部分を撤去し先端部の近傍に配管番号を表示し系統名が容易に分かるようする。
+また，今回発見された電線管，架台に不使用品である旨の表示を行い，次回定期検査時に撤去する。
+なお，圧力抑制室側吸込配管の先端部についてもD/W側と同様な処置を次回定期検査時に実施する。
+さらに，改造に伴い設備を撤去せず残す場合には，識別を明確にすることを追加仕様書に記載することとし，当社監理員に周知徹底を行う。
+
+（２）今後は，プラント起動前総点検において設備の変更を伴う作業は実施しないことをプラント起動前総点検要領書に記載する。
+
+（３）識別出来ない設備が発見され，その処置が応急措置になるような場合であっても，工事共通仕様書に基づき「要望事項／推奨事項」をその都度作成し，速やかに工事監理箇所に提出して協議した後，処置を実施することを協力企業と当社監理員に周知徹底する。
+
+（４）現在，実施中のヒューマンエラー防止強化活動において，今回の事例を社員と協力企業の方に紹介し，指示内容を相手に正確に伝えるためには，指示事項の相互確認が必要であることや，現場確認（図面の照合等）の重要性について周知徹底することとする。
+
+２．事象発見後の対応上の反省点と改善
+　「不適合管理及び是正処置・予防処置基本マニュアル」によれば，不適合を発見した場合には，直ちに主管のグループマネージャーに報告し，速やかに不適合報告書を作成すること，及び原因究明に時間がかかる場合には，不適合の内容報告を最優先に行うことになっていた。
+
+　今回の事象においては，5月16日，17日に実施したプラント運転中のCAMS の定例点検において，A・B系のD/W側流量が確保できないことを確認した時点で速やかに不適合報告書を作成すべきだったが，不適合箇所の究明を優先させたため速やかに不適合報告書を作成しなかった。
+　また，調査に時間がかかると判った時点で不適合管理委員会へ報告すべきであった。
+
+　今後は，不適合事象を発見した場合には，速やかに不適合報告書を作成すること，特にプラント運転中の不適合事象や定期検査中であっても調査に時間がかかる場合には，不適合の内容について速やかに不適合管理委員会へ報告することを当社社員及び協力企業へ再度，周知徹底する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/07/12 14:45:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所１号機は，平成17年4月23日より調整運転中のところ，5月16日，17日に実施した格納容器内雰囲気モニタ系（以下，「CAMS※」という。） の定例点検においてサンプルポンプを起動したところ，A系及びB系とも格納容器（以下，「D/W」という。）側の流量が確保できないことを確認した。
+　この原因について調査を実施していたところ，5月24日22時頃プラントメーカーから，当該モニタの吸込側配管に閉止栓が取り付けられている可能性があるとの情報があり，これにより流量が確保できず当該モニタが計測できない可能性があることを確認した。
+　当該モニタの吸込側配管は，D/W内に設置されており原子炉を停止しないと確認できないことから，5月25日10時35分原子炉を停止することを決定し，同16時00分出力降下を開始，同22時00分発電機を解列し，5月26日2時50分原子炉を停止（全制御棒全挿入）した。
+
+　※CAMS：原子炉事故時に原子炉格納容器内の水素および酸素濃度を計測する設備（Ａ系とＢ系の２系統ある）。なお，通常運転時は，別の試料採取系統にて格納容器内の酸素濃度を計測している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>5</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）第4回定期検査においてCAMSの改造を実施した際，再使用した吸込配管の形状が通常のサンプリング配管と違っていたため，使用していない配管と誤解を受けやすい現場状況であった。
+また，電線管が旧CAMSの設備であったことから，プラントメーカーの工事責任者は，その近傍にあった当該配管も同様に不要なものと思いこんでしまった。
+このため，当該配管の調査を十分に行わないまま閉止栓取付の指示をしてしまった。
+
+（２）プラント起動前総点検の目的は，定期検査で点検した設備に異常の無いこと（ゆるみ，漏れ等）を確認するため増し締め程度の対応を想定しているものの，今回のような設備の変更を伴うような行為は想定していなかった。
+
+（３）プラントメーカー工事責任者は，監理員Ｂに閉止栓をする旨の連絡をする際に調査の結果，不要設備であったと簡単な口頭報告を行い，監理員Ｂも自ら現場や図面により設備の用途や使用状態を確認をせずに了解してしまった。
+今回は，応急措置であっても閉止栓を施工する段階で，工事共通仕様書に基づいた「要望事項／推奨事項」をプラントメーカーで作成し，計測制御ＧＭの承認を得た後，実施すべきものであった。
+しかし，異物混入防止の応急措置であると思い込んだため，「要望事項／推奨事項」が作成なされなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機における原子炉格納容器内雰囲気モニタの計測不良について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1117</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/05/27 09:48:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2973</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[運転監視補助装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[126]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2973</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

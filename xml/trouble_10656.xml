@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10656</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/06 16:31:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4601</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/10/29 22:25:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091028]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/06 16:31:50]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+福島第二原子力発電所では、１号機におけるドレン配管の誤接続に伴うトリチウムを含む水の放出（平成21年７月１日、２日、８月26日お知らせ済み）をふまえ、トリチウムを含む系統の水がストームドレン系（非放射性）に混入することを防止するため、配管の接続状況を調査していたところ、１０月２８日、再生水補給水系および復水浄化系のドレン配管がストームドレン系ファンネルに誤って接続されていること、これまでに計３回、トリチウムを含む水を放水口より海に放出したことを確認した。
+
+調査結果は以下のとおりである。
+＜再生水補給水系のドレン配管の誤接続＞
+・１号機の第15回定期検査（平成13年8月13日～平成13年12月7日）および第17回（平成16年9月29日～平成17年6月21日）の定期検査で行った給水加熱器の取替工事に伴い、再生水補給水系の配管を切断した際、系統内の水（トリチウムを含む）を、ドレン配管から誤接続されたストームドレン系のファンネルに排水していた。そのときの排水量は各定期検査で約1,700 リットルであった。
+・トリチウムを含む水が流入したストームドレン受タンクからのトリチウム放出量は第15回定期検査時が約3.6×10^8 ベクレル、第17回定期検査時が約3.0×10^8 ベクレルと計算され、保安規定に定める年間の放出管理の基準値（1.4×10^13ベクレル）と比較しても、それぞれ約１／38000、約１／47000と十分小さい値である。
+
+＜復水浄化系のドレン配管の誤接続＞
+・１号機の第20回定期検査（平成21年2月17日～平成21年5月26日）において、復水浄化系の復水ろ過装置を点検した際に、系統内の水（トリチウムを含む）約40 リットルをドレン配管から誤接続されたストームドレン系のファンネルに排水していた。
+・トリチウムを含む水が流入したストームドレン受タンクからのトリチウム放出量は約1.1×10^7ベクレルと計算され、保安規定に定める年間の放出管理の基準値（1.4×10^13ベクレル）と比較しても、約1／1300000と十分小さい値である。
+
+２．安全性、外部への影響
+ストームドレン受タンクから放水口に放出した水のトリチウム濃度は、復水器の蒸気を冷却した海水で希釈されることから、最大でも約1.2×10^－４ベクレル／cm３と評価しており、これは、法令で定める濃度限度（３ヶ月平均60ベクレル／cm３）に対して十分低い値であることから、外部への放射能の影響はないと考えている。
+また、これまでの調査において、当該箇所以外にも誤接続した配管から排水した実績があることを確認しておりますが、放出した水に含まれる放射能は、検出限界未満と評価している。
+
+３．今後の対応
+・ストームドレンは、現在使用禁止の処置を講じているが、今後、再生水補給水系および復水補給水系の水がストームドレン系に流入しないよう、系統の分離を行う。
+・今回確認された配管の誤接続は、プラント建設時に当該ドレン配管を施工した際に、誤ってストームドレン系のファンネルに接続したものと推定している。今後、引き続き、配管の接続状況およびトリチウムを含む水の放出について調査を行う。
+
+→調査結果は通番10811の項目にまとめて記載
+・指示文書に伴う保安規定上の不適合、技術基準上の不適合が認められた（詳細は後述）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-M033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機トリチウムを含む水の放出について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[事象確認日時]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[・平成22年2月2日、保安規定上の不適合について指示文書受領
+（１）不適合が認められた保安規定の条文
+保安規定　第８８条（放射性液体廃棄物の管理）
+（２）事実の内容及び保安規定第８８条に不適合と認められる理由
+　保安規定第８８条第１項では、放射性液体廃棄物を放出する際の測定を規定しており、同条第２項では、指定された放出経路及び排水設備から放射性液体廃棄物を放出することを規定している。しかしながら、放射性物質であるトリチウムを含む液体廃棄物を、放射性廃棄物処理設備ではない排水管を通じて、測定を行わず放出したものがあった。
+
+本項目の２箇所は、保安規定上の不適合であると認められた１８箇所に含まれる。
+詳細は、通番10811の項目にまとめて記載。 
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/02 09:56:00]]></FIRST_KOKAI_DATE>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10656</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10656</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10656</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+</KNT_TROUBLE>

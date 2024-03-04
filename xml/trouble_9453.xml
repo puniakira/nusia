@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[  ＤＧの機関は始動時にシリンダへ始動用空気が供給され回転し始めるが、警報発信時の状況を確認したところ、全く機関が動いていなかった。このことから、機関本体及び始動用空気系統の点検を行った。
+
+(1)始動用空気系統
+a 始動用コンプレッサ
+  空気だめのブロー弁を開放して圧力を降下させたところ、始動用コンプレッサが自動起動したことから、始動用コンプレッサ本体、電源系及び自動運転圧力スイッチに異常がないと判断した。
+
+b 空気だめ、配管
+(a)空気だめの圧力を確認した結果、圧力の低下がないことから漏えいがないと判断した。
+(b)空気だめから機関の始動用空気系統配管について、エアーブローを実施したところ、異物混入等による閉塞は認められなかった。
+
+c 主始動弁
+(a)弁固着
+  主始動弁の動作用空気配管を取外し、動作状況を確認した結果、弁は正常に動作した。
+(b)始動用電磁弁前ストレーナの詰まり
+  開放点検を行った結果、詰まりは認められなかった。
+(c)始動用電磁弁～主始動弁の空気配管詰まり
+  通気確認を行った結果、正常に通気していることを確認した。
+
+d 始動用電磁弁
+(a)起動回路部の不良
+ア.配線の断線等
+  始動用電磁弁を起動回路から切離し、現地起動スイッチを「起動」として電磁弁の励磁電圧を測定したところ、判定基準内であることを確認した。
+　始動用電磁弁を起動回路に接続し、現地起動スイッチを「起動」として電磁弁の励磁電圧を測定したところ、判定基準内であることを確認した。
+イ.ターニングギヤのリミットスイッチの動作不良
+  ターニングギヤのリミットスイッチについて点検したところ、「ギヤ嵌位置」「脱位置」で正常に動作することを確認した。
+(b)弁本体の不良
+ア.コイルの断線等
+  始動用電磁弁のコイル抵抗を測定したところ、過去の点検結果とほぼ同様の抵抗値であることを確認した。
+イ.弁固着
+  始動用電磁弁出入口の配管を取外し、試験装置を接続してＮ２ガスを供給しながら模擬信号にて始動用電磁弁が開閉することを確認した。
+
+(2)機関本体
+a ターニング装置異常
+  ターニングギヤの位置を目視により「脱位置」にあることを確認した。また、操作レバーにより始動用空気系統のインターロック弁が開閉することを確認した。
+
+b 機関本体の動作不良
+  ターニングを行い、異音等がなく回転することを確認した。
+
+c No１１機関の動作不良
+  機関は１２気筒のディーゼルエンジンで、始動時にNo７～No１２の機関のうち、いずれかの機関に始動用空気が供給される。機関のフライホイールの位置や機関の吸排気弁の開閉状態から、警報発信時にはNo１１機関に始動用空気を供給するタイミングであることが判明した。このことから、No１１機関に始動用空気を供給するための、始動用管制弁や機関付始動弁について点検を行った。
+(a)No１１機関の始動用空気管制弁の固着
+  空気による単体動作を確認した結果、異常は認められなかった。
+(b)No１１機関の始動用空気管制弁カム位置不良
+  カムが正常な位置にあるか、カム室カバーを開放してカムの位置について確認を行った結果、正常な位置にあり異常のないことを確認した。
+(c)No１１機関付始動弁の固着
+  機関に取付けた状態で単体での動作試験（始動弁頂部より手動で管制ピストンを押し込む）を行った結果、正常に動作しており、異常は認められなかった。
+(d)No１１機関の管制用空気配管に閉塞がないことを確認するためのエアーブローを 準備している際に、No１１機関の管制用空気配管の中間ユニオン継手が外れていることを確認した。その後、エアーブローを実施し、管制用空気配管に異常のないことを確認した。
+ 
+
+(3)発電機本体
+  ターニングを行い、異音等がなく回転することを確認した。
+
+(4)運転操作
+　起動試験時の操作に誤りや抜けがなかったか、運転員からの聞き取り調査や運転操作チェックシートの記載内容を確認したところ、手順書どおり行われていたことを確認した。
+
+(5)燃料制御装置
+  今回の事象は、燃料を供給する前に発生していることから、原因は燃料制御装置にないと思われるが、念のため燃料噴射ポンプラック目盛・燃料レバーの位置が適切であることを確認した。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9453</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/11/29 14:03:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成19年11月5日14時15分（運転上の制限を満足しないと判断）
+平成19年11月8日20時47分（運転上の制限を満足した状態に復帰）]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4061</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/11/19 10:22:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711051415]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1)A－ＤＧ
+a　No１１機関の管制用空気配管について配管を取外したうえで中間のユニオン継手の締付けを行った後、取付けを実施した。（合いマークの書き直しを実施）
+b　他の５つの同じ配管についても、配管を取り外した上で中間のユニオン継手の締付けを行った後、取付けを実施した。（合いマークの書き直しを実施）
+c　中間ユニオン継手があるシリンダ冷却水空気抜き管（１２箇所）について、ユニオン継手の締付け状態の確認を実施した結果、異常は認められなかった。
+d　念のため、始動用空気系統のユニオン継手部全数について、締付け状態の確認を実施した結果、異常は認められなかった。
+
+(2)Ｂ－ＤＧ
+a　今回、Ａ－ＤＧと同じ管制用空気配管について手動（スパナ）にてユニオン継手に緩みのないことを確認した。今後は定期試験開始前及び終了後にユニオン継手（１８箇所）の合いマークにて緩みのないことの確認を行う。
+b　中間ユニオン継手があるシリンダ冷却水空気抜き管（１２箇所）について、中間ユニオン継手の締付け状態の確認を行った。
+c　始動用空気系統のユニオン継手部全数について、締付け状態の確認を行った。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所1号機は定格熱出力一定運転中のところ、2台ある非常用ディーゼル発電機（以下、ＤＧという。）のうちＡ－ＤＧの定期起動試験（1回／月）のため平成19年11月5日14時10分に現地にて同ＤＧの起動スイッチを操作したが、同ＤＧは起動せず、「Ａディーゼル発電機故障」等の警報が発信した。
+　このため、14時15分に保安規定の運転上の制限＊１を満足しないものと判断し、当該ＤＧを待機除外するとともに、保安規定に基づき、残りのB－ＤＧの起動試験（15時18分～15時29分）を行い、動作可能であることを確認した。
+　この事象による環境への放射能の影響はなくプラントの運転にも影響はなかった。
+　
+＊１：運転中は、ＤＧが２台動作可能であることが求められている。１台が動作不能（待機除外）となったときは、残りの1台について4時間以内に起動試験を行い、動作確認を行うことが定められている。
+
+　機関本体及び始動用空気系統の点検を行ったところ、機関本体の動作に異常は認められなかったが、始動用空気系統のうち、シリンダへ始動用空気を供給する始動弁の開閉を制御する空気（制御空気）が通っている配管の途中にあるナット締め構造の継手部１箇所が外れていることが確認された。
+　このことから、当該継手部が外れたことにより制御空気が漏れたため、始動弁が開かずにシリンダへの始動用空気が供給されず、機関が始動しなかったものと推定された。
+　当該配管は、定期検査時に弁の点検のため、配管の両端にある弁側との接続部にて取外し及び取付け作業が行われているが、この際に配管途中の継手部のナットが緩み、ＤＧの試験運転時の振動により徐々にナットが回って、外れたものと推定された。
+　当該部及び同様な構造の継手部について、緩みがないように締付け、Ａ－ＤＧの試運転を行って健全性を確認した後、11月８日20時47分に保安規定の運転上の制限を満足した状態に復帰した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-M012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[1.Ａ－ＤＧ起動失敗の推定原因
+　No１１機関の始動用空気管制弁から機関付始動弁に管制用空気を送る配管の途中にある中間ユニオン継手が外れていることを確認した。
+始動用空気管制弁は、機関に始動用空気を供給する機関付始動弁を、空気によって制御するもので、この空気（管制用空気）を送るNo１１機関の管制用空気配管の継手が外れていた場合、機関付始動弁に管制用空気が供給されないことから機関付始動弁が動作しない。
+　機関付始動弁が動作しなかったことから始動用空気が機関に供給されずＡ－ＤＧは起動できなかったものと推定される。
+　これらの結果を踏まえて、中間ユニオン継手が緩んだことに関する再現試験を実施するとともに、同種・類似箇所の点検及び必要な処置を講じることとした。
+
+2.中間ユニオン継手に関する調査
+　No１１機関の始動用空気管制弁から機関付始動弁に管制用空気を送る配管の途中の中間ユニオン継手が外れている状態にあったことから、1号機同種継手及び当該配管について次のとおり点検及び調査を実施した。
+(1)配管の経歴
+　当該配管は、平成１２年５月に起動用空気ラインからの錆び混入防止対策として炭素鋼配管からステンレス鋼配管に材料変更をしていた。
+
+(2)配管の設置方法
+　平成１２年５月に材料変更した際、配管はステンレス鋼配管（外径17.3φ、厚さ2.3ｍｍ）で曲り部が複雑であることから現地合わせで加工して取付けられた。
+当該ユニオン継手部は合いマーク（白ペンキ）が施工されており定検作業時において作業員はこの合いマークを書いたことはなく（定検時の協力会社作業員から聞き取り）配管設置時に締付け管理の一環でマークしたものと推定される。
+
+(3)定検時の配管取外し、取付け方法
+　当該部分の配管はステンレス鋼配管で比較的剛性があり、始動用空気管制弁側と機関付始動弁側を中間継手で接続する構成となっており、配管形状が複雑であることから当該配管の取付けに際し、継手の芯だしを容易にするため始動用空気管制弁側、機関付始動弁側、中間継手それぞれネジを緩めた状態で接合し、その後に規定の締付けを行うのが通常の手順である。
+　しかし、１号機の中間継手は配管と機関の間の狭隘部に設置されているため締付け作業が容易に出来ないことから、始動用空気管制弁側と機関付始動弁側のユニオン継手で配管の取外し、取付けを行っており、中間ユニオン継手は取外していない。また、配管取付け作業完了後に中間ユニオン継手の合いマークがずれていないかの確認は行っていない（定検時の協力会社作業員から聞き取り）。
+
+(4)定検時の配管取外し、取付け作業の頻度
+　始動用空気管制弁は定検ごとにローテーションパーツとして取替えを行うことから配管の取外し、取付け作業は毎定検実施している。
+　当該配管は平成１２年の第１９回定検で設置され２０回定検から前回の２４回定検までの間で５回取外し、取付け作業が行われたことになる。
+
+(5)No１１機関の管制用空気配管を取外し、当該ユニオン継手のねじ部、シート部の目視確認を実施し、異常は認められなかった。
+
+(6)同種継手の点検状況
+　No１１機関以外の機関のユニオン継手（５箇所）について点検を実施した結果、外れ、緩みはないことを確認した。
+
+3.中間ユニオン継手の緩みのメカニズム
+　始動用空気管制弁から機関付始動弁の配管はNo７～No１２機関の各々に1箇所、計6箇所取付けられているが、第１９回定検の材料変更工事の際に、締付け管理施工の上、合いマークが施されたと推定される。この際に通常より若干増締め角度が不足していたことから、過去５回の定検作業において始動用空気管制弁側、機関付始動弁側のユニオン継手合わせ作業においてサポート等が干渉する狭隘部での配管取外し、取付け作業を繰り返す間に、中間ユニオン継手を緩める方向に力が加わりナットを緩めてしまった可能性が考えられる。また、定検時に中間ユニオン継手の合いマークのズレ確認も行っていないことから、ナットが緩んだままの状態となり運転中の振動に伴いナットの緩みが徐々に進行し、ユニオン継手のナットが外れたものと推定される。（なお、ナットの緩みについて工場にて再現試験を実施したところ、増し締めが不足した場合、ナットに緩みが発生することを確認した）]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ａ－非常用ディーゼル発電機の待機除外について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>862</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/29 14:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>9453</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9453</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ユニオン継手]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9453</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[260]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9453</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9453</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9453</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9453</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

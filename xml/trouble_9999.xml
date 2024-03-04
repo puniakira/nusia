@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【現地調査】
+現地調査結果において異常は確認できなかったことから，詳細な調査を行なうため，工場に当該モニタであるチャンネル（D）検出器ループ（検出器，プリアンプ，RIS）を返送し，また，比較調査を実施する観点から，健全であったチャンネル（C）検出器ループ（検出器，プリアンプ，RIS）およびチャンネル（A）/（B）/予備品検出器（検出器のみ）についても返送し，調査を行った。
+
+【工場返送後の調査フローおよび結果】
+工場へは，「低」警報が発生したチャンネル（D）検出器ループおよび調査結果を比較検討する目的からチャンネル（C）検出器ループも返送し，外観目視点検，検出器（HV－ケース間）絶縁抵抗測定，バックグランド測定，打振試験，ケーブル曲げ試験，プリアンプ・RIS単体試験およびヒートサイクル試験等の点検を実施した。
+
+工場調査結果
+（１）外観目視点検結果
+　　結果：埃状の付着物以外は，変色，損傷等もなく問題となる事象は確認されなかった。
+（２）電離箱検出器（HV～ケース間）　絶縁抵抗測定結果
+　　絶縁抵抗測定結果，1000MΩ以上で良好であった。
+（３）バックグランド指示測定試験結果
+　　指示の突変（スパイク上の変化）等の異常は認められず，良好であった。
+（４）打振試験結果
+表4に打振試験結果を示す。打振試験を行った結果，指示の突変（スパイク上の指示変化）等異常は認められなかった。
+（５）ケーブル曲げによる指示変動方向性確認試験結果
+・試験方法
+　検出器～プリアンプ間の信号ラインを上下に曲げた場合の指示変動方向を確認する。
+・試験結果
+　ケーブルをゆすったり，曲げたりした時に雑音を発生する。ケーブルが摩擦により帯電　し，放電することにより雑音を発生する。（トリボ効果）従って，熱の影響により，計　測系ケーブルのテンションが変化し，トリボ効果による雑音により，低警報が発生した　可能性も否定できなかったことから，本試験を実施した。しかし，トリボ効果による雑　音を発生させるには，ケーブルを直角に曲げる等大きなテンションをケーブルに加える　必要があることを試験により確認した。
+（６）プリアンプ単体試験結果
+　増幅機能の低下等の異常は確認されず，良好であった。
+（７）RIS単体試験結果
+　RISとしての機能に問題はなく，良好な状態であった。
+（８）検出器ヒートサイクル試験結果
+　ヒートサイクル試験において事象（指示低下）が再現した。
+（９）プリアンプ内蔵シリカゲル点検結果（チャンネル（C），（D））
+メーカに確認したところ，変色はあるものの吸湿効果は持続しているという結果であった。
+（１０）電離箱検出器　絶縁劣化モックアップ試験
+電離箱の絶縁劣化を模擬するため，検出器（SIG）部の芯線と高抵抗を介して短絡すると指示が変動し不具合事象と同様な挙動を確認した。
+（１１－１）電離箱検出器メーカによる絶縁抵抗測定結果
+絶縁抵抗測定の結果，判定基準を満足しており，問題はなかった。
+（１１－２）電離箱検出器メーカによるその他の結果
+シリカゲルに吸湿による変色が認められたが，ヒートサイクル試験において指示の低下および，絶縁抵抗試験にて絶縁低下は認められなかった。
+
+工場試験結果のまとめ
+（１）外観目視点検結果
+電離箱検出器のSIGコネクタに付着物や汚れを確認した。
+・チャンネル（D），（C）：付着物（コネクタシェル地金，ガスケットと思われる有機物など）や汚れが存在していた。
+・チャンネル（A），（B）：付着物や汚れは確認されなかった。
+
+（２）恒温槽内に検出器+ケーブルを入れたヒートサイクル試験結果
+当該モニタを恒温槽に入れ，「温度変化試験方法（JIS C0025）」に基づき，ヒートサイクル試験を行った結果，チャンネル（C）下限警報事象が発生した。また，指示変動がチャンネル（D）についても認められた。
+プリアンプをチャンネル（D），（C）の入替えを行った場合も検出器（チャンネル（C））において，下限警報事象が発生した。
+
+
+（３）プリアンプ内のシリカゲルの確認結果
+プリアンプ内のシリカゲルの状況を確認したところ当該モニタおよび比較のため返送したCモニタプリアンプ内のシリカゲルに変色が見られた。
+チャンネル（C），（D）：変色あり（ピンク）
+
+（４）電離箱検出器絶縁劣化モックアップ試験（SIG）結果
+絶縁低下を模擬したモックアップ試験において，高抵抗の短絡により指示変動（低下）事象が発生することを確認した。
+
+（５）電離箱検出器メーカによる試験結果
+電離箱検出器製造メーカに返送し，ヒートサイクル試験等を実施した結果，結果は全て良好であった。
+・チャンネル（D）検出器ヒートサイクル試験：良
+・チャンネル（A～D），予備品絶縁抵抗測定：良
+
+（６）電離箱内のシリカゲルの確認結果
+当該モニタ電離箱を含む全ての電離箱内のシリカゲルに変色を確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9999</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[103]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[高温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/12/25 16:38:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[根原子力発電所2号機（沸騰水型，定格電気出力82万キロワット）は，平成20年9月7日1時00分発電を停止（原子炉停止9月7日5時51分）し，第15回定期検査を開始しました。
+  この，原子炉停止後の原子炉冷却操作中のところ，9月7日17時45分頃から｢D-主蒸気管モニタ｣（低）※1の警報が頻繁に発生したため，17時58分に原子炉施設保安規定に定める運転上の制限を満足しない状態であると判断しました。
+  その後，19時7分に原子炉が冷温停止状態※2となり，その結果，原子炉施設保安規定に定める運転上の制限を満足しない状態から復帰しました。
+ 
+※1 「D-主蒸気管モニタ」（低） 
+  主蒸気管の放射線量が低くなった場合に発生する警報で，測定系の異常を検知する。 
+※2 冷温停止状態 
+  原子炉水温度が100℃未満の状態 
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/09/26 17:13:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200809071758]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[信号伝送系の対策
+電離箱検出器において，SIG用コネクタシェル地金やガスケットと推測される有機物などの付着や汚れが確認されていること，また，直接の要因ではないと評価しているもののプリアンプ，電離箱内のシリカゲルの変色等が確認されたことから，電離箱，プリアンプおよびケーブルコネクタに対して以下の対策を実施する。
+
+（１）主蒸気管モニタおよびその他の電離箱式モニタ
+電離箱検出器の検出器側ケーブルコネクタの目視による異物点検を行い，当該モニタ以外に異物等の問題がないことを確認する。
+A，B，C-主蒸気管モニタ
+
+（２）主蒸気管モニタ
+主蒸気モニタ電離箱検出器チャンネル（A～D）のSIGコネクタおよびシリカゲルについては，メーカによると吸湿効果は維持されているとの見解であったが，変色を確認したことから，念のため交換を実施した。
+プリアンプチャンネル（A～D）についても，メーカによるとシリカゲルの吸湿効果は維持されているとの見解であるが，変色を確認したことから，念のため交換を実施した。
+ケーブルコネクタチャンネル（A～D）のSIGコネクタ（検出器側）の交換を実施した。
+
+今後の対応
+（１）点検項目の追加
+今回の調査結果を踏まえ，次回定検（第16回）以降は定検時の点検項目として，以下の事項を追加する。
+追加点検については点検計画表に明記するとともに，点検手順書の改定を実施する。
+シリカゲルについては，これまで，電離箱，プリアンプの特性調整のため開放した場合に取替ることとしていたが，今回の点検の結果，吸湿効果は維持していたものの変色が確認されたことから，2定検/回（1号機の交換周期にあわせる）の周期で定期的に取替ることとする。
+電離箱検出器および検出器側ケーブルコネクタの目視による異物点検
+電離箱検出器の点検（シリカゲル交換）
+
+（２）D-主蒸気管モニタについて
+D-主蒸気管モニタにおいて，低警報が発生した原因については，ヒートサイクル試験の結果等から，一時的な絶縁低下による信号電流リークが原因であると推定している。
+D-主蒸気管モニタに対しては，工場における調査の結果および推定原因から必要な対策は実施してはいるが，当該計測ループについては，検出器～プリアンプ～RISを予備品と交換する。
+また，予備品と計測ループの交換を行ったモニタについては，発電所内でバックグランドを計測した状態で，RIS各部の出力を測定しながら，数か月間ランニング試験を継続実施することにより，推定原因の妥当性および検出器～プリアンプ～RISから構成される計測ループの健全性について確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/12/25 16:38:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[島根原子力発電所2号機（沸騰水型，定格電気出力82万キロワット）は，平成20年9月7日1時00分発電を停止（原子炉停止9月7日5時51分）し，第15回定期検査を開始しました。
+  この，原子炉停止後の原子炉冷却操作中のところ，9月7日17時45分頃から｢D-主蒸気管モニタ｣（低）※1の警報が頻繁に発生したため，17時58分に原子炉施設保安規定に定める運転上の制限を満足しない状態であると判断しました。
+  その後，19時7分に原子炉が冷温停止状態※2となり，その結果，原子炉施設保安規定に定める運転上の制限を満足しない状態から復帰しました。
+  原因は調査中です。
+  なお，この事象による外部への放射能による影響はありません。
+
+※1 「D-主蒸気管モニタ」（低） 
+  主蒸気管の放射線量が低くなった場合に発生する警報で，測定系の異常を検知する。 
+※2 冷温停止状態 
+  原子炉水温度が100℃未満の状態 
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中国-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因の推定
+工場にて実施した原因究明調査の結果から，今回の不具合事象の原因は，次のいずれか，または複合により環境温度の変化，設置箇所の振動等がトリガとなって，一時的な絶縁劣化が発生し，信号電流がリークしたことにより，指示変動に至ったものと推定した。
+
+（１）電離箱内のSIG用コネクタシェル地金やガスケットと推測される有機物などの付着や汚れによる絶縁劣化
+（２）ケーブル側コネクタ取付ガスケットの劣化による電離箱検出器またはケーブル側コネクタの吸湿による絶縁劣化
+
+なお，工場で実施したヒートサイクル試験では事象が再現したが，検出器メーカによるヒートサイクル試験では事象の再現がなかったことついては，検出器メーカへの返送前にSIGコネクタの付着物や汚れを除去したことによるものと考える。
+また，電離箱，プリアンプ内のシリカゲルの変色が認められたが，メーカ確認の結果，変色したシリカゲルの吸湿効果は維持していたことを確認したことから，電離箱，プリアンプ内の湿分は直接の影響はないと評価している。
+
+事象発生のメカニズム
+に絶縁低下による指示変動のメカニズムを示す。電離箱検出器計測ループにおいて，コネクタ部の付着物や汚れ，またはコネクタガスケットの劣化により，
+（１）検出器側コネクタ部の絶縁が低下
+（２）ケーブル側コネクタ部の絶縁が低下
+が発生した場合に，微弱な信号電流の一部がリークすることにより発生するものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[「D-主蒸気管モニタ」（低）警報発報に伴う運転上の制限からの逸脱について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/09/29 15:48:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+			<TROUBLE_ID>9999</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[放射線検出器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[プロセス放射線モニタ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[131]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[131]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9999</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9999</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9999</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[07]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[放射線管理設備]]></SETSUBI_NAME>
+		<SORT_NO>7</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

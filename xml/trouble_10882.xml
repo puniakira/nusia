@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10882</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/06/03 15:53:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4692</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/03/15 18:19:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201003140025]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/06/03 15:53:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　運転中の当所２号機の原子炉建屋５階使用済燃料プールにおいて、平成22年３月13日午後９時46分頃に福島県沖で発生した地震後のプラント点検のための現場パトロールを当社社員が実施していたところ、３月14日午前０時25分頃、燃料交換機上部から当該社員が所持していたＰＨＳを誤って使用済燃料プール内に落下させてしまった。
+　ＰＨＳを落下させた直後、ＰＨＳは使用済燃料プール内の燃料の入っていないラック上部にあり、目視にて確認できる位置にあったことから、準備ができ次第、ＰＨＳを回収することとしていた。
+　その後、３月14日午後５時８分頃に再び福島県沖で地震が発生したことから、地震後のパトロールで落下させたＰＨＳを再確認したところ、ＰＨＳが使用済燃料プール内のラック上部にないことを同日午後７時45分頃に確認した。
+　そのため水中カメラで所在確認を行ったが、３月15日午前０時45分現在、確認できていなかった。
+　なお、運転中の原子炉とは物理的に隔離されており、炉心に入ることはなかった。
+　引き続き、所在不明となっているＰＨＳの所在確認を実施し、燃料への影響も踏まえ回収方法等の検討を行っていた。
+
+　その後、３月30日に、調査範囲を拡げ、水中カメラで所在確認を行ったところ、使用済燃料プールの底に所在不明となっていたＰＨＳを発見し、回収した。回収したＰＨＳに破損はなかった。
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+・使用済燃料プールの周囲は異物混入防止管理エリアに設定されており、同エリアにおいては、ＰＨＳを含む個人管理品には紐を付ける等の落下防止措置を講じることを、協力企業に対する工事共通仕様書に規定していること。
+当社社員が行うパトロールに対し、ＰＨＳを含む個人管理品には紐を付ける等の落下防止措置に関するルールを明文化したマニュアルはなかったものの、当社社員においても遵守すべき事項であると認識されていたこと。
+・当該社員は、異物混入防止管理エリア内に入る際は、ＰＨＳを含む個人管理品に落下防止措置を講じる必要があることを認識していたこと。
+・当該社員は、管理区域に入域する前にＰＨＳにネックストラップを取り付けていないことに気づいていたものの、地震後の現場確認を急ぐ意識が強かったため、同エリアにＰＨＳを持ち込まなければよいと考え、地震後の現場パトロールを開始したこと。
+・当該社員は、地震後の現場確認を急ぐ意識が強かったため、異物混入防止管理エリアに入域する際、ＰＨＳを同エリア外に置いておくことを失念し、ＰＨＳを携帯したまま同エリアに入域してしまったこと。
+
+３．推定原因
+　当該社員は、異物混入防止管理エリアにおいて、ＰＨＳを含む個人管理品に落下防止の措置を講じる必要があることを認識していた。
+　また、管理区域に入域する前にＰＨＳにネックストラップを取り付けていないことに気づいていたが、地震後の現場確認を急ぐ意識が強かったため、同エリアにＰＨＳを持ち込まなければよいと考えていた。
+　しかしながら、地震後の現場確認を急ぐ意識が強かったため、同エリアに入域する際、ＰＨＳを同エリア外に置いておくことを失念し、ＰＨＳを携帯したまま入域してしまった。
+　このため燃料交換機上部から使用済燃料プール内を確認した際、ＰＨＳを誤って落下させたものと推定した。
+
+４．対策
+・異物混入防止に関する基本行動を徹底するよう、当該社員も含め当社社員に再周知する。
+・異物混入防止に関する確認忘れを防止するため、異物混入防止管理エリアの出入口に具体的な確認事項を明記した掲示板を設置する。
+・当社社員が行うパトロール時の異物混入防止に関する実施事項を明確化し、当社マニュアル等へ反映する。
+・当所で使用する全てのＰＨＳに対し、ネックストラップを用意し配付した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S051]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機　使用済燃料プール内へのＰＨＳ落下について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/03/16 13:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

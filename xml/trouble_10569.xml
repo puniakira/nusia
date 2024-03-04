@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．保安規定の要求事項
+　保安規定第105条(協力企業の放射線防護)に基づき、安全管理グループマネージャー（以下、「安全管理ＧＭ」という。）は、管理区域内で作業を行う協力企業に対する放射線防護上の必要な事項（ＥＰＤの着用含む）を、放射線管理上の遵守事項として定めている。
+　安全管理ＧＭは協力会社の放射線従事者が、遵守すべき放射線管理事項をＱＭＳ規程「協力企業の放射線防護手順書」に定め、協力会社に周知するとともに、今回の工事を発注・監理した保修室長は、発注仕様書（放射線管理仕様書）にて協力会社に放射線管理事項を遵守させるよう要求していた。
+２．聞き取り調査
+　ＥＰＤを体から離して作業をしていた原因調査のため、作業責任者に対し、聞き取り調査を行なった。聞き取りの結果は以下のとおり。
+○当該工事は、平成２０年１２月１５日から工事を開始し、平成２１年２月５日からアスファルト防水施工作業を開始した。この際、作業員は四つん這いで作業していたが、胸ポケットに入れておいたＥＰＤが飛び出し、アスファルトに落ちそうになったことから、ＥＰＤを外して良いか作業責任者に相談した。なお、作業員３名は管理区域で従事するのは当該工事が初めてであった。
+○ 作業責任者は、ドラムヤードＡ棟屋上は殆ど線量がなく、それまでに当該工事に従事していた他の作業員の被ばく実績が0.00mSvであったことから、被ばく上問題ないと考え、ＥＰＤを外して作業しても問題ないと判断した。
+○ この際、ＥＰＤを着用するルールは強く認識していたが、ＥＰＤを落下・破損させることで、線量管理ができなくなると考えた。このため、作業エリア内の見やすい位置にある工事用資材上に置くことで、放射線管理上も問題ないと考え、作業員に指示した。
+○ 作業責任者は、被ばく及び放射線管理上問題ないと考えたことから、この措置について所属会社の放射線管理責任者並びに当社監理員に連絡しなかった。
+○ 当該作業員３名は、２月５日以降のべ７日間アスファルト防水施工作業を行っていたが、この間の作業中は上記の措置を行っていた。
+○ 作業責任者は、２月６日に判明した東海第二発電所での一時立入者のＥＰＤ未着用事例、及び２月７日に東海発電所で発生したＥＰＤの置忘れ事例については、２月９日に所属会社の放射線管理責任者からの回覧文書で確認していたが、今回の措置は未着用には当たらないと考えた。
+３．ＥＰＤ読取エラーの原因
+　ＥＰＤは電池電圧が低下すると、放射線測定以外の機能（表示、警報、通信等）を自動的に停止させる設計となっている。
+　一般的に電池は低温環境下では放電特性が著しく低下することが知られている。
+当日の気温が低く強風下であり、体温による保温効果もなかったことから、当該３台のＥＰＤ電池電圧が通常時に比べ著しく低下したため、通信機能が停止してゲート通過時に読取エラーが発生したものと考えらる。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10569</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/04/09 19:41:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4567</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/16 11:53:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200902171710]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）事象発生後速やかに実施した対応
+１）Ｄ／Ｙ　Ａ棟屋上でのアスファルト防水施工作業については、ＥＰＤの落下防止策を講じるまで作業を中断する。
+　ＥＰＤの落下防止策としてアスファルト防水施工作業を行う作業員の作業服を胸ポケットにファスナーが付いているものに改善した。また、作業員にＥＰＤを胸ポケットに着用し、ファスナーを確実に閉め落下防止を図ることを周知徹底した。（Ｈ２１．２．２３実施済）
+２）管理区域内で作業を行う協力会社に対して、作業着手前に管理区域内でのＥＰＤ常時着用についての説明会を行い、作業員まで着用を徹底させる。（Ｈ２１．２．１８実施）
+３）当社監理員は、上記２）の作業員への周知徹底が確実に実施されたことを確認した上で、作業開始を許可した。（Ｈ２１．２．１８実施）
+４）当社及び協力会社の放射線管理責任者により、チェックポイント及び東海第二発電所サービスビル２階のＥＰＤゲートにおいて、ＥＰＤの常時着用を指導・徹底するためキャンペーンを実施した。 （Ｈ２１．２．１８～現在も実施中）
+
+（２）要因検討の結果実施する対応
+・構内服で立ち入ることのできるA区域やB?区域でも被ばく管理上は高線量区域と同じ管理区域であり、0.00mSvであろうという先入観を持つことなく必ずEPDを常時着用するという教育を徹底する。
+教育にあたっては、今回の事象などの具体的な事例を用いることで、個人の理解にバラツキがでないように十分配慮する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/04/09 19:41:00]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２１年２月１７日、「ドラムヤードＡ棟屋上防水工事」実施のため、８時２０分に協力会社作業員３名が管理区域立入管理ゲート（以下、「ＥＰＤゲート」という。）から飛地管理区域である固体廃棄物貯蔵庫（以下、「Ｄ／Ｙ」という。）Ａ棟に入域し、屋上でアスファルト防水施工作業を開始した。
+１７時１０分ごろ、作業終了後に退域のためＥＰＤゲートを通過しようとしたところ、３名ともＥＰＤ読取エラーが発生したため、チェックポイントの監視員が安全管理グループ員に連絡した。
+その後、安全管理グループ員はＥＰＤの線量表示が消灯していたことから、電池を取り外して電圧を測定したところ、定格１．２Ｖの電圧が０．８５～０．９Ｖまで低下していることを確認した。
+通常ＥＰＤの電池は１５時間程度使えるにもかかわらず、９時間程度の使用で電圧が低下していたことから、作業責任者にＥＰＤの扱いに問題が無かったか問い合わせたところ、当該作業者３名はＥＰＤを体から離して近くの資材置き場に置いて作業を行っていたことが判明した。
+なお、Ｄ／ＹＡ棟屋上で作業していた他の作業員は全員常時ＥＰＤを着用しており、線量は0.00mSvであったことから、当該作業員３名の線量は0.00mSvと評価した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[・ＥＰＤ着用不備が発生した原因
+（１）当該作業責任者は作業エリアでの被ばく実績が0.00mSvであったこと及び作業の性質上ＥＰＤ破損の可能性があったことから、作業員に対してＥＰＤを体から外して近傍に置いて作業をするよう誤った指示をした。
+（２）作業責任者はＥＰＤを外すことの判断について、所属会社の放射線管理責任者または当社監理員に相談しなかったため、誤った判断が見逃された。
+（３）当社は入所時教育や至近の不具合事例周知等で、ＥＰＤ着用に関する注意喚起を実施していたが、常時着用について不徹底であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[管理区域における作業員の個人線量計（ＥＰＤ）の着用不備について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[判定区分：「監視」
+
+保安規定違反条項：第１０５条　
+安全管理グループマネージャーは、管理区域内で作業を行う協力企業に対して、以下に示す放射線防護上の必要な事項を定め、所長の承認を得る。
+（１）管理区域出入者の遵守事項
+     イ．出入方法に関すること
+     ロ．個人線量計の着用に関すること
+　　 ハ.保護衣の着用に関すること
+　　 ニ．汚染拡大防止措置に関すること
+     ホ.管理区域内での飲食及び喫煙に関すること
+（２）線量評価の項目及び頻度に関すること
+（３）床、壁等の汚染発見時の措置に関すること
+２．各室長は、管理区域内で作業を行う協力企業に対して、第１項で定めた必要事項を遵守させる措置を講じる。
+
+保安規定違反理由：
+安全管理ＧＭや保修室長は保安規定に定められた事項を実施しており、必要事項を遵守させる措置は講じられている。
+しかしながら、結果として複数の日に渡るＥＰＤの着用不備となっており、その原因が作業責任者の誤った理解による作業員への指示の実施や作業責任者の上長等への相談・連絡の未実施によるものであったことから、個人の単純なミスが原因とは言えない。本件は、協力企業の放射線業務従事者の一部にＥＰＤ着用の意図する点が正確に周知されていなかったことから、保安規定で要求する「協力企業の放射線防護」が十分に実施されているとは言えない。
+]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1132</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/16 18:40:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10569</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10569</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10569</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10569</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

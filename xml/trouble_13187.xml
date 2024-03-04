@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13187</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/04/05 17:14:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>106333</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/10/14 19:08:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20201007]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/04/05 17:14:59]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[２０２０年１０月７日に東通原子力発電所１号機のタービン建屋地下1階（管理区域内）において、床に油が溜まっていることを確認した。（溜まっていた油の量は約０．０４リットルと推定）
+なお、油の広がりは止まっており、外部への流出はなかった。
+その後、公設消防による油溜まりとその周辺の状況などの確認を受け、「消防法に基づく危険物の流出」に該当しないとの見解が翌日１０月８日に示された。
+
+【事象発生の推定原因】
+ 　油溜まりを確認したタービン建屋地下１階の周辺の設備に異状がないこと、また、油溜まりを確認した場所がタービン建屋地上階のタービン発電機軸受の下に位置していること等を確認した。
+ 　こうした状況から、タービン発電機のターニング※運転時に軸受部から飛散した潤滑油が、養生シートやその周囲に付着し、養生シートの隙間から滴下して床面の油溜まりになったものと推定した。
+
+※ターニング：停止中における軸受の乾燥劣化防止等を目的に、タービン発電機の軸を低速で回転させるもの
+
+【再発防止対策】
+本事象が発生した原因を踏まえ、以下の再発防止対策を実施し、継続的な教育を行い、対策の周知、徹底を図っていくこととした。
+・タービン発電機軸受下部の養生シートを隙間なく敷くよう是正した。
+・タービン発電機のターニング運転時において、タービン発電機軸受部付近の養生シートの油の付着状態を確認することを手順書に明記した。
+・今回の軸受部付近を含め、設計上、油の飛散が想定される設備に対し以下の取り組みを実施する仕組みを構築し、継続して監視を行う。
+①設計上、油の飛散が想定される設備であることを現場に掲示
+②設計上、油の飛散が想定される設備に対し、油の付着状況等について管理していく
+③定期的な現場確認
+④必要に応じ拭き取り、養生シートの補修]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東北-S015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋管理区域内での油溜まりの確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/10/14 19:09:17]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東通]]></PLANT_RYAKU_NAME>
+		<SORT_NO>3</SORT_NO>
+		<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東通発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

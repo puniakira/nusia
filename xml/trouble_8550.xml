@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8550</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/12/08 19:03:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3634</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/11/22 18:19:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20061101]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の１１月１日、原子炉格納容器内Ｃループ室において、協力会社作業員３名が、１次冷却材ポンプモータ冷却水配管の非破壊検査の準備作業である配管フランジ部表面塗装の除去中に、警報付デジタル線量計（以下ＡＤＤという）を確認したところ、１名が事前に社内で計画した当日の計画線量（０．８０ｍＳｖ／日）を超える１．１９ｍＳｖ［午前：０．２２ｍＳｖ、午後：０．９７ｍＳｖ］の放射線を受けていた。
+　なお、法令で定める線量限度（年間５０ｍＳｖ）は超過していない。
+
+　今回のような放射線管理区域内の作業では、事前に計測した作業場所の線量率※を目安に、作業者毎に従事する時間を決定するとともに、適宜、作業員や作業における放射線管理を行う協力会社の放射線管理専任者（以下「放管専任者」という）が放射線を受けた線量を確認しながら作業を行い、１日の線量が計画線量を上回らないように管理することにしている。
+　また、作業員が身につけているＡＤＤは、計画線量よりも低い線量で警報音が鳴るように設定する。
+
+作業状況を調査した結果は以下のとおりである。
+
+・当該作業員が午後に作業を行った場所の線量率は、事前に０．５０ｍＳｖ／ｈと計測されていた。
+・午前中に別の作業員が同じ場所で作業を行っており、その際には作業場所の線量率等から作業開始後約１時間経過した時点で、放管専任者は作業員の線量を確認していた。その結果、計画線量に対して余裕があったことから作業を継続し、約２時間の作業で受けた線量は０．３７ｍＳｖであった。
+・午前中の作業実績より、放管専任者および当該作業員は、当該作業員が午後から約２時間作業しても、計画線量内に収まるものと考えていた。
+　このため、放管専任者が作業員の線量を確認したのは、作業開始後２時間を超えていた。
+・当該作業員および他の作業員は、何らかの原因によりＡＤＤの警報音が聞こえなかった。
+
+　以上のことから、原因は、当日の午後に２時間程度の作業をしても計画線量内に収まると考えていたため、当該作業員および放管専任者は、作業中に適宜、ＡＤＤの指示値を確認しなかったことに加え、当該作業員がＡＤＤの警報音により計画線量に迫っていることを確認できなかったことと考えられる。
+　なお、当該ＡＤＤを点検した結果、警報音発信機能などに問題はなかったことから、ＡＤＤの警報音が聞こえなかった原因については、ＡＤＤのスピーカー部が作業員の体に押し付けられていた可能性やＡＤＤの一時的な故障の可能性も考えられる。
+  これを受けて、対策を以下のとおり実施する。
+・各個人が常に放射線管理に注意を払うとともに、作業場所毎に計測された線量率により時間管理を行うよう、各協力会社に周知・徹底した。
+・今後、より現場に則した具体的な管理方策等について、協力会社と共に検討を行う。
+・ＡＤＤの警報音を確実に認知させるため、警報音発信時間を長くするなどの検討を行う。
+
+※線量率（ｍＳｖ／ｈ）とは、１時間に放射線を受ける度合いを表す単位。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１次冷却材ポンプモータ配管点検作業における協力会社作業員の計画線量の超過について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/12/08 19:03:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

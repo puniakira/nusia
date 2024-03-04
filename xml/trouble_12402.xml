@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査
+今回の事象における原因を調査するため、並列操作時の状況、原子炉自動停止に至った状況、及び計器用変圧器（ＰＴ）故障警報発信の状況について調査した。
+
+（１）並列操作時の状況（添付資料－７）
+運転員による並列操作について確認した結果、発電機起動チェックシートに基づき、手順どおり実施されていることを確認した。また、事象発生時には並列操作以外の操作は実施していないことを確認した。
+
+（２）原子炉自動停止に至った状況（添付資料－８）
+並列時のシーケンスイベント記録※１１から、Ｇ４０「入」後、８６ＢＵが作動し、「発電機トリップ」に至っていることを確認した。また、「非常しゃ断油圧低」信号によりタービンが自動停止するとともに、「原子炉トリップしゃ断器トリップ」により原子炉が自動停止していることを確認した。
+この状況は、８６ＢＵの作動による正常な動作であった。
+
+※１１：コンピュータ内に保存された操作や挙動、状態の変化等時系列で整理し表示したもの
+
+（３）計器用変圧器（ＰＴ）故障警報発信の状況（添付資料－９，１０）
+発電機自動停止の際に発信した「ＰＴ故障」警報は、発電機自動停止に至る警報ではなく、主変圧器と発電機間の電圧がＧ４０「入」状態で低電圧となった場合に、発電機主回路低電圧リレー（以下、「Ｌ２７」という）が作動し警報が発信するものであり、正常な作動であることを確認した。
+なお、念のため、Ｌ２７については、外観点検、整定値確認、ＰＴについては外観点検、絶縁抵抗測定を実施し、異常がないことを確認した。
+
+（４）まとめ
+今回の事象は、運転員により手順書どおりに操作がなされ、シーケンスどおりの発電機自動停止により原子炉自動停止に至ったものであることを確認した。なお、計器用変圧器（ＰＴ）故障警報は、発電機自動停止に伴い発信したものであり、発電機自動停止の原因ではない。
+
+２．原子炉自動停止に至った原因調査（添付資料－１１～１７）　　　　　　　　
+状況調査により、原子炉自動停止に至った原因は並列直後の発電機自動停止によるものと確認できたことから、発電機自動停止に至った原因について要因分析（以下、「ＦＴ」という）図に基づき調査した。
+
+（１）８６ＢＵ作動に係る調査　　　　　　　　　
+８６ＢＵの作動の要因となるＢ主変圧器保護リレー盤、発電機保護リレー盤、及び発電機について調査を行った。
+
+ａ．Ｂ主変圧器保護リレー盤点検
+Ｂ主変圧器保護リレー盤の点検を行った結果、Ｍ８７Ｂが作動していることを確認した。その他の８６ＢＵの作動の要因となる保護継電器（以下、「保護リレー」という）は作動していないことを確認した。また、本保護リレーの自己診断機能により、リレーの健全性を確認した。
+
+ｂ．発電機保護リレー盤点検
+発電機保護リレー盤の点検を行った結果、８６ＢＵの作動の要因となるいずれの保護リレーも作動していないこと、及び８６ＢＵに誤作動がないことを確認した。また、本保護リレーの自己診断機能により、リレーの健全性を確認した。
+
+ｃ．発電機窒素ガス機内封入動作状況点検
+中央制御室のタービン発電機盤の点検を行った結果、８６ＢＵを作動させる「窒素ガス機内封入」の警報が発信していないことを確認した。また、現地にて発電機窒素ガス機内封入弁が閉止しており、正常な状態であることを確認した。
+
+（２）発電機主ロックアウトリレー（以下、「８６Ｐ」という）作動に係る調査
+発電機保護リレー盤の点検を行った結果、８６Ｐが作動していないことを確認した。また、本保護リレーの自己診断機能により、リレーの健全性を確認した。　　　　
+
+（３）タービン自動停止に係る調査
+タービン自動停止による信号で発電機が自動停止する場合に開放されるＧ４０が現地にて開放されていないことを確認した。
+　
+（４）まとめ
+発電機自動停止に至った原因は、Ｍ８７Ｂの作動、これに伴う８６ＢＵの作動によるものであることを確認した。
+
+３．Ｍ８７Ｂが作動に至った原因調査（添付資料－１８～３３）
+今回の原子炉自動停止に至った要因は、Ｍ８７Ｂが作動したことによる発電機自動停止によるものであった。このことから、Ｍ８７Ｂの作動原因をＦＴ図に基づき調査した。
+
+（１）Ｍ８７Ｂの正常作動に係る調査　　　　　　　　　
+ａ．発電設備の健全性に係る調査
+（ａ）主変しゃ断器（以下、「ＣＢ１４０」という）点検
+外観点検を行った結果、機器に損傷等の異常がないことを確認するとともに、自己診断が可能な保護リレーである主変圧器比率差動リレー（Ａ）（以下、「ＭＧ８７Ａ」という）が作動していないことにより主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+	
+（ｂ）主変圧器点検
+外観点検を行った結果、機器に損傷や油漏れ等の異常がないことを確認するとともに、自己診断が可能な保護リレーであるＭＧ８７Ａが作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+更に、絶縁油中溶解ガス分析※１２を実施し、基準値を満足していることにより短絡等に伴う温度上昇が発生していないことを確認した。
+
+※１２：変圧器内部で局部的な過熱・放電等により絶縁油や絶縁物が熱分解する際に生じた分解ガスは、絶縁油中に溶解するため、この油中に溶解したガスを抽出して分析し、内部異常の有無を診断する方法
+
+（ｃ）発電機断路器※１３（Ｇ４１）点検
+外観点検を行った結果、機器に損傷等の異常がないことを確認するとともに、自己診断が可能な保護リレーであるＭＧ８７Ａが作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+
+※１３：無負荷状態において発電機と主回路の開閉を行うもの
+
+（ｄ）Ｇ４０点検
+外観点検を行った結果、機器に損傷等の異常がないことを確認するとともに、自己診断が可能な保護リレーであるＭＧ８７Ａが作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+
+（ｅ）発電機点検
+外観点検を行った結果、機器に損傷等の異常がないことを確認するとともに、自己診断が可能な保護リレーであるＭＧ８７Ａが作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+更に、発電機冷却用の水素ガスの圧力と純度を確認することにより、水素ガスの漏えいがないことを確認した。
+
+（ｆ）所内変圧器※１４点検
+外観点検を行った結果、機器に損傷や油漏れ等の異常がないことを確認するとともに、自己診断が可能な保護リレーである所内変圧器比率差動リレー（Ｈ８７）が作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+更に、絶縁油中溶解ガス分析を実施し、基準値を満足していることにより短絡等に伴う温度上昇が発生していな
+いことを確認した。
+
+※１４：所内電源系統に供給するため、所内高圧母線電圧（6.6kＶ）に降圧する変圧器
+
+（ｇ）相分離母線※１５点検
+外観点検を行った結果、機器に損傷等の異常がないことを確認するとともに、自己診断が可能な保護リレーであるＭＧ８７Ａが作動していないことにより、主回路に短絡の異常が発生していないことを確認した。
+また、絶縁抵抗測定を実施し、測定値に異常がないことにより主回路に地絡が発生していないことを確認した。
+
+※１５：発電機と変圧器間の大電流を流すために三相を分離した金属ダクトに収納した電路
+
+（ｈ）Ｍ８７Ｂの計器用変流器（ＣＴ）点検
+送電系統側ＣＴの外観点検を行った結果、異常がないことを確認した。また、抵抗測定を実施し、断線がないことを確認した。なお、送電系統側以外のＣＴについては、切り離されていた。
+    
+ｂ．発電設備の故障以外の原因調査（添付資料－７，３４～３６）
+（ａ）発電機と送電系統との交流波形のずれ（位相のずれ）
+運転員は発電機起動チェックシートに基づき、手順どおりに操作していたことを確認した。また、操作を行った運転員は、社内認定された上級制御員の力量を有し、並列操作についてもシミュレータ訓練等により必要な力量を有していることが確認されている。
+また、発電機と送電系統の位相差が±１０°以内であれば、並列可能であるインターロックが設定されているため、送電系統に一旦並列できたことから位相差は±１０°以内であったことを確認した。
+同期検定回路については、同相の電圧を印加して、指示にずれがないことを確認するとともに、模擬入力による作動確認 を実施し、並列可能なインターロック（位相差±１０°）にずれがないことを確認した。
+更に、発電機を送電系統に並列する際の位相差が１０°であれば、過渡電流が発電機固定子コイル端部や軸系に与える影響は定格値以下であり、設備に影響はないと評価している。
+なお、大飯３，４号機においては、運転員の負担軽減を図るため、発電機と送電系統の位相差を自動で同期する装置を設置しており、位相差±５°以内で並列できる。（並列時の潮流※１６の推定値は±２０％程度）
+
+※１６：電力系統内の電力の流れ
+
+（ｂ）発電機電力の急変
+トレンド監視記録により、発電機電力の急増がなく、Ｍ８７Ｂの作動につながる要因ではないことを確認した。
+
+（ｃ）送電系統の変動
+主変圧器の送電系統側の電力（電圧、周波数）は、並列時に送電系統において大きな変動がなく、Ｍ８７Ｂの作動につながる要因ではないことを確認した。
+
+（ｄ）Ｍ８７Ｂの整定値
+ア．送電系統保護の基本的な考え方（添付資料－３７）　
+送電系統保護は、基本的に機器や主回路の短絡等による事故電流が送電系統に流出入し、影響を及ぼさないようにすることが目的であり、系統の安定性等や系統に接続する設備の定格電流などを念頭において、より低い電流でしゃ断することとしている。
+これらは、「原子力発電工作物に係る電気設備に関する技術基準」において、設備損傷による供給支障などに対する保護リレーの設置が求められており、具体的には、主変圧器の内部故障に対してはＭＧ８７ＡとＭ８７Ｂ、発電機の内部故障に対してはＭＧ８７Ａと発電機比率差動リレー（以下、「Ｇ８７」という）によって送電系統を保護している。
+
+イ．今回の並列時における送電系統の保護状況（添付資料－３８）
+今回の定期検査ではＧ８７の取替えを実施したが、Ｇ８７は並列後の初期負荷（発電機出力約５％）状態での実負荷電流による最終確認（以下、「実負荷試験」という）を行った上で使用する必要があった。通常、発電機の故障から送電系統を保護するリレーは２系列を確保しているが、Ｇ８７が使用できない並列操作前後の期間でも、主変圧器、発電機の内部故障の検知は、通常運用中であるＭＧ８７Ａによる差分３０％での保護により、１系統を確保している。
+更に、ＭＧ８７Ａのバックアップとして暫定的にＭ８７Ｂを用いて発電機の事故電流を検知できるようにした。具体的には、Ｍ８７Ｂの発電機側のＣＴを切り離して監視範囲を発電機まで拡大し、発電機の事故電流も検知可能とした。
+
+ウ．今回のＭ８７Ｂの暫定的な措置時の整定の考え方（添付資料－３９）
+Ｍ８７Ｂの暫定整定値は、送電系統の安定性等に与える影響を極力小さくするという観点から、主変圧器などの定格電流１００％相当の電流以下を目安とすることとした。なお、送電系統の安定性に影響を及ぼす電流は、高浜４号機の場合、主変圧器の定格電流の７～８倍程度である。
+一方、並列を含む初期負荷状態で主変圧器に流れる電流によってＭ８７Ｂが作動しないようにする必要がある。
+Ｍ８７Ｂの暫定整定値の３０％は、並列後の主変圧器を流れる電流が安定な状態では約２％であり、並列時の過渡的な潮流を考慮したとしても十分な余裕があると定性的に評価できるとしたこと、及び送電系統保護の目安である１００％を十分に下回ることから、当初からの整定値（３０％）とした。
+
+エ．並列操作時の潮流の評価（添付資料－４０，４１）
+並列時には一般的に発電機側の位相と送電系統側に位相差がある場合、瞬時に電圧の差が生じるため潮流が変動する。
+今回の系統監視記録によると送電系統から発電機側に定格電流の約３３％の潮流が計測されている。
+また、Ｍ８７Ｂの作動記録によると定格電流の３２～３５％の電流が計測されており、いずれもＭ８７Ｂの暫定整定値（３０％）を超えていたことが確認された。なお、これらの潮流の大きさに相当する位相差を定量評価した結果、約６～８°であった。
+一方、並列操作の際の位相差を１０°以内となるようなインターロックが設定されて、１０°の位相差に相当する潮流は定格電流の約４７％となると推定された。
+このため、通常の並列操作により位相差±１０°以内で並列を行った場合でも、３０～４７％の潮流が流れてＭ８７Ｂが作動する可能性があったことが判明した。
+
+オ．過去の工事における暫定的な保護方法の確認（添付資料－３８）
+今回の暫定的な送電系統の保護に加えて、当社が過去実施した他プラントの同種工事（Ｇ８７取替５件）、及び至近の同類工事（２件）における、送電系統保護の状況について確認した。いずれの工事においても、今回同様に保護リレーによる保護方法を暫定的に変更し、送電系統を保護していたことを確認した。
+　　　　　　
+（２）Ｍ８７Ｂの非正常作動に係る調査
+ａ．Ｍ８７Ｂの接続不良による作動
+Ｍ８７Ｂによる発電機・主変圧器の故障検出状態を確認した結果、計画通り、送電系統側に接続されるとともに、発電機側は切り離されていることを確認した。
+
+ｂ．Ｍ８７Ｂの故障
+Ｍ８７Ｂの自己診断機能により、故障していないことを確認した。
+	　　　　　
+（３）まとめ
+以上の結果から、Ｍ８７Ｂの作動原因は設備故障ではなく、Ｍ８７Ｂの暫定整定値が適切でなかったことを確認した。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[発電機並列時の自動停止]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[259]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12402</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2020/01/21 13:51:28]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>87302</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/04/11 17:11:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201602291401]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）並列時の潮流の影響を考慮したＭ８７Ｂの暫定整定値の変更
+ 主変圧器、発電機の内部故障の検知は、通常運用中であるＭＧ８７Ａによる差分３０％での保護により、１系統を確保することにより、技術基準への適合は維持できている。仮にＭＧ８７Ａが作動しない場合を想定し、内部故障検知のバックアップとして、Ｍ８７Ｂの保護方法を暫定的に過電流による検知に変更する。
+この際、Ｍ８７Ｂの整定値は、 ＭＧ８７Ａをバックアップする観点から、主変圧器の定格電流の１００％以下を目安に設定する。また、発電機と送電系統の位相差の最大値１０°に相当する電流値（定格の４７％）や保護リレーの計測誤差等に対する余裕等を加味しても誤作動を回避できるよう、整定値を９０％に変更する。
+また、Ｇ８７の実負荷試験後は、Ｍ８７Ｂを通常の比率差動リレーとして使用するために、整定値を３０％差（発電機側と送電系統側の電流差）に戻し、使用する。
+
+（２）暫定的な保護リレーの保護方法及び整定値の整定の検討における潮流の影響評価の実施
+ ａ．電気保修課が確認すべき技術項目の明確化
+ 保護リレーの暫定整定値の立案段階において、電気保修課は保護リレーの整定値の検討時に確認すべき技術項目を含んだチェックシートを用いて検討を行うことを社内標準に規定する。
+
+ ｂ．保護リレーに係る調達を行う際の調達要求事項の明確化
+保護リレーに係る工事調達段階において、電気保修課は保護リレーの保護方法又は整定値について過渡変化も含めた定量的な影響評価の調達要求を行うことを社内標準に規定する。なお、保護リレー以外の設定値についても同様の調達要求を行うことを社内標準に規定する。
+
+ｃ．保護リレーの整定値に対する潮流の影響評価についての教育
+発電所内の電気設備を所管する電気保修課に対して、送電系統を所管する電力流通事業本部による送電系統の挙動（保護リレーの整定値に対する潮流の影響評価を含む）及び送電系統の保護の考え方についての教育を実施する。
+
+ｄ．メーカで実施する対策の実施状況の確認
+メーカで実施する以下の対策の実施状況を確認していく。
+・保護リレーの保護方法及び整定値について潮流の定量的な影響評価を行うことを社内標準に規定する。
+・過渡事象及び潮流事象について教育の充実を図る。
+
+【同種事象の再発防止に向けた取り組み】
+今回の事象が原子炉自動停止に至ったことに鑑み、以下のとおり、同種事象について調査するとともに必要に応じて対策を実施する。
+
+（１）設備の改造等に伴う設定値等の妥当性確認について　（添付資料－４９）
+今回の定期検査期間中の全ての工事（直営作業を含む）のうち、原子力発電設備の追加・改造等により保護リレー、警報設定器及びインターロック設定器等の設定値を変更又は新規に設定したもの（設定値等に変更はないものの、試験等のために通常設備構成と異なる運用を暫定的に行ったもの及び今後実施予定のものを含む）について、それらの設定値等が設計どおりに適切に設定されていること及びプラントの過渡変化にも対応できることを技術図書又は工事記録等にて確認する。
+
+（２）プラントパラメータに過渡変化を与える運転操作に関連する機器の確認について（添付資料－５０）
+プラントに過渡変化を与える運転操作に関連する機器については、最終ヒートアップ開始以降に実施する試験等のために暫定的に実施する仮配線及び系統構成についても、これらの変更がプラントの過渡変化にも対応できることを確認する。
+
+今回の事象においては、上記取り組みにより再発防止対策が図られている。
+ただし、必要な技術評価に気付けなかったことなどを教訓に、更なる改善点を抽出するため、今後、当社の社内標準に規定する根本原因分析を行う。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/01/21 13:51:28]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所４号機（加圧水型軽水炉、定格電気出力８７万ｋＷ、定格熱出力２６６万ｋＷ）は、平成２３年７月２１日より第２０回定期検査中のところ、平成２８年２月２９日１４時０１分に並列操作※１を実施した際、発電機が自動停止するとともに、タービン及び原子炉が自動停止した。
+　自動停止後のプラント停止状態に異常はなく、同日１４時３３分に高温停止状態への移行を確認し、３月２日８時４５分に安定した低温停止状態を確認した。
+　発電機が自動停止した際に、中央制御室では発電機関連の「主変・発電機内部故障」及び「ＰＴ※２故障」の警報が発信しており、制御建屋２階に設置された保護リレー盤にて「主変・発電機内部故障」の発信要素を確認したところ、主変圧器比率差動リレー※３（Ｂ）（以下、「Ｍ８７Ｂ」という）、及び発電機後備ロックアウトリレー※４（以下、「８６ＢＵ」という）が作動していた。
+　格納容器排気筒及び補助建屋排気筒モニタ並びに発電所周辺の野外モニタの指示値に有意な変動がなく、環境への放射能の影響はないことを確認した。
+今回の事象は、発電用原子炉施設の故障（Ｍ８７Ｂの誤作動（意図しない作動含む））により、原子炉が自動停止したことから、実用発電用原子炉の設置、運転等に関する規則（以下、「炉規則」という）第１３４条に該当することを、２月２９日１６時４８分に判断した。
+
+　※１：発電機を送電系統に接続する操作
+　※２：発電機の電圧を計測するための変圧器
+　※３：主変圧器の故障を検出する装置
+　※４：発電機又は主変圧器の故障検出を受けて発電機を送電系統から切り離す信号を出す装置
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[1]]></TEISHI_CHU_FLG>
+	<TEISHI_CHU_FLG_NAME><![CDATA[停止継続中]]></TEISHI_CHU_FLG_NAME>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-関西-T006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[ 発電機が自動停止し、タービン及び原子炉が自動停止に至った直接的な原因であるＭ８７Ｂが作動した要因について、以下のとおり推定した。
+（１）Ｍ８７Ｂの不適切な整定値
+Ｍ８７Ｂは、並列後の初期負荷状態での実負荷試験の後に使用することとしていたＧ８７の代わりの暫定的な措置として、並列操作前後の期間に発電機の故障を検出する保護リレーとして使用することとしていた。その際、Ｍ８７Ｂの整定値については、潮流の影響評価を実施せずに定性的に３０％としていた。
+このため運転員は規定範囲内（位相差±１０°以内）で並列操作を行ったにも係らず、発電機側と送電系統側の位相差による潮流の影響で瞬時にＭ８７Ｂへ電流が流入し、整定値を上回ったことから、Ｍ８７Ｂが作動した。
+
+（２）潮流の影響評価の未実施
+電気保修課及びメーカは、Ｇ８７取替工事における並列操作前後のＭ８７Ｂに対する暫定整定値の決定において、潮流の影響評価が行われていなかった。
+・電気保修課は、確認すべき技術項目をチェックするルールがなく、同種工事の実績もあったことから、潮流の影響評価は不要と考えた。
+・電気保修課は、工事発注先がプラント建設及び以降の主要な保守・改造工事を発注しているメーカであることから、具体的な要求をせずとも適切な技術検討がなされると考え、潮流の影響評価を明確に調達要求していなかった。
+・電気保修課は、並列時の潮流の影響は認識していたものの、保護リレーの整定値に対する潮流の影響評価についての教育が不十分であった。
+・メーカは、同種工事の実績を優先し、潮流の影響評価を実施していなかった。また、並列時の潮流の影響は認識していたものの、本取替工事において保護リレーの整定値に対する潮流の影響評価を行う必要があることまでの教育が不十分であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高浜発電所４号機　発電機自動停止に伴う原子炉自動停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>87303</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/04/11 20:52:04]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[201]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉緊急停止系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[239]]></KIKI_CODE>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[保護継電装置]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12402</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[239]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の変圧器]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[230]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[230]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[変圧器装置]]></KIKI_NAME>
+					<SORT_NO>14</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[259]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[評価不十分]]></S_GENIN_NAME>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>12402</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

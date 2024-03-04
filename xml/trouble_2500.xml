@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2500</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/11 20:15:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/08/13 16:58:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408121714]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/11 20:15:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機は、定期検査中のところ、8月12日の安全保護系設定値確認検査においてスクラム設定値の確認を行っていたところ、午後5時14分頃、「原子炉自動スクラム」の警報が発生した。
+　原因は、同検査の準備段階において検査関係者間の連絡不十分により、原子炉スクラムに至らないような処置を講じる前に、模擬信号を入力させてしまったためと分かった。
+　現在、定期検査で全ての燃料を原子炉から取り出しており、また、スクラム警報も１つの回路（４つの回路中）のみ発生しただけで、実際のスクラム動作（４つの回路中２つの回路以上動作）はなかった。
+　なお、これによる外部への放射能の影響はなく、安全上の問題もない。
+
+＜原因＞
+事象が発生した要因を、現場作業の品質レベル、事前検討のホールドポイント化、十分な事
+前検討を行うための余裕確保の観点から分析した。
+
+（１）現場作業の品質レベル
+中央制御室にいる検査指揮者と現場の検査担当者は、ＰＨＳによって常時連絡をとりあえる
+ようにすることで、相互の状況を容易に把握できる体制をとったが、現場では検査担当者だ
+けが会話に参加していた。また、検査指揮者からの音声がやや聞き取りづらい状況となって
+いたことから、検査担当者が検査指揮者の指示を聞き誤ったとしてもチェックをかけること
+ができなかった。
+
+（２）事前検討のホールドポイント化
+当日の検査においても、ホールドポイントを設定し、そのうちの一部については、対象計器
+毎に実施時刻を記録していたが、事前のホールドポイントとして設定した「安全処置の確
+認」が十分に機能しなかった。
+
+（３）十分な検査の検討を行うための余裕の確保
+当該検査は、２日間で約８０台の計器を対象に実施する計画としていたが、１日目の進捗が
+遅く、２日目は約６０台の対象計器について検査を実施していた。今回の検査は、同じ手順
+の繰り返しが多く単調な検査であるため集中力の持続が難しいこと、習熟効果によって検査
+時間が徐々に短くなることで慎重さが薄れてくることなどを考慮すると、対象計器の台数が
+多く、検査準備の段階で十分な事前検討を行うための余裕を確保できる工程になっていなか
+った。
+
+＜再発防止対策＞
+（１）電話連絡においては「相互の指示、報告の復唱」を徹底する。
+（２）中央制御室及び現場の検査助勢者にも「検査担当者からの指示、報告の復唱」を周知
+し、ホールドポイントでの検査実施状況の確認を確実に実施してもらう。
+（３）検査準備の段階においても十分な事前検討の余裕を確保できるよう、従来２日間で実
+施してきた当該検査の工程について、他プラント・他サイトの状況も考慮にいれながら見直
+しを検討する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S031]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の柏崎刈羽原子力発電所６号機における原子炉自動スクラム警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/11/25 17:25:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

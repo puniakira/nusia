@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12799</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/07/11 11:53:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>76439</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/05/09 17:46:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201805090210]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/07/11 11:53:59]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+定期検査中の伊方発電所第３号機の原子炉補助建屋１階（中間階）（管理区域）において、５月９日２時１０分、充てんライン圧力計元弁（金属ダイヤフラム弁）および近傍配管にほう酸と思われる付着物が認められ、当該弁付近で１次冷却材系統水が微量に漏えいしていることを巡視点検中の運転員が確認した。このため、運転員にて当該弁を閉止し、同日４時４０分、漏えいの停止を保修員が確認した。
+
+漏えいした水の量は付着物の重量から約１３０ｃｍ３、含まれる放射能量は約２０ベクレルと推定した。調査の結果、当該弁ボンネットとボディの隙間からの漏えいであることを特定したことから、ボンネットの増締めを規定のトルクで実施し、リークチェックを実施したところ、漏えいがないことを確認した。
+その後、当該弁の分解調査を実施したが、異常は確認されなかったため、当該弁を復旧し、漏えいがないことを確認後、５月１１日１０時００分に通常状態に復旧した。
+なお、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+○原 因
+当該弁の構成部品に異常は確認されておらず、高圧環境下での長期に亘る使用において、シート面の状態に微妙に変化を及ぼすような僅かな緩みがボンネット・ボディの締付け部に発生し、シート面の面圧が部分的に低下し、当該部から内包する高圧水が徐々に滲み出て漏えいに至ったと推定される。
+
+○対策
+・当該弁については、分解調査により異常のないことを確認し、分解時の標準取替部品（ダイヤフラム、ガータースプリング、ディスク）について交換を行い、復旧した。
+・当該弁を除く、高圧環境下で長期間使用している１次冷却材系統および化学体積制御系統の金属ダイヤフラム弁（６０台）について、本定期検査におけるプラント起動までに、ボンネットの確認締めを実施することによりシート面の部分的な面圧低下を防止する。
+・当該弁および高圧環境下で長期間使用している１次冷却材系統および化学体積制御系統の金属ダイヤフラム弁（６０台）について、１０定検に１回、ボンネットの確認締めを実施することにより、シート面の部分的な面圧低下を防止する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所第３号機 充てんライン圧力計元弁からの漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/05/09 17:47:29]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

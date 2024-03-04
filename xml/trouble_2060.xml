@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　スチームコンバータの水位低下に至った要因について、以下の調査を実施した。
+（１）運転パラメータ等の調査
+ａ．ポンプの吸込圧力、吐出圧力、流量の関係は、ポンプの性能曲線とほぼ一致しており、ポンプの性能低下は考え難い。
+ｂ．水位制御弁は「スチームコンバータ水位低」警報（ＮＷＬ－１００ｍｍ）発信時は、水位が警報水位以下に低下したことから、開信号により全開状態となっていたが、ほう酸回収装置停止後は良好に水位制御されていることから、制御不良は考え難い。また、制御弁バイパス弁（手動弁）を開けても給水流量およびスチームコンバータ水位が変化しないことから、制御弁の詰まりは考え難い。
+ｃ．給水配管等の詰まり
+（ａ）スチームコンバータ給水ポンプからスチームコンバータ入口給水圧力計までの詰まり警報発信直後の給水ポンプ出口圧力とスチームコンバータ入口給水圧力の差圧は１．０ｋｇ／ｃｍ＾２であり、給水流量２０ｔ／ｈ時の設計圧力損失（０．７ｋｇ／ｃｍ＾２［水位制御弁全開時］）と大きな差はないことから、スチームコンバータ給水ポンプからスチームコンバータ入口給水圧力計までの給水配管、給水流量計オリフィス、ドレン冷却器には詰まり等の異常はないものと考えられる。
+（ｂ）スチームコンバータ入口給水圧力計からスチームコンバータまでの詰まりスチームコンバータ入口給水圧力が、通常運転状態の７．７ｋｇ／ｃｍ＾２に対し警報発信直後は１０．６ｋｇ／ｃｍ＾２と高いことから、スチームコンバータ入口給水圧力計からスチームコンバータまでの給水配管（配管外径：約８９ｍｍ、内径：約７８ｍｍ、長さ：約５ｍ）、スプレイノズル、スチームコンバータ器内に詰まりが生じている可能性が考えられる。
+ｄ．器内圧力は７．４ｋｇ／ｃｍ＾２と正常であり、「発生蒸気圧力高」（８ｋｇ／ｃｍ＾２）警報の発信もなく異常は認められない。
+（２）スチームコンバータ入口給水圧力計からスチームコンバータまでの点検結果
+　前項の調査結果から、スチームコンバータ入口給水圧力計からスチームコンバータまでの給水配管等の詰まりが考えられたため、この間の点検を実施した。
+ａ．給水配管内の点検結果
+　スチームコンバータ入口給水圧力計からスチームコンバータ給水入口管台までの給水配管内をファイバースコープで確認した結果、異物の詰まり等の異常は認められなかった。
+ｂ．スプレイノズルの点検結果
+　スプレイノズル３個を取り外し、作動確認、外観点検を行った結果、異物による詰まりはなかったが、ノズル流路部等にスケールの付着が認められた。付着したスケールの最大厚さは、弁体側で約１．５ｍｍ、ノズル側で約０．３ｍｍであった。
+ｃ．スチームコンバータ器内の点検結果
+　スチームコンバータ器内（脱気室および本体）を点検した結果、開口部の閉そく、異物の残留等の異常は認められなかった。
+（３）給水流量確認試験
+　前項の点検結果、スプレイノズルへのスケール付着が認められたことから、スチームコンバータ停止状態（スチームコンバータ器内圧力０ｋｇ／ｃｍ＾２）において、スチームコンバータ給水ポンプを起動し、
+［１］スプレイノズルを外した状態（配管の詰まりの有無の再確認）
+［２］新品のスプレイノズルを取り付けた状態（新スプレイノズルでの通水状況確認）
+［３］既設のスプレイノズルを取り付けた状態（新旧スプレイノズルの比較）
+での給水系統の圧力、流量等を確認した。
+　その結果、いずれのケースとも約３０ｔ／ｈ（定格流量）流れることが確認されたが、「［３］既設スプレイノズル」の場合は、スチームコンバータ入口給水圧力とスチームコンバータ器内圧力との差圧が１．２ｋｇ／ｃｍ＾２（定格流量時の設計差圧約０．５ｋｇ／ｃｍ＾２）と高く、流量特性が低下していることが確認された。
+　流量特性低下の原因については、弁体およびノズルへのスケール付着により流路がせまくなったことによるものと推定される。
+　なお、「スチームコンバータ水位低」警報発生時に給水流量は約２０ｔ／ｈしか流れなかったが、給水流量確認試験において、差圧は高いものの、３０ｔ／ｈ（定格流量）流れたことについては、給水流量確認試験前のスプレイノズル点検にて実施した動作確認、開弁力測定等に伴い、付着していたスケールが部分的に脱落したためと考えられる。
+（４）保守状況の調査
+　スプレイノズルについては、スチームコンバータの開放点検時（第１回定検（平成８年）および第４回定検（平成１１年））に、脱気室から取り外し、外観目視点検および固着の有無を確認しており、特に異常は認められていなかったが、ノズル流路部のスケールの付着状況については確認していなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[268]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2060</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/25 14:10:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2681</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200012121221]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）スプレイノズルを新品に取り替えた。
+（２）スチームコンバータの開放点検時にスプレイノズルの分解点検を行い、確実にスケールの除去を行うこととし、その旨を作業要領書に追記する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第３号機は、定格出力（８９０ＭＷ）にて運転中のところ、平成１２年１２月１２日１２時２１分、補助蒸気系統に蒸気を供給しているスチームコンバータの水位低警報が発信した。警報発信は、スチームコンバータで発生した蒸気を使用するほう酸回収装置を１１時３０分に起動し、そこで使用する蒸気量が増加したことに伴い発生したと考えられることから、１２時５０分にほう酸回収装置の運転を停止したところ、警報は復帰した。
+　警報発信時の各種運転パラメータからスチームコンバータ給水系統の不具合が考えられたため、スチームコンバータを停止し点検を行った。
+　なお、スチームコンバータ停止中は、補助ボイラを運転することにより補助蒸気を供給しており、プラントの運転に影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-四国-M033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［保守不完全］
+　スチームコンバータ水位低警報発信の原因は、運転に伴いスプレイノズルの弁体およびノズルにスケールが付着し、ノズル部を通過する給水流量が約２０ｔ／ｈまで低下していたため、ほう酸回収装置（蒸気使用量：定格約５ｔ／ｈ）の起動によりスチームコンバータ発生蒸気量が２０ｔ／ｈを超えた際、給水流量の補給が追いつかず水位が低下したと推定される。　　　　　　　　　
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[スチームコンバータの水位低下について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（警報）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>890</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/25 14:10:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[所内蒸気系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[268]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[268]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2060</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2060</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2060</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2060</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10055</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/11/17 17:26:29]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/11/10 20:09:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200809131130]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/11/17 17:26:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[通常運転中の伊方発電所第１，２号機において、屋外にある待機中の予備変圧器※１の絶縁油温度高を示す信号が発信したため、保修員が現場で調査したところ、９月１３日１１時３０分頃、ダイヤル温度計の警報回路に異常があることを確認した。警報発信時、当該変圧器は待機状態で通電しておらず、現場の当該ダイヤル温度計温度指示値および中央制御室の温度計の指示値に異常は認められなかった。
+調査の結果、当該変圧器の絶縁油温度は正常であったが、同変圧器内の絶縁油温度を測定するダイヤル温度計の警報回路に不具合を確認したことから、当該ダイヤル温度計を新品に取り替え、９月１８日１１時００分に異常のないことを確認し、通常状態に復旧した。なお、当該変圧器内の絶縁油温度は、別途設置している警報機能付き温度記録計により監視が可能であり、当該変圧器の機能に問題なかった。
+
+※１ 伊方１号機又は２号機の所内非常用母線が、送電線（１８７ｋＶ）から受電不能な場合に、平ばえ支線（６６kＶ）より受電するために使用する予備の変圧器
+
+原因は、運転管理用のマーキングの取付のために、当該温度計の前面カバーを取り外し、再度取り付けした際、前面カバーの締付が不十分であり、長期間風雨に直接曝されていたことから、内部に浸入した塩分を含んだ雨水により、警報リード接続端子部が腐食し、端子部への水滴の付着及び腐食物の蓄積等などにより端子間が短絡し、警報発信したものと推定された。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-四国-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方１，２号機　予備変圧器温度計の警報回路の不具合]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/11/11 16:11:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

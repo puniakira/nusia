@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2239</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/10/12 15:47:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>2838</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/02/13 17:21:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200402101743]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/10/12 15:47:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東海第二発電所は第２０回定期検査中の平成１６年２月１０日１７時４７分頃、配電盤定検工事で隔離していた６,９００Ｖ母線２Ａ－２及び２Ｃの外部電源喪失検出回路のノーヒューズブレーカー（以下、ＮＦＢという）を作業終了に伴い投入した時に外部電源喪失インターロックが作動し、４８０Ｖパワーセンター２Ｃが停電した。　
+この停電に伴い、原子炉格納容器隔離信号が作動するとともに、原子炉停止時冷却系、使用済燃料プール冷却浄化系、原子炉建屋換気系、原子炉冷却材浄化系が停止した。
+発電長は外部電源喪失検出対象の６，９００Ｖ母線２Ａ－２と２Ｃがまだ停電中であり、外部電源喪失インターロックの条件が成立している状態でＮＦＢを投入したことによるインターロックの動作であることを確認した。この為、当該ＮＦＢを開放し、開放確認後復旧操作を開始し、同パワーセンターを１７時５５分に受電し、１８時３０分に原子炉停止時冷却系を復旧、１９時１３分に原子炉建屋換気系を復旧、１９時３４分に停止した全ての機器が復旧した。
+この結果、原子炉停止時冷却系及び使用済燃料プール冷却浄化系が停止したことにより、事象発生前（１７時００分）に約２２℃であった原子炉水の温度は、原子炉停止時冷却系復旧時（１８時３０分）に約２４℃まで上昇したが、運転上の制限（６５℃以下）は満足していた。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の所内電源の一部停電について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/17 11:24:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

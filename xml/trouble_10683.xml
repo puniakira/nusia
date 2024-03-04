@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[本事象の原因を調査した結果、軸受潤滑水が流れる配管に詰まりはなく、高圧炉心スプレイ機器冷却海水ポンプ潤滑水タンクの水位低下率から、軸受潤滑水が必要流量以上流れていると評価した。このため、軸受潤滑水の流量検出部に異状があり、軸受潤滑水の流量が正しく検出されていないものと推定した。
+
+流量検出部の点検の結果、流量信号を電気信号に変換する変換器内の信号ケーブルコネクタの抜き差しにより、流量指示が復旧した。また、流量検出部のその他の回路に異状はなかった。
+
+以上より、平成２１年１０月２１日、高圧炉心スプレイ機器冷却海水ポンプ（Ｂ）を起動し、ポンプが運転可能であることを確認したことから、同日午前１１時４１分に運転上の制限内への復帰を宣言した。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<TROUBLE_ID>10683</TROUBLE_ID>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/01/12 09:29:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[定格熱出力一定運転中の４号機において、平成２１年１０月１９日、高圧炉心スプレイ機器冷却海水ポンプ（Ｂ）の定期確認運転を実施しようとしたところ、軸受潤滑水の流量が少なく、同ポンプの起動条件が成立しなかったため、起動ができなかった。このことから、当該ポンプの動作不能であると判断し、原子炉施設保安規定に従い、同日午前１０時００分、運転上の制限からの逸脱を宣言した。
+
+本事象の原因を調査した結果、軸受潤滑水が流れる配管に詰まりはなく、高圧炉心スプレイ機器冷却海水ポンプ潤滑水タンクの水位低下率から、軸受潤滑水が必要流量以上流れていると評価した。このため、軸受潤滑水の流量検出部に異状があり、軸受潤滑水の流量が正しく検出されていないものと推定した。
+流量検出部の点検の結果、流量信号を電気信号に変換する変換器内の信号ケーブルコネクタの抜き差しにより、流量指示が復旧した。また、流量検出部のその他の回路に異状はなかった。
+以上より、平成２１年１０月２１日、高圧炉心スプレイ機器冷却海水ポンプ（Ｂ）を起動し、ポンプが運転可能であることを確認したことから、同日午前１１時４１分に運転上の制限内への復帰を宣言した。
+
+ケーブルコネクタの抜き差しにより、流量指示は復旧したが、再発防止の観点から当該コネクタの取替を実施した。
+なお、コネクタ取替作業に伴い、同ポンプが一時的に使用できない状態となることから、作業中は、原子炉施設保安規定に基づき、計画的に運転上の制限外へ移行した上で取替作業を行った。（計画的な運転上の制限への移行期間：平成２１年１０月２１日午前１１時４１分～平成２１年１０月２１日午後６時１５分）
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4610</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/11/12 17:32:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910191000]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[ケーブルコネクタの抜き差しにより、流量指示は復旧したが、再発防止の観点から当該コネクタの取替を実施した。
+なお、コネクタ取替作業に伴い、同ポンプが一時的に使用できない状態となることから、作業中は、原子炉施設保安規定に基づき、計画的に運転上の制限外へ移行（※１）した上で取替作業を行った。
+
+※１　予防保全を目的とした保全作業を実施するため、計画的に運転上の制限外へ移行する場合は、原子炉施設保安規定に定めた要求事項を満足することを確認した上で作業を行い、機器の故障等による運転上の制限からの逸脱とは区別している。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/12 09:29:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定格熱出力一定運転中の４号機において、平成２１年１０月１９日、高圧炉心スプレイ機器冷却海水ポンプ（※１）（Ｂ）の定期確認運転を実施しようとしたところ、軸受潤滑水（※２）の流量が少なく、同ポンプの起動条件が成立しなかったため、起動ができなかった。
+このことから、当該ポンプの動作不能であると判断し、原子炉施設保安規定（※３）に従い、同日午前１０時００分、運転上の制限（※４）からの逸脱を宣言した。
+本事象による４号機の運転への影響はなく、安定に運転を継続。
+
+※１ 高圧炉心スプレイ系は非常用炉心冷却系の一つで、原子炉内の圧力が高い状態でも原子炉内への水の注入が可能な系統である。同系統には、高圧炉心スプレイ系の機器を冷却するための、高圧炉心スプレイ機器冷却水系があり、高圧炉心スプレイ機器冷却海水ポンプは、高圧炉心スプレイ機器冷却水熱交換器を介して、高圧炉心スプレイ機器冷却水を冷却するための設備である。
+※２ 軸受潤滑水は、高圧炉心スプレイ機器冷却海水ポンプの軸受部を保護する目的で、軸受部に潤滑水を供給している。なお、原子炉で事故等が発生し、高圧炉心スプレイ機器冷却海水ポンプの自動起動信号が発生した場合は、軸受潤滑水流量が少なくても同ポンプが起動する仕組みになっている。
+※３ 原子炉施設保安規定は、原子炉等規制法第３７条第１項に基づき、原子炉設置者が原子力発電所の安全運転を行う上で守るべき事項を定めたもので、国の認可を受けている。
+※４ 運転上の制限とは、原子炉施設保安規定に定められた原子炉の安全機能を確保するための制限のことで、動作可能な機器の個数等が定められている。これを満足しない状態となった場合には、運転上の制限からの逸脱を宣言している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-M025]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[ケーブルコネクタの一時的な接触不良が原因と推定した。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[高圧炉心スプレイ機器冷却海水ポンプ動作不能に伴う運転上の制限からの逸脱について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1137</DENKI_OUTPUT_NBR>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/20 13:06:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[405]]></KIKI_CODE>
+			<TROUBLE_ID>10683</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[405]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[流量検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧炉心スプレイ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[108]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10683</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10683</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10683</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

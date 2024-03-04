@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．誤放出に関する状況調査及び問題点の抽出
+１．１　状況調査結果
+関係者への聞き取り等から事実関係を詳細に調査した結果、以下のことが確認された。
+・平成１６年５月２４日、ラドウエスト委託運転員※２Ａ（以下、ＲＷ委託運転員という）は、タンク（Ｂ）が放出レベルとなったため、当直員Ａへ５月１７日より運用にはいった「放出情報票」によりタンク（Ｂ）の放射能測定を依頼した。また、ＲＷ運転予定表にその旨を記入した。
+・この「放出情報票」を受けた当直員Ｂは、最初にシャワー廃液収集タンク（Ｂ）の「分析依頼票」を作成したが、２枚作成すべきところ１枚のみ作成したため当直長の指示により再度作成し直した。その際に周知文書の記載例のタンク名称（Ａ）を「分析依頼票」にそのまま記載（転記ミス）した。
+・当直長は指示した内容がタンク名称の変更ではなかったこともあり、作成し直した「分析依頼票」の承認時にタンク名称を確認せず承認し、環境化学ＧＭへＦＡＸ送信した。
+・環境化学ＧＭ代行者は、タンク（Ａ）の「分析依頼票」を承認し、その後、環境化学Ｇｒ員Ａが委託分析員Ｂにサンプリングを指示した。
+・ＲＷ委託運転員Ｂは、当日のＲＷ運転予定に基づきタンク（Ｂ）のサンプリングのため当該タンクのリサイクル運転を開始した。
+・また、委託分析員Ｃは依頼を受けた「分析依頼票」に基づき分析作業を開始すべくＲＷ中操に立ち寄り、ＲＷ委託運転員Ｂにタンク（Ａ）をサンプリングする旨を口頭で連絡したが、両者の間で確実に情報が伝達されず、ＲＷ委託運転員Ｂはリサイクルしているタンク（Ｂ）をサンプリングするものと認識して作業を継続してしまった。
+・従って、委託分析員Ｃはタンク（Ａ）のサンプリングを行ったが、ＲＷ委託運転員Ｂはタンク（Ｂ）のサンプリングをしたものと思い込み、サンプリング終了の連絡を受けた後、タンクリサイクルを停止した。
+・サンプリングを終了後、委託分析員Ｂは、放射化学分析室で放射能濃度等の測定を行い、「５号機液体廃棄物測定結果及び放出記録」（以下、「放出記録」という）を作成した。環境化学Ｇｒ員Ａが内容を確認後、出張で不在であった環境化学ＧＭに電話で内容を連絡し、承認を得てから当直長Ｂへその結果を通知した。
+・通知を受けた当直長Ｂは「放出記録」に基づき、測定結果及び放出条件を満足していることを確認したが、「放出記録」の放出タンクの（Ａ）か（Ｂ）かを確認せず放出を指示してしまった。
+・この指示に基づき、ＲＷ委託運転員ＢはＲＷ中操にも送付されている「放出記録」を確認せず、サンプリングのためリサイクル運転したタンク（Ｂ）が放出すべきタンクと思いこみ、放出を実施した。
+・放出終了後、当直員Ｄは「放出記録」を作成中に「廃棄物処理装置運転記録」のタンク（Ｂ）の放出と「放出記録」のタンク（Ａ）の放出記載データに相違があることに気づき、ＲＷ委託運転員Ｂにも放出のタンク名を確認した結果、明らかにタンク（Ｂ）を放出したとの回答があった旨を含め、当直長Ｂに報告した。
+・報告を受けた当直長Ｂはタンク（Ｂ）を放出した事実及び各関係者の証言から「放出記録」の誤記ではないかと推定してしまい、環境化学ＧM代行者に「放出記録」の訂正を依頼した。
+・訂正依頼を受けた環境化学ＧM代行者も、放出状況等についてＲＷ委託運転員Ｂに確認した結果、当直長Ｂからの訂正依頼に間違いはないと推定したため、「放出記録」を訂正することとし、翌朝、分析担当者の確認後、「放出記録」訂正の手続きをすることとした。
+※２：ＲＷ委託運転員は、当直長の管理のもとで廃棄物処理の運転を委託されている運転員
+
+１．２　問題点の抽出
+確認された事実関係からマニュアルと実業務の相違点について分析を行った結果、各々の業務プロセスにおいて以下の問題点が抽出された。
+（１）分析依頼
+（ａ）当直員が「放出情報票」から「分析依頼票」への転記作業時、タンク名称の転記ミス（Ｂ→Ａ）をした。（転記ミス）
+（ｂ）当直長は「分析依頼票」の間違いに気づかず承認してしまった。（確認不足）
+（２）放出
+（ａ）当直長は、放出タンクが（Ａ）か（Ｂ）かを確認しないまま放出許可を行った。（確認不足）
+
+１．３　保安規定との関連
+保安規定第８８条（平成１６年５月２４日時点での保安規定）に規定されている放射性液体廃棄物の管理に関する業務の中で、第１項の放出時の管理及び第３項の放出の都度測定を行うことについて遵守されていなかったと考えられる。
+
+１．４　品質保証上の問題点
+抽出された問題点に関して５月２５日施行の保安規定「第２章　品質保証」の要求事項が満足されているか検討した結果、以下の項目に該当する品質保証上の問題点が抽出された。
+・シャワー廃液（通常放射能検出なし）の放出であることから、自らの活動の持つ重要性の認識が不足していた。
+・分析依頼の運用方法が変更になっているにもかかわらず、業務に対する要求事項が関連する要員に理解されていなかった。
+・当直長が「分析依頼票」を承認する際、「業務の計画」に基づき管理された状態で実施されていなかった。
+・分析依頼から放出操作までの全過程（プロセス）において適切な手段で業務の状態を識別していなかった。
+
+２．誤放出の判断遅れに関する調査
+２．１　問題点
+・５月２４日２０時０８分に当直長が放出記録の誤記と推定し、翌朝まで誤放出を想定した対応をしなかった。
+
+２．２　判断の遅れた理由
+・５月２４日２０時００分に当直員が「ＲＷ運転記録」と「放出記録」において放出対象タンク名の記載に相違があることに気づき、ＲＷ委託運転員に放出したタンクとサンプリングしたタンクについて確認を行った。その結果当直員は、放出及びリサイクルしたタンクは共に（Ｂ）であること、及びリサイクル運転しないとサンプリングが出来ないことをＲＷ委託運転員から回答を得て、当直長に報告した。
+・その報告をうけた当直長はサンプリングしたタンクは確認できなかったが、ＲＷ委託運転員の回答からタンク（Ｂ）の放出が誤放出ではなく、「放出記録」のタンク名称の誤記と推定した。
+・なお、一般的にはリサイクル運転によりサンプリングラインを加圧しないとサンプリングできないこと、サンプリング時は必ずリサイクル運転を実施していたことから、リサイクル運転を実施しないとサンプリングできないと誤認していた。
+・一方、環境化学ＧＭ代行者は当直長からの情報に加え、過去の分析履歴がタンク（Ａ）→（Ｂ）→（Ａ）→（Ｂ）と交互に行われているところ、今回はタンク（Ａ）→（Ａ）と同一タンクが連続していることから、今回はタンク（Ｂ）が分析されたタンクと考えた。そのため、当直長及び環境化学ＧＭ代行者はタンク（Ａ）の記載は誤記と判断し、分析担当者には翌日確認することとした。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2410</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/06/02 19:16:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2918</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/05/25 20:05:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200405250820]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．誤放出に関する再発防止対策
+抽出された要因に対する再発防止対策として以下の対策を実施すると共に、品質保証上の観点から抽出された問題点の改善を図ることとする。
+１．１　短期的な対策
+≪当直≫平成１６年５月２７日から実施
+（１）当直員が「分析依頼票」を作成する場合は、タンクレベルを目視、ＩＴＶ又はＲＷ中操に電話で確認し、備考欄に記載するとともに「放出情報票」を添付し、当直長の承認を得る。
+（２）承認後「分析依頼票」及び「放出情報票」は、「放出管理ファイル（新規作成）」に保管する。直がまたがる場合には放出管理ファイルを次直に引き継ぐ。
+（３）当直長は放出時、「分析依頼票」・「放出情報票」・「液体廃棄物測定結果および放出記録」のタンク名称、タンクレベルに相違のないこと及び測定結果、放出条件を確認後、放出許可を行う。
+（４）今回の事象に関して委託先も含め事例検討会を行い、放出業務に対する重要性の再認識を図る。
+
+≪当直≫平成１６年６月２１日から実施
+（１）「放出情報票」を廃止し、ＲＷ委託運転員が作成する「分析依頼票」に一本化する。
+なお、当直員は「分析依頼票」の確認に際しタンク名称、タンクレベルを目視、ＩＴＶ又は、ＲＷ中操に電話で確認後、当直長の承認を得る。
+（２）承認後「分析依頼票」は、「放出管理ファイル（新規作成）」に保管する。直がまたがる場合には放出管理ファイルを次直に引き継ぐ。
+（３）当直長は放出時、「分析依頼票」・「液体廃棄物測定結果および放出記録」のタンク名称、タンクレベルに相違のないこと及び測定結果、放出条件を確認後、放出許可を行う。
+（４）今回の事象に関して委託先も含め事例検討会を行い、放出業務に対する重要性の再認識を図る。
+
+≪環境化学Ｇｒ≫平成１６年６月２日から実施
+（１）環境化学Ｇｒ員は「液体廃棄物測定結果および放出記録」内容確認時に「分析依頼票」及びＲＷ中操での計器によりタンク名称、タンクレベルを確認し、当直長に「液体廃棄物測定結果および放出記録」を提出する。
+更に、サンプリング開始前に委託分析員は、ＲＷ中操の計器で「分析依頼票」に記載されているタンク名称、タンクレベル及びリサイクル運転状況をＲＷ委託運転員とともに確認する。
+（２）今回の事象に関して委託先も含め事例検討会を行い、放出業務（サンプリング、分析）に対する重要性の再認識を図る。
+（３）放射性液体廃棄物の放出業務における新運用を再徹底する。
+１．２　恒久的な対策
+（１）分析依頼票作成から始まる放出に関わるプロセスをＩＴ化し、業務の適正化及び信頼性向上を図る。
+各ステップでホールドポイントをもうけ、確認項目を明確にすると共に、承認がされない場合には次のステップに進まないようにする。
+（２）今回の短期的対策の内、１．１≪当直≫（３）の内容を「設備別操作手順書」に、１．１≪環境化学Ｇｒ≫（１）の内容を「放射性廃棄物放出管理業務要領」に反映する。
+（３）放射性液体廃棄物の放出業務に係るルールの変更等大きな見直しにあたっては、当直員への変更内容の事前周知を徹底する。
+（４）放射性液体廃棄物の放出業務に対する重要性の再認識を図ることについて継続して実施していく。また、放出操作を含め当直員及びＲＷ委託運転員による基本動作であるダブルチェックや指差呼称、及び所内で実施中のＣＢＡ（Check before Action）を行うことを継続して徹底すると共に、当直長セルフアセスメントにて定期的にチェックする。
+
+２．誤放出の判断遅れに関する再発防止対策
+今回の事象については、放出に関する管理の厳密さや事実を徹底的に追及する姿勢、及び内部コミュニケーションが不足していたことが要因と考えられることから、下記事項の対策を実施する。
+・事例検討会の実施
+・ＣＢＡ活動の継続（基本動作の徹底）
+
+３．水平展開
+５号機の事象に鑑み、全ユニット及び集中環境施設の廃液放出プロセスを調査したところ、次の共通する改善必要事項があることから、放出対象設備の確認方法及び手順を明確にするとともに、業務の適正化及び信頼性向上を目的としたＩＴ化を図る。
+（１）当直長及び環境施設ＧＭの放出許可の承認プロセスで確認項目を明確にする。
+（２）分析依頼から放出までのプロセスの中で不必要な転記行為をなくす。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/02 19:16:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　５号機は、定格熱出力一定運転中のところ、平成１６年５月２４日に放射能測定を行わないままシャワー廃液を海へ放出※１したことが、翌５月２５日午前８時２０分頃、当社社員によって確認された。
+調査の結果以下のことが確認された。
+当直員は５月２４日にシャワー廃液収集タンク（以下、「タンク」という）（Ｂ）の廃液放出に先立って環境化学Ｇｒ員に当該タンク（Ｂ）廃液の放射能測定依頼を行うべきところ、誤ってタンク（Ａ）廃液の放射能測定依頼を行い、その依頼に基づき、委託分析員は、タンク（Ａ）の放射能測定を実施した。測定結果を受け取った当直員は、タンク（Ａ）の測定結果をタンク（Ｂ）のものと誤認し、放射能測定を行っていないタンク（Ｂ）のシャワー廃液を放出した。
+なお、５月２５日午前１１時頃、当該タンク（Ｂ）サンプリング配管（リサイクル部）内に残った廃液の放射能測定を実施した結果、放射能は検出されず、放水口モニタの指示値にも異常がなく、本事象による外部への放射能の影響はなかったと判断している。
+また、昭和６３年度以降、放射性液体廃棄物の放射性物質（トリチウムを除く）は放出されていない。
+※１：保安規定第８８条では、第１項で放出時の管理及び第３項で放出の都度測定を行うことが規定されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．誤放出に関する原因
+抽出された問題点に対する要因分析を行った結果、以下のことが主な原因として推定された。
+（１）平成１６年５月１７日より、ＲＷ委託運転員が「放出情報票」を作成し、当直員がそれを元に「分析依頼票」を作成（転記）する新運用となった。当直員は、最初にシャワー廃液収集タンク（Ｂ）の「分析依頼票」を作成したが、２枚作成すべきところ１枚のみ作成したため（新運用方法の周知不足）当直長の指示により再度作成し直した。その際に周知文書の記載例のタンク名称（Ａ）を「分析依頼票」にそのまま記載（転記ミス）した。更に、当直長は指示した内容がタンク名称の変更ではなかったこともあり、作成し直した「分析依頼票」の承認時にタンク名称を確認せず承認した。
+（２）各リリースポイントの確認不足
+・委託分析員は、試料採取前にＲＷ中操で、分析依頼のあったシャワー廃液収集タンク（Ａ）のタンクレベル、リサイクル運転を直接確認していなかった。またこれらについては、マニュアル等にその旨が記載されていなかった。
+・当直長及び当直員は、ＲＷ委託運転員の放出要求に対し「放出記録」のタンク名称と実際に放出するタンクの確認をしないで放出許可をした。
+なお、当直長は、ＲＷ運転記録からシャワー廃液収集タンク（Ｂ）のレベルが８８％と高く（Ｂ）放出との思い込みがあった。
+・ＲＷ委託運転員は、「放出情報票」とシャワー廃液収集タンク（Ｂ）リサイクル運転を実施していることからタンク（Ｂ）放出との認識があり、「放出記録」のタンク名称を確認せずにタンク放出操作を行った。
+（３）当直員とＲＷ委託運転員及び、委託分析員とＲＷ委託運転員の両者で、タンク名称等の相互確認が適切になされていなかった。
+（４）シャワー廃液については毎回放射能の検出はないことから、当直員による管理の厳密さが不足していた。
+
+２．誤放出の判断遅れに関する原因
+判断遅れに関する事象を品質保証に照らし合わせると、「８．３（１）項　業務に対する要求事項に適合しない状況が放置されることを防ぐために、それらを識別し、管理することを確実にする」という要求事項を満足しなかったことに起因するものである。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[シャワー廃液の放出に関わる不適合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[当該タンク（B)の残存廃液をサンプリングし放射能測定を実施した結果、放射能は検出されず、放水口モニタの指示値にも異常がなかったため、外部への放射能の影響はなかったものと考えられるが、保安規定第88条(放射性液体廃棄物の管理）に違反することから、指摘を受けた。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>785</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/05/26 11:38:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2410</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2410</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2410</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2410</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

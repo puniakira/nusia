@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査
+　事象の経緯について、関係者への聞き取りにより確認した事実関係は、以下の通りであった。
+
+（１）10月20日の対応（事象発生時）
+15:14
+　燃料グループ員は、定格電気出力における原子炉の中性子分布をプロセス計算機に取り込むため、「OD－1／LPRM校正手順書（V－K3－(H2－F1)－501）」に基づきTIPを利用してOD－1(注4)を開始。
+17:15
+　OD－1を終了し、TIP検出器を遮蔽容器に格納する操作を行った際に、３つあるTIPボール弁のうちA系の弁が閉まらないことを確認したため、燃料グループ員は、当直員にその旨を報告。その後、燃料グループ員は、保全を所管する計測制御グループ員と、当該TIPボール弁が全閉表示にならないことを再確認。（TIPボール弁が格納容器隔離弁であるとの認識は薄かった。）
+18:30
+　計測制御グループ員は、当該TIPボール弁に関する作業依頼票（MRF ）の発行を当直長に依頼。
+18:30
+　当直長は、TIP検出器の位置表示器により、検出器は遮蔽容器に戻っていることを確認。格納容器隔離弁である当該TIPボール弁は開であるが、全閉とならない原因は、TIP検出器が遮蔽容器位置に戻っていることを検出する近接スイッチのみの動作不良に起因するものであると推定。ただし、格納容器隔離信号が発生した場合は、常用系信号である近接スイッチの動作に関係なく、TIPボール弁は自動的に「全閉」するものと考えていた。
+18:50
+　計測制御GMは、TIPボール弁が格納容器隔離弁ではあるが、単なる表示上の問題で本当に全閉していないとは考えておらず、仮に全閉していなかったとしても格納容器隔離信号が発生した場合は常用系信号である近接スイッチ回路の動作に関係なく自動的に「全閉」するものと考えていた。よって、計測制御グループ員に対し、翌朝から早急に点検できるよう作業計画の立案を指示。
+20:30
+　当直長は、計測制御グループに向けMRFを発行。
+21:00
+　当直長は、次直へ事象の内容およびMRFについて申し送り。このとき、申し送りを受けた次直の当直長も、格納容器の自動隔離機能は健全であり、格納容器隔離信号が入ればTIPボール弁は閉まるものと思い込んでいた。
+
+注４：OD－1
+　プロセス計算機炉心性能計算のオンデマンド（OD）機能番号１の略。TIPの走査結果に基づき最新の炉心出力分布を把握する機能。
+
+（２）10月21日の対応（事象発生翌日）
+10:10
+　計測制御GMは、計測制御グループ員より本日の作業計画をヒアリングしながら、TIPボール弁に関するインターロックブロック線図（IBD）や電気回路図（ECWD）を確認した結果、原因には「近接スイッチの不良」「弁開閉表示の不良」「検出器位置表示の不良」など複数の可能性があると考えていた。
+このうち仮に「近接スイッチの不良」が原因の場合には、直列に回路を構成している手動閉操作により閉しない場合、格納容器隔離信号が発生した場合においても自動閉しない可能性があると考えた。計測制御GMは、この時点で、LCO逸脱状態にある可能性を認識。
+10:40
+　発電所保安検査官室（以下、「検査官室」という）での保安検査官への定時報告において、「TIPボール弁が閉しないこと」「本日、調査を行うこと」「バックアップの爆発弁を有しており隔離は可能なこと」を定時報告者から説明。
+11:25
+　安全管理GMは、検査官室在室中の保安検査官から「当該弁が格納容器隔離弁としてどの様な措置状況になっているか」との問い合わせを受けたため、現在の状況・調査方針等について早急に説明が必要と認識し、計測制御GMとともに保安検査官へ説明に向かった。
+11:30
+　当直長は、中央制御室巡視中の保安検査官からの問い合わせに対し、「当該弁は格納容器隔離弁に該当」「隔離信号により弁は閉動作する」旨 回答。
+11:40
+　計測制御GMは、検査官室在室中の保安検査官に対し、前述の複数の故障要因が考えられること、仮に「近接スイッチの不良」が原因の場合には、直列に回路を構成している手動閉操作により閉しない場合、格納容器隔離信号が発生した場合においても自動閉しない可能性があることを説明（運転管理部長も同席）。
+計測制御GMは、検査官室在室中の保安検査官からの意見も踏まえ、直ちに当該TIPボール弁の「手動閉」操作を試みるよう当直長へ電話連絡（運転管理部長も同意）。
+なお、計測制御GMは、この時点においても原因が特定できていないため、「弁開閉表示の不良」「検出器位置表示の不良」の可能性について排除していなかった。
+11:50
+　当直長は、当直員に対し当該TIPボール弁の「手動閉」操作の開始を指示。
+11:57
+　当直長指示のもと、当直員が当該TIPボール弁の「手動閉」操作を試みたところ、閉まらないことから、当直長は『LCO逸脱』を宣言。
+12:14
+　本事象について、出張中の原子炉主任技術者へ報告。
+13:07
+　計測制御グループ員による現場調査開始。
+13:32
+　当該TIPボール弁が「閉」できない原因は、TIP検出器が遮蔽容器位置に戻っていることを検出する近接スイッチの動作不良によるものと同定できた。このため、当直員により動作不良のあった近接スイッチ回路をバイパスすることにより近接スイッチの正常な動作状態を模擬し、当該TIPボール弁を手動にて「閉」操作したところ、全閉となった。
+13:36
+　さらに「開」「閉」操作も良好であったことから、格納容器隔離機能は健全であると判断。
+13:37
+　『LCO逸脱復帰』を宣言。
+
+
+２．不適合の内容
+　
+（１）発生した不適合
+　状況調査をもとに、保安規定遵守の観点から特定した不適合は以下の通り。
+　・格納容器隔離弁であるTIPボール弁１弁について「閉」できなかった。
+　・当直長は、保安規定第43条に定める格納容器隔離弁であるTIPボール弁が閉まらなかったことに対し、事象を確認した時点で速やかに『LCO逸脱』と判断せず、さらに、『LCO逸脱』の判断が遅れ、結果としてLCOを満足していない場合に要求される措置を速やかに講じることができなかった。
+
+（２）不適合の処置
+　・10月21日11時57分、当直長は『LCO逸脱』を宣言。
+　・LCOを満足しない場合には、保安規定に基づき、４時間以内にTIPボール弁を有する配管を隔離する必要があることから、計測制御グループによるこれまでの調査結果をもとに、10月21日13時07分 計測制御グループにて現場調査を開始し、同日13時32分、TIP検出器の位置を検出する近接スイッチの動作不良により当該TIPボール弁が「閉」できないことを同定。
+　・当直員は、動作不良のあった近接スイッチ回路をバイパスすることにより、TIPボール弁の格納容器隔離機能を復旧。当該TIPボール弁が手動で開閉可能となる。
+　・10月21日13時37分、当直長は、格納容器隔離機能は健全であると判断したため、『LCO逸脱復帰』を宣言。
+
+（３）不適合の影響
+　本不適合の処置がなされるまでの間、当該TIPボール弁は、格納容器隔離信号が発生した場合においても自動閉しない状態であったが、TIP系は、「自動閉鎖する隔離弁と、これに直列にこの隔離弁の後備として遠隔手動の切断閉鎖弁を設ける（原子炉設置許可申請書より抜粋）」設計となっており、TIPボール弁による格納容器隔離が不可能な場合においては、切断閉鎖弁（爆発弁）によりTIPボール弁を有する配管の隔離が可能であった。また、当直長はこの手順を認識しており、格納容器の隔離手段が確保されていたことから、格納容器隔離弁であるTIPボール弁が閉まらない状態においても設備面での安全性は確保されていたと考える。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2614</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/03/04 07:19:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　平成16年10月20日のTIPボール弁閉動作不良事象発生時点では、万一格納容器隔離信号が発生した場合には当該TIPボール弁は自動的に閉すると考え、翌日の対応で問題ないと判断していたが、翌日の調査の結果、当該TIPボール弁は、手動操作により全閉できない場合、格納容器隔離信号が発生した場合においても自動的に全閉しないことが判明したため、21日11時57分、保安規定上に定める「運転上の制限（LCO）」の逸脱にあたると判断した。
+　その後の点検調査結果より、原因がTIP系に付属するスイッチ（近接スイッチ）の動作不良と同定できたことから、不良個所を切り離した結果、同13時37分、当該TIPボール弁を全閉できたため、同時刻、LCOの逸脱から復帰した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3050</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/11/15 20:24:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200410211157]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．安全意識の徹底
+（１）保安規定に関わる機器等の不適合が発生した場合には、事実に基づき安全側に判断することを徹底する。
+（２）当直長は次直への引継時、保安規定に関わる機器等の不適合について、事実に基づく判断根拠を申し送ることを徹底する。
+
+２．保安規定の解釈の明確化
+（１）保安規定における、TIPボール弁に対する要求事項である「動作可能であること」の解釈が明確でないため、その解釈を明確にする。
+（２）保安規定に関わる機器等に対して、どのような要求があるかを整理した資料を作成する。
+
+３．格納容器隔離弁に対する認識の統一
+（１）『OD-1／LPRM校正試験手順書』に、TIPボール弁が格納容器隔離弁であることを明記する。
+（２）保安規定に定める格納容器隔離弁のうち『隔離弁』と明記されていない弁について、『格納容器隔離弁』であることを表示する。
+
+４．近接スイッチの改善
+（１）当該号機のTIPボール弁近接スイッチの感度設定方法を見直す。
+（２）TIPボール弁動作ロジックの変更を検討する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[経済産業省原子力安全・保安院からの指示文書
+平成16年11月18日付｢柏崎刈羽原子力発電所の格納容器隔離弁に係る保安規定違反について(改善指示)」
+(16原企課第95号)
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/03/04 07:19:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　調整運転中の6号機において、平成16年10月20日15時頃より、定格電気出力における原子炉の中性子分布を測定するために移動式炉心内計装（TIP）系を操作していたが、同日17時頃、この操作を終了する際に、格納容器隔離弁であるTIPボール弁（TIP検出器を原子炉格納容器に出し入れする際に開閉する弁）３弁のうち１弁について「閉」を確認できない事象が発生した。
+　事象発生時点では、万一格納容器隔離信号が発生した場合には当該TIPボール弁は自動的に閉すると考え、翌日の対応で問題ないと判断していたが、翌日の調査の結果、当該TIPボール弁は、手動操作により全閉できない場合、格納容器隔離信号が発生した場合においても自動的に全閉しないことが判明したため、21日11時57分、保安規定上に定める「運転上の制限（LCO）」の逸脱にあたると判断した。
+　その後の点検調査結果より、原因がTIP系に付属するスイッチ（近接スイッチ）の動作不良と同定できたことから、不良個所を切り離した結果、同13時37分、当該TIPボール弁を全閉できたため、同時刻、LCOの逸脱から復帰した。
+　なお、本件による外部への放射能の影響はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．直接原因
+　要因分析表に基づく設備面の原因調査結果及びLCO逸脱の判断に至る経緯に関する関係者からの聞き取り調査結果から、本不適合が発生した直接原因は以下の通り。
+
+（１）当該TIPボール弁の駆動回路に使用されている近接スイッチの感度設定のずれにより、弁が閉する条件が成立しなかった。なお、感度設定に際して、TIP検出器が確実に遮蔽容器内に格納された状態で近接スイッチが動作するように考慮し設定されていたが、当該近接スイッチの感度に若干のばらつきがあること、かつ設定範囲が他号機に比べて狭いことから、１回の調整作業で設定値を決定するという手順は、作業手順上の配慮が不足していた。
+
+（２）事象発生当時、当直長は、状態表示が「開」であったにもかかわらず、『格納容器隔離信号が発生した場合はTIPボール弁は自動的に全閉するため、格納容器の自動隔離機能は健全である』と思いこんでいたことから『LCO逸脱』に該当しないと判断した。
+
+　なお、当直、計測制御グループ、燃料グループの関係者においても、TIPボール弁の自動隔離機能を正確に理解していなかったこと、さらにTIPボール弁が格納容器隔離弁であるとの認識が薄かった者もいたことから、当直長が『LCO』逸脱と判断しなかったことに対し、その誤認を修正できなかった。
+
+２．根本原因
+　１．において特定した直接原因に対して要因分析を行った結果、本不適合が発生した根本　原因は以下の通り。
+（１）格納容器隔離弁について、通常とは違う状況となった時点で、事実に基づき安全側に判断するという意識に欠けており、設備図書や弁の状況などの確認を行わなかった。
+
+
+
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[移動式炉心内計装系ボール弁の動作不能によるＬＣＯ逸脱に係る保安規定違反について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限の逸脱判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[　平成16年10月20日に発生した移動式炉心内計装系の一時的な弁の不具合について、保安規定第43条に規定されている｢運転上の制限」を逸脱する状態であったにもかかわらず、事象発生時、格納容器隔離弁の機能が健全であると誤って認識し、結果として要求される措置を速やかに講じることができなかった。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1358</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/11/16 17:12:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[核計装系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[124]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2614</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

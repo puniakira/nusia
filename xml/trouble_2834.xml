@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2834</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/18 10:47:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3141</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/11 00:12:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503070346]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/08/18 10:47:09]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第二３号機において、平成17年３月７日午前３時46分頃、タービン建屋内の復水器付近の床への漏えいを示す警報が発生したため、当社社員が現場を確認したところ、同建屋地下２階の循環水系（Ｃ）配管点検用マンホール仮設蓋から海水が溢れ、床に漏えいしていることを確認した。
+　循環水系配管等を点検するため、循環水ポンプ室は鋼製板で堰止めをしていたが、海水が当該鋼製板と構造物の間から当該ポンプ室へ流入し、タービン建屋に通じる循環水系の配管へ流れ込んだことにより、当該配管点検用マンホール仮設蓋（密閉性なし）から海水が溢れ出たことが確認された。
+　海水の漏えいは、当該配管上流に設置してある循環水ポンプ（Ｃ）の吐出弁を閉めたことにより停止した
+　漏えいした海水（非放射性）は、約130キロリットルであった。
+　　　　　　　　　　　　　　　　　　
+　原因を調査した結果、当該鋼製板に変形等の異常は確認されなかったが、構造物については、漏えい箇所近傍に貝等の影響によるものと思われる塗装の剥離が確認されたことから、波などの影響で鋼製板が動いて構造物との間に貝等が入り込んだことにより、当該ポンプ室に大量の海水が流入したものと推定された。
+　また、当該ポンプ室には堰止め後もある程度の海水の流入があるため、仮設ポンプを設置し手動で起動して排水していたが、これまでの海水の流入実績から作業休止中の排水処理は不要と判断し、漏えい発生時は仮設ポンプを停止状態にしていたことが確認された。
+
+　対策として、以下のことを実施する。
+・今後は、一定の水位で自動起動する仮設ポンプを使用することとし、海水の循環水系配管内への流れ込みを防止する。
+・当該構造物の塗装修理および当該鋼製板の水密ゴムの交換を行うとともに、今後、鋼製板を設置する際には、構造物の塗装状況および水密ゴムの確認を実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S120]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋における海水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/15 15:00:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

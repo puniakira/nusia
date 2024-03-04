@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．保安規定上の要求事項
+　保安規定では、第38条(協力企業の放射線防護)において、協力会社の放射線従事者が、ＥＰＤ着用を含めた放射線管理上の遵守事項を安全管理グループマネージャー（以下、「安全管理ＧＭ」という）が定め、各室長がこれを遵守させる措置を講じることを定めている。
+　安全管理ＧＭは協力会社の放射線業務従事者が、遵守すべき放射線管理事項をＱＭＳ規程「協力企業の放射線防護手順書」に定め、協力会社に周知するとともに、今回の工事を発注・監理した保修室長は、発注仕様書（放射線管理仕様書）にて協力会社に放射線管理事項を遵守させるよう要求しており、保安規定を満足していると考える。
+
+２．本事象に関する調査
+２－１．聞き取り調査
+　今回の事象を受け、ＥＰＤを置忘れた原因の調査のため、作業員Ａおよび監視員Ｃに対し、聞き取り調査を行なった。
+　１）作業員Ａへの聞き取り調査結果
+○ＥＰＤ貸出装置からＥＰＤを取出し、点検用機材を両手に持って手がふさがっている状態であったため、防寒着のポケットに入れてＥＰＤゲートに入った。
+○ゲートに入った後、取付けフック付き立入許可証ホルダーを首からかけた状態で点検機材を足元に一時置き、ポケットから出したＥＰＤと立入許可証を所定の受信台に置き、ＥＰＤと立入許可証から手を離してゲートの画面に必要事項を入力した。
+○その後、出口ゲートが開いたため点検機材を両手に持ち、取付けフック付き立入許可証ホルダーを首からかけた状態でＥＰＤゲートを通過した。この時、機材と出口扉に気を取られたため、ＥＰＤを受信台に置き忘れた。
+○通常、立入許可証ホルダーにはＥＰＤゲート通過後にＥＰＤを取り付けているが、この日はそれを失念した。
+２）監視員Ｃへの聞き取り調査結果
+○監視員の主たる業務は、物品の持ち出しおよび更衣室の出入りのモニター監視であり、ＥＰＤゲートの立ち入りについてはＥＰＤシステムで監視されていることから、常時監視することは行なっていないので、作業員ＡがＥＰＤを置き忘れたことに気付かなかった。
+○当日は、管理区域入域者からのＥＰＤゲートでのエラー等の申告もなく、エラーも発生していなかったこと、また休日で入退域者が少なかったことから、ＥＰＤゲート内にＥＰＤが長時間放置されていることには気付かなかった。
+○作業責任者Ｄより作業場所がＡ区域であり、被ばくの心配がないことから、安全管理グループに事前確認する必要はないと判断して作業員Ａを一旦管理区域から退域させ、管理区域の再入域を許可した。
+○作業責任者Ｄと相談し、安全管理グループに連絡してすべきと助言され、安全管理グループ員に連絡した。
+２－２．ＥＰＤシステムの調査
+　今回、ＥＰＤが置忘れた状態で、退域処理がされていたことから、ＥＰＤシステムの入退域シーケンスを調査した。
+　１）入域時のシーケンス
+　管理区域に人が入域するためにＥＰＤゲートに近づくと、センサーが人を検知し、管理区域側の扉が閉まる。入域者はＥＰＤゲート内に入り受信台にＥＰＤをセットした後に、ＥＰＤへの必要な管理情報の書込みが行なわれ、入域者が画面で最終確認ボタンを押すと管理区域側の扉が開くシーケンスとなっている。従って、ＥＰＤを置き忘れた状態のままでも、入域が可能となっている。
+　２）退域時のシーケンス
+　退域するためにＥＰＤゲートに近づくと、センサーが人を検知し、非管理区域側の扉が閉まる。それと同時にＥＰＤの指示値等の読取りを開始し、立入実績のレシートを出力する。
+　今回の事象においては、監視員ＣがＥＰＤゲートに近づいた際に、受信台上に置忘れられていたＥＰＤを読み取って、レシートが出力された。
+以上より、現状のＥＰＤシステムは受信台にＥＰＤを置忘れていても、入退域処理されることが確認された。
+
+本ＥＰＤシステムは平成２０年１０月に更新したが、更新の際にＥＰＤとシステム間の送受信エラーの低減等信頼性を向上させることを目的に、ＥＰＤゲートに受信台を設置した。
+従前のＥＰＤシステムでは受信台が無く、入域者はゲートを通過する際にＥＰＤから手を離すことができなかったことから、ＥＰＤゲートでのＥＰＤ置き忘れという同様の不適合は東海発電所及び同一のシステムを使用していた東海第二発電所，敦賀発電所で発生していない。
+受信台設置に当たって、ＥＰＤ置忘れが想定されていなかったことから、設備設計の面からＥＰＤ置忘れ防止方策が講じられていなかった。
+２－３．放射線防護手順の確認
+放射線業務従事者の放射線防護に関する手順は以下のとおりであり、当該点検作業においても適切に行われている。
+１）放射線防護上の措置の立案
+工事が計画されると、定期測定の結果や過去の実績等から当該工事場所の放射線環境を推定し、これらをもとに当該工事における総線量や個人の最大線量等の計画線量を設定するとともに、工事項目毎の細かな作業要領、安全対策、放射線防護措置（ＥＰＤの着用の指示等）等を検討する。
+当該工事は、東海発電所の屋外の汚染のおそれのない管理区域内のものであり、近傍に放射線源も無い工事であったが、管理区域内作業であることから放射線防護措置の中でＥＰＤの着用の指示が行われていた。
+２）作業員の教育・訓練
+管理区域内で作業を行う放射線業務従事者は、管理区域で作業を開始する前に、放射線防護教育を受講することが必須条件となっており、この教育の中で管理区域へ立入る際、ＥＰＤを着用することが教育の中で示されている。当該作業を行っていた作業員Ａについても放射線防護教育の中で、管理区域へ立ち入る際は、ＥＰＤを着用することについて教育を受けている。
+３）作業員への指示
+管理区域内作業の開始に当たっては、あらかじめ前述の１）で検討された放射線作業要領をもとに、作業における放射線防護上の指示・確認が行われており、作業員Ａに対し当日の作業前においても適切に実施された。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10541</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[399]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/09/02 11:05:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[G]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[GCR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4548</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/02 10:12:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200902071315]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）人的原因に対する対策
+　　下記について不適合事象発生後、速やかに実施した。
+　１）東海発電所及び東海第二発電所の全てのＥＰＤゲートに、ＥＰＤ置忘れ防止のための表示を貼付け、入域者への注意喚起を行った。
+　２）ＥＰＤゲート近傍に、ＥＰＤ着用確認を促す音声ガイダンスを設置した。
+　３）監視員全員に本事例を周知し、監視強化するよう指示した。
+　４）発電所員並びに発電所構内の全協力会社に本事例を周知し、ＥＰＤの置忘れ防止を含めてＥＰＤ着用の徹底を指示した。
+（２）設備面の対策
+　１）ＥＰＤの置忘れを防止するため、以下の設備改造を実施した。
+　　A) ＥＰＤを受信部から外さないと扉が開かないようインターロックを追加。
+　　B) 万一、ＥＰＤを置忘れた状態で扉を通り抜けた場合に、ＥＰＤゲートに警報を発報させると共に、監視台の端末にも異常表示させる機能を追加。
+（３）管理面の対策
+　１）監視員に対して、監視強化の内容と安全管理グループに連絡すべき事項を明確にし、監視強化と異常時の連絡を徹底した。
+　２）上記の設備面の対策が完了するまでの間、Ｃ／Ｐの監視員をＥＰＤゲートの管理区域側に１名追加し、受信台にＥＰＤの置忘れが無いこと、及び入域者がＥＰＤを着用していることを監視した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２１年２月７日、点検作業のため、１３時１５分に作業員Ａは作業監督者Ｂ等とチェックポイント(以下、「Ｃ／Ｐ」という)から管理区域に入域した。
+この際、作業員Ａは管理区域立入管理ゲート（以下、「ＥＰＤゲート」という）のＥＰＤ受信台にＥＰＤを置き忘れたまま、当該作業（電源盤点検）に従事した。
+一方、Ｃ／Ｐの監視員Ｃは、１５時０８分頃、休憩のため退域しようとＥＰＤゲートに入ろうとしたところ、ＥＰＤが置き忘れられ、立入実績レシートが打ち出されていることを確認した。監視員Ｃは管理区域退域時のＥＰＤ置き忘れと勘違いし、立入実績レシートを回収すると共に置き忘れられたＥＰＤをＥＰＤ貸出装置に返却した。
+１５時３４分頃、作業員ＡはＥＰＤを携帯していないことに気付いたため、一緒に点検作業を行っていた作業責任者Ｄにその旨を報告した後、作業責任者Ｄと共に直ちにＣ／Ｐへ戻り、監視員Ｃに状況を説明した。
+説明を受けた監視員Ｃは、立入管理システム（以下、「ＥＰＤシステム」という）から作業員Ａが管理区域を１５時０８分に退域した処理になっていることを確認し、作業環境が屋外であり且つ被ばくのおそれがない作業であることの説明を受け、１５時４１分に作業員Ａの管理区域への再入域を許可すると共に、作業員ＡのＥＰＤ未着用期間の被ばく線量を確認するため共同作業者の作業監督者Ｂを呼ぶように依頼し、作業監督者ＢのＥＰＤ読取結果が0.00mSvであることを確認した。
+その後、監視員Ｃは作業責任者Ｄと相談し、１６時２０分頃、本件について当社安全管理グループ員に状況を連絡した。連絡を受けた安全管理グループ員は、安全管理グループ放射線管理担当サブマネージャー（以下、「放管ＳＭ」という）に連絡した。連絡を受けた放管ＳＭは直ちに作業員Ａを含む関係者を管理区域から退域させるよう安全管理グループ員に指示した。
+　なお、本工事実施エリアは、屋外の線量も低く汚染のおそれのない管理区域であり、放射線環境（線量当量率：0.01mSv/h未満、表面汚染密度：0.1Bq/cm2未満、空気中濃度：7.0×10-5Bq/cm3未満）から、放射線業務従事者の１日当りの作業計画線量最大値を最も低いレベルである「0.30mSv未満」との計画であった。
+当該エリアは、屋外の線量も低く汚染のおそれのない管理区域のため、ＥＰＤの着用確認はＥＰＤゲートのみであり、作業員ＡはＥＰＤ受信台にＥＰＤを置き忘れたまま作業に従事した。しかし、作業員が、線量が高く放射線環境の厳しい場所（汚染のおそれのある管理区域）に立入る場合は、専用の作業服（青服）に着替える必要があり、更衣場所では監視員がＥＰＤ着用を確認すること、また、高線量区域は施錠管理され、鍵の貸出許可やＥＰＤ着用等を監視員が確認することを定めており、ＥＰＤを着用しないままこれらの区域に立ち入って過剰な被ばくをすることは無い。
+また、本件における作業員Ａの未着用期間の被ばく線量は、共同作業者である作業監督者ＢのＥＰＤ読取結果から0.00mSvであることを確認しているが、所内規程に基づき、正式に作業員Ａの被ばく線量を「0.00mSv」と評価している。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M038]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．ＥＰＤ置忘れについての推定原因
+（１）人的な原因
+作業員Ａは、機材を両手で運ぶことに気を取られたため、ＥＰＤを受信台に置き忘れた。
+（２）設備的な原因
+ＥＰＤシステム更新の際に受信台を設置したが、ＥＰＤの置忘れ防止措置が講じられていなかった。また、ＥＰＤが受信台に置忘れられた状態を、監視員等に気付かせる様なシステムではなかった。
+（３）管理面からの原因
+Ｃ／Ｐに配置されている監視員Ｃは、ＥＰＤ着用等を監視することになっていなかったため、作業員ＡがＥＰＤを置き忘れたことを認識できなかった。なお、従前のシステムでは入域の際ＥＰＤを保持する必要があり、ＥＰＤを置き忘れることはなかった。
+なお、監視員Ｃが長時間ＥＰＤ未着用だった作業員Ａの再入域について、安全管理グループに確認せずに許可した点についても、報告・連絡の観点から改善が必要である。
+２．過去の類似事象の水平展開の状況
+　東海発電所においては過去にＥＰＤ未着用はなかったが、東海第二発電所の飛地管理区域ゲートにおいて不適合事象が、平成１９年１月と平成２０年９月に２回発生している。
+　東海発電所と異なり、東海第二発電所では原子炉建屋等の主要な管理区域の他、飛地管理区域ＥＰＤゲートからの複数の入域経路が存在する。平成１９年１月の不適合は、一時立入者の案内者(随行者)である放射線業務従事者がＥＰＤを持たなくても見学者更衣室の鍵を警備員から借りることができたため、ＥＰＤゲートを通過後に鍵を借りるべきところ、それを失念し見学者更衣室から入域してしまったことが管理的な原因であった。そのため、類似の飛地管理区域を含め、入域に当たってはＥＰＤ番号を台帳記入し警備員がＥＰＤ着用を確認することとした。
+東海発電所では飛地管理区域が無く、入域経路は一箇所のみであり、ＥＰＤゲートを通過しない限り管理区域には入域できないことから、Ｃ／ＰでのＥＰＤ番号の台帳記入やＥＰＤ着用確認の対策は行わなかったが、本事例の周知を行うと共に、ＥＰＤ着用忘れの発生の可能性がある更衣室等に注意表示を掲示した。なお、従前のシステムでは入域の際ＥＰＤを手で持っている必要があり、ＥＰＤを置き忘れるおそれは無かったことから、ＥＰＤゲートへ注意表示は行わなかった。
+また、平成１９年１月の対策は随行者である放射線業務従事者を対象としていたが、平成２０年９月の不適合は、一時立入者が飛地管理区域ＥＰＤゲートから入域する際の確認方法に不備があったためである。現在、対策を検討中であり、必要に応じて水平展開を行う。
+今回の東海発電所におけるＥＰＤ未着用の原因は「ＥＰＤ置忘れについての推定原因」で述べている通り、ＥＰＤシステム更新の際の設計変更に当たって、ヒューマンエラーを考慮した設計がなされなかったことが主要因である。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[管理区域における作業員の個人線量計（ＥＰＤ）の未着用について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[判定区分：「監視すべき事項」
+
+保安規定違反条項：第３８条（協力企業の放射線防護）
+安全管理グループマネージャーは、管理区域内で作業を行う協力企業に対して、以下に示す放射線防護上の必要な事項を定め、所長の承認を得る。
+（１）管理区域出入者の遵守事項
+　　ｲ．出入方法に関すること
+　　ﾛ．個人線量計の着用に関すること
+　　ﾊ．保護衣の着用に関すること
+２．各室長は、管理区域内で作業を行う協力企業に対して、第１項に定めた必要事項を遵守させる措置を講じる。
+
+保安規定違反理由：
+「放射線管理区域への入域時のＥＰＤの携帯は、放射線防護上の必要な事項であり、放射線業務従事者の線量を測定することは事業者の義務であり、放射線業務従事者にＥＰＤを携帯させるよう万全の措置を講じる必要がある。
+今回の事象は平成20年9月に東海第二発電所において発生した一時立入者のＥＰＤ不携帯に続いて発生しており、東海発電所及び東海第二発電所を同じ体制により管理する組織としてＥＰＤ携帯を遵守させる措置が十分に実施されていたとは言えない。]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/02 11:05:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>16</SORT_NO>
+		<PLANT_CODE><![CDATA[genti]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[G]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10541</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10541</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10541</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

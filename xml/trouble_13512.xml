@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該変換器の不具合について、以下の調査を実施した。
+（１）事象発生時の状況調査
+ａ．気象鉄塔風向風速計の状況（放射線管理用計算機）
+　風速データの指示値の変動はあったが、風向データの指示値は、５月２日２２時１０分頃から変動していなかった。
+
+ｂ．風向風速計の監視状況
+　３号中央制御室野外モニタ盤（※６）での気象鉄塔風向風速計を含む全ての風向風速計の記録計の動作に異常がなく、伊方発電所敷地内の風向風速の監視に問題はなかった。
+
+※６　野外モニタ盤
+　発電所から放出される放射線量を監視するため、発電所敷地付近の線量率、気象データ等を収集・表示するための監視盤。
+
+（２）当該変換器の状況調査 
+ａ．現地確認結果
+　当該変換器の出力電圧を測定した結果、記録計への出力電圧に異常は認められなかったが、放射線管理用計算機等への出力電圧に変動が無く当該変換器の一部に不具合があることを確認した。
+　当該変換器の電源を入切操作し再起動したところ、放射線管理用計算機等への出力電圧は正常に動作した。
+
+ｂ．メーカ調査結果
+　当該変換器をメーカに送付し、調査を実施した。
+（ａ）内部確認
+　当該変換器の基板の状態を目視確認した結果、異常は認められなかった。
+
+（ｂ）再現性確認
+　以下に示す環境で風向風速計発信器の信号を当該変換器に接続し、変換器出力を確認する試験により再現性を確認した結果、異常は認められなかった。
+・通常環境にて１４日間
+・当該変換器の供給電源にノイズを加えた環境にて１８日間
+・－１０～＋５０℃の温度変化を加えた環境にて５時間
+
+（ｃ）動作確認
+　絶縁抵抗、変換器供給電源変動および出力精度等、出荷時と同様の検査を実施した結果、異常は認められなかった。
+
+　調査結果を踏まえ、メーカから以下の回答があった。
+・事象の再現性がなく原因究明に至らなかったが、事象発生の要因として何らかの電気ノイズによる一過性の事象と推定される。
+
+（３）保守状況の調査
+ａ．気象鉄塔風向風速計点検
+　気象鉄塔風向風速計用の変換器は２０１９年度に取り替えを実施している。また、変換器を含む気象鉄塔関連の点検は、月間点検（※７）、四半期点検（※８）、定期点検（※９）を実施しており、これらの点検において変換器に関する異常はなかった。
+
+※７　月間点検（前回点検は２０２２年４月７日に実施）
+・外観点検
+・動作点検（指示値の読取）
+
+※８　四半期点検（前回点検は２０２２年２月に実施）
+・外観点検
+・動作点検（模擬入力値の読取，風速計回転部のトルク確認）
+
+※９　定期点検（年１回、前回点検は２０２１年８月に実施）
+・外観点検
+・動作点検（模擬入力値の読取，風速計回転部のトルク確認）
+・単体機能試験（変換器、記録計等の構成部品単体の確認）
+・総合機能試験（構成部品を組み込んだ後の動作確認）
+
+（４）類似機器の調査
+　伊方発電所において、当該変換器と同型式の機器を調査したところ、九町越公園および取水口風向風速計変換器の２台（当該変換器を除く）を確認した。
+
+（５）過去の類似事象
+　伊方発電所における風向風速計（気象鉄塔、九町越公園および取水口）の過去事象を調査したところ、類似事象がないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[271]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13512</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2022/09/21 14:22:33]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[気象鉄塔風向風速計]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2022/06/14 09:41:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202205041028]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該変換器を、予備品に取り替える。
+
+（２）風向風速計（気象鉄塔、九町越公園および取水口）故障時において適切かつ迅速に対応するため、風向風速計変換器の予備品（1台）を常備し、万一故障した場合には、予備品と速やかに取替を行う。
+]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/09/21 14:22:33]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　５月４日１０時２８分、伊方発電所３号機中央制御室の放射線管理用計算機（※１）表示端末において気象鉄塔の風向データが更新されていないことを確認したため、テレメータ装置（※２）および緊急時対策支援システム（※３）へのデータ伝送を一部停止して点検することとした。
+　その後の点検の結果、データを変換し伝送する気象鉄塔風向風速計変換器（※４）から放射線管理用計算機、テレメータ装置、安全パラメータ表示システム（※５）および緊急時対策支援システム（以下、「放射線管理用計算機等」という。）へ一部のデータが正常に伝送できていないことを確認したため、当該変換器の取り替えを行い、同日１７時０５分、通常状態に復旧した。
+　なお、当該データは別の計器で確認できており、本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１　放射線管理用計算機
+　伊方発電所内および敷地周辺の放射線管理に関するデータを一元的に集約し、放射線監視を補助するシステム。放射線管理担当課執務室、中央制御室（１，２号および３号）、緊急時対策所等にパソコン端末を設置している。　
+　
+※２　テレメータ装置
+　伊方発電所の風向風速等のデータを愛媛県および伊方町へ伝送する装置。
+
+※３　緊急時対策支援システム（ＥＲＳＳ）
+　原子力発電所が正常に稼動しているかどうかを常時確認し、事故が起こった場合に、事故状態の確認・判断、今後の事故進展を解析・予測するための国のシステム。これらの情報（プラント情報）は原子力発電所から原子力規制庁へ伝送され共有されている。
+
+※４　風向風速計変換器
+　排気筒から放射性物質の放出があった場合に、周辺の公衆への被ばく評価を行うために風向風速を測定している風向風速計の電流信号を表示装置や記録計等で取り扱える電圧信号に変換するもの。
+
+※５　安全パラメータ表示システム
+　１次冷却系統に係る発電用原子炉施設の損壊その他の異常および重大事故等が発生した場合にプラントの各種パラメータを発電所内およびＥＲＳＳ等の発電所外へ伝送できるよう、平常時からデータを伝送している発電所側のシステム。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査の結果、
+・当該変換器の出力電圧に一定期間変動がなく放射線管理用計算機等への風向データが更新されない事象が発生したが、当該変換器電源の入切操作により正常に復帰した
+・メーカ調査において本事象の再現性がなく異常は認められなかった
+ことから、本事象は何らかの電気ノイズによる一過性の事象と推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所　風向風速計変換器の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>923</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>111116</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/06/14 09:41:20]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[917]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[気象鉄塔風向風速計]]></S_KIKI_NAME>
+			<TROUBLE_ID>13512</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[風向風速計変換器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13512</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[917]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[気象観測装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[271]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[電気ノイズによる一過性の異常]]></S_GENIN_NAME>
+			<TROUBLE_ID>13512</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他偶発的要因]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>3</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[偶発的な燃料のピンホール、シートの当たりが変化したことによるシートパス等]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1620]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13512</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13512</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[298]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

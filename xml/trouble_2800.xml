@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．調査内容
+　近接コントローラの内部構成回路について、要因分析図を作成し不良箇所の検討を実施した。本要因分析図に従い、近接コントローラ製造者工場において以下の調査を実施した。
+（１）事象再現性確認
+　当該コントローラ及び正常品を実機に模して再現性確認、比較をコントローラ解体前に実施した。
+（２）送信回路調査
+　送信回路で作られる送信波の波高電圧が低下すると、見かけ上のコントローラの感度が上昇し誤検出する可能性があることから、送信波の波高値、内部電圧及び送信周波数の確認をコントローラ解体前に実施した。
+（３）受信回路調査
+　受信回路の出力波高電圧が低下すると、見かけ上のコントローラの感度が上昇し誤検出する可能性があることから、受信回路の出力波高電圧の確認をコントローラ解体前に実施した。
+（４）軽打診調査
+　コントローラ動作状態で軽打診による振動の影響の有無をコントローラ解体前に確認した。
+（５）コントローラ内部目視点検
+　コントローラを解体し、半田状態等内部接続、配線の状態に異常の有無をコントローラ解体後に確認した。
+（６）検波回路調査
+　検波回路の入力信号と出力信号の波形を確認することにより、正常に検出されるか確認をコントローラ解体後に実施した。
+（７）同期信号発生回路調査
+　同期信号発生回路は、送信回路の信号からその信号周期を求めて、検波回路へその出力ピーク検索に使用される同期信号を発信している。その同期信号異常の有無の確認をコントローラ解体後に実施した。
+
+２．調査結果
+（１）事象再現性確認
+　当該コントローラの感度設定値は、正常品と比べ明らかに高く、事象の再現が確認された。
+（２）送信回路調査
+　送信波の波高値、内部電圧及び送信周波数とも異常は確認されなかった。
+（３）受信回路調査
+　受信回路出力波高電圧に異常はみられなかった。また、感度調整スイッチを変化させ増幅率の逆転の有無をランプ表示により確認を行ったが異常はみられなかった。
+（４）軽打診調査
+　上下方向、左右方向で各１０回ずつ軽打診を行ったが感度変化はみられなかった。
+（５）コントローラ内部目視点検
+　半田状態にブリッジ及びクラックなどの接続不良はなく、内部配線も健全であった。
+（６）検波回路調査
+　検波回路の出力信号波形に異常がみられた。
+（７）同期信号発生回路調査
+　同期信号は正常に検波回路に入力されており、異常はみられなかった。
+
+　以上から（２）から（５）及び（７）の調査結果に異常はみられなかったが、（１）から事象の再現性が確認され、更に（６）から検波回路部の異常が確認された。
+
+　検波回路は、集積回路（ＩＣ）で構成され、受信増幅回路からの入力波形信号をふたつに分岐し、各々同期信号の一周期における最大電圧値（ピークホールド信号）及び最小電圧値（ボトムホールド信号）に対する直流信号を演算回路へ出力する機能を有している。
+　当該コントローラでは、検波回路調査の結果から、検波回路入力信号が約２．０Ｖに対してピークホールド信号も本来約＋２．０Ｖとなるべきところ、約－１．４Ｖと出力が極めて低いことから、検波回路のＩＣの不具合が考えられた。
+　以上から次の確認試験を実施した。
+
+（８）検波回路のＩＣ交換
+　当該コントローラの検波回路のＩＣを取り外し、正常なＩＣを取付けたもの及び正常なコントローラに当該コントローラより取り外したＩＣを取付けたものについて検波回路の入出力信号の波形の確認を実施した。
+　その結果、前者は正常な波形を示したが、後者ではピークホールド信号がＩＣ交換前と同様に出力の異常がみられた。
+
+　以上より、当該コントローラ内検波回路のＩＣ単品の故障であることが判明した。
+
+　これによる隔離弁異常のメカニズムは次のように推定される。
+
+・近接スイッチの検出原理は、センサーヘッド内部に高周波電流を流して高周波磁界を発生させ、この磁界内に金属（ＴＩＰ検出器またはケーブル）があると電磁誘導作用により金属表面に磁束の通過と垂直方向の渦電流が発生することから、受信回路への入力電圧が減少することを利用したものである。すなわち、センサー部にＴＩＰ検出器またはケーブルが存在すると、渦電流が大きくなるために受信回路の入力信号電圧値が小さくなり、引抜状態では渦電流が小さくなるために受信回路の入力信号電圧値が大きくなる。
+・当該コントローラにおいて検波回路内のＩＣ単品の不具合により、ＩＣのピークホールド信号が低く出力されたため、受信回路の入力信号電圧値が小さくなったことと同様の状態となり、近接スイッチセンサー部からＴＩＰ検出器が引き抜かれていたにもかかわらず、挿入されているように誤検知された。
+・これにより、近接コントローラからのインターロック（隔離弁開指令）により隔離弁が自動開に至ったものと考える。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2800</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/05/24 09:43:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　平成１６年１０月２９日より原子炉を起動中のところ、平成１６年１０月３１日１２時５８分、ＴＩＰチャンネルＣの隔離弁「閉」を示すランプの不点が確認され、手動操作による開閉確認を実施しても状況は変わらず、弁の「閉」状態が確認できないことから、同１３時１９分に、保安規定第４３条（格納容器及び格納容器隔離弁）で定める「運転上の制限」を満足していないと判断した。
+　その後、隔離弁「開閉」制御の一部を司る近接コントローラの感度確認／調整、手動操作による隔離弁開閉確認、及びＴＩＰ走行確認を実施し、隔離弁機能に問題がないことが確認されたため、同１７時５分に「運転上の制限」を満足していると判断した。
+]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>53</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3131</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/01 11:32:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200410311258]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[・当該近接コントローラは新品と交換し、その機能の健全性を確認した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/24 09:43:59]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２号機は、平成１６年１０月２９日より原子炉を起動中のところ、平成１６年１０月３１日１２時５８分移動式炉心内計装系（以下、「ＴＩＰ」という。）（注１）チャンネルＣの隔離弁「閉」を示すランプの不点が確認され、手動操作による開閉確認を実施しても状況は変わらず、弁の「閉」状態が確認できないことから、同１３時１９分に、保安規定第４３条で定める「運転上の制限（注２）」を満足していないと判断した。
+　その後、隔離弁「開閉」制御の一部を司る近接コントローラの感度確認／調整、手動操作による隔離弁開閉確認、及びＴＩＰ走行確認を実施し、隔離弁機能に問題がないことが確認されたため、同１７時５分に「運転上の制限」を満足していると判断した。
+　なお、本事象による外部への放射能の影響はなかった。
+
+　その後の調査の結果、近接コントローラの感度調整により隔離弁は正常に機能することが確認されたものの、感度調整値が通常の調整範囲から著しく上昇していることから、本事象は近接コントローラの単品故障に因るものと判断した。
+　そこで念のため、当該コントローラを予備品（新品）と交換し、チャンネルＣの近接コントローラの感度は通常の調整範囲内となり、ＴＩＰ走行確認の結果からも隔離弁機能に問題がないことを確認した。
+　更に，故障原因の究明として当該コントローラの内部調査を実施することとした。
+
+＊１　移動式炉心内計装系
+　原子炉の上下方向の中性子分布を測定する装置で、検出器を炉心内で上下に移動することにより連続で測定できる。また、局部出力領域モニタの校正用としても用いられる。
+
+＊２　運転上の制限
+　保安規定では原子炉の運転に関し、「運転上の制限」や「運転上の制限を満足しない場合に要求される措置」等が定められており、運転上の制限を満足しない場合には、要求される措置に基づき対応することになる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M042]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　本事象の原因は、近接コントローラ内部の検波回路のＩＣ単品の不具合により隔離弁異常に至ったと考えられる。
+　なお、当該近接スイッチは製造者により過去５年間で約５，０００台出荷されているが今回のような故障はこれまで一度も経験していない。更に、当該ＩＣの故障率も１１ＦＩＴと極めて小さいと評価されることから、本事象は近接コントローラ検波回路のＩＣの偶発故障と考える。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[移動式炉心内計装系の弁の不具合に伴う運転上の制限の逸脱について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/12/03 17:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コントローラ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2800</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[核計装系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[124]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2800</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

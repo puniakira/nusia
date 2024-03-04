@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8411</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/09/29 13:29:29]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3580</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/09/04 17:06:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200609041128]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/09/29 13:29:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機（沸騰水型、定格出力110万キロワット）は定格熱出力一定運転中、使用済燃料の構内輸送＊のため、輸送容器を収納する使用済燃料プールのピット内の確認を実施していたところ、本日午前11時28分頃、協力企業作業員が、ピット内でロープらしきものを発見した。その後、午後０時５分までにロープ２本（各々長さ約2.3ｍ、太さ約６mm）を回収した。
+
+　調査の結果、回収した２本のロープは、片側にテープによるほつれ防止が施されていたが、もう一方はほつれており、また、比較的新しいことから、当該ピットにおける至近の作業を確認したところ、ハフニウム板型制御棒の外観点検作業において、固縛などの用途で同一仕様のロープを使用していたことがわかった。当該作業の異物混入防止チェックシートには員数管理上の不整合は生じていなかったが、固縛したロープが濡れた場合などは手で緩めることが困難となるため、回収時に切断することがあり、その際の員数管理方法が明確になっていなかったことがわかった。
+　ロープが当該ピットへ落下した原因は、当該作業においてロープを切断した際、当該ピット周辺に置かれ速やかに回収されなかったため、落下したものと推定した。
+　対策として、ロープのように形状が変化したり切断により数量が変化する物品の搬出入については、チェックシートへの記載方法を改めることとする。また、やむを得ず異物混入防止管理エリア内でロープを切断する場合は、専任監視員が立ち会い、切断したことをチェックシートに記載するとともに、切断したロープを速やかに回収することとする。
+
+＊使用済燃料の構内輸送：原子炉建屋の使用済燃料プールから構内にある使用済燃料共用プールへ、専用の輸送容器を用いて輸送する作業。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機使用済燃料プールでのロープの発見・回収について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/09/05 10:10:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

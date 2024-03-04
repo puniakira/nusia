@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1.状況調査結果
+　HCU02-27およびHCU30-23の101弁の弁箱に水のにじみが確認されたことから、それぞれの弁箱の水がにじんだ箇所（以下、「損傷部」という）について調査を行った。
+
+1-1.HCU02-27からのにじみ発見時の状況（平成20年11月25日）
+(1)にじみ発見時、原子炉は原子炉冷却材圧力バウンダリ漏えい検査のため、原子炉圧力を大気圧より約7.5MPaまで昇圧した状態であり、101弁にも原子炉圧力がかかった状態であった。
+
+(2)HCU周りの現場確認を実施していたところ、HCU02-27の101弁の弁箱に水滴が付着していることを確認した。
+
+(3)付着していた水滴の拭き取りを実施したところ、弁箱表面より新たに水がにじんでくることが確認された。
+
+(4)その後、にじみが確認されたHCU02-27を除いた検査対象物に対して検査を行い検査合格後、原子炉圧力を大気圧まで降圧したところ、にじみが止まったことが確認された。
+
+1-2.HCU30-23からのにじみ発見時の状況（平成20年11月26日）
+(1)にじみ発見時、CRD系機能検査（スクラム検査）のため、原子炉圧力を大気圧より約7.4MPaまで昇圧した状態であり、101弁にも原子炉圧力がかかった状態であった。
+
+(2)原子炉圧力を昇圧後、HCUの現場確認を行ったところ、HCU30-23の101弁の弁箱表面に水がにじんでいることが確認された。
+　なお、HCU02-27およびHCU30-23以外のHCU（95体）について、101弁弁箱とHCUまわりの類似弁の弁箱について、外観目視点検（以下、「VT」という）を行ったところ、弁箱に異常は認められなかった。
+
+(3)その後、大気圧まで降圧したところ、にじみが止まったことが確認された。
+
+2.原因調査結果
+　HCU02-27およびHCU30-23の101弁の弁箱ににじみが発生した原因を究明するため、弁箱をプラントメーカーの工場へ持ち出すとともに、要因分析表に基づき調査を行ったところ、以下のことが確認された。
+(1)材料不良（弁箱）
+a.サンプルによる調査の切断面マクロ観察結果から、HCU02-27およびHCU30-23ともに切断面は鍛造品に特徴的なメタルフローの様相を呈しており、製造方法は型鍛造であることが確認された。
+　また、外観観察結果より、型鍛造により弁箱形状に成型後、内面を機械加工し、外表面にショットブラスト処理等を実施したものと推定された。
+　なお、弁製造方法について調査を行ったところ、弁製造当時の弁納入メーカーの製造方法、製造要領書等は確認できなかった。
+
+b.材料検査証明書（以下、「ミルシート」という）の調査を行ったところ、ミルシートは確認できなかった。また製造時の検査記録類（表面検査記録、体積検査記録等）についても確認できなかった。
+
+c.配管から切り出した弁箱について、顕微鏡、マイクロスコープにて内外表面の外観観察、およびHCU30-23のみ走査型電子顕微鏡（以下、「SEM」という）で観察したところ、HCU02-27およびHCU30-23ともに型割線上の内外表面にきずが確認されたものの、弁箱の肉厚に不均一な部分は認められないことが確認された。
+　また、SEMにてHCU30-23の外表面のきずを観察した結果、めくれて開口している部分があることを確認した。
+　なお、弁箱表面にはショットブラスト処理等により形成されたと考えられる多数のくぼみが確認された。
+
+d.損傷部からサンプルを切り出し、調査した結果、以下のことが確認された。
+(a)化学成分分析を行ったところ、HCU02-27およびHCU30-23ともに材質はSUS-F316相当であることが確認された。
+(b)弁箱切断面のマクロ観察を行ったところ、HCU02-27およびHCU30-23ともに切断面には鍛造品に特徴的なメタルフローの様相を呈しており、メタルフローに沿った方向に伸長した多数の圧着した線状のきずとメタルフローが認められない部分にも空隙状のきずが確認されたことから、材料製造段階で空隙状のきずが材料中に残留したものと推定された。
+　また、メタルフローの流れの方向性から、弁箱を貫通するようなきずが発生するのは、メタルフローの流れが弁箱外面に対して垂直となる型割線上（型鍛造により発生するバリを除去した部分）であることが推定された。
+　以上のことから、材料製造段階より残留していた材料内の空隙状のきずが、メタルフローに沿って型割線上の外面に現れたものと推定された。
+(c)損傷部近傍の硬さをビッカース硬さ測定にて行ったところ、HCU02-27およびHCU30-23ともにビッカース硬さはJIS規格値の範囲内であることが確認された。
+(d)損傷部断面をSEMにてミクロ観察を行い、きず付着物をエネルギー分散型蛍光Ｘ線分析装置（以下、「EDX」という）により化学成分分析を行ったところ、HCU02-27およびHCU30-23ともに外表面にきずが確認され、内表面側から外表面側に進むにつれ、きずの開口幅が徐々に狭くなっており、外表面ではほぼ圧着かつ大きく湾曲していることが確認された。
+　以上のことから、弁箱型割線部の外表面では、材料内に既に存在していたきずが、弁箱型鍛造時のバリ取り時のせん断力により周方向に湾曲したものと推定された。
+　また、きずからは、Ｓｉ、Ｃａ、Ｏ等の非金属介在物が検出された。
+(e)損傷部を半割りとした破面について、SEMにてミクロ観察を行い、付着物のEDXにより化学成分分析を行ったところ、HCU02-27の破面は全体的に黒褐色を、HCU30-23の破面は全体的に赤褐色を呈し、ともに微少な凹凸が確認された。
+　EDX分析により、HCU02-27およびHCU30-23ともにステンレス鋼の主要元素とＯが検出されたことから、弁素材形成過程で生じた空隙が未圧着面として残り、溶鋼時の高温で酸化したものと推定された。
+　なお、疲労破壊および応力腐食割れ（以下、「SCC」）のような経年的進展、または外力によるき裂進展を示すような痕跡は認められなかった。
+　以上のことから、HCU02-27およびHCU30-23ともに疲労破壊およびSCCによりき裂が進展して内表面から外表面に貫通したものではなく、弁の素材形成過程において、ほぼ内表面から外表面まで貫通する空隙が未圧着のまま残留していた素材であったことが推定された。
+
+(2)疲労割れ
+a.高サイクル疲労
+(a)101弁の近傍には、配管振動の原因となるポンプ・流体絞り要素（絞り弁、オリフィス等）は設置されておらず、高サイクル疲労の可能性はないことが分かった。
+(b)HCU30-23のサンプルによる調査の破面観察結果から、疲労破壊に特徴的な痕跡は認められなかった。
+　以上のことから、高サイクル疲労は原因でないことが分かった。
+
+b.低サイクル疲労
+(a)損傷部におけるスクラム時の内圧を調査した結果、内圧はステンレス鋼の設計疲労限以下であることから、低サイクル疲労の可能性がないことが分かった。
+(b)HCU30-23のサンプルによる調査の破面観察結果から、疲労破壊に特徴的な痕跡は認められなかった。
+　以上のことから、低サイクル疲労は原因でないことが分かった。
+
+(3)腐食（全面腐食・孔食）
+a.外観観察の結果、HCU02-27およびHCU30-23ともに弁箱に不均一な部分はなく、また内外表面には腐食に伴う減肉は認められなかった。
+
+b.水質の調査を行ったところ、CRD系の水源は、復水貯蔵タンク又は復水脱塩装置出口より供給されており、腐食を引き起こすような水質は認められなかった。以上のことから、腐食（全面腐食・孔食）は原因でないことが分かった。
+
+(4)SCC
+a.環境
+(a)水質調査結果から、SCCを引き起こすような水質は認められなかった。
+(b)付着塩分量の測定を行ったところ、101弁近傍の付着塩分量は10mgCl/m^2以下であり、塩分濃度管理値（70mgCl/m^2）以下であり、現在は塩害環境にないことが確認された。
+(c)第6回定検にHCU近傍の配管表面から塩分濃度管理値を越える箇所が確認されたことがあった。
+　また、表面にわずかな錆が確認された。
+
+b.材料
+(a)HCU30-23のサンプルによる調査の破面観察結果から、SCCによる痕跡は認められなかった。
+(b)電気化学的活性化法（以下、「EPR法」という）により溶接部近傍の鋭敏化測定を行ったところ、損傷部に溶接熱影響による鋭敏化は認められなかった。
+
+c.応力（残留応力）
+　モックアップ試験により弁箱と配管ソケット溶接部の溶接熱による残留応力の調査を行ったところ、損傷部の表面の周方向応力が100MPaを越え、SCCが発生する条件（100MPa以上）であることが確認された。
+
+　以上のことから、SCCにかかわる「ｂ．材料」の発生要因がないことを確認した。SCCは「ａ．環境」「ｂ．材料」「ｃ．応力」の３つの要因が重複した場合に発生するものであるため、SCCは原因でないことが分かった。
+
+(5)過大応力
+a.過大内圧
+(a)損傷部におけるスクラム時の内圧は、当該弁の設計上の最高使用圧力に包絡されていることから、過大内圧が加わっていないことが確認された。
+(b)HCU30-23のサンプルによる調査の破面観察結果から、延性破壊時に特徴的な痕跡は認められなかったことから、過大内圧によるき裂進展がないことが確認された。
+　以上のことから、過大内圧は原因でないことが分かった。
+
+b.過大外力
+(a)弁切断前後における変位はごく僅かであり、過大外力が加わっていないことが確認された。
+(b)HCU30-23のサンプルによる調査の破面観察結果から、延性破壊時に特徴的な痕跡は認められなかったことから、過大外圧によるき裂進展がないことが確認された。
+　以上のことから、過大外力は原因でないことが分かった。
+
+3.材料欠陥の原因調査結果
+　要因分析表に基づき調査を実施した結果、HCU02-27およびHCU30-23の101弁の弁箱ににじみが発生した原因は、材料欠陥によるものと推定されたことから、素材製造方法と弁製造方法について詳細調査を行った。
+(1)弁箱素材製造に関する調査
+a.弁製造当時の弁納入メーカーの製造方法、製造要領書等は確認できなかったが、当該弁の弁箱は建設時から変更はないため、建設時期（1号機の運転開始は1971年）から1960年代に製造されたものと推定された。
+
+b.1960年代の一般的な製造方法について文献調査を行ったところ、鉄鉱石等の原料を電気炉で熔解して溶鋼とした後、溶けた金属を鋼塊に造塊し、さらに鍛造または圧延して棒状または板状の棒鋼にしていたものと推定された。
+　なお、1960年代後半から1970年代前半にかけ、製鋼における脱ガス・精錬プロセスが急速な発展を遂げている時代背景があり、酸素をＡｒなどの不活性ガスで希釈して脱炭する製法（AOD法；アルゴン・酸素脱炭法）などが開発されたことにより、不純物除去効率や脱ガス効率が向上しているが、1960年代の製法では不純物や内在するガスによる空隙が残存する可能性は高かったものと推定された。
+
+(2)弁製造方法に関する調査
+　プラントメーカーへの聞き取り調査を実施したところ、弁箱製造当時の弁箱製造メーカーの製造方法は確認できなかったが、弁箱切断面のマクロ観察結果より製造方法は鍛造（型鍛造）であり、弁箱素材を型鍛造により弁箱形状に成型後、内面の機械加工と外表面にショットブラスト処理等の機械加工を実施していたとの証言を得た。
+　弁箱切断面のマクロ観察結果より、当該弁箱については、素材型鍛造の段階で内在していた材料内の空隙がメタルフローに沿って伸長し、外表面まで達するとともに、内面の機械加工により内表面と外表面をほぼ貫通する欠陥となったものと推定された。
+
+　以上のことから、弁の素材の形成過程において、ほぼ内表面から外表面まで貫通した空隙が未圧着のまま弁の素材に内在していたため、弁箱成型時の型鍛造によるメタルフローに沿って弁外表面の型割線上に貫通部が現れたが、後工程の弁表面機械加工時に貫通部が押し潰されたことにより、外表面近傍の貫通部が大きく湾曲し、圧着した状態になっていたものと推定された。
+　なお、当該弁に確認されたきずは、弁箱の構造健全性に影響を及ぼすものではないことを確認した。
+
+4.にじみ発生の原因調査
+　損傷部からのにじみ発生の原因を調査するため、以下の調査を行った。
+(1)モックアップ試験体による再現性試験事象が発見された際、原子炉圧力を昇圧した後ににじみが確認され、降圧により、にじみが止まったことから、モックアップにより再現試験を行った。
+　モックアップにより挙動を確認したところ、圧力が高くなるとにじみが発生し、圧力を下げるとにじみが止まることが再現された。
+　以上のことから、にじみ箇所は圧力が低い場合には、きずが閉じた状態となりにじみが発生しないが、圧力が高い場合には、外表面近傍のきずが広がりにじみが発生するものと推定された。
+
+(2)損傷部の圧着したきずがめくれて開口した原因に関する調査
+　外観観察の結果、HCU30-23の損傷部の圧着したきずがめくれて開口していたことから、その原因について調査を行った。
+a.第23回定期検査において、原子炉冷却材圧力バウンダリ漏えい検査後（平成16年1月29日～2月28日）に、平成14年8月22日に当所3号機で発生したCRD系配管のSCCによるトラブルの水平展開の点検に合わせ、変色が見られる弁外面の手入れのため、HCUの弁に対してナイロンたわし等にて弁の外表面を磨いていることが確認された。
+
+b.ナイロンたわし等による外表面の磨きの影響を評価するため、ナイロンたわし等にて弁の外表面を磨いた場合に、外表面の圧着したきずがめくれるといった外表面の状態変化が起こるか、モックアップにより再現試験を行った。モックアップ試験体の外表面をナイロンたわしで磨き、その外表面をSEMにて確認したところ、圧着したきずがめくれることが再現された。
+
+(3)定期検査時の昇圧履歴調査結果
+　弁箱からのにじみが、原子炉圧力を昇圧した際に確認され、降圧によりにじみが止まったことから、当該弁における過去の昇圧履歴について調査を行った
+a.今定期検査（第25回）では、第24回定期検査に比べ、圧力を高めにコントロールしていることが分かった。
+
+b.この理由を調査した結果、圧力変動幅が大きかったため、検査条件圧力を下回らないよう、第24回定期検査よりも高めに圧力をコントロールしていたことがわかった。
+
+　以上のことから、第23回定期検査時に実施した弁箱表面の手入れが、外表面に変化を加え、ショットブラスト処理等の機械加工により圧着した状態となっていた外表面近傍のきずが、めくれて開口するなど、従前よりにじみやすくなったものと推定された。
+
+　なお、第23回定期検査以降は、にじみが発生する状態であったと考えられるものの、第24回定期検査では、今定期検査（第25回）での原子炉圧力と比べ、検査時の圧力が低かったため、にじみが認められなかったが、今回の検査時に昇圧した際、HCU02-27および30-23のにじみが確認されたものと推定された。
+
+5.弁箱にじみの発生メカニズム
+　弁箱のにじみは以下のメカニズムにより発生したものと推定された。
+(1)弁箱材料製造時、内表面から外表面までわたる空隙が鍛造によって押し潰された状態で内在し、弁箱成型時の型鍛造によるメタルフローに沿って弁の外表面の型割線上にきずの開口部が現れた。
+
+(2)その後の工程において、バリ取りのための機械加工時に外表面近傍が大きく湾曲し、ショットブラスト処理等の機械加工により圧着した状態になっていた。
+
+(3)当該弁は内表面から外表面までわたるきずがあったものの、外表面近傍が圧着した状態で、HCUに据付けられていた。
+
+(4)第23回定期検査の原子炉冷却材圧力バウンダリ漏えい検査後に、弁の外面手入れのためにナイロンたわし等で弁の外面を磨いたことにより、外表面近傍の圧着したきずがめくれて開口するなど、きず外表面の状態が変化した。
+
+(5)第24回定期検査の原子炉冷却材圧力バウンダリ漏えい検査は、今回の検査に比べて原子炉圧力が低かったため、にじみは確認されなかった。今定期検査（第25回）において、原子炉圧力を約7.4～7.5MPaに昇圧した際に、にじみが確認された。
+
+　なお、平成20年11月25日に行われた原子炉冷却材圧力バウンダリ漏えい検査において、26日ににじみが発見されたHCU30-23については、にじみがないことを確認している。
+　しかしながら、にじみが確認された弁箱からのにじみの量はごく僅かであること、さらに、漏えい確認を実施する際には弁箱よりも、漏えいが発生し易い部位である弁のグランド部、弁のフランジ部、配管との溶接線部を意識的に確認すること等から、平成20年11月25日の検査時にはHCU30-23にごく微量のにじみがあった可能性は否定できない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10077</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/06/05 13:37:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4361</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/11/26 17:39:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200811261400]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　にじみが発生した2台の弁箱については新規弁箱に取替を行い、取り付け後の溶接検査に伴う耐圧漏えい検査（最大約8.2MPa）により、当該弁に問題のないことを確認した。
+　また、当該弁以外の101弁（制御棒挿入ライン元弁）および全ての102弁（制御棒引抜ライン元弁）についても、にじみの発生した弁箱の型割線に着目した漏えい確認を実施し、にじみ等の漏えいが発生していないことを確認した。
+　さらに、念のため、当該弁以外の101弁および全ての102弁について放射線透過試験を実施した結果、十分に肉厚が確保され、検出可能な欠陥がないことから、構造強度に影響を与える欠陥がないことを確認した。
+　なお、当該号機におけるこれらの弁は、今後、計画的に取替を行うこととし、取替を実施するまでは、原子炉冷却材圧力バウンダリ漏えい検査において、当該検査要領書のチェックシートに型割線上に注意して漏えい確認を実施する旨を追記し、検査に万全を期す。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/06/05 13:37:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の１号機において、11月25日午後７時頃、原子炉圧力容器等の漏えい検査（原子炉冷却材圧力バウンダリ漏えい検査）を実施していたところ、当社社員が制御棒駆動水圧系の弁の弁箱表面に水がにじんでいること（２、３秒でにじむ程度）を確認した。
+　11月26日午前10時30分頃、制御棒駆動水圧系機能検査の準備のため、原子炉圧力を上昇させ、現場確認を行ったところ、別の制御棒駆動水圧系の弁の弁箱表面より水のにじみがあることを当社社員が確認した。
+　なお、制御棒は全挿入状態にあり、原子炉の安全性に問題はなく、にじんだ水についても分析した結果、放射能は確認されず、本事象による外部への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-T029]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査の結果、弁箱の製造の過程において、内表面から外表面までわたるきずが弁の型割線上に存在しており、後工程の弁表面機械加工時に型割線上の開口部が押し潰されたことにより、外表面近傍が圧着していた状態になっていたものと推定された。
+　にじみの確認された今定期検査（第25回）までの運転中や定検毎の検査等において、にじみが確認されていないことから、第23回定期検査時にナイロンたわし等により外表面を磨いたことにより、外表面の圧着したきずがめくれて開口するなど、きず外表面の状態が変化したものと推定された。
+　今定期検査に原子炉圧力を約7.4～7.5MPaに昇圧した際に、外表面のきずが開口し、HCU02-27およびHCU30-23の型割線上ににじみが発生したものと推定された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[定期検査中の福島第一原子力発電所１号機における制御棒駆動水圧系の弁の弁箱からの水のにじみの発見について
+]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[当社が判断した時刻]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/11/27 21:34:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[3]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10077</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

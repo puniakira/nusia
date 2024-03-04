@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13246</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/05/17 11:51:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>97703</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/05/17 11:50:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202012041105]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○2020年12月4日午前11時5分頃、6号機廃棄物処理建屋大物搬入口前において、ケーブル洞道内に設置されていた仮設ポンプの電源ケーブルを、誤ってコンセントに差し込み、稼働させたことに伴い、ケーブル洞道内に溜まっていた水が、6号機廃棄物処理建屋大物搬入口前のコンクリート面に漏えいしたことを、協企業作業員が確認。
+○漏えいを確認後、誤って差し込んだ電源ケーブルを直ちに引き抜き、漏えいが停止したことを確認。
+〇漏えい範囲は約3ｍ×約8ｍ、深さ約1～2mmと推定しており、漏えい量は約20～40リットルと推定。
+○漏えいした水は、6号機廃棄物処理建屋大物搬入口前のコンクリート面、および、一部の水が側溝に流れた。コンクリート面に流れた水は回収済みであり、また、側溝に流れた水については、側溝内に留まっていることを確認。
+なお、念のため、側溝内に土のうを設置し、水が流れない対策を講じている。
+○敷地境界モニタリングポストや連続ダストモニタに有意な変動がないことを確認。
+〇ケーブル洞道内を照らすための仮設照明を点灯するため、本来、仮設照明の電源ケーブルをコンセントに差し込むところ、誤って、ケーブル洞道内に設置されていた仮設ポンプの電源ケーブルをコンセントに差し込んだことにより、水が漏えいしたことが原因であり、今後、仮設ポンプの電源ケーブルを、誤ってコンセントに差し込んだ原因について深掘りし、適切に再発防止対策を講じる。
+〇漏えいした水の放射能分析結果は以下のとおり。
+　　　 ・セシウム134 ：検出限界値未満（検出限界値：7.6×10-1Bq/L）
+　　　 ・セシウム137 ：4.1×100Bq/L
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東京-S040]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[6号機廃棄物処理建屋大物搬入口前における水の漏えい事象]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/05/17 11:51:13]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

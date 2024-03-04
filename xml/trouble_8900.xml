@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8900</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/12 13:52:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3821</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/07 20:45:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[19960424]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備についてデータ改ざん、必要な手続きの不備、その他同様な問題がないかを評価するための調査の中で、以下の事象が確認された。
+  平成８年１２月２４日に巡視により化学体積制御系（ＣＶＣＳ）配管からの漏えいを発見し、原子炉を手動停止して修理している。
+　しかし実際には、平成８年４月２４日の格納容器内巡視において配管鉛遮へい上部より微少な蒸気漏えいが確認されていた。
+　漏えいについて所長を含む所幹部で協議が行なわれ、微少な漏えいであり、格納容器ガスモニタの値など関連パラメータに有意な変化は現れていないために、対外報告は行われなかった。
+　また、その後も関連パラメータに変動は無く安定していたことから、運転が継続された。
+　平成８年１２月中旬、プラントパラメータは安定していたものの、漏えい量にわずかな増加傾向が見られたため、この状況を本店に報告したところ、停止して修理すべきとの方針が示されことから、発電所は平成８年１２月２４日に特別巡視点検において漏えいを発見したこととして、通報連絡を行い原子炉を停止した。
+　当該配管はその後の工事で新品に取替えられており、また、通報連絡三原則の徹底により現在このような問題はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1996-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[化学体積制御系配管からの一次冷却材の微少漏えい事象発生時期の隠ぺい]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 13:52:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

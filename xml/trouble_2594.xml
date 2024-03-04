@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2594</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/10/29 13:45:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3034</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/10/26 19:41:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20040907]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[  美浜3号機の2次系配管破損事故に係る点検を終え、プラントを起動して発電を再開し、定格熱出力一定運転中のところ、復水流量の周期的な変動が認められ、詳細点検を実施していたところ、脱気器水位制御弁のポジショナー出口圧力が通常値（約４００～５６０ｋPa）と比較して低い（１１０～２３０ｋPa）ことを確認しました。また復水流量の周期的な変動に伴い、発電機出力も若干変動していましたが、プラントの運転に直ちに支障のあるものではありませんでした。　当該制御弁を隔離し、調査を行った結果、脱気器水位制御弁ポジショナー＊１パイロットリレーのノズルと抵触するフラッパー＊２に当たり傷が確認されました。
+　推定原因として、
+・ プラント点検停止に伴い復水系統の低流量運転状態が続き、当該制御弁の開度が小さかったため、流体による配管振動により、ノズルとフラッパーが接触し、フラッパーに当たり傷が発生したものと推定されました。
+・ フラッパーにノズルとの当たり傷が確認されたことから、ノズルがフラッパーに強く当たることにより、平らなフラッパーがわずかに反り返ったために、ノズルから放出される空気量が増え、水位制御弁をコントロールするために必要な空気圧（ポジショナー出口圧力）が低くなり、当該制御弁の制御性が低下したことで、弁の動作幅が大きくなり、復水流量の変動が起こったものと推定されました。
+　対策として、当該水位制御弁ポジショナーのパイロットリレーおよびフラッパーを予備品と取り替え、健全性を確認後、通常状態に復帰させました。
+ ＊１ ポジショナー：制御弁の開度信号と弁の開度を比較し、制御弁の開度信号に応じた弁の開度を正確に維持するための装置。
+ ＊２ フラッパー：パイロットリレーのノズルから放出される空気量を調整する板バネ。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[脱気器水位制御弁の不調について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/10/29 13:45:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

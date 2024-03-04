@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3191</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/17 17:30:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3280</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/15 16:46:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200508121045]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/08/17 17:30:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[当所１号機は平成17年８月12日から点検停止中だが、同日午前10時27分、タービン建屋補機冷却水系＊１の冷却水タンクの水位低下を示す警報が発生した。現場を確認したところ、午前10時45分、タービン建屋地下１階の主油タンク＊２室内にある油冷却器＊３の冷却水配管に取り付けられたフローグラス＊４付近から非放射性の水（純水）が漏れていることを確認した。
+ただちに、当該油冷却器を隔離したことにより、水漏れは停止した。
+調査の結果、当該フローグラスの取り付け部のパッキン＊５が破損していることが確認された。
+このため、破損したパッキンを新品に交換する。また、当該パッキンの交換頻度が定められていなかったことから、今後、交換頻度について定めることとする。
+なお、漏れた水の量は約3.4立方メートルで、回収・清掃した。
+これによる外部への放射能の影響はなかった。
+
+＊１　タービン建屋補機冷却水系
+　　　　タービン建屋内にあるポンプ軸受や熱交換器などの冷却用の水（純水）を循環させる系統。
+＊２　主油タンク
+　　　　主タービンの軸受等の潤滑のための油を供給するタンク。
+＊３　油冷却器
+　　　　主油タンクの油を冷却する装置。
+＊４　フローグラス
+　　　　配管内の流体の流れを確認するための窓。
+＊５　パッキン
+　　　　・材質：ゴム
+　　　　・大きさ：外径約26cm、内径約23cm、厚さ約５mm
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１号機タービン建屋内における非放射性の水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/16 11:45:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13368</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/10/26 10:08:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>102333</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/09/21 15:15:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20210907]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/10/26 10:08:38]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2021年9月7日17時15分頃、定期検査中の浜岡原子力発電所3号機 原子炉建屋2階（放射線管理区域内）において、放射性物質を含んだ水が約4リットル漏えいした。
+　当日、原子炉ウェル（注1）の除染（注2）作業に使用した洗浄水を液体廃棄物処理系に排水するにあたり、排水系配管から分岐した排水枡からの溢水を防止するため、燃料プール冷却材浄化系熱交換器（A）室に設置されている排水枡に閉止栓を取り付けていた。
+　除染作業終了に伴い、当該排水枡の閉止栓を取外したところ、分岐した配管に溜まった水が排水枡から漏えいした。
+　また、閉止栓の取外し作業を行った当社社員が漏えい水に被水したため、身体の表面汚染密度を測定し、汚染がないことを確認している。
+　なお、配管に溜まった水が抜けたことにより漏えいは止まっている。
+
+　本事象に至った時系列と問題点を以下のとおり整理した。
+＜時系列＞
+・原子炉ウェルの除染作業に使用した洗浄水は、通常復水器に排水しているが、復水器が点検中であったことから、洗浄水を液体廃棄物処理系へ排水する計画とした。
+・作業計画段階で、洗浄水を液体廃棄物処理系に排水するにあたっては、排水系配管から分岐した配管に接続される排水枡から溢水する可能性があったため、排水枡と配管の接合部に閉止栓を取り付けることとした。また、現場で配管の敷設状況を確認したところ、配管内部に水が溜まる範囲は、排水枡から燃料プール冷却浄化系熱交換器（A）室の天井付近（約3.4ｍ）までと判断し、慎重に閉止栓を取り外せば問題なく排水できると考え、排水機能が付いていない閉止栓（添付資料 運転情報（2021.10.15）図3参照）を選定した。
+・実際には液体廃棄物処理系へ繋がる排水系配管は立ち上がっていたため、想定した範囲以上に洗浄水が残っており、閉止栓に高い圧力がかかっていた。（添付資料 運転情報（2021.10.15）図2参照）
+・除染作業終了後、この状態で閉止栓を取り外したところ、閉止栓の構造上、排水量の調整ができなかった（添付資料 運転情報（2021.10.15）図3参照）ため、想定以上の水の勢いにより周囲に飛散し、閉止栓の取り外し作業を行っていた当社社員の被水に至った。
+・被水した当社社員は、当日のうちに身体の表面汚染密度を測定し、汚染がないことを確認している。
+
+＜問題点＞
+作業計画段階で以下の問題点があった。
+①配管内部の残水量を正確に把握できていなかったこと。
+②適切な閉止栓を選定していなかったこと。
+
+　問題点より、以下のとおり原因を分析するとともに、原因に対する対策を立案した。
+＜原因＞
+①現場や配管の高さ関係を示した図面を確認しなかったため、配管内部に想定以上の残水があることに気付けなかった。また、この確認行為を作業手順に定めるよう社内規程に定めていなかった。
+②排水枡からの溢水防止を考えるにあたり、排水時の漏えいリスクを過小評価していたことにより、排水量を調整できる閉止栓（添付資料 運転情報（2021.10.15）図4参照）を使用することまで思いが至っていなかった。また、慎重に閉止栓を取り外せば問題なく排水できると考え、被水を想定した飛散防止措置まで思いが至らなかった。
+
+＜対策＞
+①閉止栓取り付け箇所で残水の排水作業を行う場合は、作業計画段階で、現場や配管の高さ関係を示した図面を確認し、配管内部の残水範囲および残水量を把握する。これを確実なものとするため、同様な作業を実施する際には、配管内部の残水範囲および残水量を把握する確認行為を作業手順に定めることを社内規程に定める。
+②閉止栓を設置することにより、配管内に残水が想定される場合は、排水量を調整できる閉止栓を使用することを社内規程に定める。また、放射性物質を含む水の飛散リスクがある場合は、ビニールシートなどによる飛散防止措置を確実に実施することを社内規程に定める。
+
+今後、再発防止に努めていく。
+
+注1　原子炉ウェルとは、原子炉上部にある空間で、燃料交換時に使用済燃料プール水面と同一レベルに水を張り、原子炉圧力容器と使用済燃料プール間で燃料などの水中移送用のために使用する。
+注2　除染とは、作業員の被ばく低減および汚染拡大防止のため、機器や構造物に付着した放射性物質を取り除くことをいう。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-中部-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋2階における水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/09/21 15:15:49]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

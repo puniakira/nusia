@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．受電盤及び周辺電気設備の状況調査
+　　以下の状況より、設備の不良により事故が発生したとは考えられない。
+　　・引出して別の場所に置いてあった受電遮断器の主回路端子等に破損、変形、部品の脱落等は確認されなかった。
+　　・受電盤遮断器室内の主回路端子１次側は溶損しているが、主回路端子が取付けられている箇所の形状に変形、欠損はなく、また、Ｒ、Ｔ相の残留端子も傾き等の変形は見られなかった。
+　　・動力変圧器及びケーブルは、アーク溶融の痕跡等もなく、損傷も見受けられなかった。
+２．工具・計器類の確認
+　　当該作業に使用した工具・計器類（接地器具、検電器、絶縁抵抗測定器）は、使用前の点検により健全性確認を実施していた。
+３．力量評価及び業務経歴の確認
+　　運転員、保修員及び作業員の力量及び業務経歴は、必要な力量を有しているとともに、経験不足はなかった。
+４．作業要領書読み合わせの内容確認
+　　保修員、作業員で実施する作業要領書読み合わせは、隔離の方法が決定される約１ヶ月前に実施しており、工事施工範囲、工期・工程、作業管理及び安全管理等について確認が行われていた。
+５．作業前の注意事項周知徹底の内容確認
+　　作業員から保修員へ当日の作業前に提出される作業指示書の内容は、一般的な記載のみであった。
+　　また、作業前日に作業員が実施した特定危険作業事前検討会や、作業当日のＲＫＹ（リスクアセスメント・危険予防）活動の内容は、記録では検電の重要性などの一般的な確認は行われていた。
+６．３－１Ｂ２母線停電作業の準備から実施までの状況調査
+　　停電作業の準備から実施までの各ステップにおける状況について、書類の作成・確認・承認・提出は規定どおり実施されており、必要な打合せも実施されていた。また、聞き取りによると、作業員は、接地器具取付けを充電部近接作業として計画されていたことを知らなかった。（作業員（被災者Ａ）が、知っていたかは不明。）
+　　ただし、以下について詳細は確認できなかった。
+　　・保修課より発電課へ、接地器具取付作業時に２点切りによる隔離を行うことの要求を行ったか。
+　　・接地器具をどのタイミングで取付けるか、どこに取付けるかの調整が行われていたか。
+　　・発電課が説明した隔離範囲・手順を保修課が認識していたか。
+　　・作業前に、保修員より作業員（被災者Ａ）へ、充電部近接作業であることを伝えていたか。
+７．あせり、不安の有無確認
+　　作業員（被災者Ａ）の当日のあせり、不安はなかったと推定される。
+８．疲労、ストレスの有無確認
+　　作業員（被災者Ａ）の作業前の疲労やストレスと思われる状況にはなかったと推定される。
+９．運転員が使用する操作伝票（隔離）の確認
+　・規定文書に基づき作成され、承認されたものを使用していた。
+　・計画されていた隔離操作手順は、接地器具取付け前に、取付け部分（２次側）を隔離する手順であった。
+　・接地器具取付け前に上流側遮断器（メタクラ遮断器）を切ることになっておらず、近接した主回路端子１次側は充電した状態で、２次側に接地器具を取付けることになっていた。
+　・通常は、１つの操作伝票（隔離）でパワーセンタとその上流のメタクラを停電した後に接地器具を取付ける手順としているが、２号機第１８回定期検査（平成２１年）では、メタクラの遮断器取替工事を伴う場合にはメタクラとパワーセンタの停止期間が異なることから、分割した操作伝票（隔離）でメタクラとパワーセンタを個々に停電し接地器具を取付ける手順としていた。この際、パワーセンタのみを停電し、メタクラが充電された状態で接地器具を取付ける手順となり、充電部近接作業が行われるようになった。このような手順での接地器具取付作業は、今回が２回目であった。ただし、当時の担当者への聞き取り結果によれば、２号機第１８回定期検査では、メタクラとパワーセンタを停電した後で、接地器具を取付けた可能性もある。
+10．保修員及び作業員が使用する作業要領書の確認
+　・規定文書に基づき作成され、承認されていた。
+　・計画されていた作業要領は、隔離されている主回路端子２次側へ接地器具を取付ける手順としているとともに、取付け前に、取付け部分（２次側）を絶縁手袋を着用し検電する手順としていた。
+　・一般的な注意事項として、充電部へ養生することとしていた。
+　・接地器具の取付け対象ではないが、近接している主回路端子１次側の検電を行うことの記載がなかった。
+　・当該受電盤遮断器室の主回路端子の配置が記載されていなかった。（受電遮断器の構造は、他の遮断器と異なっている。）
+11．操作伝票（隔離）の遵守状況の確認
+　　隔離作業開始から接地器具取付作業の前までの操作は確実に実施されており、主回路端子２次側は停電していた。
+12．作業要領書の遵守状況の確認
+　　絶縁手袋の着用、検電、絶縁抵抗測定、充電部の養生実施の有無は、確認できなかった。
+13．計器の使用状況確認
+　　当該作業に使用した計器（検電器及び絶縁抵抗測定器）の使用方法に問題がなかったは、確認できなかった。
+14．作業環境の確認
+　　作業スペースや明るさに問題はなく、関係者間の連絡を妨げるような騒音もなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[４６日間の停止期間延長]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10865</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2015/03/04 15:48:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[2]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[なし]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>52319</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/03/05 10:42:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001290707]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　推定原因を踏まえた対策として、以下の対応を実施する。なお、対策については、聞き取り等調査ができていない部分もあるため、可能性がある項目についてはすべて対策を行う。
+（１）手順、注意事項等の明確化
+　　ａ．規定文書への明確化
+　　(ａ)保修課は、作業連絡メモに作業ステップ毎に安全上必要な停電範囲（接地器具取付けステップでの接地器具取付け部位含む）を記載し、発電課へ隔離条件として提示することを規定文書に定める。
+　　(ｂ)発電課は、保修課が提示した隔離条件が確実に隔離範囲に含まれるよう隔離条件、範囲、手順等について保修課と調整を行い、お互いの認識を確実にすることを規定文書に定める。
+
+　　　　上記の対策に加えて以下の仕組みを規定文書に定める。
+
+　　(ｃ)母線停電作業において、設備構成上可能な部分については、２点切りにより隔離する。
+　　　　やむを得ず２点切りにより隔離できない場合は、必要な安全上の処置※１を定めて、発電課長、保修課長の確認後、電気主任技術者の承認を得る。
+　　　　※１　必要な安全上の処置には、以下の事項を必ず含めることとする。
+　　　　　　　　・充電部の識別を行うこと
+　　　　　　　　・施錠管理を行うこと
+　　　　　　　　・遮断器等について、機械的かつ電気的に投入できないような処置を施すこと
+　　(ｄ)充電部近接作業を原則禁止する。
+　　　　充電部近接作業を実施する場合は、必要な安全上の処置※２を定めて、保修課長の承認を得る。
+　　　　なお、充電部の電圧が４４０Ｖ以上の作業の場合は、保修課長の確認後、電気主任技術者の承認を得る。
+　　　　※２　必要な安全上の処置には、以下の事項を必ず含めることとする。
+　　　　　　　　・作業員へ充電部を通知すること
+　　　　　　　　・充電部を確実に検出する手順に関すること
+　　　　　　　　・充電部を覆う保護カバー等の養生を行う手順、適切な保護具又は工具の使用に関すること
+　　　　　　　　・充電範囲の識別を行うこと
+　　ｂ．作業要領書への反映
+　　　　作業要領書へ以下の内容を反映する。
+　　(ａ)作業直前の作業指示書受け渡し時に、保修員は作業員へ隔離範囲・手順を説明した上で、充電部近接作業の有無を相互確認する手順とする。
+　　(ｂ)保修員及び作業員は、要求した隔離が行われていることを作業開始前に現場で確認する手順とする。
+　　(ｃ)主回路端子部を検電する場合には、主回路端子の１次側、２次側両方を検電する手順とする。
+　　(ｄ)検電により想定外の充電部が検出された場合には、作業を中断し、保修員に連絡し、連絡を受けた保修員は、隔離状態を確認し必要な処置を取る手順とする。
+　　(ｅ)充電部近接作業がある場合は、充電部を覆う保護カバーを取付ける等の必要な安全上の処置を行う手順とする。
+　　(ｆ)接地器具の取付けは、接地器具取付け箇所への検電が行なわれ充電部でないことを確認した後、実施する手順とする。
+　　(ｇ)接地器具取付け箇所を図により明示する。
+　　ｃ．識別
+　　(ａ)遮断器盤内に主回路端子の１次側、２次側を明示する表示を取付ける。
+
+（２）周知・教育
+　　ａ．今回の事故の原因及び対策について、関係者に周知を行う。
+　　ｂ．検電の目的や重要性及び適切な検電、絶縁抵抗測定の方法について、関係者への教育を実施する。
+　　ｃ．ＲＫＹ（リスクアセスメント・危険予防）活動などの危険予知活動が形骸化しないよう、速やかに教育を行うとともに、定期的に行う品質管理及び安全作業教育で継続的に教育を行う。また、安全品質パトロールなどを通じて実際の危険予知活動の実施状況を確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/03/04 15:48:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　川内原子力発電所１号機は、第２０回定期検査中のところ、所内電源設備の点検のため、３－１Ｂ２母線を停電後、接地器具取付作業中に作業員７名が熱傷を負った。また、火災が発生したため、現場作業員が初期消火活動を行い、７時２０分に専属消防隊の消火確認、７時５０分に消防署の鎮火確認が行われた。
+　作業員３名は、救急車で搬送され、病院にて治療を行ったが、熱傷の症状が重く、入院治療を行うこととなった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-九州-T003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　計画されていた隔離・作業手順は、受電盤遮断器室内での接地器具取付け前に、取付け部分である主回路端子２次側を隔離し、検電する手順であったが、接地器具取付作業が充電されている１次側の近接部において行われたという状況に加え、以下に示す１つ又は複数の要因が重なったことにより１次側を短絡したものと推定される。
+　なお、以下に示す要因は、聞き取り等調査ができていない部分もあるため、調査した事実から可能性を否定できないものも含んでいる。
+（１）管理面
+　　ａ．メタクラ遮断器の取替を伴う２号機第１８回定期検査（平成２１年）及び今回の作業では、通常と異なる充電部近接作業を伴う隔離操作が行われているが、いずれも発電課と保修課の事前調整において、作業のための隔離条件、隔離範囲、隔離手順（接地器具取付け時に、主回路端子１次側が充電されている状態）について、認識合せが不十分であった。
+　　ｂ．作業前、保修員から作業員に充電部近接作業であることが伝えられなかった。
+　　ｃ．ＲＫＹ（リスクアセスメント・危険予防）活動などの危険予知活動が形骸化していた。
+（２）作業面
+　　ａ．検電・絶縁抵抗測定を実施しなかった、あるいは、検電・絶縁抵抗測定を実施したがその方法が適切でなかったことにより、主回路端子１次側が充電していることに気付かなかった。
+　　ｂ．充電されている主回路端子１次側への養生がされていなかった。
+　　ｃ．主回路端子の１次側と２次側を間違えた。
+　　ｄ．接地器具を取付ける作業を行う際、バランスを崩す等の状態になり、偶発的に主回路端子１次側に接触させた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[所内電源設備点検作業中の人身事故について]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[燃料取出後（モード外）]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>52317</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/03/05 17:24:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[川内]]></PLANT_RYAKU_NAME>
+		<SORT_NO>15</SORT_NO>
+		<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[川内発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10865</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[024]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[遮断器・断路器]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>17</SORT_NO>
+						<BUHIN_CODE><![CDATA[024]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[242]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[Ｐ／Ｃ遮断器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[261]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[261]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[不明]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[調査しても原因が明らかでないもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1700]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[不明]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[170]]></GENIN_DAI_CODE>
+					<SORT_NO>8</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[1]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10865</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

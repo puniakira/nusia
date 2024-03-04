@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11153</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/12/16 23:39:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>20059</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/11/10 17:54:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201011091555]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/12/16 23:39:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　定格熱出力一定運転中の１号機において、原子炉建屋地下４階の原子炉冷却材浄化系ポンプ（Ｂ）室（管理区域）で、配管への水張り作業を行っていたところ、水張り時に使用する空気抜き用配管につながる排水口から水（一部蒸気化）が漏れ出て、ポンプ室に漏えいした。
+　その後、配管への水張り作業のために開いていた空気抜き用配管の弁を閉めたことにより、水漏れは停止した。
+今回の事象により、漏れ出た水（一部蒸気化）が再び凝縮し、ポンプ室床面に溜まったが、水は漏えいの拡大を防止するための堰内にとどまっており、堰内の床面に溜まっていた水の量は約９リットル、放射能量は約1.1×10７ベクレルだった。
+床面に漏れた水については、同日、拭き取りによる清掃を実施している。（公表区分Ⅲ：平成22年11月10日お知らせ済み）
+
+　今回の水漏れ事象が発生した際に、排気筒モニタに変動がないこと、発電所敷地境界に設置され空間線量率を測定するモニタリングポストやダスト放射線モニタの指示値に有意な変動がなく、環境への影響がないことを確認しているが、その後、今回の水漏れによる影響を確認するため、排気筒モニタのサンプリングラインに設置している放射性物質を捕集するためのフィルタについて、通常は１週間に１回測定を行うところ、今回速やかにフィルタを回収し測定を行った。
+
+（安全性、外部への影響）
+　測定の結果、放射性のよう素や粒子状物質は検出されたが、放射性のよう素を捕集するフィルタの測定において、ごく微量のヒ素76が検出（検出限界値1.6×10-8ベクレル／cm3に対し、測定値1.9×10-8ベクレル／cm3）された。
+　ヒ素76は半減期が1.1日と短いため、周辺環境における線量への影響も小さく、今回検出された放射能濃度をもとに線量評価を行った結果は約９×10-11ミリシーベルトである。これは、自然界から１年間に受ける放射線量2.4ミリシーベルトと比べても十分低い値であり、胸のエックス線検診（１回）で受ける放射線量（0.05ミリシーベルト）の約５億分の１である。
+
+（対応状況）
+　漏えい原因の調査行った結果、手順書には、通常時は水張りのための系統の水圧が原子炉内の圧力よりも高いことから、水が漏れた排水口につながる空気抜き用配管の弁を全閉にしない状態で、原子炉と原子炉冷却材浄化系ポンプをつなぐ配管の弁を開く手順となっていたことがわかった。
+　運転員の水張り作業は定められた手順書どおりに行われていたが、原子炉と原子炉冷却材浄化系ポンプをつなぐ配管の弁を開いた際、空気抜き用配管の弁が全閉になっていなかったため、配管内に水流による圧力損失が生じ、水張りのための系統の水圧が原子炉内の圧力よりも低くなり、原子炉から原子炉冷却材浄化系に流れる水が、空気抜き用配管を通じて排水口から漏れ出たことがわかった。
+　対策として、今回の水張り作業の操作に伴うリスク等を多面的に検討したうえで、運転中に原子炉冷却材浄化系配管に水張りを行う際は、排水口につながる空気抜き用配管の弁を全閉にした状態で、原子炉と原子炉冷却材浄化系ポンプをつなぐ配管の弁を開くよう、手順書の見直しを行った。
+　また、今後、人身・設備安全に関わる保全作業、高温・高圧水に関わる作業など、リスクの大きい作業を実施する場合、関係者にてリスク等を多面的に検討し、作業内容や操作手順の妥当性などを確認することとする。
+
+　水漏れ後にヒ素76が検出された件については、11月16日の定例測定では検出されなかった。したがって、ヒ素76は今回の水漏れに伴い、一部蒸気化した水に含まれていたものが換気空調系から排気筒に至った可能性があるものと推定した。
+
+　なお、11月26日に原子炉冷却材浄化系ポンプ（Ｂ）は運転を開始している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S034]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所１号機　原子炉冷却材浄化系ポンプ（Ｂ）室（管理区域）における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/12/02 10:28:58]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

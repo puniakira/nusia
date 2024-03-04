@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13090</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/03/13 13:38:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>88205</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/02/18 19:07:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202002130949]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/03/13 13:38:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2020年2月13日9時49分、2号機中央制御室にて漏えいを示す警報が点灯した。
+　このため、当社社員が現場確認したところ、原子炉建屋地下2階の原子炉機器冷却水（注1）（以下「RCCW」という）熱交換器室内（放射線管理区域外）で約16m3の溜まり水（海水）があることを確認した。
+　漏えい箇所の調査をしたところ、点検中であったRCCW熱交換器（A）系の海水出口配管より漏えいしていることを確認したため、熱交換器海水出口弁を閉弁したことにより、同日10時30分、漏えいが停止したことを確認した。
+
+　調査の結果、この漏えいの原因を以下のとおり推定した。
+①熱交換器(A)系の点検のため、熱交換器(A)系廻りの海水配管内の排水をした際に、熱交換器（A）の下流側の一部の配管内に海水が残留していた。
+　海水が残留した原因は、排水の際に空気を吸い込むために設置した空気吸込口が（A）系と（B）系で共有しており、さらに（B）系が通水状態であったことにより、（A）系の空気吸込配管内の空気が（B）系へ引っ張られ、（A）系の海水配管へ空気が吸い込まれず海水が抜けなかった。
+
+②その後、点検に伴い（B）系の運転を停止したことで、（A）系側から（B）系側への空気の吸い込みがなくなり、空気吸込配管内の空気のバランスが変化し、残留していた熱交換器（A）下流側に空気が流れたことで開放部に残水が流れた。
+
+　熱交換器（A）系/（B）系の海水系で共有していた空気吸込配管を独立する等の対策をおこなう。
+
+(注1) 原子炉機器冷却水とは、非常用機器等で発生する熱の除去をおこなうための系統であるが、廃止措置中の2号機では、常用機器の冷却機能のみを有している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-中部-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋地下2階における水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/02/18 19:08:03]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

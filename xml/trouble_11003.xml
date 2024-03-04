@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[安全防護系シーケンス盤Ａのシステム停止について「人」「管理」「作業」「設備・環境」の観点から、聞き取り調査等を行い要因を検討した。
+（１）人に関する要因
+計装用電源装置の隔離・復旧および停電対策を検討し操作を担当した運転員は、運転および隔離復旧作業に関する経験は十分であった。
+本作業を管理・許可する管理者は、運転および隔離復旧作業に関する管理者としての経験は十分であった。
+（２）管理に関する要因
+運転員は、管理者に計装用電源装置の隔離・復旧手順を手順書と系統線図を用いて説明し、許可を得た。また、管理者は、計装用電源装置の隔離・復旧手順が運転系統へ支障を及ぼすものではなく妥当であることを確認し、作業を許可した。
+（３）作業に関する要因
+a．安全防護系シーケンス盤を含むデジタル制御装置全般の作業安全防護系シーケンス盤等のデジタル制御装置の復旧操作に係る運転員と保修員の責任分界点は、これまで計装用電源装置復旧後における計装用電源装置からデジタル制御装置への受電操作は運転員が行い、デジタル制御装置盤内の復旧操作は保修員が行うことを原則とし、デジタル制御装置の修繕等がなく電源復旧操作に伴い発生する警報等のリセット操作のような比較的簡易な操作は、両者の調整によりデジタル制御装置盤内の操作であっても運転員が行い、警報リセットできなければ保修員へ対応を依頼する運用としていた。
+b．今回の安全防護系シーケンス盤に係る作業
+今回もデジタル制御装置全般の運用に基づく操作手順により運転員が安全防護系シーケンス盤内の故障リセット操作を行うことで作業を計画した。
+運転員は、今回の定検開始前に、前回定検で使用した計装用電源装置１Ａ、１Ｃの隔離・復旧操作手順書および前回定検時の設備改造を反映した計装用電源装置１Ａ、１Ｃの停電対策表、系統線図を基に、今回使用する計装用電源装置１Ａ、１Ｃの隔離・復旧操作手順書を作成した。
+安全防護系シーケンス盤は前回の定検で新設したものであり、運転員は、復旧操作手順の最終確認のため保修員に計装用電源装置１Ａ復旧後の安全防護系シーケンス盤Ａの復旧操作方法について電話により確認したが、安全防護系シーケンス盤の復旧操作は他のデジタル制御装置と異なり、故障リセット操作後に制御スタートスイッチの操作をしなければならないところ、保修員より安全防護系シーケンス盤Ａ受電後の制御スタートスイッチの操作について説明がなかったので、他のデジタル制御装置が故障リセット操作のみで正常に復帰していたのと同様に安全防護系シーケンス盤も故障リセット操作のみで正常に復帰すると判断し、保修員に警報がリセットできなければ対応してもらうように依頼した。
+また、安全防護系シーケンス盤を新設した直後の設備主管箇所（保修員）から発電グループ（運転員）への設備変更周知において安全防護系シーケンス盤の復旧操作に関し、他のデジタル制御装置との違いについて具体的な説明がなかったことから、運転員には当初より安全防護系シーケンス盤の復旧に必要な制御スタートスイッチ操作の認識がなかった。
+更に、制御スタートスイッチ操作の認識がなかったことに加え、従来より操作手順書には故障や警報リセット操作のように簡易な操作までは記載しない運用であったことから、今回の計装用電源装置１Ａの復旧操作手順書にも安全防護系シーケンス盤の復旧手順を記載していなかった。
+（添付資料－１）
+（４）設備・環境に関する要因
+安全防護系シーケンス盤は、故障あるいは点検後の復旧操作において故障リセット操作により、同盤の故障ランプが消灯し、故障要因が残っていないことを条件にＣＰＵの論理演算が始まり、その後の制御スタートスイッチの操作により制御出力を出す設計としている。
+また、安全防護系シーケンス盤の制御状態は、制御スタートスイッチのＬＥＤにて表示され、故障リセット操作によりＬＥＤが点滅を開始し、制御スタートスイッチ操作によりＬＥＤが連続点灯となる。
+今回は、復旧操作において運転員に制御スタートスイッチ操作の認識がなく、故障リセット操作により中央制御室の安全防護系シーケンス盤故障警報がリセットしたため安全防護系シーケンス盤は正常に復帰したものと思ったことから同一カード上の制御スタートスイッチの点滅には気が付かなかった。
+なお、デジタル制御装置のうち、受電後の復旧操作で制御スタートスイッチ操作が必要なものは１，２号機の安全防護系シーケンス盤だけである。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[215]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11003</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2011/02/15 15:51:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[当該システムは中央制御室非常用給気ファン（１、２号機共用設備）の動作システムであり、運転中は動作可能であることが原子炉施設保安規定上で要求されていることから、２３時００分、２号機に関する保安規定に定める運転上の制限を逸脱した。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>19356</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/06/15 17:37:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201006082100]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）計装用電源装置の復旧に係る安全防護系シーケンス盤の復旧は、運転員が安全防護系シーケンス盤の受電操作を行い、保修員が安全防護系シーケンス盤内の復旧操作（故障リセット、制御スタートスイッチ操作）を行うよう復旧操作手順書に反映する。
+その他の制御装置の復旧操作を保修員が運転員に移管する場合、保修員は操作手順を文書により運転員に説明する。
+（２）制御装置等の設備更新に伴い隔離・復旧操作手順書を新規作成または改訂する際は、文書により設備主管箇所の確認を受けるように社内規定を見直す。
+（３）設備を更新（新設、改造、撤去等）した場合、設備主管箇所は運転操作上の注意事項を文書（設備変更連絡書）により関係箇所に周知しているが、更に隔離・復旧操作時の注意点についても記載するよう様式を見直す。
+（４）原子力保安研修所（松山市）に平成２３年度設置予定のデジタル制御装置の保修訓練設備を用いて運転員へも設備教育を実施する。
+（５）制御システムの制御状態表示について認知性を向上させるため、制御スタートスイッチのＬＥＤ表示と制御システムの制御状態を示す注意表示を当該ＬＥＤ部に掲示する。 （添付資料－２）
+（６）安全防護系シーケンス盤の故障リセットおよび制御スタートは操作を行う同盤の故障ランプ消灯および制御スタートスイッチのＬＥＤ点灯により確認できるが、運転員の認知性を更に高めるため、故障リセット操作をしても制御スタートスイッチ操作を行うまでは、安全防護系シーケンス盤故障警報を中央制御室に発信させる設計に変更する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/15 15:51:12]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所１号機は第２7 回定期検査中のところ、６月８日２１時００分、安全防護系シーケンス盤※１Ａのシステムが停止していることを保修員が確認した。
+このため、現場を調査したところ、当該システムに電源を供給する計装用電源装置１Ａ点検後の復旧操作において、停止させていたＣＰＵ－Ａ１を起動する際、故障リセット操作は行ったが、制御スタートスイッチ操作を実施しておらず、停止状態のままで、計装用電源装置１Ｃ点検のためにもう１系統のＣＰＵ－Ａ２を停止したことから、安全防護系シーケンス盤Ａのシステムが停止状態となった。
+また、安全防護系シーケンス盤Ａは、１，２号機共用設備である中央制御室換気系隔離作動論理回路※２を有しており、安全防護系シーケンス盤Ａのシステム停止により中央制御室換気系隔離作動論理回路が動作不能状態となっていることから、同日２３時００分、運転中の２号機に対して原子炉施設保安規定に定める運転上の制限を逸脱していると判断した。本運転上の制限逸脱に対しては、３０日以内に中央制御室換気系隔離作動論理回路を動作可能な状態とするよう、原子炉施設保安規定に定められている。なお、もう一系統の中央制御室換気系隔離作動論理回路は健全であった。
+その後、制御スタートスイッチにより当該システム（ＣＰＵ－Ａ１）の起動を行い中央制御室換気系隔離作動論理回路を動作可能状態とし、６月９日１時３５分、原子炉施設保安規定に定める運転上の制限逸脱から復帰した。
+定期検査中の１号機については、当該システムが停止している間、海水ポンプ等の補機への制御出力は、事象発生直前の運転状態が保持されており、補機は継続して正常に運転されたため、定期検査中のプラント状態に支障はなかった。
+なお、本事象による環境への放射能の影響はなかった。
+※１安全防護系シーケンス盤
+中央制御室非常用給気ファン、海水ポンプ、原子炉補機冷却水ポンプ等の安全系補機を動作させるためのシステムを収納した盤
+※２中央制御室換気系隔離作動論理回路
+事故時に中央制御室非常用給気ファンを起動し、中央制御室を外気と遮断して中央制御室の空気を内部循環する信号を作動させる回路]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[本事象発生の主たる要因は、前回定検で新設した安全防護系シーケンス盤の復旧操作方法に係る確認が電話による確認のみで十分でなかったことから、運転員は制御スタートスイッチ操作の必要性を認識しておらず、また、故障リセット操作により同盤の故障ランプが消灯したことから、他のデジタル制御装置と同様に故障リセット操作のみで正常に復帰したと思い込み、安全防護系シーケンス盤Ａの１系（ＣＰＵ－Ａ１）が正常に起動していない状態で２系（ＣＰＵ－Ａ２）の電源を停止したことで、安全防護系シーケンス盤Ａの両系（１系および２系）の出力が停止し、システムの停止に至ったものである。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所１号機 安全防護系シーケンス盤のシステムの停止]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<S_UNTEN_MODE><![CDATA[定検中]]></S_UNTEN_MODE>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>19355</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/06/15 17:38:01]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[460]]></KIKI_CODE>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>11003</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[046]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[スイッチ]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>30</SORT_NO>
+						<BUHIN_CODE><![CDATA[046]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[460]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[スイッチ]]></KIKI_NAME>
+				<SORT_NO>5</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[工学的安全施設作動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[215]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[運転・操作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[プラント運転員の監視・判断・機器操作の誤りによるもの（管理不良を含むクレーン等保守作業に関連する操作ミスは施工不良に含める）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[運転・操作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+					<SORT_NO>3</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11003</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

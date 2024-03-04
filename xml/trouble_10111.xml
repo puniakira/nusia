@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　SG入口管台溶接部の傷に対する調査を要因分析FT図に基づき実施した。
+　なお、１次冷却材環境下における応力腐食割れ（以下、「PWSCC」という。）の発生原因である表面残留応力評価を実施するにあたって、SG入口管台部の仕様（溶接部の開先形状、内面の仕上げ方法、材料、寸法、およびプラント運転条件）が同等である日本原子力発電（株）敦賀発電所２号機（以下、「敦賀発電所２号機」という。）で発生した同様の事象に対する原因調査結果との比較を実施した。
+
+(1)ECT結果
+　セーフエンドと周溶接部の物性値の違いにより発生するECT信号から、傷はセーフエンドおよび管台の母材部（炭素鋼）には達していないことを確認した。
+
+(2) VT結果
+　UTで有意な信号指示が認められたすべての箇所について、目視観察（以下、「VT」という。）を実施した結果、当該傷は複数の折れ曲がりおよび枝分かれがあり、デンドライト境界に沿ったものと推定できた。傷はいずれも軸方向であり、全体的にグラインダ施工による仕上げ跡が認められており、過去の応力腐食割れの特徴と類似していることを確認した。
+　なお、VTは、平成20年6月24日付NISA文書「蒸気発生器一次冷却材出入口管台溶接部内表面におけるき裂等への対応について」（NISA-163a-08-2）に基づく確認である。
+
+(3) レプリカ観察結果
+　VT結果を補完する目的で各SGの傷の長さ、作業性を考慮してレプリカ観察を実施した結果、傷の周辺ではグラインダ施工やバフ施工の跡が確認された。傷の特徴はVT結果と同様に複数の折れ曲がりおよび枝分かれがあり、デンドライト境界に沿ったものと推定されるとともに、傷の方向はいずれも軸方向であった。
+
+(4) 製造・運転履歴調査結果
+　ａ．製造履歴調査	
+　　　２号機のSGは、昭和56年6月～昭和59年1月に製作されており、当時の工事・検査記録および関係者への聞き取りにより製造履歴を調査した。
+　　　なお、A-SG管台における溶接施行記録の溶接層数等に転記ミスと思われる箇所があったものの、B,C-SGの溶接施行記録及びA,B,C-SGの工程中チェックシート等を確認した結果、A-SG管台溶接部については定められた溶接方法に従い適切に施工されていることが確認できた。
+　　　さらに、これらの記録より工程に応じて実施される非破壊検査等においても異常は認められていないことから、製作及び健全性に問題はなかったものと考えられる。
+　(a) 工事・検査記録による調査
+　　・作業手順は通常用いられる手順であり、作業期間は各SGとも特異性はなかった。
+　　・溶接士も十分な経験を有していることを確認した。
+　　・手直し溶接の記録は確認されなかった。
+　　・製作時の検査記録（表面検査）から、割れは確認されなかった。
+　　・SG入口管台の製造手順についても、問題のないことを確認した。
+　　・上記調査結果から、敦賀発電所２号機と同等であることを確認した。
+　(b) 関係者への聞き取りによる調査
+　　・SG入口管台とセーフエンドとの溶接部内面の標準的な仕上げ方法は、グラインダ施工（研削）およびバフ施工（３往復）であることを確認した。
+　　・バフ施工後、メーカ社内での浸透探傷試験（以下、「PT」という。）で有意な指示が認められた場合に手直し溶接を実施する可能性があることを確認した。
+　　・手直し溶接等を実施した場合は、グラインダ施工（研磨）にて仕上げている可能性があることを確認した。
+　　・上記調査結果から、敦賀発電所２号機と同等であることを確認した。
+　ｂ．運転履歴調査	
+　　　２号機の運転開始（昭和60年11月28日）から第18回定期検査（平成20年11月 25日解列）までの運転履歴を調査した結果は、以下のとおりであった。
+　(a) １次冷却材温度・圧力
+　　　プラント運転開始以降、第18回定期検査開始までの間、１次冷却材温度・圧力変化の調査を行い、過大な応力を発生させる異常な温度・圧力変化がないことを確認した。
+　(b) 水質管理状況
+　　　プラント運転開始以降、第18回定期検査開始までの間、１次冷却材中のｐＨ、電気伝導率、塩素イオン、溶存酸素、溶存水素の調査を行い、各データに有意な変化はなく基準値の範囲内であることを確認した。
+
+(5) 溶接部の材料確認結果
+　ミルシート（溶着金属）により、材料は600系ニッケル基合金であること、およびその成分構成が設計仕様（規格値）どおりであることを確認した。
+
+(6) 設計・工事記録確認結果
+　工事計画書の強度計算書により、延性割れ、疲労割れ等は発生しないことを確認した。
+
+(7) 表面加工状態確認試験（モックアップ試験）による表面残留応力評価
+　ａ．表面状態の比較
+　　　２号機のSG管台の材料、寸法、運転条件、および製造手順は敦賀発電所２号機と同等であることから、２号機SG管台溶接部の表面残留応力を推定する目的で、割れの確認されたSG管台溶接部のVTならびにレプリカ観察結果と敦賀発電所２号機の表面加工状態確認試験（以下、「モックアップ試験」という。）の表面状態とを比較検討した。結果は以下のとおりである。
+　　　レプリカ観察結果から、２号機の各SGとも割れの周辺の表面状態は、グラインダ施工（研磨）の部位又はグラインダ施工（研削）の上にバフ仕上げしてグラインダ施工（研削）の跡が残った部位のいずれかであると推定される。
+　　　これは、敦賀発電所２号機のモックアップ試験のNo.6供試体のグラインダ（研磨）による仕上げ条件又はNo.9供試体のグラインダ施工（研削）の上にバフ仕上げした条件いずれかと同等であると推定される。
+　ｂ．残留応力の評価
+　　　グラインダ施工（研磨）した場合の表面残留応力は、敦賀発電所２号機のモックアップ試験（No.6供試体）の残留応力測定結果より、平均で470MPaであった。
+　　　グラインダ施工（研削）の上にバフ仕上げした場合の残留応力については、敦賀発電所２号機の実機（C-SG管台）およびモックアップ試験（No.9供試体）の残留応力測定結果から、グラインダ溝底部の表面残留応力は約90MPaから約420MPaと推定されている。（ホットラボにて測定したボートサンプルの残留応力値（-591MPaから-263MPa）にモックアップ試験結果から求めた補正値（約680MPa）を加えて求めたもの）
+　　　よって、２号機の割れが確認された部位においてもPWSCC発生の可能性がある約300MPaを超える引張表面残留応力が発生していたものと考えられる。
+
+(8) 文献調査結果
+　600系ニッケル基合金溶接部の傷に関する文献調査を行った結果、次のとおり類似部位での損傷事例が確認されている。
+　また、600系ニッケル基合金溶接部のPWSCCの発生に関しては、定荷重SCC試験が実施されており、１次冷却材環境下において応力約300MPa以上でPWSCCが発生するとされている。
+　ａ．原子炉容器出口管台溶接部（V.C.Summer発電所、Ringhals発電所３、４号機、関西電力（株）大飯発電所３号機）
+　　　米国V.C.Summer発電所での漏えい（平成12年10月発見）が報告されており、原因は溶接の手直しを行ったことにより発生したPWSCCと推定されている。また、スウェーデンRinghals発電所３、４号機でのUT指示（平成12年8月確認、平成12年9月確認）、関西電力（株）大飯発電所３号機でのUT指示（平成20年5月確認）が報告されている。
+　ｂ．原子炉容器入口管台溶接部（四国電力（株）伊方発電所１、２号機）
+　　　原子炉容器入口管台のステンレス鋼内張りと、600系ニッケル基合金溶接部の境界における溶接の手直し箇所において、局部的な溶接の手直しに伴う高い引張残留応力によりPWSCCが発生（四国電力（株）伊方発電所１号機：平成16年11月確認、伊方発電所２号機：平成17年11月確認）したことが報告されている。
+　ｃ．SG管台溶接部（関西電力（株）美浜発電所２号機、高浜発電所２、３、４号機、敦賀発電所２号機、北海道電力（株）泊発電所２号機）
+　(a) SG入口管台溶接部において、機械加工を行ったことにより、内表面に高い引張残留応力が発生し、PWSCCが発生（関西電力（株）美浜発電所２号機：平成19年9月確認、高浜発電所２号機：平成19年12月確認）したものと推定されることが報告されている。
+　(b) SG入口管台溶接部において、600系ニッケル基合金溶接部にグラインダ施工（研削）とバフによる仕上げを行った後、一部、溶接の手直しとグラインダ施工（研磨）による仕上げを行ったことにより、内表面に高い引張残留応力が発生し、PWSCCが発生（関西電力（株）高浜発電所３号機：平成20年2月確認）したものと推定されることが報告されている。
+　(c) SG入口管台溶接部において、溶接の手直し箇所のグラインダ施工（研磨）の部位またはグラインダ施工（研削）およびバフ施工による仕上げでグラインダ施工（研削）の跡が残った部位の内表面に高い引張残留応力が発生し、PWSCCが発生（敦賀発電所２号機：平成19年10月確認）したことが報告されている。
+　(d) SG製造時、入口管台とセーフエンドを600系ニッケル基合金で溶接し、グラインダ施工（研削）とバフ施工による仕上げを実施し、局所的にグラインダ施工（研削）の跡が残った部位や、内表面を一部、溶接の手直し後にグラインダ施工（研磨）による仕上げを行った部位に高い引張残留応力が発生し、PWSCCが発生（北海道電力（株）泊発電所２号機：平成20年4月確認）したものと推定されることが報告されている。
+　(e) SG製造時、入口管台とセーフエンドを600系ニッケル基合金で溶接し、グラインダ施工（研磨）の部位又はグラインダ施工（研削）の上にバフ仕上げしてグラインダ施工（研削）の跡が残った部位の内表面に高い引張残留応力が発生し、PWSCCが発生（関西電力（株）高浜発電所４号機：平成20年10月確認）したものと推定されることが報告されている。
+　ｄ．加圧器管台溶接部（敦賀発電所２号機）
+　　　敦賀発電所２号機で漏えい等（加圧器逃がし弁用管台漏えい、安全弁用管台UT指示：平成15年9月発見）が発生しており、原因は溶接の手直しを行ったことによる高い引張残留応力によりPWSCCが発生したものと推定されていることが報告されている。
+
+(9) その他の損傷形態
+　延性割れ、疲労割れ、腐食の可能性についても調査したが、使用環境条件、使用材料等に異常はなく、これらが割れの原因とは考えられない。
+　製作時の溶接不良や溶接欠陥についても記録や実機調査結果から原因となるものは認められなかった。
+
+
+(10) 調査結果のまとめ
+　ａ．VTおよびレプリカ観察結果により、割れは複数の折れ曲がりおよび枝分かれを呈しており、PWSCCの様相を呈していることが確認された。また、製作時の検査記録（表面検査）から割れは確認されていない。
+　ｂ．VT、レプリカ観察結果および敦賀発電所２号機のモックアップ試験結果等から、割れの認められた部位には、PWSCC発生の感受性があると考えられる応力値約300MPaを超える引張表面残留応力があったものと推定される。
+　ｃ．運転履歴および溶接部の材料確認、設計・工事記録の調査の結果、問題のないことおよび水質管理状況の調査の結果、保安規定に定める水質基準値内に管理されていることを確認した。
+　ｄ．600系ニッケル基合金溶接部の割れに関する文献調査結果から、内表面の高い引張残留応力による、PWSCCの発生が報告されている。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10111</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/06/22 16:37:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4388</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/12/19 10:49:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20081212]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[1． 割れの除去
+　　内表面を一様に切削し傷を除去した。
+2． 肉盛溶接の施工
+　　溶接部内表面全周をより耐食性に優れた690系ニッケル基合金により肉盛溶接（クラッド工法）を行い復旧した。
+　　なお、念のため、当該部の残留引張応力を低減するためバフ施工を実施した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[用語集
+・渦流探傷試験（ＥＣＴ）
+　高周波電流を流したコイルを対象となる配管等に接近することで対象物に渦電流を発生させ、欠陥により生ずる渦電流の変化を電気信号として取り出すことで欠陥を検出する試験。
+
+・超音波探傷試験（ＵＴ）
+　超音波を使って金属等の内部にある欠陥から反射してくる超音波により傷を検出する試験。
+
+・目視観察（ＶＴ）
+　試験体表面をテレビカメラなどにより間接的に肉眼で観察し、表面の摩耗、き裂、腐食、侵食等の異常を検出する方法。
+
+・浸透探傷試験（ＰＴ）
+　試験体表面に開口している傷に、可視染料の入った高浸透性の液を浸透させた後、表面の余分な浸透液を除去し、現像剤により傷を浸透指示模様として観察する方法。
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/06/22 16:37:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　川内原子力発電所２号機は、第18回定期検査にて、蒸気発生器（以下、「SG」という。）入口管台の溶接部内表面について、他プラントにて傷が認められていることを踏まえ、傷が認められない場合でも、溶接部内表面を一様に切削し、耐食性に優れた690系ニッケル基合金で肉盛溶接（クラッド工法）を行う工事を実施することとしていた。この工事を行うに当たり、管台溶接部の内表面状態確認のため、渦流探傷試験（以下、「ECT」という。）を実施した。
+　その結果、A-SGで38箇所、B-SGで1箇所、C-SGで5箇所に有意な信号指示（複数の近接した信号を連続したものと評価した最大長さ　A：約17mm、B：約5mm、C：約8mm）が認められた。
+　今回のSG入口管台のECTについては、平成19年11月16日付NISA文書「蒸気発生器出入口管台溶接部の内表面の点検実施について」（NISA-163b-07-3）に基づく点検でもある。
+　ECTで有意な信号指示が認められた入口管台の溶接部について、超音波探傷試験（以下、「UT」という。）を実施した結果、A-SGで6箇所に有意な指示が認められた。なお、B-SG、C-SGでは有意な指示は認められなかった。
+　A-SGにおいてUTで有意な指示が認められた箇所のうち傷の最大深さは約9mmと評価され、板厚測定結果（最小値：78.0mm）と比較したところ、電気事業法に基づく工事計画書に記載されている管台の最小板厚66mmを満足していると評価した。
+　また、ECTにおいて有意な信号指示が認められた箇所については、傷除去のための切削に併せて深さを計測した結果、最大でも深さ7.8mm（A-SG）であり、全ての箇所において管台の最小板厚66mmを満足していることを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-九州-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[推定原因
+　SGの製作時、入口管台とセーフエンドを600系ニッケル基合金で溶接し、グラインダ施工（研磨）の部位又はグラインダ施工（研削）の上にバフ仕上げしてグラインダ施工（研削）の跡が残った部位の内表面に高い引張残留応力が発生し、PWSCCが発生したものと推定される。
+　また、発生した割れは、運転時の応力等により軸方向に進展したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[川内原子力発電所２号機
+蒸気発生器１次冷却材入口管台溶接部での傷の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[渦流探傷試験における有意な信号指示を確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/12/24 15:54:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[川内]]></PLANT_RYAKU_NAME>
+		<SORT_NO>15</SORT_NO>
+		<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[川内発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[フィッティング（接続部・溶接部）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10111</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[蒸気発生器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[300]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[300]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[熱交換器・冷却器装置]]></KIKI_NAME>
+					<SORT_NO>18</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[一次冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[203]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10111</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

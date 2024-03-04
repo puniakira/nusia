@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[現地調査結果
+　　現屋内開閉所設備については、現在実施中の２号機第１７回定期検査（平成１６年４月～７月）および１号機第２２回定期検査（平成１６年９月～平成１７年１月予定）でＧＩＳへの取り替え工事を計画しており、現在２号機範囲の工事を実施中である。
+　　このため、運転中であった既設設備および工事中のＧＩＳ設備について調査を実施した。
+（１）屋内開閉所設備点検結果
+ａ．既設設備の点検結果
+伊方南幹線１，２号線のガス遮断器が開放動作したことから、屋内開閉所の主要な設備について点検および状況調査を行った結果、以下のとおりであった。
+（ａ）伊方南幹線１，２号線関係機器
+伊方南幹線１，２号線のガス遮断器設備等の主要な設備について、外観点検を実施した結果、異常は認められなかった。
+（ｂ）甲、乙母線設備
+甲、乙母線、ＰＤ設備の外観点検を実施した結果、異常は認められなかった。
+なお、甲母線はＧＩＳ設置工事による停電中であり、作業用の接地が取り付けられていた。　
+（ｃ）送電線保護リレー設備
+・送電線関係保護リレー盤の外観点検を実施した結果、異常は認められなかった。
+・送電線関係保護リレー盤を確認した結果、伊方南幹線１，２号線後備リレー盤において、乙母線の電圧低による遮断器開放信号の発信を示す警報が表示されていた。
+以上の結果から、乙母線電圧低条件により、伊方南幹線１，２号線後備リレーが動作し、伊方南幹線１，２号線ガス遮断器が開放したものと推定された。
+ｂ．ＧＩＳ設備の点検結果
+工事中のＧＩＳ設備について、外観点検を実施した結果、異常は認められなかった。
+また、ＧＩＳは試験中であり、各機器の開閉状態を確認した結果、以下の機器が投入状態であった。
+・主変圧器２号用　　甲母線断路器、乙母線断路器
+・起動変圧器２号用　遮断器、乙母線断路器
+・伊方北幹線２号線　乙母線断路器
+なお、本事象の原因調査のため、投入状態であった遮断器、断路器をすべて開放した。
+ｃ．甲、乙母線ＰＤ２次回路の点検結果
+本事象の原因調査のため、今回動作した伊方南幹線１，２号線後備リレーの電圧検出用甲母線および乙母線用のＰＤ２次回路の電圧測定を実施した結果、以下のことが確認された。
+（ａ）事象発生時
+・充電中の乙母線ＰＤ２次回路の電圧が、通常約６０Ｖであるところ約４０Ｖに低下していた。
+・停電中の甲母線ＰＤ２次回路の電圧が、通常約０Ｖであるところ約２０Ｖに上昇していた。
+（ｂ）ＧＩＳ遮断器、断路器開放操作後
+ＧＩＳ遮断器、断路器の一部が投入状態であったことから、これらを開放した後、甲、乙母線用ＰＤ２次回路の電圧を測定した結果、以下のことが確認された。
+・充電中の乙母線ＰＤ２次回路の電圧が、通常値の約６０Ｖに回復した。
+・停電中の甲母線ＰＤ２次回路の電圧が、通常値の約０Ｖとなった。
+以上の結果から、ＧＩＳでの遮断器、断路器の投入により甲、乙母線ＰＤ２次回路が通常とは異なる回路構成となり、乙母線ＰＤ２次回路の電圧低下が発生したものと推定された。
+このため、乙母線ＰＤ２次回路に影響を与える可能性のある工事を抽出し、これらの工事について、当日の作業状況等を調査した。
+
+（２）当日の屋内開閉所での作業状況調査
+ａ．ＧＩＳ設置工事
+・事象発生当日は、ＧＩＳ本体組立後の試験（主回路抵抗測定）のため、一部の遮断器、断路器について制御電源を「入」とし投入・開放操作を行っていた。　　　　
+・投入操作した遮断器、断路器とこれらに連動して動作する機器（補助リレー）の間のケーブル接続工事は完了しており、制御電源を「入」として投入操作を行った場合、遮断器、断路器の動作に連動する補助リレーが動作する状態であった。
+ｂ．その他の関連工事
+既設ガス遮断器撤去工事・ケーブル工事・ＰＤ切替盤取替工事を実施していたが、事象発生時は甲、乙母線ＰＤ２次回路に影響を与える作業は行っていなかった。
+
+（３）乙母線ＰＤ２次回路の電圧低下に至る回路構成の検討結果
+事象発生時に確認された乙母線ＰＤ２次回路電圧の低下および甲母線ＰＤ２次回路電圧の上昇の要因は、甲、乙母線ＰＤ２次回路の相互の接続が考えられた。このため、事象発生時のＧＩＳの遮断器、断路器が投入状態となった場合、甲、乙母線ＰＤ２次回路が相互に接続される可能性について配線図をもとに検討した。その結果、ＧＩＳ主変圧器２号用の甲、乙母線断路器を同時に投入した場合、連動動作する補助リレーが動作し、甲、乙母線ＰＤ２次回路が相互に接続することが判明した。さらに、甲、乙母線ＰＤ２次回路が相互に接続した場合、甲母線が停電中で接地状態であることから、乙母線ＰＤ２次回路が甲母線ＰＤを通して接地されることとなり、乙母線ＰＤ２次回路の電圧が低下するとともに、甲母線ＰＤ２次回路の電圧が上昇する状態となることが判明した。
+
+（４）事象の推定
+これまでの調査結果より、今回の事象は次のとおりと推定した。
+ＧＩＳ設置工事において、ＧＩＳ本体組立後の試験（主回路抵抗測定）のため主変圧器２号用甲、乙母線断路器を投入操作した際、ケーブル接続工事後の結線切り離し（他の設備への影響を無くする対策；以下「隔離」という）がされていなかったことより、断路器の動作に連動する補助リレーが動作した。その結果、乙母線ＰＤ２次回路が接地中の甲母線ＰＤ２次回路と接続状態となり、乙母線ＰＤ２次側の電圧が低下した。このため、乙母線ＰＤ２次回路で検出している乙母線の電圧低条件により、送電線後備リレーが動作し、伊方南幹線１，２号線ガス遮断器を開放した。
+
+
+要因調査                                
+　　本事象は、ＧＩＳ本体組立後の試験（主回路抵抗測定）の実施に際して、隔離が講じられていなかったことに起因したものである。
+　　このため、ＧＩＳ設置工事における関係者の対応状況について、体制と資質、経緯、要領書（手順書）作成・審査、作業実施面から調査を実施した。
+（１）ＧＩＳ設置工事の体制と関係者の資質
+ＧＩＳ設置工事については、屋内開閉所の設備（ガス遮断器、断路器、母線等）をＧＩＳ設備に取り替える工事であり、ＧＩＳメーカがＧＩＳ設備の製作および試験を担当し、関係会社がＧＩＳ据付、ケーブル工事、既設設備の撤去、制御盤取替等の一連の工事を担当していた。
+本事象に直接関与したのは、統括管理する立場である作業管理責任者、ＧＩＳ試験作業責任者およびケーブル工事作業責任者である。
+ａ．作業管理責任者
+当該作業管理責任者は、ＧＩＳ設置工事の設計段階から参画しており、また、これまで屋内開閉所設備の保守管理に携わるなど技術・経験が豊富で十分な資質を有している。
+ｂ．ＧＩＳ試験作業責任者
+当該作業責任者は、メーカから派遣されたＧＩＳ試験員であり、知識・経験が豊富で十分な資質を有している。
+ｃ．ケーブル工事作業責任者
+当該作業責任者は、これまで伊方発電所の定期検査において、屋内開閉所設備の点検作業に従事するとともに、同種のケーブル工事の経験が豊富で十分な資質を有している。
+
+（２）隔離が講じられない状態で試験が実施された経緯
+・５月８日
+ＧＩＳ試験作業責任者は、隔離について記載のない標準的な試験要領書に基づき、ケーブル工事作業責任者と打ち合わせを行った際、ケーブル接続後のＧＩＳ試験で外部機器に影響を与える場合は、ケーブル工事作業責任者が隔離を行うこととした。
+・５月１２日
+ＧＩＳ試験作業責任者は、標準的な試験要領書に基づき主変圧器２号用遮断器、断路器のブロックで開閉試験を行った。
+・５月１５日
+ケーブル工事作業責任者は、主変圧器２号用遮断器、断路器のブロックのケーブル接続を行い、５月１７日に主変圧器２号用断路器を甲、乙個々に投入しケーブル接続回路の結線確認を行った。
+・５月１８日
+ＧＩＳ試験作業責任者は、標準的な試験要領書に基づき主回路抵抗測定試験を翌日に実施するため、外部機器に影響を与えないように隔離の検討をケーブル工事作業責任者に連絡したが、ケーブル工事作業責任者は隔離は必要ないと判断した。
+・５月１９日（事象発生当日）
+ＧＩＳ試験作業責任者は、主回路抵抗測定試験のための主変圧器２号用甲、乙母線断路器を投入して試験を実施した。
+以上のように、隔離について記載のない標準的な試験要領書に従い、必要な隔離が行われないまま主回路抵抗測定試験が実施されたことから、その要因について、要領書（手順書）の作成・審査等の状況および作業実施段階での対応状況の調査を行った。
+
+（３）要領書（手順書）作成・審査等に関する調査
+伊方発電所では、工事、試験を実施する際、現場作業を開始する前までに、工事を受注した会社の作業責任者等が作業体制、準備事項、作業内容、作業上の注意事項等を記載した要領書を作成し、工事実施に関わる責任者の審査を受けた上で、作業責任者はその手順に従い作業を実施することを基本としている。ここでは、本事象の起因となったＧＩＳ試験に際して使用された要領書がどのように作成・審査されたのか等について調査を行った。
+ａ．工事要領書作成段階
+ＧＩＳメーカが作成したＧＩＳ試験要領書は、
+・標準的な作業工程でのＧＩＳ単体試験が終了後、関連するケーブルの接続を行う内容であったこと
+・伊方発電所における要領書の作成方法について、具体的な方法・手順が示されていないこと
+から、隔離および個々の試験回路の構成や操作手順等を詳しく記載していない標準的な試験要領書であった。また、具体的な試験要領については、作業実施段階で現場において打ち合わせることとしていた。    
+ｂ．工事要領書審査段階
+作業管理責任者は、ＧＩＳ試験の試験要領書について、メーカから提出されたＧＩＳ単体（ケーブル接続がなく隔離の必要のない状態）標準的な試験要領書を審査した。
+その際の審査にあたっては、
+・具体的審査事項が明確でないこと
+・具体的な工程や試験条件については、工事の進捗状況により変わる可能性があること
+から、具体的な試験要領については、作業実施段階で現場において打ち合わせることとした。
+ｃ．作業確認段階
+・ＧＩＳ試験作業責任者およびケーブル工事作業責任者は、作業実施段階における作業工程の打合せを行い、ＧＩＳ各ブロックの開閉試験が終了すればケーブルを接続する手順で進めることを相互に確認した。なお、ＧＩＳ試験作業責任者は、ケーブル工事作業責任者に口頭で隔離を依頼していたため、試験要領書の手順に問題があるとの認識はなかった。
+また、ケーブル工事作業責任者は試験要領に合う隔離の検討を行うこととした。
+・作業管理責任者は、ＧＩＳ試験について要領書審査段階にＧＩＳ単体で実施する要領書を確認し、具体的な作業要領については、作業の実施段階で現場において打ち合わせることとしていたが、ＧＩＳ試験作業責任者とケーブル工事作業責任者の間で打合せが行われたことから、作業内容の調整はできていると考えた。
+
+（４）作業実施段階での対応状況に関する調査
+ａ．作業管理責任者
+各グループの作業状況については、毎日提出される作業指示書、全体・週間工程表および作業責任者との情報交換等により作業状況を把握していたが、当日の作業指示書には、ＧＩＳ主回路抵抗測定試験を実施するにあたり、ＧＩＳ機器の開閉操作を行うことについては明記されていなかった。
+ｂ．ＧＩＳ試験作業責任者
+ケーブル接続後のＧＩＳの主回路抵抗測定試験の段階で、再度各ＧＩＳの甲、乙母線用断路器の操作を必要としたことからケーブル工事作業責任者に隔離の検討が必要である旨を連絡したが、甲、乙断路器両方を投入することの連絡はしなかった。また、日常行われている作業責任者間の連絡で十分であると考え作業管理責任者への連絡に対する認識はなかった。
+ｃ．ケーブル工事作業責任者
+ケーブル接続後の主回路抵抗測定試験前において、ＧＩＳ試験作業責任者から外部機器に影響を与えないように隔離を検討するよう依頼を受けたが
+・ケーブル接続後、甲、乙断路器を個々に投入して行ったケーブル接続の確認試験で問題を生じなかったこと
+・主回路抵抗測定試験では、甲、乙断路器が両方投入されることを認識していなかったこと
+から、隔離の検討は必要ないと判断した。
+また、その判断結果について、ＧＩＳ試験作業責任者および作業管理責任者への連絡を行わなかった。
+以上の調査により、以下の問題点が抽出された。
+・試験要領書の作成・審査の実施にあたって、事前に作業体制、準備事項、作業内　容、作業上の注意事項等を明確にした試験要領書とすることを基本としていたが、作成・審査にあたっての具体的な検討事項ならびにその手順を定めたものはなかった。
+・作業管理責任者は、ＧＩＳ試験作業責任者とケーブル工事作業責任者との隔離等の必要性について打合せがなされていると考え、また、各作業責任者との詳細かつ適切な情報交換が行われていなかったため、試験要領書の変更指示を出さなかった。
+・ケーブル工事作業責任者は、事前に行ったケーブル接続の確認試験に問題がなかったことから、隔離検討の必要性はないと判断した。また、この判断結果をＧＩＳ試験作業責任者および作業管理責任者に連絡しなかったことから試験要領書が見直しされなかった。
+・ＧＩＳ試験作業責任者は、作業責任者間で日常行われている連絡で十分であると考え、隔離の必要性について、作業管理責任者へ連絡しなかったため、試験要領書が見直しされなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[伊方発電所１号機（定格電気出力５６６ＭＷ）は定格熱出力一定運転中（電気出力５８１ＭＷ）のところ、５月１９日１０時００分、伊方南幹線１，２号線の遮断器が開放して送電が停止し、１号機の電気出力が約３０ＭＷまで自動的に低下した。
+]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2408</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/06/30 17:25:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[・運転上の制限内容
+　　モード１，２，３および４において、外部電源２系列以上が動作可能であること。
+・ＬＣＯ逸脱宣言日時
+　　平成１６年５月１９日１０時０５分
+・機能復旧日時
+　　平成１６年５月１９日２１時３０分
+・保安規定で要求される措置
+    当直長は、動作可能な外部電源について、電圧が確立していることを確認する。
+    平成１６年５月１９日１０時４２分、電圧の確立を確認（完了時間　要求：４時間、実績：３７分）。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2917</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/05/21 21:19:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200405191000]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．対策
+　本事象が試験要領書の記載内容の不足に起因した人為ミスに基づくものであり、以下の対策を講じることとする。
+（１）当該工事に関する対策
+ａ．ＧＩＳ試験要領書については、試験条件に合わせた隔離の必要性について明確に記載するよう改訂した。　　
+ｂ．作業管理責任者と各作業責任者の関係者合同のミーティングを開催し、作業内容、工程、隔離の必要性等の問題点と対策について調整し、その内容がチェックシート等を用いて確実に情報連携されるような体制を構築した。　　　　　　　
+ｃ．ヒューマンファクター教訓シートを作成し、試験を実施する場合には、外部機器への影響を十分検討すること、試験要領書に試験内容を詳細に記載すること、各工事グループ間の連携を十分行うこと等を発電所および関係会社所員全員に周知徹底した。
+（２）要領書作成・審査等における抜本対策
+ａ．「作業要領書作成手引き」の制定
+・ヒューマンエラー防止対策を含め、工事ごとに明確にすべき作業実施体制、作業工程、作業内容、隔離内容等の作業要領書作成時に反映すべき事項をまとめた「作業要領書作成手引き」を新たに制定する。
+・この手引きには、作業要領書の作成・審査（承認）のチェックポイントについても明確にする。
+・工事の発注にあたって、作業要領書作成時にはこの手引きに従い、作業要領書を作成することを発注仕様書に明記し要求する。
+・作業要領書の審査にあたって、「作業要領書作成手引き」に従い審査を行い、必要な記載事項が明記されていることを確認する。
+ｂ．「ヒューマンファクター検討会議」の設置
+作業要領書が適切に作成されていることを、作業実施体制、作業工程、作業内容等の面から確認し、ヒューマンエラー事象の防止を図るとともに、広くヒューマンエラーに関連する対応策を検討する「ヒューマンファクター検討会議」を新たに設置する。なお、本会議は、所長を委員長として、発電所のグループリーダー、関係会社の所長等を委員として構成する。
+ｃ．情報連携の促進
+多数の作業班が編成される工事については、作業管理責任者と各作業責任者の関係者合同のミーティングを開催し、作業内容、工程、隔離の必要性等の問題点と対策について調整し、その内容がチェックシート等を用いて確実に情報連携されるようにする。
+また、「作業要領書作成手引き」にその旨を明記し作業要領書作成時に反映する。
+
+２．作業員の資質の向上および意識改革
+（１）設備・系統教育の充実強化
+関係会社の作業責任者クラスに対する発電所設備や系統に関する教育を教育時間の増加や原子力保安研修所の教育への参加頻度の増加等により一層強化し、運転中の設備への安全確保対策に関する能力向上を図る。また、当社および関係会社の技術員が定期点検や日常保修において、自ら直接設備点検に従事する機会を増やし、発電所設備や系統に関する習熟度の一層の向上を図る。
+（２）ヒューマンエラー防止活動の強化
+伊方発電所の管理職からヒューマンファクター担当者を選任し、ヒューマンエラーや安全確保対策等に関する事例研究や教育等の継続的な活動を展開し、ヒューマンエラー撲滅に向けての意識の高揚と資質の向上を図る。これらの活動については、社外のヒューマンファクター分析技術に精通した専門家の指導を得ながら推進する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/06/30 17:25:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所１号機（定格電気出力５６６ＭＷ）は定格熱出力一定運転中（電気出力５８１ＭＷ）のところ、５月１９日１０時００分、伊方南幹線１，２号線の遮断器が開放して送電が停止し、１号機の電気出力が約３０ＭＷまで自動的に低下した。
+　このため、現場を調査したところ伊方南幹線１，２号線後備リレーが乙母線電圧低により動作していることが確認された。
+　その後、乙母線電圧低下原因を調査した結果、屋内開閉所内で工事中のガス絶縁開閉装置の試験操作で発信された誤信号により伊方南幹線１，２号線後備リレーが動作したことが判明し、２１時３０分、伊方南幹線１号線の遮断器を投入し送電を再開した。　
+　なお、本事象による周辺環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-四国-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上の調査結果より、本事象の原因は
+（１）試験要領書の作成・審査にあたって、その方法・手順および留意事項（チェックポイント）を定めたものがなかったことから、標準的な試験要領書で計画されたこと
+（２）この標準的な試験要領書が作業管理責任者および各作業責任者間のコミュニケーション不足により、試験条件に合わせた必要な隔離条件を追記する等の見直しが行われなかったこと
+から、本来必要であった隔離が行われずＧＩＳ主回路抵抗測定試験を実施した結果、　操作した断路器に連動した補助リレーが動作し、乙母線ＰＤ２次回路が接地中の甲母線のＰＤ２次回路と接続状態となり、乙母線のＰＤ２次回路の電圧が低下し、送電線後備リレーの動作により遮断器が開放され、送電停止に至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[送電停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>581</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/05/24 15:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[遮断器・断路器*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2408</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[超高圧遮断器]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[264]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[20]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力低下]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2408</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

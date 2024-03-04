@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8763</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/04/17 17:08:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3741</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/04/06 16:09:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070326]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２１回定期検査中の平成１９年３月２６日、原子炉補助建屋の機器ドレンキャップ（※１）から水が漏えいしていることを当社社員が発見した。状況を確認したところ、ほう酸補給タンク内の純水を排出しており、排出先の廃液ホールドアップタンク（※２）の受入弁が閉止されていた。このため、直ちに純水排出作業を中止するとともに、受入弁を開放し漏えいは停止した。漏えいした水は、床面の排水目皿を通じて全て回収され、環境への放射能の影響はなかった。なお、漏えい水量は約０．１ｍ３と推定され、床面に汚染のないことを確認した。
+
+　調査を行った結果、廃液ホールドアップタンクの水位計の性能検査（※３）を担当する原子炉保修課は、検査前に廃液ホールドアップタンクの受入弁の切替操作を実施する必要があることから、隔離明細書（※４）に記載して検査に必要な操作として発電室に依頼した。その際、当該弁の切替操作を発電室で実施することは、隔離明細書の注意事項にしか記載しておらず、発電室は当該弁の切替操作を実施しなければならないという認識を持っていなかった。
+　一方、原子炉保修課は、当該弁の切替操作を発電室に連絡した際に、お互いに依頼内容を十分に確認しなかったことから原子炉保修課は当該弁の切替操作が許可されたものと思い込み、当該弁を閉止した。その後、別の作業のため発電室がほう酸補給タンク内の排水作業を実施したが、当該弁が閉止していたことから、排出した水が逆流し、漏えい事象に至った。
+　このことから、操作移管されていない弁は操作しないという基本動作が守られていなかったこと、および具体的な操作内容の相互確認が不十分であったことが原因と推定された。
+
+　再発防止対策として、発電所長から全所員に対し、基本動作の徹底を周知徹底した。また、一括隔離、他課所管の定期事業者検査、移管を伴うものなどには、作業前に隔離明細書の内容について、発電室と担当課が必ず対面で打ち合わせを実施して相互確認を行うことを周知徹底した。
+
+※１：機器ドレンキャップ
+　機器ドレン配管が床から出ており、その配管にドレンやベントからのホース使用時に差し込んでドレンを流すものであり、不使用時は、ねじのついたキャップが取り付けてあるもの。
+
+※２：廃液ホールドアップタンク
+　機器開放時のブロー水、床清掃時の純水、機器のシール水などを受け入れるタンク。
+
+※３：性能検査　
+　動作要素の標準値（模擬信号）を加え、そのときの出力を確認する定期事業者検査。
+
+※４：隔離明細書　
+　検査に伴う発電室員、検査担当課員（原子炉保修課員）の操作範囲、内容、操作順番を明確にし、発電室、検査担当課の双方で確認した帳票。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉補助建屋での水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/17 17:08:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

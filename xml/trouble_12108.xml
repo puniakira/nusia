@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12108</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/01/28 16:00:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/09/25 11:07:33]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201409122230]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/01/28 16:00:25]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成26年9月12日午後10時30分頃、福島第二原子力発電所3、4号機サービス建屋1階着替所（放射線管理区域）床面に水たまりがあることを巡視点検に向かう当社社員が発見した。付近の状況を確認したところ、着替所内のトイレ（小便器）から洗浄用水（非放射性）があふれ床面へ漏えいしていることを確認した。
+　午後10時58分頃、洗浄用水元弁を閉止し、洗浄用水の漏えいは停止した。
+　その後、洗浄用水の漏えい状況を確認したところ、3、4号機サービス建屋１階着替所内および地下１階ホットラボ室内の一部に漏えいによる水たまりを確認した。漏えいした水の総量は約220 リットルと推定している。
+　なお、これによる外部への放射能の影響はない。
+
+１．調査結果
+調査の結果、以下のことがわかった。
+・小便器を自動洗浄する際に開閉する給水電磁弁（タイマー制御）のシート部に異物が噛み込んでいたこと。
+・小便器の排水先となっている便槽の満杯を検知するセンサーが異物の付着により動作していなかったこと。
+
+２．推定原因
+　小便器の自動洗浄後，給水電磁弁が自動で閉じたものの，異物の噛み込みにより完全に閉まらず，洗浄用水が流れ続けたことにより、便槽の容量を越えて満杯になったと推定した。さらに，便槽が満杯になると給水電磁弁の上流にある弁が自動で閉じる仕組みとなっていたが、満杯を検知するセンサーが異物の付着により動作しなかったことから弁が閉じず，これにより洗浄用水が流れ続け，小便器から溢れ出たものと推定した。
+
+３．今後の対応
+　便槽の満杯を検知するセンサーについては清掃を実施，給水電磁弁については分解点検を実施し異物を除去し，センサーおよび弁が正常に動作することを確認したが，当該のトイレについては当面使用禁止とした。
+今後使用を再開する場合は，運用方法等を検討したうえで再使用する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-S049]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所３、４号機サービス建屋における放射線管理区域内トイレの洗浄用水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/09/26 09:16:41]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

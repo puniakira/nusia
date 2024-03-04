@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　浜岡原子力発電所から同埋設センターに2018年3月25日に引き渡したドラム缶960本、および同年5月に浜岡原子力発電所から搬出する予定であったドラム缶928本のうち、底部に塗装の剥がれ等が確認された当該ドラム缶4本について、塗装の剥がれ等が発生した要因を特定するため、要因分析図に基づき調査を実施した。
+その結果、当該ドラム缶5本のうち、ドラム缶底部に塗装の膨らみが確認された1本のドラム缶については、ドラム缶製造メーカの製造過程において、ドラム缶外表面の乾燥工程中に塗装面に付着した空気中の微細な鉄粉が、時間経過に伴って錆びて膨れたことで、ドラム缶外表面の塗装が膨らんだものであることを確認した。
+
+上記1本を除く4本のドラム缶について、以下の①から⑧を確認した。
+
+①ドラム缶底部内面に傷を確認
+②モルタルとドラム缶底部内面との界面にすき間を確認
+　すき間の直上に平らな形状のコンクリートガラが収納されていることを確認
+③ドラム缶底部内面に塩素（Cl）を確認
+④ドラム缶底部内面から外面に達する腐食を確認
+⑤ドラム缶底部外面に、塩化物イオン（Cl-）が存在する環境下で生成される鉄の腐食生成物（アカガネイト）、および亜鉛の腐食生成物（塩基性塩化亜鉛）を確認
+⑥ドラム缶底部外面にモルタルの成分であるカルシウム（Ca）等を確認
+⑦ドラム缶内部に水分（飽和水蒸気量近くの水蒸気）が存在し得ることを文献にて確認
+⑧ドラム缶底部内面からの腐食がドラム缶底部外面に達していることを確認]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[143]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12935</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2022/06/03 16:14:41]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[低レベル放射性廃棄物（ドラム缶）]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>83266</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/03/01 18:52:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20180423]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の塗装の剥がれ等は、ドラム缶底部内面にできた傷と、モルタルとドラム缶底部内面との界面にできたすき間を起因にドラム缶底部内面に発生した腐食が原因であると推定したことから、今後、以下の再発防止対策を実施する。
+
+（1）ドラム缶底部内面にできる傷の発生を低減する対策
+ドラム缶底部内面に傷を付けやすい廃棄物をドラム缶底面に入れないようにすること、およびドラム缶底部に廃棄物を収納する際はドラム缶を傾け収納しやすくすることで、ドラム缶底部内面の傷の発生を低減させる。また、板状の廃棄物が存在する場合は、板状の廃棄物をドラム缶底部に収納する。
+
+（2）モルタルとドラム缶底部内面との界面にできるすき間の発生を低減する対策
+モルタル充填後、ドラム缶側面下部に振動機（新規購入した電直コテ型バイブレーター）で振動を与え、モルタルを浸透しやすくすることで、モルタルとドラム缶底部内面との界面にできるすき間の発生を低減させる。
+
+（3）ドラム缶内に廃棄物を収納する作業に従事する者への教育
+ドラム缶内に廃棄物を収納する作業に従事する者に対して本事象を周知するとともに、再発防止対策について教育を実施する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/06/03 16:14:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所から青森県六ケ所村にある日本原燃株式会社（以下、「日本原燃（株）」という。）低レベル放射性廃棄物埋設センターへ2018年3月25日に引き渡した低レベル放射性廃棄物の入ったドラム缶（以下、「ドラム缶」という。）960本について、同年4月23日、埋設に向けた検査の準備が同埋設センター内で始まったところ、同日、日本原燃（株）より、準備中のドラム缶1本の底部に塗装の剥がれおよび水滴の付着がある旨の連絡を受けた。
+　当該ドラム缶の底部にみられた水滴をふき取り、放射能を測定した結果、検出限界値未満であることも連絡を受けた。
+
+　その後、本事象を踏まえて、同年5月10日から6月1日にかけて、当該ドラム缶以外の同埋設センターに引き渡したドラム缶959本および同年5月に浜岡原子力発電所から同埋設センターへ搬出予定であったドラム缶928本の外観確認を実施した結果、それぞれ1本のドラム缶底部に塗装の剥がれおよび水滴の付着を確認した。
+　当該ドラム缶2本の底部にみられた水滴をふき取り、放射能を測定した結果、検出限界値未満であることを確認した。
+
+　更に、2019年2月25日から3月12日にかけて、同埋設センターでの一時貯蔵の期間が1年を超えるドラム缶について、日本原燃（株）の社内規定に基づき外観確認を実施した結果、1本のドラム缶底部に塗装の膨らみおよび水滴の付着を確認するとともに、1本のドラム缶底部に塗装の膨らみ（以下、塗装の剥がれ、水滴および膨らみを総称する場合「塗装の剥がれ等」という。）がある旨の連絡を受けた。
+　当該ドラム缶の底部にみられた水滴をふき取り、放射能を測定した結果、検出限界値未満であることも連絡を受けた。
+
+
+　以上、合計5本のドラム缶において、塗装の剥がれ等を確認した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-中部-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査の結果、当該ドラム缶4本は、廃棄物を収納した際や収納後にドラム缶を運搬した際にできたドラム缶底部内面の傷および廃棄物を収納後に充填するモルタルとドラム缶底部内面との界面にできたすき間に溜まった水分等が原因で、ドラム缶底部内面にできた傷を起点に腐食が発生し、その腐食が進展したことで、ドラム缶底部外面の塗装剥がれ等が発生したものと推定した。
+
+　推定メカニズムは、以下のとおり。
+
+①ドラム缶内に放射性廃棄物を収納する際または収納後の運搬においてドラム缶底部内面の溶融亜鉛めっき層あるいは母材に達する傷が発生。
+②ドラム缶内にモルタルを充填する際、ドラム缶底部の放射性廃棄物の収納状況（平らな形状のコンクリートガラの収納等）によってモルタルが浸透しにくい箇所が発生し、モルタルとドラム缶底部内面との界面の一部にすき間が発生。
+③すき間内部にモルタルが固化する際に発生したブリージング水（注1）が残留し、ドラム缶底部内面の傷から溶融亜鉛めっき層が溶解（注2）し、母材が腐食する環境あるいは母材が直接腐食する環境が形成。また、ブリージング水に含まれる塩化物イオンとすき間内部等の酸素によって腐食が発生。
+④母材の腐食が発生した後は、すき間内部の飽和水蒸気（湿分）、酸素、および塩化物イオンにより腐食が外面へ進展。腐食による体積膨張によってドラム缶底部外面の塗装に膨らみや剥がれ、割れ（傷）が発生。
+⑤モルタルとドラム缶底部内面との界面に出来たすき間内部の飽和水蒸気（湿分）が腐食部（母材の腐食が外面に達している箇所）からの毛細管現象（注3）や浸潤により、ドラム缶底部外面に水滴として発生。
+
+
+（注1）ブリージング水とは、モルタルに含まれるセメントなどの固体材料が固化する際に発生する水であり、腐食の要因となる塩化物イオンを含む。
+（注2）亜鉛は、pH6～12の範囲で安定であり、それ以外では急速に溶解する。
+（注3）毛細管現象とは、細い管（毛細管）の内側の液体が管の中を移動する現象のこと。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[低レベル放射性廃棄物のドラム缶底部の塗装の剥がれおよび水滴の付着]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[低レベル放射性廃棄物1本の底部に塗装の剥がれ等を確認した日]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/03/01 18:53:13]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>12090</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[低レベル放射性廃棄物（ドラム缶）]]></S_KIKI_NAME>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[低レベル放射性廃棄物（ドラム缶）]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12935</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[固体廃棄物貯蔵庫]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[143]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[放射性廃棄物管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[放射性廃棄物管理業務に関する同上の問題]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12935</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

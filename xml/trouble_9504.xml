@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9504</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/12/13 13:49:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4092</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/12/12 10:08:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200712101000]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　柏崎刈羽原子力発電所４号機使用済燃料プールにおいて、制御棒貯蔵ハンガー（*1）の点検をしていたところ、１２月１０日午前１０時頃、針金状のもの（長さ約３cm）、座金（直径約２cm）および中性子束計測管（*2）切断片と考えられるもの（約３cm×約１.５cm×約１cm）を発見した。また、同日午後５時頃座金（円環状、直径約２cm）１個を発見した。
+
+　その後、使用済燃料プール内のブレードガイド貯蔵ラック（*3）の点検を行っていたところ、１２月１２日午前９時４０分頃、座金（円環状、直径約２cm）を発見し、同日午後４時３５分頃、針金状のもの（長さ約１cm）を発見した。
+　
+　なお、原子炉と使用済燃料プールはプールゲートで仕切られており、またプール内には新燃料および再装荷する燃料が無いことから、燃料に影響を与えるものではない。
+　また、確認された座金および針金状のものについては回収済みである。
+
+*1　制御棒貯蔵ハンガー
+　炉内から取り出した制御棒を貯蔵するためのもの。
+*2　中性子束計測管
+　原子炉内の中性子数を計測する検出器の保護管。
+*3　ブレードガイド貯蔵ラック
+　ブレードガイドと呼ばれる燃料取り出し時に使用する制御棒の転倒防止の支持金具を貯蔵するためのもの。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S104]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料プールにおける異物]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/12/13 13:49:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

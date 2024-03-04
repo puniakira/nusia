@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[(1)可変周波数電源装置可変周波数電源装置（以下「電源装置」という）制御盤内の故障記録データを確認した結果、直流回路の過電流、出力回路の過電流及び直流回路の過電圧が確認され、直流回路の過電流により制御系が運転側（Ｃ１）から待機側（Ｃ２）へ切替り、再度直流回路の過電流となり、電源装置の停止（ＰＬＲポンプ（Ｂ）トリップ）に至ったことが判明したことから、直流回路の過電流、出力回路の過電流及び直流回路の過電圧発生要因ついて調査を行った結果、
+・ＧＴＯ（注３）のアノード－カソード間及びゲート－カソード間の短絡確認、ＧＴＯの素子漏れ電流測定、ＧＴＯゲートパルス測定の結果、Ｗ相のＧＴＯ１及び２が短絡していることが確認された。
+・インバータゲート制御回路を構成する各装置を接続しゲートパルスを確認した結果、制御系Ｃ１及びＣ２双方について、Ｗ相のＧＴＯ１用及びＧＴＯ２用のゲートパルスが発生せず、異常が認められた。Ｗ相のＧＵＧ基板（注４）をＶ相のＧＵＧ基板に交換して再測定を行った結果、異常は認められなかったことから、Ｗ相のＧＵＧ基盤に異常があることが判明した。
+（注３）ＧＴＯ：制御信号により、オン・オフが可能なサイリスタ（ゲートターンオフサイリスタ）。
+（注４）ＧＵＧ基板：ＧＴＯのオン・オフを制御する回路（基板）。
+
+(2)Ｗ相パワーモジュールユニットの点検・調査結果Ｗ相のＧＴＯ４個のうち、ＧＴＯ１及び２が短絡していること及びＷ相のＧＵＧ基板に異常が確認されたことから、Ｗ相パワーモジュールユニット(注５)を工場に持ち出し、詳細調査を実施した。
+（注５）パワーモジュールユニット：ＧＴＯ、フリーホイールダイオード、クランプダイオード、スナバ回路及びＧＵＧ基板の１相分をユニット化したもの
+ａ．Ｗ相パワーモジュールユニットの外観点検各部品の外観点検、ＧＵＧ基板点検、配線確認、冷却系統点検、ボルト類の緩み確認を実施した結果、ＧＴＯ１及び２のパルストランス保護用ヒューズが溶断していることが確認された。
+ｂ．Ｗ相パワーモジュールユニット素子漏れ電流測定ＧＴＯ、フリーホイールダイオード、クランプダイオード、スナバダイオードについて素子の漏れ電流を測定した結果、ＧＴＯ１及び２について判定基準（１０ｍＡ以下）を超過していることが確認された。
+ｃ．Ｗ相ＧＵＧ基板点検調査
+(ａ)Ｗ相ＧＴＯ１～４用ＧＵＧ基板点検各部品の外観点検及び信号伝達特性試験、無負荷特性試験等の機能試験を実施した結果、ＧＴＯ２についてはゲートパルスが出力されず、異常が認められた。
+(ｂ)Ｗ相ＧＴＯ２用ＧＵＧ基板損傷部位の調査動作不良が確認されたＧＴＯ２用ＧＵＧ基板の出力波形を測定した結果、異常な波形が確認されたため、制御用ＦＥＴ（注６）について導通確認を実施した結果、ＧＴＯオフ用ＦＥＴのソース－ドレイン間が短絡していることが確認されたことから当該基板の故障部位は、ＧＴＯオフ用ＦＥＴ回路であることが確認された。(注６)ＦＥＴ：制御信号により、オン・オフが可能なトランジスタ（電界効果トランジスタ）。
+(ｃ)Ｗ相ＧＴＯ２オフ用ＦＥＴ回路点検ＧＴＯオフ用ＦＥＴ回路の短絡の原因を調査するため、ＦＥＴの導通確認、基板パターンの確認、抵抗測定、コンデンサ容量測定を実施した結果、６個（Ｑ１３Ａ～Ｆ）のうち１個のＦＥＴ（Ｑ１３Ａ）のソース－ドレイン間が短絡していることが確認された。
+
+(3)ＧＴＯ及びＦＥＴ詳細調査結果
+工場調査の結果、不良が確認されたＷ相用ＧＴＯ１、２及びＧＴＯ２オフ用ＦＥＴ６個（不良品１個及び正常品５個）について、半導体工場にて詳細調査を実施した。
+ａ．ＧＴＯ１、２詳細調査を実施した結果、
+(ａ)ＧＴＯ１の素子の外周部１箇所に溶融痕が確認された。
+(ｂ)ＧＴＯ２の素子の外周部付近４箇所に溶融痕が確認された。
+ｂ．ＧＴＯ２オフ用ＦＥＴ詳細調査を実施した結果、
+(ａ)Ｘ線観察を行った結果、その内の１個（Ｑ１３Ａ）にはんだが再溶融したと推定される痕跡が確認された。
+(ｂ)電気特性試験を実施した結果、その内の１個（Ｑ１３Ａ）にゲート－ソース間及びソース－ドレイン間の短絡が確認された。
+(ｃ)上記の詳細調査で異常が認められた、ＦＥＴ（Ｑ１３Ａ）について分解調査をした結果、ソース側リード線取り付け部近傍に溶融箇所が認められ、その溶融箇所を起点にチップ（注７）表面に亀裂が発生していた。またチップ取り付け部のはんだが再溶融した痕跡が認められた。なお、ゲート側リード線取り付け部近傍には損傷が認められなかったことから、ソース－ドレイン間に過電流が流れたものと推定された。比較調査のため、正常であったＦＥＴ（Ｑ１３Ｂ）について分解調査を行った結果、内部に異常は認められなかった。
+（注７）チップ：ＦＥＴ素子の半導体部分
+(ｄ)ソース側リード線取り付け部近傍の溶融箇所について走査型電子顕微鏡にて観察した結果、局部的にシリコン及びアルミ膜が溶融した痕跡が認められた。
+ｃ．ＧＴＯオフ用ＦＥＴ損傷再現試験ＦＥＴが損傷に至る要因を特定するため、ＦＥＴ損傷再現試験を行った結果、過電流試験のうちＦＥＴ強制オン試験のサンプルに当該不具合ＦＥＴと同様な損傷様相を再現することが確認できた。その他の損傷再現試験については、当該不具合ＦＥＴの損傷様相と異なることが確認された。
+ｄ．ＦＥＴの品質管理状況調査不具合品と同型のＦＥＴについて、過去に生産した実績及び故障発生状況等を調査した結果、２００１年上期から２００４年上期までに約１００万個の製造実績があり、その内２個が返品されているが、いずれも製造時での不具合でなく外部要因による過電流で損傷したものであることが確認された。また、ロット異常となるような製造工程での履歴、市場での不具合実績は確認できなかった。製造工程における品質管理状況について確認したところ、製造工程毎に管理項目を定め適切に管理されており、製品の出荷時には、全数について必要な検査が実施されていることを確認した。また、過去３年間における当該組み立てラインの設計変更、製造ラインの変更及び材料の変更等は認められなかった。さらに当該装置に使用しているＦＥＴの製造時期（２００２年１２月）の歩留まり状況を確認した結果、他のロットとの有意な差は認められなかった。
+
+(4)その他点検箇所負荷の異常変化により可変周波数電源装置「重故障」警報が発生した可能性を評価するため、モータ及びポンプの運転記録の確認等を実施した結果、異常は認められなかった。
+
+(5)「再循環ポンプＡ可変周波数電源装置軽故障」等の警報発生について当該警報等が発生し、ＰＬＲポンプ（Ａ）がランバックした原因については、ＰＬＲポンプ（Ｂ）の自動停止に伴い、原子炉熱出力が低下し、さらに原子炉を安定した状態に保つため、運転操作手順書に基づき原子炉熱出力を低下させる操作を実施していた過程において、給水流量が「給水流量低ランバック」作動判定値（８６９t/h）に極めて近接していたためのインターロックどおりの正常な動作であり、機器の故障により発生したものではないことが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2562</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/06/14 09:54:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3015</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/10/07 18:14:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200409290834]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）偶発的な損傷が確認されたＷ相のＧＴＯオフ用ＦＥＴ１個、及び調査のため取り外したＷ相のＧＴＯオフ用ＦＥＴ５個について新品への取替えを行う。また、損傷したＷ相のＧＴＯ１及び２についても新品への取替えを行う。
+（２）なお、念のため当該損傷ＦＥＴと同じロット（同じ型式で同じ月に製造したもの）であるＧＴＯオフ用ＦＥＴ全て（１３８個）を新品へ取替え、さらに、ＧＴＯの制御に用いているＧＴＯオン用ＦＥＴ全て（４８個）についても新品への取替えを行う。
+（３）ＦＥＴの取替えに際しては、偶発的な故障の確率を低減させるため、素子漏れ電流試験の管理値を従来の「１００μＡ以下」から「０．１μＡ以下」に変更し、試験に合格したＦＥＴを用いる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/14 09:54:56]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所２号機は、定格電気出力（７８４ＭＷｅ）にて運転中のところ、平成１６年９月２９日　８時３４分、中央制御室において「ＰＬＲ　ＰＵＭＰ　Ｂ　ＴＲＩＰ（再循環ポンプＢトリップ）」、「ＰＬＲ－ＩＮＶ（注１）　Ｂ　ＣＯＮＴ　ＴＲＯＵＢＬＥ（再循環ポンプＢ可変周波数電源装置制御系故障）」、「ＰＬＲ－ＩＮＶ　Ｂ　ＨＥＡＶＹ　ＦＡＩＬＵＲＥ（再循環ポンプＢ可変周波数電源装置重故障）」、「ＰＬＲ　ＰＵＭＰ　ＭＴＲ　Ｂ　ＵＮＤＥＲ　ＶＯＬＴＡＧＥ（再循環ポンプモータＢ低電圧）」等の警報が発生するとともに、原子炉冷却材再循環ポンプ（以下「ＰＬＲポンプ」という）（Ｂ）がトリップした。これにより発電機出力は約５４０ＭＷｅに低下した。その後、ＰＬＲポンプ（Ａ）速度の降下操作と制御棒の挿入により発電機出力を約１４０ＭＷｅまで降下させたところ、「ＰＬＲ－ＩＮＶ　Ａ　ＬＩＧＨＴ　ＦＡＩＬＵＲＥ（再循環ポンプＡ可変周波数電源装置軽故障）」、「ＲＥＣＩＲＣＵＬＡＴＩＯＮ　ＣＯＮＴＲＯＬ　ＰＡＮＥＬ　ＴＲＯＵＢＬＥ（再循環流量制御盤故障）」の警報が発生し、ＰＬＲポンプ（Ａ）がランバック(注２)した。ＰＬＲ制御系Ａ、Ｂ両系において「ＰＬＲ－ＩＮＶ　Ｂ　ＨＥＡＶＹ　ＦＡＩＬＵＲＥ（再循環ポンプＢ可変周波数電源装置重故障）」、「ＰＬＲ－ＩＮＶ　Ａ　ＬＩＧＨＴ　ＦＡＩＬＵＲＥ（再循環ポンプＡ可変周波数電源装置軽故障）」の警報が発生したことから原因調査のため原子炉を手動停止することとし、同日１７時３２分より原子炉熱出力降下を開始し、１８時０１分発電機を解列、２２時２１分原子炉を手動停止した。なお、本事象による外部への放射性物質の影響はなかった。
+（注１）ＩＮＶ　　：可変周波数電源装置（インバータ）。直流電源を所定の周波数の交流電源に変換する装置のこと。
+（注２）ランバック：給水流量の減少によるＰＬＲポンプの損傷防止（キャビテーション防止）のため、給水流量が８６９t/h以下まで減少した場合、ＰＬＲポンプ速度を３０％に自動的に低下すること。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-T032]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[以上より、今回の事象に至った原因は、以下のとおりと推定される。
+(1)ＧＴＯ２オフ用ＦＥＴの損傷原因損傷再現試験の結果から、ＧＴＯ２がオン状態においてオフ用ＦＥＴ６個の内の1個だけが動作状態となり、過電流が流れ損傷したと推定される。ＦＥＴ１個だけが動作状態になった原因としては、損傷再現試験の結果から外的な要因での過電流による損傷ではないと判断されること、及び設計的に１個のＦＥＴに過電流が流れる可能性はないと判断されることから、製造時にソース－ドレイン間のＰＮ接合部の形成が局所的に不十分で、動作中の電圧印加により当該部分に素子漏れ電流が流れ、ＰＮ接合部の耐電圧が徐々に低下、最終的には回路電圧に対して耐電圧不足となり、ソース－ドレイン間の短絡に至ったものと推定される。なお、品質管理状況調査結果より、今回と同様の故障は確認されなかったことから、ＧＴＯ２オフ用ＦＥＴの損傷については、ＦＥＴ内部の偶発故障であると推定される。
+
+(2)ＧＴＯ２の損傷原因素子の分解調査の結果、素子の外周部付近の溶融痕がターンオフ（注）破壊の特徴と一致していること、また、ＧＴＯオフ用ＦＥＴが損傷していることから、ＧＴＯオン直後のオフ禁止時間帯（１００μｓ）にターンオフ動作し電流を遮断したため損傷したものと推定される。
+(注)ターンオフ：ＧＴＯがオン状態からオフ状態になること（電流を遮断すること）。
+
+(3)ＧＴＯ１の損傷原因素子の分解調査の結果、素子の外周部の溶融痕がターンオフ破壊の特徴と一致していること、また、ＧＴＯオフ用ＦＥＴが損傷していないこと及び故障記録データによりインバータ電流が過大に流れていることが確認されたことから、制御系が運転側（Ｃ１）から待機側（Ｃ２）へ切替り再起動したが、ＧＴＯ２が損傷していたため、再度直流過電流が流れＧＴＯ１が遮断能力を超える電流を遮断したため損傷したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉冷却材再循環ポンプ（Ｂ）トリップに伴う原子炉手動停止について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>784</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/10/08 17:25:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[220]]></KIKI_CODE>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[半導体部品（整流器，ＩＣ等）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2562</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[220]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[インバータ]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[709]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[709]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[インバータ装置]]></KIKI_NAME>
+					<SORT_NO>13</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉冷却材再循環系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[104]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[104]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2562</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

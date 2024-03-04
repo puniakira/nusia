@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．サンプリング装置改造工事の概要
+　当所４号機の換気系排気筒入口放射線モニタ系不適合（サンプルポンプ停止により当該放射線モニタに要求しているチャンネル数が維持できないため運転上の制限を逸脱、平成１６年１２月５日発生。）の水平展開として，当該放射線モニタ系と同様な流量調節弁による流量調整方法を行っているＳＧＴＳ排ガス放射線モニタ測定系について，流量調整の信頼性向上の観点から流量調整弁よりも安定に流量調整出来るインバータ方式へ変更するための改造工事を１１月中旬頃から約１ヶ月間実施することを予定していた。
+
+２．聞き取り調査結果
+　事象の経緯について関係者からの聞き取り調査を実施した結果，以下のことを確認した。
+
+（１）計測制御グループからの聞き取り調査結果
+ａ．１０月３１日，改造作業にあたっては仮設サンプルポンプを設置してＳＧＴＳ排ガス放射線モニタの機能を維持すること，及びサンプルポンプを本設から仮設への切替をＳＧＴＳの運転が予定されていない１１月９日に実施することで作業許可申請書（以下，「ＰＴＷ」という。）を作成した。
+
+ｂ．１１月１日，ＰＴＷ承認後，定検グループへＰＴＷ調整管理データベースにて，ＰＴＷの受付・安全処置を依頼するとともに，ＳＧＴＳ排ガス放射線モニタサンプルラック改造中は仮設サンプルポンプにてサンプリング出来るようにすることを連絡した。
+
+ｃ．１１月２日，放射線・化学管理グループへＳＧＴＳ排ガス放射線モニタサンプルラックの改造工事を実施する連絡文書を送付した後，電話にてＳＧＴＳ排ガス放射線モニタサンプルラックのサンプルポンプをインバータ化する改造工事を実施すること，１１月９日から１２月３日までは仮設サンプルポンプで運用すること，後日，詳細な工事内容を説明する旨を連絡した。
+
+ｄ．１１月７日，定検グループへＰＴＷを説明した際に，工事施工要領書を添付するよう依頼があった。
+　その後，工事施工要領書において当該フィルタをバイパスすること，及び本設サンプルポンプをバイパスし仮設サンプルポンプによりサンプリングするライン構成となっていたことから，放出管理用のＳＧＴＳ排ガス放射線モニタの機能が確保されていることを確認し承認した。
+　尚，当該フィルタにバイパスラインを取付けたのは，工事が当該フィルタ前後の電磁弁・配管・ヒーター等の配線変更やサンプルポンプ等を交換するもので範囲がサンプルラック内のほぼ全ての機器であったことから，作業性の観点や仮設ポンプによるサンプリング運転への影響を考慮し実施したものである。
+
+ｅ．１１月８日，工事施工要領書の内容を反映した改訂版のＰＴＷを作成した。
+　その後，承認された改訂版のＰＴＷを定検グループへ提出し添付した工事施工要領書やバイパスラインを記載した配管計装線図を使用し作業内容を説明した。
+　又，放射線・化学管理グループへ改造工事の内容を再説明した際には，バイパスラインが記載されていない既存の配管計装線図を使用し口頭で実施した。
+
+ｆ．１１月９日，当該フィルタをバイパスしサンプルポンプを本設から仮設へ切替えた後，サンプリングラインの運転を再開した。
+
+（２）定検グループからの聞き取り調査結果
+ａ．１１月２日，計測制御グループからＰＴＷ調整管理データベースを受付・確認した。
+
+ｂ．１１月７日，計測制御グループへＰＴＷに工事施工要領書を添付するよう依頼した。
+
+ｃ．１１月８日，前日の依頼事項を反映した改訂版のＰＴＷについて説明を受け審査した後，当直長の承認を受けた。
+　その段階で，仮設サンプルポンプの設置によりＳＧＴＳ排ガス放射線モニタの機能を維持することになっていたため，放出管理上，問題ないと認識していた。
+
+ｄ．１１月１１日の１０時頃からＳＧＴＳ換気ファン（Ａ）分解点検組立後の確認運転，及び同１２日の１３時頃から原子炉建屋換気空調系隔離弁点検に伴い当該空調を停止し原子炉建屋原子炉棟を負圧維持するためＳＧＴＳ（Ｂ）を運転した。
+
+（３）放射線・化学管理グループからの聞き取り調査結果
+ａ．１１月２日，計測制御グループから口頭で説明を受けた内容を連絡文書に記載した後，放射線・化学管理ＧＭまで上覧し承認した。
+
+ｂ．１１月８日，作業主管グループから工事内容について再説明があった際，本設サンプルポンプ前後のラインをバイパスし仮設サンプルポンプを１台設置することについては説明があったが，当該フィルタをバイパスすることについては説明を受けなかった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8539</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/10/01 10:53:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>17599</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/11/15 18:48:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611151600]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）保安規定第８９条第１項に定める排気筒等に係わる放射線モニタ等の設備を点検する設備保全ＧＭは，あらかじめ放射線・化学管理ＧＭに放射線モニタや試料採取設備等の点検項目や欠測の有無等を連絡し，放射線・化学管理ＧＭが承認した後に作業を行うことをマニュアルに記載した。
+　又，本運用について所内関係者へ周知した。
+
+（２）保安規定に係わる設備のうち，管理，運用，保全のグループが各々異なる設備について抽出した。
+
+（３）設備保全ＧＭは，抽出した設備に係わる改造工事や機能の一部を停止する工事を行う場合には，当該設備の保安規定上の運用グループが工事内容を承認した後に作業を行うことをマニュアルに記載する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[平成18年11月15日、本事象については保安規定に抵触するものであると、東京電力が判断しプレス公表を行った。
+その後、平成18年11月30日、保安検査官事務所が区分「監視」と判定した。
+そのため、本件は保安規定違反「なし」としてニューシア登録する。
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/01 10:53:44]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１８年９月２１日より第１４回定期検査期間中の当所４号機において，平成１８年１１月１５日，委託分析員が非常用ガス処理系（以下，「ＳＧＴＳ」という。）の排気筒におけるよう素濃度及び粒子状物質濃度の定例分析のため，ＳＧＴＳ排ガス放射線モニタサンプルラック内のよう素及び粒子状物質を採取するフィルタを交換しようとしたところ，当該フィルタ入口弁に「閉」の操作禁止タグが取り付けられていたことから当社監理員へ連絡した。
+　その後，当社監理員がＳＧＴＳ排ガス放射線モニタサンプルラックを調査したところ，仮設サンプルポンプにてサンプリングラインが運転されていたが，当該フィルタ入口弁が閉状態で当該フィルタをバイパスするためのホースが設置されていたため，よう素及び粒子状物質の採取ができないライン構成になっていたことを確認した。
+　このため，所内関係者にて事実関係を調査したところ，当該フィルタがバイパスされた以降，ＳＧＴＳが約７時間運転されていたことを確認した。
+　ＳＧＴＳ運転時には，保安規定第８９条第１項にて希ガス濃度，よう素１３１濃度及び粒子状物質濃度（主要ガンマ線放出核種）を測定することになっているが，ＳＧＴＳ排ガス放射線モニタサンプルラック改造工事のため，よう素１３１及び粒子状物質を採取し濃度測定する当該フィルタがバイパスされており，よう素１３１及び粒子状物質の採取が出来ない状態であったことから，保安規定第８９条第１項に抵触するものと判断し，平成１８年１１月１５日１４時３０分頃に当該バイパスラインを本設ラインへ切替え復旧した。
+
+　当該フィルタがバイパスされていたことからＳＧＴＳ運転時におけるよう素１３１及び粒子状物質の放出評価を実施した結果，放出はなかったものと評価された。
+　尚，原子炉建屋６階において照射された燃料に関わる作業は実施されていないため燃料損傷が発生する可能性はなかったこと，原子炉内の全燃料は使用済燃料プールに移動されていたことから，安全上の問題はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-M035]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　ＳＧＴＳ運転時に試料（よう素及び粒子状物質）がサンプリングできなかったことについて原因を追及した結果，要因を以下の通り分析した。
+
+（１）計測制御グループは，自グループが保守している設備に関し，その機能や保安規定上の要求事項は理解していたが，放射線・化学管理グループが運用している当該フィルタについては，注意を向けることができなかった。
+
+（２）当直は，自らが管理している設備に関し，その機能や保安規定上の要求事項は理解していたが，放射線・化学管理グループが運用している当該フィルタについては，注意を向けることができなかった。
+
+（３）保安規定上の多グループに係わる設備の認識が明確になっていなかった。
+
+（４）保安規定に係わる設備の工事を行う際に，設備を運用するグループが作業内容を確認する仕組みがなかった。
+
+（５）放射線・化学管理グループに改造工事について，伝えるべき項目が決まっていなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用ガス処理系の測定に係る不適合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[保安規定に抵触する不適合と東京電力が判断した日時]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>17598</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/28 10:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+			<TROUBLE_ID>8539</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8539</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[よう素及び粒子状物質採取用フィルタ]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8539</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[401]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[放射線検出器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ガス処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[135]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8539</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0409]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>20</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0409]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8539</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8539</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8539</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

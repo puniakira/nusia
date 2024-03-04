@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．制御棒（46-11）が挿入されなかった問題
+　・ 当該制御棒を含む１０本の制御棒操作においては当直長統括のもと、操作員Ａが手順書の
+　　チェック欄記入と未臨界の確認を行い、操作員Ｂが原子炉建屋６階の燃料取替作業員との連絡、
+　　操作員Ｃが制御棒操作を行っていた。
+　・ ３本目の制御棒（42-11）挿入開始までは操作員Ａが手順書のチェック欄記入を行っていたが、
+　　15時からの当直間の引継準備のため、３本目が全挿入になる前に手順書のチェック欄に
+　　挿入完了（予定）時刻を記入し、操作員Ｂに制御棒（42-11）挿入中であることを口頭で連絡し、
+　　交代した。
+　・ 操作員Ｂは手順書のチェック欄に３本目の挿入完了時刻が記入されていたこと、また操作員Ｃの
+　　全挿入報告の際に制御棒の番地を確認しなかったことから、４本目の制御棒（46-11）が全挿入した
+　　と思いこみ、３本目の制御棒全挿入時刻を４本目の当該制御棒の欄に記入した。
+　・ このため、当該制御棒（46-11）が挿入されないまま、次の制御棒（50-11）操作に移行した。
+２．制御棒（46-11）が挿入されていないことがチェックできなかった問題
+　・ 操作員は手順書のチェック欄により、どのステップまで手順が進行していたかを識別していた
+　　ものの、手順書のチェック欄は制御棒操作後に制御棒状態の確認を確実にする様式とは
+　　なっていなかった。
+　・ 制御棒の状態確認は手順書のチェック欄以外に、ＣＲＴ画面などの独立の手段によって実際の
+　　位置を確認することも可能であったものの、これらの手段では確認しなかった。
+　・ 当直長は、操作員Ｂから「制御棒の挿入操作完了」の報告を受け、燃料装荷条件を満足している
+　　ものを判断した。このため制御棒（46-11）が未挿入のまま燃料装荷の開始を指示した。
+　・ このため、制御棒（46-11）が未挿入の状態で燃料装荷が行われた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>275</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/02/09 16:13:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[３号機は、第12回定期検査において、平成15年6月10日1時30分から燃料装荷作業を実施していたところ、平成15年6月14日14時26分から開始した１０本の制御棒挿入作業において、本来、燃料を装荷する１０個のセルすべてに制御棒が挿入された後、燃料装荷を開始する手順であったにもかかわらず、１個のセル（46-11）に制御棒が未挿入のまま燃料集合体２体が装荷された。　
+その後、16時の定期運転記録採取を行っていた操作員が、当該制御棒（46-11）が挿入されていないことに気づき、16時02分に当直長に報告した。報告を受けた当直長は、燃料取替手順書の記録、制御棒の状態表示ＣＲＴ画面、定時運転記録等を照合し、当該制御棒が挿入されていないことを確認した。　
+このため、当直長は16時10分に保安規定第83条4項及び5項の規定を満足していないことを判断するとともに、燃料装荷作業を中断し、当該制御棒の挿入を指示した。　
+指示を受けた操作員は、燃料装荷作業を中断、及び当該制御棒を挿入し、当直長に報告した。　
+当直長は、燃料装荷作業の中断及び当該制御棒の挿入の報告を受け、16時40分に保安規定第83条の規定を満足したことを確認した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>534</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/10/01 10:04:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200306141610]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．基本動作・ルール遵守の再徹底
+　　・ 発電部長は当直長に対して、今回の事象を説明するとともに、基本的事項を再徹底するよう
+　　　指示する。
+　　・ 各当直長は、本件の事例検討会を実施し、当直員に基本的事項の徹底について指導する。
+　　・ 発電部長は、基本的事項の遵守が定着していることを、定期的に確認する。
+２．制御棒操作を確実に実施するための確認方法の明確化
+　　・ 以下の対策を盛り込んだチェックシートを使用して燃料取替を行うこととし、燃料取替手順書
+　　　及び発電所が共通で遵守する本店制定の「燃料管理マニュアル」に反映する。
+　　　i.制御棒の挿入・引抜の一連のステップ終了後に、当直長が手順書のチェック欄による確認
+　　　　　以外に制御棒状態を表示するＣＲＴ画面などにより、操作結果の確認を行う。
+　　ii. 制御棒を操作する際に、操作手順をＣＲＴ画面に表示させ、手順と違う制御棒を選択した
+　　　　　場合には誤選択であることをＣＲＴ画面に表示させる機能を有している
+　　　　　ロッドワースミニマイザ（ＲＷＭ）を使用する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[経済産業省原子力安全・保安院からの指示文書
+平成１５年８月７日付「福島第二原子力発電所保安検査結果について（改善指示）」
+（平成１５・０８・０１原院第１号）
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/02/09 16:13:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　３号機は、第12回定期検査において、平成15年6月10日1時30分から燃料装荷作業を実施していたところ、平成15年6月14日14時26分から開始した１０本の制御棒挿入作業において、本来、燃料を装荷する１０個のセルすべてに制御棒が挿入された後、燃料装荷を開始する手順であったにもかかわらず、１個のセル（46-11）に制御棒が未挿入のまま燃料集合体２体が装荷された。　
+　その後、16時の定期運転記録採取を行っていた操作員が、当該制御棒（46-11）が挿入されていないことに気づき、16時02分に当直長に報告した。報告を受けた当直長は、燃料取替手順書の記録（以下、「手順書のチェック欄」という）、制御棒の状態表示ＣＲＴ画面、定時運転記録等を照合し、当該制御棒が挿入されていないことを確認した。　
+　このため、当直長は16時10分に保安規定第83条4項及び5項※の規定を満足していないことを判断するとともに、燃料装荷作業を中断し、当該制御棒の挿入を指示した。　
+　指示を受けた操作員は、燃料装荷作業を中断、及び当該制御棒を挿入し、当直長に報告した。　
+　当直長は、燃料装荷作業の中断及び当該制御棒の挿入の報告を受け、16時40分に保安規定第83条の規定を満足したことを確認した。なお、本事象による外部への放射性物質の影響はなかった。
+　また、その後実施された国の平成15年度第１回保安検査（平成15年6月2日から20日）の結果、保安規定第82条第2項の規定に基づき作成した「燃料を装荷するセルについては，制御棒を全挿入しておく」手順に従って燃料取替を行うことを定めた保安規定第83条第1項※に違反するという指摘を受けた。
+
+※保安規定第83条（燃料取替）第1項の内容
+　　当直長は，第82条の燃料取替手順に従い，燃料取替機を使用して燃料取替を行う。
+　　（保安規定第82条）
+　　　燃料技術ＧＭは，燃料の取替えを実施する場合は，取替炉心の配置及び体制を燃料取替実施計画に
+　　　定め，主任技術者の確認を得て所長の承認を得る。
+　　２．燃料技術ＧＭは，燃料の取替えを実施する場合は，燃料取替実施計画に基づき，
+　　　　あらかじめ次の事項を満足する燃料取替手順を作成する。
+　　　　　　（１） 制御棒を引き抜くセルについては，燃料を全て取り出しておく。
+　　　　　　（２） 燃料を装荷するセルについては，制御棒を全挿入しておく。 
+　保安規定第83条（燃料取替）第4,5項の内容
+　　　炉心に燃料を装荷する場合は，当該セルに制御棒が全挿入されていることを確認する。
+　　　前項の確認ができない場合は，以下の措置を講じる。
+　　　　　　　　　・ 燃料装荷を中止する。
+　　　　　　　　　・ １体以上の燃料が装荷されているすべてのセルの制御棒全挿入措置を開始する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．基本動作・ルール遵守の不徹底
+　・ 「運転員の操作心得」として規定されている「操作にあたっては、同一の操作員が一貫して行う」
+　　というルールの遵守が徹底されていなかった。
+　・ 本来、制御棒全挿入確認後に完了時刻を記載すべきところ、それを予測して記入してしまった。
+　・ 制御棒全挿入時に制御棒の番地を確認せずに完了時刻を記入してしまった。
+２．燃料取替の実施段階における制御棒操作後の制御棒位置確認方法が明確になっていなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[燃料装荷作業手順の誤りに伴う保安規定違反事象について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[保安規定では，燃料を装荷する場合，燃料を装荷するセルに制御棒を全挿入しておくことを等を手順として定め，この手順で燃料装荷を実施しなければならないが，平成１５年６月１４日に実施された燃料装荷において制御棒が挿入されていないセルに燃料が装荷された。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/03 14:17:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+			<TROUBLE_ID>275</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>275</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>275</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>275</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>275</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

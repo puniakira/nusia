@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8631</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/03/16 09:54:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/02/05 16:18:36]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702041245]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/03/16 09:54:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成19年２月４日午後０時45分頃、福島第二原子力発電所の3･4号機廃棄物処理設備建屋において「窒素製造装置異常」の警報が発生したため、当該設備の委託運転員が現場を確認したところ、午後０時48分、窒素製造装置の空気圧縮機室内（非管理区域）の床に、水が漏れていることを確認した。
+　その後、当該装置を午後０時57分頃停止したことにより漏えいは止まった。
+　
+　漏れた水は約960リットル（非放射性）で、仮設のタンクへ回収した。調査の結果、以下のことがわかった。
+・漏えいした水は窒素製造装置用の空気圧縮機の冷却水（純水）であり、当該圧縮機の運転時に、冷却水が自動で供給されるとともに、当該圧縮機内の冷却水を排水する弁（排水弁）が自動で閉まる設計になっているが、排水弁が閉動作したにもかかわらず水が漏えいしたこと。
+・当該弁を分解点検したところ、弁内部の部品（ゴム製）に経年劣化による変形が確認されたこと。
+・漏えい検出器が漏えい箇所から離れた場所に設置されていること。
+
+　当該圧縮機の冷却水が漏えいした原因は、当該圧縮機の運転時に、当該弁が閉動作したが、弁内部の部品の変形により弁が完全に閉まらず、当該圧縮機の冷却水が漏えいしたものと推定した。また、漏えい検出器が漏えい箇所から離れた場所に設置されているため、漏えいの検出が遅れ、警報発生まで時間がかかったものと推定した。
+
+　対策として、当該弁および当該装置内の類似弁を新品に交換するとともに、今後、計画的に弁の交換を行うこととする。また、速やかに漏えいを検出するため、漏えい検出器を排水タンクの近傍に移設する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S072]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物処理用窒素製造装置の空気圧縮機室内（非管理区域）における非放射性の水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/07 13:20:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

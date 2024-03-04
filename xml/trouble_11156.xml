@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11156</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/11/26 15:55:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>18840</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/11/24 08:50:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100917]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[1.事象の発生状況
+　平成22年9月17日、定期検査で停止中の3号機において、起動操作のための準備作業として、非常用冷却系を自動起動可能な状態とするための操作を実施した。
+　この際、炉心スプレイ(A)系(以下、「CS(A)系」という)のポンプのスイッチの引き保持を解除したところ、通常であれば消灯するはずの同系統の待機不全ランプが消灯しなかった。
+　待機不全ランプが消灯しなかった原因を調査したところ、待機不全ランプの消灯条件となっているCS(A)の入口弁(MO-14-7A)(以下、「当該弁」という)は全開となっていたが、待機不全を検出する当該弁のリミットスイッチの接点にズレがあり、本来は全開時にOFFとなるべきところONとなったままであることが判明した。そのため、当該弁のリミットスイッチの調整を行い、全開時に待機不全ランプが消灯することを確認した。
+2.調査結果
+　調査の結果、以下のことが判明した。
+・「入口弁全開」の回路に不具合が認められ、実際の弁の状態が全開にもかかわらず、回路上では「入口弁全開」でない状態となっていたこと。
+・回路上の「入口弁全開」でない状態は、当該弁の全開状態を検出するリミットスイッチの接点のズレによるものであったこと。
+・当該弁は、定期検査において駆動部点検、作動試験を実施していたこと。
+3.推定原因
+　当該弁は、定期検査において弁駆動部の分解を実施しており、点検時にはリミットスイッチを取り外していたが、弁点検後の作動試験において、リミットスイッチの接点の状態の確認が不十分であったため、リミットスイッチの接点のズレに気がつかなかった。
+4.対策
+　現行の施工要領書ではリミットスイッチの接点の確認について、その方法及び確認した記録の残し方が明確に記載されていない。このため再発防止対策として、待機不全表示回路への接点を持つ電動弁に対して、開閉試験時にテスター等による接点の通電確認を行い、異常がないことを確認する。また、チェックリストの作成を行い接点の状態確認を記録に残すこととする。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S031]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[炉心スプレイ(A)系待機不全ランプ消灯しない件]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/11/26 15:55:01]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

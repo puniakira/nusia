@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2778</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/12 09:25:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/02/18 08:28:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502031745]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/08/12 09:25:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の当所３号機において、平成17年２月３日、地震検出器等に電源を供給している充電器盤を取り替えるために仮設電源につなぐ作業を実施していたところ、午後５時45分頃、「Ｂ系原子炉自動スクラム」､「地震加速度大トリップ」の警報が発生した。
+当該作業を行う際にはスクラム信号などを発生させる回路が動作しないような処置を実施するが，この処置の復旧が適切に行われていなかったために警報が発生したものと推定された。
+なお、当該事象は警報のみが発生したもので、原子炉の燃料はすべて取り出されている状態であり、安全上の問題はなく、外部への放射能の影響はなかった。　　　　　　　　　　　　　
+
+調査の結果、原因は，当該作業では、電源を仮設電源に切り替えるため、一時的に電源供給が停止することから、警報が発生しないような処置を実施していた。
+電源の切り替え作業が終了し、当該処置を取り外す際、地震検出器が信号発信状態にあるため、地震検出器本体をリセットして信号の発信状態を解除してから当該処置を取り外し復旧すべきところ、この操作を行わなかったために警報が発生したものと推定された。
+リセットが行われなかった原因は、作業チェックリストなどに当該処置の復旧条件（地震検出器本体のリセットが必要）が記載されていなかったこと及びリセットが必要なことを当直員が失念してしまったこと。
+
+今後、スクラム信号の処置に係わる作業チェックリストの様式に当該処置復旧時の条件および注意事項を記載するようマニュアルに反映するとともに、関係者に周知する。
+また、地震検出器からの警報発生を防止する処置を行う中央制御室制御盤内の当該箇所に「処置を復旧する前に現場の地震検出器をリセットする」旨の表示をする。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S100]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の福島第二原子力発電所３号機における警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/21 19:37:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

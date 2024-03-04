@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2411</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/13 20:02:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>2919</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/05/25 20:17:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200405241837]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/13 20:02:39]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第二原子力発電所２号機（沸騰水型、定格電気出力１１００MW）は第１５回定期検査中のところ、平成１６年５月２４日１６時４０分より社内自主検査の総合インターロック検査（※１）を実施していた。
+　同日１８時０９分に発電機の異常を示す模擬信号（※２）を投入し、原子炉がスクラムすることを警報および表示灯にて確認していたところ、１８時３７分に原子炉をスクラムさせる他の信号「スクラム排出容器（※３）水位高トリップ」警報が発生した。
+　なお、当該警報の発生は、スクラム排出容器内の水位が実際に上昇したものであったが、当該検査時、原子炉は停止中で全制御棒が全挿入状態であること、また原子炉の水位に変化はないことから、本事象による安全上の問題はなかった。
+　
+　スクラム排出容器へ水が流入する可能性を調査した結果、制御棒の位置を調節する制御棒駆動水圧系の電磁弁（※４）に漏れが生じ、電磁弁の下流側に設置してあるスクラム排出容器へ水が流入する可能性があることが分かった。
+　当該電磁弁について調査を行った結果、当該電磁弁は、原子炉運転時における通常の水の流れ（圧力）に対しては止水性があるが、逆の流れ（圧力）に対しては止水性を考慮していない設計でなっており、今回の社内自主検査においては、当該電磁弁に対して通常とは逆の流れ（圧力）となったため漏れが発生したものと分かった。
+　また、当該電磁弁と同型の予備の電磁弁および設置されている電磁弁（全１８５台）のうち５台について、実際に通常とは逆の流れ（圧力）を加えたところ、漏れが発生することが確認された。
+　さらに、設置されている同型の電磁弁１８５台全数について、通常の水の流れ（圧力）を加えて検査し、漏れが発生しないことを確認した。
+
+　当該事象は、原子炉停止時（全制御棒全挿入）に行う同様な検査において（他プラントを含めて共通的に）発生しうるものであり、原子炉運転時に発生することはなく、これによる安全上の問題はないが、計画外の警報が発生することを防止するため、以下の対策を実施する。
+○当該電磁弁に逆の圧力が加わらないよう検査前に元弁を閉め、検査前に確認することとし、検査手順書に反映する。
+○類似の試験条件のもとで実施する他検査の手順書についても、同様の対策を実施し、他発電所へも水平展開を図る。
+
+※１：総合インターロック検査
+　定期検査の最終段階の原子炉起動前に実施する社内検査で、原子炉、タービンおよび発電機相互間の電気回路が正常に作動することを確認する検査。
+　具体的にはタービン、発電機が停止する模擬信号を発信させ、原子炉がスクラム（自動停止）する機能等を確認する。
+
+※２：発電機の異常を示す模擬信号
+　検査のため、主発電機の電気的な異常状態を模擬するために入れる信号（「発電機比率差動」信号）。
+
+※３：スクラム排出容器
+　スクラムとは原子炉が緊急に自動停止することであり、スクラム信号が発生すると全制御棒が水圧駆動により原子炉内へ急速挿入される。その際、排出される水を受けるための容器としてスクラム排出容器が２個設置されている。
+
+※４：電磁弁
+　電磁石の働きを利用して、磁力により弁を開閉駆動させる弁のことで、電磁コイルへの電気を「入」「切」することにより弁を開閉する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[社内検査時におけるスクラム排出容器内の水位上昇について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/05/26 11:39:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

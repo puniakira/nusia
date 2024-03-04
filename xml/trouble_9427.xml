@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9427</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/12/18 18:00:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4043</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/11/05 18:04:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711031405]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/12/18 18:00:45]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第二原子力発電所１号機において、平成19年11月３日、残留熱除去系（Ａ）の点検のために、当該系統配管内の水抜き作業を行っていたところ、１４時５分頃、当社社員が原子炉建屋地下２階にある当該ポンプ（Ａ）室（堰内）のファンネル近傍の床に水が溜まっていることを確認した。
+　漏えいは確認した時点ですでに止まっており、漏れた水の量は、約２リットル、放射能量は約9.3×10^２ベクレルであることがわかった。
+　なお、漏れた水は、当該ポンプ（Ａ）室（堰内）にとどまっていたため、拭き取りにより回収および清掃を実施した。
+
+　水が漏えいした原因は、本来、閉まっているべき当該系統配管の水抜き用の弁が開いていたため、水抜きを行った際、水抜き用配管に多くの水が流れたことにより、一時的に当該ファンネルの蓋から水が漏れ出たものと推定した。
+
+　これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・本来、閉まっているべき当該系統配管の水抜き用の弁が開いていたため、水抜きを行った際、水抜き用配管に多くの水が流れたことにより、一時的に当該ファンネルの蓋から水が漏れ出たものと考えられること。
+・前回の定期検査の系統水張り用手順書およびバルブチェックリストを調査した結果、当該弁は閉まっていたことが確認できたこと。
+・前回の定期検査から当該弁の開閉操作をするような作業はなかったこと。
+・当該弁を閉めたところ、ファンネル内の水位が下がったことから、ファンネルの詰まりはなかったと考えられること。
+　
+　以上のことから、当該弁が開いていた原因の特定には至らなかったが、想定される要因を検討した結果、前回の定期検査時に当該弁が閉まっていたことを確認したことから、それ以降の作業等において誤って開けられたものと推定した。
+　　
+　対策として、水抜き作業を実施する前に、当該弁が閉まっていることを確認するとともに、本事例を関係者に周知し、再発防止に努めることとした。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S086]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機原子炉建屋内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/06 13:16:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

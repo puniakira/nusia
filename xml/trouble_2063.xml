@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　検出器が挿入不良になった原因について、以下の調査を実施した。
+（１）炉内核計装盤において、測定箇所Ｅ－６の検出器スリップ事象の再現性を確認するために、手動操作にて検出器挿入を試みた。
+ａ．Ａ駆動装置にて７回の挿入を試みたところ、いずれも「検出器駆動スリップ」表示灯が点灯し、７回とも同じ位置（検出器駆動装置から約３１ｍ）で検出器挿入が停止した。
+ｂ．Ｂ駆動装置にて４回の挿入を試みたところ、３回目まではほぼ同じ位置で検出器挿入が停止したが、４回目の挿入操作にて、それまで検出器挿入が停止していた位置を通過し挿入された。
+（検出器駆動装置から約３３ｍ）
+ｃ．その後、念のため検出器挿入停止が発生した位置付近において、連続して数回の検出器挿入及び引抜き操作（インチング操作）を実施したところ、検出器が動作しなくなった。
+（２）炉内核計装盤から操作が不能となったＢ駆動装置の検出器については、原子炉格納容器内の案内管内で詰まった可能性が考えられるため、格納容器内にて以下の調査を行った。
+ａ．Ｂ駆動装置の電源電圧を確認したところ、ＡＣ４４０Ｖが供給されていなかったことから、調査を実施したところＢ駆動装置用の電源スイッチ箱のブレーカーがトリップ位置となっていた。
+　なお、上流にある格納容器動力盤内のＢ駆動装置用の電源電圧を測定したところ、正常に供給されていた。
+ｂ．電源スイッチ箱のブレーカーを復旧したところ、Ｂ駆動装置に電源が供給され、炉内核計装盤から検出器の挿入引き抜き操作が可能となった。これらのことから、炉内核計装盤での調査において、連続して数回の挿入及び引抜き操作（インチング操作）を行ったことにより、Ｂ駆動装置用電動機が正転と逆転を繰り返したため、ブレーカーがトリップしたものと推定される。
+（３）第１９回定期検査（平成１２年９月～平成１３年２月）記録の確認
+ａ．検出器駆動スリップ力は、検出器駆動装置Ａ，Ｂ，Ｃ，Ｄとも基準値内に設定されていた。
+ｂ．定期検査中においては、炉内核計装案内管の内部に空気や水（湿分）を混入させないよう、作業工程に応じて案内管内部を真空状態または炭酸ガス封入状態に維持するが、真空引き及び炭酸ガス置換作業は従来どおり適切に行われていた。
+ｃ．燃料装荷後の冷態停止状態及び高温停止状態における検出器の自動挿入動作試験結果を確認したところ、いずれの測定箇所も正常に挿入されていた。
+ｄ．プラント起動時において、５回の出力分布測定を実施したが、いずれの測定箇所も正常に挿入されていた。
+（４）検出器挿入不良に関するこれまでの知見
+　炉内核計装装置は、原子炉内の出力分布を測定するために炉内核計装案内管（内径５．１０ｍｍ）の中に中性子束検出器（外径４．７８ｍｍ）を挿入するもので、検出器と案内管の間隙は０．３２ｍｍである。
+　これまでの知見から、案内管内に空気や水分（湿分）が存在した場合、高放射線下における放射化学反応によりアンモニアが生成され、これと炭酸ガスが反応することにより、炭酸水素アンモニウム（固体）が案内管内面に生成、付着し、検出器が挿入できなくなる可能性があることが知られている。
+［炭酸水素アンモニウムの生成式］　　　　　　凝固
+　　　　　　　　　　ＮＨ３＋Ｈ２Ｏ＋ＣＯ２　──→　ＮＨ４ＨＣＯ３
+　　　　　　　　　　　　　　　　　　　　　　←──　　　（固体）
+　　　　　　　　　　　　　　　　　　　　　　昇華
+　このため、伊方発電所１号機では炭酸水素アンモニウムの生成防止対策として、昭和６０年から、定期検査中に案内管内部を真空に保つことにより空気や水分（湿分）を残さない対策を強化するとともに、通常運転中においては、案内管中および駆動装置に炭酸ガスを封入して空気や水分（湿分）を混入させない対策を実施することにより、検出器挿入不良の発生頻度が大幅に減少し、効果を得ている。
+　また、これまでに、通常運転中に炭酸水素アンモニウム生成により検出器の挿入不良が発生した場合においても、案内管内部の真空引きにより、炭酸水素アンモニウムを昇華させ除去できることから、検出器が挿入出来るようになるとともに、真空引き以降の運転サイクル期間中に検出器挿入不良は発生していない。
+　なお、検出器の外筒はニッケル・クロム鋼製であり、また、先端には衝撃防止用のキャップが取り付けられた構造であることから、炭酸水素アンモニウムによる挿入不良が発生しても検出器の健全性に影響はない。
+（５）運転上の制限に関する国との折衝状況
+　保安規定第２９条（熱流束熱水路係数）及び第３０条（核的エンタルピ上昇熱水路計数）に、「１ヶ月に１回、炉内出力の分布を測定し確認する」と定められていることから、前回の測定日（２月７日）から考えると３月１７日までに測定することが必要で、それまでに装置を復旧し、炉内出力分布を測定・評価することを、また、３月１７日までに装置の復旧ができない場合は、残りの測定可能な検出器を用いて炉内出力分布を測定・評価することで、運転上の制限には当たらないことを説明し了承された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[218]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2063</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/02/25 14:09:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2687</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200103091203]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）炉内核計装案内管内の炭酸水素アンモニウムを昇華させるため、案内管全数に対して、真空引きを３月９日２３時３４分から３月１９日１３時４０分の間、約２３０時間実施後、炭酸ガス置換作業を実施した。
+　その後、３月２１日に今回挿入不良が発生した２箇所（Ｅ－６、Ｊ－３）について、手動操作にて検出器の挿入確認を実施し、正常に挿入されることを確認した。
+（２）今後、定期検査後の１００％出力運転となった早い時期に炉内計装案内管内部の真空引きを実施し、検出器挿入不良発生の低減を図る。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第１号機（定格出力５６６ＭＷ）は定格出力で運転中、平成１３年３月９日１１時２２分より、炉内核計装装置盤の自動操作にて原子炉内に中性子束検出器を挿入し出力分布測定を行っていたが、３６箇所ある測定箇所の内２１箇所の測定を終了し、次の測定箇所に検出器が自動挿入されたところ、１２時０３分、１箇所（Ｅ－６）で「検出器駆動スリップ」表示灯が点灯し検出器挿入が自動停止した。
+　炉内核計装装置盤からの手動操作にて当該箇所（Ｅ－６）への検出器挿入を繰り返し試みたところ、検出器が停止した位置を通過し挿入されたが、さらに連続して数回の挿入引抜き操作を行ったところ、検出器が動作しなくなった。原子炉格納容器内にある当該検出器の駆動装置を調査したところ、電源スイッチ箱のブレーカーがトリップし駆動装置電源が喪失していることを確認した。その後、電源スイッチ箱内のブレーカーを復旧し、検出器の挿入引抜き操作が可能となった。
+　自動操作にて残りの測定個所（１４箇所）へ検出器を挿入したところ、さらに２箇所（Ｊ－３、Ｌ－９）で検出器挿入が停止した。この２箇所について、手動操作にて検出器を挿入したところ、Ｊ－３は挿入できなかったが、Ｌ－９については正常に挿入された。その後、Ｅ－６とＪ－３を除く測定箇所（３４箇所）について、出力分布測定を行い、評価に必要なデータの採取を終了した。
+　なお、本事象による環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-四国-M037]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[［自然劣化］
+　原子炉の運転に伴い、炉内核計装案内管内に炭酸水素アンモニウム結晶が生成し、案内管内部に付着したため、検出器の詰まりによる挿入不良が発生したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[炉内核計装装置の検出器挿入不良について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（自動停止）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>566</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/02/25 14:09:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[案内管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2063</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2063</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[中性子検出器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[核計装系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[218]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[218]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2063</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

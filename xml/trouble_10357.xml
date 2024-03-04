@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1.　CRD機能検査時の「ドリフト警報」解除不可の原因調査
+　当該CRの「ドリフト警報」解除不可について，現場の状況により以下のことが確認された。
+(1)スクラム入口弁のシートリーク
+　挿入ライン元弁（以下，「101弁」という。）を全閉しても「ドリフト警報」が解除されなかったことから，スクラム入口弁のシートリークは発生していないこと。
+(2)スクラム出口弁（当該弁）のシートリーク
+　当該弁の下流側配管表面温度が，他のHCUと比較して高いこと，及び102弁を全閉することにより「ドリフト警報」が解除されたことから，当該弁でシートリークが発生していること。
+(3)方向制御弁のシートリーク
+　CRD常駆動検査（平成21年5月15日実施）において動作に異常がないこと，また，CRDを駆動させた後，方向制御弁（120弁～123弁）は動作しておらず状態が変化していないことから，方向制御弁のシートリークは発生していないこと。
+(4)CR位置検出器及び制御系の誤検出
+　102弁を全閉することにより，「ドリフト警報」が解除されたことから，CR位置検出器及び制御系の誤検出はないこと。
+
+　上記で確認された，当該弁のシートリークが発生することにより，当該事象が発生する可能性について確認した。
+　通常，シングルロッドスクラム試験実施後スクラムリセットすると，スクラム出入口弁が閉となる。その後，引抜側圧力が上昇してCRD駆動ピストン上下面の圧力差がなくなり，自重で駆動ピストンが徐々に下降して，過挿入位置から全挿入位置となり「ドリフト警報」が解除される。
+　一方，スクラム出口弁がシートリークしている場合，駆動ピストン下面には炉圧が作用するが，駆動ピストン上面は引抜きラインから当該弁を経由して大気開放されているため，駆動ピストン上面と下面に圧力差が生じ，駆動ピストンを挿入方向に動かす力が作用する。
+　以上のことから，本事象は当該弁のシートリークが要因であると判断した。
+
+2.当該弁におけるシートリークの原因調査
+　当該弁におけるシートリークの原因調査の結果，以下のことが確認された。
+(1)分解点検結果
+　当該弁の分解点検の結果，テフロンシートの内径側220°～0°の範囲に破損があり，下面側（上流側）から上面側（下流側）にめくれたことが確認された。また，ボディとテイルピースの締結に用いる座金に，2種類の歯付座金が使用されていることが確認された。その他の部位については，損傷は確認されなかった。
+(2)テフロンシート観察結果
+　テフロンシートの顕微鏡観察の結果，テフロンシートのコールドフローにより，0°方位，90°方位，180°方位の内径側へのせり出し量が270°方位に比べて大きく，偏芯していたことが確認された。
+　また，全閉時のシート部の状態を作図により求めたところ，ステムはメタルタッチ位置から約1.3mm高い位置にあり，テフロンシートの押し付けが不十分だった可能性があることが確認された。
+(3)種類の異なる歯付座金の混在使用による影響
+　平成21年4月6日に発生した2回目のCR過挿入事象の原因調査において，歯付座金の種類により，同じトルク値で締め付けてもスタッドに作用する軸力は異なる可能性のあること及び歯付座金はばね座金より軸力が高くなることが確認されている（以下、軸力が高く出る方を歯付座金A，軸力が低く出る方を歯付座金Bという。）。また，同調査において，軸力が高くなるとテフロンシートのコールドフローによる内径側へのせり出し量が大きくなること及びスタッドの軸力差により偏芯が生じることが確認されている。
+　なお，2回目のCR過挿入事象の原因調査時は，種類の異なる歯付座金を混在して使用しても，ばね座金と歯付座金の混在ほど偏芯への影響はないと考え，他HCUの歯付座金A，Bの混在の有無を確認しなかった。
+(4)座金の経たりの影響
+　モックアップ試験の結果から，歯付座金の経たりにより軸力が大きくなる可能性があることが確認された。
+(5)テフロンシートのせり出しに影響を与える要因の調査
+　コールドフローによるテフロンシートのせり出しに影響を与える要因を調査するため，ボディ・テイルピース締結作業時におけるテフロンシートのせり出し方をモックアップ試験により確認した結果，座金の混在により偏芯が生じること，及び締結初期の締付回数が多くなると，せり出し量が大きくなることが確認された。
+(6)ボディとテイルピースの締結方法の調査
+　ボディとテイルピースの締付けは，第21回定期検査までは，トルク管理のみとして3段階のトルク値で行っていたが，締結管理の品質向上の観点から，第22回定期検査からは隙間管理を併用している。
+　ボディとテイルピースの締結時の隙間管理は，4方位で測定している隙間値の最大と最小の差が0.5mm以内という管理を実施しており，第一段階締結～第三段階締結の各トルク(30N･m，60N･m，110N･m)値で対角に締め付ける際も，隙間差が生じないように隙間の大きい部位から締め付けを行うようになったため，第21回定期検査以前に比べて締め付け回数が多くなっている傾向にあることが，工事施行会社からの聞き取り調査により確認された。
+　また，当該弁は1回目のCR過挿入事象を受けて再分解，再組立を行ったもので，1回目のCR過挿入事象の原因が，作業不良に起因したものと推定されたことから，スクラム弁の再組立において慎重に締め付け作業が行われ，締め付け回数が多くなった可能性があることが工事施行会社からの聞き取り調査により確認された。
+(7)テフロンシートのFEM評価
+　当該弁のテフロンシートの形状及びCRD機能検査時の圧力条件（当該弁上流側圧力=原子炉圧力7.2MPa）を模擬してテフロンシートの強度評価を行った結果，材料試験成績書上の引張り強さ19.8MPa以上の応力が発生しており，スクラム弁の開動作に伴いテフロンシートが破損する可能性が確認された。
+　また，スクラム弁分解点検後の復旧においてはリーク試験（当該弁上流側を10.79MPaまで加圧）を実施しており，当該弁ではシートリークが確認されなかった。そのため，リーク試験の条件を模擬してテフロンシートの強度評価を行った結果，当該弁上流側の圧力がCRD機能検査時より高い場合でも，テフロンシート内径端がステムで押さえつけられることにより，テフロンシートは破損しない可能性があることが確認された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10357</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/10/09 17:30:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4461</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/05/22 15:13:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200905182015]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1)テフロンシートの偏芯を防止する観点から，種類の異なる歯付座金が使用されているものは，ばね座金に交換して統一する。
+
+(2)テフロンシートの押し付けが開始される10N･mまではトルクレンチで徐々に締め込むが，10N･m以降の締め付けは，ボディとテイルピースの締結回数を少なくし，テフロンシートのせり出し量を抑制する観点から，20N･m，30N･m，60N･m，110N･mの規定トルクでスタッドを対角に1回で締め付けることとし，工事施行要領書に反映する。
+
+(3)テフロンシートのせり出し量を管理する観点から，ボディ・テイルピースの締結にともなうステム上昇量を管理することとし，工事施行要領書に反映する。
+
+(4)テフロンシートへの押し付けを十分確保する観点から，治具を用いて弁駆動部の押し下げ長さに裕度を持たせる。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の３号機において、平成２１年５月１８日午後８時１５分頃、制御棒駆動水圧系機能検査のため制御棒（３４－３１）の緊急挿入試験を実施した際、本来であれば、試験後に速やかに「制御棒ドリフト」の警報が解除されるべきところ、試験後も警報が解除されない状態となった。
+　その後、制御棒駆動水圧系水圧制御装置を調査したところ、制御棒駆動水圧系水圧制御装置の制御棒を緊急挿入させる駆動水の出口弁（１２７弁）シート部から漏えいしている可能性が確認されたことから、当該制御棒の駆動水の出口弁（１０２弁）を閉めたところ、午後１０時５３分頃、「制御棒ドリフト」の警報は解除された。
+　なお、本事象による外部への放射能の影響はありません。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該弁は，ボディとテイルピース間の締結において，種類の異なる歯付座金を混在して使用したため，スタッドに作用する軸力が異なったことから，テフロンシートに偏芯が生じたと推定される。
+　そのため，弁棒の長さ調整時に，弁シートが大きくせり出した部分に弁体が干渉し，弁体の着座位置が通常より高い位置になったため，せり出し量が小さいシート部分と弁体の密着性が低下していたと推定できる。
+　また，３号機においては第22回定期検査(平成20年)からボディとテイルピースの締結時の隙間管理が導入されており，隙間差が生じないように隙間の大きい部位から締め付けを行うようになったため，第21回定期検査以前に比べて締め付け回数が多くなっている傾向にあること，また，CR過挿入事象を受けてスクラム弁の再組立においては，慎重に締め付け作業が行われ，締め付け回数が多くなった可能性があることが工事施行会社からの聞き取り調査により確認された。スタッドの締付回数が多くなることにより，コールドフローによるせり出し量が大きくなったと推定される。
+　また，軸力確認試験により，歯付座金を再利用した場合，締結回数の増加に伴い座金の経たりが進行し，スタッドの軸力が増加することが確認されている。そのため，歯付座金が設置されているスタッドのボディ，テイルピース締結時の軸力は，過去の締結時と比べて増加し，コールドフローによるせり出し量が大きくなったと推定される。
+　ＣＲＤ機能検査における当該弁の開動作時に，テフロンシートのせり出し量が小さい部分において上下面の圧力差により，曲げモーメントが作用して損傷し，弁シート部に隙間が生じて漏えいが発生した。
+　以上のことから，緊急挿入試験において当該弁を一度開いてから閉じた際に，シート部に漏えいが発生し，制御棒を動かす制御棒駆動機構内に圧力の差が生じ，制御棒が試験後の位置から全挿入位置に戻らなかったため「制御棒ドリフト」の警報が解除されなかったものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所３号機の定期検査中における制御棒駆動水圧系機能検査での不適合について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/09 17:30:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10226</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>10299</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10357</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

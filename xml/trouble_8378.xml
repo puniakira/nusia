@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8378</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/08/23 15:05:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3554</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/08/08 10:54:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[2006051518]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 定期検査中の５月１５日１８時５分から１８時５２分にかけて原子炉容器下部炉心構造物吊上げ作業を実施していたが、下部炉心構造物の表面線量当量率を測定していた協力会社社員の線量計の警報（０．７２ｍＳｖ）が発信したため、直ちに格納容器外に退避した。当該作業員の被ばく線量を確認したところ、当日の計画線量（０．９０ｍＳｖ）を超える２．１９ｍＳｖ（当日午前中の被ばく線量を合計すると２．２０ｍＳｖ）の外部被ばくを受けていた。なお、法令で定める線量限度（年間５０ｍＳｖ）は超過しておらず、内部被ばくや皮膚の汚染もない。
+　作業状況を調査したところ、当該作業員は、格納容器オペレーションフロアから測定器（長さ約４ｍ）を用いて下部炉心構造物の表面線量当量率を測定していたが、今回は異物管理用として手すりに養生シートを取り付けたことにより、これまでと同じような身をかがめた姿勢で測定できなかったため、立ち上がり、手すり越しに測定していた。　
+　なお、他の作業員の被ばく線量を確認したところ、全て計画線量内であった。
+また、この事象による環境への放射能の影響はない。
+
+＊下部炉心構造物：
+原子炉容器内に組み込まれている構造物の総称。炉心構造物は上部と下部に分かれており、炉心の支持、炉内の冷却材流路の形成等を行っている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[下部炉心構造物の表面線量当量率測定作業に伴う協力会社社員の計画線量の超過について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/08/23 15:05:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

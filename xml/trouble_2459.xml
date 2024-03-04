@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時の状況調査
+（１）事象発生前のプラント運転状況
+事象発生前のプラント運転状況について確認した結果，原子炉及び発電機出力に影響を及ぼす操作及び警報の発生が無いことを確認した。
+また，雷等による系統外乱に伴う系統電圧，系統周波数の異常な変動はなかった。
+
+（２）事象発生時のプラント状況
+事象発生時の発電機廻りの各パラメータ(発電機固定子巻線温度，発電機固定子鉄心温度，発電機回転子巻線温度，発電機固定子冷却水導電率)については異常はなく，異常を示す警報も発生していない。
+
+以上のことから，発電機廻りを中心に地絡継電器が動作した原因調査を行うこととした。
+
+
+２．原因調査
+２－１．現地点検調査結果
+要因分析表に基づき以下の項目について点検調査を行った。
+
+（１）主発電機本体
+　　主発電機本体の異常の有無を確認するため，以下の点検を行った。
+　　　ａ．固定子コイル絶縁抵抗測定
+　　　　　固定子コイルの絶縁抵抗測定の結果，異常が無いことを確認した。
+　　　ｂ．固定子冷却水系の発電機機内漏えい
+　　　　　主発電機機内ドレン確認用窓を確認した結果，固定子冷却水の漏えいが無いことを確認した。
+（２）主変圧器・所内変圧器本体
+　　一次側巻線回路の絶縁抵抗測定を行い，異常が無いことを確認した。
+（３）相分離母線
+　　相分離母線の絶縁抵抗測定を行い，異常が無いことを確認した。
+（４）計器用変圧器
+　　計器用変圧器の異常の有無を確認するため，以下の点検を行った。
+　　　ａ．計器継電器用(３台)
+　　　　(ａ)外観目視点検
+　　　　　外観目視可能な範囲で点検した結果，Ｔ相のモールド部に損傷及びすすが確認された。尚，Ｒ相・Ｓ相には異常が無いことを確認した。
+　　　　(ｂ)絶縁抵抗測定
+　　　　　計器用変圧器単体(１次側，２次側)について絶縁抵抗測定を行い，判定基準を満たしていることを確認した。また，２次側回路の絶縁抵抗測定及びヒューズの健全性確認(外観点検・導通確認)を行った結果，異常が無いことを確認した。
+　　　　(ｃ)巻線抵抗測定
+　　　　　一次巻線抵抗値が健全な他２台の抵抗値の約２.４％(Ｒ相：１，１３５Ω，Ｓ相：１，１３２Ωに対し、Ｔ相：２６Ω)と異常であることを確認した。
+　　　ｂ．ＡＶＲ用（３台）
+　　　　(ａ)外観点検
+　　　　　外観目視点検の結果，異常が無いことを確認した。
+　　　　(ｂ)絶縁抵抗測定
+　　　　　計器用変圧器単体(１次側，２次側)について絶縁抵抗測定を行い，判定基準を満たしていることを確認した。また，２次側回路の絶縁抵抗測定及びヒューズの健全性確認(外観点検・導通確認)を行った結果，異常が無いことを確認した。
+　　　　(ｃ)巻線抵抗測定
+　　　　　巻線抵抗測定を行った結果，判定基準を満たしていることを確認した。
+（５）サージアブソーバー(ＳＡ)
+　　アレスタ及び並列コンデンサの異常の有無を確認するため，以下の点検を行った。
+　　　ａ．アレスタ外観点検
+　　　　外観目視点検の結果，異常が無いことを確認した。
+　　　ｂ．アレスタ絶縁抵抗測定
+　　　　絶縁抵抗測定を行い，判定基準を満たしていることを確認した。
+　　　ｃ．並列コンデンサ外観点検
+　　　　外観目視点検の結果，異常が無いことを確認した。
+　　　ｄ．並列コンデンサ絶縁抵抗測定
+　　　　絶縁抵抗測定を行い，判定基準を満たしていることを確認した。
+　　　ｅ．並列コンデンサ静電容量測定
+　　　　静電容量測定を行い，判定基準を満たしていることを確認した。
+（６）発電機地絡保護継電器(６４Ｇ１，６４Ｇ２)
+　　発電機地絡保護継電器の異常の有無を確認するため，以下の点検を行った。
+　　　ａ．外観目視点検
+　　　　外観目視点検の結果，異常が無いことを確認した。
+　　　ｂ．単体特性試験
+　　　　発電機地絡保護継電器の単体特性試験を行い，異常の無いことを確認した。
+（７）点検履歴の調査
+　　前回定期検査(第１３回)において発電機本体，計器用変圧器盤，ＮＧＲ盤，保護継電器等について点検を行い，異常が無いことを確認している。
+
+以上の調査より，３台ある計器用変圧器(計器継電器用)のうち１台(Ｔ相)（以下「計器用変圧器（Ｔ相）」という）のモールド部に損傷が認められたことから，当該計器用変圧器について詳細な調査を行うこととした。
+
+
+２－２．計器用変圧器の調査
+計器用変圧器(Ｔ相)の原因を調査するため，以下の点検を行った。
+なお，残る５台の計器用変圧器については現地調査において異常は確認されなかったものの，計器用変圧器（Ｔ相）と同時期に製造されたものであることから，メーカー工場において点検を行うこととした。
+ａ．計器用変圧器（Ｔ相）の調査
+（ａ）外観点検
+　　モールドに約２４３ｍｍ長のクラック発生，また，現地で確認されたクラック部のすすは，カーボンであることが確認された。
+（ｂ）絶縁抵抗測定
+　　絶縁抵抗測定を行い，判定基準を満たしていることを確認した。
+（ｃ）巻線抵抗測定
+　　現地点検調査結果と同様に，Ｔ相の抵抗は，他の健全な２台の抵抗値に比べて異常であることを確認した。
+（ｄ）分解調査
+　　分解（コイル切断）後，コイル層間の絶縁抵抗を測定した結果０ＭΩであった。さらに，コイルの各層を目視にて確認した結果，中央コイル（２９～３６層）の各層間絶縁紙が焼損しているとともに，コイルからレジン（エポキシ樹脂）表面へカーボンが付着していることを確認した。
+　　以上より，２９～３６層コイルがレヤーショート(層間短絡)していることを確認した。
+ｂ．その他の計器用変圧器（５台）
+(ａ)外観点検
+　　外観目視点検の結果，異常が無いことを確認した。
+(ｂ)絶縁抵抗測定
+　　絶縁抵抗測定を行い，判定基準を満たしていることを確認した。
+(ｃ)巻線抵抗測定
+　　巻線抵抗測定を行った結果，判定基準を満たしていることを確認した。
+(ｄ)商用周波耐電圧試験
+　　商用周波耐電圧試験を実施し，異常のないことを確認した。
+　　・１次巻線と２次巻線・アース間
+　・２次巻線とアース間
+(ｅ)誘導耐電圧試験
+　　誘導耐電圧試験を実施し，異常のないことを確認した。
+(ｆ)部分放電試験
+　　部分放電試験を実施し，異常のないことを確認した。
+
+以上の調査結果より，計器用変圧器(Ｔ相)のモールド部の損傷は、レヤーショートにより局部短絡が生じたことによるものであると推定した。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2459</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/10/26 19:55:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/07/13 21:47:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200407090311]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[当該計器用変圧器(Ｔ相)を健全なもの（新品）と交換すると共に，同一仕様のＲ相，Ｓ相の計器用変圧器についても同様に交換した。
+また，計器用変圧器(ＡＶＲ用)３台についても，メーカー工場にて，電気的特性試験等により健全性を確認し、復旧した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/10/26 19:55:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１号機は定格熱出力一定運転中(111万6千キロワット)のところ，「発電機ロックアウトリレー８６Ｇ１動作」，「発電機ロックアウトリレー８６Ｇ２動作」，「タービントリップ」，「Ａ系原子炉自動スクラム」，「Ｂ系原子炉自動スクラム」等の警報が発生し発電機が停止，これに伴い原子炉が自動停止した。
+また，発電機の保護装置のひとつである地絡継電器が動作していること（「ＧＥＮ　６４Ｇ１　ＴＲＩＰ」，「ＧＥＮ　６４Ｇ２　ＴＲＩＰ」）が，プロセス計算機情報(トリップシーケンス)により確認された。
+なお，本事象による外部への放射性物質の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M019]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因は以下の通りと推定される。
+（１）計器用変圧器(Ｔ相)のモールド内部の巻線レヤーショートにより局部短絡が発生した。
+（２）モールド内部で大地へ電流が漏れ(地絡)、発電機中性点へ地絡電流が流れた。
+（３）これにより発電機地絡継電器(６４Ｇ１，Ｇ２)が動作し，発電機ロックアウトリレー(８６Ｇ１，Ｇ２)動作、発電機トリップ・タービントリップ・原子炉自動スクラムに至った。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[発電機地絡継電器動作による原子炉自動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1]]></UNITS>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/07/14 11:25:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[変成器（ＰＴ，ＣＴ等）*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2459</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[主発電機・励磁機]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[090]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[090]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[主タービン発電機装置]]></KIKI_NAME>
+					<SORT_NO>8</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[163]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2459</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

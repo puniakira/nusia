@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[警報発信の要因として、制御棒の挿入、炉心状態の急変もしくは中性子検出器の不具合などが考えられるため、事象発生前後のプラントパラメータの調査や中性子検出器、制御棒駆動装置の点検等を実施した。
+その結果、プラントパラメータや検出器に異常はなく、制御棒が実際に挿入されたことにより、検出器の指示値が大きく低下し、警報発信に至った可能性があると推定した。
+
+その後、調査の過程で、制御棒駆動装置の点検として制御棒（４８本）の引き抜き、挿入操作を行ったが、動作性に異常は認められなかった。このため、詳細点検として、制御棒駆動装置制御盤の構成部品を工場で調査するとともに、制御棒駆動装置制御盤を通電した状態での各部（制御回路や各ケーブル）の電流値の連続測定（モニタリング）等を行い、データの解析等を実施した。
+
+１．警報発信の要因に係る調査結果
+（１）プラントパラメータ等の確認結果
+２０２２年１２月１日に第２４回定期検査を終了し、２０２３年１月３０日に原子炉が自動停止するまで定格熱出力一定運転を継続していた。この間の１次冷却材系統の温度、圧力などプラントパラメータの履歴等を確認した結果、異常はなかった。
+また、警報発信の要因として、１次冷却材系統のほう素濃度の過度の濃縮や主給水、主蒸気流量の異常急減などが考えられることから、それらのパラメータの履歴等を調査した結果、異常はなかった。
+その他、当直員および保修課員に聞き取りを行った結果、警報発信前に関連する運転操作等は行っていないことを確認した。
+
+（２）中性子検出器等の点検結果
+中性子検出器４つのうち、２つ以上の検出器の中性子束指示が低下すると警報が発信する。警報発信の要因として、中性子検出器の不具合も考えられるため、４つの中性子検出器を点検した結果、異常はなかった。
+また、警報発信時の指示値を確認した結果、制御棒が実際に挿入されたことにより、４つのうち２つの中性子検出器の指示値が大きく低下し、警報発信に至った可能性があることを確認した。
+その他、誤信号の検出の有無について確認するため、原子炉安全保護盤、原子炉保護系計器ラックの健全性を確認した結果、異常はなかった。
+
+（３）制御棒駆動装置の点検作業実績等
+「ＰＲ中性子束急減トリップ」警報が発信する前の１月２５日、２９日に「ＣＲＤＭ重故障」の警報が発信したため、制御棒駆動装置制御盤の点検を行ったが、制御棒駆動部のコイルに供給する電流値に異常は認められなかった。
+１月３０日０時１２分に再度、「ＣＲＤＭ重故障」警報が発信したため、コイルに供給する電流値を測定したところ、１本の制御棒（Ｄ６）の可動ラッチのコイルに供給する電流値が通常よりも低いことを確認した。
+このため、制御棒駆動装置の制御盤内の詳細点検を行うこととし、異常を確認した１本（Ｄ６）を含む４本の制御棒（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）について、保持ラッチのコイルの通電を継続し、制御棒を保持した状態で、同日１５時１８分に、可動ラッチのコイルの主電源を切り、１５時２１分に、制御電源を切った。
+その後、「ＰＲ中性子束急減トリップ」警報が発信し、原子炉が自動停止した。
+
+２．制御棒駆動装置の詳細点検結果
+制御棒駆動装置の駆動部については、毎月１回、制御棒作動試験を実施しており、至近の試験（２０２３年１月１７日）で異常は認められておらず、調査の過程でも制御棒の引き抜き、挿入操作を行い動作性に異常はないことなどから駆動部の機械的要因によるものではないことを確認した。
+
+このため、保持ラッチのコイルへの通電により、制御棒が原子炉上部で保持されていたにも関わらず、原子炉内に挿入された可能性が高いことから、制御棒駆動装置の電気的な故障によるものと推定した。
+その後、２月１日、「ＰＲ中性子束急減トリップ」警報発信前に実施していた操作（保持ラッチのコイルの通電を継続し、制御棒を保持した状態で、可動ラッチのコイルの主電源を切とした状態）の再現性確認試験を実施したが、制御棒の挿入等の異常は認められなかったことから、制御棒駆動装置制御盤を通電した状態での各部（制御回路や各ケーブル）の電流値の連続測定（モニタリング）等を行い、データの解析等を実施した。
+（１）制御棒駆動装置制御盤の構成部品の工場調査
+制御棒駆動装置制御盤の構成部品（ダイオード、ヒューズ等）について、電流の入出力試験等を実施した結果、異常は認められなかった。
+
+（２）制御棒駆動装置制御盤から制御棒駆動部（コイル）までの点検
+制御棒駆動装置制御盤の構成部品を予備品に取り替え、健全性を確認した後、当該制御盤に通電した状態で、当該制御盤からコイルまでの電流値の連続測定（モニタリング）を行っていたところ、２月１２日、「ＣＲＤＭ重故障」警報が発信し、４本の制御棒（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）のうち、１本の制御棒（Ｄ６）の可動ラッチのコイルに供給する電流値が通常よりも低いことを確認した。
+これらのことから、「ＣＲＤＭ重故障」警報発信の原因は、制御盤の出口からコイルまでの電気回路にあると推定した。
+その後、制御盤を切り離した上で、制御盤の出口からコイルまでの　電気回路の電流値のモニタリングを継続していたところ、３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）に繋がる電気ケーブル４本（Ｄ６の可動ラッチコイル用、Ｍ１０の可動および保持ラッチコイル用、Ｋ４の保持ラッチコイル用）の電流波形に一時的な電流の低下が認められた。その一時的な電流低下が発生した箇所は、原子炉格納容器貫通部の端子箱の間であることを確認した。
+なお、原子炉格納容器貫通部の端子箱の間の区間以外の設備や他の制御棒の４５本については、２月２０日から電流値のモニタリングを実施しているが、異常は認められなかった。
+
+（３）原子炉格納容器貫通部の端子箱間の点検
+端子箱の内部を点検した結果、原子炉格納容器貫通部出口（格納容器内側）と端子台の間の貫通部出口側電気ケーブル上にコイル側へ向かう電気ケーブル（コイル側電気ケーブル）束が覆いかぶさっていることを確認した。
+さらに、詳細に調査した結果、３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）に繋がる貫通部出口側電気ケーブルのうち、３本（Ｄ６の可動ラッチコイル用、Ｍ１０の保持ラッチコイル用、Ｋ４の保持ラッチコイル用）は、覆いかぶさったコイル側電気ケーブル束と接しており、その荷重を受けやすい状況となっていた。
+また、貫通部出口側電気ケーブルの抵抗値を測定した結果、４本の電気ケーブルの抵抗値が高いことを確認した。
+これらのことから、貫通部出口側電気ケーブルが、コイル側電気ケーブル束の荷重を受けることで、原子炉格納容器貫通部内から引き抜かれる方向に力が働き、貫通部内の接続部において接触不良が発生したものと推定した。
+なお、他の原子炉格納容器貫通部の端子箱の内部点検を実施した結果、ケーブル束が覆いかぶさっていないことを確認した。
+
+３．挿入された制御棒の特定に係る調査結果
+原子炉周囲には、円周上に４つの中性子検出器が等間隔（９０度毎）で配置されている。「ＰＲ中性子束急減トリップ」警報発信前の中性子検出器の指示値の動きを確認したところ、まず、１つの検出器（Ｎ４４）が反応し、他の３つの検出器の指示値に比べて大きく低下していることを確認した。
+これらのことから、検出器（Ｎ４４）近傍の制御棒が挿入された可能性が高いと推定した。
+また、「ＣＲＤＭ重故障」警報発信の原因と推定される制御棒４本（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）を対象に、制御棒挿入に伴う中性子検出器の指示値の解析（シミュレーション）を実施した結果、制御棒１本（Ｍ１０）が挿入された場合、今回と同様の傾向を示すことを確認した。
+このため、「ＰＲ中性子束急減トリップ」警報発信直前に制御棒１本（Ｍ１０）が挿入されたものと推定した。
+
+【その他】
+今回の原子炉自動停止事象に係る原因調査の中で、２月５日に制御棒駆動装置制御盤の一部の電源を｢切｣状態から｢入｣に切り替えたところ、本来作動すべき制御棒とは別の２本（作動すべき制御棒と同じ制御盤から通電され、電源｢入｣の状態）が部分挿入し、その後の追加試験でも再発したが、本事象は、制御棒駆動装置の制御盤の主電源を入れた際に、ラッチコイルの電流が瞬間的に喪失することで発生する事象であり、設備の異常ではないこと、また、今回の原子炉停止事象とは関連がないことを確認した。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[２０２３年１月３０日１５時２１分、「ＰＲ中性子束急減トリップ」の警報が発信し、原子炉が自動停止した。
+
+対策が完了したことから、今後、起動に向けた準備を進め、３月２４日１６時３０分に原子炉を起動し、同日１８時００分に臨界となり、３月２５日１７時０１分に発電を再開した。]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>10</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+	<SL_HANTEIKEKKA_TXT><![CDATA[【令和4年度第83回原子力規制委員会（令和5年3月22日）より】
+【令和5年度第10回原子力規制委員会（令和5年5月17日）より】
+検査指摘事項は、保安規定第３条（品質マネジメントシステム計画）の違反であり、「原子力規制検査における規制措置に関するガイド」に基づき評価を行った結果、深刻度の評価において考慮する「規制活動への影響」等の要素は確認されていないことから、検査指摘事項の重要度の評価結果を踏まえ、事象の深刻度は「ＳＬⅣ」と判定する。また、事業者は、電流低下が認められたＤ６、Ｍ１０及びＫ４の制御棒に関連するケーブルについて、他の原子炉格納容器貫通部の予備ケーブルを使用することで 電流低下の要因を排除する等、改善活動を行っていることから同ガイド「３．３（２）」の要件を満足し、違反等の通知は実施しない。]]></SL_HANTEIKEKKA_TXT>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13611</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<SL_HANTEIKEKKA_CODE><![CDATA[4]]></SL_HANTEIKEKKA_CODE>
+	<SL_HANTEIKEKKA_CODE_NAME><![CDATA[SLⅣ]]></SL_HANTEIKEKKA_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[:警報発報]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2023/06/28 13:24:58]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>1297</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>116036</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/01/31 10:13:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202301301521]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[・３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）の原子炉格納容器貫通部の端子箱（原子炉格納容器外側）から同貫通部の端子箱（原子炉格納容器内側）までの電路について、電流低下が認められた電気ケーブルを介さずに、予備用として敷設されている他の原子炉格納容器貫通部のルートに変更する。
+・今回の事象を踏まえ、原子炉格納容器貫通部のケーブルに関する点検・保守方法や、ケーブル敷設時の注意事項を社内マニュアルに反映する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[1]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[あり]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/06/28 13:24:58]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[高浜発電所４号機（加圧水型軽水炉）は、定格熱出力一定運転中、２０２３年１月３０日１５時２１分、「ＰＲ中性子束急減トリップ」の警報※１が発信し、原子炉が自動停止した。
+
+警報発信の要因として、制御棒の挿入、炉心状態の急変もしくは中性子検出器の不具合などが考えられるため、事象発生前後のプラントパラメータの調査や中性子検出器、制御棒駆動装置の点検等を実施した。
+その結果、プラントパラメータや検出器に異常はなく、制御棒が実際に挿入されたことにより、検出器の指示値が大きく低下し、警報発信に至った可能性があると推定した。
+
+その後、調査の過程で、制御棒駆動装置の点検として制御棒（４８本）の引き抜き、挿入操作※２を行ったが、動作性に異常は認められなかった。このため、詳細点検として、制御棒駆動装置制御盤の構成部品を工場で調査するとともに、制御棒駆動装置制御盤を通電した状態での各部（制御回路や各ケーブル）の電流値の連続測定（モニタリング）等を行い、データの解析等を実施した。
+なお、環境への放射能の影響はない。
+
+当社は、調査結果や原因と対策を取りまとめ、３月７日、原子力規制委員会に原子炉施設故障等報告書を提出した。
+今後、原子力規制委員会が当該報告書の確認を行うことから、当社は、真摯に対応する。
+
+対策が完了したことから、今後、起動に向けた準備を進め、３月２４日に原子炉を起動し、同日臨界に達した後、３月２５日に発電を再開した。
+
+１．警報発信の要因に係る調査結果
+（１）プラントパラメータ等の確認結果
+２０２２年１２月１日に第２４回定期検査を終了し、２０２３年１月３０日に原子炉が自動停止するまで定格熱出力一定運転を継続していた。この間の１次冷却材系統の温度、圧力などプラントパラメータの履歴等を確認した結果、異常はなかった。
+また、警報発信の要因として、１次冷却材系統のほう素濃度の過度の濃縮や主給水、主蒸気流量の異常急減などが考えられることから、それらのパラメータの履歴等を調査した結果、異常はなかった。
+その他、当直員および保修課員に聞き取りを行った結果、警報発信前に関連する運転操作等は行っていないことを確認した。
+
+（２）中性子検出器等の点検結果
+中性子検出器４つのうち、２つ以上の検出器の中性子束指示が低下すると警報が発信する。警報発信の要因として、中性子検出器の不具合も考えられるため、４つの中性子検出器を点検した結果、異常はなかった。
+また、警報発信時の指示値を確認した結果、制御棒が実際に挿入されたことにより、４つのうち２つの中性子検出器の指示値が大きく低下し、警報発信に至った可能性があることを確認した。
+その他、誤信号の検出の有無について確認するため、原子炉安全保護盤、原子炉保護系計器ラック※３の健全性を確認した結果、異常はなかった。
+
+（３）制御棒駆動装置の点検作業実績等
+「ＰＲ中性子束急減トリップ」警報が発信する前の１月２５日、２９日に「ＣＲＤＭ重故障」の警報※４が発信したため、制御棒駆動装置制御盤の点検を行ったが、制御棒駆動部のコイルに供給する電流値に異常は認められなかった。
+１月３０日０時１２分に再度、「ＣＲＤＭ重故障」警報が発信したため、コイルに供給する電流値を測定したところ、１本の制御棒（Ｄ６）の可動ラッチのコイルに供給する電流値が通常よりも低いことを確認した。
+このため、制御棒駆動装置の制御盤内の詳細点検を行うこととし、異常を確認した１本（Ｄ６）を含む４本の制御棒（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）※５について、保持ラッチのコイルの通電を継続し、制御棒を保持した状態で、同日１５時１８分に、可動ラッチのコイルの主電源を切り、１５時２１分に、制御電源を切った。
+その後、「ＰＲ中性子束急減トリップ」警報が発信し、原子炉が自動停止した。
+
+２．制御棒駆動装置の詳細点検結果
+制御棒駆動装置の駆動部については、毎月１回、制御棒作動試験を実施しており、至近の試験（２０２３年１月１７日）で異常は認められておらず、調査の過程でも制御棒の引き抜き、挿入操作を行い動作性に異常はないことなどから駆動部の機械的要因によるものではないことを確認した。
+
+このため、保持ラッチのコイルへの通電により、制御棒が原子炉上部で保持されていたにも関わらず、原子炉内に挿入された可能性が高いことから、制御棒駆動装置の電気的な故障によるものと推定した。
+その後、２月１日、「ＰＲ中性子束急減トリップ」警報発信前に実施していた操作（保持ラッチのコイルの通電を継続し、制御棒を保持した状態で、可動ラッチのコイルの主電源を切とした状態）の再現性確認試験を実施したが、制御棒の挿入等の異常は認められなかったことから、制御棒駆動装置制御盤を通電した状態での各部（制御回路や各ケーブル）の電流値の連続測定（モニタリング）等を行い、データの解析等を実施した。
+（１）制御棒駆動装置制御盤の構成部品の工場調査
+制御棒駆動装置制御盤の構成部品（ダイオード、ヒューズ等）について、電流の入出力試験等を実施した結果、異常は認められなかった。
+
+（２）制御棒駆動装置制御盤から制御棒駆動部（コイル）までの点検
+制御棒駆動装置制御盤の構成部品を予備品に取り替え、健全性を確認した後、当該制御盤に通電した状態で、当該制御盤からコイルまでの電流値の連続測定（モニタリング）を行っていたところ、２月１２日、「ＣＲＤＭ重故障」警報が発信し、４本の制御棒（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）のうち、１本の制御棒（Ｄ６）の可動ラッチのコイルに供給する電流値が通常よりも低いことを確認した。
+これらのことから、「ＣＲＤＭ重故障」警報発信の原因は、制御盤の出口からコイルまでの電気回路にあると推定した。
+その後、制御盤を切り離した上で、制御盤の出口からコイルまでの　電気回路の電流値のモニタリングを継続していたところ、３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）に繋がる電気ケーブル※６　４本（Ｄ６の可動ラッチコイル用、Ｍ１０の可動および保持ラッチコイル用、Ｋ４の保持ラッチコイル用）の電流波形に一時的な電流の低下が認められた。その一時的な電流低下が発生した箇所は、原子炉格納容器貫通部の端子箱の間であることを確認した。
+なお、原子炉格納容器貫通部の端子箱の間の区間以外の設備や他の制御棒の４５本については、２月２０日から電流値のモニタリングを実施しているが、異常は認められなかった。
+
+（３）原子炉格納容器貫通部の端子箱間の点検
+端子箱の内部を点検した結果、原子炉格納容器貫通部出口（格納容器内側）と端子台の間の貫通部出口側電気ケーブル上にコイル側へ向かう電気ケーブル（コイル側電気ケーブル）束が覆いかぶさっていることを確認した。
+さらに、詳細に調査した結果、３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）に繋がる貫通部出口側電気ケーブルのうち、３本（Ｄ６の可動ラッチコイル用、Ｍ１０の保持ラッチコイル用、Ｋ４の保持ラッチコイル用）は、覆いかぶさったコイル側電気ケーブル束と接しており、その荷重を受けやすい状況となっていた。
+また、貫通部出口側電気ケーブルの抵抗値を測定した結果、４本の電気ケーブルの抵抗値※７が高いことを確認した。
+これらのことから、貫通部出口側電気ケーブルが、コイル側電気ケーブル束の荷重を受けることで、原子炉格納容器貫通部内から引き抜かれる方向に力が働き、貫通部内の接続部において接触不良が発生したものと推定した。
+なお、他の原子炉格納容器貫通部の端子箱の内部点検を実施した結果、ケーブル束が覆いかぶさっていないことを確認した。
+
+３．挿入された制御棒の特定に係る調査結果
+原子炉周囲には、円周上に４つの中性子検出器が等間隔（９０度毎）で配置されている。「ＰＲ中性子束急減トリップ」警報発信前の中性子検出器の指示値の動きを確認したところ、まず、１つの検出器（Ｎ４４）が反応し、他の３つの検出器の指示値に比べて大きく低下していることを確認した。
+これらのことから、検出器（Ｎ４４）近傍の制御棒が挿入された可能性が高いと推定した。
+また、「ＣＲＤＭ重故障」警報発信の原因と推定される制御棒４本（Ｄ６、Ｆ１２、Ｍ１０、Ｋ４）を対象に、制御棒挿入に伴う中性子検出器の指示値の解析（シミュレーション）を実施した結果、制御棒１本（Ｍ１０）が挿入された場合、今回と同様の傾向を示すことを確認した。
+このため、「ＰＲ中性子束急減トリップ」警報発信直前に制御棒１本（Ｍ１０）が挿入されたものと推定した。
+
+【その他】
+今回の原子炉自動停止事象に係る原因調査の中で、２月５日に制御棒駆動装置制御盤の一部の電源を｢切｣状態から｢入｣に切り替えたところ、本来作動すべき制御棒とは別の２本（作動すべき制御棒と同じ制御盤から通電され、電源｢入｣の状態）が部分挿入し、その後の追加試験でも再発したが、本事象は、制御棒駆動装置の制御盤の主電源を入れた際に、ラッチコイルの電流が瞬間的に喪失することで発生する事象であり、設備の異常ではないこと、また、今回の原子炉停止事象とは関連がないことを確認した。
+
+【推定原因】
+原子炉が自動停止した「ＰＲ中性子束急減トリップ」警報発信の原因は、点検のために可動ラッチのコイルの電源を切り、保持ラッチのみで制御棒を保持していたところ、原子炉格納容器貫通部内で接続している電気ケーブルに接触不良が発生したことにより、制御棒駆動部のコイルに供給する電流値が低下し、保持ラッチが開放され、制御棒１本（Ｍ１０）が挿入されたためと推定した。
+その結果、中性子検出器の指示値が中性子急減トリップの設定値に至ったため、原子炉が自動停止したものと推定した。
+また、電気ケーブルの接触不良の原因は、原子炉格納容器貫通部出口（格納容器内側）と端子台の間において、貫通部出口側電気ケーブルに、コイル側電気ケーブルが覆いかぶさっていたことにより、原子炉格納容器貫通部内から引き抜かれる方向に力が働いていたためと推定した。
+
+【対策】
+・３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）の原子炉格納容器貫通部の端子箱（原子炉格納容器外側）から同貫通部の端子箱（原子炉格納容器内側）までの電路について、電流低下が認められた電気ケーブルを介さずに、予備用として敷設されている他の原子炉格納容器貫通部のルートに変更する。
+・今回の事象を踏まえ、原子炉格納容器貫通部のケーブルに関する点検・保守方法や、ケーブル敷設時の注意事項を社内マニュアルに反映する。
+
+※１：原子炉の周囲には、運転中の中性子を測定する検出器が４つ設置されている。中性子検出に異常があった場合、警報が発信する。
+※２：制御棒は、上部で制御棒駆動軸と連結されており、駆動軸を動作させるために可動用と保持用のラッチ（爪）があり、ラッチにはコイルが取り付けられており、このコイルに通電することでラッチが駆動軸をつかむ状態となる。
+※３：原子炉トリップ信号によって、原子炉の自動停止を行う設備。
+※４：ＣＲＤＭ（制御棒駆動装置）重故障警報は制御棒を電磁力で保持している保持コイルおよび可動コイルのうち、いずれかまたは両方で電流の異常（低下）を検知するなど、駆動装置の不調を検知した場合に発信する。
+※５：電流制御装置により、制御棒は４本単位で制御している。
+※６：制御棒１本に対して電気ケーブル６本が接続されており、３本の制御棒（Ｄ６、Ｍ１０、Ｋ４）で計１８本ある。
+※７：抵抗値が高くなると電流値が低下する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>40</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-関西-T016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原子炉が自動停止した「ＰＲ中性子束急減トリップ」警報発信の原因は、点検のために可動ラッチのコイルの電源を切り、保持ラッチのみで制御棒を保持していたところ、原子炉格納容器貫通部内で接続している電気ケーブルに接触不良が発生したことにより、制御棒駆動部のコイルに供給する電流値が低下し、保持ラッチが開放され、制御棒１本（Ｍ１０）が挿入されたためと推定した。
+その結果、中性子検出器の指示値が中性子急減トリップの設定値に至ったため、原子炉が自動停止したものと推定した。
+また、電気ケーブルの接触不良の原因は、原子炉格納容器貫通部出口（格納容器内側）と端子台の間において、貫通部出口側電気ケーブルに、コイル側電気ケーブルが覆いかぶさっていたことにより、原子炉格納容器貫通部内から引き抜かれる方向に力が働いていたためと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高浜発電所４号機 ＰＲ中性子束急減による原子炉自動停止（令和4年度第４四半期原子力規制検査指摘事項）]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報発信、原子炉自動停止]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>913</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>116038</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/01/31 10:14:13]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[201]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉緊急停止系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>1504</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ケーブル]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13611</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[217]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[012]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則134条]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>13611</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

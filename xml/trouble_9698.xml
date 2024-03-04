@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+（１）ＨＣＵ作業の確認
+　当該制御棒が挿入された時に同じ座標で作業を行っていた方向制御弁のリークテスト作業について協力会社からの聞取りによりその作業状況を確認した。なお、その他の作業について、その内容を確認したが、当該制御棒の挿入動作に関連する作業はなかった。
+　１）作業時系列
+・当日、朝９時３０分頃より、方向制御弁のリークテスト作業を開始し、１５ユニット目に当該座標３０－１９のＨＣＵの方向制御弁のリークテストを実施した。
+・当該座標の作業はおよそ１１時頃開始した。
+・リークテスト装置を当該ユニットに装着し、系統内のエア抜きを実施した後、リークテスト装置内ポンプにより加圧を開始した。（試験圧力１．７７ＭＰａ）
+・通常であれば、直ぐに圧力は安定するが、当該ユニットはなかなか安定しなかったため、系統の空気抜き状況、隔離状態の弁の締め付け状況等を確認していたことから、通常１分程度の加圧時間であるものが、約２０分程度加圧が継続された。
+・その後も圧力が安定しなかったため、リークテスト装置内ポンプを停止させ当該ユニット内の手動弁のシートリーク状況を確認したところ、１０１、１０２、１０４、１０５弁のいずれかがシートパスしていることを確認した。
+・手動弁のシートパスは、漏えい量測定用２０ｍＬメスシリンダが直ぐにたまる程度であり、判定基準（１分間に５ｍＬ以下）を超えているため、作業を中断した。
+・１１時３５分頃、発電長は、現場の協力会社作業員及び当社監理員に作業中断の指示を行った。
+２）系統構成
+　これらの作業での系統構成は次のとおりであった。
+　［方向制御弁リークテスト］
+　添付資料[方向制御弁リークテスト系統構成図]に示す構成（仮設電源で駆動水側方向制御弁を強制開し、専用ポンプユニットで加圧）としており、制御棒駆動装置に最も近い弁（１０１、１０２）まで加圧を行う。
+　［手動弁リークテスト］
+　添付資料[手動弁リークテスト系統構成図]に示す構成（仮設電源で駆動水側方向制御弁を強制開し、加圧しない。）としており、制御棒駆動装置に最も近い弁（１０１、１０２）にも加圧は行っていない。
+（２）警報タイパーの確認
+　警報タイパーを確認した結果、以下の通り印字されていることを確認した。
+・ 11:08　CR30-19　ドリフト
+・ 11:10　CR30-19　？？to 48（制御棒ドリフト警報リセットにより印字）
+・ 11:10　CR30-19　ドリフト
+・ 11:27　CR30-19　？？to 46（制御棒ドリフト警報リセットにより印字）
+・ 11:30　CR30-19　ドリフト
+・ 11:50　CR30-19　？？to 44（制御棒ドリフト警報リセットにより印字）
+（３）当該制御棒用ＨＣＵ弁状態確認
+　当該制御棒用ＨＣＵ（以下、「当該ＨＣＵ」という。）の制御棒駆動用加圧ラインに設置されている手動弁（１０１、１０２）については、方向制御弁の点検（リークテスト）に伴い「全閉」のアイソレーションを実施している。
+　念のため、当該ＨＣＵを除く全てのＨＣＵ（１８４ユニット）について、手動弁の「全閉」状態を確認したところ、全て「全閉」状態であることを確認した。
+　（４）運転員の対応状況調査
+　今回は４月２日の１１時０８分に「制御棒ドリフト」警報が発報した時点では、制御棒が動作していなかったことから、制御棒位置指示系の不具合と考え、ケーブル接続部エリア（ペデスタル）の作業状況の確認を依頼し、作業のないことを確認している。
+　１９分後（１１時２７分）、実動作を確認した時点で、現場協力会社作業員及び監理員に連絡し、当該ユニットＨＣＵ作業を中断させている。
+　これらのことから、運転員の対応は基本的に問題のない行動と思われる。
+
+２．当該ＨＣＵ１０１弁分解点検結果
+　当該ＨＣＵの１０１弁を分解点検した結果、異物の噛み込み等による傷はなかったが、弁座と弁体の当りが不十分な箇所が入口と出口側に確認された。このことから、当該弁は弁が全閉であっても若干のシートパスがあったものと考えられる。
+３．推定メカニズム
+　以上の調査結果から、今回の事象の推定メカニズムは次のとおりと考えられる。
+（１）当該ＨＣＵの１０１弁に若干のシートパスが発生していた。（要因１）
+（２）方向制御弁のリークテストに伴い、リークテスト装置にてユニットの加圧を実施した。
+（３）圧力が安定しなかったことから、加圧しながら当該ＨＣＵ手動弁の閉状態の確認を行ったため、２０分程度継続することになった。（要因２）
+（４）リークテストの圧力が、シートパスしている１０１弁を経由して当該制御棒に対して挿入側の駆動圧がかかったため、若干挿入された。（このとき制御棒ドリフト警報が発報）
+（５）手動弁のリークテストの結果、判定基準を超えていたことから作業を中断したことで、加圧がなくなり挿入動作が停止した。
+　なお、運転員が実動作を確認した時点で、現場の協力会社作業員及び監理員へ当該ＨＣＵ作業中断の指示を行った。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9698</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/06/19 09:49:55]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4180</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/04/14 18:32:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200804021108]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[以上のことから、以下の通り対策を実施する。
+１．当該ＨＣＵの１０１弁の弁体取替
+　当該ＨＣＵの１０１弁については弁体を新品に取替え、シート性を改善する。
+　なお、ＨＣＵの１０１弁を含む手動弁の弁体については今定検と次定検で取替を計画している。
+２．ＨＣＵリークテストにおける圧力が安定しない場合の対応改善
+　「リークテストを実施した際に圧力が安定しない場合は作業を中断する。（加圧操作は1分程度とする）」旨、工事要領書へ反映し、工事監理員及び協力会社作業員に徹底させる。
+３．運転員が警報発報を確認してから作業中止の指示までの所要時間について
+　運転員は、１１時０８分に制御棒ドリフト警報が発報し、１１時２７分に当該制御棒が「４６」ポジションになるまでは、制御棒が動作していることが確認出来なかったことから、結果して、作業中止までの時間が２７分となった（制御棒動作を確認してから、作業中止までの時間は８分）。
+　このため、作業中止まで２７分間を要した詳細について、さらに調査した。
+（１）運転員の判断について
+　運転員は、当日は、制御棒駆動水圧系ポンプが停止し、制御棒を駆動する駆動源がないこと、また、ＨＣＵは既に全数隔離状態であることも承知しており、制御棒は動かせる状態にないと理解していた。
+　さらに、「制御棒ドリフト」警報発報後、「？？」を表示したが、リセットしたときは、「４８」と正常に戻ったことから、制御棒位置指示系の作業の状況に酷似※１していたため、制御棒位置指示系の作業と考えた（実際にはゆっくり挿入方向に動き、一旦元の「４８」ポジションに戻り、その後ゆっくり挿入方向に動いたものと思われる）。
+
+※１：ペデスタルの制御棒位置指示系のケーブルを外すと「？？」表示となり、戻すと「４８」表示になる。
+
+　また、過去発生した定検中の制御棒ドリフト警報のほとんどが制御棒位置指示系の作業によるものであった。
+　このことから、運転員は、制御棒が動作すると思っていなかった。
+　また、工事監理員からの「制御棒位置指示系ケーブル異常なし」の連絡を受けた※ことも加わり、状況の把握に時間を要したものと推定される。
+
+※２：工事監理員は、運転員より、当該制御棒位置表示が「？？」となり、リセット後「４８」となったため状況を確認してほしいと依頼されたため、工事監理員はケーブルの確認を実施した。
+
+　しかしながら、仮設の加圧装置によって加圧され、弁のシートパスも重畳したことにより、結果的に制御棒は動作することとなった。
+　以上より、運転員は、制御棒駆動水圧系の隔離状態から動かせる状態になかったこと、制御棒の動作が非常にゆっくりであり、制御棒位置指示系の作業と誤認しやすい事象であったこと、さらには、過去の経験では制御棒位置指示系の作業によるものが多かったことから、「制御棒ドリフト」警報が発報しても、即座に制御棒の動作の可能性があることの認識に至らず、制御棒位置指示系の問題と考え、作業中止まで２７分間を要したものと考えられる。
+　制御棒が動作したと確認した時点（１１時２７分）からは、１１時３５分に作業中止を指示するなど迅速な対応を実施していた。
+（２）改善策
+　以上のことから、運転員の対応は基本的に問題のない行動と思われるが、作業側とのコミュニケーションをよくとれば、さらに迅速な対応が可能であったと考えられることから、以下の改善を実施する。
+　１）「制御棒ドリフト」警報発報時の連絡・コミュニケーションの徹底
+　　「制御棒ドリフト」警報発報時の連絡を徹底するため、制御棒動作の可能性のある作業が行われる場合は、中央制御室とＨＣＵ現場作業間の連絡体制を確立することとし、異常時は関連作業が即座に中断できるようにする。具体的には以下のとおり。
+　・発電室長指示により、「制御棒ドリフト」警報発報時、ＣＲＤ（ペデスタル）作業監理員及びＨＣＵ作業監理員への連絡を徹底するよう運転員に周知徹底する。
+　・また、事象が重なればＨＣＵリークテスト作業でも制御棒を動作させる可能性があることの認識を高めるため、運転員全員が今回の事例の勉強会を実施する。
+　・「「制御棒ドリフト」警報が発報した際は関連作業を中断する。」旨工事要領書に追記し、工事監理員及び協力会社作業員に徹底させる。なお、制御棒位置指示系の取替など「制御棒ドリフト」警報を発報させて作業する場合は除くものとする。
+　２）警報処置手順書の見直し
+　警報処置手順書に今回の稀な事象を発生要因に加えることで、今後当該警報発報時にＨＣＵリークテストによる要因も調査の範囲とする。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/06/19 09:49:55]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２３回定期検査中（全燃料取出し、全制御棒全引抜き、制御棒駆動水圧系ユニット（以下、「ＨＣＵ」という。）隔離）のところ、平成２０年４月２日１１時０８分制御棒ドリフト警報が中央制御室に発報した。状況を確認していたところ、１１時２７分に制御棒座標３０－１９の制御棒（以下、「当該制御棒」という。）が動作していることを確認した。また、１１時５０分に当該制御棒が４４ポジション（全引抜き位置（４８ポジション）から４ポジション挿入）で停止していることを確認した。
+　　なお、１１時２７分に当該制御棒挿入動作を確認後、発電長は、直ちに制御棒動作に関係する作業の中止を現場の協力会社作業員及び監理員に指示するとともに、さらに詳細な作業状況を確認したところ、ＨＣＵにおいて、方向制御弁の点検（リークテスト）を実施していたことを確認した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回当該制御棒が４４ポジションまで挿入された原因は以下の原因が重畳して発生したものと考えられる。
+（１）当該ＨＣＵの１０１弁のシートパス
+（２）ＨＣＵ作業員が、方向制御弁のリークテストで圧力が安定しなかったため、弁の開閉状態の確認等によって通常の１分に対して２０分程度の加圧を継続して行ったこと。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[全燃料取り出し中における制御棒の部分挿入事象について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報発報]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/16 09:45:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>9698</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[電磁弁]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9698</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9698</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9698</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9698</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9698</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

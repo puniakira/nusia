@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．過去の窒素補給に関する調査
+格納容器からの窒素の流出がいつから起きていたのかを確認するため，過去の窒素補給実績を調査した結果，第１～第１３サイクルでは格納容器への窒素補給回数が０～４（回／サイクル）程度であったものが，第１４サイクル～第１６サイクルでは，３０～４５（回／サイクル）程度に増加していた。
+なお，第１６サイクルにおいては，サイクル前半は窒素補給頻度が多かったものの，サイクル後半での窒素補給回数は０回であった。
+また，今サイクル（第１７サイクル）での窒素補給実績は原子炉起動から手動停止までの４０日間で１２回であった。
+
+窒素補給回数が増加していた第１４サイクル以降についても，格納容器内の格納容器内ダスト放射線モニタおよび露点温度などの指示値に有意な変化はなく，格納容器内での放射能や冷却材の漏れなどはなかったものと判断できる。
+
+なお，窒素補給回数が増加したものの運転を継続したのは，以下のような理由から，格納容器の健全性は維持されており，プラントの特性によるものと解釈したためである。
+（１）安全設計審査指針の指針２８では「適切に作動する隔離機能とあいまって所定の漏えい率を超えることがない設計であること」が要求されているのに対し，原子炉運転中においては格納容器隔離機能が期待される部分（以下｢格納容器バウンダリ｣という。）が構成されていないこと。
+（２）保安規定第４３条でも，定期検査時に｢格納容器全体漏えい率検査（格納容器バウンダリを構成し実施）｣｢隔離弁の動作確認検査｣「起動前の隔離弁の開閉状態確認」することを定めており，第１４サイクル以降，窒素補給回数が多かったものの，定期検査時の格納容器全体漏えい率検査結果に問題がなかったこと。
+
+２．窒素流出箇所の調査
+（１）流出箇所の調査結果（添付資料－１参照）　　
+　ａ．原子炉停止前の調査
+第１６回定期検査時に行った格納容器全体漏えい率検査（１２月２０日～２２日に実施）の後，格納容器隔離弁（以下｢隔離弁｣という。）の分解など，格納容器本体に影響を与える作業等を行っていないことから，隔離弁下流側の系統から窒素が流出している可能性が高いと判断した。このため，２月２４日２０時３０分頃から，通常運転中に隔離弁が開となっている試料採取系，格納容器内ダスト放射線モニタの隔離弁を閉止し格納容器圧力の低下傾向を監視したが，圧力の低下傾向に有意な変化が確認できず，窒素流出箇所の特定はできなかった。
+
+　ｂ．原子炉停止後の調査
+今回通常運転中に格納容器内への窒素補給量が増加傾向となったのは，｢格納容器バウンダリからの窒素流出｣が考えられる他に，「開状態となっている隔離弁下流側の系統からの窒素流出」が考えられた。
+このため，格納容器内の窒素流出箇所に関する調査対象として，格納容器バウンダリだけでなく，通常運転中に開状態となっている隔離弁の下流側の系統も含め，窒素流出の可能性のある全ての範囲について調査を行った。
+
+（ａ）運転圧力での点検調査
+原子炉停止後，格納容器圧力を運転中に近い値（約2～6ｋPa）に保持するとともに，隔離弁の開閉状態を通常運転中と同じ状態で点検調査を行った結果，以下の箇所で窒素の流出が確認された。
+
+Ａ－1  高圧注水系タービン排気ライン逆止弁（V－25）　　→シートリーク
+Ａ－2　残留熱除去系格納容器冷却ライン隔離弁（MV－16A）→弁軸封部からの微少流出
+Ａ－3　試料採取系（格納容器バウンダリ外）	　　 →配管継手部からの微少流出
+
+Ａ－１で流出が確認された高圧注水系タービン排気ライン逆止弁（Ｖ－２５）の下流側（格納容器側）の隔離弁（ＭＶ－２６）を閉止したところ，格納容器圧力が増加傾向となった（約３リットル／分の割合での窒素増加に相当。）。
+
+（ｂ）局部漏えい率試験
+隔離弁のうち主要な弁および格納容器出入口扉（所員用エアロック等）について，弁間を加圧（約400ｋPa）し，局部漏えい率試験を実施した。この結果，残留熱除去系格納容器冷却ライン隔離弁MV－16AとMV－15Aの間について許容値を超える圧力降下が確認された。　　　　　　　　
+MV－15Aの上流側については水張りされており，また，試験の際に弁軸封部等から系外への流出が認められなかったことから，MV－16Aのシートリークと判断される。
+
+Ｂ　残留熱除去系格納容器冷却ライン隔離弁（MV－16A）→シートリーク
+
+なお，Ａ－１でシートリークが確認された高圧注水系タービン排気ライン逆止弁（Ｖ－２５）については，局部漏えい率試験ではシートリークは認められなかった。
+
+（ｃ）補修前格納容器全体漏えい率試験
+上記の不具合箇所等を補修する前に，格納容器バウンダリを構成して加圧（約400ｋPa）し，格納容器全体漏えい率試験（以下「補修前格納容器全体漏えい率試験」という。）を実施した結果，漏えい率は0.0659％／日と，過去の定期検査における格納容器全体漏えい率検査結果の範囲内であった。
+なお，点検調査計画で定めていた，漏えい率が大きい場合の調査については，試験結果が良好であったことから実施しないこととした。
+
+また，試験のための昇圧の過程において，以下の箇所で微少な窒素の流出が確認された。
+
+Ｃ－1　高圧注水系タービン排気ライン逆止弁（V-25）→プラグ部からの微少流出
+Ｃ－2　残留熱除去系安全弁（SV -１）→バネケースフランジ部からの微少流出
+Ｃ－3　残留熱除去系安全弁（SV-5A）→バネケースフランジ部からの微少流出
+Ｃ－4　可燃性ガス濃度制御系（SV-1A）→バネケースフランジ部からの微少流出
+Ｃ－5　可燃性ガス濃度制御系（SV-1B）→バネケースフランジ部からの微少流出
+Ｃ－6　格納容器調気系（AV-3）　　　→　微少なシートリーク
+Ｃ－7　格納容器調気系（AV-6）	　　　→微少なシートリーク
+
+（２）調査結果に関する考察
+ａ．Ｖ－２５からのシートリークについて（Ａ－１）
+高圧注水系タービン排気ライン逆止弁（Ｖ－２５）の下流側（格納容器側）の隔離弁（ＭＶ－２６）を閉止すると格納容器圧力は増加傾向となったこと，また，ＭＶ－２６閉止後の格納容器圧力傾向が可動式炉心計装系から格納容器内への窒素流入量（約３リットル／分）とほぼ等しいことから，今回の窒素補給量増加の原因は，Ｖ－２５からの窒素流出が主要因と推定される。 
+なお，運転圧力（約2～6kPa）ではシートリークが確認されたのに対し，局部漏えい率試験（約400ｋPa）および補修前格納容器全体漏えい率試験（約400ｋPa）ではシートリークが認められなかった。
+これを受け，高圧注水系タービン排気ライン逆止弁（Ｖ－２５）について運転圧力での局部漏えい率試験（約2～6kPa）を行ったところ，流出が再現されることを確認した。
+これは，局部漏えい率試験（約400ｋPa）および補修前格納容器全体漏えい率試験（約400ｋPa）の圧力が高いのに対し，運転圧力（約2～6kPa）は低いため，逆止弁にかかる背圧の違いによるものと考える。　　　　　　
+
+ｂ．ＭＶ－１６Ａ軸封部および試料採取系配管継手部からの微少流出について
+（Ａ－２，３）
+窒素流出量の実測結果等から，当該箇所からの流出は極く微量（約0.13リットル／分）であり，今回の窒素補給量増加の主要因ではないと考えられる。
+
+ｃ．ＭＶ－１６Ａからのシートリークについて（Ｂ）
+運転圧力での点検調査で漏えいが認められていないことから，今回の窒素補給量増加の要因ではないと考えられる。
+
+ｄ．補修前格納容器全体漏えい率試験における窒素流出箇所について
+（Ｃ－１～７）
+いずれの箇所においても，運転圧力での点検調査で窒素流出が認められていないことから，今回の窒素補給量増加の要因ではないと考えられる。
+
+３．高圧注水系タービン排気ライン逆止弁（Ｖ－２５）に関する調査
+上記２項（２）より，高圧注水系タービン排気ライン逆止弁（Ｖ－２５）のシートリークが確認されたことから，Ｖ－２５シートリーク要因分析に基づき，原因特定のため下記項目について調査を実施した。
+
+（１）保守履歴調査
+当該弁の点検補修の実績を確認した結果，第１２回定期検査で分解点検を行っており，点検記録により組立手順等に問題がないことを確認した。
+点検項目についても確認したところ，各部の隙間に蓄積したスケール等の除去状況については記載されていなかった。
+
+（２）据付状況の調査
+弁が設計どおり水平に据付られていることを確認した。
+
+（３）発電所におけるＶ－２５分解調査
+分解点検を実施したところ，アームと弁体ロッドの接合部の動きが固くなっていることが確認された。その他の点検結果に異常は確認されなかった。
+
+ａ．目視点検
+シート面の異物噛込み痕，ヒンジピン，アーム，弁体，弁座，アーム弁体取り付け穴，座金，サイドワッシャ－等の変形，破損状況を確認したところ，異常は確認されなかった。
+ｂ．寸法測定
+アームに弁体ロッドを接合した状態で，各部の寸法を測定した結果，異常は確認されなかった。
+ｃ．摺動部等の動作確認
+アームとヒンジピンの摺動部，アームと弁体ロッドとの接合部の動作確認を実施した結果，アームとヒンジピンの摺動部の固着は認められなかったが，アームと弁体ロッドとの接合部の動きが固くなっていることが確認された。
+その後，点検調査中の取扱いにより，接合部の動きが若干良くなったことが確認された。 
+ｄ．シート面の当たり確認
+通常の点検方法と同様に，弁体を弁座に強く押し付けて実施したところ，異常は確認されなかった。
+また，アームと弁体ロッドとの接合部の動きが固かったことから，接合部の動きが固い状態で，弁体を弁座に軽く押し当て，当たり確認をしたところ，弁体片面に当たりの弱い箇所が確認された。接合部の動きを潤滑剤を使用した手入れにより改善するとともに，シート面の摺り合わせを実施した後，弁体を軽く押し当て，当たりを確認した結果，均一に当たりが出ることを確認した。
+
+ｅ．運転圧力での局部漏えい率試験（約2～6kPa）（手入れ後）
+分解点検の前に実施した運転圧力での局部漏えい率試験では低圧（約2kPa）でシール性が低下したが，ｄ．で行ったアームと弁体ロッド接合部の手入れ後の局部漏えい率試験では低圧（約2kPa）におけるシール性が改善されていることが確認された。
+
+（４）工場における弁体とアーム接合部の分解調査
+アームと弁体ロッドとの接合部の動きが固い状態が認められたことから，接合部の調査を実施したところ，スケール等の付着，弁体ロッドの径が大きくなっている（４６ｍｍ⇒４６．５ｍｍ）こと，弁体ロッドの全長が短くなっている（３５ｍｍ⇒３４．０ｍｍ（最小値））こと，およびアームの弁体取り付け穴の径が大きくなっている（４６ｍｍ⇒４６．５ｍｍ，４８．５ｍｍ⇒４８．９ｍｍ）ことが確認された。
+
+（５）調査結果に関する考察
+上記の調査結果から，弁体の背圧が低く弁体の押し付け力が弱い状態では，アームと弁体ロッドとの接合部の動きが固いためにシート面の当たりが不均一となり，シール性が低下するものと推定される。
+なお，弁体ロッドの径が大きくなることや全長が短くなることは，弁体の動きを拘束するほどものではなかったが，スケールの付着を助長した可能性がある。
+
+
+４．窒素流出箇所の補修および確認試験
+（１）	高圧注水系タービン排気ライン逆止弁（Ｖ－２５）に関する補修
+工場の分解調査で変形が確認された，弁体ロッド径，全長およびアームの弁体取り付け穴の径の補修を行い，正規の寸法へ戻すとともにシート面の点検・手入れを行った。また，弁組立後にシール性の健全性を確認するため，以下について調査を実施し，問題がないことを確認した。
+
+ａ．局部漏えい率試験（約400ｋPa）（補修後）
+局部漏えい率試験を実施し，漏えい率が判定基準を満足していることを確認した。
+
+ｂ．運転圧力での局部漏えい率試験（約2～6kPa）（補修後）
+運転圧力での局部漏えい率試験を実施し，シール性に問題がないことを確認した。
+
+（２）その他微少な流出が確認された箇所
+前記（１）の調査で微少な流出が確認された箇所については，流出量から判断すると，今回の窒素補給量増加の主要因ではなく，また，今後の運転にも影響がないと考えているが，念のため全ての箇所について以下のとおり点検，補修を実施した。
+なお，今後もこのような微少な流出が確認された場合には，点検，補修等を行い適切に対処していく。
+
+ａ．格納容器調気系の隔離弁（AＶ－３，６）については，シートリークが確認されたことから分解点検を実施した。また，弁組立後に局部漏えい率試験を実施し，漏えい率が判定基準を満足していることを確認した。
+
+ｂ．残留熱除去系の隔離弁（MＶ－１６Ａ）については，軸封部からの微少流出およびシートリークが確認されていることから，軸封部の増締めおよび弁閉止の際の弁体，弁座の密着力を強める調整を実施した後，局部漏えい率試験を実施し，漏えい率が判定基準を満足していることを確認した。
+
+ｃ．残留熱除去系の安全弁（ＳＶ－１，５Ａ）および可燃性ガス濃度制御系の安全弁（ＳＶ－１Ａ，Ｂ）については，フランジの増締めおよび当該フランジ部を充填材でコーティングする処置を実施した後，格納容器全体漏えい率試験を実施し，窒素流出がないことを確認した。なお，各弁については，次回定期検査時に分解点検を実施する。
+
+ｄ．試料採取系で確認されている配管継手部からの微少流出については，継手部の増締めを実施した後，系統を加圧して流出のないことを確認した。
+
+（３）補修後の格納容器全体漏えい率試験
+各部の調査・点検が終了後，最終的に格納容器の健全性を確認するため格納容器全体漏えい率試験を実施した。この結果，漏えい率は0.0485％／日であり，過去の定期検査における格納容器全体漏えい率検査結果の範囲内であった。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2816</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2016/01/22 13:29:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第４３条の運転上の制限を満足していないと判断するとともに、調査・点検するため原子炉の停止を決定した。
+２月２５日３時００分に出力降下を開始し、同日１２時００分に高温停止、２月２６日０時２７分に冷温停止とした。
+]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>1224</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3136</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/04 18:09:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502250300]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該弁の再発防止対策
+当該弁については，アームと弁体ロッドの隙間等の状況変化等を確認するため，以下の管理内容を工事要領書に記載するとともに，定期検査の都度点検を実施する。
+ａ．アームと弁体ロッド接合部のスケール等を洗浄液にて十分除去し，接合部の動きがスムーズになるよう手入れする。
+ｂ．接合部の動きが固くなっていないことを，アームを垂直に吊り下げた状態で弁体が自重で傾くことにより確認する。
+ｃ．接合部の隙間管理はこれまで上限値を設け管理していたが，新たに下限値（当該弁については０．５ｍｍ）を設け管理する。
+ｄ．シート面の健全性を確認するために，運転圧力（約2～6kPa）での局部漏えい率試験を実施する。
+
+（２）類似弁への水平展開
+隔離弁のうち，格納容器気相部に接続され，運転中にシートリークの可能性のある弁を類似弁選定フローに基づき選定した結果，原子炉隔離時冷却系タービン排気ライン逆止弁が選定される。
+
+ａ．原子炉隔離時冷却系タービン排気ライン逆止弁については，本停止期間中に分解調査および運転圧力での局部漏えい率試験を行い，健全性を確認した。
+ｂ．当該弁の再発防止対策に準じた再発防止対策を図ることとした。
+
+（３）通常運転中における格納容器気密性の確認方法の確立
+定期検査時の格納容器全体漏えい率検査は設計圧力（約400kPa）で実施しているのに対し，通常運転中の格納容器圧力はかなり低い圧力（約2～6kPa）であることから，設計圧力における格納容器漏えい率に相当する運転中の漏えい率を正確に求めることは困難である。
+しかしながら，今回の事象に鑑み，通常運転中も格納容器の健全性を確認すべきとの観点から，運転中において格納容器気密性の傾向を確認する方法を定め，格納容器安全管理基準として日常の運転管理により格納容器からの窒素流出事象の早期発見・流出箇所の特定調査を開始するための「調査レベル」を設けるとともに，保安規定第４３条に定める運転上の制限逸脱を判断するための「安全管理レベル」を定めるなど，きめ細かな運転管理を行うこととした。
+なお，「調査レベル」および「安全管理レベル」については，今後１サイクル期間運用に供した後，適切に見直しを行うとともに，その後も適宜，見直しを行うこととする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[経済産業省原子力安全・保安院からの指示文書
+
+平成１７年５月１８日付「女川原子力発電所１号機原子炉格納容器の機能の健全性に係る保安規定違反について（改善指示）」（平成17・05・12原院第3号）
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/01/22 13:29:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　女川原子力発電所１号機（沸騰水型、定格電気出力５２万４千ｋＷ）は、定格熱出力一定運転中のところ、原子炉格納容器への窒素補給量が通常よりも多い※ため、状態の監視を継続するとともに、点検を行ってきたが、原子炉格納容器の機能の健全性を満足していない可能性があるため、２月２４日２３時４０分に保安規定第４３条の運転上の制限を満足していないと判断するとともに、調査・点検するため原子炉の停止を決定した。
+　２月２５日３時００分に出力降下を開始し、同日１２時００分に高温停止、２月２６日０時２７分に冷温停止とした。
+　なお、本事象による外部への放射能の影響はなかった。
+
+※原子炉格納容器への窒素補給は、格納容器内圧力と原子炉建屋間の差圧を一定範囲に保つために格納容器内圧力が低下した場合等に行うものである。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東北-T008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）窒素補給量増加の原因について
+調査の結果から，窒素補給量増加の原因は，高圧注水系タービン排気ライン逆止弁（Ｖ－２５）からの窒素流出によるものと考えられる。
+
+
+（２）Ｖ－２５からの窒素流出のメカニズム(添付資料ー２参照）
+前記７項で行った調査の結果から，高圧注水系タービン排気ライン逆止弁（Ｖ－２５）からの窒素流出のメカニズムは以下のように推定される。
+
+・　通常運転中および停止中にアームと弁体ロッドの接合部の隙間にスケール等が付着し，接合部の動きが徐々に悪くなった。
+・　高圧注水系の定期試験時等に弁が開き，弁体ロッドが弁箱ストッパーへの衝突を繰り返すことにより弁体ロッドの変形が生じ，接合部の隙間が小さくなったことも，スケール等の付着を助長した。
+・　これにより，弁体の動きが悪くなり，運転圧力においてシート面の当たりが不均一となりシートリークが発生した。
+
+また，Ｖ－２５の至近の分解点検（第１２回定期検査）直後の運転サイクル（第１３サイクル）では窒素補給回数に顕著な増加傾向はなく，第１４サイクルから窒素補給回数が増加している。
+第１２回定期検査における点検の記録では，各部の点検結果に問題はなかったが，隙間に蓄積したスケール等の除去状況についての記載はなく，スケール等が残留していた可能性がある。その後，第１３サイクルの運転および第１３回定期検査期間にスケール等の蓄積が進行し接合部の動きが固くなったため，第１４サイクル初期からシートリークが発生し，窒素補給回数が増加したものと推定される。
+第１６サイクル後半で窒素補給を行わなくても良くなったのは，高圧注水系の定期試験（１回／月）を実施した際に一時的に接合部の動きが改善された可能性がある。
+
+なお，第１４サイクル以降窒素補給回数が増加したにもかかわらず，第１４回～第１６回定期検査の格納容器全体漏えい率検査で良好な結果だった理由は，検査時は弁体背圧が約400ｋＰａと高く，背圧により弁体が押されるため，シート面の当たりが改善されシートリークが止まったものと推定される。
+
+（３）格納容器への窒素補給量増加による原子炉手動停止等の判断について
+格納容器の窒素補給量が通常よりも増加していることを認識したものの，原子炉
+手動停止の判断までに時間を要したのは，格納容器の窒素補給量が増加した場合の調査開始基準や保安規定第４３条の「運転上の制限」の逸脱判断に対する基準が明確でなかったためである。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所１号機原子炉格納容器への窒素補給量の増加に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[原子炉停止操作開始]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[　女川原子力発電所原子炉施設保安規定第４３条（格納容器および格納容器隔離弁）では、原子炉の状態が運転、起動および高温停止において、格納容器は｢機能が健全であること｣を運転上の制限とする旨規定されているが、運転中の窒素補給回数が大幅に増加した時点で格納容器の機能の健全性について点検・調査が不十分であり、原因が特定されないまま、逆止弁のシート部からの漏えいが放置されていたことが、同条に違反すると判断されたもの。
+
+
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>532</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/04 18:24:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[504]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[逆止弁]]></KIKI_NAME>
+				<SORT_NO>8</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉格納容器]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[145]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2816</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

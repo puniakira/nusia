@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）工事実施等の経緯
+当該試料採取配管の溶接形状変更工事は、大飯発電所３号機の加圧器気相部試料採取配管からの漏えい事象（平成17年3月7日発生）の水平展開として、小口径配管溶接部の信頼性向上の観点から、試料採取配管のソケット溶接を突き合わせ溶接に変更するとともに、溶接時の作業性を考慮し、第１弁とその上流側配管をあわせて取り替えたものである。
+なお、前回定期検査に引き続き、今定期検査で大飯発電所３号機の事象の水平展開として１３３箇所（当該２箇所を除く）の溶接形状変更工事を行っている。
+
+（２）手続き漏れ発見に至った経緯
+試料採取配管溶接形状変更工事について、次回定期検査の工事計画立案のため、メーカーが当該試料採取配管の図面を確認していたこところ、当該箇所で溶接事業者検査が未実施であることが判明した。
+
+（３）原因究明、対策に係る検討方針
+当社は、溶接事業者検査が電気事業法に基づく重要な手続きであるにも関わらず、手続き漏れが発生したことを重大な問題と捉え、2月19日に「溶接事業者検査手続き問題対策検討会」を原子力事業本部に設置し、同検討会および社内のトラブル対策委員会において、原因究明および再発防止対策の検討を行った。
+
+（４）事実の確認および問題点
+ａ．調査結果
+（ａ）当該工事を担当している原子炉保修課長は、工事の計画段階において、担当者（Ａ）が保修経験半年であったことから、担当者（Ｂ）（保修経験：５年半）をサポートに付け業務を遂行させていた。
+
+（ｂ）担当者（Ａ）、（Ｂ）は、試料採取配管のソケット溶接部の突合せ溶接への変更にあたり、施工性を考慮し、試料採取配管の取出し弁の追加取替えを含めた業務決定文書（工事の実施方針等）を作成した。その際、余熱除去系統からの第１弁も取替範囲に含むこととしたが溶接事業者検査対象外と誤認した。
+　施工会社より提出された承認申請図の審査段階においても、同様の誤認があり溶接事業者検査対象であることに気がつかなかった。
+
+（ｃ）担当者（Ａ）、（Ｂ）とも溶接事業者検査対象範囲等を習得する体系的教育「保修汎用技術研修　溶接コース」（配管に係わる定期検査等を３～６回程度経験したものから選抜）は受講していない。
+担当者（Ａ）は溶接事業者検査対象範囲に対する知識が十分ではなく、工事範囲である小口径配管の溶接事業者検査対象は一次冷却材圧力バウンダリと格納容器バウンダリのみであると誤認していた。
+　担当者（Ｂ）は、これまでの業務経験により、溶接事業者検査対象範囲の基本的な知識は有していたが、当該部のような「非常時の安全装置」からの小口径の分岐配管がどこまで溶接事業者検査の対象になるかまでの知識を有していなかった。
+
+（ｄ）担当者の上司（係長、作業長）は、業務決定文書作成前に担当者から、試料採取配管の取出し弁の追加取替えについて相談を受け、「工事施工性を十分確認すること」、「できるだけ早期に溶接形状の変更を完了すること」等のコミュニケーションを行っていたが、溶接事業者検査に関するものはなかった。
+
+（ｅ）担当者の上司（課長、係長、班長、作業長）､技術アドバイザーおよび技術課長は、業務決定文書の審査の際、添付の資料は余熱除去系統の母管までを示したものではなかったため、追加取替えする弁が余熱除去系統からの第１弁であるとの認識に至らなかった。
+　また、担当者の上司および技術アドバイザーは、承認申請図の審査段階の審査においては、業務決定文書で溶接事業者検査要否は審査済みであることから、この段階では使用材料等の規格の適合性に着目した審査を行なった。
+
+ｂ．問題点
+（ａ）担当者の問題点
+ア．業務決定文書作成段階において、担当者（Ａ）、（Ｂ）は、溶接事業者検査要否判断に関する十分な知識を付与されていなかったことから、余熱除去系統からの第１弁までを取替範囲としたにも係わらず溶接事業者検査の対象ではないと誤った判断を行なった。
+イ．承認申請図の審査段階においても、同様の思い込みがあり溶接事業者検査の要否について再確認しなかった。
+
+（ｂ）担当者の上司（課長、係長、班長、作業長）、技術アドバイザーおよび技術課長の問題点
+ア．業務決定文書の審査段階において、業務決定文書の添付資料が、溶接事業者検査の要否を確認できる内容となっていなかったことから、当該部が溶接事業者検査対象であるとの認識に至らず、踏み込んだ確認を行わなかった。
+イ．承認申請図の審査段階においては、使用材料や配管ルート等詳細設計に問題ないかの確認に意識が偏り、溶接事業者検査要否の検討は業務決定文書の審査段階で実施済みという認識から、このような着眼点では審査しなかった。
+ウ．担当者の上司（課長）は、業務付与の段階において、担当者（Ａ）をサポートする者を選定する際に、溶接事業者検査対象範囲に対して知識が不十分であった担当（Ｂ）を選定してしまった。
+
+（ｃ）根本的問題点
+ア．担当者が溶接事業者検査対象範囲を誤認識していた事実から、担当者の業務遂行上必要な法令に対する知識不足が根本的問題と考えられる。
+イ．多くの審査者が確認していたにも係わらず、見抜けなかった事実から、法令遵守の厳格な管理ができていないこと、および課内上位者が担当者に対し行う業務フォローのポイントが不明確であることが根本的問題と考えられる。
+ウ．溶接事業者検査の要否検討に関する教育、審査の方法ならびに発電所運営上の問題に対する原子力事業本部の支援不足が根本的問題と考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[205]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8678</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[206]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード５]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/04/11 14:03:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3699</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/23 17:30:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070216]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）短期的対策
+ａ．今回、溶接事業者検査に関する担当者の知識が不十分であったことから、原子力保修要員（若年層および配管、容器等の溶接工事を担当する者）を対象に溶接事業者検査に関する能力向上を目的として、事業本部による溶接事業者検査対象範囲に対する集合教育を実施した。
+
+ｂ．工事の計画段階において、担当者が溶接事業者検査対象範囲を誤認識したこと、および審査者が業務決定文書の添付資料では確実な審査ができなかったことなどから、溶接を伴う工事については、この段階において溶接事業者検査対象フロー図を用いて要否を検討するとともに、その要否を検討・判断したプロセスがわかる資料を業務決定文書に添付することを社内ルール化し、審査が確実に実施できるようにする。なお、溶接事業者検査対象フロー図において、「余熱除去系統からの第１弁までの範囲」等要否に判断誤りが生じやすい部分について補足説明を追記することにより、溶接事業者検査の要否判断を確実にする。
+
+ｃ．承認申請図の審査段階において、余熱除去系統からの第１弁を取替えることが確認可能であったにもかかわらず、溶接事業者検査対象範囲であることに気づかなかったことから、溶接を伴う工事については、この段階の審査にあたっても溶接事業者検査対象フロー図を用いて、溶接事業者検査の要否の審査を実施する。
+
+ｄ．今回の余熱除去系統配管復旧に当たっては、事業本部が溶接事業者検査および溶接安全管理審査受審の発電所支援を行う。
+
+ｅ．今回の事象について、美浜発電所から、事業本部に重要な不適合であると連絡されたことを受け、事業本部長は法令遵守の浸透が不十分と判断し、文書で原子力関係社員に対し、「コンプライアンスは、当社の事業運営の基本、根幹であることを肝に銘じ、法令遵守を再徹底すること」を指示した。また、プラントの安全状態について、当該工事で他に溶接事業者検査漏れがないこと、当該溶接部の健全性に問題のないこと、当該試料採取配管は使用できないよう措置を講じるとともに立ち入り制限とカメラによる監視を実施することを事業本部長が確認した。
+
+（２）中期的対策
+ａ．「業務遂行上必要な法令に対する担当者の知識が不足している」について
+溶接事業者検査に関する教育について、実効性のある体系的な教育の実施に向け、教育内容、頻度、対象者等の改善について検討を進める。
+
+ｂ．「法令遵守の厳格な管理ができていない」、「上位者が担当者に対し行う業務フォローのポイントが不明確である」について
+溶接事業者検査の手続きを確実に審査できる環境を整える観点から、手続きに関する審査者の役割分担、審査者の着目すべきポイントおよび審査の深さ等の明確化について改善するよう検討を進める。
+また、課内上位者が担当者に対して行う業務フォローのポイント等を明確にすることを検討する。
+さらに、他の法令についても必要な水平展開を図っていく。
+
+ｃ．「事業本部の支援が不足していた」について
+・溶接事業者検査要否の判定を確実、かつ効率的に実施するための系統図の色塗りによる識別管理や判定を支援するツールを整備し、教育資料として活用できるように検討を進める。また、原子炉等規制法、電気事業法の手続きに関して、水平展開の必要性を含め検討を進める。
+・発電所の業務運営状況における問題点を継続的に把握し、必要な対策を検討していく。
+
+（３）当該溶接部の再溶接
+当該溶接部については、溶接事業者検査に必要な手続きを行うとともに、当該部を取り外して再溶接を行い、溶接事業者検査にて溶接技術基準に適合していることを確認した（弁と短管は取替）。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/04/11 14:03:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１８年１１月１日より第２２回定期検査中のところ、今回の定期検査で実施した余熱除去系統試料採取配管の溶接形状変更工事の溶接箇所のうち、溶接事業者検査を実施する必要があった２箇所について、溶接事業者検査が行われていないことが判明した。
+試料採取配管の溶接形状変更とは、溶接部の信頼性向上の観点からソケット溶接を突き合わせ溶接に変更するものであり、その際に施工性の観点から、余熱除去系統の当該試料採取配管の第１弁を弁上流側の配管を含め取替えているが、この上流側配管の溶接部２箇所については、溶接事業者検査が必要な箇所であった。
+このため、当該部については、溶接事業者検査に必要な手続きを行い、当該部を取り外して再溶接を行う（弁と短管は取替）こととした。なお、当該部の作業のためには、余熱除去系統の隔離・水抜きが必要であったことから、余熱除去系統を必要としない運転モードにするため、原子炉容器に装荷されている燃料を取出し後、作業を実施することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-M013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回の不適合は、担当者が溶接事業者検査対象範囲を誤認識していた事実から「業務遂行上必要な法令に対する担当者の知識が不足している」こと、および多くの審査者が確認していたにも係わらず、見抜けなかった事実から「法令遵守の厳格な管理ができていない」、「上位者が担当者に対し行う業務フォローのポイントが不明確である」こと、並びにこれらに対する「事業本部の支援が不足していた」ことを問題点に据え、その背景にある根本的な原因の究明が必要と判断した。
+　　
+ａ．「業務遂行上必要な法令に対する担当者の知識が不足している」について
+現状の溶接事業者検査に関する教育は、若年層を対象とした教育カリキュラムとなっておらず、現場実態に則していない。これらの教育は発電所の課内教育やＯＪＴに委ねられている。
+
+ｂ．「法令遵守の厳格な管理ができていない」、「上位者が担当者に対し行う業務フォローのポイントが不明確である」について
+業務決定文書の審査を多数で実施しているものの、各審査者が審査すべき事項や審査方法が明確に規定されておらず、結果として資料で確認できない細部にまで踏み込んで審査できていなかった。
+また、実務経験が浅い担当者に対する課内上位者の業務フォローのポイントが明確になっておらず、的確なフォローが出来ていなかった。
+
+ｃ．「事業本部の支援が不足していた」について
+・溶接事業者検査に対するこれまでの原子力事業本部の発電所支援は、溶接事業者検査や溶接安全管理審査に対するものが主体であり、工事計画段階における溶接事業者検査対象範囲のチェックに関する業務運営や教育に対する支援は十分ではなかった。
+・事業本部がこれまで把握した発電所の問題点に対して、人員増強などの対策を実施中であるが、要求される力量の有無や業務運営上問題はないかについての分析・評価が不十分であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[余熱除去系統試料採取配管の溶接事業者検査手続き漏れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[手続き漏れを確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/02/23 17:35:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8678</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[低圧注入系（余熱除去系）]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[205]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[205]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8678</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

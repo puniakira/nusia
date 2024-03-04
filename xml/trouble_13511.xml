@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>13511</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/06/10 16:42:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>108290</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2022/06/10 16:42:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20220511]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[■事象の概要
+・2022年5月11日、立入制限区域への入域ゲートである発電所正門において、通勤用バスに乗車していた本社所属の当社社員（以下、「当該社員」）の入構証の有効期限切れを見張人が発見し、入構を阻止した。
+・当該社員に聞き取りをしたところ、有効期限である同年4月30日以降に複数回入構したとの証言を受けたことから、入構履歴を確認した結果、5月に3回、有効期限切れの状態に気付かず入構していることを確認し、速やかに原子力規制庁へ報告した。
+
+■原因
+この事案を受けて、原因を調査した結果、当該社員の有効期限の確認不足に加えて、以下の運用上の問題を特定した。
+・見張人は、正門においてハンディターミナル型読取装置（以下「ハンディ」）を利用し、車両に乗車した全ての入構者の人定確認と入構証の有効期限を確認している。
+・ただし、ピストンバスに乗車した入構者に対しては、渋滞による見張人のプレッシャー軽減の観点から、事前に構外駐車場にて見張人がハンディにより全員のデータを集約し、正門で別の見張人が転送されたデータをハンディにより一括確認する運用としていた。この一括確認におけるハンディ画面は一人ひとり個別に確認する画面に比べ、表示が小さく、正門の見張人が有効期限切れを見落としやすい状況にあった。
+
+■対策
+・ピストンバスの乗員に対する一括確認運用を廃止し、正門において一人ひとり個別にハンディに読み込んで有効期限を確認することとした。
+
+
+なお、本事案に伴う手荷物検査等の手続きに問題はなく、施設等への妨害破壊行為もなかった。
+また、ピストンバス以外の車両については、これまでも入構証の有効期限確認をハンディにて一人ひとり個別に読み込んだ上で確認しており、問題はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-東京-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[当社社員による有効期限切れ入構証の使用について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/06/10 16:42:45]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

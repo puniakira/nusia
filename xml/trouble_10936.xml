@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10936</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/07/12 13:51:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>14636</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/04/27 16:46:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201004261052]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/07/12 13:51:07]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+定期検査中の７号機タービン建屋地下２階（管理区域）において、平成22年４月26日午前10時52分頃、低圧ドレンポンプ（Ｂ）の分解点検中に、協力企業作業員が当該ポンプの軸受部冷却器の水抜きプラグを外したところ、冷却器内の冷却水が床に漏えいした。その後、速やかに水抜きプラグを元に戻すとともに冷却水配管の元弁を閉めたことにより、漏えいは停止した。漏えいした冷却水の量は約400リットルであった。
+
+（原因）
+　調査の結果、当該ポンプの分解点検に際し、点検実施箇所は設備管理箇所に対して、軸受油冷却水配管の入口弁と出口弁を閉めるように依頼していたが、設備管理箇所は入口弁については閉めたものの、出口弁は閉める必要はないと判断し実施しなかった。その結果、水抜きプラグを外したことにより漏えいが発生したことがわかった。
+
+（安全性、外部への影響）
+漏えいした冷却水に放射性物質は含まれていなかった。
+なお、本事象による外部への放射能の影響はない。
+
+＜対応状況＞
+床面に漏れた水は４月26日に液体廃棄物処理系へ回収するとともに、拭き取りによる清掃を実施した。
+
+　原因を調査した結果、点検実施箇所と設備管理箇所による確認調整が不足し、作業開始前の安全処置実施確認が確実でなかったことが判明した。
+　今後、対策として以下のことを行う。
+・水抜き手順書への注意事項の追記
+・事前打ち合わせで、作業許可申請書の安全処置の隔離範囲を確認するなど、ルールの再徹底
+　また、今回の不適合事例を関係者に対して周知徹底する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所　７号機　タービン建屋（管理区域）における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/04/30 09:39:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

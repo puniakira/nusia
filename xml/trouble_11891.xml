@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11891</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/01/16 13:26:53]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>44486</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/01/10 18:56:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201401062221]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/01/16 13:26:53]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１月６日午後10時21分頃、５号機タービン建屋１階をパトロールしていた当社社員が、発電機の冷却に使用する固定子冷却水系において、冷却水配管に取りつけられている安全弁の配管より水が漏えいしていることを発見した。同時刻に至近の弁を閉めることで、漏えいが止まったことを確認した。なお、固定子冷却水系で使用される水は純水を使用しており、漏えいした水は汚染水ではない。漏えい範囲は以下のとおり。
+　　堰内：約２ｍ×約４ｍ、深さ約10cmで漏えい量は約800リットル
+　　堰外：約５ｍ×約５ｍ、深さ約５mmで漏えい量は約125リットル
+
+当該の漏えいについての主要要因と応急対策は以下のとおり。
+【主要要因】
+タービン建屋補機冷却系熱交換器（Ａ）の本格点検に必要な洗浄水の確保のため、固定子冷却水系補給水（純水）ラインの入口弁を「全開」とした。その後、５･６号機スイッチギア空調膨張タンク補給のために純水移送ポンプを起動した際に、固定子冷却水系補給水（純水）ラインにも圧力がかかり、当該ラインにある安全弁に設定圧以上の圧力がかかったことから当該安全弁が動作し、水漏れが発生した。今回の漏えいは、タービン建屋補機冷却系熱交換器（Ａ系）の本格点検に必要な洗浄水を確保するためのライン構成にあたり、当該安全弁の確認が不足していたために生じた。
+【対策・処置】
+・固定子冷却水系補給水（純水）ラインの入口弁に、安全弁動作の注意喚起を促す注意札を取り付ける。
+・タービン建屋補機冷却系熱交換器（Ａ）本格点検の洗浄水ラインを、固定子冷却系補給水（純水）ラインから別ラインに変更する。
+・提出されている作業許可書については、安全処置の総点検を行い、類似要因がないか確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S070]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所５号機　固定子冷却水系からの漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/01/16 13:23:27]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

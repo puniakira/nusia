@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11838</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/01/09 08:27:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>44396</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/10/22 18:00:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201310151020]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/01/09 08:27:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成25年10月15日午前10時20分頃、３号機タービン建屋（管理区域）において、タービンや発電機の軸受などに潤滑油を供給する設備の点検に従事していた当社社員が、タービン建屋１階発電機エリアの発電機軸受下部付近およびタービン建屋地下１階発電機下部エリアの床面に、油だまり（発電機エリア：約２リットル、発電機下部エリア：約４リットルの合計約６リットル）を確認した。油の漏えいについては、午前10時22分に潤滑油供給ポンプの運転を止めたことにより停止している。
+　その後、午前11時12分に消防本部へ連絡し、現場を確認していただいた。
+　なお、漏れた油は、拭き取り処理を行うとともに床面の清掃を実施した。
+　漏れた油に放射性物質は含まれておらず、外部への放射能の影響はない。
+
+　原因調査の結果、発電機の軸受に潤滑油を供給する設備の点検のため乾燥空気で加圧していた発電機内を降圧する作業を実施していたところ、操作手順が一部不十分であったために、発電機内圧力が十分に下がってから開操作すべき弁を圧力が高い状態で開操作したことから、発電機軸受部に繋がる配管に空気が流入して潤滑油が逆流し、軸受部から漏れたものと推定した。
+　なお、発電機軸受の外観点検の結果、異常がないことを確認した。
+　再発防止対策として、発電機内の降圧作業の手順書に当該弁の操作における具体的な条件（発電機内圧が十分降下するまで開操作は禁止等）を記載するとともに、当該弁に同内容の注意表示を行うこととした。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S058]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所３号機　タービン建屋（管理区域）における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/10/22 18:00:43]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）現場調査
+a.事象発生直後の状況 
+制御バンクＣ制御棒Ｇ７の位置を制御棒位置指示計で確認したところ、２２５ステップを指示すべきところ、２３０ステップ付近で変動していることを確認した。
+b.制御棒位置に関する調査
+制御棒機構のメカニズムからラッチ機構が外れた場合には、重力により下に移動（落下）することは考えられるが、制御棒動作の要求信号を出してラッチ機構がシーケンシャルに動作しない限りは上方に移動することはない。要求信号であるステップカウンタの指示値に変化がなかったことから、要求信号によって上方に移動したものではないことを確認した。
+次に、外部からのノイズにより制御棒が動作することは無いと考えるが、仮にノイズにより動作要求信号が発信した場合でも、同一バンク内の制御棒駆動回路は電気的に並列に接続されていることから、このうち１本だけが動作することはあり得ないことを確認した。　　　　　　　　　　　　
+さらに制御棒が引き抜かれた場合、プラント出力は増大すると考えられるが、原子炉熱出力、出力領域中性子束、一次冷却材平均温度、発電機出力の各パラメータに有意な変動が見られないことを確認した。
+また炉内核計装装置を用いて炉内出力分布を測定し、前回（平成１９年１１月１５日）、前々回（平成１９年１０月２９日）の測定結果と比較したところ、軸方向中性子束に変化のないことを確認した。
+
+以上のことから、事象発生時、制御棒は動作していないと考えられる。
+
+c.指示値上昇要因の調査
+制御棒位置指示装置の指示値が上昇する要因を調査するため、まず制御棒位置指示装置の中で指示値の変動につながる部位を抽出し、次に各部位ごとに制御棒位置指示値の上昇を引き起こす可能性があるかどうか検討した。（添付資料－１）
+(a) 制御棒位置指示装置電源
+電源が故障すれば指示値変動につながる可能性があるものの、当該制御棒だけでなく全ての制御棒の位置指示が変動することから、電源は今回の原因ではない。
+(b) 制御棒位置指示装置検出器
+検出器コイルや導線の断線、短絡、地絡、あるいはコネクタ部の接触抵抗増大によって指示値変動につながる可能性があるものの、いずれも信号処理カードへの入力電圧は低下し指示値は下降するため、今回の原因ではない。
+(c) 検出器～制御棒位置指示盤間のケーブル
+ケーブルの断線、短絡、地絡、あるいはコネクタ部の接触抵抗増大によって指示値変動につながる可能性があるものの、いずれも信号処理カードへの入力電圧は低下し指示値は下降するため、今回の原因ではない。
+(d) 制御棒位置指示装置盤内の入出力切換スイッチ、ヒューズ、盤内ケーブル入出力切換スイッチ、ヒューズ、盤内ケーブルの断線、短絡、地絡、あるいは入出力切換スイッチやコネクタ部の接触抵抗増大によって指示値変動につながる可能性があるものの、いずれも信号処理カードへの入力電圧は低下し指示値は下降するため、今回の原因ではない。
+(e) 信号処理カード
+信号処理カードは検出器からの微弱な信号を中央制御室の指示計に伝送できるように増幅する機能を有している。このカードの故障内容によっては指示値の上昇につながることから、今回の原因となる可能性がある。
+
+以上の結果、信号処理カードが故障した場合のみ、指示値が上昇する可能性があることが判明したため、当該制御棒の信号処理カードについて詳細な点検を実施することとした。
+
+d. 信号処理カード詳細点検
+(a) 信号処理カード出力電圧測定
+信号処理カード出力電圧を測定したところ、３．３８６Ｖ（２２６ステップ相当）であった。
+(b) 制御棒位置指示装置盤内タッピング
+信号処理カードのタッピング試験（カードが盤に取り付けられた状態で、カード前面を軽くたたいてカード出力電圧変動の有無を確認）を２回実施したところ、以下の通り１回目のタッピング時に出力電圧の変動（上昇）が再現した。２回目のタッピング以降は出力電圧の変動はみられなかった。
+
+　　測定時期　　｜	　信号処理カード出力電圧
+－－－－－－－－－－－－－－－－－－－－－－－－－－
+　　　実施前　　｜３．３８６Ｖ（２２６ステップ相当）
+－－－－－－－－－－－－－－－－－－－－－－－－－－
+カードタッピング｜３．３８６Ｖ↑３．４５３Ｖ（２３０ステップ相当）
+（１回目）　　　｜　　　　　　　　　　　↑一時的な出力電圧の上昇有
+　　　　　　　　｜↓３．３７６Ｖ（２２５ステップ相当）
+－－－－－－－－－－－－－－－－－－－－－－－－－－
+カードタッピング｜
+（２回目）　　　｜	３．３７６Ｖで変化せず
+－－－－－－－－－－－－－－－－－－－－－－－－－－
+カードタッピング｜
+以降	　　　 ｜３．３７６Ｖで変化せず
+－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+カードのタッピングによって、出力電圧が上昇した要因を調査した結果、タッピングによって回路特性が変化し出力電圧変化につながる可能性のある素子は可変抵抗器だけであった。
+理由は、可変抵抗器はダイヤル操作によって抵抗値が変化する素子であり、可変抵抗器内接触部に酸化皮膜等が発生すると抵抗値が変化する可能性を否定できない。またこの事象はタッピング等による振動でより顕著となる。一方、他の素子は振動によって電気的な特性が変化することは考えにくいため。
+また、信号処理カードハンダ付け部の接触不良によっても出力電圧変化につながる可能性があるものの、接触不良の場合は２回目のタッピングでも事象が再発する可能性が高く、今回の原因とは考えにくい。
+このため原因と考えられる可変抵抗器について、タッピング試験と摺動操作を行い、原因箇所の特定と解消に努めることとした。（添付資料－２）
+(c) 制御棒位置指示装置信号処理カード可変抵抗器のタッピング
+可変抵抗器４個についてタッピングを行い、カード出力電圧を確認したが、電圧値は変化しなかった。
+(d) 制御棒位置指示装置信号処理カード可変抵抗器の摺動操作
+可変抵抗器４個について摺動操作を行った後、カード出力電圧を確認したが、摺動操作前の電圧値から変化しなかった。
+以上の結果、可変抵抗器のタッピング試験、摺動操作をしてもカード出力電圧は変化しなかったことから、再度可変抵抗器のタッピングを行い最終的な健全性確認を実施することとした。
+ (e) 制御棒位置指示装置信号処理カード可変抵抗器のタッピング
+健全性確認のため、可変抵抗器４個について再度タッピングを行い、カード出力電圧を確認したが、電圧値は変化しなかった。
+
+以上のことから可変抵抗器は健全であり、一時的な抵抗値変動の不具合は解消されたと判断した。
+
+（２）制御バンクＣ制御棒の動作試験
+信号処理カードの不具合が解消されたことから、制御バンクC制御棒につ
+いて２２５ステップ→２２０ステップ→２２５ステップの動作試験を行い、制御棒位置指示が正常に動作することを確認した。
+（３）プラント運転状態での確認
+平成２０年１月の第２０回定検による原子炉停止までの期間における当該制御棒の位置指示値を確認し、指示値の有意な変動がないことを確認した。
+
+（４）第２０回定検での信号処理カード詳細点検
+ a. 当該信号処理カード詳細点検
+当該信号処理カードについて異常の有無を入念に確認するために、可変抵抗器摺動操作と、摺動操作前および後のタッピング試験を実施した。（このタッピング試験は通常の点検では実施しない）
+その結果、可変抵抗器摺動操作前のタッピング試験において、４ステップの指示値変動に相当する微小な出力電圧の上昇(+0.062V)が一時的に見られた。その後、可変抵抗器摺動操作を行い、再度タッピング試験を実施したところ出力電圧変動等の異常はみられなかった。
+ b. 他の信号処理カード詳細点検
+他の（Ｇ７以外）信号処理カードについても、Ｇ７と同様に可変抵抗器摺動操作前および摺動操作後のタッピング試験を実施した。その結果、Ｈ８信号処理カードの可変抵抗器摺動操作前のタッピング試験において、最大で１ステップの指示値変動に相当するごく微小な出力電圧の上昇(+0.017V)が一時的に見られた。その後、可変抵抗器摺動操作を行い、再度タッピング試験を実施したところ出力電圧変動等の異常はみられなかった。
+その他（Ｇ７、Ｈ８以外）の信号処理カードについては、可変抵抗器摺動操作前および摺動操作後のタッピング試験の結果、いずれも異常はなかった。
+c. 詳細点検結果からの考察
+当該信号処理カードについては、１２月１０日の可変抵抗器摺動操作後、４２日経過時点でのタッピング試験によって指示値が有意に変動したことから、可変抵抗器の抵抗値が変動しやすくなっており、取替の必要性が高い。
+一方、Ｈ８の信号処理カードについては、前回定検時に可変抵抗器の摺動操作を実施してから１年以上経過しており、またタッピング試験による指示値の変動幅はごくわずかであることから、可変抵抗器抵抗値の変動しやすさは問題ない範囲であり、今後次回定検までに指示値が変動する可能性は非常に小さい。
+
+（５）保修状況の調査
+当該信号処理カードについて過去の点検にかかる履歴および記録を調査したところ、毎定検入出力特性試験やプラント起動・停止時の動作確認を実施しており、これまで異常はなかった。また、当該信号処理カードは運転開始以来取り替えた実績はない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9579</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/03/13 13:58:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[【各制御棒位置がプラス・マイナス１２ステップ以内であることを確認】
+１４時２０分　
+制御棒位置指示計の点検により、保安規定に定める運転上の制限を満足していない状態であると判断
+
+２０時２１分
+制御棒位置指示装置点検の結果、不具合が解消され、健全であることを確認
+
+２０時４８分　　　
+制御バンクＣ制御棒の動作テストを完了し、制御棒位置指示計の指示値に異常のないことを確認したことから、保安規定に定める運転上の制限は満足した状態となった
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4131</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/02/04 17:44:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200712101330]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）第２０回定検においてＧ７およびＨ８の信号処理カードを予備品と取り替えた。Ｈ８については、実力的に取替は不要と考えるが、念のために取替を実施した。
+（２）今後とも、信号処理カードを予備品として常備する。
+（３）今後数年のうちに信号処理カードを可変抵抗器のないタイプに取り替える。それまでの間は、定検において可変抵抗器摺動操作前後に、酸化皮膜等の除去効果を確認するため、タッピング試験を追加実施する。摺動操作前後のタッピング試験で、カード出力電圧の有意な変動が確認された場合には、カードを予備品に取り替えることにより、事象の再発を防止する。これらの内容を作業要領書に反映するとともに、関係者に周知する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所第２号機は通常運転中のところ、平成　１９年１２月１０日１３時３０分頃、中央制御室にある制御棒位置指示計*1の制御棒３３本のうち、１本の指示値が、制御棒を操作していないにもかかわらず、わずかに変動していることを運転員が確認した。当該制御棒位置指示の変動は発生から約１時間後に自然に収まり、変動前の指示値に戻った。その後、制御棒位置指示値が変動した原因を調査するとともに、制御棒位置指示装置信号処理カード（以下「信号処理カード」と記載）の点検手入れにより、健全であることを確認した。さらに、制御バンクＣ制御棒の動作試験を実施したところ、制御棒位置指示計が正常に作動することを確認した。また、平成２０年１月から実施している第２０回定検において調査を実施した。
+本事象によるプラント運転への影響および周辺環境への放射能の影響はなかった。　　　　　　　　　　　　　　　　　　　　　　　（添付資料－１）
+＊１　 制御棒位置（引抜・挿入の状態）を指示する計器のことで、単位は「ステップ」。０ステップが全挿入状態であり、事象発生当時の制御バンクＣの制御棒位置は２２５ステップ（ほぼ全引抜き）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-四国-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[カードのタッピングによって信号処理カード出力電圧上昇が再現したことから、今回の原因は、信号処理カード内可変抵抗器に酸化皮膜等による一時的な抵抗値変動が生じた結果、信号処理カードの電圧が上昇し、制御棒位置の指示が見かけ上変動したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒位置指示値の変動について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>572</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/03/13 13:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+			<TROUBLE_ID>9579</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[440]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御用電気回路]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[715]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[715]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御・保護装置]]></KIKI_NAME>
+					<SORT_NO>27</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[217]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9579</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9579</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9579</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9579</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

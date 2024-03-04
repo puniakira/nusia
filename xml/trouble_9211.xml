@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9211</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/10/09 14:21:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3939</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/08/21 09:55:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200708171505]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/10/09 14:21:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の福島第二原子力発電所３号機において、平成19年８月17日、非常用ガス処理系の放出管理用フィルタについて全ベータ放射能の定例測定を行ったところ、ごく微量の粒子状放射性物質の存在を示す放射能が検出された。
+原因調査のため、長時間測定による詳細測定を行った結果、検出限界値（1.3×10－９ベクレル／cm＾３）をわずかに上回るコバルト60（1.5×10－９ベクレル／cm＾３）が検出された。
+
+　検出されたコバルト60について、測定データをもとに周辺監視区域外における線量評価を行ったところ、下記のとおり、法令で定める一般公衆の線量限度１ミリシーベルトの約２千億分の１であり、自然界から１年間に受ける放射線量2.4ミリシーベルトと比べても十分低い値であった。
+　なお、非常用ガス処理系排ガス放射線モニタならびに敷地境界近傍に設置されているモニタリングポストに有意な変動はなかった。
+
+法令で定める一般公衆の線量限度（年間）	１ミリシーベルト
+今回の放出による線量	0.000000000005ミリシーベルト
+参考：自然界から受ける線量（年間）	2.4ミリシーベルト
+
+　その後の調査の結果、以下のことがわかった。
+・試料採取期間（平成19年８月１日～８日）に粒子状放射性物質を放出させるような作業が行われていなかったこと。
+・本試料採取期間以後の定例測定では、粒子状放射性物質が検出されていないこと。
+・粒子状放射性物質を測定する系統の不具合や汚染は認められないこと。
+・ろ紙フィルタの放射性物質の付着分布調査においては、実際に粒子状放射性物質の放出があった場合、通常は全体に均一な付着が認められるところ、今回は一部分のみに付着が確認されたこと。
+・検出されたコバルト60がごく微量であったこと。
+
+　これらのことから、結果としてコバルト60が検出された原因の特定には至らなかったが、本事象は作業等で発生した粒子状放射性物質が放出されたものではないと考えられることから、原子炉施設内に通常存在するコバルト60のごく微量な粒子が放出管理用フィルタに偶発的に付着したものと推定した。
+　
+　対策として、放射線を測定する作業員が当該フィルタを取り扱う際に粒子状放射性物質が付着した可能性が考えられることから、これらの作業員に対し、当該フィルタを取り扱う際の汚染防止について注意喚起を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S045]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所３号機非常用ガス処理系における粒子状放射性物質の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/08/23 18:18:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

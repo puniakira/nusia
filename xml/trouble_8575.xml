@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8575</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/12/25 18:06:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3638</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/12/19 17:11:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611061326]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の２号機において、圧力抑制プールの水位調整のため原子炉建屋床ドレンサンプ（Ｂ）への排水作業を実施していたところ、平成18年11月６日13時26分、中央操作室において、原子炉建屋地下１階で漏えいを示す警報が発生した。
+　ただちに運転員が現場へ急行したところ、当該床ドレンサンプ近傍の排水口まわりに水たまりおよび排水口からの溢水を確認した。
+　このため、サンプポンプを手動で起動したところ、溢水は停止し、たまり水は排水された。
+　なお、漏えい水は堰内に留まっており、漏えい量は約６リットル、放射能量は約３×10＾４ベクレルで、拭き取りによる清掃を実施した。
+
+　調査の結果、以下のことがわかった。
+・当該床ドレンサンプには２台のポンプ（Ａ、Ｂ）が設置され、水位が高レベルに達すると交互に１台のみが自動起動する設計となっていた。
+・ポンプ（Ｂ）は同日10時40分頃に高レベルで起動後、停止していたため、次に水位が高レベルに達した際にポンプ（Ａ）が起動するはずであったが、ポンプ（Ａ）は電源設備点検のため同日10時12分より起動できない状態となっていた。
+・水位が高レベルより更に上昇した際にポンプを起動する検出器（高高レベル）を同日12時15分、計器点検のため隔離したことにより、高高レベルに達してもポンプ（Ｂ）は起動できない状態となっていた。
+・当直は圧力抑制プールの排水作業中であることを失念していた。
+
+　本事象は、当直が、２種類の点検を同一時期に実施しても高レベルでポンプ（Ｂ）が自動起動し排水できるものと考え点検を許可したこと、および当該床ドレンサンプへの排水作業中であることを失念し、水位の上昇に気づかなかったことから発生したことがわかった。
+　対策として、圧力抑制プールの排水作業中は中央操作室の操作盤にその旨を表示し、注意喚起するとともに、ドレンサンプについては、計器点検とポンプの電源設備点検が重複しないよう業務マニュアルに反映する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S052]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/12/25 18:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

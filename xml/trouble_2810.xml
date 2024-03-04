@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+　燃料ポンプと燃料吐出配管との接続部にひびが確認されたことから非常用ディーゼル発電機(機関)運転に伴い，燃料ポンプからポンプアップされた燃料が当該接続部の貫通したひびから漏れ出たものと推定できる。
+　本事象が発生する要因を特定するため，以下の調査を行った。
+（１）材料調査
+　材料調査として外観観察，浸透探傷試験，破面観察，断面観察，硬さ測定，化学成分分析を行った。
+ａ．外観観察
+　目視による外観観察では，配管円周の約１／４に線状の指示模様が観察された。
+ｂ．浸透探傷試験
+　外面の浸透探傷試験の結果，配管円周の約１／３に線状の指示模様が観察された。
+　外面の欠陥指示位置に基づき配管の縦割切断を実施した。縦割り切断後の内表面の外観観察および浸透探傷試験の結果，外観観察で指示模様が確認された部分については内面に線状の指示模様が観察された。
+ｃ．破面観察
+　指示模様が確認された配管について，破面観察を行った。ひび開放後の配管上流側の破面外観観察結果，破面には，外表面から内表面に向かって疲労に特徴的なビーチマークが確認された。なお，破面には個別に発生したき裂がつながる場合に生じる段差が複数確認された。このことから，配管外表面側において複数のき裂が発生したと想定される。それぞれのき裂の面にそれぞれ疲労に特徴的なビーチマークが観察された。
+　また，ＳＥＭ観察の結果，疲労破壊に特徴的なストライエーション模様が観察された。
+　したがって，ひびは外表面側の形状不連続部を起点として発生し，内表面に向って進展し，貫通に至ったものと推測される。
+ｄ．断面観察
+　破面近傍の断面を研磨後，断面マクロ観察および光学顕微鏡による断面ミクロ観察を行った。金属組織観察の結果，母材部は通常の炭素鋼の組織であった。
+ｅ．硬さ測定
+　断面観察面における硬さ測定を行った。硬さ測定方法はＪＩＳ　Ｚ　２２４４に準拠したビッカース硬さ試験方法で実施した。断面の硬さ測定の結果，特に異常な硬さではないことを確認した。
+ｆ．化学成分分析
+　配管材の化学成分分析の結果，ＫＳＴＳ３８の日本海事協会成分（ＪＩＳ　Ｇ３４５５　ＳＴＳ３７０相当）の規格値を満足していた。
+以上の調査の結果から，当該のひびは繰り返しの応力に起因した疲労により，外表面側（形状不連続部）を起点として発生し，進展して貫通に至ったと推定された。
+
+（２）振動評価
+　当該部破面観察の結果より，割れは疲労破面の特徴を呈していることが認められていることから，振動荷重による高サイクル疲労損傷の可能性のあることが示唆された。
+　振動評価では，当該燃料高圧配管を３次元モデル化し，実機調査で振動測定した点に入力条件として変位を与え，配管応力解析プログラムにより当該部位の発生応力を算出し，繰り返し発生応力が疲労限を上回る可能性について評価を行った。また，防振サポートが設置されている非常用ディーゼル発電機(ディーゼル機関)（Ａ）系と配管系の固有値調査，機関運転時の振幅測定を行い，比較・評価も行った。
+ａ．配管系の固有値調査
+　燃料噴射ポンプと中間継手間に防振サポートが追加設置されている（Ａ）系と，防振サポートの無い（Ｂ）系の配管系の固有周期を，周波数分析計を用いて打振計測した。計測は，（Ａ）系，（Ｂ）系ともに漏えいの発生したＬ４と反対側のＲ４を計測した結果，防振サポートを設置している（Ａ）系の固有周期のほうが（Ｂ）系より明らかに剛であることが確認された。
+ｂ．機関運転時の振幅測定
+　燃料噴射ポンプ吐出配管の５ポイントにおいて，ポータブル振動計測器（アスカニア）で（Ａ）系，（Ｂ）系ともに漏えいの発生したＬ４と反対側のＲ４を，２回計測した。
+　その結果，燃料噴射ポンプと中間継手間に防振サポートが追加されている（Ａ）系については，振幅を計測した５ポイントが２００μｍ ｐ－ｐ以下であるが，防振サポートの無い（Ｂ）系では，面外振幅が，最大６００μｍ ｐ－ｐ程の振れを記録しており，防振サポートによる振動対策が有効であることが確認された。
+　また，振幅は機関クランク軸と平行方向であるＺ方向は比較的小さく，Ｘ方向，Ｙ方向が大きいことが確認された。
+ｃ．解析
+　当該部に発生する振動応力を，工認で使用するものと同様の配管応力解析プログラムにより求め，運転実績から推定される繰り返し回数に対応した疲労限に達するか否かについて解析・評価を行った。
+　この結果，（Ｂ）系の当該破損部の振動応力は約２２０ＭＰａ程度であることが確認された。
+　なお，本配管は，平成５年第13回定検で交換されており，それから本事象発生の時点までのサーベランス試験運転時間を考慮し当該部の実繰り返し回数を推定した結果，運転時間２１０時間，繰り返し回数は約7.3×10＾7回であった。
+　一方，本実繰り返し回数に対応する疲労限については，疲労曲線より約２１０ＭＰａ程度と推定される。
+　当該部の応力は10＾7回から10＾8回の繰り返し回数に対応する疲労限と同程度であり，当該配管の取替後の運転履歴により疲労割れが発生する可能性があるものと考えられる。
+
+２．損傷の推定メカニズム
+（１）（Ｂ）系燃料噴射ポンプ吐出配管は，（Ａ）系の同配管と比べて，中間サポート点までの区間にサポートが存在しない。このため，その間の配管が機関振動を受け（Ｂ）系は比較的大きく振動した。
+（２）配管の固定端である燃料ポンプ出口配管の付け根部に比較的大きな応力が発生した。
+（３）その応力は10＾7から10＾8の繰り返し回数に対応する疲労限となっていた。
+（４）配管外表面に機械加工傷やブローホールなどの初期のひびなどが無くても疲労割れが発生し，ディーゼル機関運転に伴う振動によりひびは進展し貫通した。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2810</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/05/24 09:43:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>72</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3133</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/02 22:53:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503011402]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．中間サポートが無い（Ｂ）系の燃料ポンプ吐出配管の取替えを行う。
+２．同型である（Ａ）系の同配管と同じ位置に中間サポートを設ける。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/24 09:43:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成17年３月１日午後２時２分頃、定期検査中の３号機で、非常用ディーゼル発電機（＊１）の機能検査（＊２）を実施していたところ、タービン建屋地下１階の非常用ディーゼル発電機（Ｂ）室内において、非常用ディーゼル発電機（Ｂ）の機関部側面にある燃料噴射ポンプ（＊３）上部より、燃料の軽油が漏れていることを当社社員が発見した。速やかに当該発電機を停止し、漏えいは停止した。
+　機能検査を中断して当該燃料噴射ポンプを点検したところ、当該ポンプ上部の配管接続部に周方向のひび（約1.5cm程度）が確認され、当該部からの漏えいであることが分かった。
+　漏えい量は約３リットルで、漏れた軽油については、拭き取りにより清掃を実施した。
+　これによる外部への放射能の影響は無かった。
+
+＊１：非常用ディーゼル発電機
+所内電源喪失時に所内へ電源を供給するためのディーゼルエンジン駆動の非常用発電機。
+
+＊２：非常用ディーゼル発電機の機能検査
+非常用ディーゼル発電機が規定時間内に自動起動し、非常用炉心冷却系ポンプに電源を供給することを確認する検査。
+
+＊３：燃料噴射ポンプ
+ディーゼル発電機機関部の燃焼室に燃料（軽油）を供給するためのポンプ。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M061]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[当該のひびは繰り返しの応力に起因した疲労割れであり，外表面側（形状不連続部）を起点として発生し，繰り返し発生した応力により，進展して貫通に至ったと推定された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機（Ｂ）室内での油漏れ]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/07 10:45:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[071]]></KIKI_CODE>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2810</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[071]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[非常用ディーゼル]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[703]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[703]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ディーゼル発電機装置]]></KIKI_NAME>
+					<SORT_NO>5</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[30]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[停止期間延長]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2810</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

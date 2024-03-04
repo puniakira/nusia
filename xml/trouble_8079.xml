@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8079</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/01/20 18:54:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2006/01/20 16:46:15]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200601181431]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の６号機において、平成18年１月18日午後２時31分、原子炉建屋地下２階に設置されている高電導度サンプの水位上昇を示す警報が発生した。廃棄物処理建屋の運転員が当該サンプの確認を行っていたところ、同日午後２時37分、原子炉建屋地下２階で水漏れがあるとの連絡を協力企業作業員より受けた。
+このため、当該運転員が建屋内を確認したところ、原子炉建屋地下２階の広い範囲にわたり、部分的な水たまりが点在していることを確認した。
+
+調査の結果、当該サンプには、機器の点検時に発生する排水等が流入するが、サンプポンプ＊２が本来自動で起動すべき水位に達したにもかかわらず起動せず、さらに水位の上昇が継続したため水位高の警報が発生し、その後、当該サンプにつながる複数の排水口および当該サンプより排水が溢れたことがわかった。
+当該サンプポンプが自動起動しなかった原因は、当該サンプポンプを水位に応じて自動起動させる検出器が故障していたものであった。
+
+対応として、当該検出器の取り替えを行うとともに、当該サンプポンプの自動起動回路の点検を行い、健全であることを確認した。
+
+なお、漏えいした水の量は約280リットル（堰内で280リットル、堰外で0.2リットル）、堰外へ漏えいした水の放射能量は約１×10４ベクレルであり、拭き取り清掃を実施した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S095]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/01/20 18:54:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

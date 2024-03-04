@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11294</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/05/07 13:53:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>23186</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/05/05 03:23:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201104271210]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+　平成23年４月27日（水）午後０時10分頃、荒浜側焼却炉建屋（管理区域）排気筒において、粒子状放射性物質の定例測定を実施した結果、検出限界値をわずかに上回るごく微量のアルファ線を放出する物質を検出（検出限界値2.1×10-10ベクレル／cm3に対し、3.2×10-10ベクレル／cm3を検出）した。
+
+（評価結果）
+　当該測定データをもとに発電所敷地境界における濃度を評価したところ、3.4×10-16ベクレル／cm3であり、この値は告示濃度で定める空気中の濃度限度２×10-10ベクレル／cm3に比べ約50万分の１と極めて低い値であった。また、今回確認された粒子状物質から受ける放射線量は、２×10-6ミリシーベルトであり、自然界から１年間に受ける放射線量2.4ミリシーベルトと比べても十分低い値であり、胸のエックス線検診（１回）で受ける放射線量（0.05ミリシーベルト）の約２万５千分の１であった。
+
+（外部への影響）
+　発電所敷地境界近傍に設置され空間線量率を測定するモニタリングポストやダストモニタの指示値は通常の変動の範囲内であり、周辺環境への影響はない。
+
+＜対応状況＞
+　毎月実施している各号機の原子炉水の放射能分析ではアルファ線を放出する物質が検出されていないこと、また焼却炉建屋排気筒では原子力発電所に起因する物質（コバルト60等）が検出されていないことから、コンクリート製の建屋内に微量に存在する天然放射性物質が排気筒へ移動してフィルタに捕捉、検出されたものと推測した。
+　]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所　荒浜側焼却炉建屋（管理区域）排気筒における微量な放射性物質の確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/05/07 13:53:06]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10787</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/21 13:15:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4647</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/01/20 17:58:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091214]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 定格熱出力一定運転中の平成２１年６月下旬、原子炉格納容器内のサンプ（水溜め）に溜まった水を移送する際に行う分析で、格納容器内にある各機器を冷却するための機器冷却水＊１に含まれるクロム酸が検出さた。このため、この冷却水が供給されている機器のうち、運転中に停止可能な機器について順次隔離したところ、Ｃ－下部コンパートメントの空気再循環冷却ユニット＊２（以下「冷却ユニット」という）を隔離した結果、漏れは停止した。また、隔離後の現場点検で、当該ユニット下部やその下の床面などに濡れ跡を確認した。本事象による環境への放射能の影響はなく、冷却ユニットを１台停止しても、他の３台で格納容器内の温度管理は可能であることから、運転には支障はない。大飯発電所２号機の燃料集合体漏えいに係る調査のための停止期間中にあわせて、当該冷却ユニットを点検したところ、冷却水が流れる伝熱管１本の入口部近くに貫通孔（長さ：約２．５ｍｍ、幅：約０．４ｍｍ）が認められ、管内部では折れ曲がった金属の線状異物（長さ：約１３０ｍｍ、直径：約３．２ｍｍ）が入口部で引っかかっており、管内面にこすれ跡も確認した。この異物を分析した結果、仮設足場等で使用している鋼線の切れ端であることがわかった。以上のことから、冷却ユニットを開放点検した際、何らかの原因で鋼線の切れ端が冷却ユニット内に混入し、当該伝熱管の入口部に引っかかり、管内面をこすり続けたため、貫通孔が生じたものと推定した。
+
+対策として、当該冷却ユニットの伝熱管（銅材）の貫通孔をろう付け溶接で補修し、漏えい試験により漏れがないことを確認する。また、機器内から異物が発見されたことの調査では、前回の定期検査で、当該冷却ユニットの入口配管フランジ部のパッキン取替えのため、機器を開放していた際、その近くで足場解体作業が行われており、機器点検のエリアと通路との区画管理が徹底されていなかったことが原因と推定されることから、今後は、機器の開放作業時においては、区画管理・異物管理の徹底を再周知する。さらに、機器冷却水が供給されている格納容器内の機器について、内部の目視点検を行い、異物が混入していないことを確認する。
+
+＊１ １次系のポンプモータや空調器等の冷却水として使用される水で放射能は含まれていない。この水には腐食防止用のクロム酸が添加されている。
+
+＊２ 下部コンパートメント空気再循環冷却ユニットは、通常運転時に原子炉格納容器下部の空気の冷却を行う機器である。冷却ユニットは４台（Ａ～Ｄ号機）設置されているが、気温が上昇する夏季においても３台運転により格納容器内の温度を管理できる能力を有している。夏季以外においては２台で冷却を行っている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-関西-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉格納容器内の空気再循環冷却ユニットの点検と補修について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/01/21 13:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

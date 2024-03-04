@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10385</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/22 10:49:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4483</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/06/09 10:39:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200906081426]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/22 10:49:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の２号機において、タービン建屋に設置されているポンプの試運転準備として、仮設スイッチの電源を「入」にしたところ、平成２１年６月８日午後２時２６分、タービン建屋１階にある電源盤から煙が出ているとの連絡を現場作業員から受けたため、午後２時３３分、当社社員が消防署へ連絡した。
+その後、当該電源盤に電源を供給している仮設電源を停止し、午後２時５７分、煙の発生は止まった。
+なお、消防署による現場確認の結果、午後２時５９分「火災ではない」と判断された。
+　
+本事象によるけが人の発生および外部への放射能の影響はない。
+
+（調査結果）
+調査の結果、以下のことがわかった。
+・ポンプ運転用の仮設電源として、480ボルトの電源盤から210ボルトの当該電源盤に仮設電源ケーブルを接続して通電したことにより、当該電源盤内の制御用変圧器が過熱、焼損したこと。また、この熱により制御用変圧器の周りの配線なども焼けていたこと。
+・仮設電源ケーブル設置作業の計画段階において、作業実施部門の担当者が210ボルトの電源盤に供給する電源として、誤って480ボルトの電源盤を選定したこと。また、その後の審査、承認段階においても、供給側の電源電圧が受電側の電源電圧と同一であることの確認がなされなかったこと。
+・今回のポンプ運転用の仮設電源ケーブルの設置は、過去に同じ480ボルトの電源盤から設置した実績がなかったが、事前の現場確認が行われなかったこと。
+
+（推定原因）
+ポンプ運転用の仮設電源ケーブル設置作業の計画段階において、作業実施部門の担当者が210ボルトの電源盤に供給する電源として、誤って480ボルトの電源盤を選定し、その後の審査、承認段階においても、仮設電源の供給側の電源電圧が受電側の電源電圧と同一であることの確認がなされなかった。このため、480ボルトの電源盤から210ボルトの当該電源盤に仮設電源ケーブルを接続し、ポンプの試運転の準備として電源供給用のスイッチを入れて通電した際、210ボルトの電源盤内の制御用変圧器が過熱して発煙したものと推定した。
+
+（対　策）
+仮設電源ケーブル設置作業の計画時に使用するチェックシートに、仮設電源の受電側と供給側の電源電圧が同一であること等を確認する項目を追加するとともに、過去に設置実績がない仮設電源ケーブルの設置を行う場合は、電源仕様などについて、現場確認を実施することとした。
+また、運転部門における確認段階においても、電源仕様を含めて内容の確認が有効に行えるよう、チェックシートを用いて確認を行うこととした。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機における発煙事象について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/06/09 16:40:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

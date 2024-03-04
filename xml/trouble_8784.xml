@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8784</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/04/26 15:46:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3747</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/04/18 09:20:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070414]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中、４月１４日に、第７Ａ高圧給水加熱器（※１）非常用水位制御弁（※２）が開くとともに常用水位制御弁（※３）が閉まり、高圧給水加熱器ドレン（凝縮水）の行き先が脱気器から復水器となった。このため、熱効率の低下により電気出力が約１．５％低下した。
+　事象発生時の運転状況を確認したところ、第７Ａ高圧給水加熱器の水位に上昇傾向はなく、常用水位制御弁で安定して制御されていたにもかかわらず、非常用水位制御弁が開放したことが分かった。
+　このため、非常用水位制御弁について調査を行ったところ、非常用水位制御弁の水位制御器（※４）の内部構成部品である空気ラインのゴム管にひび割れが生じ空気が漏れていることが確認された。この空気漏れにより、弁を制御する空気圧力が低下し、弁が開いたものと推定された。
+　このため、４月１５日に、ゴム管を新品に取替え復旧した。
+
+※１：第７Ａ高圧給水加熱器
+タービンから一部の蒸気を抽出し、２次系給水系統の水を加熱する機器。大飯４号機の第７高圧給水加熱器は、２系統（Ａ，Ｂ）あり、第７Ａ高圧給水加熱器はそのうちの１系統である。
+※２：非常用水位制御弁
+高圧給水加熱器の細管漏えい発生時および常用水位制御弁不調時に高圧給水加熱器の水位調整用に設置された弁で、運転中は通常閉まっている。非常用水位制御弁が開いた場合、ドレンは復水器に流れる。
+※３：常用水位制御弁
+高圧給水加熱器内のドレンの水位を一定に自動調整するための弁で、運転中は通常開いている。
+※４：高圧給水加熱器非常用水位制御器
+高圧給水加熱器内のドレン水位を検出し、非常用水位制御弁の動作に必要な信号（空気圧力）を制御する装置。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-関西-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[第７Ａ高圧給水加熱器非常用水位制御器の不調について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/26 15:46:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

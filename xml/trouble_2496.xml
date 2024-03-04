@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　手動弁（G12-F014）及び逃がし弁（G33-F041,F078）から漏えいが発生した原因について調査した結果，以下のことが確認された。
+（１）手動弁（G12-F014）グランド部からの漏えい原因の調査結果
+ａ．当該弁を設置しているラインは，原子炉停止中に同弁の上流にある流量制御弁（G33-F024）によって原子炉水を排出し原子炉水位を調整するためのラインである。
+ｂ．当該弁は，通常時「開」運用であるが，グランド部からの漏えい発見時には「閉」となっていた。
+ｃ．これは，起動操作にて残留熱除去系からＬＣＷ受タンクへの排水を停止した以降も，ＬＣＷ受タンクの水位が上昇傾向（約２ｍ３／ｈ）であったことから，ＣＵＷ系からＬＣＷ受タンクへの流入の有無を確認する目的で，当該弁を「閉」にしていたものである。尚，この時点では，当該弁のグランド部からの漏えいはなかった。
+ｄ．その後，「ＣＵＷブローダウン圧力高／低」の警報が発生したことから，警報発生時の操作手順書を確認した結果，ＣＵＷブローライン放射性廃棄物処理系側出口弁（以下，「電動弁」という。）（G33-F027）の下流の設計圧力（0.98MPa）が，ＣＵＷ系の設計圧力（10MPa）に比べて低いことがわかった。このため，手動弁（G12-F014）を「開」にするため現場に向かったところ，ＬＣＷ弁室内の床面に水溜りがあること及び当該弁のグランド部から漏えいしていることが確認された。この時のＣＵＷ系の圧力は約８MPaであることを現場の圧力計で確認した。
+ｅ．このため，当該弁の上流側の電動弁（G33-F027）を「全閉」にした後，当該弁を「開」にした結果，グランド部からの漏えいは止まった。
+ｆ．また，この状態においてＬＣＷ受タンクの水位が上昇しなかったことから，流量制御弁（G33-F024）がシートリークしていることが確認された。
+
+（２）逃がし弁（G33-F041,F078）フランジ部からの漏えい原因の調査結果
+ａ．当該逃がし弁は，手動弁（G12-F014）の上流側に設置されている。
+ｂ．ＬＣＷ受タンクへの流入調査のため，手動弁（G12-F014）を「閉」したことから，ＣＵＷの運転圧力が当該逃がし弁（設計圧力0.98MPa）に加わったことが確認された。
+
+　以上のことから，手動弁（G12-F014）グランド部及び逃がし弁（G33-F041,F078）フランジ部から漏えいしたのは，手動弁（G12-F014）を「閉」にしたことにより，設計圧力が低い範囲にＣＵＷの運転圧力が加わり，漏えいが発生したものと推定された。
+
+ 
+（３）漏えい調査方法の確認結果
+　上記の調査結果から，手動弁（G12-F014）を「閉」することとした経緯について，当直員に対して聞き取り調査を行った結果，以下のことが確認された。
+ａ．調査手順書の作成
+（ａ）当直員はＬＣＷ受タンクの水位が上昇していることに対して，流入元を特定するための調査手順書を作成した。
+（ｂ）その際，手動弁（G12-F014）がＣＵＷ系からＬＣＷ受タンクへの最後の弁であることから，当該手動弁（G12-F014）までがＣＵＷ系の設計圧力であると思い込み，当該手動弁（G12-F014）を「閉」とする手順書としてしまった。
+
+　点検調査結果
+（１）加圧範囲の点検結果
+　設計圧力0.98MPaの範囲にＣＵＷの運転圧力が加わったことから，当該範囲内の健全性について評価した結果，以下のことが確認された。
+ａ．配管の点検結果
+（ａ）目視点検結果
+　ＣＵＷ系の圧力で，加圧された範囲の配管と弁の外観目視点検を実施し，破損や変形等の異常がないことを確認した。
+（ｂ）強度計算結果
+　告示501号の強度計算式により，ＣＵＷ系の圧力で加圧された範囲の配管について，強度評価を行った。尚，評価は保守的にＣＵＷポンプ吐出圧力 (約8MPa)にて実施した。その結果，当該配管の厚さは8MPaの圧力における計算上必要となる厚さよりも厚いため，問題のないことを確認した。
+ｂ．弁類の点検結果
+　漏えいが確認された弁（G12-F014,G33-F041,F078）及び，漏えいは無いが同様に加圧されたＣＵＷ（Ａ）Ｆ／Ｄプリコート入口逃し弁（G33-F036），ＣＵＷ非再生熱交換器出口逃し弁（G33-F152），ＣＵＷ再生熱交換器胴側入口逃し弁（G33-F153）について，念のため分解点検を行い異常がないことを確認し，グランドパッキンやフランジパッキンを交換した。また，試料採取系の加圧された炉水サンプルドレンＣＵＷブローダウン戻り弁(P33-F535),炉水サンプルＣＵＷブローダウン戻り出口弁（P33-F536）について，外観及び漏えいの有無について点検した結果，異常は確認されなかったこと，又，本系統はプラント運転に影響を与えるものではないが，念のため分解点検を実施する。
+ 
+（２）流量制御弁（G33-F024）の点検結果
+　当該弁は，プラント運転中は使用しないものの，シートリーク量が多いことから，念のため分解点検を実施した。その結果，弁体，弁座シート部に絞り運用（流量調整運転）の影響による肌荒れが見られたため，摺り合わせ手入れを実施した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2496</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[102]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[起動]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/01/11 19:02:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2980</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/08/13 15:26:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408071735]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．直ちに実施する対策
+（１）手順書を作成するにあたってのチェックリストを作成する。
+（２）作成した調査手順書は，配管計装線図が改定されるまでは，暫定措置として保全部に確認を受けることとする。
+（３）（１）および（２）について，当直に指示文書を発行し周知徹底を図る。
+（４）本事象について、全ての当直員を対象に事例研修を実施する。
+
+２．今後実施する対策
+（１）配管計装線図に系統の設計圧力の変更点を表示し，今後も改定管理を社内マニュアルに従い管理する。
+（２）上記１．（１）のチェックリストを社内マニュアルに反映する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[本事象発生箇所の内，逃がし弁（G33-F041,F078）の「事故・故障等の詳細」については，以下の通り。
+
+事象発生箇所（設備名）・・・原子炉補助設備
+事象発生箇所（系統名）・・・原子炉冷却材浄化系                                                          
+事象発生箇所（装置名）・・・弁装置
+事象発生箇所（標準装置名）・原子炉冷却材浄化系その他弁
+事象発生箇所（機器名）・・・逃がし弁
+]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/01/11 19:02:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　当所２号機は，第１５回定期検査後の原子炉起動中のところ，平成１６年８月７日（土）17時35分頃，原子炉建屋付属棟地下１階の低電導度廃液処理系（以下，「ＬＣＷ」という。）弁室内の床面に，約3.8リットルの水溜りがあることを当直員が発見した。同室内を点検したところ，原子炉冷却材浄化系（以下，「ＣＵＷ」という。）からＬＣＷ受タンクへの配管に設置しているＬＣＷ受タンク入口ヘッダＣＵＷ入口元弁（以下，「手動弁」という。）（G12-F014）のグランド部から１秒に１滴の漏えいがあることを確認した。このため，手動弁（G12-F014）の上流側の電動弁（G33-F027）を「全閉」にした後，「閉」であった手動弁（G12-F014）を「開」にした結果，グランド部からの漏えいは停止した。
+　また，平成１６年８月８日（日）午前０時頃，原子炉建屋５階ＣＵＷろ過脱塩器保持ポンプ（Ａ）室の床面に約2.7リットル，同保持ポンプ（Ｂ）室の床面に約1.4リットルの水溜りがあることをパトロールしていた当社保修員が発見した。このため，同保持ポンプ（Ａ），（Ｂ）両室内を点検したところ，（Ａ）室に設置されているＣＵＷろ過脱塩器プリコート出口逃がし弁（以下，「逃がし弁」という。）（G33-F041），（Ｂ）室に設置されているＣＵＷ出口ストレーナ逆洗水入口逃がし弁（以下，「逃がし弁」という。）（G33-F078）のフランジ部が濡れていることを確認した。
+　尚，各室内の漏えい水を分析した結果，放射能量は，原子炉建屋付属棟地下１階ＬＣＷ弁室内で約5.3×10の３乗Bq，ＣＵＷろ過脱塩器保持ポンプ（Ａ）室で約4.7×10の２乗Bq，同保持ポンプ（Ｂ）室で約3.8×10の２乗Bqであり，実用発電用原子炉の設置、運転等に関する規則に定められている3.7×10の６乗Bqに比べて十分低い値であった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M025]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原因調査結果から，手動弁及び逃がし弁から漏えいした原因は，以下の通りであったものと推定された。
+（１）当直員は，ＬＣＷ受タンクの水位が上昇傾向であったことから，流入元を特定するため，手順書を作成した。
+（２）当直員は，圧力変更点は認識していたが，手動弁(G12-F014)までがＣＵＷ系の設計圧力の範囲であると思い込んでいたため，手動弁(G12-F014)を「閉」とする手順にしてしまった。
+（３）調査手順書を作成する際の注意事項が明確になっていなかった。
+（４）以上の理由から，設計圧力への配慮が不足していた調査手順書に従って，手動弁(G12-F014)を「閉」にした結果，設計圧力0.98MPaの範囲にＣＵＷの圧力(約8MPa)が加わり，手動弁（G12-F014）のグランド部，及び逃がし弁（G33-F041,F078）のフランジ部に漏えいが発生した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉建屋および原子炉建屋付属棟における水の漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/08/16 18:02:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+			<TROUBLE_ID>2496</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[507]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[手動弁]]></KIKI_NAME>
+				<SORT_NO>14</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[液体廃棄物処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[141]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[141]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2496</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2496</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2496</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2496</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[09]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[廃棄設備]]></SETSUBI_NAME>
+		<SORT_NO>9</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

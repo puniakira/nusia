@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12871</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/11/09 11:02:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>78957</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/10/04 13:05:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201809270952]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/11/09 11:02:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　玄海原子力発電所において、１～４号機の原子炉建屋やタービン建屋とは別棟である、廃棄物処理建屋（※１）内の火災報知器（煙感知器）が発信した。
+　現場を確認したところ、セメント固化装置混練機（以下「混練機」という。）（※２）室内にて煙が確認され、また、混練機とモータをつなぐＶベルトが破損していた。
+　その後、消防署による現場確認が行われ、機械の故障による煙であり、火災ではないと判断された。
+　本事象による原子炉施設への影響はなく、玄海３，４号機の運転に影響はなかった。
+
+　また、本事象による放射線モニタの指示に変動はなく、作業員の被ばくや放射性物質による環境への影響はなかった。
+
+　調査の結果、混練機の主軸がセメントにより固着し、回転しなかったため、モータと混練機をつなぐゴム製のＶベルトが、モータ側のプーリ上をすべり、摩擦熱により煙が発生したものと推定した。
+
+（混練機の主軸がセメントにより固着した原因）
+・除染廃液処理後の９月21日～27日の運転休止期間（５日間）（※３）中に、混練機内の洗浄（※４）が行われなかったことから、混練機の下羽根下面とシールケースとの間でセメントが硬化し、混練機の主軸が固着した。
+
+（調査の結果を踏まえた対策等）
+・混練機で除染廃液を処理する場合は、原則、運転間隔を空けずに連続処理を行う。
+・除染廃液処理後、混練機の運転休止期間が２日以上になる場合は、２日以内に混練機の洗浄運転を行うこととする。
+
+
+（※１）廃棄物処理建屋
+　　　　　放射性液体廃棄物をセメントで固化する装置等を設置している建屋
+（※２）セメント固化装置混練機
+　　　　　管理区域で発生した廃液とセメントを混ぜ合わせ、セメント固化体を製造する設備
+（※３）除染廃液処理後の過去最大の運転休止期間は２日間であった。
+（※４）洗浄は１週間に１度の頻度で実施していた。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-九州-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[玄海原子力発電所　廃棄物処理建屋における煙の確認]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/10/04 13:07:10]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

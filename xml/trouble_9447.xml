@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9447</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/12/16 13:04:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/11/16 15:44:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711150920]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/12/16 13:04:15]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成19年11月15日９時20分頃、福島第一原子力発電所２号機原子炉建屋の所内ボイラー室で資機材の搬出作業をしていた協力企業作業員５名のうち１名が、警報付個人線量計（以下、線量計）を着用せずに、誤って放射線管理区域である所内ボイラー室に入域していたことを確認した。
+
+　当該ボイラー室は、工事のため一時的に設置した仮設の着替所から入域する運用としていた。
+　このため、当該ボイラー室へ入域する際は、作業員は１・２号機サービス建屋のチェックポイントにおいて線量計を受け取り、仮設着替所の入口で作業班長が各作業員の線量計着用を確認し、放射線管理区域出入りチェックシート（以下、チェックシート）に記載して入域する運用となっていた。
+　これまでの調査において、仮設着替所の入口にて当該作業員が線量計を所持していることを作業班長がチェックシートにより確認したが、その後、当該作業員が着替えた際に線量計を着用し忘れ、そのまま当該ボイラー室へ入域してしまったことがわかった。
+
+　なお、評価の結果、当該作業員の放射線による被ばくはなかった。
+
+　調査の結果、原因として以下のことがわかった。
+・当該作業員は、着替え前には線量計の着用確認を行ったが、その後着替えの際に線量計を身体から外してしまったこと。
+・管理区域に入る直前に、線量計着用の声出し確認をしなかったため、線量計を着け忘れていることに気づかなかったこと。
+・作業班長によるチェックシートを用いた作業員の線量計着用確認は、確認の手順が明確でなかったため作業員の着替え前に線量計確認を行っており、着替え後に線量計の着用確認を行っていなかったこと。
+
+　このため、対策として以下のことを実施する。
+・作業班長による線量計着用確認は、管理区域に入る直前で行うよう手順を明確にする。
+・チェックポイントで受け取った線量計は、首からひもで下げた後、管理区域を出るまで外さないこと、および管理区域に入る際には線量計着用の声出し確認をすることを作業員に再教育する。
+・今回のように管理区域の入口に一時的に設置される仮設着替所には、線量計の着用を確認する機械を設置するか、監視員を配置する。
+
+　なお、本事象については事例検討会を実施し、再発防止の徹底に努めていく。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S091]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機　放射線管理区域への入域時における装備品の未着用について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/11/19 11:37:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

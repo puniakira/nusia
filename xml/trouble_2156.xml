@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．分解点検等
+　第１９回定期検査時に当該ＣＲＤを予備品と交換し、取外したＣＲＤについて要因分析に基づき分解点検等を行った。
+（１）冷却水通過量測定
+　分解点検前に試験装置により冷却水の通過量を測定した結果、ストップピストンシールの漏れ量は基準値（１．５１リットル／ｍｉｎ以下）に対して０．２７リットル／ｍｉｎであり比較的少ない値であったが、冷却水オリフィスの漏れ量は基準値（１．０６～１．８９リットル／ｍｉｎ）に対して１．２５リットル／ｍｉｎであり問題となるものではなかった。
+（２）ボールチェッキ弁冷却水漏れ量測定
+　分解点検前にボールチェッキ弁の冷却水漏れ量を測定した結果、漏れ量は基準値（０．５７リットル／ｍｉｎ以下）に対して０．４３リットル／ｍｉｎであり基準値内であるものの比較的大きい値であった。なお、第１９回定期検査時に取付けたＣＲＤの当該漏れ量は０．０１リットル／ｍｉｎであり、ボールチェッキ弁のシート性は良好であった。
+（３）ＣＲＤ分解点検
+　シール部品（ストップピストンシール：黒鉛）について、外観目視点検及び寸法測定を実施した結果、異常は認められなかった。
+　また、ボールチェッキ弁廻りについて目視点検を行った結果、弁座シート面に傷や変形等の異常はなかった。なお、ボール表面には、通常見られる弁座シート部と接触した当たり跡が認められた。
+　また、冷却水オリフィスについて目視点検を実施した結果、詰まりは認められなかった。
+（４）制御棒駆動水圧ユニット（以下、「ＨＣＵ」という。）逆止弁の確認
+　通常状態において逆止弁の通水音を確認した結果、冷却水の流水音が確認できたことから、固着はない。
+
+２．分解点検等についての考察
+　点検結果より、シール部品に異常は認められないにもかかわらず冷却水通過流量が少なくなっていたこと、及びボールチェッキ弁に異常は認められないにもかかわらず冷却水漏れ量が比較的大きい値であったことは、部品寸法等に異常がないことから組み上がったＣＲＤのバラツキの範囲内と考えられる。
+
+３．その他の要因
+（１）空気の混入
+　第１８回定期検査時に制御棒駆動機構を交換しており、その際に駆動機構内部の空気が充分に抜けなかった可能性がある。空気の混入により冷却水の流れを妨げ、冷却効果を低減させた可能性があると考えられる。
+（２）クラッド等の混入
+　なんらかの原因により駆動機構内部のストップシールにクラッドが付着し冷却水の流れを妨げた可能性があると考えられる。
+（３）炉心座標での影響
+　当該の座標は原子炉の中心位置にあるため、原子炉圧力容器内に挿入されている部分の長さが最も長いものである。このことから、他の座標に比べて炉水温度の影響を受けやすく、温度が上昇しやすい場所である。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2156</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 18:03:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2776</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200209051858]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今後もＣＲＤの温度高警報が発報した場合においても、当該手順書に従い、冷却操作等を行い対応する。
+　また、点検作業にあたっては、今後も従来と同様、確実な開口部の養生及び内部の点検清掃を実施し、クラッド等を含めた異物管理に万全を期すとともに、空気混入についても手順書に従い、ベント操作を充分に行なうものとする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は海水温度上昇に伴う出力低下運転中（電気出力１０８５ＭＷ）のところ、平成１４年９月５日１８時５８分頃、警報「ＣＲＤ　ＴＥＭＰ　ＨＩＧＨ」が発報した。現場温度記録計を確認した結果、制御棒駆動機構座標３０－３１（以下、「ＣＲＤ３０－３１」という）の温度が１３２．５℃であったため、当該座標の冷却操作を行ったが、約１５分から２０分で温度が上昇し再度警報が発報した。さらに、９月６日９時１６分頃より、当該制御棒の１ノッチ挿入引き抜き数回を実施したが、ＣＲＤ３０－３１の温度は安定せず、再度警報が発報した。
+　警報の設定値（１２１℃）は、余裕を持って設定※１されており、また、保安規定に抵触しないこと※２から、警報発報の都度冷却操作を行うこととした。
+　なお、当該ＣＲＤは、第１９回定期検査（平成１４年９月１６日開始）において、予備品との計画取替対象であった。
+
+　※１：制御棒駆動機構が高温状態にさらされると、カーボンシール（設計温度２６０℃）の劣化が促進される。また、リードスイッチ（制御棒位置検出器）定格使用温度は６５℃～１５０℃である。これらのことを考慮し、警報設定値は、余裕をみて設定している。したがって、警報発報の都度冷却することで、制御棒駆動機構の健全性は確保される。
+　※２：ＣＲＤ３０－３１の温度高警報が発報しているものの、当該制御棒の動作は正常であり、挿入・引抜は可能である。また、「制御棒の位置の確認」、「制御棒と制御棒駆動機構が結合していることの確認」も可能である。これらのことから、保安規定で定める制御棒の「動作不能」及び「スタック」には該当しない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-M010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　以上の点検結果より、ＣＲＤ３０－３１が温度上昇に至った原因は以下のような偶発的要因が重畳して発生したものと推定される。
+（１）ストップピストンシールの冷却水通過量が基準値内であるものの比較的少ない値であったため、ＣＲＤの冷却効果が低下した。
+（２）ボールチェッキ弁のシート部からの冷却水漏れ量が基準値内であるものの比較的大きい値であったため、サーモカップル側への冷却水が減り原子炉側への流れが多くなり温度検出点からみた見かけの冷却効果が低下した。
+（３）炉心の中心位置であるため、他に比べ温度が上昇しやすい場所であった。
+（４）ＣＲＤストップピストンシール内に混入した空気が冷却水の流れを妨げて冷却効果を低下した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒駆動機構座標３０－３１温度高警報発報について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1085</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 18:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2156</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2156</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2156</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

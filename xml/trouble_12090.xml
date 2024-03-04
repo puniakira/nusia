@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12090</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/04/10 09:08:32]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/09/05 09:30:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20140821]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/04/10 09:08:32]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【概要】
+　2015年度搬出予定（※1）の廃棄体の自主検査に先立ち、廃棄体の保管場所である固体廃棄物貯蔵庫にて廃棄体（セメント固化体ドラム缶（以下、「ドラム缶」という。）（※2））の健全性確認（外観検査、ボルト締め付け確認）を実施していたところ、一部のドラム缶の底面にふくらみがあることを確認した。その他外観上に問題はなかった。
+　なお、有意なふくらみを確認したドラム缶は、搬出予定（予備含む）ドラム缶43本の内、26本であった。
+
+【ふくらみの状況】
+　空ドラム缶を平らな床においた場合、ドラム缶底面と床面の隙間は約24mmであるのに対して、最もふくらみが大きいドラム缶では、その隙間が約2mmであった。
+
+【原因】
+　ドラム缶底面のふくらみが発生した原因は、セメント固化体中の無水硫酸ナトリウムが自由水（※3）と反応し、10水硫酸ナトリウム（微細な結晶）に形態変化することで固化体が膨張しドラム缶底面にふくらみが生じると推定した。また、その傾向は低温環境下ほど顕著であることを確認した。
+
+
+（※1）浜岡原子力発電所から日本原燃（株）低レベル放射性廃棄物埋設センターへ搬出予定
+（※2）発電所で発生する放射性濃縮廃液を、乾燥処理した粉体（主な成分：硫酸ナトリウム）とセメントを混練し固化処理したもの
+（※3）結合水や水和水のように何らかの束縛を受けている水。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-中部-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所から六ヶ所埋設センターへ搬出前のセメント固化体ドラム缶底面のふくらみ]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/09/10 10:36:29]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12677</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/01/10 17:22:15]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>72773</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/06/12 13:22:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201705021008]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/01/10 17:22:15]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+５月２日１０時８分頃、通常運転中の伊方発電所３号機の海水淡水化装置建屋（管理区域外）において、海水電解装置※１の電解液注入ライン配管から、次亜塩素酸ソーダ※２（塩素）を含む海水が漏えいしていることを運転員が確認しました。そのため、次亜塩素酸ソーダの注入を停止し、同日１０時１０分に漏えいは停止しました。
+
+当該配管を確認した結果、貫通穴を確認したため、５月８日、塩化ビニール配管で応急復旧し、その後、新品の配管に取り替え、６月２９日１０時３０分、通常状態に復旧しました。
+
+本事象によるプラントへの影響および環境への放射能の影響はありませんでした。
+
+※１ 海水電解装置：海水を電気分解して次亜塩素酸ソーダ（塩素）を発生させる装置
+※２ 次亜塩素酸ソーダ：海水系統の配管等に海水中の微生物が付着するのを防止するために、注入している薬品
+
+
+○原 因
+調査の結果、貫通穴を確認した上流の配管分岐部（Ｔ形管継手）付近で偏流（流れが乱れること）が生じ、海水中に含まれるカルシウムイオンにより生成したスケールが同部に付着し、更に大きな偏流が生じたことでエロージョン※3 が発生し、配管内面のゴムライニング※4 が減肉、剥離したことから、次亜塩素酸ソーダを含む海水によって、配管母材が腐食して配管が貫通し、漏えいに至ったものと推定しました。
+
+※３ エロージョン：固体材料(ゴムライニング)が流体(次亜塩素酸ソーダを含む海水)から動的な機械作用(偏流)を受けて、材料表面から物質(ゴムライニング)が除去されていく現象
+※４ ゴムライニング：水分や腐食性物質を含有する環境に金属（鉄）がさらされると腐食が発生するため、配管内面にゴムを接着し金属を保護するもの
+
+
+○対 策
+・当該配管を偏流が発生する恐れのない直管の配管に変更して取り替えました。
+・類似箇所の配管分岐部（２箇所）についても同様に直管の配管に取り替えました。
+・調査の中で、海水電解装置の電解液注入配管の配管内面ゴムライニングに減肉を確認したことから、念のため、今後２年を目処にエロージョンに対し耐性が高い、ポリエチレンライニング管に取り替えます。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　海水電解装置の電解液注入配管からの水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/06/12 13:23:18]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

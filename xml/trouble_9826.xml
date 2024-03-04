@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9826</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/07/03 10:18:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4232</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/06/19 18:38:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200806191400]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/07/03 10:18:50]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成20年６月19日14時頃、定期検査中の４号機タービン建屋２階において、主タービンの鋼製カバーの吊り込み準備作業を実施していた協力企業作業員が左手の親指を負傷したため、14時35分、救急車を要請し病院へ搬送した。
+　診察の結果、左母指脱臼骨折と診断された。
+　当該作業員は、共同作業者とともに主タービンの鋼製カバーを天井クレーンで吊ったまま、さらに４つの支柱で支えた状態にするために、そのうちの１つの支柱を手で支えていたが、鋼製カバーを下ろしてきた際に支柱とともに倒れ、負傷したものと推定した。
+　当該作業員に放射性物質による汚染はなかった。
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+・当該作業者は、共同作業者３名とともに４本の支柱で鋼製カバーを支えるため、１本の支柱を両手で支えて鋼製カバーが降りてくるのを待っていたこと。
+・天井クレーンで吊った鋼製カバーを、支柱に降ろそうとしたところ、共同作業者が支えていた支柱に接触したこと。
+・支柱に接触したため、そのはずみで鋼製カバーが回転したこと。
+・当該作業者は、回転した鋼製カバーを右手で抑えようとし、左手のみで支柱を支えていたこと。
+・支柱を支えきれなくなり、隣に置かれていた鋼製カバーとの間に左手を挟んでしまったこと。
+・施工要領書には、支柱を支える際の具体的な作業手順が記載されていなかったこと。
+　
+３．推定原因
+　当該作業者は、共同作業者とともに４本の支柱で鋼製カバーを支えるため、１本の支柱を両手で支えていましたが、共同作業者が支えていた支柱が長かったために、天井クレーンで吊った鋼製カバーを降ろす際に接触してしまい、そのはずみで鋼製カバーが回転した。
+　そのため、当該作業者が鋼製カバーを抑えようと支柱から右手を離したところ、左手だけで支柱を支えきれなくなり、隣に置いていた鋼製カバーとの間に左手親指を挟み、負傷したものと推定した。
+
+４．対策
+・支柱で支える際は、鋼製カバーを降ろしてから支柱を挿入し、高さの調整を実施するように作業手順を見直した。
+・支柱を支える際は、２人一組で作業を行うよう作業手順を見直した。
+・具体的な作業手順を、施工要領書に反映した。
+・本事例については、所内および協力企業に周知し、注意喚起を行った。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-S013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[協力企業作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/06/23 17:44:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

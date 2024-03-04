@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11190</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/01/12 17:57:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>19411</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/01/05 21:20:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201011161730]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第１２回定期点検中の浜岡４号機において、作業の一環で主復水器ホットウエルの内部点検を実施したところ、Ａ系の（Ａ－２）室において、異物（ナット2個）があることを確認し回収した。異物（ナット2個）の大きさ（外径×内径×高さ）は、約3cm×2cm×1.5cmであった。なお，復水器ホットウェルの点検は、毎定検実施しており、第１１回定期点検時に異物がないことを確認している。
+
+　異物の混入原因の調査として、他系統からの流入の可能性も含め、主復水器Ａに繋がる機器等で同種のナット外れ等の異状がないことを確認した結果、異状は認められなかった。このため、異物はプラント停止時に復水器内部の点検作業を実施した際に混入したものと推定した。また、浜岡４号機は、平成２１年５月５日に発生した、気体廃棄物処理系水素濃度上昇による第１１回定期点検後の計画外停止時に、復水器を一部開放し作業を行っており、当該作業終了後、作業で使用した範囲（復水器蒸気室内）の異物確認は実施したものの、作業で使用していない範囲（復水器ホットウェル）の確認までは実施していないことから、当該作業実施時に異物が混入した可能性があることを確認した。
+　なお、通常の定期点検では、点検後に復水器蒸気室、復水器ホットウエルに異物ないことの確認を実施している。
+
+＜対策＞
+　今回の異物混入事象を踏まえて、復水器蒸気室内等における作業を単独で実施した場合も、当該作業範囲だけでなく、復水器ホットウェル内の異物確認も実施することとした。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[主復水器ホットウエルでの異物確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/01/12 17:57:49]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

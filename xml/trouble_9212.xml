@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１． 機器点検
+（１）ヒータ及び構成部品
+１）ヒータ点検
+　ヒータ故障では、温度は低下すると考えられ、要因とは考えにくいが、念のため、ヒータの絶縁抵抗測定及び巻線抵抗を測定した結果、異常は確認されなかった。
+２）計測器の点検
+　ヒータ廻りの計測器について、不具合の有無を確認した。
+・温度スイッチ
+　計器校正を実施した結果、温度スイッチ（制御用スイッチ(TS-26-940A)：６５℃・７０℃、警報用スイッチ（TS-26-941A）：９０℃）は設定値どおり作動しており問題はなかった。なお、トレイン※３入口温度が３５℃であり、ヒータによる空気温度の上昇が２０℃程度であることから、制御用温度スイッチの温度設定値には到達しないと思われる。
+・流量スイッチ
+　温度制御の条件に使用される流量スイッチ（FSL-26-31.1A）について設定値を確認した結果、流量設定値にズレがないことを確認した。
+・温度検出器取付不良
+　温度検出器（TE-26-941A）の取付不良による警報発報が考えられるが、過去の運転時に異常は確認されていないこと、また検出器がヒータに接触していれば運転中においても発報されるが、そのような事象が確認されていないことから可能性は低いと考えられる。
+・温度検出器不良
+　温度検出器（TE-26-940A,941A）について確認した結果、絶縁測定、導通試験に異常がないことを確認した。
+３）コンタクタ
+　ヒータを動作させるコンタクタの不具合の有無を確認するため、接点の動作確認を実施したが、接点のON/OFFに異常がないことを確認した。
+４）制御回路
+　ヒータの制御回路について、シーケンス試験を実施したが、動作は正常であることを確認した。
+
+※３：ケーシング、高性能粒子フィルタ、活性炭フィルタ、加熱ヒータ等からなるフィルタユニット。
+
+（２）制御回路用ＮＦＢの誤動作
+　現場を確認した結果、制御回路用ＮＦＢは断していなかった。
+
+２． ヒータ雰囲気温度上昇要因調査（ヒータの残熱によるヒータ雰囲気温度上昇）
+　以上の通り、ヒータ及び構成部品に異常がなかった。故障以外でヒータ雰囲気温度が上昇する要因としてヒータの残熱による影響が考えられたため、以下の調査を行った。
+（１）入口ダンパーの絞り
+　第２２回定期検査中に実流量を実測※４し、流量－差圧特性を確認したところ、流量検出器の計器仕様表（ＩＤＳ）に近い特性が確認されたため、これまでの入力基準値（流量－差圧特性）を変更し、（Ａ）（Ｂ）とも流量検出器のＩＤＳの値に変更した。
+　これにより流量指示は高めとなったため、定格流量に調整した結果、入口ダンパーは絞った状態となり、系統流量は前サイクルと比較し低くなっている。
+　ヒータ発熱量一定の下ではガス流量が低くなった分ガス温度上昇が増加すると考えられる。また、運転停止（ファンは遊転中）してから出入口ダンパーが閉するまでの風量が少なくなるためその間の除熱が少なくなる。これらは、いずれも、ヒータ残熱によるヒータ雰囲気温度上昇開始時の初期温度を上げる要因として考えられる。
+※４：平成１８年８月に確認された「可燃性ガス濃度制御系流量の不適切な補正」をきっかけとして、計器調査を行った結果、ＦＲＶＳ（Ａ）（Ｂ）流量の校正定数は、建設時に実測した流量－差圧特性により校正しているものの、調査の結果、十分な技術的な評価がなされていないことが確認された。このため、第２２回定期検査中に実流量を測定し、評価を行った。
+（２）トレイン入口温度の上昇
+　平成１９年７月と８月の定期試験での入口温度測定記録を確認したところ、入口温度は３１℃から３５℃に上昇している。
+　入口温度の上昇は、ヒータ残熱によってヒータ雰囲気温度が上昇する際の初期値を高くする要因となる。
+
+３．再現試験
+　以上の通り、構成する機器には異常が確認されず、系統流量の減少及びトレイン入口温度の上昇によるものと考えられることから、再現試験を実施した。実施にあたっては、温度挙動を詳細に確認するため、制御用温度及び警報用温度信号等を仮設記録計で採取した。
+　再現試験の結果、ＦＲＶＳ／ＳＧＴＳ（Ａ）の運転中のトレイン出口温度は５４℃で安定しており、ヒータは所定の能力（入口温度との差２１℃）を有していることを確認した。なお、その他のフィルタ差圧等のパラメータも問題は確認されなかった。
+　２０分間の運転の後、ＳＧＴＳ（Ａ）停止後のＦＲＶＳ（Ａ）停止と同時にヒータはシーケンス通りに停止した。ＦＲＶＳ（Ａ）停止後、約１０秒程度経過した後、ヒータ雰囲気温度はゆっくり上昇し、約５分後に９０℃に到達（最大で９１℃まで上昇）し、警報が発報した。
+　その後温度はゆっくり降下を開始し、警報発報から約５分後、警報は消灯した。
+　以上のことから、ヒータ雰囲気温度高とはなったもののＦＲＶＳ（Ａ）の機能は維持されていたと考える。
+
+４．ＦＲＶＳ（Ａ）ヒータ周囲温度確認結果
+ＦＲＶＳ（Ｂ）の風量調整前後における温度上昇傾向について、温度記録計を仮設し、その結果について考察・評価を行った。
+・ＦＲＶＳ（Ａ）
+ 　　　　　　　　風量調整前 　　　　　　　　　　　　　　　　　　　　　　　　ファン起動前 　　約３４℃ 　　　　　　　　　　　　　　　　　　　　　　　　　ファン起動中 　　起動直後に若干低下し安定（約３１℃） 　　　　　　　　　
+ファン停止後 　　ファン停止後、約10秒後に温度上昇（最大91℃） 　　　
+警報発報状況　 　警報発報あり 　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　風量調整後
+ファン起動前　　　約３４℃
+ファン起動中　　　起動直後に若干低下し安定（約３１℃）
+ファン停止後　　　ファン停止後、約10秒後に温度上昇（最大90℃）
+警報発報状況　　　警報発報あり
+
+・ＦＲＶＳ（Ｂ）
+　　　　　　　　　風量調整後
+ファン起動前　　　約３４℃
+ファン起動中　　　起動直後に若干低下するが、約30秒後に上昇、約47℃で安定
+ファン停止後　　　ファン停止後、約10秒後に温度上昇（最大50℃）
+警報発報状況　　　警報発報なし
+
+［考察］
+・Ａ系の温度は、ファンの起動中、起動直後から低下した状態であることから、ヒータで暖められた空気の影響をほとんど受けていない。また、停止後は、残熱による温度上昇があり、影響を受けている。また、風量調整後、若干ではあるが残熱による温度上昇が緩和（９１℃→９０℃）されている。
+これから、温度検出器は、ヒータのやや上流側若しくは直上部で、残熱の影響を受ける位置に設置されていると推定される。
+・Ｂ系の温度は、ファンの起動中、起動後上昇して安定していることから、ヒータで暖められた空気の影響を受けている。また、停止後は、残熱による上昇が若干ある。
+これから、温度検出器は、ヒータのやや下流側で、残熱の影響を受けない位置に据え付けられていると推定される。
+［評価］
+当該検出器は、温度高により、ヒータ電源を断する機能が要求されている。Ａ系とＢ系の温度変化に相違があるものの、若干の検出器位置の違い※５や停止したときの空気のよどみ方の違いにより発生しているものと考えられる。　　　　
+
+※５：Ａ系は、ヒータ入口部からヒータ内部に挿入されており、Ｂ系はヒータ出口部からヒータ内部に挿入されている。寸法記録がなくヒータとの位置関係は明確ではないが、温度データから感温部の位置が若干違っている（Ａ系：入口側若しくは直上部、Ｂ系：出口側）と思われる。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9212</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/08/23 11:03:20]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成１９年８月３日　１６時５２分　運転上の制限逸脱を宣言（保安規定第５１条）
+平成１９年８月４日　１８時３５分　運転上の制限逸脱解除を宣言]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3940</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/08/21 15:34:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200708031652]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[Ａ系とＢ系の温度挙動の違いの調査を含めて、以下の対応を実施する。
+１）第２３回定期検査まで
+トレイン入口温度がおよそ３０℃を超える場合は、ヒータ雰囲気温度を仮設記録計で監視し、温度上昇度合い（ヒータ雰囲気温度が管理温度１５０℃以上を超えないこと）を確認する。
+２）第２３回定期検査中
+トレイン内部の温度検出器の据付状況を確認し、その結果に応じて据付位置の適正化を行う。
+３）警報設定値の見直しの検討
+当該警報は、ヒータの付属品であるパッキンの耐熱温度（１８３℃）に余裕を見込んだ管理値（１５０℃）と温度制御範囲（６５℃～７０℃）との間で誤動作しない点として設定（９０℃）としている。これについては、上記１）、２）の状況を踏まえて、必要に応じて見直しを行うこととする。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の平成１９年８月３日１６時１１分から１６時３０分にかけて原子炉建屋ガス処理系（以下、「ＦＲＶＳ／ＳＧＴＳ」という。）※１（Ａ）の健全性確認試験※２を実施した。運転状態は問題なかったが、運転停止後の１６時３１分、非常用ガス再循環系（以下、「ＦＲＶＳ」という。）（Ａ）のエレクトリックヒータ（以下、「ヒータ」という。）の異常を示す警報「ＦＲＶＳ（Ａ）　ＥＬＥＣ　ＨＥＡＴＥＲ　ＥＨＣ２－６Ａ　ＴＲＯＵＢＬＥ」が発報した。
+　このため、現場のヒータ制御盤を確認したところ、ヒータ雰囲気温度の「温度高」を示すランプが点灯していた。
+　その後の１６時３５分、当該警報は消灯し、現場パネルの「温度高」のランプが消灯したことを確認した。
+　当該警報発報原因が不明であり、ＦＲＶＳ（Ａ）系は動作可能でない可能性があることから、１６時５２分に保安規定第５１条第１項に定める運転上の制限を満足していないと判断した。
+　なお、その後要求される措置として、ＦＲＶＳ／ＳＧＴＳ（Ｂ）系の健全性確認を実施し、１系列は動作可能であることを確認した。
+
+※１：ＦＲＶＳ／ＳＧＴＳには非常用ガス再循環系（ＦＲＶＳ）と非常用ガス処理系（ＳＧＴＳ）があり、原子炉建屋隔離信号が発生すると、常用換気系を緊急閉鎖し原子炉建屋と外部を隔離、同時に原子炉建屋ガス処理系により原子炉建屋の負圧を保ち、外部への放射性物質の漏えいを防止する。このうちＦＲＶＳは原子炉建屋内ガス中に含まれる放射性よう素等を建屋内で再循環させ活性炭フィルター等で吸着除去するための系統。
+※２：平成１９年７月１１日に実施したＦＲＶＳ／ＳＧＴＳの定期試験において、ＦＲＶＳ（Ｂ）の流量が、原子炉建屋空調が運転している場合の判定基準値１６，５００［ｍ３／ｈ］と同一の流量であった。この対策として原子炉建屋からの吸い込み口のダンパーを調整し風量を調整するため、ＦＲＶＳ（Ｂ）の運転上の制限外への移行前に実施する措置として実施。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[点検調査の結果、系統は健全であったものと判断される。
+　系統・機器に異常がなかったにもかかわらず、ヒータ雰囲気温度が上昇し警報が発報した原因は、ヒータの残熱によるヒータ雰囲気温度上昇に、次の要因が重畳したものと考えられる。
+（１）第２２回定期検査中に実施した流量変換器の流量－差圧特性の適正化に伴う入口ダンパーの絞り（系統流量の減少）
+（２）外気温度上昇に伴うトレイン入口温度の上昇]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉建屋ガス処理系（Ａ）系の運転上の制限逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1110</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/08/23 11:03:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>9212</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[エレクトリックヒータ]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9212</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ガス処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[135]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9212</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9212</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9212</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9212</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

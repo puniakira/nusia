@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．外観点検結果
+冷却水系圧力スイッチ計装配管（上部配管）と圧力計付き計装配管（下部配管）について外観点検を実施した結果、下記のとおり一部の配管が下方向に曲がっていることを確認した。
+ＨＰＣＳ　Ｄ／Ｇ　　　　　Ｄ／Ｇ　２Ｃ　　　　　　Ｄ／Ｇ　２Ｄ　　　　
+上部配管：曲がり　　　　　上部配管：曲がり　　　　上部配管：曲がり 
+下部配管：曲がり　　　　　下部配管：異常なし　　　下部配管：異常なし 
+
+２．液体浸透探傷試験結果
+　当該溶接部及び同様な配管の溶接部について、液体浸透探傷試験を実施した結果、当該溶接部及び健全性確認試験の際に若干のにじみが確認されたＤ／Ｇ ２Ｃの同じ配管において線状欠陥指示模様を確認した。
+ＨＰＣＳ　Ｄ／Ｇ　　　　　　Ｄ／Ｇ　２Ｃ　　　　　　　　Ｄ／Ｇ　２Ｄ
+上部配管:線状欠陥（約３mm） 上部配管:線状欠陥（約３mm） 上部配管:異常なし
+下部配管：異常なし　　　　　下部配管：異常なし　　　　　下部配管：異常なし
+
+ ３．破面観察結果
+　当該溶接部について走査型電子顕微鏡（SEM）等により調査した結果は以下のとおりであった。
+　また、Ｄ／Ｇ　２Ｃについても同様に調査した結果、当該溶接部同様の結果が得られた。
+　以下、ＨＰＣＳ Ｄ／Ｇ調査結果について示す。
+（１）損傷部表面
+　現地調査おける浸透探傷試験において有意な指示模様のみられた約１８０°（取付状態において、配管上面を０°とする）の位置において、配管と溶接部の境界に約６ｍｍ程度の損傷部が確認された。これ以外の部位には異常はなかった。
+（２）損傷部配管内面
+　配管内面を観察した結果、配管表面で確認された損傷部と同じ約１８０°位置に割れが確認された。また、当該割れ部に腐食が進行している様相はなかった。なお、損傷部破面観察のため損傷部を開放した結果、破面は完全に貫通していることを確認した。
+（３）損傷部破面
+　破面のＳＥＭ観察の結果、疲労破面特有のストライエーション状模様が確認され、配管外面から内面方向に進んで進展していることを確認した。
+（４）損傷部断面
+　溶着金属部ミクロ観察の結果、樹枝状結晶模様を呈しており、溶接不良等の異常は見られなかった。
+
+４．振動評価
+　以上の通り、今回の事象は、疲労によって漏えいに至ったものと考えられることから、ＨＰＣＳ　Ｄ／Ｇの当該溶接部近傍（測定箇所：5箇所）について、機関停止中における配管の固有振動数測定（タッピングテスト）、及び機関運転中の振動測定を実施した。また、Ｄ／Ｇ　２Ｃ、２Ｄも同様の測定を実施した。
+（１）停止時固有振動数測定
+　タッピングテストの結果、ＨＰＣＳ　Ｄ／Ｇ、Ｄ／Ｇ　２Ｄ配管部の生波形は減衰が少なく、比較的長い時間振動が継続していることが観察された。
+　固有振動数については、数十から百数十Hzのさまざまな周波数が確認された。
+（２）運転中の振動測定
+　機関運転中の振動測定・周波数分析を実施した結果、数多くの振動周波数ピークが見受けられ、それぞれのピークの間隔は３．５Hzであった。
+　また、振動の生波形からも、３．５Hz※の長周期振動が確認された。
+※：機関周波数（Ｖ型エンジン。約４２９rpm＝７Hz）の１／２周波数と思われる。
+
+（３）振動測定結果評価
+　固有振動数測定結果及び機関運転中の振動測定結果からは、明確に共振領域と判断される周波数は見出せなかったものの、運転中の周波数分析結果から、配管は長周期の３．５Hzで振動しているものと考えられる。
+　これにより、バルブの固有振動や流体振動などの高調波が立ち上げられ、これらの高次成分が周波数分析結果で計測されているものと考えられる。なお、使用した振動測定装置が５Hz以下は測定不可であったことから、周波数分析結果には現れなかったものと考えられる。
+
+５．調査結果まとめ
+（１）割れの認められた配管
+　今回の事象において疲労損傷に至った部分には、３．５Hzの振動により、長周期振動が確認された。
+　また、割れの認められた配管は、すべて外観点検において、漏えい箇所で配管の曲がりが確認された。
+（２）割れの認められなかった配管
+　割れの認められなかった配管についても上記と同じ長周期振動が観測されている。しかしながら、今回の点検時及び前回の定期検査で割れが確認されていないことから、今サイクル、前サイクルを通じて振動を受けた状態であっても配管は健全であったと考えられる。
+
+６．考察
+（１）当該溶接部の応力
+　当該配管は以前に同様に漏えいした事象が無いこと、および他計装配管にき裂等の異常がなかったことから、当該計装配管のみが、何らかの原因で疲労強度の低下が発生し、その結果疲労割れが急速に進展したものと推察される。
+　疲労強度の低下要因は次の事項が考えられる。
+１）当該溶接部における残留応力
+　・外部からの応力による塑性変形後の弾性分の復元力による引張応力
+　この応力により、き裂発生時は１８０°位置に引張側の残留応力が生じていたものと思われる。
+　・溶接残留応力
+２）応力集中（当該溶接部の形状は径変化部であり、応力集中しやすい形状）
+（２）繰返し応力
+　当該配管で確認された長周期振動によって加えられる繰り返し振動を前回定検終了時から積算すると10＾5オーダーであり、一般的に高サイクル疲労破壊域とされる回数（10＾5～10＾7回）とほぼ一致する。※
+※：1ヶ月に１回実施しているDGの定期試験時間は約１時間程度であることから、定検終了から繰り返し振動の回数を積算すると
+　　8回（今サイクルの起動回数）×3600（1時間）×3.5Hz≒10＾5
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9291</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/12/18 18:07:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[ＨＰＣＳ Ｄ／Ｇの定格出力運転時における確認項目のうち、「漏えい」が確認されたことから、定期試験を中断。このため、保安規定第６０条第２項に定める確認ができないことから、運転上の制限を満足しないと判断。
+平成１９年９月４日　１１時３２分　運転上の制限を満足していないと判断（運転上の制限逸脱を宣言）
+平成１９年９月６日　２１時５０分　運転上の制限逸脱解除を宣言
+平成１９年９月１１日　１７時２５分　運転上の制限外への移行（D/G　2C）（水平展開のため、保安規定第７４条第１項に基づき運転上の制限外へ移行実施）
+平成１９年９月１４日　１時１０分　運転上の制限内への復帰（D/G　2C）（保安規定第７4条）
+平成１９年９月１９日　２１時２５分　運転上の制限外への移行（D/G　2D）（水平展開のため、保安規定第７４条第１項に基づき運転上の制限外へ移行実施）
+平成１９年９月２１日　１７時００分　運転上の制限内への復帰（D/G　2D）（保安規定第７4条）
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3963</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/09/13 18:49:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200709041132]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．補修
+（１）漏えいの確認された当該溶接部付近を含め切断し、配管の取替を実施した。また、合わせて、水平展開としてＨＰＣＳ Ｄ／Ｇにおいて同様な配管１箇所、及びＤ／Ｇ ２Ｃ，２Ｄについても同様な配管４箇所の計５箇所について、取替を実施した。なお、ＨＰＣＳ Ｄ／Ｇの漏えい確認の際、元弁（以下、「当該弁」という。）の弁体付属のナットのネジ山が浅く弁体が外れたため、弁体及び弁棒取替を実施した。また、念のためＤ／Ｇ２Ｃ，２Ｄについても同様に取替を行った。
+（２）当該溶接部を含む計装配管及び類似配管に誤って外力が加わらないよう、計装配管への負荷がかかる行為を禁止する旨の表示を取り付けた。
+
+２．今後の対策
+（１）現在設置されている計装配管は元弁出口側（配管口径：１Ｂ）から、一旦計装配管の配管口径以下に絞った配管（３／８Ｂ）を介して計装配管（１／２Ｂ）へ接続しているため、外力によって強度を高め曲がり難くする目的で、元弁出口側配管へは口径（１／２Ｂ）の計装配管用チューブを接続するよう配管を交換する。
+（２）当該溶接部を含む計装配管及び類似配管に誤って外力が加わらないよう配管の保護サポートを設置する。
+（３）今回取替えを実施した配管６ヶ所について、次回定期検査時に計装配管が長周期振動が発生しないよう、計装配管にサポートを追加する。
+（４）ＨＰＣＳ Ｄ／Ｇの配管取替後の漏えい確認の際発生した、弁体が外れたことに対する恒久対策として、以下を実施する。
+１）弁体外れの調査結果、当該弁は輸入弁（ハンコック製）であり、弁体と弁棒を固定するナットのネジ部等の腐食による弁体が外れる事象は、弁のサイズが６００Ｌｂ以下の小口径弁に限定される物の典型的な不具合事例であることが確認された。このため、次回定検時、当該弁と同じ箇所に設置されているHPCSD/G及びD/G2C,2Dの同型弁５台について、腐食による弁体外れ対策の施された改良型弁（国産弁）に取り替える。
+２）東海第二発電所内の輸入弁（ハンコック製）の使用状況を調査・評価し、その使用環境や重要度を考慮した取替計画を立てた上で、順次取替を進めてゆく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/12/18 18:07:01]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定格熱出力一定運転中の平成１９年９月４日１１時００分頃、高圧炉心スプレイ系ディーゼル発電機（以下、「ＨＰＣＳ　Ｄ／Ｇ」という。）の定期試験を実施していたところ、ＨＰＣＳ　Ｄ／Ｇの冷却水系圧力スイッチ※（ＰＳ－２０１－１）元弁下流側配管溶接部付近より１滴／秒の滴下があることを確認した。そのため、ＨＰＣＳ　Ｄ／Ｇの定格出力運転時における確認項目のうち、「漏えい」が確認されたことから、定期試験を中断した。このため、保安規定第６０条第２項に定める確認ができないことから、１１時３２分、運転上の制限を満足しないと判断した。
+　運転上の制限を満足していないと判断したことから、保安規定に基づき、ＨＰＣＳ　Ｄ／Ｇの運転上の制限逸脱時の要求される措置として、非常用ディーゼル発電機２Ｃ，２Ｄ（以下、「Ｄ／Ｇ　２Ｃ，２Ｄ」という。）及び原子炉隔離時冷却系の健全性確認試験を実施し、問題のないことを確認した。なお、Ｄ／Ｇ　２Ｃの健全性確認の際、ＨＰＣＳ　Ｄ／Ｇと同一箇所で若干のにじみが確認されたが、機能上問題となるものではなかった。
+　その後、次項に示す補修の後、ＨＰＣＳ Ｄ／Ｇの健全性確認を実施した結果、漏えいはなく、機器に異常がなかったことから、平成１９年９月６日２１時５０分運転上の制限の逸脱解除を宣言した。なお、この健全性確認運転については、保安規定第７３条第７項に基づき、保安規定第６０条第２項の検査に代えることとした。
+　また、Ｄ／Ｇ ２Ｃ，２Ｄについても水平展開として同様な配管の取替を実施することとし、Ｄ／Ｇ ２Ｃについては、９月１１日１７時２５分、運転上の制限外へ移行、配管取替後の健全性確認にて異常のないことを確認し、９月１４日１時１０分、運転上の制限外への移行を解除した。Ｄ／Ｇ ２Ｄについても９月１９日２１時２５分、運転上の制限外へ移行、配管取替後の健全性確認にて異常のないことを確認し、９月２１日１７時００分、運転上の制限外への移行を解除した。
+※：当該スイッチはＨＰＣＳ　Ｄ／Ｇの冷却水系圧力「低」トリップ要素に使用されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-M008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[当該溶接部において、漏えいに至った原因は以下のとおりと推定される。
+（１） 前回定検時に計装配管が何らかの外力により下方向に曲げられた（塑性変形）。
+（２） 当該溶接部は、溶接残留応力があることと、応力集中しやすい形状であったことに加え、塑性変形後の弾性応力による引張反力が加えられ疲労強度が低下した。
+（３） 計装配管のサポートの支持が無い部分が機関の運転振動に伴い振動し、高サイクル疲労により割れが発生・進展し貫通した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[高圧炉心スプレイ系ディーゼル発電機　冷却水系圧力スイッチ元弁付近からの水の漏えいについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限逸脱を宣言]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1109</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/09/14 10:31:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>9291</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9291</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0710]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[震動]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[070]]></GENIN_DAI_CODE>
+				<SORT_NO>28</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0710]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[震動]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[070]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9291</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9291</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9291</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

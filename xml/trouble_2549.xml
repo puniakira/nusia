@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2549</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/09/28 20:52:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/09/28 13:27:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200409260550]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第一原子力発電所３号機において、平成16年９月26日午前５時50分頃、原子炉格納容器低電導度廃液サンプ（＊１）水位高の警報が発生した。当社社員が現場を確認したところ、原子炉格納容器底部床面にある排水口から水が溢れていたことから、ただちに当該排水口につながる弁を閉め、水漏れは停止した。
+　漏れた水は、気水分離器等貯蔵プールの水であり、同プールと作業で水抜きされている原子炉側との仕切り（＊２）の密閉機能が一時的に低下し、プール水が原子炉圧力容器内に流れ込み、その一部が原子炉再循環系配管の排水ラインを経由して原子炉格納容器内の排水口から溢れたものと推定している。
+　仕切りの密閉機能が低下した原因は、他の作業にともない所内空気を停止し同系統の圧力を抜いた際、仕切りに空気を送る圧力供給装置内の逆止弁に僅かな漏えいがあり、圧力供給装置の圧力が低下し、その結果として仕切りの密閉機能が低下したものと推定した。
+　今後の対策としては、当該装置の逆止弁を追設し２重化するとともに、同様に所内空気系統の圧力を抜く場合は、当該装置の元弁を閉めることとする。
+　漏れた水の量は約26リットル、放射能量は約4.1×10^7ベクレル（ラジウム温泉の約410リットルに相当する量）だった。
+　これによる外部への放射能の影響はない。
+
+＊１　低電導度廃液サンプ
+　各建屋内の機器からの排水、漏えい水試料採取の廃液等を受けるタンク。
+＊２　仕切り
+　ステンレス製の板で、密閉性を保つため廻りに空気で膨らませるゴムがついている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S055]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所３号機原子炉格納容器内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/09/28 20:52:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

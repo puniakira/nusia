@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8703</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/06 18:11:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3709</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/03/16 20:22:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200703131207]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/06 18:11:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第二３号機において、　ＲＨＲ（Ｂ）系の点検のため、中央制御室で当該系統のポンプ入口弁の開操作を実施していたところ、警報が誤って発生し、平成１９年３月１３日　１２時７分、「ＲＨＲ（＊）ポンプＡトリップ」、「ＲＨＲ（停止時冷却）系Ａ配管破断」および「ＲＨＲ（停止時冷却）系Ｂ配管破断」の警報が発生し、残留熱除去系ポンプ（Ａ）が停止した。
+　警報は直ちに解除され、現場を調査したところ、実際の配管の破断はなく、水の漏えいも確認されなかった。
+
+　調査の結果、以下のことが確認された。
+・残留熱除去系ポンプ（Ｂ）入口配管の弁を分解点検した結果、ポンプ吸込弁および吸込配管安全弁の弁体および弁座シート面に水漏れ痕や異物等による噛みこみ傷があること。漏えい検出系の計器には、異常のないこと。
+・漏えい検出系のＡ系またはＢ系のいずれかが動作した場合は、残留熱除去系(Ａ，Ｂ)両系統のポンプが停止する回路となっており、今回の残留熱除去系ポンプ（Ａ）の停止は正常な動作であったこと。
+・水抜き作業のため、残留熱除去系ポンプ（Ｂ）入口配管の弁を開操作した際、警報を発生させないための電気回路の処置を事前に行うべきであったこと。
+
+　警報が発生した原因は、残留熱除去系（Ｂ系）において、シート面に傷等のある吸込弁あるいは安全弁を通じて配管内の水が漏れ、配管内の一部が真空状態となっており、この状態で水抜き作業を行ったため、入口配管の弁の上部に位置する配管内の水が真空相に吸い込まれて配管内に差圧が生じ、漏えい検出系の破断検出器が動作したものと推定した。
+
+　対策として、残留熱除去系の水抜きおよび水張り作業を実施する場合には、不要な警報の発生ならびに残留熱除去系ポンプの停止を防止するため、配管破断検出回路の当該処置を事前に行うことを当該作業の手順書に追記する。
+
+　なお、今回傷等が確認された残留熱除去系ポンプ（Ｂ）の吸込弁および安全弁については、シート面の手入れを行った。
+
+　今回のような弁シートの傷等の補修実績をもとに、今後とも弁類の適切な保全管理に努めていくこととする。
+
+＊：ＲＨＲ
+　残留熱除去系（ＲＨＲ：Residual Heat Removal System）。
+　原子炉を停止した後の燃料の崩壊熱除去（燃料の冷却）や非常時に原子炉水位を維持するための系統（Ａ系，Ｂ系，Ｃ系の３系統ある）。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S083]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ＲＨＲ系配管破断警報の発生]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/20 20:38:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

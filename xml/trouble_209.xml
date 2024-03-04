@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．励磁機及びＡＶＲの点検結果
+（１）励磁機：外観点検、コイル導通確認及びヒューズ溶断確認結果、異常は認められなかった。
+（２）ＡＶＲ盤：入力回路の自動電圧設定器、電圧検出モジュールの外観点検、ＰＴ（計器用変圧器）、ＣＴ（計器用変流器）の導通確認結果、異常は認められなかった。
+　自動回路のカード及びモジュールの外観点検、入出力確認、打振点検結果、異常は認められなかった。
+　手動電圧設定器及び手動回路のカード、モジュール等の外観点検、入出力確認結果、異常は認められなかった。
+（３）ＡＶＲ電源回路：永久磁石発電機（以下ＰＭＧという）の外観点検を実施したところ、出力回路のケーブル接続端子部の１箇所（Ｕ相）で過熱によるケーブル被覆、端子板の損傷及びケーブル接続部の締め付けナットに緩みが見られ、ケーブル絶縁テープの溶融、ＡＶＲ側ケーブルとＰＭＧ側ケーブルとの接触面に片当たりと見られる線状の接触痕及びアーク痕と見られる肌荒れが認められた。導通確認を実施した結果、Ｕ相が断線状態であることが確認された。なお、Ｖ相およびＷ相については、異常は認められなかった。
+　また、電源スイッチ及び電源装置の点検結果に異常は認められなかった。
+
+２．ＰＭＧ出力回路ケーブル接続端子部の点検結果
+（１）端子締め付けの点検結果：社内標準では、結線作業時の接続状態の確認までは明記しておらず、当該作業の作業手順書にも具体的な締め付け確認の方法までは記載していなかった。
+　定期検査中の当該ケーブル解結線は、作業責任者同時立会のもと、作業要領及び解結線チェックシートにより作業員がスパナで締め付け、その手応えで締め付け状態の確認を行っていた。
+　ケーブル点検の結果、Ｕ相のＡＶＲ側ケーブルはＶ、Ｗと比較し、余長が十分でなくケーブル剛性が高いため、端子面に傾きがあると片当たりし、その状態で締め付けた可能性があることを確認した。
+　このため、現地で緩めトルクを確認した結果、Ｕ相は約９８Ｎ・ｃｍ（１０ｋｇｆ・ｃｍ）で、健全であったＶ相（約４４０Ｎ・ｃｍ（４５ｋｇｆ・ｃｍ））、Ｗ相（約２９０Ｎ・ｃｍ（３０ｋｇｆ・ｃｍ））と比較し小さかった。
+（２）ねじ部外観点検：外観点検を行った結果、異物のかみ込み、ねじ山のつぶれは認められなかった。また、ねじ部直近のケーブル番号表示札が一部焼け焦げているのが認められた。
+（３）端子板の点検結果：Ｕ相の座面は上面から、最大径約２５ｍｍ、深さ約６ｍｍの円錐状に炭化していた。Ｖ、Ｗ相の座面は健全であった。
+（４）振動による影響：再起動後１００％出力運転時の振動計測結果は、７．２μｍであった。
+
+３．発電機トリップ要因調査・試験
+（１）接触不良の発生メカニズム確認
+ａ．ナット締め付け確認試験：原因確認結果から推定された締め付けトルク約３９０Ｎ・ｃｍ（４０ｋｇｆ・ｃｍ）で実機模擬モデルを用いて締め付けた結果、端子間に０．２ｍｍの隙間が生じることが確認された。
+Ｂ．ケーブル端子部接触状態確認試験：端子間隙間が０．２ｍｍの状態において、５０Ａ（１００％出力相当電流）通電で１時間の温度上昇試験では、止めナットの温度は１４０℃、接触抵抗は１５ｍΩであった。また、試験後ケーブル端子面を観察した結果、実機とほぼ同程度の線接触（片当たり）の痕跡が認められた。
+Ｃ．端子板（ベークライト）の体積減少評価：端子板と同一材料であるベークライト試験片を用いて実施した過去の試験結果から、端子板温度１４０℃以上で約３０００時間経過すれば、ナットが緩む程度に体積が減少することが確認された。
+Ｄ．ケーブル端子部温度上昇試験：端子間隙間が０．２ｍｍの状態からさらに、端子板の体積が減少した状態を模擬し、５０Ａ（１００％出力相当電流）通電で１時間の温度上昇測定を実施した結果、止めナットの温度は約４１０℃となり、端子板が炭化し、絶縁テープが溶融することを確認した。また、その時の接触抵抗は４９ｍΩであった。
+　なお、ケーブル番号表示札が焼け焦げていた原因は、後から復旧した信号線に取り付けてあったものが、過熱した端子部に接触したためと推定される。
+Ｅ．材料加熱試験：端子板は３００℃以上で炭化し、絶縁テープについては２００℃以上で溶融することが確認された。また、ケーブル番号表示札は３５０℃以上で炭化することが確認された。
+Ｆ．締め付けナット緩み確認試験：ＡＶＲ側ケーブルに緩みトルク９８Ｎ・ｃｍ（１０ｋｇｆ・ｃｍ）に相当する反力を与えた状態で、実機相当の振動（１０μｍ）を加えた結果、ナットが回転し緩むことが確認された。
+（２）放電の発生メカニズム確認（端子部放電試験）：端子間間隙３ｍｍの状態で、２０Ａ（２０％出力相当電流）及び５０Ａ（１００％出力相当電流）通電で、１時間の放電試験を実施した結果、放電は断続的に発生すること及び放電回数は２００～３００回／時間であることが確認された。さらに、端子面を観察した結果、２０Ａ通電時の放電痕の大きさが実機の放電痕の大きさと同程度であったこと、及び５０Ａ通電時の放電痕の大きさが２０Ａ通電時と比べて大きなものであることから、端子部での放電は２０Ａ通電（２０％出力）時に発生したものと推定された。２０Ａ通電時の放電試験時には、止めナットの温度は２１０℃、端子温度は１１３℃であり、端子板の炭化及び絶縁テープの溶融は認められなかった。また、実証試験での放電回数から放電エネルギーによる温度上昇への寄与は自然放熱のみを考慮しても約２Ｋと低いことが確認された。
+　（１），（２）より、端子板の炭化及び絶縁テープの溶融は、放電によるものでなく、５０Ａ通電時（１００％出力）における端子部接触不良による過熱のために発生したものと推定された。
+（３）界磁喪失リレー動作による発電機トリップのシミュレーション結果：締め付けナットの緩みにより、Ｕ相が欠相し、発電機界磁電圧が約２５Ｖから約１０Ｖまで低下した場合、発電機トリップに至ることがシミュレーションにより確認された。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[259]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>209</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/09/01 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>106</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>413</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200004290238]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．当該ケーブル及び端子板については、ケーブル余長の改善等を図ったものに取り替えた。
+２．ケーブル結線後の接続状態確認方法を明確化し、作業手順書他に反映した。
+３．今回の事象を踏まえ、ケーブル端子の締め付け管理を含め作業の基本的事項の徹底について教育等の場を活用し、継続的に取り組んでいく。
+４．ケーブル番号札については、接続部に接触しないよう取付方法について改善を図った。
+]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜２号機（定格出力５００ＭＷ）は、平成１２年４月７日に発生した化学体積制御系抽出水配管からの漏えい事象に係る対策を実施した後、４月２８日１９時２６分に発電機を並列した。
+　その後、出力上昇を開始し、４月２９日１時３０分に発電機出力約２０％（１００ＭＷ）に達し、出力を保持中のところ、２時２４分に発電機盤に「ＡＶＲ＊不足励磁」「励磁機注意」「偏差過大」の警報が発信し、発電機電圧が約１７ｋＶから約１５ｋＶに低下したことを確認したため、発電機電圧回復操作を実施していたが、２時３８分に「発電機界磁喪失リレー」が動作し、発電機が自動停止するとともに、「発電機バックアップトリップ」等警報が発信した。これに伴いタービン及び原子炉が自動停止した。
+　本事象による放射能の環境への影響はなかった。
+＊：発電機自動電圧調整器（以下ＡＶＲという）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>2</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-関西-T003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　前回定期検査時における励磁機センタリング作業終了後の、ＰＭＧ出力回路のケーブル結線時において、ケーブル剛性が大きく、またＵ相のケーブル余長が少なかったこと、また、結線後の締め付け確認が手順書に明記されておらず、今回も確実な確認がなされていなかったことから、端子部が片当たり状態となり、端子間抵抗が増加した。そのため端子部の過熱によりケーブル接続端子板（Ｕ相端子部）の体積が減少し、締め付けナットの緩みが発生した。さらに端子部の温度が上昇したことにより端子板が炭化し、加えて発電機運転による微小振動により緩みが進み、端子間の接触がなくなり断線状態となった。
+　その結果、励磁機及び発電機電圧が低下することにより、界磁喪失リレーが動作し、発電機が自動停止すると伴にタービン及び原子炉が自動停止したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[発電機励磁装置故障による発電機自動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（自動停止）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[端子*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>209</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[励磁回路設備*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>209</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>3</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コネクタ・接続部*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>209</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[091]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[主発電機・励磁機]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[090]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[090]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[主タービン発電機装置]]></KIKI_NAME>
+					<SORT_NO>8</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[発電機・励磁機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[259]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>209</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[003]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[通産大臣通達]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>209</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

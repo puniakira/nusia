@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11046</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/07/28 13:08:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>15842</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/07/27 09:09:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201007241646]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年７月24日午前５時２分頃、原子炉起動中の福島第一原子力発電所１号機において、原子炉給水ポンプ（Ｃ）の暖機用の小口径配管の保温材からわずかな水の漏えい（３秒に１滴程度）が確認されたことから、同日午前６時43分頃同ポンプ（Ｃ）から同ポンプ（Ｂ）に切り替えるとともに、漏えい箇所の修理を行うために原子炉圧力を6.34MPaから2.00MPaに降下することとした。
+　そのため制御棒の挿入操作、原子炉圧力の降下操作を実施し、中間領域モニタの指示値が下がったことから、同日午後４時46分頃、８台ある同モニタの１台の計測範囲の切り替えを行ったところ、「中間領域モニタ高高」および「原子炉自動スクラム（Ｂ系）」の警報が発生した。
+　なお、速やかに他の系統の中間領域モニタの指示値を確認した結果、異常がなかったことから警報を解除した。
+
+２．安全性、外部への影響
+　発電所の敷地周辺に設置しているモニタリングポストの指示値に有意な変動はなく、本事象による外部への放射能の影響はない。
+
+３．調査結果・推定原因
+　原子炉給水ポンプ（Ｃ）の暖機用小口径配管の保温材からの漏えい箇所の修理のため、原子炉圧力を降下し、中間領域モニタの指示値が下がったと判断し、同モニタの計測範囲の切り替えを行った。
+　その際、運転員が同モニタの指示値と他のモニタの指示値を読み誤り、通常より早く切り替えを実施したことから、警報の発生に至ったものと推定した。
+
+４．対策
+　中間領域モニタの計測範囲を切り替える際には、操作者と指示者で切り替え操作の対象となるモニタおよびその指示値を確認した上で、切り替えを行うこととする。
+　
+　
+　なお、原子炉給水ポンプ（Ｃ）の漏えいのあった小口径配管については７月25日に修理を行い、水漏れがないことを確認した。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１号機における原子炉自動スクラム（Ｂ系）警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/07/28 13:08:54]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

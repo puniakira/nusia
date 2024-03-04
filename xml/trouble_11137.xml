@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11137</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/11/04 14:19:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/11/02 17:04:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201010281034]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[東通原子力発電所１号機は、定格電気出力にて運転中のところ、平成２２年１０月２８日午前１０時３４分、低レベル放射性廃棄物の処理等を行うサービス建屋の１階にあるドラム缶搬出エリア放射線モニタの値（通常：約0.002ｍＳｖ／時）が約0.0065ｍＳｖ／時に上昇し、「サービス建屋放射能高」※の警報（警報設定値：0.0058ｍＳｖ／時）が発生しました。
+警報発生時は、サービス建屋１階のドラム缶搬出エリアにおいて、ビニール、紙、使用済みのフィルタ等が入ったドラム缶８本をトラックに積み込む作業をしており、８本目を積み込んだ際に警報が発生しました。
+警報発生後、トラックを移動させたことにより当該モニタから距離が離れたため、エリア放射線モニタの値が下がり、午前１０時４１分に警報が復帰しました。
+このことから、ドラム缶からの放射線の影響により警報が発生したものと判断しました。
+なお、作業前に測定した当該ドラム缶の放射線量は、全て事業所内の運搬基準（ドラム缶表面で2ｍＳｖ／時以下、ドラム缶から１ｍの距離で0.1ｍＳｖ／時以下）を満足していることから、法令上の問題はなく、作業員の被ばくもありませんでした。
+当該警報は作業員への注意喚起を目的としたもので、通常の警報設定値は発電所運転中の当該エリアにおける放射線レベルの約３倍としておりますが、モニタの値が変動する恐れがある作業を行う場合は、あらかじめ警報発生が予想されることから、警報設定値を変更できる運用としております。
+
+今回の警報発生は、
+①運搬作業の前に、搬出するドラム缶の放射線量を考慮した適切な値に設定値を変更するための手順が明確に定められていなかったことから、設定値を変更せずに作業を実施したこと 
+②当該エリアは、低レベル放射性廃棄物が頻繁に通過する場所であるにもかかわらず、通常の警報設定値がそのことを考慮した設定になっていなかったこと 
+によるものです。
+
+今後、当該エリア放射線モニタの警報設定値の変更に係る運用方法を手順書に追加し、運用手順の明確化および関係箇所への周知徹底を図ります。また、エリア放射線モニタの警報設定値の考え方についても併せて検討します。
+
+本事象による､排気筒モニタ、排水モニタ、モニタリングポストに異常な変化はなく、発電所周辺への放射能の影響はありません。
+
+※「サービス建屋放射能高」とは、サービス建屋内の放射線レベルを連続的に監視し、設定値を超えた際に発生する警報。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東北-S015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[サービス建屋におけるエリア放射線モニタの警報発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/11/04 14:19:50]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東通]]></PLANT_RYAKU_NAME>
+		<SORT_NO>3</SORT_NO>
+		<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東通発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

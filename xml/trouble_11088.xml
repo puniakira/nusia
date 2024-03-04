@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11088</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/19 11:24:07]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>17916</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/09/13 09:28:59]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201008021024]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/19 11:24:07]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所第３号機は、通常運転中のところ、８月２日１０時２４分、海水淡水化装置室内において塩酸ガスの検知を示す信号が発信したことから、運転員が現場を確認したところ、塩酸受入中の塩酸貯槽＊１まわりの配管フランジ部から塩酸が漏えいしていることを確認した。
+調査の結果、７月２９日より実施している３号機海水淡水化装置の塩酸系統配管フランジ部点検において、今回漏えいのあったフランジ部は分解点検を実施しており、点検後の締め付けが不十分であったことから、塩酸の受け入れ時に漏えいしたことが判明した。
+そのため、当該フランジ部については、ガスケットを取り替えて確実に締め付けを行うとともに、今回分解点検を行ったその他のフランジ部（１７６箇所）についても確実に締め付けられていることを確認した。その後、塩酸の受け入れおよび同装置の運転において漏えいのないことを確認し、８月９日１４時５０分に通常状態に復旧した。
+なお、塩酸の漏えい量は約１０リットルで、漏えいした塩酸は海水淡水化装置建屋外部への流出はなく、床面等の水洗を行い、総合排水処理設備にて処理を実施した。
+また、建屋周辺の塩酸ガス濃度を測定した結果、検出限界未満（０．１ppm 未満）であり、塩酸ガスによる周辺環境への影響およびプラント運転への影響はなかった。
+＊１ 塩酸貯槽
+逆浸透膜に送る海水のＰＨを7～8→6.5 に調整するための塩酸を貯蔵する貯槽
+
+
+詳細は添付の報告書参照]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　海水淡水化装置建屋内での塩酸の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/09/13 09:30:02]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

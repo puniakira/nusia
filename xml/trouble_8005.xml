@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8005</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/12/07 13:00:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3383</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/12/06 20:30:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200512051439]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の柏崎刈羽１号機において、給復水系の水張り作業を実施していたところ、12月５日午後２時30分頃、タービン建屋地下２階の低電導度廃液サンプ(*1)（Ｂ）の水位が高くなったことを示す警報が発生した。
+　その後、午後２時39分頃、同サンプ（Ｂ）から溢れ出た水がサンプピット(*2)へ流入したことを示す警報が発生した。
+　当直員が現場を確認したところ、復水ろ過装置出入口ベント弁（空気抜き弁）とドレン弁（水抜き弁）から水が排水配管やファンネル（排水受け容器）等を経由して、低電導度廃液サンプ（Ｂ）へ流入し、当該サンプにて処理しきれない水がサンプピットへ溢れ出ていることを確認した。
+　また、当該サンプに流れ込む排水配管を確認したところ、ファンネルで処理できなかった水がファンネル（４ヶ所）から溢れていることを確認した。
+　なお、当該ベント弁とドレン弁を閉じることによりサンプピットへの流入およびファンネルからの溢水は止まった。
+　サンプピットへ溢れ出た量は約340リットル、ファンネルから溢水した量は合計約16.5リットル、放射能量はそれぞれ約3.3×10^3ベクレル、約2.3×10^3ベクレルで、清掃などにより回収、処理した。
+
+　調査の結果、当該サンプおよびファンネルより水が溢れ出した原因は、復水ろ過装置出入口ベント弁とドレン弁の一部が開いていることを確認せずに水張り作業を行ったためであることがわかった。今後は、確実に水張り準備操作を実施することとした。
+
+＊１：低電導度廃液サンプ
+ 　　　建屋内の機器からの排水、試料採取時の廃液を処理するための設備。
+＊２：サンプピット
+ 　　　サンプより溢れ出た水を受けるために、サンプ周りに設置された堰（せき）。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S079]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋内での溢水について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/12/07 13:00:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

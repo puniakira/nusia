@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．火災発生場所の状況について
+　今回火災が発生した「１号機ＣＶケーブル洞道」は、南側66ｋＶ開閉所と１／２号機サービス建屋を結ぶケーブル用連絡通路（ダクト）であり、南側66ｋＶ開閉所の西側の点検用竪坑付近で火災が発生した。
+　　　　　　　　　　
+（１）洞道の状況
+　洞道は、内空　幅2.4ｍ，高さ1.8ｍのコンクリート構造物で両側にケーブルトレイが設置されており、通路幅は80ｃｍとなっている。
+　廃液（一斗缶）を持っての移動は、缶を足に付けた状態としても約70ｃｍ程度の幅となり、左右ケーブルトレイとの間隔は片側５cm程度であったと推定される。
+　以上の状況で、作業員がケーブルトレイに衣服が引っかかり体が左側に引っ張られた状態でバランスを崩した。
+（添付資料－２参照）
+
+（２）火災発生時の状況
+ａ．作業状況
+　　火災発生時は作業班長１名、作業員３名の計４人で片付け作業を実施
+
+ｂ．作業員の保護具着用及び換気状況
+　　・保護具着用状況　ヘルメット、保護眼鏡、保護マスク、革手袋、安全靴
+　　・作業前の点検　　酸素濃度測定
+　　・作業中の換気　　換気のため、竪抗入口ドアを開放して作業を実施
+
+ｃ．ダウントランス（仮設電源）の使用状況
+　　コンクリートひび割れ補修工事に使用する電源を得るため、洞道の外に仮設発電機200V）を配置し、電力ケーブルにて洞道内の床面においたダウントランスまで引き込み、ダウントランスにて100V／115Vに降圧した後、電工ドラムなどを用いて作業エリアの照明や電動工具に使用していた。
+　　電工ドラムのコードは全て引き出した状態で使用しており、火災発生時の電源使用状況は、仮設照明（300Ｗ／３Ａ）を７台、合計で2.1kVA，21Ａである。
+　　ダウントランスの定格容量は３kVAであり、火災発生時は定格電流30Ａ以内の電力使用量であった。
+　　なお、ダウントランスには安全ブレーカーが付いており、定格容量以上の電流が流れた場合自動的に切断される仕組みとなっているが、ブレーカーは作動していなかった。
+
+ｄ．ダウントランスの発熱温度
+　　ダウントランスは絶縁Ｂ種規格品であり、温度上昇限度75℃、許容最高温度130℃の規格となっている。
+　　温度上昇限度は「長時間持続して超えてはならない温度」と定義されており、許容最高温度はこの温度以下の条件で使用するよう定められた温度（気温＋温度上昇限度が許容最高温度以下）である。
+　　火災発生時の温度上昇は負荷率が2.1／3kVA＝70%である為、以下の式より42℃であり、現場の気温が14℃（H19．12.18測定値より）の場合、ダウントランスの温度は56℃となる。　
+　　〈ダウントランス温度〉
+　　　・温度上昇＝β×（負荷率）＾1.6　＝75℃×（2.1kVA÷3kVA）＾1.6　＝42℃　　　〔β：温度上昇限度〕
+　　　・ダウントランス温度＝温度上昇＋気温　＝42℃＋14℃　＝56℃
+　　
+　以上より、作業員の「ダウントランスから発煙らしきものを発見した」との証言は、水洗い清掃され湿潤状態であった床面に、直接ダウントランスが設置されていた為、ダウントランスの発熱による湯気を煙と見誤ったものと思われる。
+
+（３）洞道内の空気の流れについて
+　洞道は、１／２号機サービス建屋地下１階「ＣＶケーブル処理室」に延びており、洞道と同建屋は壁で隔てられているが、貫通部におけるケーブルトレイと壁との隙間より煙が流入し、「ＣＶケーブル処理室」の火災感知器が作動した。
+　発火場所より火災感知器までの距離は約250ｍであるが、１／２号機サービス建屋内の空調設備の換気により建屋内の気圧が低く、煙が流れたものと推定される。
+
+２．廃液（有機溶剤）について
+　廃液は、コンクリートひび割れ補修用のポンプを洗浄した廃液である。
+　洗浄は、洗浄剤（有機溶剤）約３Ｌをポンプに吸い込ませ、排出することにより行い、この後潤滑剤を同量吸い込ませ、洗浄剤の排出とポンプ内部及び注入ノズルの発錆防止を図る。
+　このため、廃液（有機溶剤）の内容は、洗浄剤と潤滑剤を１：１に混合した液体に、コンクリートひび割れ注入剤が含まれたものであった。
+（添付資料－３参照）
+
+（１）運搬方法
+　洗浄剤の搬入時は蓋付きの密閉容器を使用していたものの、使用後の廃液（有機溶剤）の運搬時に密閉性のない容器（一斗缶）を使用していた。
+
+（２）有機溶剤の使用量
+　洗浄剤は１回の使用量の目安を３Ｌとして、運搬用の搬入容器（寸法：φ22×H21）容量の約１／３程度(22^2×π/4×7＝2.7L≒3L)として管理していた。
+　潤滑剤は18Ｌ缶で搬入しているが、使用量を洗浄剤と同量と決め、洗浄剤の搬入容器から洗浄剤をポンプに吸い込ませた後、洗浄剤が入っていた液位まで潤滑剤を同容器に注ぐことにより実施していた。
+
+（３）飛散した廃液（有機溶剤）の量
+　廃液受け（一斗缶）に残っていた廃液（有機溶剤）の量は、計測（実測）した結果約５Ｌであった。
+　洗浄剤（３Ｌ）＋潤滑剤（３Ｌ）－残量 （５Ｌ）　＝１Ｌ
+より、飛散した廃液（有機溶剤）の量は約１Ｌ程度と推定される。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9513</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/02/25 16:43:40]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4099</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/12/12 18:37:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200712121636]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　使用後の廃液（有機溶剤）についても危険物としての管理が必要であることを含め、危険物の取扱い作業についての再教育を当社工事監理員、構内企業各社に対して実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/02/25 16:43:40]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　南側66ｋＶ開閉所と１／２号機サービス建屋を結ぶケーブルの地下連絡通路内（以下、「ＣＶケーブル洞道」）（周辺防護区域外）でのコンクリートひび割れ補修作業を行っていた作業員が、補修作業で使用したポンプの洗浄に使用した廃液（有機溶剤）を片付ける際、資材仮置き場より廃液（有機溶剤）を入れた蓋の開いた容器（一斗缶）を運搬していた。
+　運搬中に、作業で使用していた照明・電動工具用の仮設の小型変圧器（以下、「ダウントランス」）（約25cm×約24cm×高さ約18cm）から発煙らしきものを発見したため、あわてて駆けつけた際に服をケーブルトレイに引っかけバランスを崩し、容器（一斗缶）より有機溶剤（廃材）がダウントランス付近に飛散し、コンセント部で短絡が起き、スパークが発生して有機溶剤に引火・発煙に至った。
+　
+　直ちに、現場作業員が消火器により初期消火を行ったが、発生した煙が１号機サービス建屋地下１階に流れ込んだため、平成19年12月12日16時36分頃、柏崎刈羽原子力発電所１号機サービス建屋地下１階（非管理区域）において火災報知器が発報したことから、16時39分頃、消防署へ通報した。
+　
+　その後、消防署の現場確認により、平成19年12月12日17時23分に鎮火が確認された。
+
+　なお、作業員にケガはなく、これによる外部への放射能の影響はなかった。
+
+（添付資料－１参照）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-M074]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　ダウントランスの火災後の損傷状況は正面及び背面が激しく、特にコンセント部は融けているものの内部にはアーク痕などの損傷は確認されておらず、また、当該ダウントランスが防水機能を有していない屋内型であったことから、誤ってこぼした廃液（有機溶剤）がコンセントプラグにかかり短絡・スパークし、廃液（有機溶剤）に引火したと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所構内における仮設の小型変圧器からの発煙について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（火災報知器発報）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/12/13 14:15:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>9513</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9513</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9513</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9513</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9513</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

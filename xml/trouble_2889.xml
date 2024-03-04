@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2889</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/06/15 08:24:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/04/01 18:47:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20050329]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/15 08:24:52]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１７年３月２９日、定期点検中の３号機（沸騰水型、定格電気出力１１０万ｋＷ）において、原子炉建屋内で作業していた協力会社の作業員１名が放射線管理区域から退出する際、体表面モニタ（体表面の放射能汚染の有無を確認する装置）により汚染のあることを確認（※１）した。
+直ちに、放射線管理区域内に設置されている体表面の汚染除去用シャワーにて洗身した後、再度、放射能汚染の有無を確認した結果、体表面には汚染はないものの、微量の放射性物質を体内に取り込んだ疑いがあるため、速やかに臨時のホールボディーカウンタ（人間の体内に取り込んだ放射性物質の量を体外から測定する装置）による測定を実施した。その結果、微量の放射性物質を体内に取り込んだ疑いがあることを確認した。
+このため、電離放射線障害防止規則第４４条第１項第３号（※２）に該当すると思われる事象が発生したと判断し、必要な措置を施すとともに、同日、労働基準監督署へ連絡した。
+なお、ホールボディーカウンタの測定値から算出した被ばく線量（預託実効線量（※３））は、最大で約０．５ミリシーベルトと評価した。この値は胃のＸ線集団検診１回分（約０．６ミリシーベルト）と同程度であり、実用発電用原子炉の設置、運転等に関する規則で定める作業員の被ばく量の限度である年間５０ミリシーベルトを十分に下回る値であった。
+
+その後、３０日の朝、再度ホールボディーカウンタにて測定した結果、２９日の１０分の１程度（預託実効線量で約０．０６ミリシーベルト）まで測定値が下がっていることを確認した。これは、既に放射性物質の一部が体外へ排せつされたためと考えられる。
+２９日の作業内容を調査した結果、炉心シュラウド点検作業にて使用した工具の除染作業において作業員が防護用マスクを着用していなかったことにより微量の放射性物質を取り込んだものと推定している。
+今回の事象を踏まえ、防護用マスク着用の徹底等、必要な放射線防護措置が確実に遵守されるよう、厳格な管理を実施する。
+
+※１　「実用発電用原子炉の設置、運転等に関する規則の規定に基づく線量当量限度等を定める告示」にて定められている値（４ベクレル／cm^2）を管理するため、当社が自主的に定めた警報値（０．５ベクレル／cm^2）を超えたことにより確認。
+※２　電離放射線障害防止規則第４４条第１項第３号では、事業者は、放射性物質を誤って吸入摂取または経口摂取した者に対し、速やかに医師の診察または処置を受けさせる旨が定められている。
+※３　預託実効線量とは、被ばく者の体内に取り込まれた放射性物質により、今後５０年間を通じて受ける放射線の量。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S042]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期点検中の微量な放射性物質の内部取り込みについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/04/05 17:26:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

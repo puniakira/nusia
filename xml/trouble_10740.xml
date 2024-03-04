@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．点検結果 
+（１）Ｖ８点検結果 
+１）ＶＴにより、内面５箇所の欠陥指示が確認された。これらはすべてシュラウドサポートシリンダ上部内面の肉盛溶接より下に位置していた。このうち４箇所は軸方向であり、残り１箇所はほう酸注入配管サポートの隅肉溶接の角に沿った形状で、シュラウドサポートシリンダとの隅肉溶接には異常は見られなかった。 
+なお、ほう酸注入配管サポートについては、上述以外の４箇所についてもＶＴを実施したが、異常はみられなかった。 
+２）この５箇所についてＵＴを実施した結果、深さが最大のもので１５．６ｍｍ（板厚６３ｍｍの約２５％）であった。また、ほう酸注入配管サポートの隅肉溶接の角に沿った形状の１箇所についてはＵＴで検出されなかった。 
+３）第２１回定期検査で確認されているＶ８外面のひび割れについては、表面長さに進展は見られなかったが、以下のとおり板厚方向への進展がみられ、１箇所はＨ７内面に貫通しているものと推定された。 
+
+Ｖ８方位 ９０°　第２１回定期検査：約４２ｍｍ　第２４回定期検査：約５３ｍｍ 
+Ｖ８方位 １８０°第２１回定期検査：約４６ｍｍ　第２４回定期検査： Ｈ７内面に貫通と推定（板厚６３ｍｍ）
+Ｖ８方位 ２７０°第２１回定期検査：約１３ｍｍ　第２４回定期検査：約２０ｍｍ  
+（２）Ｈ７点検結果 
+１）ＶＴ：全周を検査し、１２箇所のひび状の指示模様が確認され、すべて軸方向（Ｈ７溶接方向に直交方向）であった。 
+２）この１２箇所についてＵＴを実施し、１箇所についてはＵＴで検出されなかった。また、全周の４７％に探傷範囲を拡大した結果、ＶＴで確認された１２箇所以外に２１箇所の欠陥指示を確認した。欠陥指示の深さは平均で約１４ｍｍ、最大のもので約２４．５ｍｍ（炉心シュラウド側板厚公称値５０．４ｍｍの約４９％）であった。 
+３）ＶＴで検出されなかったＵＴ欠陥指示２１箇所については、高圧水による局部洗浄を行って詳細にＶＴを行ったところ、そのうち１８箇所で表面にひび状の指示模様が確認され、すべて軸方向であった。 
+
+以上より、Ｖ８、Ｈ７に確認された欠陥指示は以下のとおりである。
+ Ｖ８：内面５箇所（ＶＴ） 外面３箇所（ＶＴ）[外面３個は２１回定期検査で確認されたもので、このうち１箇所はＨ７内面と貫通。]
+ Ｈ７：内面１２箇所（ＶＴ）[このうちＵＴで１１箇所検出。] 
+　　　 内面２１箇所（ＵＴ） [H7内面１２箇所（ＶＴ）以外のもの。] 
+合計：40箇所
+なお、ほう酸注入配管サポートの隅肉溶接の角の１箇所を除き、確認された欠陥指示はすべて軸方向であった。 
+２．構造健全性評価の考え方 
+（１）シュラウドサポート 
+検出された欠陥指示について、その形状と検出位置を整理した上で、電気事業法第５５条に基づき、技術基準への適合性等について評価を行う。概略は以下のとおり。 
+１）炉心シュラウドとシュラウドサポートを一体構造とした解析用有限要素法モデルを作成し、Ｖ８とＨ７に欠陥を想定する。 
+２）Ｖ８については、確認された欠陥指示が包含され、かつ欠陥の新たな発生を想定し、０°方向も含めて軸方向に全断面が貫通した欠陥を想定する。※５
+３）Ｈ７については、４７％の範囲に３３箇所の欠陥指示が確認されたことから、欠陥の新たな発生を想定して、この割合の２倍の数の軸方向貫通欠陥があるものと想定する。また、全周に１°ピッチで３６０箇所の軸方向貫通欠陥についても想定する。※５
+４）座屈・崩壊解析を行う。 
+ 
+ ※５：軸方向に貫通欠陥を設定する理由は、以下。 
+　１.ＶＴによるひび状の指示模様は軸方向であることが確認されており、ＵＴでは軸方向に面積を持つ欠陥であることが確認されている。 
+また、溶接残留応力・運転中応力解析の結果から高い周方向引張応力が確認されている。※６以上のことから、軸方向欠陥を設定する。 
+　２.ＳＣＣ感受性のある溶接金属インコネル１８２を超えて母材中を進展することは考えにくいことから、想定欠陥は溶接金属インコネル１８２内に留まるものと仮定し、全ての想定欠陥について保守的に軸方向に溶接金属が全断面貫通しているものと想定する。 
+
+（２）ほう酸注入配管 
+ほう酸注入配管サポートの隅肉溶接の角に沿った形状で確認された１箇所のＶＴ欠陥指示については、Ｖ８溶接金属内に留まっており、シュラウドサポートシリンダとの隅肉溶接には異常は見られず、ＵＴで欠陥指示は検出されなかった。 
+この欠陥指示は隅肉溶接による引張残留応力が影響しているものと考えられるが、この溶接は数パスの隅肉溶接であり、Ｖ８の溶接熱影響範囲を超えた領域では、残留応力はシュラウドサポートシリンダの板厚方向に深く及んでいないものと考えられる。また、サポート隅肉溶接の溶接材料は耐食性の高いインコネル８２であることから、溶接金属へのＳＣＣ進展の可能性は極めて小さい。以上より、サポートの隅肉溶接全長にわたるような深いＳＣＣ進展の可能性は小さく、サポートの機能を損なう恐れはないものと考えられる。 
+念のため、ほう酸注入配管サポートの隅肉溶接がＶ８溶接金属上にある部分を未溶着として構造健全性評価（配管支持機能の確認）を行う。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10740</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2011/02/09 15:14:16]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[シュラウドサポート]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>20179</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/12/17 23:32:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090926]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[至近の定期検査において点検を行う。
+その後は、隔回毎の定期検査時の継続検査とする。
+なお、継続検査ではＶ８（ほう酸注入配管サポート上部含む）及びＨ７のひび割れについて、今回実施した健全性評価への影響を確認し、必要に応じて再評価を行う。
+確認する項目は以下のとおり。
+１）Ｖ８（ほう酸注入配管サポート上部含む）及びＨ７のひび割れの発生・進展が予測した範囲にとどまっていること
+２）Ｈ７溶接金属に周方向のひび割れが発生していないこと
+３）Ｈ７上側溶接熱影響部に周方向のひび割れが確認された場合には、ひび割れの深さが評価で仮定した深さを超えていないこと（深さ６ｍｍ）
+４）Ｈ７の軸方向のひび割れが、３６０個を超えないこと]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/09 15:14:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第２４回定期検査中の炉内構造物検査※１（定期事業者検査）において、シュラウドサポートシリンダ縦溶接線Ｖ８の目視検査（以下、ＶＴ）を実施し、第２１回定期検査で確認されている外面の３個（東海第二発電所ＮＵＣＩＡ登録情報「シュラウドサポート縦溶接線上のひびについて」（2005年05月24日発生事象）参照）以外に内面７箇所のひび状の指示模様を確認した。このうち５箇所はＶ８に位置し、２箇所はシュラウドサポートシリンダと炉心シュラウドの溶接継手である水平溶接線Ｈ７の溶接金属位置であった。 
+　Ｈ７の溶接金属に２箇所確認されたことから、Ｈ７内面全周のＶＴを実施した結果、１０箇所のひび状の指示模様を新たに確認した。
+　Ｖ８内面に確認された５箇所、外面のひび割れ３箇所およびＨ７内面ＶＴで確認された１２箇所のひび状の指示模様（以下、欠陥指示という）については、構造健全性評価ため超音波探傷試験（以下、ＵＴ）を行った。この際、Ｈ７にＶＴで検出されていない１０箇所の欠陥指示を確認した（ＵＴの範囲は全周の約２１％）。 
+　このため、ＶＴで欠陥指示が確認されていない範囲に探傷範囲を広げて（６０°および２４０°周辺、Ｈ７全周の約２６％）ＵＴを実施した。その結果、１１箇所の欠陥指示を認した。 
+　以上の点検の結果、Ｈ７全周のＶＴにおいて１２箇所、Ｈ７（全周の約４７％）のＵＴをあわせると３３箇所の欠陥指示を確認し、Ｖ８のひび割れと合わせると合計４０箇所※２の欠陥指示を確認した。
+　今後、この結果を用いて維持規格※３等に基づき、構造健全性評価を行っていく。 
+
+　その後、解析の結果十分な裕度を有していることから、確認されたひび割れ及び仮定した周方向のひび割れが構造健全性に影響を及ぼすものではないことを確認した。
+　評価モデルで仮定したＨ７上側溶接熱影響部の周方向のひび割れの深さ寸法をパラメータとして変化させると、構造健全性を維持できなくなる時期が求められるため、この時期を算出したところ４５年間となり、所定の期間※４（今後３０年）に比べ十分に安全側であることを確認した。
+
+※１：平成１７年に実施した第２１回定期検査にて確認されたＶ８溶接継手のひび割れに対する継続検査として実施しているもの。 
+※２：日本機械学会 発電用原子力設備規格 維持規格（2008年版）JSME S NA1-2008  
+※３：Ｖ８外面（１８０°）に確認された１箇所とＨ７内面（１７９．９°）に確認された１箇所のひび割れは、貫通しており合計で１箇所とした。
+※４：「所定の期間」とは、高経年化技術評価等報告書において、運転開始後６０年を想定していることを踏まえ、今後の運転期間がほぼ同等となる「今後３０年」とした。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回新たに確認された欠陥指示については、以下の状況から、応力腐食割れ（以下、ＳＣＣ）と推定している。 
+１）材料：ＳＣＣ感受性のあるインコネル１８２が使用されている。 
+２）応力：溶接残留応力および運転応力により、高い引張応力が生じていたと推定される。※６
+３）環境：水素注入が行われていない期間のプラント運転中の炉水溶存酸素濃度は約２００ｐｐｂ程度であった。※６
+ 
+※６：出典：平成１７年７月「東海第二発電所におけるシュラウドサポートシリンダのひび割れに関する評価書」 
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ シュラウドサポート溶接継手のひび状の指示模様について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[最初のひびを発見]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>20172</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/12/22 16:01:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>2994</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[926]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[シュラウドサポート]]></S_KIKI_NAME>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[シュラウドサポート]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10740</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[926]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[722]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[722]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[炉内構造物]]></KIKI_NAME>
+					<SORT_NO>39</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉圧力容器及び炉内構造物]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[102]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[102]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2000]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[SCC]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[粒界型SCC、貫流型SCC、照射誘起型SCC、PWSCC、遅れ割れ]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2000]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10740</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

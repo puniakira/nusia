@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10581</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/10/07 20:11:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4573</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/25 19:43:33]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200905241317]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+平成21年５月24日午後１時17分頃、定期検査で停止中の２号機の原子炉建屋１階のエレベータ前（管理区域）において、水溜まりがあることを協力企業作業員が発見し、連絡を受けた当社社員が現場確認を行ったところ、原子炉建屋３階から１階の各エレベータ前（管理区域）の３箇所において、合計約246リットルの水溜まりがあることを確認した。
+その後、漏えいした水を測定した結果、放射性物質は検出されなかった。
+なお、当該水溜まりを発見した際は、原子炉建屋補機冷却系の水張り作業および配管の空気抜き作業を実施していた。水張り作業を停止したことにより同日午後１時30分頃、水の漏えいは停止した。
+漏えいした水については、拭き取り清掃を行った。
+
+２．調査結果　
+調査の結果、以下のことがわかった。
+・原子炉建屋３階にある原子炉格納容器内除湿冷却系の冷却水ポンプの排水受け容器（３箇所）から水が溢れていたこと。
+・原子炉建屋３階で溢れた水は、エレベータ前の床面の開口部から、同建屋２階および１階に流れ落ちていたこと。
+・原子炉建屋補機冷却系の水張り作業および配管の空気抜き作業は当社社員が担当し、配管の空気抜き作業のため原子炉建屋補機冷却系の空気抜き弁（585弁）を開けたこと。
+・原子炉建屋補機冷却系とつながっている原子炉格納容器内除湿冷却系の弁（267弁）（以下、当該弁）は通常開いている弁であったが、当社社員が確認した設備図面では、当該弁は通常閉まっている状態で表記されており、さらに当該弁が空気抜き用の弁である旨も記載されていたこと。
+・そのため空気抜き作業を指示した当社社員は、当該弁は閉まっているものと思い込み、現場で作業を行う当社社員に、当該弁の開閉状態の確認を指示しなかったこと。また、現場で作業を行った当社社員も、当該弁の開閉状態の確認を行わなかったこと。
+・原子炉建屋補機冷却系の配管の空気抜き作業の手順書に、当該弁の操作手順についての記載がなかったこと。
+
+３．推定原因
+空気抜き作業を指示した当社社員は、作業前に確認した設備図面では、当該弁は通常閉まっている状態で表記されていたこと等から、当該弁は閉まっていると思い込み、現場で当該弁が閉まっていることの確認を指示せず、現場で作業を行った当社社員も開閉状態の確認を行わず、当該弁が開いている状態で空気抜き作業を実施した。
+このため、原子炉建屋補機冷却系から原子炉格納容器内除湿冷却系に水が流れ込み、同系統の冷却水ポンプの排水受け容器より水が溢れ、その後、原子炉建屋３階の床面開口部から水が流れ落ち、下の階へ広がったものと推定した。
+
+４．対策
+今後、空気抜き作業を行う場合は、関連する弁の開閉状態を現場で確認するよう作業前確認シートに追記し、確認の徹底を図る。
+また、設備図面について、当該弁（267弁）は通常開いている表記に修正するとともに、手順書には空気抜き作業の前に当該弁を閉めることを記載する。
+さらに、原子炉建屋補機冷却系の空気抜き弁（585弁）を操作する際は、当該弁が閉まっている状態を確認することを現場表示した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　２号機原子炉建屋内における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/10/07 20:11:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12714</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/09/19 09:50:08]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>70965</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/09/06 21:32:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201707210052]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　7月21日午前0時52分頃、増設多核種除去設備建屋において、漏えい検知器が作動したことを示す警報が発生。発生状況は以下のとおり。
+　発生場所：発電所構内　増設多核種除去設備建屋
+　警報名称：多核種吸着搭用　ｐＨ計スキッドＢ漏えい
+
+　当社社員が現場状況を確認したところ、増設多核種除去設備Ｂ系のサンプリング配管の弁保温材から水が滴下し、その水が漏えい検出器周辺に溜まっていることを確認。このため、当該弁の前後弁を閉止し、漏えいを停止したことを確認。溜まっている水の範囲は、約１ｍ×５ｍ×深さ１ｍｍ。漏えいは堰内に留まっており、外部への影響はなし。なお、当該漏えい検知器の警報発生に伴い、午前0時55分に増設多核種除去設備Ｂ系の運転を停止。
+
+　増設多核種除去設備Ｂ系サンプリング配管の弁保温材を取り外して状況を確認したところ、サンプリングラインにあるドレン配管（ｐＨ検出器を点検する際の水抜き用に設置した配管）に直径２ｍｍ程度の微少な孔があることを確認。このため、弁保温材から滴下した水は、増設多核種除去設備で処理中の水であると判断。
+
+　滴下した水のスミヤ測定及び線量当量率測定を行った結果、増設多核種除去設備建屋内のバックグランドと同等であることを確認。また、滴下した水は微量で採取・分析はできなかったが、増設多核種除去設備Ｂ系の系統水の至近における分析結果（2017年6月1日採取）は、以下の通り。
+　・Cs-134：2.2×102Bq/L
+　・Cs-137：1.5×103Bq/L
+　・Sr-90：1.8×102Bq/L
+
+　なお、滴下した水については、拭き取りを実施。微小な孔が確認された箇所については、止水テープによる止水処置を実施。今後、当該ドレン配管の修理を行う。
+
+　増設多核種除去設備Ｂ系については、ｐＨ検出のサンプリングラインが３系統あり、１系統隔離した状態においても運転可能であることから、準備が整い次第、増設多核種除去設備Ｂ系の運転を再開する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-S020]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　増設多核種除去設備吸着用pHスキッドからの堰内への漏えいについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/09/19 09:50:08]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

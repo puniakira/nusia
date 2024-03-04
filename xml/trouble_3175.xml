@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器が投入できなかった原因を調査するため、当該しゃ断器の制御回路及びしゃ断器本体について要因分析表に基づき調査を実施した結果、以下のことが確認された。
+
+（１）制御回路の調査結果（現地）
+
+　ａ．ＨＰＣＳ　Ｄ／Ｇ停止時
+（ａ）当該しゃ断器投入回路の各端子～対地間にてＤＣ電圧を測定した結果、異常の無いことを確認した。
+（ｂ）当該しゃ断器投入回路の補助継電器及び保護継電器の補助接点の抵抗を測定した結果、異常の無いことを確認した。
+（ｃ）同期検定操作スイッチ及びしゃ断器操作スイッチの入り操作を実施し、制御回路の端子～対地間のＤＣ電圧を測定した結果、異常の無いことを確認した。
+ｂ．ＨＰＣＳ　Ｄ／Ｇ無負荷運転時
+　補助継電器及び保護継電器の動作状態を、制御回路の端子～対地間の電圧測定及び目視にて確認した結果、異常の無いことを確認した。
+ｃ．ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器投入操作時
+同期検定操作スイッチ及びしゃ断器操作スイッチの入り操作を実施し、制御回路の端子～対地間のＤＣ電圧を測定し、投入信号に異常の無いことを確認した。
+　尚，定例試験時と同様、当該しゃ断器は投入できなかった。
+
+　以上の調査結果から、制御回路に異常が確認できなかった為、ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器が投入できなかった原因は、当該しゃ断器本体の異常によるものと推定されたことから、予備品の健全性を確認後、当該しゃ断器と交換した。
+
+（２）ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器取出し後、現地並びに工場おいて調査を実施した。
+
+ａ．ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器接続部
+（ａ）当該しゃ断器の取付状態を確認した結果、制御回路との取り合い端子が確実に挿入されていること及びメカニカルインターロックスイッチが所定位置にあることを目視にて確認した。
+（ｂ）制御回路断路部の接触面に変形、錆が無く、異常の無いことを確認した。
+ｂ．しゃ断器投入（５２ＣＣ）回路
+（ａ）しゃ断器投入コイル及び回路全体の抵抗値測定、目視確認の結果、異常の無いことを確認した。
+（ｂ）工場において、別のしゃ断器でしゃ断器投入コイル交換前及び当該投入コイル取付後の動作試験を実施した結果、しゃ断器投入時間には有意な差はなく管理値を満足しており、しゃ断器投入コイル単体に異常の無いことを確認した。
+ｃ．しゃ断器補助（５２Ｘ）回路
+（ａ）しゃ断器補助コイルの抵抗値測定及び目視確認の結果、異常の無いことを確認した。また、電動動作確認において正常に動作することを確認した。
+（ｂ）制御回路の補助接点の接触抵抗を測定した結果、異常が無いことを確認した。
+ｄ．投入バネ蓄勢回路
+（ａ）蓄勢用モータのコイル及び回路全体の抵抗測定、目視確認の結果、異常が無いことを確認した。また、動作確認を行い異常の無いことを確認した。
+（ｃ）投入バネの取付状態・形状ともに異常の無いことを確認した。また、投入操作により、動作確認及びバネ蓄勢時間の測定を行い異常の無いことを確認した。
+ｅ．リンク機構
+（ａ）外観点検及び動作確認において、傷、変形、異音等の異常が無いことを確認した。
+（ｂ）現地において、投入ラッチのかかりが通常より深いことを確認したが、工場にて投入ラッチのかかり寸法を測定した結果、管理値以内であり、異常の無いことを確認した。
+（ｃ）工場において、グリース塗布状態を確認した結果、塗布状態は良好であるが、リンク機構部のグリースに変色が確認された。　
+（ｄ）電動・手動にてしゃ断器の投入操作を実施し、動作に異常の無いことを確認した。
+　なお、工場において、電動投入操作時のしゃ断器投入時間を測定（１０回測定）したところ、初回の２回管理値を外れたが、その後管理値内となる事象が確認された。
+（ｅ）工場において、リンク機構部のグリースの変色が確認されたことから、リンク機構の各部のグリースの劣化度合い（拡がりちょう度，酸化劣化度）を調査した結果、しゃ断器の閉動作に影響を及ぼす部位である投入ラッチ部、角シャフト部のグリースが劣化しており、劣化度合いからも開閉に影響を及ぼす値であることが確認された。
+　なお、トリップラッチ部のグリースについても劣化が確認されているが、トリップラッチは正常に動作し、トリップ動作に影響を与えるものでないことを確認した。
+　また、グリースの補充は現地の点検時（１回／４定検）に実施しているが、リンク機構部のグリースの交換は工場でしか実施できないため、当該しゃ断器のグリース交換は製造以降行っていない。　
+（ｆ）しゃ断器を分解し、リンク機構の主要部品の寸法測定をした結果、判定基準内であり、製作上の異常が無いことを確認した。
+ｆ．引き外し（５２ＴＣ）回路
+（ａ）引き外しコイル及び回路全体の抵抗測定、目視確認の結果、異常が無いことを確認した。
+また、動作確認を行い異常の無いことを確認した。
+ｇ．その他の接点
+（ａ）リミットスイッチ（ＬＳ，ＭＳ）、インターロックスイッチ（ＩＳ）の接触抵抗測定を行い、異常の無いことを確認した。
+（ｂ）現地において、しゃ断器（５２）補助スイッチの取付位置が幾分ずれていることが確認されたが、工場にて取付角度を測定したところ、管理値内であり、異常の無いことを確認した。
+　また、接点の接触抵抗測定を行い、異常の無いことを確認した。
+ｈ．絶縁抵抗測定
+制御回路の絶縁抵抗測定を行い、異常の無いことを確認した。　　
+ｉ．しゃ断器単体動作確認
+（ａ）電動および手動にて、しゃ断器単体の動作確認を実施したところ、異常の無いことを
+確認した。
+（ｂ）投入・引外しの最低動作電圧を測定した結果、引外し時の最低動作電圧については、
+異常が確認されなかったが，投入時の最低動作電圧の確認を実施したところ、バラツキがあり，管理値を外れていることが確認された。
+また、工場においても、管理値を外れていることが確認された。
+これらは、リンク機構の外観点検及び動作確認において傷、変形、異音等の異常が無かったこと、及びリンク機構のグリースの劣化が確認されたことから、グリースの劣化により動作時の摩擦が増加した影響と考えられる。
+ｊ．操作員の誤操作の可能性
+　受電しゃ断器の投入操作は、当直長及び当直副長立会のもと実施しており、同期検定器のシンクロ速度についても十分遅い速度にてしゃ断器の投入操作を実施していることから、操作に問題ないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>3175</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2006/02/09 17:06:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　定格熱出力一定運転中のところ，平成１７年８月６日午前１１時頃，高圧炉心スプレイ系ディーゼル発電機（以下，「ＨＰＣＳ　Ｄ／Ｇ」という。）の定例試験を実施するため、ＨＰＣＳ　Ｄ／Ｇを起動した後、非常用母線への併列操作のためＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器を投入操作を実施したが併列できなかった。その後、当該操作を数回実施したが、当該しゃ断器が投入されないことが確認された。
+　このため、当直長は、同日午前１１時１１分、ＨＰＣＳ　Ｄ／Ｇは動作不能であり、保安規定第６０条に定める運転上の制限を満足していないと判断した。
+　その後、しゃ断器を予備品と交換し，受電用しゃ断器が正常に投入できること及び当該Ｄ／Ｇの運転状態に異常のないことを確認したことから、８月９日午後３時３２分運転上の制限内への復帰を判断した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3270</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/08 09:49:57]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200508061111]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[本事象の原因として、グリースの劣化が推定されたことから、以下の対策を実施する。
+（１）ＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器と交換した予備のしゃ断器について、平成１１年７月にグリースの交換が終了していることを確認した。
+（２）当該しゃ断器が設置されているＨＰＣＳ電源盤の他の同種しゃ断器については次回定検時に、また、念のため、ＨＰＣＳ電源盤で開放状態にある同種のしゃ断器（ＨＰＣＳポンプ用しゃ断器）をグリース交換したしゃ断器と交換する。
+（３）他の電源盤（常用系）に設置している当該しゃ断器と同種のしゃ断器については、早期にグリースの交換を実施するよう、分解点検の計画を再検討する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/02/09 17:06:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　１号機は、定格熱出力一定運転中のところ，平成１７年８月６日午前１１時頃，高圧炉心スプレイ系ディーゼル発電機（以下，「ＨＰＣＳ　Ｄ／Ｇ」という。）の定例試験を実施するため、ＨＰＣＳ　Ｄ／Ｇを起動した後、非常用母線への併列操作のためＨＰＣＳ　Ｄ／Ｇ受電用しゃ断器を投入操作を実施したが併列できなかった。その後、当該操作を数回実施したが、当該しゃ断器が投入されないことが確認された。
+　このため、当直長は、同日午前１１時１１分、ＨＰＣＳ　Ｄ／Ｇは動作不能であり、保安規定第６０条に定める運転上の制限を満足していないと判断した。
+　その後、しゃ断器を予備品と交換し，受電用しゃ断器が正常に投入できること及び当該Ｄ／Ｇの運転状態に異常のないことを確認したことから、８月９日午後３時３２分運転上の制限内への復帰を判断した。
+　なお、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-M024]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　リンク機構部のグリースは現地点検時(１回／４定検)に補充しているが、リンク機構内部のグリースまでは交換できないため、グリースの劣化が進行し、しゃ断器の閉動作に影響を及ぼす部位である投入ラッチ部、角シャフト部の動作時の摩擦が大きくなったことから、しゃ断器投入コイルの動作力で投入ラッチを外すことができず、しゃ断器が投入されなかったと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所１号機高圧炉心スプレイ系ディーゼル発電機の定例試験時における不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限の逸脱を判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1106</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/08 15:11:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+			<TROUBLE_ID>3175</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[６０００Ｖ級遮断器（Ｍ／Ｃ）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[高圧炉心スプレイ系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[108]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[108]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>3175</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3175</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>3175</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>3175</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

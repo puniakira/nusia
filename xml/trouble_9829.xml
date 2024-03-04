@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9829</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/29 15:32:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4234</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/06/25 10:19:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20080624]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/10/29 15:32:35]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生時の状況】
+　平成２０年６月１８日、定格熱出力一定運転中の５号機において、パトロール中の当社社員がタービン建屋２階（放射線管理区域）の高圧第２給水加熱器（※１）付近の床面に水たまり（約１０ｃｃ）を発見した。
+　漏えい箇所を調査したところ、高圧第２給水加熱器の出口給水サンプリング（※２）配管第２元弁の弁蓋から水が滴下していることを確認した。
+　このため、当該サンプリング配管の使用を停止し、当該弁とその上流側の第１元弁を閉弁し現場の確認を行ってきた。
+　にじみ程度の漏えい（３～４時間に１滴程度）が継続していることから、６月２４日より、現場パトロールによる確認に加え、カメラによる監視強化を実施することとした。
+　なお、滴下水は容器で回収している。
+
+　漏えい水の放射能量は、分析結果から約６ベクレルで、国への報告基準である３７０万ベクレル（※３）の約６０万分の１であった。
+　
+　本事象による外部への放射能の影響はなかった。
+
+【原因】
+　当該弁を分解点検した結果、弁蓋のパッキンにゆがみが見られたことから、弁蓋の片締めにより漏えいが生じたものと推定した。また、当該弁は運転開始後に分解点検を実施していないことから、弁蓋の片締めはメーカ工場制作時に生じたものと推定した。
+
+【対策】
+　当該弁と同一メーカで制作された同じ仕様の９弁について、弁蓋の締め付けトルクの確認ならびに、弁蓋と弁本体の隙間測定を実施し、片締めとなっていないことを確認した。
+
+
+※１　給水加熱器は、熱効率を向上させるために、原子炉への給水を加熱する装置で、加熱はタービンから抽出した蒸気（抽気）により行う。
+　なお、給水加熱器には高圧給水加熱器（２段２系列）と低圧給水加熱器（４段３系列）がある。
+
+※２　給水の水質を測定するため、高圧第２給水加熱器の出口から給水をサンプリングしている。
+
+※３　国への報告基準である３７０万ベクレルは、原子力安全・保安院がホームページに掲載している「平成19･06･08原院第１号 実用発電用原子炉の設置、運転等に関する規則第１９条の１７及び研究開発段階にある発電の用に供する原子炉の設置、運転等に関する規則第４３条の１４の運用について（内規）」によると、「管理区域内の放射線管理の観点からは非常に低い数値であり、通常の管理区域内の作業状況からはこの放射能量で有意な被ばくが発生することは考えられないが、管理区域内でも極力被ばくを低減させることが望ましいとの観点から採用している。」とされている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中部-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高圧給水加熱器出口サンプリング元弁の監視強化について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/06/27 10:36:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

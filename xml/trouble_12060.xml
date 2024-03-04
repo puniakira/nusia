@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12060</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/08/27 09:40:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2014/06/12 14:10:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201406111521]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/08/27 09:40:04]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成26年6月11日15時21分頃、福島第二原子力発電所事務本館の火災警報が発報し、厚生棟３階の動力制御盤から煙が発生していたことを当社社員が確認したため、15時32分に消防署へ通報した。
+15時46分に消防署の緊急車両が入構し、消防署員による現場確認の結果、16時52分に火災ではないと判断された。
+
+１．調査結果
+調査の結果、以下のことが判明した。
+・動力制御盤内の制御用変圧器のコイルは、絶縁紙がニスで塗り固められ薄茶色に仕上げられているが、その一部が黒く焦げ表面には亀裂があったこと。
+・当該制御用変圧器のコイルの側面から出ているケーブルの被覆材や内部のニス等が熱により溶け出していたこと。
+・当該制御用変圧器の周辺に可燃物等はなく、焦げ跡もなかったこと。
+・発煙は一時的なものであり、自然に解消したこと。
+・発煙後も当該制御用変圧器に接続するブレーカーは落ちておらず、発煙確認後に当該制御用変圧器の電流・電圧・絶縁抵抗等を測定した結果、いずれの値も正常値であったこと。
+２．推定原因
+以上の調査結果から、製造時のコイルの微少な傷や被覆材の経年劣化により、当該制御用変圧器のコイル内の隣り合う電線が短絡し、その際、高熱を発してコイル自体が焦げるとともに、コイルを構成している電線の被覆材等が溶け出したことにより発煙に至ったものと推定した。
+なお、発煙後も当該制御用変圧器が機能を維持していたことについては、発熱で溶解したニス等が短絡した箇所に流れ込み、隣り合う電線の絶縁性が復元されたことによるものと推定した。
+３．対策
+当該制御用変圧器について、新品に取り替える。
+なお、その他の制御用変圧器については、目視点検を実施し、コイル表面の変色や亀裂の有無を確認するとともに、点検でそれらが認められた場合は新品への取り替えを実施する。
+
+以上]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-東京-S028]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所事務本館厚生棟３階の動力制御盤からの発煙について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/06/13 15:13:45]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

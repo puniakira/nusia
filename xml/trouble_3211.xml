@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3211</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/08/24 19:06:21]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3290</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/23 18:07:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200508191145]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成17年８月19日午前11時27分頃、当所集中環境施設雑固体廃棄物減容処理建屋＊１付近の屋外において、高温焼却炉設備＊２に燃料を供給するための燃料供給ポンプの軸封部＊３から重油が漏れていることを、パトロール中の委託運転員が発見した。ただちに、高温焼却炉を停止し当該ポンプを自動停止させ、午前11時31分、油の漏えいが停止したことを確認した。
+当該軸封部の調査の結果、軸封部の部品に摺動傷、欠陥、変形等は見られなかった。
+このため、軸封部からの漏えいの原因を検討した結果、何らかの原因で当該軸封部の部品に使用されているスプリングの押し付け力が弱まったため、シール面の隙間が広がったことから漏れたものと推定している。
+なお、当該軸封部については新品に交換する。
+
+漏れた量は約210リットルで、防油堤内で溜まっており、仮設ポンプにより回収・処理した。
+これによる外部への放射能の影響はなかった。
+
+以　上
+
+＊１　集中環境施設雑固体廃棄物減容処理建屋
+　　　　発電所で発生する雑固体廃棄物を高圧圧縮、高温焼却することで減容するための施設を収めた建物。
+＊２　高温焼却炉設備
+　　　　不燃性の雑固体廃棄物を約1450℃の高温下で焼却、溶融処理し、容積を約１／５に減容する設備。
+＊３　軸封部
+　　　　ポンプ内部の油が軸を通してポンプ外部に出ないようにするために設けられている部分。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S043]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高温焼却炉設備用燃料供給ポンプの軸封部からの油漏れについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/24 19:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

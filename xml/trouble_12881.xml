@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12881</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/02/05 13:33:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>80089</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/11/01 11:00:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201810260808]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/02/05 13:33:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2018年10月26日8時08分、浜岡原子力発電所5号機の中央制御室に補助建屋地下1階での漏えいを示す警報が点灯した。このため当社社員が確認したところ、補助建屋地下1階HCW(※1)濃縮装置(B)室に約0.25リットル、隣接する中和装置室に約2リットルの水たまりを発見した。
+　発見した水の表面汚染密度を測定したところ、検出限界未満であることを確認した。その後の詳細分析において、ごく微量の放射能が検出されたが、水たまりが発見された2室が属する放射線管理区域の管理基準値を十分下回る放射能濃度であることを確認した。
+　また、本事象による外部への放射能の影響はなかった。
+
+　調査した結果、HCW濃縮装置(B)下流側の配管に接続している手動弁について、通常開いているものが閉まっていることを確認した。
+　当該手動弁が閉まっていたことにより、HCW濃縮装置(B)で発生した蒸気が本来の処理の流れとは異なり空調ダクトに流入し、ダクト内で蒸気が凝縮するとともにダクトの開口部から滴下し、水たまりができたものと推定した。
+　また、当該手動弁については、2018年5月に点検のために閉めたことを確認しており、その後、2018年7月に点検を終了した際に開けていなかったものと推定した。
+　なお、本来の処理の流れとは異なり蒸気が流入した箇所について、異常のないことを確認した。
+
+(※1)高電導度廃液処理系のことであり、放射線管理区域内の作業等で発生する廃液のうち、導電率の高い廃液を収集・処理する系統である。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-中部-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[補助建屋地下1階における水たまりの発見]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/11/01 11:00:29]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8534</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/11/14 15:08:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3631</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/11/13 11:40:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611021008]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の１１月２日、国が立会う非常用予備発電装置機能検査において、非常用ディーゼル発電機を模擬信号にて起動させ、非常用設備※１が自動起動することを確認していたところ、「Ａ－安全補機開閉器室空調ファン※２」（以下Ａ－空調ファンという）及びＡ－空調ファンの起動を受け作動する「Ａ－安全補機開閉器室循環ファン※３」（以下Ａ－循環ファン）が自動起動しなかったため、当該検査を中断し、点検を行った。
+
+点検の結果、Ａ－空調ファンの起動には、空調系統に設置されているダンパ※４が閉止している必要があるが、ダンパと駆動部との調整不足のため、閉止位置にズレが生じていた。このことから、ダンパは閉止していたものの駆動部に接続されている閉止検出装置で閉止が検知されず、Ａ－空調ファンが自動起動しなかったものと推定された。
+その後、当該ダンパと駆動部との位置調整を行い、１１月８日に再度、非常用予備発電装置機能検査を実施し、問題がないことを確認した。
+
+今後は、これまで実施していたダンパと駆動部の全開位置調整に加え、全閉位置調整を行なうこととした。
+
+なお、本事象により定期検査工程を見直した結果、原子炉起動日が当初予定より４日間遅れることになった。
+
+  ※１  高圧注入ポンプなど事故発生時にプラントを安全に停止させるための機器。これらの機器の運転を補助する安全補機開閉器室空調ファンや安全補機開閉器室循環ファンも含まれる。
+  ※２  非常用設備の電源スイッチ（開閉器）などを設置している部屋の換気、冷暖房を行うためのファン。
+  ※３  安全補機開閉器室空調ファンの補助用ファン。
+  ※４  空調用ダクト内の空気の流れを止めるための機器。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-関西-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用予備発電装置機能検査中の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/11/14 15:05:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

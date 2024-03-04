@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[原子炉の出力状況、他のＳＲＮＭの指示変動、関連パラメータを確認した結果、約５００cpsは妥当であり、フローユニット ch.「Ｄ」試験時にのみＳＲＮＭ ch.「Ｄ」の指示値が上昇したことについて、要因分析図に基づき点検調査を実施した。
+
+１）再現試験
+フローユニット ch.「Ｄ」内モードスイッチを定期試験時と同様に「動作」より「内部試験」に切り替えるとＳＲＮＭ ch.「Ｄ」の指示が上昇し、モードスイッチを「動作」に戻すとＳＲＮＭ ch.「Ｄ」の指示が正常値に復帰したこと、ＳＲＮＭ計測制御装置の点検結果に異常はなく、自己診断による警報も発生していないことから、フローユニットのモードスイッチ操作からの影響有無について再現試験を実施した。
+その結果、フローユニット ch.「Ｄ」のスイッチ操作時のみ事象が再現し、ch.「Ａ」，「Ｂ」，「Ｃ」の各チャンネルについては事象の発生は見られなかった。
+
+２）フローユニットch.「Ｄ」の不良
+a.フローユニットch.「Ｄ」電源装置による影響
+電源装置に異常が発生し、ノイズが発生していることでＳＲＮＭ ch.「Ｄ」に影響を与えている可能性が考えられたため、出力電圧の測定、リップル※４の測定を実施した結果、出力電圧値、リップルとも許容範囲内にあり機能に異常なかった。
+しかし、当該電源装置から電源ノイズが発生し、フローユニットのスイッチ操作時にＳＲＮＭ ch.「Ｄ」のＭＳＶ※５中性子束の表示値に影響を与えている可能性がある。
+
+※４：交流を直流へ変換した際の波形に残る交流成分の度合いをＶp-pであらわす。
+※５：平均実効電圧。ＢＷＲのＳＲＮＭの中間領域において中性子束を表す名称。中性子源領域では表示は０となる。（Mean Square Voltage）
+
+b.フローユニットch.「Ｄ」アースラインの不良
+アースラインの接続不良により、ノイズが発生していることでＳＲＮＭ ch.「Ｄ」に影響を与えている可能性が考えられたため、接続状況の調査を実施した結果、アースラインに接続不良がないことを確認した。
+また、各フローユニットとＳＲＮＭｃｈ．「Ｃ」、「Ｄ」、「Ｇ」、「Ｈ」は列盤であり、アース線を共有している事を確認した。
+
+c.フローユニットch.「Ｄ」モードスイッチ不良
+モードスイッチ本体、ケーブル接続状態に異常が発生し、ノイズが発生していることでＳＲＮＭ ch.「Ｄ」に影響を与えている可能性が考えられたため、外観目視、触手による調査を実施した結果、スイッチにガタやケーブル接続不良は見られないことを確認した。
+
+d.フローユニットch.「Ｄ」及びＳＲＮＭ ch.「Ｄ」ケーブルの混触
+信号ケーブルの混触によりノイズが発生していることでＳＲＮＭ ch.「Ｄ」に影響を与えている可能性が考えられたため、信号ケーブルの布設方法を可視範囲にて調査した結果、それぞれは独立して布設されており、混触はないと判断した。
+
+３）ＳＲＮＭ ch.「Ｄ」の不良
+a.ＳＲＮＭ計測制御装置の設定値異常
+ＳＲＮＭ計測制御装置の警報、トリップ等各設定値が異常となり、指示値に変動を生じた可能性が考えられたため、ＳＲＮＭ計測制御装置表示部より設定値確認を実施した結果、各設定値は正常であった。
+
+b.ＳＲＮＭ計測制御装置の演算回路異常
+ＳＲＮＭ計測制御装置の演算回路が異常となり、指示値に変動を生じた可能性が考えられたため、自己診断機能による回路確認を実施した結果、回路は正常であった。
+　
+c.ＳＲＮＭ検出器およびケーブルの接続異常
+ＳＲＮＭ検出器およびケーブルの接続状態に異常が発生し、指示値に変動を生じた可能性が考えられたため、現場の前置増幅器入力ケーブルより原子炉格納容器（ＰＣＶ）内検出器側の絶縁抵抗測定、ＴＤＲ測定※５を実施した結果、絶縁抵抗測定値、ＴＤＲ測定値ともに正常であった。
+
+※５：時間領域反射測定。高周波伝送線路のインピーダンス分布測定をいう。
+
+d.ＳＲＮＭ計測ループ特性不良
+ＳＲＮＭ計測ループに特性不良が発生し、指示値に変動を生じた可能性が考えられたため、現場の前置増幅器より模擬信号を入力し、ＳＲＮＭ計測制御装置の入出力特性を採取した結果、特性は正常であった。
+
+e.ＳＲＮＭ計測制御装置ＭＳＶオフセット値の不良
+オフセット値の確認を実施した結果、当該ch.「Ｄ」のほか、ＳＲＮＭ計測制御装置全チャンネルのオフセット値は前回定検時に設定した値と同じであった。
+しかしながら、ＳＲＮＭ計測制御装置の計数率指示値の他にＭＳＶ表示を確認した結果、原子炉冷温停止状態時は計数率表示であり、表示「０」であるべきところ、ＳＲＮＭch.「Ｄ」にてオフセット値を超えて表示されていた。
+調査の結果、本来停止直後に実施すべきＭＳＶオフセット値の適正化を実施していなかった。
+その結果、ＳＲＮＭの１サイクルの運転によって原子炉停止後のバックグランドが上昇するためＭＳＶ中性子束が上昇し、検出器の感度の通常のバラつきによりＳＲＮＭ ch.「Ｄ」のみオフセット値を超えたと考えられる。
+その他のch.ではオフセット値を超えなかったためＭＳＶの表示はなかった。
+
+４）信号系へのノイズ混入
+ＳＲＮＭ ch.「Ｄ」およびフローユニットch.「Ｄ」の前置増幅器、ケーブルルート付近において、溶接、電動工具使用などのノイズ発生作業が実施されていることで、ＳＲＮＭ ch.「Ｄ」およびフローユニットch.「Ｄ」に影響を与えている可能性が考えられたが、作業予定表の確認及び聞き取り調査を実施しノイズ発生作業は実施されていないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10542</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/11/06 20:30:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[ＳＲＮＭ ch.「Ｄ」の指示値の信頼性が確認できないことから、保安規定第２７条に定める運転上の制限の逸脱を宣言した。
+その後、ＳＲＮＭは動作可能であるべきチャンネル数は片系で４チャンネルであるが、そのうち１チャンネルはバイパスすることが許容されているため、当該ＳＲＮＭ ch．「Ｄ」をバイパスしたことにより、運転上の制限を満足する状態に復帰した。
+
+平成２１年８月１１日　１２時５５分運転上の制限を満足していないと判断（運転上の制限逸脱を宣言）
+平成２１年８月１１日　１３時１７分運転上の制限逸脱解除を宣言
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4549</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/09/02 11:46:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908111205]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１）フローユニットch.「Ｄ」の電源ユニット取替
+フローユニットch.「Ｄ」にて、モードスイッチ操作時の負荷入り切り時にノイズが発生することが確認された電源ユニットについて、予備品に交換した。
+交換後、フローユニットch.「Ａ」から「Ｄ」のモードスイッチ切り替えを順次実施し、ＳＲＮＭ ch.「Ｄ」の指示値に変化が無いことを確認した。
+ch.「Ｄ」以外のフローユニットについては、１）の再現試験で事象の発生が無かったことから、健全であると考える。
+
+２）オフセットの適正化
+フローユニットch.「Ｄ」の電源装置交換によりノイズの影響は除去されたが、オフセット値は燃料交換後のバックグランドが低い状態での設定になっており、照射が進んだ現在の炉心に対応したオフセット値に適正化した。なお、ＳＲＮＭ ch.「Ｄ」以外についても同様に適正化を実施した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/11/06 20:30:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　原子炉冷温停止中のところ、平成２１年８月１１日１２時５分より中性子計装系の定期試験※１を開始し、原子炉再循環流量フローユニット※２（以下、「フローユニット」という）チャンネル（以下、「ch．」という）「Ｄ」の試験のためにバイパス選択スイッチを「バイパス」にしたのち、フローユニットch.「Ｄ」のモードスイッチを「動作」から「内部試験」にした。
+スイッチ操作と同時に、「ＳＲＮＭ　ＰＥＲＩＯＤ　ＥＦＦＥＣＴＩＶＥ」（ＳＲＮＭペリオドトリップ領域に到達）警報が発信するとともに、起動領域モニタ（以下、「ＳＲＮＭ」という）計装ch．「Ｄ」の指示値が中性子源領域の約５００cpsから、中間領域のＳＲＮＭレンジ「１」※３の１４％まで上昇したことを１２時４８分頃、確認した。
+　このため、ＳＲＮＭ ch.「Ｄ」の指示値の信頼性が確認できないことから、発電長は１２時５５分、保安規定第２７条に定める運転上の制限を満足していないと判断した。
+　ＳＲＮＭは動作可能であるべきチャンネル数は片系で４チャンネルであるが、そのうち１チャンネルはバイパスすることが許容されているため、１３時１７分、当該ＳＲＮＭ ch．「Ｄ」をバイパスしたことにより、運転上の制限を満足する状態に復帰した。なお、１２時５３分、フローユニットのモードスイッチを「内部試験」から「動作」に戻したところ、ＳＲＮＭの指示は事象発生前と同じ指示値である約５００cpsに復帰した。
+　なお、本操作において上記以外の警報発報、関連パラメータの変動は無かった。
+※１：炉心に燃料が装荷されている場合、起動領域計装系試験を1ヶ月に1回実施。
+また原子炉起動予定の1週間以内に実施する試験。
+※２：フローユニットはＡ，Ｂ，Ｃ，Ｄの４チャンネルあり、ＡおよびＢ原子炉再循環ループ流量信号を受け、出力領域計装での制御棒引き抜き阻止および原子炉保護系トリップ設定値等のための基準信号を供給する。
+※３：中間領域では測定レンジをオーバーラップさせながら１０分割している。レンジ「１」は最初の測定レンジである。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回の事象について、２．点検調査の結果からフローユニット ch.「Ｄ」のモードスイッチを「動作」より「内部試験」に切り替えるとノイズが発生すること、ＳＲＮＭ ch.「Ｄ」のＭＳＶ出力がフローユニット ch.「Ｄ」のモードスイッチ操作前からオフセット値を超えて表示する不安定な状態であったことが判明した。
+このため、今回の原因はフローユニット ch.「Ｄ」電源ユニットからのノイズの発生及び停止直後に実施すべきＭＳＶオフセット値の適正化を実施していなかったためであり、以下の状況で事象が発生したと考えられる。
+
+1)フローユニットch.「Ｄ」の電源装置のモードスイッチ操作により、フローユニット電源装置からノイズが発生した。
+2)アースラインを通してＳＲＮＭ ch.「Ｄ」の検出器からの正規のＭＳＶ中性子信号にノイズが重畳した。
+3)原子炉の低出力の中性子源領域にも拘らず、オフセット値を超えてＭＳＶ値を表示する状態にあったＳＲＮＭ ch.「Ｄ」のＭＳＶ指示値が上昇し、記録計レンジが中間領域へ移行した。
+4)「ＳＲＮＭ　ＰＥＲＩＯＤ　ＥＦＦＥＣＴＩＶＥ」警報設定値を超えて警報が発報すると共に、指示値が中間領域のＳＲＮＭレンジ「１」の１４％まで上昇した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[起動領域モニタチャンネル「Ｄ」指示不良による運転上の制限の逸脱および解除について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/02 16:47:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+			<TROUBLE_ID>10542</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[402]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[中性子検出器]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[714]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[714]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[核・放射線モニタ装置]]></KIKI_NAME>
+					<SORT_NO>25</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[核計装系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[124]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[124]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10542</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10542</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10542</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10542</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

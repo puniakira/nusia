@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）当日の運転状況の確認
+　ＨＰＣＳポンプ入口弁が自動的に切替わった原因を究明するため、運転員に確認したところ、本日１０時５０分頃低圧炉心スプレイ系（ＬＰＣＳ）ポンプの手動起動試験中（停止のための流量低下操作中）において、中央制御室にて警報「ＨＰＣＳ　Ｓ／Ｐ　ＬＥＶＥＬ　ＨＩＧＨ」（設定値＋１２．７ｃｍ：ＨＰＣＳポンプ入口弁切替インターロックあり）が発報し、即消灯していることが確認された。また、この警報が発報した時点において、運転員は、中央制御室表盤（Ｈ１３－Ｐ６０１）記録計のサプレッションプール水位指示が－１．０ｃｍで変化がないこと、ＨＰＣＳポンプ入口弁の開閉表示に変化がないことを確認し、その後、ＬＰＣＳポンプの定期試験を継続していることも確認された。
+　警報発報時、運転員は、ポンプ入口弁の開閉表示が通常の状態であることを確認したとのことであったが、１７時０５分頃の運転員による中央制御室巡視点検において、ポンプ入口弁が切替わっていたことを確認したことから、警報発報直後に弁の開閉表示が切替わった可能性が高い。
+（２）中央制御室サプレッションプール水位記録計の確認
+　中央制御室のサプレッションプール水位記録計を確認した結果、警報「ＨＰＣＳ　Ｓ／Ｐ　ＬＥＶＥＬ　ＨＩＧＨ」発報と同時刻頃、中央制御室裏盤（ＣＰ－５）内記録計（検出器は、ＬＰＣＳポンプ室に設置）にスパイク状の変化が確認されたが、中央制御室表盤（Ｈ１３－Ｐ６０１）内記録計（検出器は、残留熱除去系ポンプ（Ｃ）室に設置）にはスパイク状の変化は確認されなかった。また、ＬＰＣＳポンプの定期試験後頃からいずれのサプレッションプールの水位記録計とも漸減傾向であることが確認された。
+（３）打振確認
+　Ｓ／Ｐ水位検出器は基準面器とＳ／Ｐ実水位との差圧より水位に変換しているが、指示範囲１ｍ（－５０ｃｍ～＋５０ｃｍ）に対しその差圧は約０．０１ＭＰａ（０．１ｋｇ／ｃｍ＾２ｇ）と低い。このような検出器では、検出器、検出配管に振動・加振が与えられると検出器より誤信号が出力されることが考えられることから、各水位検出器の計装配管について打振試験を実施した。この結果、配管打振箇所の一部で水位指示が変動し警報「ＨＰＣＳ　Ｓ／Ｐ　ＬＥＶＥＬ　ＨＩＧＨ」が発報することを確認した。なお、計器本体、弁及び制御盤内リレーの打振試験については、異常は認められなかった。
+（４）電気的ノイズ発生有無の確認
+　各計器の電源は独立しており、警報発生当時電源ショックもなく、ＬＰＣＳポンプ室及び残留熱除去系（Ｃ）ポンプ室近傍で溶接等電気ノイズが発生する作業は行われていなかった。
+（５）水位検出器の確認
+　Ｓ／Ｐ水位警報用検出器及びＨＰＣＳポンプ入口弁切替用Ｓ／Ｐ水位検出器の外観目視点検を実施した結果、異常は認められなかった。
+（６）聞き取り調査
+　打振確認において警報の発報が認められたため、事象発生当時、当該水位検出器が設置されているＬＰＣＳポンプ室に立ち入っていたＬＰＣＳポンプの手動起動試験の現場確認者２名、振動測定者２名について聞き取り調査を行ったが、ＬＰＣＳポンプ室にある計装配管に接触した記憶がある者はいなかった。
+　また、当日の作業を確認した結果、計器が設置されているＬＰＣＳポンプ室、残留熱除去系（Ｃ）ポンプ室における作業は、ＬＰＣＳポンプ手動起動試験以外は実施されていなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2089</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 17:59:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2710</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200110251705]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）誤信号発生に対する対応
+［１］当該計装配管については、接触注意喚起表示を行うこととする。
+［２］他系統において、接触の可能性のある計装配管であって、運転操作上重要な監視計器について、接触注意喚起表示を行うこととする。
+［３］次回のＬＰＣＳポンプ手動起動試験時において、ポンプ、計装配管を含めた振動測定等を行い、再確認を行うこととする。
+（２）警報発報時の運転員の対応
+　今回の事例を踏まえ、運転員の基本手引書に基づき、「運転操作及び監視にあたっては運転状況の判断を正しく行なうため、単一計器による状況判断は行わず、関連する系統の運転パラメータも確認する」「表示灯・警報の確認の指差呼称を確実に行なう」ことについて再周知するとともに、基本運転動作励行確認訓練にて反復訓練を行っていくこととする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１３年１０月２５日１７時０５分頃、運転員による中央制御室巡視点検において、サプレッションプール（Ｓ／Ｐ）水位が、１０時５０分頃確認した水位－１．０ｃｍから－３．８ｃｍに低下していること（警報設定値：±４．５ｃｍ保安規定における運転上の制限：－４．７ｃｍ）を発見した。
+　このため、系統の弁の開閉状況を確認した結果、高圧炉心スプレイポンプ（ＨＰＣＳ）の入口弁が、通常復水貯蔵タンク（ＣＳＴ）側の弁が「開」、サプレッションプール側の弁が「閉」のところ、ＣＳＴ側が「閉」、サプレッションプール側が「開」に切替わっていることを確認した。本事象から、連続運転中のＨＰＣＳポンプのレグシールポンプを介してサプレッションプールの水がＣＳＴに移送されていることが推定されたことから、ＨＰＣＳの入口弁を通常状態（ＣＳＴ側を「開」、サプレッションプール側を「閉」）に復旧した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2001-原電-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）一部の計装配管の打振試験によって水位の変動、警報の発報が確認されたことから、当時、ＬＰＣＳポンプ室に入室していた者の接触により誤信号を発生させた可能性は否定できない。
+（２）警報発報当時、中央制御室の運転員は、ＬＰＣＳポンプ停止に係る一連の操作に専念していた。警報発報直後、中央制御室のＨＰＣＳポンプ入口弁の表示を一瞬確認しただけで切り替りがないと判断し、サプレッションプールの水位も中央制御室表盤（Ｈ１３－Ｐ６０１）のサプレッションプール記録計指示に変化がなかったため当該警報を誤警報と判断してしまったこと、またその報告に対して上職者のフォローが不十分となったことから、ＨＰＣＳポンプ入口弁の切り替わりを見過ごすこととなった。
+　この結果、ＨＰＣＳポンプ入口弁が切り替わったことの確認がされない状態となり、サプレッションプールの水がＨＰＣＳレグシールポンプを介してＣＳＴに移送され、サプレッションプールの水位が低下したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[サプレッションプール水位の一時的な低下について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 17:59:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>2089</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2089</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2089</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉格納容器]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[145]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[145]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2089</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2089</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2089</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

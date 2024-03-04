@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3189</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/11/16 22:18:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3278</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/08/15 09:41:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200508011145]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/11/16 22:18:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　５号機は定格熱出力一定運転中のところ、平成17年８月１日午前11時45分頃、非管理区域に設置された運転中の所内ボイラ（Ａ）の定期的な水質測定を実施したところ、微量の放射性物質＊１（コバルト60およびマンガン54）が検出された。
+　なお、当該所内ボイラについては、本事象が確認されたことから停止した。
+　これによる外部への放射能の影響はなかった。
+
+　その後、当該所内ボイラの蒸気供給先である５・６号機の各ポイントにおいて放射能測定を行ったところ、５号機廃棄物処理建屋内で使用した蒸気を所内ボイラへ戻すために設けられた回収タンク、および廃液濃縮器の加熱蒸気配管に設けられた排水器で微量の放射性物質が検出された。
+
+　所内ボイラから微量の放射性物質が検出された原因は、廃液濃縮器の加熱蒸気のサンプリングを行う際、廃液濃縮器からの蒸気を凝縮させた水をサンプリングする配管が汚染していたところに、その汚染配管の一部共有部分を使用して水張りを行ったことから、汚染した水が加熱蒸気のサンプリング配管から排水器、回収タンクを通じて所内ボイラに持ち込まれたためと推定した。
+　対策として、加熱蒸気のサンプリング配管と廃液濃縮器復水器からの凝縮水のサンプリング配管を分離した構造に改造する。
+　なお、放射性物質が検出された箇所については洗浄を行い、放射能が検出されないことを確認した。
+
+＊１　微量の放射性物質
+　測定結果は以下のとおり。
+・コバルト60：7.7×10＾-３ベクレル/cm＾３（検出限界値：7.5×10＾-３ベクレル/cm＾３）
+・マンガン54：8.5×10＾-３ベクレル/cm＾３（検出限界値：5.9×10＾-３ベクレル/cm＾３）
+
+＊２　廃液濃縮器からの蒸気
+　廃液濃縮器から廃液濃縮器復水器に入る蒸気には、微量の廃液が混入することがある。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S034]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[所内ボイラの定期的な水質測定における微量な放射性物質の検出について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/08/17 18:41:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

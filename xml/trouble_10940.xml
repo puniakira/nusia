@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．漏えい燃料集合体の調査　　　　　　　　　　　　　　　　　　　　　　　　　　
+漏えい燃料集合体を特定し原因究明を行うため、炉心から取り出した燃料集合体について以下の検査および調査を行った。
+
+（１）燃料集合体シッピング検査
+　燃料集合体からの放射性物質の漏えいの有無を確認するため、燃料集合体全数（１２１体）について燃料集合体シッピング検査を実施した。
+　その結果、KABA10 、KABC13の燃料集合体２体（いずれもA型燃料集合体）に漏えいがあることを確認した。
+　また、この２体の燃料集合体は原子炉内で隣接した位置に装荷されていた。
+
+【漏えいが確認された燃料集合体】
+　燃料集合体番号　　初期濃縮度（平均）　　燃料集合体燃焼度
+　　KABA10　　　　　　4.0wt%　　　　　　　　36,746　MWd/t（燃焼度制限：48,000 MWd/t）
+　　KABC13　　　　　　4.0wt%　　　　　　　　33,277　MWd/t（燃焼度制限：48,000 MWd/t）
+
+
+（２）燃料集合体外観検査
+　漏えいが確認された燃料集合体２体について、燃料漏えいにつながる異常の有無を確認するため燃料集合体の外観検査を実施した。
+　その結果、２体が隣接する面にある燃料棒３本（KABA10：２本（I-1、L-1）、KABC13：１本（M-14））の第4支持格子下部で、燃料棒表面に傷のようなものが認められた。
+　また、KABA10のL-1燃料棒で傷のようなものを確認した近傍及びKABC13のM-14燃料棒の第５支持格子と第６支持格子の間に白色の模様が認められた。なお、異物は確認されなかった。
+
+（３）超音波による漏えい燃料棒調査
+　漏えいが確認された燃料集合体２体の漏えい燃料棒を同定するため、各燃料集合体のすべての燃料棒について超音波※４による調査を実施した。
+　その結果、漏えい燃料棒２本を同定した。漏えいを同定した２本の燃料棒は、燃料集合体外観検査で傷のようなものを確認した燃料棒と同一であった。
+・KABA10：I- 1（第６支持格子－第７支持格子間で水の浸入を確認）
+・KABC13：M-14（第７支持格子上で水の浸入を確認）
+　なお、外観検査で傷のようなものが確認された燃料棒のうちKABA10のL-1燃料棒については、水の浸入は確認されなかった。
+
+※４：ＵＴプローブを個々の燃料棒を挟み込むように挿入して超音波パルスを発受信させ、燃料棒に水が浸入していれば健全な燃料棒に比べ超音波の受信強度が減衰することで漏えい燃料棒を同定する
+
+（４）ファイバースコープによる燃料棒調査
+　漏えいが同定された燃料棒２本（KABA10のI-1、KABC13のM-14）および漏えいは同定されなかったが傷のようなものを確認した燃料棒１本（KABA10のL-1）について、外観（支持格子内を含む）を観察するため、ファイバースコープを燃料棒間隙に挿入し漏えいにつながる傷や異物等の有無を調査した。
+　その結果、外観検査で確認された白色模様は、KABA10のL-1燃料棒については水の浸入は確認されず二次的な水素化※５特有の膨らみが認められないことから燃料表面のクラッド※６付着むらであると判断した。また、KABC13のM-14燃料棒は、白色模様の部分に膨らみが認められたことから二次的な水素化によるものと判断した。
+　また、外観検査で３本の燃料棒表面で確認された傷のようなものは、ファイバースコープ観察により表面が削り取られたように見えることから傷と判断した。なお、その他の箇所には同様の傷や水素化は観察されなかった。
+また、KABC13の漏えいが同定されたM-14燃料棒に隣接するL-14からL-13燃料棒にかけての第５支持格子内に異物を確認した。
+
+※５：何らかの原因により燃料に１次破損が生じると、冷却水が燃料棒内に浸入して水素が発生する。被覆管は水素を吸収し、１次破損箇所から離れた場所で膨らみが発生する（２次的な水素化）。
+※６：１次冷却材中において、配管等の金属材料の酸化により生じる腐食生成物のうち、水に溶けないで存在する粒子状の金属酸化物の総称。
+
+２．原因調査
+　漏えいが認められた燃料集合体２体について、燃料漏えいが発生する要因について調査した。
+
+（１）運転履歴調査
+　プラント運転中の急激な出力変化に伴う過大な応力発生による燃料棒損傷の可能性の有無を確認するため、漏えいが確認された燃料集合体が装荷されていたサイクル（KABA10：第21、22、24、25サイクル、KABC13：第23、24、25サイクル）の運転履歴調査を行った。
+　その結果、出力分布測定による炉心特性は基準値を満足しており問題のないことを確認した。
+
+（２）１次冷却材水質履歴調査
+　１次冷却材の水質異常による燃料棒の腐食等の可能性の有無を確認するため、漏えいが確認された燃料集合体が装荷されていたサイクル（KABA10：第21、22、24、25サイクル、KABC13：第23、24、25サイクル）運転中の１次冷却材の水質履歴を調査した。
+　その結果、水質が保安規定で定める基準値を満足しており問題のないことを確認した。
+
+（３）燃料集合体取扱い履歴調査
+　燃料集合体取扱い時の他燃料、構造物との干渉等による燃料棒損傷の可能性の有無を確認するため、漏えいが確認された燃料集合体について発電所受入後の取扱い状況を新燃料受取検査記録、新燃料装荷前記録および燃料取扱い時の作業記録により確認した。
+　その結果、各検査記録は社内で定めている判定基準を満足していること、および作業記録に問題のないことを確認した。
+
+（４）製造履歴調査
+　燃料棒製造不良等よる燃料棒の欠陥の有無を確認するため、漏えいが確認された燃料集合体について製造履歴を確認した。
+　その結果、各構成部品毎に定められている判定基準を満足しており問題のないことを確認した。
+
+（５）過去の知見等の調査　　　　　　　　　　　　　　　　　　　　
+ａ．燃料設計面および過去の知見反映の調査
+　燃料設計面の検討に加え、これまでの漏えい原因に係る過去の知見の反映を調査し、以下のことを確認した。
+（ａ）バッフルジェット
+　炉心がアップフロー化されていない場合、バッフルジェットにより燃料集合体の損傷の可能性はあるが、美浜２号機は第１２回定期検査（S63.10～H元.3）においてアップフロー化されていることを確認した。
+
+（ｂ）グリッドフレッティング
+　14×14型燃料集合体は、グリッドフレッティングが発生しない設計であることを確認した。
+
+（ｃ）クリープコラプス
+　燃料棒は、製造時に内部をヘリウムにて適切な値に加圧する設計であること、また焼きしまりの少ないペレットを採用しており対策済みであることを確認した。
+
+（ｄ）燃料棒の水素化
+　過去に製造過程において燃料被覆管表面にニッケルが付着し、水素吸収が大きくなり燃料漏えいに至った経緯があるが、製造過程の変更により燃料棒はスクラッチレスローディングされるため同様の事象は発生しないことを確認した。
+
+（ｅ）異物フレッティング
+　燃料集合体製造時や燃料集合体輸送・取扱い時の異物、または１次冷却材中に混入した異物が燃料集合体に引っかかり、異物フレッティングによる摩耗損傷が発生する可能性がある。
+　燃料集合体外観検査およびファイバースコープによる外観観察により、燃料棒３本（KABA10：２本（I-1、L-1）、KABC13：１本（M-14））の第４支持格子下部で燃料棒表面に傷が認められ、また、KABC13のL-14からL-13燃料棒にかけての第５支持格子内に異物を確認した。
+　燃料集合体の出荷、受け入れ検査において異物混入の有無を確認していることから、燃料集合体の製造時及び輸送時に混入した可能性はないが、発電所での燃料取扱い時または1次冷却材中に異物が混入した可能性があることを確認した。
+
+　以上の調査結果から、発電所での燃料取扱い時または1次冷却材中に混入した異物により異物フレッティングが発生したと考えられるため、異物に関する調査・検討を実施した。
+
+３．異物に関する調査・検討
+　原因調査の結果を踏まえ、以下について異物に関する調査・検討を実施した。
+
+（１）異物の回収
+　ファイバースコープによる調査でKABC13のL-14からL-13燃料棒にかけての第５支持格子内で確認した異物について、使用済燃料ピットのゲート部にて異物飛散防止用ネットを設置したうえでエゼクター方式により回収作業を実施し、異物を回収した。
+　　　　
+（２）異物の寸法・性状に関する調査・検討
+　回収した異物について調査を実施した結果、長さ約22mm、幅約4mm、厚さ約0.3mmのゆるやかに湾曲した板状であり、表面には全体的にスケールが見られ、一部に金属光沢があった。また、成分分析の結果、鉄、クロム、ニッケルが主成分であることからステンレス（SUS304）と考えられる。
+　上記の寸法および成分分析結果から、当該異物は配管等の保温材の外装板（SUS304）の可能性が高いと考えられる。
+また、燃料棒の傷と異物の関係を見るため、模型により異物と傷を合わせたところ、それらの位置がほぼ一致したことから、今回の傷は異物との接触により生じたものと推定した。
+　なお、異物の表面線量当量率は、18mSv/h（at1mで60μSv/h）であったことから、異物は前回定期検査時に混入したものと評価した。
+
+（３）異物混入時期に関する検討　　　　　　
+　漏えい燃料集合体（KABA10、KABC13）の燃料棒の傷の位置はいずれも第４支持格子下部であることおよび隣接する燃料集合体であることを踏まえ、異物混入時期について検討した。
+ａ．運転中の１次冷却材系統からの異物混入
+　運転中に１次冷却材系統から燃料集合体の第４支持格子下部まで異物が混入するためには、下部炉心構造物、燃料集合体下部ノズルフィルター（異物通過可能な穴径約4mm）、第７、６、５支持格子（異物通過可能な径約3.6mm）、燃料棒の隙間（約4mm）を通過する必要があるが、異物の大きさは、長さ約22mm、幅約4mmであり、また曲がりが3mm程度あることから、その可能性は極めて小さい。また、燃料集合体間の隙間（約1mm）も通過する可能性は極めて小さい。
+
+ｂ．定期検査中の燃料取扱い時の異物混入
+　定期検査での燃料取扱い時に異物が混入した可能性が考えられることから、前回定期検査での燃料取出から燃料装荷までの各ステップにおける異物混入の可能性について検討を実施した。
+ア．キャビティ（燃料取扱い時）
+　キャビティの水張り前にはキャビティ内の清掃を実施し、水張り前の最終異物確認を実施していることから、異物が混入する可能性はない。燃料取扱い中は、作業制限や燃料取替クレーンの養生等の異物管理を実施している。ただし、異物がキャビティ上部からキャビティ内へ落下すれば、原子炉容器内への異物混入の可能性は否定できない。また、落下した異物が燃料集合体最外部の第４～５支持格子の間に付着した場合は、燃料集合体間に閉じ込められる可能性がある。
+　なお、前回定期検査期間の燃料取扱い時にキャビティ周辺で実施している作業はないことを確認した。
+
+イ．使用済燃料ピット
+　使用済燃料ピットは、区画し施錠管理されており、また、使用済燃料ピットクレーンも養生等異物管理を実施していることから、燃料集合体に異物が混入する可能性は極めて小さい。
+
+ウ．キャナル（燃料集合体移送装置）
+　燃料移送装置は、使用前の点検において異物がないことを確認しており、異物が混入する可能性は極めて小さい。
+
+以上の検討結果から、前回定期検査のキャビティでの燃料取扱い時に原子炉容器内へ異物が混入し、当該燃料集合体（KABA10またはKABC13）の第４～５支持格子の間に付着した可能性が高いと推定した。
+　なお、今回実施した原子炉容器の底部および下部炉心構造物の点検結果、および前回定期検査時の燃料装荷後の異物確認の結果から、回収された以外の異物の混入はなかったものと評価している。
+
+（４）異物混入経路の調査・検討
+　前回定期検査の燃料取扱い時に異物が混入した可能性が高いと推定されたことから、燃料取扱い中の異物混入経路について調査・検討を実施した。
+ａ．キャビティの異物管理
+　キャビティは、異物管理レベルを最も高いレベルⅠとして管理しており、キャビティ近傍で切粉等が発散する作業を行う場合は、グリーンハウス等により養生を行い、キャビティ水張り前には床面および壁突起物について、十分な清掃や確認を行うこと。また、資機材をキャビティ上で運搬する場合は、資機材・異物等の落下に注意することとしている。また、キャビティ周囲は柵で仕切られ、柵下部も異物が入らないようになっていることを確認した。
+
+ｂ．蒸気発生器囲い壁
+　蒸気発生器囲い壁のキャビティ側の上部には、蒸気発生器点検用の架台（以下、「ＳＧ点検架台」という）があり、ＳＧ点検架台には柵が設置され、床は開口部のあるグレーチングがあるが、燃料取扱い作業時には柵および床ともビニール養生されていることから、ビニール養生上に異物があったとしてもキャビティに落下することは考えられない。
+　しかし、ＳＧ点検架台の床の下部にはキャビティ側に開口があることから、ビニール養生下のグレーチング部に異物があった場合、異物がキャビティに落下する可能性があることを確認した。また、ＳＧ点検架台上の異物確認を実施した結果、グレーチング床の支持部に、保温材の修繕工事に伴い発生したと思われる外装板の切れ端等が残留していることを確認した。
+　また、前回定期検査の燃料取扱い時に、原子炉格納容器内の点検のため、当該架台を人が通行した実績があることを確認した。
+
+ｃ．燃料取替クレーン
+　燃料取替クレーンについては、燃料取扱い前にクレーン上の異物混入、落下防止対策が十分であること、クレーン上に微小な異物がないことをチェックシートにより確認していることを確認した。
+
+　以上の調査結果から、前回定期検査の燃料取り扱い時に、ＳＧ点検架台部に残留していた異物が、ＳＧ点検架台を通行する人の振動等によりキャビティへ落下し、燃料集合体に混入する可能性があることを確認した。
+
+
+４．異物が漏えいを発生させるまでのメカニズムの推定
+　燃料棒の表面に見られる傷は、隣接する燃料集合体が向き合う面で生じており、離れた燃料棒位置で確認されている。また、その間の燃料棒に傷が見られないこと、およびKABC13のL-14からL-13燃料棒にかけての第５支持格子内から回収された異物の寸法および形状から、混入した異物が以下のメカニズムで燃料棒を漏えいさせたと推定される。
+異物は、前回定期検査期間中の燃料取扱い時に、キャビティへ落下し、当該燃料集合体（KABA10またはKABC13）の第５支持格子の上に引っかかる形で混入し、１次冷却材ポンプの起動による燃料集合体内の上昇流により、異物は上方に流され、第４支持格子の下に引っ掛かり、流水による振動で燃料棒にフレッティング摩耗を生じさせた。
+　平成22年3月19日に発生した原子炉格納容器内での漏えい事象に伴う停止により1次冷却材ポンプを停止したことから、燃料集合体内の上昇流が低下し、異物は第５支持格子上に落下した。その後、原子炉起動に伴う１次冷却材ポンプの起動による燃料集合体内の上昇流により、異物が再び上方に流され、異なる位置の第４支持格子の下に引っ掛かった。同時に、原子炉停止、起動に伴い発生する応力変動により、フレッティング摩耗が進展していた燃料棒で1本目の漏えいが発生した。その後、異物が新たに引っかかった位置の燃料棒にフレッティング摩耗が進行し２本目の漏えいが発生した。
+　なお、漏えい燃料調査のため、原子炉を停止したことによる燃料集合体内の上昇流の低下により、再び異物が第５支持格子上に落下し燃料集合KABC13のL-14からL-13にかけての第５支持格子内に入ったものと思われる。]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[漏えい燃料の特定調査を実施するため手動停止]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[201]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10940</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/21 18:44:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>14798</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/04/30 09:31:30]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100419]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）漏えいが確認された燃料集合体については、使用済燃料として再使用しないこととする。
+
+（２）原子炉に装荷していた他の燃料集合体（１１９体）について、水中カメラによる外観点検を実施し、傷や異物がないことを確認した。また、原子炉容器の底部および下部炉心構造物について、水中カメラによる外観点検を実施し、異物がないことを確認した。
+
+（３）ＳＧ点検架台部の清掃を実施し、異物がないことを確認した。次回定期検査において、ＳＧ点検架台下部の開口部から異物が落下しないよう、金属板で開口部を塞ぐ措置を行う。なお、今回の燃料装荷時にはＳＧ点検架台への人の立ち入りを禁止とした。
+
+（４）現場作業終了時に作業場所周辺も含め確実に清掃を行い、異物がないことの確認を再徹底した。さらに燃料装荷前に、ＳＧ点検架台部を含め原子炉キャビティの周辺について、異物がないことを確認することとした。
+
+（５）本事象を社員および協力会社に周知し、燃料集合体に対する異物管理の重要性を再認識させた。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/21 18:44:43]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜発電所２号機は定格熱出力一定運転（電気出力509MW、蒸気発生器熱出力1446.2MWt）中の平成２２年４月１９日、定例の1次冷却材中の希ガス（Xe-133※１）の濃度測定※２を行った結果、前回の測定値（４月１２日：1.76×102Bq/cm3）を上回る値（5.92×103Bq/cm3）が確認されたことから、１１時３０分に燃料集合体から漏えい※３が発生した疑いがあると判断した。
+　また、1次冷却材中のよう素（I-131）の濃度測定を行った結果、前回の測定値（４月１６日：1.40×100Bq/cm3）を上回る値（7.82×101Bq/cm3）が確認された。
+　よう素（I-131）濃度は、原子炉施設保安規定で定めている運転上の制限値（4.5×104Bq/cm3）に比べて十分に低い値であるが、１次冷却材中の放射能濃度の監視を強化し、運転を継続した。
+　その後、計画的に原子炉を停止して漏えい燃料の特定調査を実施するため、４月２３日１８時から出力降下を開始、４月２４日０１時５３分に発電を停止し、０３時０７分に原子炉を停止した。
+　なお、本事象に伴う放射能による周辺環境への影響はなかった。
+
+※１：ウランの核分裂反応で生成するキセノンガス。
+※２：定例の測定頻度はよう素濃度：３回／週、希ガス濃度：１回／週。
+※３：燃料ペレットを収納している燃料被覆管から漏えいがあると、燃料被覆管内のよう素や希ガスが１次冷却材中に放出される。このため、１次冷却材中のよう素や希ガス濃度の変化から、漏えいの有無を判断している。
+
+＜時系列＞
+[4月19日]
+09:30頃　１次冷却材よう素および希ガス濃度定例分析のためサンプリング実施
+10:30頃　１次冷却材希ガス濃度定例分析終了
+（測定の結果、希ガス濃度の上昇（1.76×102Bq/cm3→5.92×103Bq/cm3）を確認）
+11:30　　１次冷却材希ガス濃度が前回測定値を上回る値が確認されたことから、燃料集合体からの漏えいの疑いがあると判断 → 監視強化開始
+14:00頃　１次冷却材よう素濃度定例分析終了
+（測定の結果、よう素濃度の上昇（1.40×100Bq/cm3→7.82×101Bq/cm3）を確認）
+
+[4月23日]
+18:00　　負荷降下開始
+
+[4月24日]
+01:53　　発電機解列
+03:07　　原子炉停止
+09:30　　クールダウン開始
+
+[4月25日]
+13:27　　C/Vパージ開始
+13:43　　C/Vパージ中断
+14:20　　脱ガス操作開始（１回目：以降適宜実施）
+18:10　　クールダウン完了
+
+[4月28日]
+15:57    C/Vパージ再開　
+[4月29日]
+14:35　　C/Vパージ完了
+
+[5月18日]
+06:18　　脱ガス操作終了（合計４０回実施）
+よう素（I-131）：3.36×10-1 Bq/cm3、
+希ガス（Xe-133換算）：2.21×101Bq/cm3
+
+[5月19日]
+11:20　　RCS水抜き開始
+
+[5月20日]
+05:25　　RCS水抜き終了（RCSノズルセンター）
+11:05　　RCSエアレーション開始
+
+[5月24日]
+11:02　　RCSエアレーション終了
+よう素（I-131）：1.71×10-1 Bq/cm3、
+希ガス（Xe-133換算）：検出限界（5.01×10-1 Bq/cm3）以下
+16:30　　原子炉容器開放（上蓋吊り上げ）
+
+[5月26日]
+17:00　  燃料取出開始
+
+[5月27日]
+21:18　　燃料取出終了
+
+[5月28日]
+08:00　  燃料集合体シッピング検査開始
+
+[5月31日]
+19:40　　燃料集合体シッピング検査終了
+　　　　 　燃料集合体２体に漏えいを確認（KABA10、KABC13）
+21:00　　漏えい燃料集合体２体の外観検査開始
+
+[6月1日]
+06:05　　漏えい燃料集合体２体の外観検査終了
+　　　　 　KABA10：燃料棒２本（I-1、L-1）に傷のようなものを確認
+　　　　　 KABC13：燃料棒１本（M-14）に傷のようなものを確認
+09:40　　超音波による漏えい燃料棒調査開始
+
+[6月2日]
+16:15　　超音波による漏えい燃料棒調査終了
+　　　　　 KABA10：燃料棒1本（I-1）の漏えいを同定
+　　　　　 KABC13：燃料棒１本（M-14）の漏えいを同定
+
+[6月3日]
+01:47　　ファイバースコープによる漏えい燃料棒調査開始
+
+[6月6日]
+23:33　　ファイバースコープによる漏えい燃料棒調査終了
+KABA10（I-1、L-1）：異物は確認されず
+KABC13：M-14燃料棒と隣接するL-14からL-13燃料棒にかけての第５支持格子内に異物を確認
+
+[6月8日]
+14:00     異物回収作業を開始
+20:00頃   異物を回収]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-関西-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　前回定期検査の原子炉への燃料装荷中に、ＳＧ点検架台のグレーチング床の支持部にあった異物が、点検架台を通行する人の振動等により、ＳＧ点検架台とコンクリート壁との開口部から原子炉キャビティへ落下し、原子炉内に装荷されていた燃料集合体KABA10の第５支持格子に引っかかった。
+　その状態で隣接位置にKABC13を装荷した後、原子炉起動のために１次冷却材ポンプを起動したことにより、１次冷却材の流れにのって異物が第４支持格子の下に移動し、燃料棒とこすれて傷を発生、進展させた。
+　その後、化学体積制御系統の空気抜き配管からの漏えいにより３月１９日に原子炉を停止し、４月６日に再起動したが、この際の１次冷却材圧力の変動により、摩耗傷が進展していた１本目の燃料棒に漏えいが発生したものと推定した。
+　また、原子炉の再起動により、異物が第４支持格子下部の別の位置に移動したことで、新たな燃料棒とこすれて傷が発生、進展し、２本目の燃料棒の漏えいとなったものと推定した。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[美浜発電所２号機　１次冷却材中の放射能濃度の上昇（燃料集合体からの漏えい）について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[2010.4.19漏えいの疑いありを判断　2010.5.31シッピング検査で２体の漏えいを確認]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>509</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>14799</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/04/30 12:22:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[600]]></KIKI_CODE>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10940</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[858]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[被覆管]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>143</SORT_NO>
+						<BUHIN_CODE><![CDATA[858]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[600]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[燃料集合体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[719]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[719]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[原子燃料]]></KIKI_NAME>
+					<SORT_NO>36</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[燃料]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[201]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[異物混入（保守・施工時の異物混入は除く）]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[運転中トラブルによる部品脱落等による異物混入（保守・施工不良による異物混入は除く）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10940</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

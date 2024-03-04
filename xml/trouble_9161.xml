@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9161</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/09/10 11:48:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3904</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/31 17:38:33]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707301147]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/09/10 11:48:45]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第二原子力発電所２号機において、平成19年７月30日11時47分頃、原子炉建屋地下２階（管理区域）にある低電導度廃液サンプピット（堰）へ水が流入したことを示す警報が発生したため、当直員が現場を調査したところ、サンプピット内に水が溜まっていることを確認した。
+　溜まった水を測定した結果、約75リットル、放射能量は約2.0×10＾７ベクレルであることがわかった。
+　水はサンプピットの堰内にあり、ピットの外には出ていないことを確認し、同日、仮設ポンプを使って回収し、サンプピット内の清掃を実施した。
+
+　なお、これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・当該サンプピットへの水の流入は、当該サンプポンプの吐出配管等から漏えいしたものではなかったこと。
+・当該サンプより上流側にある原子炉格納容器内低電導度廃液サンプに水を張り、当該サンプへつながっている隔離弁を開けたところ、当該サンプの排出口に設置されている飛散防止治具の上部隙間から排出された水が飛散し、当該サンプピットへ流入すること。
+
+　当該サンプピットへ水が流入した原因は、配管洗浄を実施するために当該サンプへつながっている隔離弁を閉めたことにより、原子炉格納容器内低電導度廃液サンプに水が溜まり、その後隔離弁を開けたことにより、通常時に想定された流量を超えて当該サンプに排出され、当該サンプの排出口に設置されている飛散防止治具内面に当たって跳ね返り、当該治具の上部隙間から飛散して流出したものと推定した。
+
+　対策として、当該サンプへ通常時に想定された流量を超える水が排出されても、飛散防止治具の上部隙間から水が飛散し、サンプピットに流入しないよう当該治具上部に蓋を設けるとともに、水の跳ね返りを抑えるため、形状を大きくすることとした。
+（なお、当該事象は、対策を検討中のところ平成19年８月16日に同様事象が発生したため、２件あわせての対策とした。）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中の福島第二原子力発電所２号機原子炉建屋低電導度廃液サンプピットへの水の流入について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/08/03 10:51:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

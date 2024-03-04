@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13402</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/12/10 11:52:42]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>103213</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/12/08 08:52:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20211202]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/12/10 11:52:42]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．発生状況
+　１２月１日１６時３０分頃、高浜発電所１号機（第２７回定期検査中）において、事故対応訓練のため送水用のホース（直径約１５ｃｍ）をホース展張車※を走行させながら送り出していたところ、道路に配置済みのホースが展張車に引っ張られて移動し、展張車の後方で時間測定等を行っていた作業員（時間測定者）の左足に当たり負傷した。
+　病院で診察を受けた結果、約２ヶ月の入院加療が必要と診断された。
+
+　※収納庫に収納しているホースを、走行しながら地面に送り出す車
+
+２．調査結果
+　現場の状況等を確認した結果、送り出しているホースが展張車の収納庫の一部に引っ掛かった状態であることが分かった。
+展張車の収納庫は仕切り板で２つのエリアに分かれており、これをまたいでホースを収納していたため、送り出される際にホース同士の接続部が仕切り板に引っ掛かったことが分かった。
+　現場の作業員の配置状況について調査した結果、展張車の後方には、ホースの配置状態を確認する作業員と被災者の２名を配置していた。また、前者がホースの引っ掛かりに気づき、展張車を停止するよう手ぶりで合図したが、運転者に伝わるまでに時間を要していたことが分かった。
+
+３．推定原因
+　ホースが収納庫の一部に引っ掛かった際、運転者に停止指示をすぐに伝達できず、展張車が走行を続けたため、道路に配置済みのホースが展張車に引っ張られて移動し、ホースの近くにいた時間測定者に当たったものと推定した。
+
+４．対策
+　運転者に指示が速やかに伝達できるよう、当該作業の要員に無線等の通信手段を配備する。また、時間測定者は車両の動線や配置されたホースに近寄らないようルール化する。
+　ホースについては、それぞれの収納庫をまたいで格納しないよう運用を明確化する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2021-関西-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[高浜発電所１号機　事故対応訓練中の協力会社作業員の負傷]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/12/08 08:52:14]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．機器の健全性確認
+（１）主回路の点検
+　発生警報より発電機内部故障が考えられたことから, 発電機主回路及び発電機励磁回路の絶縁抵抗測定、巻線抵抗測定及び発電機励磁回路の絶縁抵抗測定を実施したが、異常は認められなかった。
+（２）ＡＶＲ盤の点検
+　制限抵抗器からの煙が確認されたことから、抵抗器の絶縁抵抗測定及び抵抗測定を実施したが、異常は認められなかった。また、初期励磁回路が何度か投入されていることから、初期励磁回路投入用電磁接触器の作動試験及び接点抵抗測定を実施したが異常はなかった。
+（３）保護継電器の点検
+　比率差動継電器（８７リレー）及び過電圧継電器（５９リレー）、並びに電圧確立検出用継電器（８４リレー）の単体特性試験及びループ抵抗測定を実施し異常のないことを確認した。
+（４）機器耐量確認
+　機器耐量の設計値を確認し、今回の事象が機器損傷に至るダメージを与えていないことを確認した。結果、発電機、変圧器類共に設計耐量を下回っている段階でトリップに至ったと考えられることを確認した。（最終電圧上昇値が不明であることから、過電圧リレー動作と比率差動リレー動作がほぼ、同時だったと言う証言を基に検討を実施した）
+
+２．煙が発生した原因について
+（１）現場の詳細確認
+　現場の作業を担当していた者（当社監理員、メーカー指導員）から、状況を確認したところ、以下のとおりであった。
+１）Ａ系のＡＶＲ試験を終了し、Ｂ系のＡＶＲの試験を開始
+２）ＡＶＲ制御系切替スイッチ「ＴＥＳＴ」位置から、「Ｂ系」位置に切替（本来であれば、Ｂ系に切替えた後、「ＴＥＳＴ」位置に切り替える手順であった。）※２
+
+※２：「ＴＥＳＴ」位置に切り替えることで初期励磁回路の投入阻止となる。
+　　　但し、試験手順書にはその旨の明確な記載はされていなかった。
+
+３）制御範囲（～８０％）の確認のため、電圧調整器「７－９０Ｒ」により電圧の下降操作を実施。
+４）電圧が定格９０％を下回った時点で、初期励磁回路が投入することで電圧が上昇し、９０％を上回った時点で初期励磁回路が開放され、これが何回か繰り返された。この際に初期励磁回路にある制限抵抗器から煙が確認された。
+５）この時点で?の事象がＡＶＲ制御系切替スイッチの位置によるものと判明したため、当該スイッチを「ＴＥＳＴ」位置に切り替えた。
+６）本事象を当社監理員とメーカー指導員が当該盤から離れた場所で協議している最中にＤ／Ｇ　２Ｄが自動停止した。
+（２）試運転手順書の作成及び手順書に従った試験の実施状況
+　１）計画段階
+　（確認結果）
+　過去の不適合に伴う受注者が作成し事業者が確認した試運転手順書の見直しで、試運転手順書の一部であるＡＶＲ試験手順（別冊）を見直す必要があったが、見直しが行われず、以前の手順（初期励磁回路のケーブル端子をリフトする）のままであった。このため、手順上、表示灯の確認など確認項目が明確ではなく、「ＡＶＲ制御系切替スイッチ「ＴＥＳＴ」位置」とする手順もなかった。
+　（問題点）
+　過去に不適合があった受注者が作成し事業者が確認した試運転手順書のレビューは十分に実施したものの、その付属であるＡＶＲ試験手順（別冊）のレビューが行われていなかったことから、系統の試運転全体として、レビューされたかどうかの確認が不十分であった。
+　２）実施段階
+　（確認結果）
+　計画段階で発生した記載間違いは、試運転当日のＡＶＲ試験時に判明したが、受注者が作成し事業者が確認した試運転手順書側で「ＡＶＲ制御系切替スイッチ「ＴＥＳＴ」位置」としていることから、ケーブル端子リフトは不要として次のステップに移行していた。
+　（問題点）
+　ＡＶＲ試験手順の見直しがされていないと確認した段階で、試験手順を再レビューせずに、現場の判断で当該ステップをスキップし試験が継続されていた。これは、試験は正しい手順に従って確実に実施するという意識が十分でなかったと思われ、本来であれば、試験を中断すべきであった。
+　３）煙を確認した段階
+　（確認結果）
+　初期励磁回路の投入開放が繰り返され、抵抗器から煙が確認されたが、ＡＶＲ制御系切替スイッチを「ＴＥＳＴ」位置に変更したことで収束したと判断し、Ｄ／Ｇ　２Ｄは起動した状態で、当該事象の協議に移っていた。
+　（問題点）
+　初期励磁回路の投入開放が繰り返されたこと、抵抗器から煙が確認されたことの理由が当該切替スイッチを「ＴＥＳＴ」位置にしなかったことによるものと明確であっても、通常と異なる状態であり、現場の判断として、機関を停止してから、次の処置を実施するべきであった。
+
+（３）煙の発生原因
+　以上の確認結果より、受注者が作成し事業者が確認した試運転手順書及びその一部であるＡＶＲ試験手順（別冊）に不備があり、本来、試験開始前にＡＶＲ制御系切替スイッチを「ＴＥＳＴ」位置に切り替えるべきところ、切り替えなかったため、電圧の下降操作を実施した際、電圧が定格９０％付近で初期励磁回路が投入開放を繰り返した。
+　これにより、当該抵抗器が発熱し、抵抗器の耐熱皮膜塗料の成分が熱により蒸気状となって煙状に見えたものと考えられる。
+　なお、この状態を確認した現場の当社監理員やメーカー指導員は、機関を停止せずに当該事象の協議に移ったことから、次項（３．自動停止した原因について）に示す事象も重畳し、Ｄ／Ｇ　２Ｄの自動停止事象が発生した。
+
+３．自動停止した原因について
+　ＡＶＲ制御系切替スイッチのタイミングが遅れたものの、制御回路上は当該スイッチ切替により直接自動停止することはないことから、別の原因で発生したものと考えられる。
+（１）現場表示灯の再確認
+　自動停止した原因を調査するため、現場盤の表示灯を再度確認したところ、当該切替スイッチを「ＴＥＳＴ」位置にした場合、「ＴＥＳＴ」位置の表示灯に加え、その直前の位置（今回の場合「Ｂ系」位置）の表示灯が点灯（点灯継続）するはずであるが、今回の場合「ＴＥＳＴ」位置の表示灯のみが点灯していた。
+（２）Ｂ系表示灯不点灯の原因調査
+　当該表示灯（Ａ、Ｂ系表示灯）は、保持リレーによって制御されており、一方の系統を選択した時に初めて保持リレーをセットし、かつ、他方の系統の保持リレーをリセットさせるものである。
+　従って、Ｂ系表示灯が消灯する場合は、Ａ系を選択した時のみであり、テスト位置では消灯しない。
+　１）保持リレーの点検結果
+　Ｂ系の保持リレーが正常にセットされず、Ｂ系制御状態が継続できなかった可能性が考えられることから、保持リレーの状態について目視点検したところ、Ａ系用、Ｂ系用共にリセット状態にあることが確認された。その後、両方のリレーについてＡＶＲ選択スイッチを操作して動作試験を行ったが、いずれのリレーも正常に作動することを確認した。
+　ただし、リセット状態での保持リレー内鉄片位置が、Ａ系用とＢ系用を比較すると若干の差異が認められた。
+　２）切替スイッチの操作者への聞取り確認
+　当該切替スイッチの操作者へ操作時の状況（回しすぎたかどうかなど）※３を聞取りしたが、切替操作時は慌てていたことから記憶にないとのことであった。
+
+※３：保持リレーは、セットコイルとリセットコイルから構成され、セットコイルに信号が入力された時点で機械的ラッチがかかり、リセットコイルからの信号によって機械的ラッチを外すものである。このことから、切替スイッチを操作する際、回しすぎて中立の「ＴＥＳＴ」位置を通り越し瞬時、「Ａ選択」に達した後に戻したとすると、Ａ系のセット信号は瞬時発信するが、機械的ラッチが掛からずにセットが掛からず、一方、Ｂ系用のリセット信号が発信され、Ｂ系用のラッチを外すことが想定される。
+（３）自動停止した原因
+　ＡＶＲ制御切替用保持リレーの不良若しくは切替スイッチの回しすぎにより、Ａ系、Ｂ系ともに保持リレーがリセットされ、ＡＶＲによる自動電圧調整機能が働かなくなった。これにより、発電機によって発生した自己励磁によって電圧は徐々に高くなり、過励磁状態となったと考えられる。
+　その結果、保護継電器が整定値どおりに作動し、「比率差動」「過電圧」の警報が発報・インターロック作動によりＤ／Ｇ　２Ｄが自動停止したものと考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9841</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/04/14 14:23:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4246</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/07/03 11:43:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200806151441]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ＡＶＲ試験の再開に当たっては、操作に伴う表示灯の状態を試験手順書に明記して再試験を実施する。また、試験の際は、確実に初期励磁回路投入を防止するため、インターロック用ケーブル端子のリフト（仮設ＳＷによる）に変更する。
+（２）今回の事象は、手順書のレビューが適切に行われていなかったことから、調達管理に基づき受注者が作成した機能・性能確認の手順については、レビュー※４を十分に実施した後、検査を開始する。
+　
+※４：「設備、手順の変更は反映されているか」「操作項目は明確か」「確認項目が明確か」「シーケンス・系統図どおりか」などの観点で所内有識者（主任技術者等）を交えたレビューを実施し問題ないことを確認する。
+
+　本改善策は既に一部で実施され、実際に携わった多くの者から自己の知識向上にも有効である旨の意見が出ている。このことから、技術伝承の観点からもこれを継続し、所員や関係者の更なる資質向上並びに調達製品の検証業務の充実（レビューの観点などのノウハウの蓄積・拡充）を図っていく。
+（３）今回の事象を事例として、各部門で事例勉強会を実施する。事例勉強会の討論の中で、以下の事項について周知徹底する。
+　・試験を実施するに当たっては、正しい手順に従って確実に実施する。また、試験手順が間違っていたことが判明した場合、試験を中断し、手順の再レビューを実施する。【手順の遵守】
+　・想定外の事象が発生した場合は、その場で処理するのではなく、安全な状態（今回の場合は、非常用ディーゼル発電機停止）としてから、原因を確認し、不適合箇所を是正した後、試験を再開する。【不適合発生時の中断・安全な状態への移行】
+（４）当該切替スイッチ用保持リレー（Ａ系用、Ｂ系用の２個）は作動試験上は問題なかったが、リレー内の鉄片位置が相違していたことから、念のため取替を実施する。
+（５）また、本件について直接原因分析を実施した結果、以下の事項を本事象の是正措置に追加する。
+1）技術系社員教育見直しの一環として各室教育プログラム（研修センターでの保修監理員コース等含む）に、設計や運用の変更に当たっての感受性向上を図る事例教育を追加し、設備や系統全体への影響評価・安全側の意思決定を徹底する。
+2） ＡＶＲ試運転手順を含め、試験要領書を作成・提出させる際には、ステップ毎に確認を行なう記載とするよう、「工事要領書作成手引書」を改正する。
+3） ＤＧ試運転と同様に複数の試運転手順から成る試運転等について、それぞれの関係を明確にすることを試験要領書に記載するよう、「工事要領書作成手引書」を改
+正する。
+4） 上記2)3)の改正内容について、所員に周知する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/04/14 14:23:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２３回定期検査中、平成２０年６月１５日、非常用ディーゼル発電機２Ｄ（以下、「Ｄ／Ｇ　２Ｄ」という。）の試運転（無負荷状態で自動電圧調整器（ＡＶＲ）の調整試験）を実施中のところ、ＡＶＲ盤から発煙したことを確認し（なお、その煙は直ぐになくなった）その後、１４時４１分に「発電機ロックアウトリレー」が作動し、Ｄ／Ｇ　２Ｄが自動停止した。
+　このため、１５時１２分東海村消防へ通報を実施（発煙が認められ、今は消えているが状況を確認依頼）した。１５時２９分より、東海村消防署により、現場確認を実施し
+た結果、１５時５０分、当該事象は、火災ではなく、発煙事象との判断がなされた。
+　煙の発生源は、当時近くにいたメーカー指導員及び当社監理員が、ＡＶＲ盤に設置している抵抗器付近から発生していることを確認しており、また、その後の確認により当
+該抵抗器に電流が断続的に流れたと思われることから、当該抵抗器が発熱したことによって、抵抗器の耐熱皮膜塗料に含まれる成分が熱により蒸気状となって煙状※１に見えたものと考えられる。なお、盤内機器を確認したところ、当該抵抗器を含めて変色・異臭等の異常はなかった。
+　また、現場の警報を確認したところ、「比率差動（８７リレー）」「過電圧（５９リレー）」の警報が発報していたことから、Ｄ／Ｇ　２Ｄが自動停止した原因は、「比率差動（８７
+リレー）継電器動作により、発電機ロックアウトリレーが作動した」ことによるものである。
+　＊１：当該抵抗器の耐熱皮膜塗料には、溶剤、シリコン等が含まれており、製品の連続通電時にそれらが蒸気状となり煙状に見える事象は、通常認められる事象である。また、この事象は数回加熱が行われれば発生しなくなる事象である。当該抵抗器はＤ／Ｇの起動時の数秒しか使用しないため、これまで加熱されず、今回の通電で初め
+て加熱されたため、本事象が発生したものと考えられる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-M014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[以上の調査結果より、今回の事象は次の通りと推定される。
+（１）Ｂ系のＡＶＲ試験にあたって、試験手順上、当該スイッチの位置、表示の確認が無かったこともあり、ＡＶＲ制御系切替スイッチを「ＴＥＳＴ」位置にせず、試験を開始した。
+（２）ＡＶＲ制御系切替スイッチを「ＴＥＳＴ」位置にしなかったため、電圧が定格９０％付近で、初期励磁回路の投入開放が何回か繰り返された。
+（３）その結果、当該抵抗器が発熱し、抵抗器の耐熱皮膜塗料の成分が熱により蒸気状となって煙状に見えたものと考えられる。
+（４）この時点でＡＶＲ制御系切替スイッチを切り替える必要性があることを認識したため、切替スイッチを「ＴＥＳＴ」位置に操作した。
+（５）この切替操作の際、ＡＶＲ制御切替用保持リレーの不良若しくは切替スイッチの回しすぎにより、ＡＶＲの制御系Ａ系、Ｂ系共に除外となり、電圧一定制御が出来なくなった。
+（６）その結果、自己励磁により電圧が上昇し、「比率差動」「過電圧」の警報が発報、インターロック動作によりＤ／Ｇ　２Ｄが自動停止した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機自動電圧調整器盤からの煙の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/07/03 11:44:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+			<TROUBLE_ID>9841</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[自動電圧調整器盤内抵抗器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>9841</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[262]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[現場制御盤]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[164]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[164]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9841</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9841</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9841</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9841</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

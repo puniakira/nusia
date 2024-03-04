@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10832</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/04/19 17:40:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4671</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/02/15 11:00:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001131310]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/04/19 17:40:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第１２回定期検査において低圧タービンの開放点検を実施していたところ、低圧第２タービン蒸気転向装置※１を固定するボルトの廻り止め割りピン※２が欠損していることを保修員が確認した。
+当該割りピンは低圧タービン１基あたり２本あり、低圧第１、第２タービンとも、２本のうち１本が欠損していた。また、低圧第1タービンの残り1本の割ピンは、取り外し時に折損した。
+欠損した割りピン２本のうち、低圧第１タービンの１本は摩耗減肉分以外はすべて回収し、低圧第２タービンの１本は約７０％回収した。
+回収した低圧第２タービンの割りピンは、タービン羽根等との接触により細分化されており、未回収部分も細分化され、定期検査時の系統水の排水によって系統外に排出されたものと考えるが、万一、未回収部分が系統内に留まっていたとしても、タービンの下流機器への影響がないことを確認した。
+また、低圧第１、第２タービンの羽根等の外観目視点検および割りピンとの接触跡の浸透探傷検査（以下「ＰＴ検査」という。）を実施し、異常のないことを確認した。
+当該部の廻り止めについては、取り付け時のガタ等による摩耗、折損を防止するため、割りピンからテーパー形状のピン（ナット付き＋溶接止め）に変更し復旧した。
+なお、本事象による環境への放射能の影響はなかった。（添付資料－１～３）
+　　　※１：低圧タービンの入口蒸気の流れを分配する装置
+　　　※２：ボルトに取り付けているナットの廻り止め割りピン
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-四国-S013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[低圧タービン内の装置固定用ボルトの廻り止め割りピンの欠損]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/02/15 13:41:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

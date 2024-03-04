@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．発電機・送電線系統確認
+　パワーロードアンバランス（負荷不平衡）継電器が動作していることから、発電機関係及び送電線系統の状況、及び母線保護継電器の点検を行った結果、異常は認められなかった。
+２．送電系統及び気象状況の確認
+　自動オシログラフの記録から、（東海第二発電所と那珂変電所間を連携している）東海原子力線２号の赤相に地絡が発生していたことが確認された。また、那珂変電所側のしゃ断器（Ｏ－２）が再閉路動作を実施したとの情報から、今回の事象は落雷によるものと推定される。　また、当時の気象状況は、曇りで遠方で弱い雷鳴があり、雷濃霧注意報が発令されていた。
+３．２Ｄ非常用ディーゼル発電機の自動停止について
+　外部電源喪失後に自動起動した２Ｄ非常用ディーゼル発電機（以下、「２Ｄ－Ｄ／Ｇ」という）は、待機状態を継続すべきところ、しゃ断器（６７０）が自動投入され、過電流継電器動作により自動停止に至ったため、原因の調査を実施した。
+（１）機器の健全性評価
+　２Ｄ－Ｄ／Ｇについて、巻線の絶縁抵抗並びに巻線抵抗を測定、過電流継電器の動作試験及び２Ｄ－Ｄ／Ｇ試運転の結果、異常は認められなかった。
+（２）しゃ断器投入回路の調査
+　予備電源側しゃ断器（６０７Ｅ）及び２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）は、ほぼ同時に投入され、６．９ｋＶ非常用２Ｄ母線は、予備電源側と２Ｄ－Ｄ／Ｇ側の両方から受電状態にあったため、しゃ断器自動投入回路の調査を行った。
+［１］しゃ断器投入シーケンス
+　非常用母線が低電圧になると、常用母線側からの受電しゃ断器（６０７Ｂ）が開放するとともに予備電源側しゃ断器（６０７Ｅ）投入または２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）投入のいずれかにより受電するようになっている。通常は予備電源側を優先することとしているため、２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）の投入条件に時間遅れ（１秒のタイムディレー）を持たせており、予備電源側しゃ断器（６０７Ｅ）が投入されれば、２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）の投入信号を阻止する回路となっている。
+［２］予備電源側しゃ断器（６０７Ｅ）の動作状況
+　予備電源側しゃ断器（６０７Ｅ）の投入所要時間は、約０．７秒であり異常はなかった。
+　しゃ断器の制御回路に用いている直流電源系は、充電器を通して所内電源系統から常時充電された状態となっているが、当時は所内電源の喪失により充電器からの供給が停止状態となり、蓄電池のみが供給源となったことにより制御回路の電圧が低下し、しゃ断器の投入動作時間を延ばす傾向にあったと考えられる。
+　なお、しゃ断器の工場試験データを確認したところ、直流制御電圧が定格の７５％の時の動作時間は、１．１秒となっていた。
+［３］母線の低電圧検出
+　常用（２Ｂ－２）及び非常用（２Ｄ）母線低電圧継電器の整定値に異常はなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2020</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/03/29 17:57:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>61</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2620</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/12/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200008081605]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　今回の事象で確認された２Ｄ－Ｄ／Ｇの自動停止に対し、以下の再発防止対策を実施した。
+　予備電源側（１５４ｋＶ系）からの受電を優先させるために設けた２Ｄ－Ｄ／Ｇ及びＨＰＣＳ－Ｄ／Ｇのしゃ断器の投入阻止条件としている母線低電圧検出（外部電源喪失）後１秒の時間遅れの設定を、予備電源しゃ断器（６０７Ｅ）の直流制御回路低電圧での投入動作時間遅れ等を考慮して、２秒とした。
+　なお、時間遅れ設定を２秒にしても、定期検査要領書に明記し判定基準としているＤ／Ｇ電圧確立時間の１０秒以内に包絡される時間であることから、Ｄ／Ｇの投入時間に遅れを生じることはなく、安全性に支障を及ぼすものではない。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[1]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は定格出力（１，１００ＭＷ）にて定常運転中のところ、平成１２年８月８日１６時０５分頃に東海原子力線２号の「主１トリップ」、「主２トリップ」、「母線差動」、「ＴＵＲＢＩＮＥ　ＣＶ　ＦＡＳＴ　ＣＬＯＳＵＲＥ　ＴＲＩＰ」等の警報が発生し、原子炉が自動停止した。
+　タービン発電機の故障表示には「パワーロードアンバランス（負荷不平衡）作動」が点灯し、２７５ｋＶ母線に接続するしゃ断器（Ｏ－３、Ｏ－４、Ｏ－１３、Ｏ－８３、Ｏ－８４）が開放していることを確認した。
+　所内電源系は、タービン発電機を手動停止した後、６．９ｋＶ非常用２Ｃ母線は非常用ディーゼル発電機から、また、６．９ｋＶ非常用２Ｄ母線及びＨＰＣＳ母線は、予備電源系（１５４ｋＶ系）から受電されたことを確認した。その際、常用母線は停電となり給復水系統が全停状態となったため、原子炉隔離時冷却系を手動起動し原子炉への給水を確保した。外部電源喪失（Ｏ－３、Ｏ－４開放）により、２Ｄ非常用ディーゼル発電機及びＨＰＣＳ非常用ディーゼル発電機は自動起動したが、それぞれの母線に自動並列され、２Ｄ非常用ディーゼル発電機は過電流継電器の動作により自動停止、ＨＰＣＳ非常用ディーゼル発電機は予備電源系が健全であることを確認し待機（解列）状態とした。
+　なお、環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>55</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-原電-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【自然現象】
+１．原子炉自動停止の推定原因
+　今回の原子炉自動停止の原因は以下のように推定される。
+（１）東海原子力線２号に落雷を受けた影響で、東海原子力線２号のしゃ断器（Ｏ－４）が開放し、さらに母線保護継電器が動作したため、東海原子力線１号のしゃ断器（Ｏ－３）が開放した。
+（２）これにより、タービン発電機の負荷が喪失したためパワーロードアンバランス（負荷不平衡）継電器が動作しタービン加減弁の急速閉原子炉自動停止により、原子炉が自動停止に至った。
+【設備不備】
+２．２Ｄ－Ｄ／Ｇ自動停止の推定原因
+　上記３．の調査結果から、２Ｄ－Ｄ／Ｇ自動停止の原因は以下のように推定される。
+（１）２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）投入に持たせている１秒間の時間遅れは、予備電源側しゃ断器（６０７Ｅ）投入所要時間約０．７秒に加え所内電源喪失時における直流電源系からの制御回路への電圧低下に対する投入時間遅れを考慮すると、余裕が不足していた。
+（２）このため、予備電源側しゃ断器（６０７Ｅ）投入動作完了と２Ｄ－Ｄ／Ｇ側しゃ断器（６７０）投入指令がほぼ同時となり、６．９ｋＶ非常用２Ｄ母線は両しゃ断器（６０７Ｅ、６７０）が同時に投入された。この状態において６．９ｋＶ予備電源系２Ｅ母線の電圧に比べ２Ｄ－Ｄ／Ｇから供給される６．９ｋＶ非常用２Ｄ母線電圧が高めにあったため、６．９ｋＶ予備電源系２Ｅ母線と６．９ｋＶ非常用２Ｄ母線との電圧が平衡状態になるまで、２Ｄ－Ｄ／Ｇ側より６．９ｋＶ予備電源系２Ｅ母線に電流が流れ続けた。
+（３）この状況において２Ｄ－Ｄ／Ｇ側しゃ断器の過電流保護継電器の整定値（６００Ａ）を上回る電流（約１，３００Ａ）が流れたことにより、同継電器が動作しディーゼル発電機が自動停止したものと推定される。
+　なお、６．９ｋＶ　ＨＰＣＳ母線も同じ状況であったが、ＨＰＣＳ－Ｄ／Ｇの出力電圧は２Ｄ－Ｄ／Ｇに比べ低めであったことから、供給された電流が約７００Ａと過電流継電器の整定値の８００Ａ以下であったため、自動停止することはなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[東海原子力線トリップによる原子炉自動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1100</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/29 17:57:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[101]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[原子炉緊急停止系]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[1]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[自動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[なし*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2020</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[247]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[超高圧遮断器]]></KIKI_NAME>
+				<SORT_NO>7</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[168]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[168]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[11]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[自動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2020</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

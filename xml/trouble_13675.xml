@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>13675</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/09/27 17:08:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>118805</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/07/27 11:59:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202307212333]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/09/27 17:08:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[2023年7月21日午後11時16分頃、1号機原子炉複合建屋＊地下3階の蒸留水ポンプ・タンクエリアにおいて、タンクの水抜き作業を行っていた協力企業作業員が、水たまりを確認した。
+その後、タンクから排水するための弁を閉止し、水の漏えいは停止した。漏えい量は約240Lと推計している。
+現場を調査したところ、排水配管の詰まりにより排水口から水が溢れたものと推定している。
+なお、漏えい水から放射能は検出されておらず、外部への放射能の影響はない。
+＊原子炉複合建屋：原子炉建屋の廻りに、廃棄物処理設備等を収納した建屋
+
+＜2023/8/10 公表＞
+【対応状況 】
+配管内の詰まり除去作業や流水操作を実施し、詰まりは解消した。
+詰まっていた物質を分析したところ、鉄分が確認されたことおよび色（茶色）等から細かい錆が堆積したものと推定。
+
+＜2023/9/14　公表＞
+【原因】
+詰まりが発生した排水配管内に腐食を確認した。
+詰まりの原因は以下と推定した。
+①上流にある配管内の細かい錆や埃などが排水操作時に水とともに流されてきて、当該部位に付着
+②付着した錆や埃が、排水操作終了後に乾燥することで硬化し、錆や埃などがさらに付着しやすい状況となる
+③断続的な排水により①と②が繰り返され、配管の詰まりが発生
+【対策】
+対策として、以下を実施する。
+・詰まりが確認された当該排水配管の交換を行う。
+・今後、今回と同様な箇所について調査を行う。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-東京-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉複合建屋（管理区域）における水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/07/27 12:00:06]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

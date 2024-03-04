@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8909</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/12 13:50:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3830</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/07 21:27:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20020726]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備についてデータ改ざん、必要な手続きの不備、その他同様な問題がないかを評価するための調査の中で、以下の事象が確認された。
+  復水器Ａ系出口海水温度全１２点のうち１０点について、プロセス計算機の入出力装置内で使用している係数に第８回定期検査（平成９年度）時との相違を確認したことから、関連する技術資料及びプロセス計算機端末の光ディスクの操作履歴を調査した結果、復水器出入口海水温度に係る不適切な取扱いが３回、また、放水口海水温度に係る不適切な取扱いが１回行われていた。
+平成１３年１月に国に届出されている敦賀発電所３，４号機の環境影響評価準備書では、２号機ΔＴは７℃と記載されていた。また、第１２回定期検査終了後，導入が計画されていた定格熱出力一定運転に向け、ΔＴ＝７℃を守るためには循環水ポンプ翼開度９３％と推定しており、これらを受け平成１４年５月に手順書を改訂し、ΔＴ＝７℃を超えないよう、翼開度調整を行うこととした。
+しかし、平成１４年の定熱運転開始後、第二発電課長はプロセス計算機に出力されている復水器Ａ系とＢ系の出入口海水温度差にばらつきがあったこと、ΔＴ＝７℃の余裕が少なくなるとこと等から、電気保修課長に復水器出入口温度の調整を依頼し、電気保修課員がプロセス計算機操作端末にて、この調整を行った。その後、復水器出入口温度差と取放水温度差に相違があるため、放水口温度の調整も実施された。この調整は第１３回定期検査において解消されたが、第１３回定期検査の調整運転中、復水器１，２系出口温度に相違があったため、第二発電課長は出口温度を合わせるために発電課で温度調整を行ったが、すぐに原因が判明し解除している。。
+この時の解除が不完全だったため、その後も復水器出入口海水温度差（平均値）が０．１℃低い値を指示する事象が継続していた。平成18年12月11日にこれを復帰しており現在は問題ない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2002-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[復水器出入口海水温度に係るデータ改ざん]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 13:50:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

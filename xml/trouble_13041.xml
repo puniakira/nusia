@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<TROUBLE_ID>13041</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/03/23 22:30:33]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>88547</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/10/28 16:50:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201910221902]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/03/23 22:30:33]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[令和元年１０月２２日１９時０２分頃、通常運転中の伊方発電所３号機原子炉補助建屋３階（管理区域内）のセメント固化装置※ １において、廃棄物処理室排気ファン※２が２台運転のところ、排気ファン３Ｃが停止し、１台運転になっていることを確認した。
+調査した結果、電源装置の不具合により、廃棄物処理室排気ファンに加え、廃棄物処理室給気ファン※２も２台運転のところ、３Ａが停止し、１台運転になっていることを確認した。
+その後、電源装置（後備）に切り替え、給気ファンおよび排気ファンをそれぞれ２台運転に復旧した。点検の結果、電源装置（常用）内の基板の不具合により電源装置（常用）からの出力電圧が変動し、これにより廃棄物処理室排気ファンおよび廃棄物処理室給気ファンの停止に至ったものと推定した。
+
+後日、不具合のあった基板を交換して電源装置（常用）を復旧し、計装用電源を電源装置（後備）から電源装置（常用）に切戻したうえで、電源装置（常用）、廃棄物処理室給気ファンおよび排気ファンの運転に異常がないことを確認し１１月２７日１０時００分、通常状態へ復旧した。なお、本事象によるプラントへの影響および環境への放射能の影響はなし。
+
+※１：機器点検時の排水や洗濯排水等、管理区域内で発生した液体廃棄物を濃縮し、セメントと混ぜ、ドラム缶に詰めて固化する施設。
+※２：廃棄物処理室の換気を行うためのファンで、給気ファンは３Ａ、３Ｂの２台が、排気ファンは３Ａ、３Ｂ、３Ｃの３台が設置されている。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　廃棄物処理室（セメント固化装置）排気ファンの停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/10/28 16:50:39]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

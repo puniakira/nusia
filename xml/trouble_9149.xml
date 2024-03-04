@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9149</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/01/15 17:39:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3896</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/07/26 19:04:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200707251318]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/01/15 17:39:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所４号機は定格出力で運転中のところ、平成19年７月25日13時18分、廃棄物処理建屋の中央操作室において、当該建屋地下１階にある床ドレンサンプ内の水位の上昇を示す警報が発生した。
+　ただちに委託運転員が現場を確認したところ、当該サンプ近傍に設置された床ドレン収集ポンプの出口側配管にある弁の分解点検のために設置していた養生内の排水桝まわりおよび養生外に水たまりを発見した。
+
+　なお、漏えいした水は堰内に留まっており、漏えい量は約21リットル（養生内で約13リットル、養生外で約８リットル）で、回収および拭き取りによる清掃を実施している。また、養生外へ漏えいした水の放射能量は約2.1×10^５ベクレルだった。
+　これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・３号機と４号機の床ドレン収集ポンプ出口側配管をつなぐ連絡配管に設置された連絡弁は閉じた状態であったこと。
+・事象発生当時、３号機の床ドレン収集ポンプを運転して排水を集中環境施設へ移送していたことから、同様に当該ポンプを運転して確認した結果、連絡弁を通じて排水が４号機側に流入すること。
+・連絡弁を分解点検した結果、弁体および弁座にサビ等の噛み込みなどによる傷があったこと。
+・連絡配管の排水配管に詰まりがあったが、排水枡の排水配管には詰まりはなかったこと。
+
+　漏えいの原因は、閉じた状態であった連絡弁にサビ等の噛み込みなどによるシートパスが発生していたこと、および連絡配管の排水配管が詰まっていたことによるものだった。
+　このため、運転していた３号機の床ドレン収集ポンプからの排水が、連絡弁および分解点検中の弁を通じて４号機床ドレン収集ポンプへ流れ、同ポンプの排水ラインや空気抜き配管より排水枡に流れ込みましたが、排水枡の排水配管では排水しきれず溢れたものと推定した。
+
+　対策として、当該弁については手入れを行い、閉じた状態で漏えいがないことを確認するとともに、定期的に点検を実施することとした。また、詰まりの確認された連絡配管の排水配管については取り替えを行った。
+　今回の事象のように連絡弁で隔離し、弁の点検を行う場合は、事前に連絡弁に通じるポンプを運転し、連絡弁に漏えいのないことを確認する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S036]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物処理建屋における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/07/31 14:52:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

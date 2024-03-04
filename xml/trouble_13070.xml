@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[〇調査結果
+中央制御室非常用循環系の点検における社内規定類の調査、作業計画段階、作業実施段階における当時の対応状況調査および当時の関係者への聞き取りとそこから得られた事実をもとに要因分析を実施した。
+（１）社内規定類の調査結果
+中央制御室非常用循環系について、保全計画等に基づき定期的に行う点検・保修を実施するため、計画的に運転上の制限外に移行する場合の運用に係る社内規定類の記載内容について調査した。
+
+ａ．保安規定
+第８４条、第８８条に示す記載事項は、新規制基準施行により保安規定に規定された内容であり、第１４回定検で初めて適用する事項であった。また、第１３回定検までは第６９条のみが適用されていたことから、中央制御室非常用循環系に関する点検作業をモード５であり、かつ使用済燃料ピットで照射済燃料を移動していない時期に実施していた。
+
+ｂ．その他の規定類
+保安規定を除く他の規定類について、中央制御室非常用循環系の点検に係る記載の有無を確認した結果、「伊方発電所３号機　原子炉施設停止時保安管理内規」（以下、「炉停止時内規」という）に以下が要求されている。
+（要求事項）
+・各設備についてモード５，６および燃料取出状態の期間は１台確保すること。
+・モード５、６および燃料取出状態の期間において、使用済燃料ピットでの照射済燃料移動中の場合は各設備について２台確保することを記載。
+・燃料取出状態の期間において、保安規定第８８条を適用中の場合は、点検時の措置が実施されていることを確認することを記載。
+
+以上より、保安規定および社内規定類の記載事項と、モード５において中央制御室非常用循環系を点検する行為との適合性を以下に整理する。
+・保安規定第６９条
+中央制御室非常用循環系の機能が要求される期間は、モード１，２，３，４および使用済燃料ピットでの照射済燃料移動中である。当該設備を点検した期間はモード５であり、また使用済燃料ピットで照射済燃料を移動していなかったことから、保安規定第６９条には抵触していない。
+
+・保安規定第８４条および第８８条
+保安規定第８４条では、中央制御室非常用循環系の機能が要求される期間は、モード１，２，３，４，５，６および使用済燃料ピットに燃料体を貯蔵している期間と規定している。伊方発電所第３号機では、使用済燃料ピットに燃料体を継続して貯蔵しているため、本来はどの時期においても中央制御室非常用循環系の機器を隔離して点検作業を実施できない。このため保安規定第８８条に従い、表８８に示す「第８８条適用時期」に「点検時の措置」を実施したうえでこれらの機器を隔離し、点検作業を開始する必要がある。「第８８条適用時期」としては、「モード１，２，３，４，５，６および使用済燃料ピットでの照射済燃料移動中以外」の時期、つまり原子炉容器内から燃料体を全て取出してあり、かつ使用済燃料ピットでの照射済燃料を移動していない時期とされている。このため「点検時の措置」を実施し、使用済燃料ピットでの照射済燃料を移動していない時期ではあるが、モード５において機器を隔離状態にしたことは、保安規定第８８条のうち適用時期に抵触する。
+
+・炉停止時内規
+炉停止時内規では、燃料取出状態の期間中であれば保安規定第８８条に従って計画的に運転上の制限外へ移行し、点検作業を実施できることが定められている。当該設備を隔離した時期は原子炉容器内に燃料体があるモード５であり、保安規定第８８条に従っていなかったことから、炉停止時内規に抵触する。
+
+保安規定、炉停止時内規とも解釈や確認手順の具体的な記載はなく、作業実施時期の検討は、当該記載との照合により実施する運用となっていた。また、保安規定および炉停止時内規と確認した結果の妥当性を客観的に確認できる資料および帳票の連携等、具体的な運用方法は規定されていなかった。
+
+（２）点検作業を実施するための手続き
+点検作業を実施するための手続きについては、「伊方発電所保守内規」に以下のとおり規定されている。
+ａ．作業計画段階
+作業担当課は、定検中の点検作業について、以下の手順により作業計画を確定する。
+（ａ）作業担当者および作業担当副長は、定検中のプラント状態や主要工程を示す基本工程表および保安規定を確認し、作業可能時期、作業体制、必要な点検期間等を検討して作業工程表を作成する。
+（ｂ）作業担当課は、作成した作業工程表を基に、所内関係箇所と調整を行う。
+（ｃ）作業担当者は、所内関係箇所と調整が完了し作業担当課長が確認した作業工程表に基づいて作業票へ作業計画の案を入力し、所定の関係者の確認および所長の承認を受け作業計画として確定する。なお、作業票には、参考となる資料等は添付されていなかった。
+
+ｂ．作業実施段階
+作業担当課および系統管理課は、作業実施段階として以下の事項を行う。
+（ａ）作業担当課長は、保安規定第８８条第３項に規定している予防保全を目的とした計画的に運転上の制限外に移行する作業（以下、「予防保全作業」という）を実施する場合は、作業を行う前に保安規定に従って点検時の措置を実施し、原子炉主任技術者へ文書により確認を得る。中央制御室非常用循環系における点検時の措置の内容は、「使用済燃料ピットの水位がEL.31.7m以上および水温が65℃以下であることを確認すること」とされており、その後、１週間に１回の頻度で実施する必要がある。また、予防保全作業は、保安規定に定められている適用時期の間、実施する。
+（ｂ）作業担当者は、系統管理課長へ隔離許可および作業許可を依頼する。
+（ｃ）系統管理課長は、作業票に基づく作業の開始に当たっては、作業の内容と隔離時期、範囲により作業許可条件を満足していることを確認する。
+（ｄ）系統管理課長は、作業票に基づき系統の隔離許可を行い隔離実施後、作業担当者へ作業を許可する。
+（ｅ）作業担当課長は、系統の隔離が実施されたことにより運転上の制限外に移行したことを当直長へ通知し、作業に着手する。
+
+（３）手続きの実績調査
+（２）に示した内容に従って、第１４回定検時の中央制御室非常用循環系の点検作業を行うために実施された手続きの実績を調査した。
+ａ．作業計画段階
+・当該作業の作業担当者および作業担当副長は、平成２９年３月、当該作業の予定日を平成２９年１０月５日に設定した。
+・作業担当課は、平成２９年４月～６月の間に所内関係箇所と調整を行った後、平成２９年８月、作業担当課長の確認を受け、作業工程表を制定した。当該作業の予定日は、当初案とおりの平成２９年１０月５日であった。
+・作業担当者は、所内調整済みの作業工程表に基づき必要な情報をＥＡＭに入力し、作業担当副長の承認を受けた。
+・平成２９年９月２６日に所定の関係者の確認および所長の承認を受け、作業計画として確定した。
+
+ｂ．作業実施段階
+・作業担当課長は、平成２９年１０月５日に、作業担当者が保安規定に定められている点検時の措置を実施し作成した通知文書を確認後、原子炉主任技術者の確認を得た。　　
+・作業担当者は、作業開始のため系統管理課長へ隔離許可および作業許可を依頼した。
+・系統管理課長は、作業担当者から中央制御室非常用循環系に係る作業を行うにあたり、作業許可条件を満足していることを確認したうえで隔離許可および作業許可した。
+・作業担当課長は、作業担当者が運転上の制限外へ移行したことを確認し作成した通知文書を確認後、当直長へ通知した。
+　　
+以上より、手続きは社内規定類に定められている内容に従って実施されていることを確認した。
+
+（４）聞き取り調査
+（３）に示した実績調査結果に基づき、関係者に当時の対応について聞き取り調査を行った。
+ａ．作業担当者
+・当該作業は、予防保全作業として取り扱う必要があることは認識しており、作業工程の検討を行った。
+・点検予定日の設定にあたっては、平成２９年１月に所内周知された基本工程表と保安規定第８８条表８８に定められている予防保全作業の適用時期を確認し、従来の定検において同作業を実施していた時期と同じ時期でも実施できると判断し、定検開始直後（燃料取出し前）に当該作業を実施する計画とした。上記の判断にあたっては、保安規定に定められている適用時期として「モード１，２，３，４，５，６および使用済燃料ピットでの照射済燃料移動中以外」と記載されている文章を、本来は「モード１，２，３，４，５，６および使用済燃料ピットでの照射済燃料移動中以外」の時期、つまり原子炉容器内から燃料体を全て取出してあり、かつ使用済燃料ピットでの照射済燃料を移動していない時期と解釈すべきところ、「モード１，２，３，４，５，６」の時期および「使用済燃料ピットでの照射済燃料移動中以外」の時期と誤って解釈したため、当該作業予定日はモード５であり、かつ使用済燃料ピットでの照射済燃料移動作業がないことから問題ないと判断した。また炉停止時内規に当該作業に関する規定があることは認識し確認していたが、誤った保安規定の解釈が念頭にあったため、炉停止時内規に記載している備考まで注意深く確認していなかった。作業担当者は、検討結果について、保安規定第８８条表８８と基本工程表により、作業担当副長に説明を行った。
+・作業当日、運転上の制限外へ移行する前に点検時の措置を実施したが、原子炉主任技術者の確認を得るための文書作成時に保安規定を再確認しなかった。また、系統管理課長による作業許可後、運転上の制限外へ移行したことの確認は実施したが、当直長へ通知するための通知文書作成時に保安規定を確認しなかった。
+
+ｂ．作業担当副長
+・作業担当者と同様に、保安規定に定められている適用時期について誤った解釈をしていたため、作業担当者が示した基本工程表と保安規定を確認し作業内容および作業実施予定時期に問題ないと考え、作業担当課長へ説明をするよう指示した。また保安規定を確認しておけば炉停止時内規の確認は不要であると考え、当該内規の確認はしなかった。
+
+ｃ．作業担当課長
+・当該作業担当課では、第１４回定検において予防保全作業２件の実施を予定しており、それらの実施時期に係る検討結果について、当該作業の計画承認前に作業担当者から説明を受けた。
+・作業担当者から、当該作業実施予定日と保安規定に定められている適用時期について、表８８記載内容とその解釈として「燃料移動中以外は予防保全作業を適用可能」であり問題ない旨の説明を受けた。作業担当課長は、説明内容に特に疑問を持たず保安規定要求に適合するものと考えた。
+・作業当日、運転上の制限外へ移行する前に作業担当者が作成した原子炉主任技術者の確認を得るための文書について、点検時の措置の完了時間確認は実施したが、作業実施時期の再確認はしなかった。また、系統管理課長による作業許可後、作業担当者が作成した当直長へ通知するための通知文書について運転上の制限外へ移行したことの確認は実施したが、作業実施時期の再確認はしなかった。
+
+ｄ．関係課長、各主任技術者および所長
+・当該作業における関係課長である発電課長および各主任技術者（電気主任技術者、ボイラー・タービン主任技術者、原子炉主任技術者）は、事前に作業担当課が確認済みであることから問題ないと思い込んだ状態で確認を行った。また所長は、作業担当課長、関係課長および各主任技術者が確認を行っていることをもって承認を行った。
+・原子炉主任技術者は、作業担当課長から点検時の措置の実施について文書により確認した際、点検時の措置の内容、完了時間、実施結果に着眼し確認した。また当該文書に記載されている保安規定条文、運転上の制限は保安規定とおりの記載であることを確認した。
+
+ｅ．系統管理課長
+・当該作業の作業許可申請に関して作業担当者より作業の内容と隔離時期、範囲について問題ないことの説明を口頭により受け、作業計画段階で所内調整は完了していたことから、隔離許可を行い隔離実施後、作業許可を行った。
+
+ｆ．当直長
+・作業担当課長から運転上の制限外へ移行した旨の通知を受けたが、作業実施にあたり関係課長等による必要な確認、承認行為が実施されていたことから、問題があると思わなかった。
+
+なお、第１５回定検時の中央制御室非常用循環系の点検における作業計画段階および作業実施段階の対応実績を調査した結果、第１４回定検時と同様の手順で同時期に実施しており、作業担当課の説明も同様のものであった。当直長は、系統管理課長から隔離を行う旨の連絡を受けた時、現在のモードでは計画的に運転上の制限外へ移行できる適用時期ではないと判断したため、隔離を実施する前に作業を中断させた。
+
+（５）関係者の力量調査
+聞き取り調査を行った際、各関係者が有する力量についても調査を行った。
+その結果、管理者として職位についている者（課長以上）は、所管する組織の管理責任者として所管業務を統括・推進するとともに、必要に応じて関係者に対し指導・調整ならびに専門的な立場からの連携・援助等を行う能力を有する者として、社長がその職位への配置を決定した者であり、一般的な職務遂行能力を有していることを確認した。各主任技術者および当直長は、管理者の中から国が定めた国家資格を有している者を選任しており、十分な力量を有していることを確認した。また、作業担当者および作業担当副長は、必要な教育訓練を受講し現場経験も積んでいたことから、中央制御室非常用循環系機器に関する工事計画、工事管理等の業務を遂行できる力量を有していたことを確認した。
+
+以上より、各関係者は当該作業に関する必要な力量を有していたものと考える。
+
+（６）当該作業以外の予防保全作業の調査
+当該作業以外の予防保全作業について、予防保全作業の適用時期が定められた保安規定（第６０次改正）施行後に実施した第１３回定検起動時（平成２８年６月２３日以降）、第１４定検回および第１５回定検における予防保全作業の適用時期で定められた実施時期に行った作業を確認した結果、今回の事象を除いて他に問題がないことを確認した。
+
+（７）要因分析
+以上の調査結果から、中央制御室非常用循環系の点検実施可能時期を誤った要因は、以下に大別される。
+ａ．保安規定等の理解に関する要因
+保安規定は、伊方発電所の原子炉施設の保安のために必要な措置を規定しており、伊方発電所で保安活動を実施する各組織は、保安規定を遵守することが必要であるが、今回の事象においては、複数の発電所員が保安規定第８８条記載事項について誤った解釈を行っていた。これは、複数の発電所員について、保安規定第８８条記載事項に関する理解が不足していたことが要因と推定される。また複数の発電所員が、炉停止時内規記載事項について十分に確認を行っていなかった。これは、複数の発電所員について、保安規定を除く他の規定類に関する理解が不足していたことが要因と推定される。
+
+ｂ．各プロセスにおける確認、承認または許可に関する要因
+作業担当課（作業担当課長、作業担当副長および作業担当者）は、関係課長、各主任技術者および所長へ当該作業の確認または承認を申請し、また系統管理課長へ作業許可を申請した時に、作業票に入力している作業実施予定時期等について、その根拠となる保安規定および炉停止時内規の記載事項への適合性に関する詳細な説明を行わなかった。
+これは作業担当課が確認、承認または許可を申請する際に参考となる資料等を示さず、関係課長、各主任技術者、所長および系統管理課長が確実にチェックできる仕組みがなかったことが要因と推定される。
+
+ｃ．コミュニケーションに関する要因
+今回の事象に関わった関係者のうち上位の職位者は、下位の職位者が作成、確認した作業計画について疑問を持たず、当該の点検作業実施可能時期の妥当性について本当に問題ないか、さらに掘り下げた疑問を持つことなく質問をしなかった。
+これは各関係者が、「自分が確認、承認または許可するまでに他の職位者が確認しているだろう」との認識のもと、現在の状況や活動に対して「問いかける姿勢」が欠けていたことが要因と推定される。]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>7</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[231]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13070</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[206]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード５]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2021/04/23 10:01:59]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[事象発生時のモード５では、中央制御室非常用給気フィルタユニットは、保安規定第８８条に定める保全計画等に基づき定期的に行う点検・保修を実施するために、計画的に運転上の制限外に移行することを認めていない。
+よって、過去２０１７年１０月５日に、モード５での運転上の制限の要求のある 保安規定第８４条 ８４-１７-１　居住性の確保および汚染の持ち込み防止　について運転上の制限の逸脱を２０２０年１月６日に宣言した。
+しかし、事象の確認時の２０２０年１月６日には、中央制御室非常用給気フィルタユニットは健全な状態であり、即、運転上の制限の逸脱復帰を宣言した。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2020/01/13 16:15:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202001061630]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[〇対　策
+（１）今回の事象および保安規定遵守について全所員および関係会社作業員に対し、周知徹底を図った。（令和２年１月７日周知済み）
+
+（２）保全計画等に基づき定期的に行う点検・保修を実施するため、計画的に運転上の制限外に移行する場合の運用に関する以下の事項を社内規定に反映すると共に、関係者への周知徹底を図った。
+・保安規定記載事項を誤認しないよう、適用可能時期に係る記載を新たに追加することにより、当該規定の解釈の明確化
+・計画の妥当性を明確に確認できるチェックシート（作業票の確認に際して参考となる資料を含んだもの）を作成するとともに、このチェックシートを作業票に添付して社内関係者に連携のうえ、確認または承認を受ける運用
+
+（３）関係者に対する教育を、以下のとおり実施する。
+・従来どおり保安規定が改定された際は、全所員および関係会社作業員へ周知することに加え、技術系所員に対して改定内容に関する教育を実施する。
+・保安規定第８８条の運用について、技術系所員に追加の教育を実施する。
+・社内規定類のうち、所属する部署に関わらず知っておくべき重要な社内規定類を確実に確認することについて、技術系所員に定期的に教育を実施する。
+
+（４）「問いかける姿勢」の定着を確実なものとするため、安全文化醸成活動として継続的に取り組んでいく。
+具体的には、今回の事象について毎年実施している「安全文化の教育」内容へ反映することにより、長期的に「問いかける姿勢」が定着するよう全所員に繰り返し意識付けを実施する。これらの取り組みを新規制定する社内規定へ定め、安全文化醸成活動に関する計画に反映することにより、ＰＤＣＡサイクルとして継続的に実施していく。
+また、作業担当課が関係課長、各主任技術者および所長へ当該作業の確認または承認を申請する時、および系統管理課長へ作業許可を申請する時に、相互にコミュニケーションをとり、お互いに認識不足や解釈の誤りがないことを確認し合える環境となるよう、関係者へ周知する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/04/23 10:01:59]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所３号機は第１５回定期検査中のところ、１月６日１６時３０分、前回の第１４回定期検査時に実施した中央制御室非常用循環系※１の点検作業において、実施時期の誤りにより保安規定に定める運転上の制限を満足していなかったこと※２を確認した。
+その後、過去の定期検査および現在実施中の定期検査において、同様の事象がないことを確認した。
+今後、点検作業や検査等を確実に実施するとともに、引き続き、原因について詳細に調査する。
+なお、当該設備の点検は予防保全を目的としたものであり、当時において、当該設備に異常はなし。
+また、本事象による環境への放射能の影響はなし。
+
+※１：放射性物質が放出されるような重大事故が発生した場合に、放射性物質が中央制御室へ流入することを防止するため外気を遮断し、中央制御室等の空気をフィルタ経由で循環させる空調装置。
+※２：保安規定では、中央制御室非常用循環系の点検作業が実施できる期間を燃料取り出し後として定めているが、前回の第１４回定期検査では当該期間外に点検作業を行っていた。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-四国-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[〇推定原因
+作業担当課は、保安規定第８８条に関する理解が不足し、記載事項の一部について解釈を誤った状態であったこと、また炉停止時内規記載事項についても誤った保安規定の解釈が念頭にあったため、十分な確認を行わなかったことにより、本来であれば当該作業を実施できない時期に作業の実施を計画した。
+作業担当課は、関係課長、各主任技術者および所長へ当該作業の作業計画を確認または承認を申請し、また系統管理課長へ作業許可を申請した時に、申請した内容について確認できる資料等を示さなかった。これは申請を受ける関係課長、各主任技術者、所長および系統管理課長が、確実にチェックできる仕組みについて構築できていなかった。
+今回の事象に関わった関係者は、「問いかける姿勢」が欠けていたため掘り下げた質問を行わず、組織として十分なチェック機能が働かなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機 中央制御室非常用循環系の過去の点検時期誤りについて]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[2020年5月13日の原子力規制委員会にて「監視」として報告された。
+保安規定第８４条（重大事故等対処設備）表８４－１７の運転上の制限を満足していなかった場合には、速やかに、当直長は、当該系統を動作可能な状態に復旧する措置を開始することになるが、この措置が実施されておらず、また、保安規定第８７条（運転上の制限を満足しない場合）第１項に基づき、速やかに運転上の制限を満足していないと判断することになるが、これが行われていなかったことから、保安規定第８４条（重大事故等対処設備）及び第８７条（運転上の制限を満足しない場合）に違反する。
+しかしながら、当該系統の動作が求められる場合には、点検作業を中断して当該系統を復旧することで対処が可能であったことから、「監視」とする。]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>98045</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/01/13 16:15:28]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[319]]></KIKI_CODE>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13070</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[031]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[フィルタ・ストレーナ]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>21</SORT_NO>
+						<BUHIN_CODE><![CDATA[031]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[319]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明のフィルタ・ストレーナ]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[310]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[310]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[フィルタ・ストレーナ装置]]></KIKI_NAME>
+					<SORT_NO>20</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[中央制御室換気空調系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[231]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[231]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[保安規定の理解に関する管理]]></S_GENIN_NAME>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[作業の申請時の確認プロセスの管理]]></S_GENIN_NAME>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1430]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13070</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

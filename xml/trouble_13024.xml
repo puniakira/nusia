@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13024</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2022/02/07 09:14:35]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>90498</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/09/27 11:07:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20190910]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2022/02/07 09:14:35]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所3号機および4号機の新規制基準への適合性審査における有効性評価（注1）および、既に許可された原子炉設置変更許可申請での安全評価の解析における入力値の一部に誤りがあること（注2）を確認した。
+
+　この入力値の誤りは、原子炉において異常が発生した際の原子炉の出力変化の計算において、原子炉水位が設定値まで低下してから、それを検出器が検出して原子炉が緊急停止（スクラム）を開始するまでの時間を誤って入力したという他社事例をうけ、委託先のプラントメーカが確認したところ、当社においても、原子炉がスクラムを開始するまでの時間を誤って入力していたことを確認したものである。（注3）
+
+　これまでに、既に許可された浜岡3、4号機の原子炉設置変更許可申請での安全評価の解析については、当該誤りを修正した解析をおこない、安全性への影響がないことを確認した。
+
+　なお、現在廃止措置中の浜岡原子力発電所1、2号機においても、入力値の誤りがあったことを確認した。
+
+　本事象の原因は、委託先において、業務マニュアルの改訂が疎かになっており各入力値の作成方法が十分に明確化されていなかったこと、および調査者による入力値の確認が不十分であったこと等であった。
+
+　これら原因に対する対策として、業務マニュアル改訂による解析に必要な全ての入力値の作成方法の明確化、これに基づき業務を実施することの徹底、業務マニュアルに従って正しく入力値が作成されていることを調査者が確認するプロセスの規程化、調査等の役割の目的周知等の対策を実施した。
+
+　今後は、水平展開として他に同じような誤りがないことを確認した上で、正しい入力値を用いた有効性評価等を行う。
+
+（注1）発電所における重大事故等対策が有効に機能するか評価をおこなうものである。
+（注2）原子炉設置変更許可申請（3号機：9×9燃料、4号機：9×9燃料、MOX燃料の採用時）における安全評価の解析を確認したところ、入力値の誤りがあったのは、原子炉の出力運転中に給水流量の全喪失が起こり、原子炉水位が低下する事象における評価である。なお、現在審査中の有効性評価では、当該解析と同じ入力値を用いて評価していたことから誤りに至った。
+（注3）原子炉運転中に給水流量の全喪失が起こり、原子炉水位の低下により原子炉がスクラムする場合、原子炉水位の低下を検知し、スクラム信号を出すことになるが、原子炉水位が設定値まで低下してから、それを検出器が検出してスクラムを開始するまでの時間を解析では「原子炉スクラムの遅れ時間」として考慮している。解析においては「原子炉スクラム用」の水位計の遅れ時間（1.05秒）を入力する必要があったが、浜岡3、4号機では給水流量の調整のための「給水制御用」の水位計の遅れ時間（0.3秒）をすべての解析に用いていた。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-中部-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[有効性評価等における入力値の誤り]]></TITLE_NAME>
+	<UNITS><![CDATA[3,4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/09/27 11:08:12]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12949</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/05/10 12:47:01]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>82308</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/05/10 12:46:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201903051220]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+　２０１９年３月５日 １２時２０分、廃止措置中の伊方発電所１号機の放射線監視盤※１の点検に伴い、事前に緊急時対策支援システム（以下、「ＥＲＳＳ」）※２の補助建家排気筒ガスモニタ※３（１Ｒ－１４）のデータ伝送停止を原子力規制庁へ連絡※４すべきところ、事前に連絡せずに作業を開始し、データ伝送が停止したことを保修員が確認した。
+その後、点検のために停止していた補助建家排気筒ガスモニタ（１Ｒ－１４）を復旧し、１３時０１分にＥＲＳＳへのデータ伝送を再開した。なお、補助建家排気筒ガスモニタ（１Ｒ－１４）停止期間中は別の補助建家排気筒ガスモニタにて正常に監視されており、監視機能に問題はなかった。
+
+※１ 放射線監視盤
+　放射線監視盤は中央制御室に号機毎に設置しており、建家内、室内などの外部放射線に係る線量当量率および放出放射性廃棄物中または系統中の放射性物質の濃度を連続監視し、自動記録、指示を行い、放射能レベルがあらかじめ設定された値を超えたときは警報を発信させる盤。
+
+※２ 緊急時対策支援システム（ＥＲＳＳ）
+　原子力発電所が正常に稼動しているかどうかを常時確認し、事故が起こった場合に、事故状態の確認・判断、今後の事故進展を解析・予測するための国のシステム。このシステムに使用するプラントデータは原子力発電所から原子力規制庁へ常時伝送されている。
+
+※３ 補助建家排気筒ガスモニタ
+　補助建家排気筒からの放射性物質の濃度を連続測定する装置。
+
+※４ 原子力規制庁へ連絡
+　点検のために原子力規制庁に常時伝送しているプラントデータのうち、一部のデータ伝送が停止する際には、「ＥＲＳＳ常時伝送パラメータの点検予定」に日時を記載し、毎月末に翌月の予定を原子力規制庁へ提出している。その後、変更・追加する必要が生じた場合は直ちに再提出している。
+
+
+○原因
+（１）ＥＲＳＳ常時伝送パラメータの点検予定作成段階
+　作成担当者が作成時に参照した、「２号機特別点検放射線監視装置モニタ隔離一覧表」には、２号機との共用設備のモニタしか記載が無く、「２号機特別点検放射線監視装置工程表」には、１号機側のラック配列図や記録計等の情報の記載が無く、どちらからも補助建家排気筒ガスモニタ（１Ｒ－１４）を含む１号機側の停止モニタが分からなかった。
+
+（２）ＥＲＳＳ常時伝送パラメータの点検予定チェック段階
+「ＥＲＳＳ常時伝送パラメータの点検予定」作成時の具体的な運用ルールが無く、作成担当者任せとなっていた。　　
+
+
+○対策
+（１）ＥＲＳＳ常時伝送パラメータの点検予定作成段階
+　「２号機特別点検放射線監視装置モニタ隔離一覧表」に２号機との共用設備のモニタを含んでいる放射線監視盤の全てのモニタを記載、および、「２号機特別点検放射線監視装置工程表」に１号機側のラック配列図や記録計等の情報を記載した。なお、放射線監視装置以外で２号機との共用設備のうち点検資料で一方しか情報が記載されていないものは無かった。
+
+（２）ＥＲＳＳ常時伝送パラメータの点検予定チェック段階
+　「ＥＲＳＳ常時伝送パラメータの点検予定」を作成する際には、作成担当者が作成した後、管理者と作業責任者が「２号機特別点検放射線監視装置モニタ隔離一覧表」および「２号機特別点検放射線監視装置工程表」に記載している点検内容と相違が無いことを確認する運用に変更した。なお、原子力規制庁等、外部へ連携されている資料において、「ＥＲＳＳ常時伝送パラメータの点検予定」以外はすべて作成担当者と別の者が確認していた。
+
+（３）点検実施段階
+　更なる対策として、放射線監視盤点検の際には、「ＥＲＳＳ常時伝送パラメータの点検予定」を持参し、放射線監視盤に掲示する運用とし、作業前に作業責任者が「ＥＲＳＳ常時伝送パラメータの点検予定」を確認する手順とした。
+また、作業要領書にＥＲＳＳにて伝送しているパラメータを停止させる際は、作業前に「ＥＲＳＳ常時伝送パラメータの点検予定」を確認し、作業日に点検予定が記載されていることを確認する項目を追加した。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方1号機　緊急時対策支援システムへのプラントデータ伝送停止の事前連絡漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/05/10 12:47:01]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

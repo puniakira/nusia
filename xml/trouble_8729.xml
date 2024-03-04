@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8729</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/06 18:11:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3727</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/03/28 18:04:43]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200703280950]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/06 18:11:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の３号機（沸騰水型、定格出力110万キロワット）において、平成19年３月28日午前９時50分に「チャンネルＡ主蒸気管放射能高高」、午前９時53分に「Ａ系原子炉自動スクラム」と「主蒸気管放射能高高トリップ」の警報が発生し、その後、解除した。
+プロセス放射線モニタの点検作業において、当該モニタの回路の隔離処置を行っていたところ、誤って警報が発生したものと推定した。
+
+　なお、本事象は警報のみ発生したもので、主蒸気管放射線モニタの指示値に変動はなく、安全上の問題はない。
+　また、これによる外部への放射能の影響はない。
+
+　調査の結果、以下のことがわかった。
+　・当該処置を行う端子台がコネクタタイプであったこと。また、それを表す電気回路図の表記がわかりづらかったこと。
+　・当該端子台とそれ以外の端子台では、警報を発生させないための当該処置の方法が異なることについて、当直および作業主管グループの知識が不足していたこと。
+
+　このため、警報が発生した原因は、当直および作業主管グループの知識が不足していたため、当該処置を誤った箇所で実施したことによるものと推定した。
+
+　対策として、当直および作業主管グループに対し、端子台に関する電気回路の構成、電気回路図の表記および電気回路の処置方法について追加研修を実施するとともに、当該端子台がコネクタタイプであることについての解説を電気回路図に追記する。
+　また、当直および作業主管グループに対し、今回の事例の周知ならびに事例検討会を実施する。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S090]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[誤警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/03/28 18:29:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

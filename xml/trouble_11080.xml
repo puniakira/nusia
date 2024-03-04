@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11080</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/09/08 14:05:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2010/09/07 12:09:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20100803]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[当社は、燃料集合体の出力および原子炉冷却材による除熱状況を確認している専用の計算機（炉心性能計算機）のソフトウェアの一部に誤り（※１）がある旨の連絡を、2010年7月2日に、当該計算機の製造メーカより受けた。
+ただちに発電所への影響について評価を行い、発電所の安全・安定運転に支障のないことを確認の上、同種の誤りの有無を調査してきた。（これらの調査結果について、原子力安全・保安院へ報告した。）
+
+＜確認結果＞
+当社では、浜岡4、5号機で当該ソフトウェアを使用している。
+確認の結果、ソフトウェアの一部誤りによる計算結果への影響は、通常運転時に見られる微少な変動に収まる程度のわずかなものであり、燃料集合体の健全性を維持するための制限値に対し、十分な余裕をもって満足していることを確認した。
+ソフトウェアの修正作業については、準備が整ったものから順次実施しており、第４回定期検査中の5号機については完了した。また、運転中の4号機については、プラントへの影響がないことを確認の上、実施する。
+なお、当該ソフトウェアを使用していない3号機についても、同種の誤りがないことを確認した。
+
+※１　燃料集合体の出力および原子炉冷却材による除熱状況の確認には、中性子を検出する計器（局部出力領域モニタ（以下、「LPRM（Local Power Range Monitor）」という。））を使用している。LPRM検出器は、使用に伴って感度が緩やかに変化するので、使用期間に応じて感度を補正している。
+炉心性能計算機のソフトウェアの一部誤りとは、LPRM検出器の感度の補正が適切でなく、燃料集合体の出力および原子炉冷却材による除熱状況の計算結果に誤差が生じるというもである。
+なお、4号機は172個、5号機は208個のLPRM検出器を使用している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中部-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所4、5号機炉心性能計算機のソフトウェアの一部誤りについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4,5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/09/08 14:05:18]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

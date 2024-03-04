@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12899</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/01/18 16:52:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>80012</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/12/06 15:02:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201812041109]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/01/18 16:52:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象の概要】
+　２０１８年１２月４日１１時０９分頃、女川原子力発電所１号機原子炉建屋地下１階（放射線管理区域内）にある原子炉隔離時冷却系ポンプ室非常用空調機エリア※１において、排水用の溜め升より水が溢れ出していることを当社社員が確認した。
+　また，同エリアの真上にある１階通路および真下にある地下２階原子炉隔離時冷却系ポンプ室においても溢水していることを確認した。
+　本事象は，復水補給水系※２の点検終了に伴い，当社社員が当該系統に再度水を満たす作業（以下，水張り作業）を行っている時に，当該作業において「開」となっていた弁（以下、当該弁）からの排水量が多かったことから，排水しきれなかった水が溜め升等より溢れ出たもので，溢水量は約９００リットル，放射能濃度は検出限界未満であった。
+　なお，溢れ出た水は全て原子炉建屋内に留まっており，周辺環境への影響はない。
+（２０１８年１２月４日お知らせ済み）
+
+【溢水に至った経緯】
+　当該弁は，通常は「全閉」運用であり，今回の復水補給水系の点検に伴う当該系統内の水抜き作業時においても，作業実施時から終了時まで「全閉」としておく計画であった。
+　その後，効率的に水抜きを実施するため，水抜き箇所の追加を検討し，当該弁について，水抜き作業時に「全開」，点検終了後の水張り作業前に「全閉」とするよう，安全処置※３の変更を行ったうえで，水抜き作業を実施した。
+　本事象は，以下の原因により，点検終了後の水張り手順を作成する際，「安全処置の変更が反映されていない手順を作成したこと」および「水張り作業実施前後の状態が「全閉」で変わらないと認識していた当該弁については，水張り作業実施後に状態確認を行う手順としたこと」により，本来，水張り作業実施前に「全閉」とすべき当該弁が「全開」状態のままとなり，溢水に至ったものである。
+
+※１ 原子炉隔離時冷却系ポンプ室非常用空調機エリア
+　原子炉の圧力が高い状態で原子炉へ注水する系統である原子炉隔離時冷却系ポンプ室の非常用空調機が設置されているエリア。
+※２ 復水補給水系
+　液体廃棄物処理系で処理された水等を貯留した復水貯蔵タンクを水源とし，各建屋に設置されている機器等への補給水の供給を目的とした系統。
+※３ 安全処置
+　作業による他系統・設備への影響・波及を防止するために，作業前に講じる「電源の断」や「弁の開閉」などの処置のこと。
+※４ 原子力保修作業管理システム
+　原子力発電所の各設備の保修作業の実施に必要な手続き等の運用管理を行うためのシステム。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東北-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所１号機原子炉建屋内における溢水に係る原因と対策について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/12/06 15:03:20]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

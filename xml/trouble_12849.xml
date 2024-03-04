@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【作業関連要因】
+　・事象発生時、水処理設備サーバの設置作業（機器据付・復元試験）を実施していた。
+　・伝送不能が発生したデジタルレコーダを含む10台について、水処理設備サーバへ接続変更する計画であった。
+　・デジタルレコーダはサーバとは2系統しか接続できない設備仕様であり、接続変更する際は、既設集中監視サーバへの接続を停止する必要があった。
+　・社内ネットワークへ接続されたことにより、デジタルレコーダへサーバ4系統が接続された状態となり、伝送不能が発生した。
+
+＜工場でのモックアップ確認＞
+　・実機を模擬したところ、デジタルレコーダと集中監視システムとの伝送異常（接続と切断の繰り返し）が再現した。
+　・デジタルレコーダ監視ＰＣとの伝送停止は再現せず。
+　
+【背景要因】
+＜要因１＞関連設備への影響評価不足
+　　当社は，運用中の集中監視システムネットワークへの追加作業であったが、関連設備への影響評価が不足していたため、デジタルレコーダ設備仕様の逸脱に至る認識がなかった。
+
+＜要因２＞作業内容の確認不足
+　　受注者作成の要領書において、社内ネットワークへのサーバ接続時の手順※が明確に記載されておらず、接続にあたっての条件について検討、確認が不足した。
+
+　※水処理設備サーバを社内ネットワークへ接続する際は、既設集中監視システムサーバへの接続を停止する必要があった。]]></CHOSA_GAIYO_TXT>
+	<S_MANUAL_ANZEN><![CDATA[滞留水移送設備]]></S_MANUAL_ANZEN>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[サブドレン水位監視設備]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12849</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[106]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[廃止措置中]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2020/10/27 15:12:41]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[サブドレン装置]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[実施計画Ⅲ章第１編26条（建屋に貯留する滞留水）で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」を満足出来ていないと判断]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>93820</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/08/29 14:01:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201807251108]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[1.既存設備への影響評価、リスク抽出の実施
+
+・監理員および受注者は、運用中設備へサーバ等機器をネットワークへ追設する際は、設計検討、工事計画の段階において既存設備への影響評価、リスク抽出を実施する。
+・評価結果は技術検討書、設計管理シートへ取り纏め、また受注者へ要領書への反映を要求することで、工事実施時におけるリスクおよび対策の共有を図る。
+・手法としては設備図書（ネットワーク構成図、機器リスト等）から接続されている関連設備を抽出し、設備仕様、伝送条件（I/F仕様）からリスクを抽出し対策を検討する。
+
+2.工程表、要領書への対象設備、実施範囲の明確化
+　
+・受注者においては工程表の作業内容について、試験項目、実施範囲（対象設備、I/F）を明確し、接続ケーブルや、起動プログラムを確認することで既存設備への影響範囲確認、作業内容、手順の共有を図る。
+・要領書については確認事項として対象ケーブルや接続できないケーブルの記載、電源投入においては各プログラムの起動状態を記載する。
+・試験対象範囲の把握、対象外のプログラム起動による既存設備への干渉を防止する。
+
+3.上記対策についてグループ管理文書への反映
+
+(1)「廃炉設備設置における計装設備の要求仕様」
+・計装グループ共通の追加仕様書添付資料としている文書へ記載することで受注者への要求事項とする。
+①本事象が発生したデジレコについて接続数に制限があることを明確にし、設備仕様逸脱による伝送異常の発生防止を図る。
+②運用中設備にサーバ等をネットワークへ追設する際は、既存設備への影響確認、対策の要領書への反映を要求することで、作業内容、実施範囲の把握、共有を図ることで再発防止を図る。
+　
+(2)「計測制御設備関連業務運営手引き」
+・(1)が受注者への要求事項であるのに対し、表記文書へ反映することによって、グループメンバーの業務実施事項とする。
+①既存設備のシステム構成をする際は、設計管理、既存設備への影響確認を実施し、技術検討書、設計管理シートへ取り纏める。
+②確認結果については要求事項として発注仕様書へ反映し、受注者が作成する設備図書、要領書等が要求事項を満足していることを確認する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/10/27 15:12:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　7月25日11時08分、免震重要棟においてプロセス主建屋および雑固体廃棄物減容処理建屋近傍のサブドレン水位の監視が出来なくなった。
+
+　これにより11時19分、実施計画第1編第26条（建屋に貯留する滞留水）表26-2で定める運転上の制限「各建屋の滞留水水位が近傍のサブドレン水の水位を超えないこと」の監視が出来ない状態であると判断した。
+
+　応急措置として11時20分に滞留水移送を停止。
+　プラントパラメータ、モニタリングポスト、排水路モニタなどについて異常なし。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-東京-M003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【直接原因】
+　デジレコ設備仕様（サーバ接続制限2系統）に対し、既に運用中である集中監視システムサーバ（2系統）に加え、水処理設備サーバ（2系統）を社内ネットワークへ接続したことにより、デジレコに対しサーバ4系統が通信する状態となり、通信接続のタイミングにより3系統目以降の通信が遮断され伝送異常に至った。
+　原因となった水処理設備サーバを社内ネットワークへ接続した要因について、調査、分析を行った。
+
+【背景要因】
+　1.運用中である集中監視システムへ接続されている関連設備への影響評価が不足
+
+(1)追設する水処理設備サーバの検討に意識が集中
+・当社監理員は、追設するサーバの設備構成、監視画面改造や、当直との設備詳細調整に意識が集中し、運用中関連設備へどのような影響を与える可能性があるのか、検討、評価が不足した。
+・評価が不足したことにより、水処理設備サーバを社内ネットワークへ接続することによりデジレコ設備仕様に干渉しデジレコの伝送異常が発生することを認識できていなかった。
+　　
+(2)補助的な設備であるとの認識
+・集中監視システムについては、関連設備の監視機能を集約した補助的設備であり、主たる監視機能は各設備の監視装置に持たせている。
+・当社監理員は、作業により集中監視システムでの監視に不具合が発生したとしても、主たる監視装置での監視継続は可能と考えていた。
+
+　2.作業内容（対象関連設備、実施範囲、手順）の確認が不足
+
+(1)工程表において対象設備、実施範囲が不明確
+・受注者より提出された工程表には「搬入／設置」、「単体試験」、「組合せ試験」と、項目についてのみの記載であり、各工程の対象設備、実施範囲（例えば、本事象における直接原因である社内ネットワーク接続時期）が明確でなかった。
+
+(2)要領書における手順が不明確
+・受注者より提出された要領書において、「配線検査（ケーブル接続）」という作業項目では、「システム構成図／展開接続図通りの接続」を確認事項としており、当社監理員は図書の通り「全てのケーブルを接続」すると認識した。
+・単体試験の項目に「電源投入」する手順の記載があるが、電源投入における条件等の記載はなかった。
+・水処理設備サーバのプログラム設定は、社内ネットワークケーブル接続および電源投入にてデジレコへ通信を開始しデジレコ設備仕様を逸脱する状態であったが、対策となるべきケーブル接続、電源投入条件の記載が不足していた。
+
+　3.背景要因まとめ
+
+　以上から、当社監理員が水処理設備サーバを社内ネットワークへ接続することによりデジレコ設備仕様を逸脱し、伝送機能への影響を理解することができなかったことに加え、受注者より提出された工程表、要領書の内容から具体的な作業内容、対象設備を把握することができず、デジレコ設備仕様に対し考慮すべき条件、手順の検討が不足し、事象の発生に至ったと考える。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　プロセス主建屋および雑固体廃棄物減容処理建屋近傍のサブドレン水位の監視不能に伴う運転上の制限の逸脱について]]></TITLE_NAME>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[プロセス主建屋および雑固体廃棄物減容処理建屋近傍のサブドレン設備]]></S_KEITO_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[1]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[あり]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/09/08 20:20:43]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_ANZENKEI>
+		<KNT_ANZENKEI>
+			<ANZENKEI_CODE><![CDATA[199]]></ANZENKEI_CODE>
+			<ANZENKEI_CODE_NAME><![CDATA[その他]]></ANZENKEI_CODE_NAME>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<AUTO_MANUAL_CODE><![CDATA[2]]></AUTO_MANUAL_CODE>
+			<AUTO_MANUAL_CODE_NAME><![CDATA[手動]]></AUTO_MANUAL_CODE_NAME>
+		</KNT_ANZENKEI>
+	</G_KNT_ANZENKEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[サブドレン装置]]></S_KIKI_NAME>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[サブドレン装置]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12849</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1900]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[故意・過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[作業者の過失又は公衆の故意・過失によるもの]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1900]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12849</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[199]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[その他]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[福島第一原子力発電所　特定原子力施設に係る実施計画]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

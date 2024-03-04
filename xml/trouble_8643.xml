@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原因調査
+１．１　当該MCCBを誤って「オフ」にした原因調査
+　当該MCCBを誤って「オフ」してしまったことについて、背後要因関連図に基づき「設備面」および「操作面」から調査を行った。
+（１）設備面の要因について
+　「6.9kV M/C 4A-1」しゃ断器盤内における設備の状態について調査を行った結果、以下のことが確認された。
+ａ．「6.9kV M/C 4A-1」しゃ断器盤内の制御電源には、当該MCCBと投入／開放用制御電源の２種類が存在していた。
+ｂ．当該MCCBだけに「制御電源」との表示があった。
+ｃ．表示は当該MCCB、および投入／開放用制御電源ともにシールタイプであったが、投入／開放用制御電源の表示は剥がれてなくなっていたため、今回操作すべきであった投入／開放用制御電源に「制御電源」である旨の表示がなかった。なお、その他の6.9kV M/Cしゃ断器盤内を確認したところ、投入／開放用制御電源には「制御」と表示されているものがあった。
+　以上のことから、「6.9kV M/C 4A-1」しゃ断器盤内にある投入／開放用制御電源に以前は表示があったものの、今回の操作の時点においては表示が剥がれてなくなっていたことから、同しゃ断器盤内において当該MCCBと投入／開放用制御電源の識別が不明確となり、現場操作員が操作を誤り易い状態となっていたと考えられる。
+
+（２）－１　操作面の要因について（その１）
+　「6.9kV M/C 4A-1」しゃ断器の操作について調査を行った結果、以下のことが確認された。
+ａ．受電しゃ断器である「6.9kV M/C 4A-1」は主にプラントの起動・停止時に行われる操作であり、操作する機会が少なく、現場操作員は「6.9kV M/C 4A-1」について操作を行うのは初めてであった。
+ｂ．その他の6.9kV M/Cしゃ断器とは異なり、「6.9kV M/C 4A-1」しゃ断器盤内には、当該MCCBと投入／開放用制御電源の２種類あるという相違点について、操作員に明確に示されていなかった。また、現場操作員は２種類の制御電源が存在していることを認識していなかった。
+ｃ．現場操作員と同様に、操作を指示した中操操作員も「6.9kV M/C 4A-1」しゃ断器盤内に当該MCCBと投入／開放用制御電源の２種類が存在することについて認識していなかった。また、6.9kV M/Cしゃ断器のラックアウトおよび投入／開放用制御電源の「オフ」操作は、当該現場操作員も過去に行った経験があり、十分実施可能な操作であると中操操作員は認識していたため細かい操作方法や注意点について特に指示できなかった。
+ｄ．「6.9kV M/C 4A-1」しゃ断器盤内には、当該MCCBと投入／開放用制御電源の２種類が存在するという、他のしゃ断器との相違点があることについて、操作員に注意を促すための掲示等はなかった。
+　以上のことから、「6.9kV M/C 4A-1」しゃ断器は他のしゃ断器と比べ上記のような相違点があったが、その相違点は操作員に対して明確に示されていなかったため、現場操作員は今回の操作にあたり投入／開放用制御電源だと勘違いして、「制御電源」と表示された当該MCCBを「オフ」した。
+
+（２）－２　操作面の要因について（その２）
+　「6.9kV M/C 4A-1」しゃ断器の操作を行った現場操作員について調査を行った結果、以下のことが確認された。
+ａ．現場操作員は当該MCCBを「オフ」する際、当該MCCBの隣にしゃ断器昇降用モータのブレーカーもあり間違いないと思った。しかし、当該MCCBが高めの位置に配置されており、疑問を感じたが、当該MCCBで間違いないと考えた。（なお、6.9kV M/Cの全てのしゃ断器は投入／開放用制御電源としゃ断器昇降用モータの電源が隣接して設置されている）
+ｂ．現場操作員はしゃ断器昇降用モータのブレーカーが「オン」状態となっていることを確認したとき疑問を感じたが、前回操作した現場操作員がしゃ断器昇降用モータのブレーカーを「オフ」にするのを忘れたのだと思い、問題ないと考えた。（なお、しゃ断器昇降用モータの電源は操作時以外「オフ」になっている）
+ｃ．同一盤内に当該MCCBと投入／開放用制御電源の２種類の制御電源が存在していることを認識していなかったため、当該MCCBを「オフ」することに問題ないと考えた。
+　以上のことから、現場操作員は当該MCCBの「オフ」にあたり疑問を感じたが、その時点で上位職に相談を行わず、単独で問題ないと考えたことにより、当該MCCBの操作を止まるに至らなかった。
+
+１．２　M/DRFP(A)が停止した原因調査
+　当該MCCB操作後に、M/DRFP(A)が停止したことから、停止した原因について調査したところ、以下のことが確認された。
+（１）電気制御展開図の調査結果
+ａ．当該MCCBは、「6.9kV M/C4A母線」の各負荷（M/DRFP(A)を含む）のしゃ断器の制御回路に共通するブレーカーである。このため、当該MCCBを「オフ」にすると、「6.9kV M/C4A母線」の負荷であるM/DRFP(A)のしゃ断器の制御回路が停電する。
+ｂ．M/DRFP(A)の制御回路が停電することにより、M/DRFP(A)の停止回路において「L-8トリップ」を検知するリレーが無励磁になることから、L-8トリップ用の接点が閉じるため、M/DRFP(A)をL-8トリップさせる回路が形成される。（ただし、この時点では制御回路が停電しているため、トリップ信号は発信しない。）
+ｃ．上記ｂの状態で、当該MCCBを「オン」にすると、再びM/DRFP(A)の制御回路が通電される。通電により、M/DRFP(A)の停止回路において「L-8トリップ」の検知リレーが再び励磁され、L-8トリップ用接点が開くことになる。ただし、通常回路で使用する接点は開閉動作するまでにわずかな時間遅れ（数十msec程度）を有するため、L-8トリップ用接点が開くまでのわずかな間にL-8トリップ信号が発信し、トリップリレーが動作してM/DRFP(A)が停止した可能性があると考えられた。
+
+（２）模擬試験によるL-8トリップ信号の再現性の調査結果
+　電気制御展開図の調査結果から、当該MCCBの「オフ」、「オン」操作により、M/DRFP(A)が停止したことが考えられたため、M/DRFP(A)しゃ断器盤にてM/DRFP(A)の運転を模擬した状態で、M/DRFP(A)しゃ断器の投入／開放用制御電源の「オフ」、「オン」を行いL-8トリップ信号が発信するか再現試験を行った結果、L-8トリップ用接点は「オン」にしたタイミングから、開動作するまでにわずかな時間遅れ（約20msec）があることが確認され、この時M/DRFP(A)のトリップ信号が発信することも確認された。
+（３）調査結果のまとめ
+　以上の調査結果から、当該MCCBを誤って「オフ」にした後、「オン」にしたことにより、L-8トリップ用接点が開くまでのわずかな間に、M/DRFP(A)をL-8トリップさせる回路が形成されたため、L-8トリップ信号が発信しM/DRFP(A)が停止したものと考えられた。
+　なお、予備機であるM/DRFP(B)は、L-8トリップ信号によりM/DRFP(A)が停止したため、自動起動条件が成立せず、自動起動しなかった。
+
+１．３　M/DRFP(A)および(B)の過負荷トリップについて
+　M/DRFP(A)の再起動後、またM/DRFP(B)の自動起動後に過負荷トリップした理由について調査を行った結果、以下のことが確認された。
+（１）保護継電器の点検結果
+　M/DRFP(A)および(B)が過負荷トリップした後、電動機の保護継電器である49Ryおよび51Ryが動作していたことが確認されている。
+　このため、これらの保護継電器について点検を行ったが、保護動作の設定値等に異常は確認されなかった。従って、保護継電器が誤動作した可能性はないと考えられた。
+（２）M/DRFP電動機始動時に流れる電流の評価結果
+　通常のプラント起動停止時にM/DRFPを起動する場合、FCVは全閉状態であるが、本事象においてはM/DRFP(A)再起動およびM/DRFP(B)自動起動の際、FCV-AおよびFCV-Bは全開状態であったことから、電動機の始動時に加わる負荷トルクが通常よりも大きくなり、電動機に過電流が流れた可能性も考えられたため、FCV全開状態でM/DRFPを起動した場合の電動機始動時の電流について評価を行った。
+　評価の結果、電動機始動後に過電流が流れ、49Ryおよび51Ryの動作領域に達することが確認された。
+（３）調査結果のまとめ
+　以上の調査結果から、M/DRFP(A)および(B)はFCVが全開状態で起動したため、負荷トルクが大きくなったことにより、電動機始動時に過電流が流れ、49Ryおよび51Ryの動作領域に達して過負荷トリップに至ったと考えられた。
+
+２．原子炉出力の変動が発生したメカニズム
+　原因調査の結果から、出力変動が発生したメカニズムは以下の経緯によるものと推定した。
+（１）「6.9kV M/C 4A-1」しゃ断器のラックアウトおよび投入／開放用制御電源の「オフ」操作にあたり、現場操作員が投入／開放用制御電源ではなく、誤って当該MCCBを「オフ」したところ、中操に「6.9kV M/C 4A 母線電圧低」の警報が発生したため、中操からの指示により、当該MCCBを「オン」にした。
+（２）当該MCCBを「オフ」「オン」したことにより、M/DRFP(A)のL-8トリップ用接点がわずかな間、閉じた状態となったため、M/DRFP(A)にL-8トリップ信号が発信し、M/DRFP(A)が停止した。
+（３）M/DRFP(A)の停止に伴い、原子炉水位が低下した。
+（４）中操操作員はM/DRFPの再起動およびFCV開度の調整を行い、原子炉水位の回復に努めたが、原子炉水位が低下から上昇に転じた後、上昇傾向が早く、L-8レベルに到達した。
+（５）L-8トリップ信号の発信により、発電機ロックアウトリレーが動作し、運転中であった主タービンがトリップした。
+（６）以上の一連の過程において、M/DRFPの起動・停止に伴い原子炉への給水流量が変動したことにより、原子炉冷却材温度およびボイド率が変動したため、事象発生前、約10%の原子炉出力が、一時的に約６％から23％まで変動した。なお、出力変動したことによる燃料への影響はなかった。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8643</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[P0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０＋]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/06/21 18:19:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3677</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/02/12 14:06:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200702110023]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．当該MCCBについては『M/C-4A共通制御電源』、投入／開放用制御電源については『M/C-4A-1しゃ断器制御電源』と表示し、明確に識別する。表示にあたっては、剥がれにくいタイプのシールを使用する。なお、しゃ断器の点検の際には、表示シールの有無を確認することとする。
+２．「6.9kV M/C 4A-1」しゃ断器盤の扉に制御電源の配置図を掲示し、運転員に対して注意喚起するとともに、運転員に対し現場にて研修を行い、しゃ断器盤内の制御電源の配置について確認させる。また、発電機隔離作業に使用する手順書の「6.9kV M/C 4A-1」しゃ断器の操作項目に「制御電源のスイッチが２つあるため注意する」旨を記載する。
+３．運転員に対して事例検討会を行い、上記の対策について周知するとともに操作において疑問を感じた際には必ず立ち止まり、単独で考えずに上位職へ相談することを周知徹底した。
+
+　なお、M/DRFPの制御回路について、停電してもL-8トリップ回路が形成されないような回路に変更する。
+　また、M/DRFP過負荷トリップを防止するため、過渡変化時にM/DRFPを起動させる際はFCVが全開でないことを確認し、全開の場合はFCV開度を約80%に設定することおよびM/DRFP起動後は、原子炉水位を連続監視し、水位調整に努めることを手順書に反映するとともに、その旨を運転員に対して周知する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/06/21 18:19:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　運転中の４号機（沸騰水型、定格出力784MWe）は、平成19年2月11日から予定されていた定期検査のため、2月10日18時より原子炉出力の降下操作を開始した。
+　平成19年2月10日の24時に発電機を解列後、発電機隔離作業のため「所内変圧器からの受電しゃ断器」 (以下、「6.9kV M/C 4A-1」)の操作位置からの取り外し（以下、「ラックアウト」）および投入／開放用制御電源の「オフ」操作を中央操作室（以下、「中操」）から指示したが、現場操作員は「6.9kV M/C 4A-1」しゃ断器の投入／開放用制御電源を「オフ」にすべきところ、誤って「6.9kV M/C 4A-1」しゃ断器盤内にある「制御電源」と表示されたブレーカー（以下、「当該MCCB」）(注１)を「オフ」にした。
+　平成19年2月11日0時23分に「6.9kV M/C 4A 母線電圧低」の警報が発生した（警報の発生のみであり、6.9kV M/C 4A 母線電圧には異常はない）ことから、誤って「オフ」にした当該MCCBを「オン」にしたところ、「6.9kV M/C 4A 母線電圧低」の警報はクリアしたが、運転していた電動機駆動原子炉給水ポンプ（Ａ）(以下、「M/DRFP(A)」)が停止しており、原子炉水位も低下した。
+　M/DRFP(A)の再起動を行ったが過負荷トリップしたため、予備機のM/DRFP(B)が自動起動したものの、同様に過負荷トリップした。
+　M/DRFPの起動停止により原子炉水位および原子炉への給水流量が変動したため、事象発生前、約10%の原子炉出力が、一時的に約６％から23％まで変動した。
+　その後、M/DRFP(A)を再起動して原子炉への給水を行い、原子炉水位が上昇したことを確認後、M/DRFP(A)流量調整弁(以下、「FCV-A」)の開度調整を行ったが、原子炉水位の上昇が早く、同日0時26分に「原子炉水位 高／低」（原子炉水位高）警報が発生し、原子炉水位高トリップ信号（以下、「L-8トリップ信号」）により保護装置が動作し、主タービンがトリップするとともに、M/DRFP(A)がトリップした。
+　なお、M/DRFP(A)トリップにより原子炉水位が低下して「原子炉水位 高／低」（原子炉水位高）警報がクリアしたことから、M/DRFP(A)の再起動を行い、原子炉水位の調整を行った。
+　その後、原子炉水位が安定したため引き続き原子炉の停止操作を継続し、同日4時44分、原子炉を停止した。本事象による外部への放射能の影響はない。
+
+（注１）M/C 4A母線から供給される各負荷のしゃ断器の制御回路に供給する電源
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-T045]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）「6.9kV M/C4A-1」しゃ断器盤内にある当該MCCBと投入／開放用制御電源の識別が不明確であった。
+（２）「6.9kV M/C4A-1」しゃ断器盤内には当該MCCBと投入／開放用制御電源の２種類があることについて、操作員へ明確に示されていなかった。
+（３）現場操作員は当該MCCB「オフ」の操作において疑問を感じたが、単独で問題ないと考え、その時点で上位職に相談を行わなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[原子炉停止操作中における原子炉出力変動について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/04/27 17:53:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[241]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[６０００Ｖ級遮断器（Ｍ／Ｃ）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[240]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[240]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[遮断器・断路器装置]]></KIKI_NAME>
+					<SORT_NO>15</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[2]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[99]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[その他]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>8643</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

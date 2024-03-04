@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12827</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/09/10 13:33:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>77611</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2018/08/10 18:32:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201807120008]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/09/10 13:33:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+伊方発電所第３号機は定期検査中のところ、７月１２日０時０８分、中央制御室において、補助ボイラ建屋（管理区域外）の消火設備の異常を示す信号が発信した。
+現地制御盤および現地を確認したところ、補助ボイラ建屋二酸化炭素消火設備制御盤３号に「地絡」を示す表示灯が点灯しており、当該現地制御盤と補助ボイラ燃料タンク（地下埋設）の感知器を接続する回路の絶縁が低下していること、および、当該感知器の端子箱の一部に浸水があることを確認した。
+当該感知器の手入れおよび点検後、絶縁状態の回復、異常を示す信号の復帰を確認した。その後、当該感知器の機能確認を実施し、念のため感知器の防水処理をして、７月１３日１３時１０分、通常状態に復旧した。なお、復旧までの間、監視人の配置またはカメラによる監視にて火災のないことを確認した。本事象による３号機プラントへの影響および環境への放射能の影響はなかった。
+
+○原 因
+警報発信の要因である地絡箇所特定のため、補助ボイラ建屋二酸化炭素消火設備制御盤３号にて、回路の切り分けを行い、絶縁抵抗値を測定したところ、屋外に設置されている燃料タンク用の感知器回路の値のみが基準値（電気設備技術基準）を下回っており、当該回路の切り離しを行うことで警報が復帰した。
+補助ボイラ燃料タンク用の感知器回路が地絡箇所であることが判明したため、感知器が収納されているマンホールの内部を確認したところ、マンホールの内部に約１０ｃｍ，約８０Ｌの水溜まりが認められ、感知器端子箱の一部が浸水していた。その後、マンホールの内部の水を水抜き後、感知器端子箱の内部の確認を行い、端子箱の内部も水が浸入していることを確認した。地絡部位の特定のため感知器端子箱にて感知器側リード線とケーブルを切り離し、絶縁抵抗値を測定したところ、感知器側リード線の絶縁抵抗値が基準値以下、ケーブル側は絶縁抵抗値が基準値以上であることが確認された。感知器端子箱内部および感知器側リード線の乾燥措置を行った後に、絶縁抵抗値を測定したところ基準値以上に復旧した。
+このことから、マンホールの内部への水の浸入により感知器リード線が水に浸かり、絶縁抵抗値が低下し警報発信に至ったものと考えられる。
+
+○対策
+・当該マンホール内部の水溜まりを排水し、感知器端子箱内及び感知器側リード線の乾燥措置等の手入れを行った後、端子箱と電線管の接続部、端子箱の部品の接続部等にゴムシール材（シリコンシーラント）を塗布し、感知器の防水処置を実施した。
+・補助ボイラ燃料タンク及び類似地下燃料タンクのマンホール蓋の接合面に砂等が確認された箇所について、砂等の除去などの清掃および点検を行った。
+・雨水の浸入を想定していないマンホールを閉止（中蓋の閉止も含む）する際には、マンホール蓋の接合面の点検・手入れを実施することを作業要領に追加する。
+・当該感知器が収められているマンホールについて、配管ダクトとマンホールの地上面の隙間からの雨水等の浸水を防ぐ目的で、マンホール蓋の外側にカバーを追加する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　補助ボイラ建屋消火設備の異常信号の発信について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/08/10 18:36:47]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[点検調査
+電磁接触器が焼損に至ると考えられる要因を抽出し、その要因について要因分析表に基づき点検調査を実施した。
+（１）電磁接触器の要因に関する調査（瞬時励磁コイルに連続印加）
+ａ．主接点不動作
+外観点検、電磁接触器単体動作試験を実施した結果、主接点の動作不良を起こすような異物のかみこみ等の異常は確認されなかった。
+ｂ．コイル絶縁抵抗低下
+現場調査における当該充電器盤設置エリアの温度、湿度から環境影響による絶縁抵抗低下は考えにくい。ＣＣコイルに異常はなく、ＴＣコイルには断線、溶着が確認されたが、電磁接触器製造メーカによると、過去にコイル絶縁抵抗低下による焼損を経験していないことから製作不良による絶縁抵抗低下は考えにくい。しかしながら、結果としてレアショートに至っていることから、コイル絶縁抵抗低下が要因である可能性は否定できない。
+ｃ．補助接点不良，補助リレー接点不良
+外観点検、電磁接触器単体動作試験を実施した結果、補助接点および補助リレー接点の不良は確認されなかった。
+ｄ．コイル単品不良
+コイル解体調査において、ＴＣコイルのボビンに割れが確認された。ただし、製造メーカによる使用実績、品質管理状況調査（材料，機械，手順，作業者，環境の変更点調査）から製作不良とは考えられない。
+（２）電磁接触器以外の要因に関する調査（整流器の要因）
+ａ．整流器出力電圧の異常
+再現試験をした結果、リップル電圧、整流波形の欠相等の異常は確認されなかった。
+（３）電磁接触器以外の要因に関する調査（整流器以外の要因）
+ａ．周辺環境の温度、湿度
+当該充電器盤が設置されているエリアの温度、湿度を測定した結果、充電器の運転に影響を与えるような環境ではなかった。
+ｂ．整流器入力電圧
+当該充電器へ電源を供給する上流側の電源（Ｐ／Ｃ）の電圧等に異常は確認されなかった。
+ｃ．整流器過負荷
+直近の最大負荷電流は、約１２０Ａ（ＣＶＣＦ交流電源停止に伴う電源供給）であり、定格電流である６００Ａを超えていないことから、過負荷による影響は考えられない。
+ｄ．蓄電池未接続
+現地において、焼損した電磁接触器コイルを交換し、当時の運転状況を再現した状態（蓄電池未接続の状態）における充電器の再現運転試験を実施した結果、電磁接触器の制御電源を投入した際の電圧の立ち上がり過程において、電圧継電器（メーターリレー）の指針が動作設定値をオーバーシュートして電圧継電器が動作し、ＴＣコイルが励磁され、電磁接触器が動作する状況を確認した。さらに電磁接触器動作に伴う負荷電圧の変動により、ＴＣコイルとＣＣコイルが交互に動作を繰り返すチャタリング事象が確認された。
+ｅ．誤操作
+運転員が使用した手順書を確認した結果、操作内容に問題がないことを確認した。
+ｆ．シーケンス回路異常によりＭ２２補助リレー接点が連続ＯＮ
+Ｍ２２補助リレーを動作させるシーケンス回路構成部品に関して、外観点検、絶縁抵抗測定、特性試験を実施した結果、異常は確認されなかった。
+ｇ．蓄電池電圧異常
+当該事象発生時は蓄電池を取り外しており、蓄電池電圧による影響はない。
+
+
+詳細調査
+点検調査において、蓄電池未接続によるＴＣコイルとＣＣコイルが交互に動作を繰り返すチャタリング事象が確認されたことから、蓄電池未接続による影響について詳細調査を実施した。
+（１）ＴＣコイル、ＣＣコイルの連続動作試験
+再現試験時に確認されたチャタリング事象を模擬した連続動作試験において、動作を繰り返すことによってコイル温度が上昇し、コイル温度が上昇したことによりコイル抵抗が増加、コイル電流が低下し、コイルの吸引力が弱くなったことによって約１時間でチャタリングが停止することが確認された。この時コイル表面温度は約２０度から約１３０度まで上昇したことが確認された。
+（２）コイル燃焼試験
+瞬時動作仕様である電磁接触器コイルに電圧を連続印加し、焼損に至る状況を模擬した。電圧印加後、４分４０秒経過した頃より発煙が始まり黒化が進行した。１２分４０秒後、試験装置の電源容量を超えたため、試験を終了した。発煙開始時のコイル表面温度は、（１）の連続動作試験時に電磁接触器がチャタリング停止となった温度とほぼ同等の約１３５度であった。
+試験終了後のコイルは焼損したＴＣコイルとほぼ同等の黒化状態であることを確認した。また燃焼試験を実施したコイルの解体調査を実施した結果、コイル巻線の黒化を確認した。この時計測されたコイル表面温度の最大は約２３０度であった。（コイル巻線耐熱温度：１５５度）。
+（３）充電器の電圧過渡変動試験
+蓄電池の接続有無による負荷変動時の充電器電圧の過渡変動について類似の充電器を用い試験を行った結果、蓄電池接続無しの場合、負荷変動により充電器電圧の変動が大きくなる結果が得られた。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[166]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11698</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:47:33]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/04/19 17:51:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201304190930]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[蓄電池を切り離した状態で充電器を運転したことが原因と推定されることから、蓄電池を切り離した状態における充電器の運転を原則しないこととする。
+なお、今後、蓄電池を切り離す工事等があり得ることを考慮し、蓄電池を切り離した状態においても電圧変動により電磁接触器がチャタリングしないよう、電磁接触器動作条件に充電器が均等充電中であることを加えるインターロックの変更を実施する。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:47:33]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２５年４月１８日午後２時４８分、定期検査中の７号機において電源切替作業を行っていたところ、充電器盤の故障を示す警報が発生した。その後、現場確認を行い、警報の発生原因について調査していたところ、同日午後６時頃、当社社員がコントロール建屋地下２階常用電気品室の直流２５０Ｖ充電器盤内の電磁接触器に焦げ痕があることを確認した。現場においては、警報発生時に盤の下部にすすらしきものを確認しているが、火や煙は確認されていない。
+同日午後６時３分に消防署に連絡し、現場を確認いただいたところ、４月１９日午前９時３０分、消防署より「火災と判断した」との連絡をいただいた。
+当該充電器盤の焦げ痕箇所には、火や煙の発生はなく延焼のおそれは確認されていない。
+本事象による外部への放射能の影響はない。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[運転員に対して聞き取りを行った結果、パトロール等において直流２５０Ｖ充電器盤での異常は確認されていないが、原因調査の結果を踏まえると、当該電磁接触器が焼損に至ったメカニズムは以下の様に推定される。
+①平成２５年３月２５日、設備取替のため、当該直流２５０Ｖ充電器盤に接続されている蓄電池群の切り離しを実施した結果、蓄電池による電圧変動の吸収がなく、電圧変動が大きい状態が形成された。ただし、この時、当該直流２５０Ｖ充電器盤の負荷は無かったことから、充電器盤の電圧変動は発生していなかった。
+②平成２５年４月３日、Ｍ／Ｃ７Ｃの停止に伴い、当該直流２５０Ｖ充電器盤から計算機用ＣＶＣＦ７Ａに電源が供給され、蓄電池がない状態での電源供給となったことから電圧変動が大きい状態となり、この電圧変動により電磁接触器チャタリングの発生、停止が繰り返された。
+③平成２５年４月１２日、Ｍ／Ｃ７Ｃを復旧したことから、当該直流２５０Ｖ充電器盤から計算機用ＣＶＣＦ７Ａへの電源供給が停止した。これにより、当該直流２５０Ｖ充電器盤は再度無負荷となったことから、電磁接触器のチャタリングは発生しなくなった。
+④平成２５年４月３日から平成２５年４月１２日までの間、電磁接触器のチャタリング発生時にコイル温度が上昇し、ＴＣコイル巻線において相対的に絶縁が弱い部分から絶縁材のダメージが広がり、レアショートが発生し発熱が促進され、コイル巻線及びコイルリード線部分が焦げるに至り、コイルリード線部分は短絡寸前となっていた。
+⑤平成２５年４月１８日、直流２５０Ｖ充電器盤の受電切替操作後に、当該充電器のインサービス操作を実施した際、再現試験にて確認された電圧立ち上がり過程での電圧継電器動作によりＴＣコイルが励磁され、その際の衝撃でＴＣコイルリード線部分に短絡が発生し、当該電磁接触器の焼損に至った。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所７号機直流充電盤内での焦げ痕の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[火災と判断した時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[7]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>42652</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/04/19 17:52:04]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[210]]></KIKI_CODE>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[電磁接触器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11698</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[210]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[充電器・ドロッパ]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[708]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[708]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[蓄電池・充電器装置]]></KIKI_NAME>
+					<SORT_NO>12</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＤＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[166]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[現地工事・作業の不備によるもの（管理不良を含む改造工事、据付工事、点検手入等の工事分類に拠らず、実作業上の不備はすべて含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11698</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

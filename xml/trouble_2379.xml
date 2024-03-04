@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．無停電電源装置の火災に関する調査
+今回の１－４号機出入管理建屋における計算機用の無停電電源装置（以下「ＣＶＣＦ」という）から発生した火災原因を調査した結果、以下のことが確認された。
+
+１．１　状況調査
+（１）ＣＶＣＦ内の電解コンデンサ
+ａ．ＣＶＣＦ内の電解コンデンサの焼損が著しく、８個（Ｃ２０－９～１６）並列使用の内、３個（Ｃ２０－１０，１１，１６）が破損していた。また、この電解コンデンサを接続する「銅バー」も変形をしていた。
+ｂ．電解コンデンサＣ２０－１６は、電解コンデンサ内部の陽極箔・陰極箔（高純度アルミニウム）等もケースから飛び出しており焼損跡も見られた。
+ｃ．電解コンデンサの破損に伴い、電解コンデンサ内部から素子固定材と思われる石油系ピッチが周辺に飛び散っていた。また、電解コンデンサ内部の電解液と思われる液体も周辺に飛び散っていた。
+（２）破損した電解コンデンサの上部にあるインバーターユニットについても、電解コンデンサ破損・焼損（Ｃ２０－１６）の影響を受けて一部焦げ跡があった。
+（３）ＣＶＣＦ内の電解コンデンサ破損・焼損により、内部配線の一部にも破損・焼損等の影響が生じていた。
+
+１．２　メーカー調査結果
+破損したＣＶＣＦ及び電解コンデンサについて、それぞれ製造元のメーカーにて調査を実施した。
+
+（１）ＣＶＣＦ本体
+・制御装置単体調査：異常なし
+・インバーターユニット単体調査：一部に熱変色、電解コンデンサの石油系ピッチ付着あり
+・内部外観調査：トランス、リアクトルの巻き線内部に電解コンデンサの電解液の浸透又は付着あり
+・電気的特性試験：異常なし　
+
+（２）電解コンデンサ単体
+・電解コンデンサＣ２０－９～１６（計８個）は不良
+
+（３）電解コンデンサＣ２０－１６の詳細調査（外観検査で最も損傷が著しい電解コンデンサ）
+・内部素子が飛び出し損傷している。
+・キャップが破損し、焼損している。
+・内部素子の一部に微少な短絡跡があった。
+・内部のリードタブ（＋電極・－電極：アルミニウム製）が短絡し溶断した跡があった。　　　　　　
+　　　　　　　　　
+１．３　ＣＶＣＦの点検状況及び取替履歴調査
+（１）ＣＶＣＦの点検状況
+年１回メーカーにて定期点検（外観点検・各部電圧測定・機能試験等）を実施している。
+
+（２）ＣＶＣＦの取替履歴
+・平成元年　１２月　ＣＶＣＦ新設　　　　　　　　
+・平成６年　１２月　部品取替（電解コンデンサＣ２０－９～１６（計８個）含む）
+・平成１１年１２月　部品取替（電解コンデンサＣ２０－９～１６（計８個）含む）　
+※５年毎のリースに合わせ、破損した電解コンデンサと同型の電解コンデンサ全３２個（Ｃ２０－９～１６：計８個を含む）の取替を実施している。
+
+１．４　福島第二、柏崎刈羽原子力発電所の状況調査
+福島第二、柏崎刈羽原子力発電所において、同メーカーのＣＶＣＦ内の電解コンデンサついて調査した結果、異常は認められなかった。
+
+２．火災発生時の対応に関する調査
+当該事象が発生した際の対応に関して、マニュアルとの相違点について調査を行った結果、各々の業務プロセスにおいて以下の問題点が抽出された。
+
+（１）消防署への通報連絡
+（通報手段がある場合は）第一発見者が消防署へ通報するルールが実行されず、
+また、現場を確認した防火管理者が、第一発見者から直接に事象発生時の状況を確認しなかったことから（既に煙等も発生しておらず、また、装置内部で発生した火災であったことから、装置外観からは火災が起こったとの判断ができなかった）、通報連絡が遅れた。
+
+（２）所内への情報伝達
+社外関係機関へ通報・連絡した場合は当番者（または運転管理部長）へ連絡するルールが実行されなかった。
+
+（３）常駐警察官への情報提供
+核物質防護に関わる設備の問題と判断し、最寄警察署へは連絡したものの、常駐警察官へは速やかな情報提供が行われなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2379</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/05/26 16:49:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2904</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/04/23 16:29:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200404051957]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．設備に関する再発防止対策
+（１）製造メーカーにおける予防保全対策 
+メーカー工場内にて以下の項目を実施する。
+ａ．リードタブ等のアルミ箔の加工時に発生するアルミ屑の除去方について、集塵装置の更なる吸引力の向上を図るとともに、スリット刃（アルミ箔の加工設備）の上部に集塵箇所を新たに設置し異物混入防止を図る。
+ｂ．スリットバリ発生防止として、スリット刃作業の改善等によるバリ発生の改善検討を行う。
+（２）定期点検時等の対策
+従来の１回／年の定期点検（１回／年）に際して、電解コンデンサ単体の点検に以下の項目を追加するとともに、１回／月の日常点検を実施する。
+ａ．定期点検（１回／年）における追加点検項目
+キャップ状況、圧力弁状態、スリーブ状態、ケース状態の目視点検、一般特性検査（静電容量、tanδ、リップル電流）
+ｂ．日常点検（１回／月）における点検項目
+異音・異臭・目視点検
+　
+２．火災発生時の対応に関する再発防止対策
+（１）消防署への通報連絡
+・当所社員及び協力企業の方へ「煙、炎を発見した場合迷わず発見者が１１９番通報を行う」ことを文書にて周知した。
+・協力企業の防火管理者へ当該事象の状況等について説明会を実施し、第一発見者が１１９番通報を行うよう周知した。
+・当該事象について朝礼で紹介し、火災の状況については必ず第一発見者に確認することを周知した。
+・火災発生時の対応フローの見直しを行い、社内マニュアルへ反映した。
+（２）所内への情報伝達
+・今回の事象について、発電所内グループミーティングにて紹介するとともに、関係者へ社外関係機関等へ情報提供した場合は、当番者（または運転管理部長）へ連絡することを周知した。
+（３）常駐警察官への情報提供
+・今回の事象について、発電所内グループミーティングにて紹介するとともに、核物質防護上の問題が発生した場合は、直ちに常駐警察官へ情報提供することを周知した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/26 16:49:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所１－４号機への出入管理建屋において、平成１６年４月５日午後７時５０分頃、異音がしたため、警備員が現場に急行し、午後７時５５分頃、計算機用の無停電電源装置付近から発煙していることを確認した。
+　その後、午後７時５７分頃火災警報が発生、午後７時５９分頃炎を確認したため手動にてＣＶＣＦを停止したところ、午後８時１０分頃、自然に炎と煙が消えたことを確認した。
+　その後、警察および消防の現場確認により、午後１０時４３分「火災である」との判断を受けた。
+　なお、これによる周辺への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　電解コンデンサＣ２０－１６の内部素子に短絡跡が認められたことから、電解コンデンサが破損・焼損に至る要因を分析した結果、電解コンデンサＣ２０－１６の製造過程において、何らかの原因により電解コンデンサ内部に微少な異物が混入したことにより発熱し、圧力弁の動作圧力に至る前に絶縁破壊（※）による短絡が発生し、さらにその衝撃により、リードタブ（＋電極・－電極）が接触し発火に至ったものと推定された。
+　また、電解コンデンサＣ２０－１６が発熱したことから輻射熱や銅バーによる熱伝導等により電解コンデンサＣ２０－１０，１１が破損したものと推定された。
+　
+※電解コンデンサは通常、内部に微量の異物が存在し局部電流集中により絶縁皮膜が劣化した場合でも、電解液の通電により絶縁皮膜の修復が繰り返し行われ、絶縁状態が保たれる。また、絶縁皮膜の修復に際して、電解液がガス化するため、内圧が上昇する。このため、ある一定以上の内圧に達すると、圧力弁が動作（開放）し、内圧の上昇が抑えられる仕組みとなっている。今回は、絶縁皮膜の修復を上回る皮膜の破壊が進んだものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１－４号機出入管理建屋無停電電源装置の火災について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃火災警報発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/04/23 18:16:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[210]]></KIKI_CODE>
+			<TROUBLE_ID>2379</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コンデンサ*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2379</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[210]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[充電器・ドロッパ]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[708]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[708]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[蓄電池・充電器装置]]></KIKI_NAME>
+					<SORT_NO>12</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2379</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2379</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2379</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2379</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

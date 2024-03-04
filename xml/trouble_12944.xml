@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12944</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/06/10 07:28:23]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>82488</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/03/14 17:17:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201903071438]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/06/10 07:28:23]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2019年3月7日14時38分、2号機の中央制御室に「排気口ダストモニタ（※１）放射能高」の警報が点灯した。2号機排気口ダストモニタの指示値を確認したところ、約8cps（※２）であることを確認した。（通常値：約1.5cps、警報設定値：7.5cps）また、指示値は同日9時30分頃から上昇していることを確認した。
+　このため、2号機に係る作業をすべて中断した。その後、排気口ダストモニタの指示値は通常値に復帰し、当該警報は消灯した。
+　なお、発電所敷地内に設置しているモニタリングポストの指示は通常の変動範囲内の値を指示していることを確認した。また、2号機排気口ダストモニタのフィルタに付着した放射性物質の核種分析を実施した結果、人工放射性核種は検出されなかった。
+　
+　警報が点灯した原因を調査した結果、本事象は外部への放射性物質の放出を伴う事象ではなかったことを確認した。
+　警報点灯の原因は、廃止措置で実施する原子炉圧力容器内の除染準備作業において、過去の運転期間中に放射化された中性子検出器（※３）を原子炉圧力容器から機器仮置きプールへ移動した際に、中性子検出器から発生した放射線が機器仮置きプールのコンクリート壁を透過し、排気口ダストモニタの検出器がその放射線を検出したことで、当該警報の点灯に至ったものである。なお、排気口ダストモニタは、1,2号機の共用排気筒の解体撤去に伴い、2018年2月に現在の位置に設置した。
+
+（※１） ダストモニタは、建屋内の放射性粒子濃度を測定している装置のこと。
+（※２） 放射性物質の濃度は、カウント毎秒（count per secondの略）という単位で表示している。これは、1秒間に測定された放射線の数を示している。
+（※３）中性子検出器とは、原子炉圧力容器内の中性子を検出する計器である。原子炉圧力容器内に設置されているため、中性子検出器は放射化されており、放射線を放出している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-中部-S016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[中性子検出器の移動に伴う排気口ダストモニタの警報点灯]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/03/14 17:18:27]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

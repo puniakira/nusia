@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11068</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/18 10:31:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>17905</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/08/25 17:09:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201008241136]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/18 10:31:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年８月24日午前11時36分頃、定期検査で停止中の３号機（沸騰水型、定格出力78万４千キロワット）原子炉建屋１階（管理区域）の原子炉格納容器人員用扉入口廻りで床面に水が溜まっていることを協力企業社員が発見した。
+　当社社員が現場を確認したところ、残留熱除去系の系統内への水張り作業中に、当該系統のテスト弁（V-78B、79B）に接続した水抜き用の仮設ホースの排水先ファンネルから水があふれていることを確認した。
+　ただちに当該系統のテスト弁（V-78B、79B）を閉めたところ、水の漏えいは停止した。
+　あふれた水は、管理区域内にとどまっており、漏えい量は約25リットル、放射能量は約9.1×10^5ベクレルで、拭き取りによる清掃を実施した。
+　本事象による外部への放射能の影響はない。
+　
+２．調査結果
+　調査の結果、以下のことがわかった。
+（１）現状調査結果
+・水の漏えいを発見した際、当該テスト弁は、V-78Bが「全開」、V-79Bが「微開」状態であったこと。
+・当該テスト弁は、プラント運転中に原子炉圧力と同じ圧力がかかる原子炉一次系の弁のため、弁軸封部は固めに締め付けられており、弁操作時には比較的大きな力が必要であったこと。
+　
+（２）聞き取り調査結果
+・残留熱除去系の弁点検を行うため、当該テスト弁に接続した水抜き用の仮設ホースからファンネルに水を排水していたこと。
+・残留熱除去系の系統内の水抜き終了後、当該テスト弁の弁閉操作は当社工事監理員立ち会いの下、協力企業作業員が行っていたが、当社工事監理員は当該テスト弁が閉まっていることを直接、弁を操作して確認をしていないこと。
+・残留熱除去系の系統内への水張り前の作業において、当直員は手順書に従い当該テスト弁の開閉状態の確認操作を行ったが、当該テスト弁の手前に仮設足場が設置されていたため、仮設足場との隙間から手を伸ばした状態で弁操作する作業環境であったこと。
+　
+３．推定原因
+　当社工事監理員は、当該テスト弁を直接操作して開閉状態の確認を行わなかったため、全閉状態になっていると思い込んでしまった。
+　また、当直員は、残留熱除去系の系統内への水張り前の作業において、弁操作用の治具にて弁が閉まっていることを確認する操作を実施したが、弁が固く動きにくい状態であったこと、また、仮設足場が設置されていたことにより操作性が悪く、当該弁が動かなかったため、当直員は弁が閉まっていると思い込んでしまった。
+　その結果、弁が「開」状態であったため、系統内の水張り時に排水先ファンネルから水があふれたものと推定した。
+　
+４．対策
+　弁操作時、仮設物等があって操作性が悪い場合は、必要に応じて仮設物を移動するなど、作業環境を整えてから、確実な弁操作を行う。
+　また、弁軸封部が固めに締め付けられている弁については、閉確認を行う際には十分留意するよう、当直員に周知する。
+　さらに、点検のための隔離範囲内にある重要系統の弁について、作業にともなって操作する場合は、最終的な「開・閉」確認を当社工事監理員が直接弁を操作して確認する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　定期検査中の３号機における原子炉建屋内の水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/08/27 13:39:28]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

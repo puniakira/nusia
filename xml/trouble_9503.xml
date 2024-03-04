@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【状況調査】
+１．当該スリーブ部の状況
+　当該スリーブ部の応急修理前の状況は，事象発見時の状況写真より，当該スリーブ部のフランジ及びスリーブとフランジとの接合部付近全周に錆汁，錆を伴った塗装の浮きがあり，スリーブとフランジとの接合部付近下部に２箇所の貫通を確認した。
+　当該スリーブ部の貫通穴の詳細調査を行うために，当該スリーブ部に施した防食テープを除去し，点検を行ったところ，スリーブとフランジとの接合部付近下部には３箇所の貫通が確認された。また，下部３箇所の貫通穴よりライトを照らして内部を確認したところ，スリーブとフランジとの接合部付近の上部方向の錆部にも２箇所の貫通があることを確認した。
+　また，貫通穴より，ファイバースコープにて内面を確認したところ，内表面に著しい劣化はなかった。
+　なお，排気筒の当該スリーブ部以外の部位に鋼材の貫通に至るような異常は認められなかった。
+
+【原因調査】
+　前項の当該スリーブ部の状況を踏まえ，当該スリーブ部の貫通が発生した原因を要因分析に従い調査を行った。
+
+１．腐食の可能性について
+（１）材料選定不備
+　当該スリーブ部に採用している炭素鋼（ＳＴＰＧ３７０）は屋外機器での使用実績のある材料である。
+
+（２）環境影響
+　当該スリーブ部を含み排気筒は，屋外に設置されており，その設置環境により，腐食する可能性がある。
+
+（３）構造影響
+　当該スリーブ部の構造は，排気筒本体から斜め上に突起し，スリーブの端部はフランジ構造となっている。スリーブとフランジとの接合部付近は，雨水による洗浄効果が少なく腐食しやすい部位であり，その板厚も筒身一般部（９ｍｍ～２９ｍｍ）に比して薄肉（６．６ｍｍ）であった。
+
+（４）点検不備による腐食の可能性
+　ａ．点検内容について
+　排気筒（炭素鋼）に対する保全活動は，点検計画に定められている。
+保全範囲は，筒身本体を指す「筒身一般部」と，主排気ダクトが接続される「ダクト開口周り」を対象としている。
+　保全内容と頻度は，「筒身一般部」については目視点検を，約３年毎に実施している再塗装時に同調して実施している。再塗装時の目視点検は，腐食部については塗膜及び錆を完全に除去し，下地鋼材を露出させた上で素地状況の確認を行っている。但し，その際は，下地鋼材に腐食箇所が残っていないことを観点にした確認である。
+　また，点検対象は比較的厚さのある構造強度部材の筒身本体に着目したものであり，排気筒バウンダリである当該スリーブ部のような薄肉部に配慮し，鋼材厚さに関して点検を行うこととしていなかった。
+
+　ｂ．過去の不具合反映状況
+　平成１９年度に，３，４号機不活性ガス系窒素補給用配管取替工事に係る工事計画無届の原因究明の一環で行った調査の過程で，取替前の配管が外表面の腐食により，「発電用原子力設備に関する技術基準を定める省令」（以下，「技術基準」という。）に定める配管厚さを満足していなかったことを確認した。
+　この事象の原因は，保全活動の不備によるものと推定され，再発防止は，目視点検において，外表面からの腐食が確認された場合の肉厚測定及びその判定基準を点検計画に規定するとともに，点検計画に基づく目視点検を，毎定期点検時（１，２号機は，長期停止のため維持点検時）に行うこととした。
+　しかし，水平展開範囲は，技術基準に規定（構造に関する規定：第９条，第３４条）される設備のうち，屋外に設置され炭素鋼を使用している原子炉機器冷却海水系配管，窒素ガス供給系配管，液体窒素貯蔵タンク等の配管及びタンクとしており，技術基準第３０条で規定される排気筒は，水平展開の範囲には入っていなかった。
+
+（５）塗装不備による腐食の可能性
+　当該スリーブ部を含め，排気筒は，約３年毎に再塗装を実施しており，その頻度は，他の屋外機器と比べて，同程度である。
+　当該スリーブ部に採用している塗料は，ポリウレタン樹脂系の塗料であり，他の屋外設備においても，十分な使用実績を有するものである。
+　当該スリーブ部への塗装の適切性を確認するために，当該スリーブ部の塗膜を剥がし確認したところ，複数の塗膜層が確認され，積層間に錆は確認されなかった。
+　なお，貫通穴付近の腐食がある部位では，塗膜層が少なく，通常の塗装膜に比して厚い補強塗装と思われる塗装膜が確認されたことからも，腐食し易い部位であり，何度も鋼材表面の塗装膜および錆を除去していたものと推定される。
+
+２．亀裂の可能性について
+（１）疲労割れ
+　構造上，風による振動応力等で，繰り返し応力を受ける部位は，排気筒本体との接合部であり，当該スリーブ部の貫通穴付近は該当しない。
+
+（２）応力腐食割れ
+　当該スリーブ部は炭素鋼（ＳＴＰＧ３７０）であり，応力腐食割れ発生の可能性はない。
+
+（３）延性破壊
+　当該スリーブ部の外観確認を行ったところ，延性破壊に至る程の大きな外力が加わった形跡はなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[149]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[11]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9503</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/05/20 18:39:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4090</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/12/11 21:34:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200711270800]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[【再発防止対策】
+　構造面の対策としては，保守性の観点から形状変更は困難であるが，板厚については，筒身等に比べ薄肉であったことから，新たに厚肉のスリーブを取り付ける。
+　運用面の対策としては，排気筒の点検計画が，構造強度部材である筒身本体に着目したものであったことから，当該スリーブ部のような構造強度部材ではないが，排気筒バウンダリである筒身本体付属部材も考慮した点検計画とする。具体的には，筒身本体付属部材を明記するとともに，目視点検において著しい錆びが認められた場合に肉厚測定の実施と肉厚の管理基準を明記し，点検計画の充実を図る。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2008/05/20 18:39:04]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期点検中の浜岡原子力発電所１,２号機において、平成１９年１１月２３日（金／祝日） 午後１時頃、排気筒（１,２号炉共用）（以下、「排気筒」という。）の塗装の点検を行っていたところ、地上高さ約９０ｍ付近に設置されている排気筒モニタサンプリング配管の排気筒貫通部（以下、「スリーブ部」という。）に、腐食があることを協力会社作業員が確認した。連絡を受けた当社社員が状況を確認したところ、午後３時頃、スリーブ部の貫通（※１）を確認したため、防食テープによるシール処理（以下、「応急修理」という。）を実施した。
+　この時点においては、事象が軽微なものであり、応急修理により機能を復旧できることから、事故・故障には該当しないと判断した。
+
+　平成１９年１１月２６日（月） 午前９時３０分頃、発電所内の定例会合（※２）の場で情報共有を行った際に、腐食箇所が貫通している場合は事故・故障の可能性があることから、現場の詳細情報を持ち寄り、検討を行うこととした。
+
+　平成１９年１１月２７日（火） 午前８時００分、本事象は事故・故障に該当すると判断した。
+
+　なお、本事象において排気筒モニタ、モニタリングポストの指示値に異常はなく、本事象に伴う外部への放射性物質の影響はなかった。
+
+※１　貫通部は２箇所あり、共に約５cm×約１cmの大きさ。
+※２　ＣＡＰ会合（ＣＡＰ：Ｃorrective Ａction Ｐrogram）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-T015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【推定原因】
+　原因調査の結果，当該スリーブ部の貫通が発生した原因は以下のとおりと推定した。
+（１）排気筒は屋外に設置されているため，塩害腐食の発生しやすい環境であり，貫通穴付近は，他の部位に比べて，雨水による洗浄効果が少なく腐食しやすい構造であった。
+（２）また，当該部の板厚は，排気筒本体に比べて薄肉構造であり，貫通に至り易い構造であった。
+（３）排気筒の点検は点検計画に基づき筒身一般部及びダクト開口周りについて，目視点検を実施しているが，点検対象については，構造強度部材である筒身本体及びダクト開口周りを主眼としたものであり，当該スリーブ部のような，構造強度部材ではなく，薄肉で排気筒のバウンダリを構成する部材に着目して，鋼材厚さの確認をするなどの点検内容としていなかった。
+　また，再塗装においても，鋼材表面の塗装および錆の除去を繰り返していた。
+（４）過去に発生した３，４号機不活性ガス系配管に対する管理不備により，外部腐食による必要最小肉厚を下回る不具合が発生したことから，必要な対策を講じていたが，水平展開する際，不活性ガス系配管と同じ技術基準に規定（第９条，第３４条）される設備のうち，屋外に設置され炭素鋼を使用している配管及びタンクのみとしたため，技術基準第３０条で規定される排気筒への反映は行われなかった。
+
+　以上より，当該スリーブ部における貫通穴の発生は，腐食が発生しやすい環境と構造であるにも係わらず，点検内容の不備のため，その腐食劣化の進展を適切に把握できていなかったため発生したものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所 排気筒（１,２号炉共用）配管貫通部の腐食について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（事故・故障に該当すると判断）]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/12/13 16:42:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>9503</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[排気筒]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[149]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9503</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9503</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9503</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9503</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[11]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[排気筒]]></SETSUBI_NAME>
+		<SORT_NO>11</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

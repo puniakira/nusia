@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>7997</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/02/06 16:21:04]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3378</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/11/29 11:32:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200511251702]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/02/06 16:21:04]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の２号機において、平成17年11月25日午後５時２分頃、原子炉建屋内換気系の排気中に含まれる放射能量を測定しているモニタ（原子炉建屋換気系排気放射線モニタ）の指示値が増加したことを示す警報が発生した。
+　警報が発生した原因は、原子炉建屋３階の同一箇所に設置されている原子炉建屋換気系排気放射線モニタ（Ａ，Ｂ，Ｃ，Ｄ）のうち、モニタ（Ａ，Ｃ）の指示値の増加によるものだが、他のモニタ（Ｂ，Ｄ）については指示値に変動がなく、また、当該モニタ（Ａ，Ｃ）に関連する作業は実施していないことから、当該モニタの誤動作と推定した。
+　検出器やモニタならびに検出器からモニタまでの信号ケーブルについて点検したが異常はなかった。
+　また、周辺エリアでの作業に伴う電気ノイズの影響が考えられることから、そのような作業の有無について調査したが、電気ノイズを発生させる作業は確認されなかった。
+　さらに、当該モニタの全チャンネル（Ａ，Ｂ，Ｃ，Ｄ）に再現性を確認するために仮設記録計を設置して連続監視を行ったが、指示値の変動は再現せず異常は認められなかった。
+　調査結果からは原因の特定には至らず、当該モニタ（Ａ，Ｃ）の信号ケーブルは同じルートで敷設されており、当該モニタ指示値が増加したことを示す警報が同時に発生したことから、誤動作した原因は、当該モニタ信号ケーブルに何らかの原因で電気ノイズが入りこんだためと推定した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S076]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所２号機における放射線モニタ誤警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/11/29 13:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

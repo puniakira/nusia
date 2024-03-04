@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[原因調査 
+　原因究明のため各種調査を実施し，判明した結果を以下に示す。 
+（１）当該乾燥機について 
+　　全７台ある乾燥機のうち，当該乾燥機を含む５台（No.３～No.７）は今年更新している。No.５～No.７は２０２３年１月２３日に発電所に搬入，No.３及びNo.４は２０２３年３月４日に発電所に搬入した。また，当該乾燥機は２０２３年３月２６日から使用開始しており，事象発生までの運転期間は短期間であり，この間に不具合が発生していないことを確認した。
+（２）当該制御盤内端子台について 
+　　１）協力会社社員への聞き取り調査 
+　　　  焦げ跡が確認された当該制御盤内端子台について，協力会社社員に聞き取りをしたところ，当該制御盤内端子台は工場出荷前に組み立て・調整されたものであり，発電所搬入後には制御盤内を開けての調整等を実施していないことを確認した。 
+　　２）公設消防との合同調査 
+　　　  公設消防と当社による合同の現場確認において，以下の事実を確認した。
+　　　 ・当該制御盤内端子台に接続される駆動モータ用電源ケーブル３相（Ｕ相，Ｖ相，Ｗ相）のうち，Ｕ相端子部に変色及びケーブル端末部に約１．５ｃｍの焦げ跡を確認した。また，端子部に緑青らしきものが付着していることを確認した。
+　　　 ・Ｕ相端子部を固定するネジが完全に締め付けられておらず，端子を触診したところ，ぐらつき（固定不足）があり確実に固定されていない状態を確認した。 
+　　　 ・当該制御盤内端子台の下部に灰らしきものがあることを確認した。 
+　　　 ・その他の部位に特段の異常は確認されなかった。 
+　     以上の結果から，Ｕ相端子部ネジの締め付け不足により端子が確実に固定されていない状況で通電していたため今回の事象が発生した可能性がある。 
+　　３）当該制御盤内端子台の詳細点検 
+　　　　当該制御盤内端子台のＵ相端子部にぐらつき（固定不足）を確認したことから，当社は公設消防の許可を得た後，詳細点検を実施した。 
+　　　 ①Ｕ相端子部の点検 
+　　　　・当該Ｕ相端子部のネジが完全に締め付けられていなかったことから，その状態から増し締めを試みたが，増し締めは出来なかった。 
+　　　　・当該Ｕ相端子部のネジを緩めて一旦取り外した後，再度当該ネジを締め付けたところ，同じ位置で引っかかり，ネジを完全に締め付けることは出来なかった。 
+　　　　・当該Ｕ相に接続するケーブルの端子を確認した結果，丸型の端子が欠損し三日月状になっていることを確認した。 
+　　　　・他相（Ｖ相，Ｗ相）端子部のネジを取り外してＵ相端子部のネジ穴への締め付けを試みたところ，同じ位置で引っかかり，ネジを完全に締め付けることは出来なかった。 
+　　　　・当該Ｕ相端子部のネジを他相（Ｖ相，Ｗ相）端子部のネジと比較したところ，寸法や形状に差異はなく，異常は認められなかった。 
+　　　　　以上の結果から，Ｕ相のネジ穴部に不具合があると考える。
+　　　②製造メーカー聞き取り調査 
+　　　　・制御盤内端子部のネジ締め付けはドライバーを用いて手締めをしており，目視によるネジ部とネジ穴部の隙間確認は実施していないとのことであった。 
+　　　　以上の結果から，工場出荷前の組み立て・調整時にネジ穴部に何らかの欠陥が生じ，ネジを締め付けたものの締め付けが不完全な状態のまま出荷された可能性がある。 
+　　　③他の端子部等の点検 
+　　　　・他相（Ｖ相，Ｗ相）等その他の端子部全３４箇所について点検したところ，ネジの締め付け不足・端子部の変色・ケーブルの焦げ跡等の異常は確認されなかった。 
+　　　　・当該制御盤内端子台のその他の部位（端子台樹脂部等）について点検した結果，異常がないことを確認した。 
+　　　④緑青らしきものの成分分析 
+　　　　　公設消防との合同調査において，緑青らしきものが確認されたことから成分分析を実施したところ，銅成分が確認されたことから，緑青であることを確認した。緑青は電線等の材料に含まれる銅が火災等の熱影響により生じるものであることから，本事象に伴い生じたものと考える。
+　　　⑤他乾燥機の制御盤内端子台の点検 
+　　　　　同型の乾燥機No.３～No.６の４台についても制御盤内端子台を点検した結果，ネジの締め付け不足・端子部の変色・ケーブルの焦げ跡等の異常は確認されなかった。 
+　　　　 以上の結果から，Ｕ相端子部のネジが完全に締め付けられずに端子が確実に固定されておらず，端子部の接触面積が減少したことで，接触抵抗が増え，端子部が過熱しケーブルに焦げ跡が発生したと考えられる。
+　　４）その他の要因による可能性 
+　　　　その他の要因による可能性がないか，様々な視点からの洗い出しを行い，以下の要因を抽出し，これらについて調査を実施した。 
+　　　①端子の固定不足 
+　　　　　ネジの締め付け不足により端子が確実に固定されていない場合，端子部の接触面積が減少することで，端子部が過熱し焼損に至る可能性がある。「３）当該制御盤内端子台の詳細点検」に記載のとおり，ネジの締め付け不足による端子の固定不足を確認したことから本事象の発生要因と考えられる。 
+　　　②過電圧 
+　　　　　当該制御盤内端子台への入力電圧が定格入力電圧２００Ｖに対して過剰に高かった場合は焼損に至る可能性がある。このため，入力電圧を確認した結果，入力電圧は１９９Ｖであり基準値以内であることを確認した。また，他相（Ｖ相，Ｗ相）の端子に異常がないこと，同じ電源元から同じ電圧が供給される他の乾燥機の制御盤内端子台の端子部にも異常が認められなかったこと及び事象発生が考えられる７月１０日時点において中央制御室内の監視にて発電所内での異常な電圧変動は確認されていないことから過電圧が要因となる可能性はない。 
+　　　③結露 
+　　　　　端子間に結露による水分が付着した場合，相間短絡により端子部の焼損等の発生が考えられるが，ＮＦＢは動作していないこと，当該乾燥機の制御盤内及び同型の乾燥機の制御盤内は乾燥状態であり結露状態にないことを確認したことから結露が要因となる可能性はない。 
+　　　④トラッキング 
+　　　　　端子間に水分及び塵埃がある場合，トラッキングに伴う相間短絡により端子部の焼損等の発生が考えられるが，ＮＦＢは動作していないこと，当該乾燥機の制御盤内及び同型の乾燥機の制御盤内は乾燥状態であり結露がないこと，塵埃の付着がないことを確認したことからトラッキングが要因となる可能性はない。
+　　　⑤小動物の侵入 
+　　　　　当該乾燥機の制御盤内に小動物が侵入した場合，小動物が端子間に接触し相間短絡により端子部の焼損等の発生が考えられるが，当該乾燥機は屋内の管理区域内に設置されており，小動物の侵入は考えにくい。また，当該制御盤の端子台収納箱は，ネジにより締め付けられた閉止状態となっており小動物が侵入することは不可能であり，小動物が侵入した痕跡もないことから，小動物の侵入が要因となる可能性はない。 
+　　　⑥乾燥機運転時振動によるネジの緩み 
+　　　　　乾燥機運転時は振動が発生する。この振動の影響で徐々にネジが緩むことにより端子にぐらつきが生じた場合，本事象の発生が考えられるが，当該乾燥機において，緩み防止用の留めワッシャが付いており，ネジが正しく締め付けられていれば，乾燥機本体の振動によってネジが緩むとは考え難いこと，当該乾燥機において，端子部の変色・ケーブルの焦げ跡が確認されたＵ相端子部以外にネジの緩みがないこと，また同型の乾燥機においても同様に端子台のネジに緩みがないことを確認したことから，乾燥機運転時振動によりＵ相端子部のネジだけが緩むことが要因となる可能性はない。 
+　　　⑦ケーブル断線 
+　　　　　ケーブルが一部断線した場合，抵抗が増加し過熱することによる焼損等の発生が考えられるが，当該ケーブルに焦げ跡は確認されたものの断線していないことを目視にて確認しており，当該ケーブルの断線が要因になる可能性はない。
+
+
+事象発生のメカニズム
+「原因調査」の調査結果より，当該制御盤内端子台のＵ相端子部の変色及びケーブル焦げ跡が発生したメカニズムは以下のとおりと推定する。
+【①工場出荷時のＵ相端子部ネジの不完全な締め付けが発生】
+　工場での当該乾燥機の制御盤組み立て・調整時において，Ｕ相端子部のネジのみが完全に締め付けられておらず，端子が確実に固定されていない状態（初期不良）のまま，発電所に納入された。
+【②当該乾燥機使用中にＵ相端子部の片当たりが発生】
+　Ｕ相端子部は完全に締め付けられておらず，端子穴内径はネジ径より大きいため，ケーブルの自重等によりＵ相端子の片当たりが生じ，接触面積が減少する状態（接触抵抗が増加）となった。
+【③Ｕ相端子部の接触面積が少ない状態での通電による過熱状態の発生】
+　Ｕ相端子部の接触面積が少ない状態（接触抵抗が増加した状態）で通電が繰り返されたことにより，Ｕ相端子部は過熱状態となった。
+【④Ｕ相端子部の接触面積が少ない状態での通電による過熱状態の継続】
+　Ｕ相端子部は過熱状態が継続することにより，最終的に端子接触部は焼損（欠損）し緑青が生じるとともにケーブル端に焦げ跡が発生した。また，これに伴いインバータエラーが発生し乾燥機は自動停止した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[ランドリー]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13677</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2024/02/09 14:48:47]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[乾燥機]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>117649</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/07/31 14:04:20]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202307191513]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　本事象を受け，製造メーカーに工場出荷前の制御盤組み立て・調整過程でのネジ締め付けを確実に実施するよう注意喚起を行った。また，今年度に予定している洗濯機及び乾燥機の取替に当たっては，発注仕様書にネジの確実な締め付けに係る注意事項を明記する。  
+　従来から発電設備に対しては，設備使用時に不具合が生じぬよう，工場や現地における電源ケーブル端子台の締め付け確認を含む検査等を通じて品質の維持に努めている。今後，再発防止として火災事象に結び付くような電源ケーブル端子台を有する一般設備（例：電動シャッターや給湯設備等）についても，調達管理の中で締め付け確認を要求する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2024/02/09 14:48:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　東海第二発電所は第２５回定期事業者検査中のところ，２０２３年７月１９日１４時２４分頃，ランドリー室の乾燥機※１No.７（以下，「当該乾燥機」という）を点検中※２の当該乾燥機メーカーから派遣された協力会社社員（以下，「協力会社社員」という）が，当該乾燥機の制御盤内端子台（以下，「当該制御盤内端子台」）に焦げ跡らしきものを発見し，この点検に立ち会っていた当社社員より，中央制御室の発電長に連絡した。このため，発電長は１４時２７分に公設消防に一般回線※３にて連絡した（覚知時刻１４時２７分）。また，自衛消防隊は１４時４４分に出動した。  
+　公設消防は，１４時４３分に発電所に到着（消防車１台，ワゴン車１台，サイレン・赤色灯有）した。その後，現場確認を実施した公設消防により，１５時１３分に火災と判断された旨の情報を当社通報連絡責任者が確認した。また，鎮火時刻については７月１０日の１０時５５分と推定される※４との連絡を公設消防より受けた。 
+
+※１：管理区域内で使用した作業着を洗濯した後，乾燥する機器であり，東海第二発電所には全７台が設置されている。 
+※２：当該乾燥機は２０２３年７月１０日１０時５０分頃，エラー表示（インバータ異常）が発生し自動停止した。この
+      際，異臭・煙等の異常は確認されず，当該乾燥機のＮＦＢ（ノーヒューズブレーカー：配線用しゃ断器）を「切」
+      とし，当該乾燥機メーカーに点検を依頼していた。 
+※３：現場の状況から現時点において進展性はないと判断し，一般回線で連絡した。 
+※４：７月１０日の１０時５０分に当該乾燥機は自動停止しており，状況から裕度を見て自動停止から５分後の１０時５５分を鎮火時刻と推定するとのことであった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-原電-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[事象の原因 
+本事象の原因は以下のとおりと推定する。 
+・製造メーカーにおいて工場出荷前の制御盤組み立て・調整過程において，目視や触手等による確実なネジ締め付け確認が不足していたことにより初期不良が発生した。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[東海第二発電所　サービス建屋ランドリー室乾燥機制御盤内端子台の焦げ跡の確認について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[公設消防が火災と判断した時刻]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[ランドリー]]></S_KEITO_NAME>
+	<PRESS_ATTACH_ID>117650</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/07/31 14:06:37]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[乾燥機]]></S_KIKI_NAME>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[乾燥機]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13677</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[製作上の不備によるもの（メーカ工場におけるもので、管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13677</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

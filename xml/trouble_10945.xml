@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10945</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/05/11 17:32:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4721</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/05/07 17:25:45]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201004161544]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生状況
+第19回定期検査中の平成22年4月16日、化学体積制御系統＊１の体積制御タンク＊２から充てん/高圧注入ポンプ＊３までの配管に水を張ったのち、水張りした配管の最上部にある弁を開き、配管内の空気を換気ダクトおよび体積制御タンクの気相部に抜く作業（以下「空気抜き操作」という）を行ったところ、15時44分に「４－1次系建屋漏水」警報＊4が発信した。
+警報が発信した場所を確認したところ、体積制御タンク室内での漏えいであることが確認されたことから、直ちに現場確認を行った結果、床面に水溜り（約100ｃｍ×約10ｃｍ×深さ約0.5ｃｍ）があり、漏水検知器が設置されている排水口の目皿に水が流入した形跡があることを確認した。また、水溜りの上方にある、配管から排出された空気を換気ダクトに導く空気抜き配管の先端が濡れていることが確認された。
+
+＊1 化学体積制御系統：原子炉冷却系統から1次冷却材の一部を抽出し浄化したのち、保有水量やほう素濃度等を調整して、原子炉冷却系統に1次冷却材を充てんする系統。
+＊2 体積制御タンク：原子炉容器や配管内の1次冷却材の量を調整するためのタンク。運転中は、気相部を水素に置換している。
+＊3 充てん/高圧注入ポンプ: 原子炉の１次冷却材系統から１次冷却材を抽出し、浄化やホウ素濃度の調整等を行ったのち、再び１次冷却材系統に戻すためのポンプ。
+＊4 「４－1次系建屋漏水」警報:管理区域内（格納容器内を除く）の各室内で、漏水を検知した際に、中央制御室に警報を発信する。どの漏えい検知器からの発信かは中央制御室内にある１次系補機室内の１次系補機操作盤で確認できる。
+
+２．調査結果
+水張り操作は、水源である燃料取替用水タンクの連絡弁を開き、タンクの水位差による圧力で系統に水を張ったのち、連絡弁を閉じる。この時、配管内の空気は水圧により圧縮された状態となる。その後、水張りした配管の最上部にある弁を開けて、配管内の空気を換気ダクトと体積制御タンクの気相部に抜く作業を行う。これら一連の操作は、今回と過去の定期検査時とでは同じだったが、詳細に調査した結果、今回は、水張りに使用した燃料取替用水タンクの水位が高かったため、水張り後の配管内の水圧が高くなり、配管内の空気の圧力も高かったことがわかった。また、空気の圧力が高い状態で空気抜き操作を行うと、配管内の空気が膨張し、配管内の水を空気抜き配管の先端まで押し上げる可能性があることがわかった。
+
+３．原因
+水漏れの原因は、水張り時に水源である燃料取替用水タンクの水位が高かったことにより、配管内に溜まっていた空気の圧力が高かったため、空気抜き操作を行った際、膨張した空気が系統内の水を押し上げ、空気抜き配管の先端から漏れたものと推定した。
+
+４．対策
+対策として、今後は、空気抜き操作の際は、空気抜き配管の弁を閉止し、体積制御タンクへ、空気を逃がすように、操作手順を変更する。
+また、操作手順書作成の際の検討不足が今回の事象の背景にあると考えていることから、漏えい防止や労働災害防止の観点で、系統状態（系統内の圧力等）の変化を伴うような操作の影響について再評価を行い、必要に応じて操作手順を見直すこととした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-関西-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[体積制御タンク室内での漏水について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/05/11 17:32:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

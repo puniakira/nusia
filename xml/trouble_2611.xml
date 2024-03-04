@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．主蒸気流量Ｄは，流量検出器Ｄ－１と流量検出器Ｄ－２の平均から求めていることから，その各々の計装配管系について調査を行った結果，下記の項目が確認された。
+（１）流量検出器Ｄ－１の調査結果
+流量検出器Ｄ－１の主蒸気流量の挙動について確認した結果，主蒸気流量Ａの流量検出器Ａ－１の応答と比較し差異が認められないことから，流量検出器Ｄ－１の応答は正常であることを確認した。
+
+（２）流量検出器Ｄ－２の調査結果
+流量検出器Ｄ－２の主蒸気流量の挙動について確認した結果，他の流量検出器の挙動と逆の応答をしていることから，次の要因について点検調査を実施した。
+ａ．流量検出器Ｄ－２の異常
+流量検出器Ｄ－２と同じ計装配管に接続されている差圧検出器Ｃ・Ｄに，仮設の記録計を設置して応答特性を計測したところ，流量検出器Ｄ－２の応答と同様な傾向を示したことから，検出器単品の可能性は少ないことを確認した。
+ｂ．弁の構成異常
+流量検出器Ｄ－２の計装配管に設置されている流量検出元弁（F700Q・F700N），過流量阻止弁（F701Q・F701N）等について開閉状態を確認した結果，各々の弁の開閉状態に異常のないことを確認した。
+ｃ．計装配管の異常
+計器及び弁の開閉状態に異常はないため，計装配管に詰まりのある可能性があることから，配管，弁（F700Q・F700N，F701Q・F701N），オリフィス，基準面器について調査した結果，下記について確認された。
+（ａ）各機器の閉塞について
+○Ｘ線診断装置による点検結果
+計装配管内より水を抜く前に各機器の内部状況を確認した結果，特異なものは確認できなかった。　　　　　　　　　　　　　　　　　　　
+○過流量阻止弁（F701Q・F701N）の分解点検結果
+分解点検を行った結果，特に異常のないことを確認した。
+○排水量の確認
+流量検出配管の高圧側及び低圧側について，流量検出元弁（F700Q・F700N）を開操作して，排出水量を確認することにより閉塞の有無を確認した。
+その結果，高圧側は約10リットル排水されたものの低圧側は約0.01リットルしか排水されなかったため，低圧側が閉塞していることが確認された。　
+○流量検出元弁（F700Q）の分解点検結果
+低圧側の閉塞が確認されたことから，低圧側の流量検出元弁（F700Q）の分解点検を行った結果，特に異常のないことを確認した。　　　　　
+○流量検出配管の調査結果
+流量検出元弁（F700Q）に異常がないことから，その上流側の流量検出配管について調査した結果，下記について確認した。
+・残留水量の確認
+低圧側の流量検出配管の残留水を排水するため，流量検出元弁（F700Q）の入口部からエアーチューブ（6mm）を挿入し，流量検出配管内にエアーを注入することにより，残留水の排出を試みた結果，約9.51リットルの排水が確認された。
+この量は，基準面器の容積（計算値約0.5リットル）を除いた配管容積（計算値：9.8リットル）にほぼ一致することから，基準面器下部の垂直配管部に何らかの詰まりがあることが推定された。　　　　　　　　　
+・残留水内の確認
+回収した残留水に茶褐色の浮遊物が認められたため目視にて確認した結果，大きさ約1cmの「黒い水あかのようなもの（3個）」が確認されたが，閉塞に至るような異物は出てこなかった。
+・残留水排出後のＸ線診断装置による点検結果
+残留水排出後に再度基準面器の水位を確認した結果，前日のＸ線撮影時の水位に対して約30mm水位の低下があるものの，残留水があることが確認された。
+オリフィス部（約6mm）についても確認した結果，前日のＸ線撮影時には確認できなかったオリフィス下部に詰りの要因と見られる影（約60mm）が確認された。
+また，その影は，しわ状に見えることから，オリフィスに対して下方向から押しつけられているものと推測された。　　　　　　　　　　
+
+（ｂ）破損リークについて
+外観点検を行い，漏えいや変形のないことを確認した。
+
+（ｃ）エアー溜まりについて
+主蒸気流量検出配管は原子炉側が高く，計器側が低くなるように勾配が設けており，配管勾配の確認によりエアー溜まりができる可能性がないことを確認した。
+
+（ｄ）点検履歴調査結果
+弁の点検記録を確認した結果，流量検出元弁（F700Q・N）は第９回定期検査時（平成１１年度）に分解点検を，過流量阻止弁（F701Q・N）は第１０回定期検査時（平成１２年度）に定期取替を実施していた。
+計装配管については，第７回定期検査時（平成８年度）に基準面器およびオリフィス付近の配管について突合せ溶接への改造工事を実施していた。
+
+２．オリフィス下部に詰まっているものの取出し結果
+基準面器下部のオリフィス下部に何らかの詰まりがあることが確認されたため，次の方法により当該部からの取出し作業を行った。
+（１）流量検出元弁（F700Q）に仮設のホース及び弁を接続し，真空ポンプにより吸引したが，当該部からの取出しはできなかった。
+
+（２）そのため，原子炉の水位を上昇させ，主蒸気管側から加圧して下流へ押し出す作業のため水位を上昇させていたが，その作業中に仮設の排出配管に急に流れが発生し，ウエスと思われるものが回収された。　
+
+（３）回収されたものは，目視確認の結果，ウエスであり，幅約4cm，長さ約40cmの細長いもので，端の方が黒くなっていた。
+
+（４）回収したウエスを計装配管と同じ内径の筒に詰めて，その長さを測定した結果，Ｘ線診断装置にて観察されたオリフィス下部の影の長さとほぼ一致したことから，計装配管内のウエスは全て回収できたものと考えられた。
+また，回収後に当該配管のフラッシングとＸ線撮影を実施し，詰まりのないことを確認した。　　　　　　
+
+３．ウエスの混入の可能性調査結果
+　　　ウエスがオリフィス下部に混入した経路及びその原因についての可能性を調査した。　　　　　　　　　　　　　　　　　　　　　　　　　　
+（１）主蒸気管から混入した可能性
+　　　ウエスが発見されたのは，オリフィスの下流であることから，主蒸気管側から混入した可能性はない。
+
+（２）計装配管改造時に混入した可能性
+ａ．当該配管のうち，基準面器前後の計装配管溶接部は差し込み溶接タイプであったため，他プラントのトラブルの水平展開として，第７回定期検査時に突き合わせ溶接タイプに改造している。
+プラント建設時の試運転時に実施した圧力設定点変更試験では異常はなく，それ以降，第７回定期検査までは当該計装配管の改造や流量検出元弁の分解点検も実施していないことから，第７回定期検査以前にウエスは詰まっていなかったものと推定される。
+ｂ．計装配管改造工事においては，計装配管切断部にはテープで養生する等異物混入対策に注意を払っていた（聞き取り調査を実施）が，工事の各ステップを確認したところ，浸透探傷検査時や各部品の清掃の際にはウエスを使用していることから，ウエスが計装配管内にあやまって混入した可能性は否定できない。
+ｃ．また，工事要領書では，当該配管に異物が混入していないことの確認は，開先合わせ前に実施することになっている。
+しかし，異物混入チェックシートと当該工事の実績を確認したところ，チェックシートの異物確認日が開先面の浸透探傷検査前（監督者が経験不足であったため，勘違いにより開先加工が終了後にチェックしたものと推定）になっていることが判明した。　　　　　　　　　　　　　　　　　　　　
+
+このため，開先合わせ実施前の最終的な異物確認の記録がなく，混入していないことを確認できないため，当該配管に異物が混入した可能性があった。
+
+＜参考＞
+・開先面の浸透探傷検査：
+配管溶接前に接続する配管端部を機械加工し，開先面表面に欠陥がないことを浸透探傷検査にて確認する検査。
+
+・配管切断から配管溶接までの工事ステップ：
+既設配管切断　→　開先加工　→　開先面の浸透探傷検査　→　異物確認（復旧前）→　開先合わせ　→　配管溶接
+
+（３）流量検出元弁（F700Q）の点検時に混入した可能性
+　　　流量検出元弁は，第９回定期検査時に分解点検を実施しているが，当該弁の分解時には異物混入防止対策として，弁箱内でのウエス等による養生を禁止するとともにフランジ部に蓋を設置することとしており，また，組み立て前に清掃と内部確認を実施する等，異物混入防止に注意を払っていたこと（聞き取り調査を実施），混入防止の確認を適切な時期に実施し記録していることなどから，その時点で混入する可能性はない。
+　
+（４）過流量阻止弁（F701Q）の取替え時に混入した可能性
+　　　過流量阻止弁は第１０回定期検査時に定期取替えを実施しているが，新品を使用しているためウエスが混入する可能性はない。
+　　　また，仮に混入したとしても流量検出元弁の弁体のリフトが約5mmであることからオリフィス下部に到達する可能性はない。
+
+（５）計器点検時に混入した可能性
+　　　計器点検時は計器を計装配管から取り外さないため，ウエスが混入する可能性はない。
+　　　また，仮に混入したとしても過流量阻止弁の通過隙間は約0.3mmであることからオリフィス下部に到達する可能性はない。
+
+（６）計装配管水張り時に混入した可能性
+　　　仮に水張り系統にウエスが混入していたとしても，水張り用配管の内径が約15mmであること，及び過流量阻止弁の通過隙間は約0.3mmであることからオリフィス下部に到達する可能性はない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[当該系統の点検のため原子炉を停止することとし，同日２３時００分に発電機解列，翌２３日３時２４分に全制御棒全挿入した。
+その後，原因調査及び対策を実施した後，原子炉を起動し平成１６年１１月４日１３時００分発電機を並列（本並列）した。
+]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2611</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/06/02 18:20:21]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[主蒸気流量検出器の応答遅れについて検討を行った結果，主蒸気流量大による格納容器隔離系計装の動作が可能な状態であるとは判断ができなかったことから，同日１６時５５分，保安規定第２７条第１項の「運転上の制限を満足していない」と判断した。
+また，当該系統の点検のためには，原子炉圧力を降下させなければならないことから原子炉を停止させ当該系統の点検調査を実施することとし，同日２３時００分に発電機解列，翌２３日３時２４分全制御棒全挿入した。その後，原子炉が冷温停止となった８時４１分に運転上の制限の逸脱からの復帰を宣言した。
+]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>317</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3047</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/11/15 17:10:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200410221041]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ウエスを回収し計装配管の詰まりを解消した。
+
+（２）計装配管（低圧側）のフラッシングを行い，残留物のないことを確認した。
+また，水張り後の水抜き時間の計測と，水抜き後のオリフィス部のＸ線診断装置による確認を行い，計装配管内部に残留物がないことを確認した。
+
+（３）第７回定期検査時に実施した基準面器廻りの計装配管改造工事においては，当該配管と同様に異物確認を実施した監督者の経験不足のために，最終的な異物の確認がされていない可能性がある。
+そのため，当該の監督者が担当したプラントの重要なパラメータを計測する計装配管については計装ラックより計装配管に通水し，実際に水が流れて閉塞のないことを流量計にて確認した。　　　　　　　　　　　　　　
+
+（４）今後，プラントの重要なパラメータを計測する計装配管の改造修理を実施した場合は，計装配管に通水等を実施して閉塞のないことを確認する。
+
+
+（５）工事要領書に定められた工事ステップ毎の適切な時期に，異物確認を確実に実施し，ウエス等の詰めものをした場合は，確実に回収すること，及び最終の異物確認結果についてはチェックシートに確実に記録することを所内関係者及び関係企業の方々に再度，周知するとともに事例研修会を実施する。
+
+なお，プラントの再起動時には，電気油圧式制御装置の圧力設定点変更試験を再度実施し，主蒸気流量計が正常に指示することを確認する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/02 18:20:21]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[当所４号機は，第１２回定期検査後の起動段階において，平成１６年１０月２１日より電気油圧式制御装置の圧力設定点変更試験を実施していたところ，翌２２日の１０時１４分に，「給水制御装置軽故障」の警報が発生した。
+このため，主蒸気流量計の過渡時の挙動を確認したところ，計測していた４組の主蒸気流量信号のうち主蒸気流量Ｄのデータに応答遅れが確認された。
+この応答遅れは，主蒸気流量Ｄの２つの検出器のうち，給水制御用主蒸気流量計Ｄ－２の応答が遅れていることを確認した。
+その後，当該流量検出器本体の健全性を確認するため，同日の１２時４０分に同一計装配管に接続される主蒸気流量大検出器に仮設の記録計を設置し，再度試験を実施した。
+この結果，主蒸気流量大検出器にも同様な挙動が確認されたこと，さらに，過流量阻止弁のバイパス弁を開けた状態で試験を実施した場合にも，応答遅れは解消されなかったことから，検出器本体には問題なく計装配管側に異常がある可能性のあることが確認された。
+
+このため，主蒸気流量検出器の応答遅れについて検討を行った結果，主蒸気流量大による格納容器隔離系計装の動作が可能な状態であるとは判断ができなかったことから，同日１６時５５分，保安規定第２７条第１項の「運転上の制限を満足していない」と判断した。
+また，当該系統の点検のためには，原子炉圧力を降下させなければならないことから原子炉を停止させ当該系統の点検調査を実施することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M038]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）第７回定期検査時の計装配管改造時に，計装配管内部の異物確認を開先面の浸透探傷検査前に実施し最終的な異物確認記録（チェックシート）がなく，ウエスが混入していないことは確認できていないことから，この時に混入した可能性がある。
+なお，異物確認を浸透探傷検査前に実施した原因は，監督者の配管工事の経験が不足していたため勘違いしたものと思われる。
+
+（２）主蒸気流量Ｄの低圧側計装配管内にウエスが混入したまま復旧したため，計装配管の水張り時に押されて，オリフィス下部に滞留した。
+
+（３）オリフィス下部にウエスが滞留したままでも，主蒸気管の圧力測定は可能であり主蒸気流量の測定値は他の流量計と同じであったが，過渡変化については応答が遅くなった。
+
+（４）このため，高圧側の圧力と低圧側の圧力にアンバランスが生じてしまい，過渡時の主蒸気流量Ｄの挙動が他の主蒸気流量の挙動と逆となった。
+なお，主蒸気流量Ｄの流量大の検出器（２個）の応答が遅いことが安全性に影響を及ぼす可能性について検討した結果，主蒸気流量が他の検出器（１４個）により正常に検出され主蒸気隔離弁の閉機能が達成されるため，問題ないことを確認した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[主蒸気流量検出器の運転上の制限からの逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報発生]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>220</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/24 11:17:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[d]]></DISP_NO>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[配管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2611</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[タービン制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2611</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

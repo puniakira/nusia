@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12727</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2018/03/12 13:58:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>73981</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/10/10 14:10:21]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201709160646]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/03/12 13:58:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事 象
+平成２９年９月１６日、通常運転中の伊方発電所３号機において、エタノールアミン含有排水生物処理装置※（管理区域外）の異常を示す信号が発信しました。運転員が現地を確認したところ、同装置に空気を供給する曝気ブロワＢが停止しており、モータとブロワを連結しているベルトに異常があることを同日６時４６分に確認しました。そのため、予備機の曝気ブロワＡを起動して同装置の運転を継続しました。
+
+その後、曝気ブロワＢ一式を取替え、１１月２９日１４時０５分、通常状態に復旧しました。
+
+本事象によるプラントへの影響および環境への放射能の影響はありませんでした。
+
+※エタノールアミン含有排水生物処理装置
+２次系排水に含まれるエタノールアミンやアンモニアなどの薬品を微生物の作用等により分解処理する装置
+
+
+○原 因
+調査の結果、ブロワのベアリング内に封入しているグリースの油分が無くなっていたことから潤滑不良となり、ベアリング温度が異常に上昇したことに起因してブロワが回転不良となり、ベルトが損傷するとともに、モータが過負荷となりブロワが自動停止したものと推定しました。
+
+ブロワは空気を圧縮して送気する装置であり、正常時においても比較的高温となることから、ベアリングの潤滑不良の原因は、比較的高温な状態でブロワを長期間運転したことで、ベアリング内のグリースの油分が徐々に減少して潤滑が悪くなり、摩擦熱により温度が更に上昇することでグリースの油分減少が促進されたことによるものと推定しました。
+
+
+○対 策
+・当該曝気ブロワを新品に取替えました。
+・温度上昇による潤滑不良を未然に防止するため、ベアリング温度が通常よりも高い状態になった場合には容易に認識できるよう、温度管理用のシールをベアリングの外装に貼付け、日常の巡視点検時に確認するとともに、必要に応じてグリース補充等の処置を行うこととしました。
+・当該ブロワと同様な他のブロワについても、上記と同様の管理を行います。
+
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-四国-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　エタノールアミン含有排水生物処理装置曝気ブロワの異常について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/10/10 14:10:28]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現場状況調査
+　ひび割れの認められた当該箇所及びそれ以外のその他箇所について調査を実施し、ひび割れの状況を確認した。
+　１．１　当該箇所調査
+　　ひび割れの状況を外観目視調査、浸透探傷試験により詳細に確認した。なお、当該箇所のひび割れは筒体を貫通したものであったことから、超音波探傷試験は、実施不要と判断した。
+　（１）外観目視調査
+　　　当該箇所を含めた周方向全周について塗装ケレンを実施し、排気筒筒体表面の外観目視調査を実施した。その結果、ひび割れ(a)，(b)については、いずれも排気筒筒体表面にダクト接続部から排気筒の周方向に連続してひび割れがあることを確認した。なお、当該箇所円周部については、当該箇所以外にひび割れは確認されなかった。
+　（２）浸透探傷試験
+　　　当該箇所を含めた周方向全周について浸透探傷試験を実施し、表面ひび割れ先端部の確認を行った。その結果、ひび割れの先端は、ひび割れ(a)については、ダクト取付用のコーミングと筒体の縦溶接線より2,210mmの地点まで、ひび割れ(b)については、ダクト取付用のコーミングと筒体の縦溶接線より1,120mmの地点まで、周方向に達していることを確認した。なお、当該箇所以外については、ひび割れは確認されなかった。
+　１．２　その他箇所調査
+　（１）当該箇所以外の開口コーナ部補強板溶接線
+　　　ひび割れ(a)，(b)は、排気筒内面と開口コーナ部補強板との溶接線（以下、「補強板溶接線」という。）の筒体表面側付近と考えられたことから、当該箇所以外の補強板溶接線及びその付近について、塗装ケレン後、外観目視調査、浸透探傷試験及び超音波探傷試験を実施した。
+　　　ア．外観目視調査
+　　　　　　筒体表面の外観を目視にて調査した結果、ひび割れは認められなかった。
+　　　イ．浸透探傷試験
+　　　　　　筒体表面の浸透探傷試験の結果、有意な指示は認められなかった。
+　　　ウ．超音波探傷試験
+　　　　　　筒体内面の超音波探傷試験の結果、ダクト接続部に近接した位置（東側２箇所：ひび割れ(c)、西側１箇所：ひび割れ(d)）にひび割れの徴候を確認した。その他の部位については、有意な指示は認められなかった。
+　（２）排気筒筒体突合せ溶接線
+　　　排気筒筒体突合せ溶接線の代表部位として、筒体の応力度が最大となる部位の筒体溶接線を選定し、溶接線及びその付近について、浸透探傷試験及び超音波探傷試験を実施した。その結果、いずれの試験においても異常は認められなかった。
+２．ひび割れに対する評価
+　２．１　ひび割れが確認されたことによる応急処置及び耐震性評価
+　（１）応急処置
+　　　ア．ひび割れ(a)，(b)
+　　　　貫通したひび割れが確認されているひび割れ(a)，(b)については、外力に対しひび割れが無い状態と同じ引張強度を確保するため、排気筒ひび割れ部と同等の負担幅をもつ全強継手となるように、縦リブによる補修工事を実施した。また、ひび割れの進展を防止するため、ひび割れ周方向先端部を応力が集中しないよう形状加工（孔開け）（以下、「ストップホール」という。）を実施した。
+　　　イ．ひび割れ(c)，(d)
+　　　　超音波探傷試験により、ひび割れの徴候が確認されたひび割れ(c)，(d)については、開口コーナ部下部補強板上側で反開口部端部までの進展を想定し、ひび割れ(a)，(b)と同様に、縦リブによる補修工事及びひび割れ進展防止のためストップホールを施工した。
+　（２）耐震性評価
+　　　排気筒のダクト接続部の一部にひび割れが入った状態をモデル化し、当社で実施した「浜岡原子力発電所１号機耐震性評価結果」（平成10年7月）の評価方法を用いて、基準地震動Ｓ１を入力地震動とし地震応答解析による耐震性評価を行った。なお、モデルは確認されたひび割れ長さに適切な裕度を加えたものとするが、応急処置により、ひび割れの先端部をストップホールとして施工したことから、ひび割れのこれ以上の進展は仮定していない。また、ひび割れは、開口コーナ部上部補強板の下側溶接線付近（ひび割れ(a)，(b)）と開口コーナ部下部補強板の上側溶接線付近（ひび割れ(c)，(d)）で確認されているが、解析モデルでは、両者が含まれた範囲が断面欠損しているものと仮定している。評価の結果、筒体の局部座屈応力度は、筒体の自重による軸力と地震時最大応答曲げモーメントの組合せによる発生応力度を上回っており、耐震性が確保されていることを確認した。
+　２．２　ダクト接続による影響評価
+　　ひび割れの現場状況調査から、ひび割れ(a)～(d)がダクト接続部付近で確認されたことから、原因について調査するにあたり、排気筒とダクトの接続により、ひび割れの発生、進展に影響を与える可能性について評価した。評価にあたっては排気筒とダクトがエキスパンションジョイントにより接続されていることから、このエキスパンションジョイントの有効性を確認することより行った。その結果、最大荷重による排気筒変位量の内、ダクト接続部の変位量は、エキスパンションジョイントの許容変位量に対して十分小さいことが確認された。このため、ダクトが接続されていても、排気筒のひび割れの発生、進展に影響を与える可能性はないものと評価される。
+３．原因調査
+　現場状況調査により、ひび割れ(a)～(d)について、以下のことが確認された。
+　・ひび割れ(a)～(d)は、排気筒のダクト接続部にある開口コーナ部補強板溶接線付近の周方向に発生していた。
+　・筒体の突合せ溶接線付近には異常が認められなかった。
+　・ダクトが接続されていても、排気筒のひび割れに影響を与える可能性はないものと評価された。
+　これより、ひび割れは筒体開口部固有なものであると推定され、ひび割れの原因究明のため要因分析図を作成し、これをもとに以下の調査を行った。
+　３．１　金属調査
+　（１）ひび割れ(a)，(b)
+　　　ひび割れ(a)，(b)の先端位置の確認、ひび割れ発生箇所の推定、及びひび割れの破壊形態同定のため、ひび割れ(a)，(b)の先端部及び中央部についてサンプル採取（ひび割れ(a)：４箇所、ひび割れ(b)：３箇所）を行い、以下の金属調査を行った。なお、ひび割れ先端部は、応急処置のため、ストップホールとして施工したものをサンプルとした。
+　　　ア．外観観察
+　　　　各サンプルの外観を目視により観察した。また、ひび割れ先端部を含んだサンプルについて、浸透探傷試験により、ひび割れ先端位置を確認した。外観観察の結果は、以下のとおり。
+　　　　・ひび割れは、外面では水平方向に進展、内面では補強板との隅肉溶接部止端部に沿って進展していた。
+　　　　・浸透探傷試験により、ひび割れ先端がサンプル内にとどまっていることを確認した。
+　　　　・外面に対して、内面のひび割れが長かった。
+　　　　・外観上、ひび割れ近傍に顕著な塑性変形は見られなかった。
+　　　　・外観上、腐食による顕著な減肉や食孔は見られなかった。
+　　　イ．破面観察
+　　　　各サンプル破面を開き、目視による観察（マクロ観察）と走査型電子顕微鏡（ＳＥＭ）による観察（ミクロ観察）を実施した。破面観察の結果は、以下のとおり。
+　　　　・マクロ観察により、疲労破壊で見られる複数の段差及び筋状の模様を確認した。
+　　　　・ミクロ観察により、疲労破壊で見られるストライエーション状模様を確認した。
+　　　　・ひび割れの進行方向は、ストライエーション状模様から、補強板が取り付けられている部分では、筒体内面から外面に向かって進展し、筒体のみひび割れがある部分では、ダクト接続部から筒体円周方向に向かって進展したものと推定される。
+　　　ウ．断面観察
+　　　　各サンプルの断面について、光学顕微鏡による観察を実施した。断面観察の結果は、以下のとおり。
+　　　　・ひび割れは、補強板隅肉溶接部止端部に沿っていた。
+　　　　・ひび割れの発生につながる溶接欠陥は認められなかった。
+　　　　・鋼材及び溶接部において異常な組織は見られず、金属組織上の材料不良は認められなかった。
+　　　エ．硬さ測定及び成分分析
+　　　　各サンプルの断面について、硬さ（ビッカース硬さ）測定を実施した。その結果、筒体（母材部、熱影響部）及び溶接部に異常な硬化は認められなかった。また、各部（筒体、開口コーナ部補強板、溶接部）の成分分析を実施した。その結果、異常な成分は認められなかった。
+　（２）ひび割れ(c)，(d)
+　　　ひび割れ(c)，(d)及びストップホールとして施工した箇所について、ひび割れの形態確認の観点から、以下の金属調査を行った。（ひび割れ(c)：１箇所、ひび割れ(d)：１箇所、ストップホール箇所：２箇所）
+　　　ア．外観観察
+　　　　各サンプルの外観を目視により観察した。外観観察の結果、ひび割れは補強板の隅肉溶接部止端部に沿って進展していることを確認した。
+　　　イ．破面観察
+　　　　各サンプル破面を開き、目視による観察（マクロ観察）と走査型電子顕微鏡（ＳＥＭ）による観察（ミクロ観察）を実施した。破面観察の結果は、以下のとおり。
+　　　　・マクロ観察により、疲労破壊で見られる複数の段差及び筋状の模様を確認した。
+　　　　・ミクロ観察により、疲労破壊で見られるストライエーション状模様を確認した。
+　　　　・ひび割れの進行方向は、ストライエーション状模様から、内面から外面に向かって進展したものと推定される。
+　３．２　記録調査等
+　（１）鋼材検査証明書調査
+　　　排気筒の鋼材検査証明書（ミルシート）を調査した。その結果、JIS規格品であることを確認した。
+　（２）溶接施工記録調査
+　　　排気筒建設時の溶接施工記録を調査した。その結果、当該箇所溶接部検査記録は無かったが、金属調査の結果から溶接不良は認められなかった。
+　（３）検査成績書調査
+　　　排気筒建設時の検査成績書（筒身板材検査成績書、筒身リング外周長計測検査成績書）を調査した結果、異常値はないことを確認した。
+　（４）排気筒構造計算書調査
+　　　排気筒建設時の排気筒構造計算書を調査した結果、排気筒の構造計算は、「鋼製煙突構造計算基準・同解説（1965年日本建築学会）」に従って実施されていたことを確認した。
+　３．３　風・地震による荷重・応力履歴調査
+　　発電所敷地内において排気筒頂部高さと同じ高さに設置した風向風速計観測記録及び過去の地震観測記録に基づき最大荷重による応力度を評価した。その結果、風・地震によるダクト開口コーナ部補強板周辺の平均応力度の最大値は、１０９ＭＰａであり、鋼材（ＳＭ４１：現在のＳＭ４００に相当）の引張強度４００ＭＰａに対し、十分下回っていることから、風・地震による荷重によりひび割れは発生しないことを確認した。
+４．損傷要因の推定
+　ひび割れの現場状況調査及び原因調査の結果から、ひび割れはダクト開口コーナ部補強板溶接部での疲労によるものと推定されることから、損傷要因として、排気筒の風渦励振による応力度の算出、疲労評価を行った。
+　（１）概要
+　　　「建築物荷重指針・同解説２００４（日本建築学会）」に基づき算定した風渦励振荷重を入力として、シェル要素を用いた３次元ＦＥＭ解析を行い、排気筒筒体及びダクト開口部周辺の風渦励振による応力度を算定し、疲労評価を行った。
+　（２）共振回数の算定
+　　　ア．共振風速の算定
+　　　　　「建築物荷重指針・同解説２００４（日本建築学会）」に基づき風渦励振が発生する共振風速を算定した。
+　　　イ．共振回数の算定
+　　　　　発電所敷地内において排気筒頂部高さと同じ高さに設置した風向風速計観測記録を用い、共振が発生したと推定される繰返し回数を算定した。
+　（３）疲労評価
+　　　「鋼構造設計規準２００２（日本建築学会）」に基づき、風渦励振による応力度、自重による軸応力度及び共振回数（繰返し数）に応じて設定される疲れ係数により、発生応力度と疲れ係数の積を計算し、許容応力度と比較することにより疲労評価を行った。その結果、開口コーナ部上部補強板下側及び開口コーナ部下部補強板上側において発生応力度と疲れ係数の積は鋼材の許容応力度を上回り、疲労破壊が発生し得ることを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[149]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[11]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2687</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2016/04/15 10:40:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>60777</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/01/05 14:10:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200412211140]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）解体撤去工事
+　当該排気筒は、風渦励振対策を実施した排気筒に建て替える計画であったが、１、２号機が廃止措置段階であることを踏まえ、廃止措置の第２段階の早い段階で排気筒の解体撤去を行う。
+（排気筒につながる排気ダクトを切断し、新たに排気口を設け、放射線をモニタリングしながら排気するよう、排気経路の変更を行う。その後、排気筒を解体撤去する。）
+（２）解体撤去工事までの措置
+　ひび割れ箇所については、原状への復旧（現状のひび割れ箇所、ストップホール箇所の溶接及び縦リブの撤去を実施）を行うとともに、風渦励振による疲労割れの知見を踏まえ、排気筒内側の補強板の隅肉溶接部について、疲労に強い形状への補修を行う（既に実施済み）。
+　また、風向・風速のパラメータ監視により逐次疲労評価を行うとともに、定期的に排気筒外観目視点検、超音波探傷試験による排気筒筒体の健全性確認の監視強化を図る。
+（３）点検計画の見直し
+　排気筒について、点検範囲、点検頻度を明確にする等点検計画の見直しを行い、適切に管理していく。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/04/15 10:40:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　浜岡原子力発電所１号機は平成14年4月26日より第19回定期検査中、２号機は平成16年2月21日より第20回定期検査中のところ、平成16年12月17日、排気筒（１,２号炉共用）（以下、「排気筒」という。）に設置している航空障害灯定期点検時に、排気筒とダクトとの接続部（以下、「ダクト接続部」という。）（地上高さ16.4m付近）に筋状模様があることを作業員が発見した。その後、現場状況を確認するため、12月18日より20日にかけて足場組み立て作業を実施した。足場組み立て作業途中（19日16時～17時頃）において、当該部周辺の外観を至近距離から目視にて確認したところ、塗装表面の２箇所に、いずれも周方向のひび割れ（長さ約2m：ひび割れ(a)※１と約1m：ひび割れ(b)※２）を確認した。さらに、その一部について塗装ケレンを実施したところ、排気筒筒体表面部にひび割れが発生していることを確認した。12月21日、当該箇所の漏洩確認を行ったところ、11時40分、空気の漏洩を確認した。なお、漏洩箇所について、漏洩防止処置を実施した。また、排気筒モニタ、モニタリングポストの指示値に異常はなく、本事象による外部への放射性物質の影響はなかった。
+
+※１　ひび割れ(a)：ダクト接続部に４箇所設置している開口コーナ部補強板のうち、東側上部補強板の下側で確認したひび割れ。
+※２　ひび割れ(b)：ダクト接続部に４箇所設置している開口コーナ部補強板のうち、西側上部補強板の下側で確認したひび割れ。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-T010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　今回の排気筒ひび割れ事象の発生原因は、応力が集中する形状であるダクト接続部の開口コーナ部上部補強板の下側溶接部（ひび割れ(a)，(b)）及び下部補強板の上側溶接部（ひび割れ(c)，(d)）において、風渦励振による疲れ係数を考慮した発生応力度が鋼材の許容応力度を超えたため、排気筒内面の溶接線止端部を起点とした疲労破壊が発生し、排気筒内面から外側に向かって進展したものと推定される。また、ひび割れ(a)については、さらに溶接部から周方向側に進展したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡原子力発電所　排気筒（１，２号炉共用）のひび割れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（漏洩確認）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>60779</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/01/05 19:28:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[690]]></KIKI_CODE>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2687</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[筒体]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2687</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[690]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[煙突]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[724]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[724]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[排気塔・煙突]]></KIKI_NAME>
+					<SORT_NO>41</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[排気筒]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[149]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[製作上の不備によるもの（メーカ工場におけるもので、管理不良を含む）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設計・製作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[110]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2687</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[3]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[11]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[排気筒]]></SETSUBI_NAME>
+		<SORT_NO>11</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

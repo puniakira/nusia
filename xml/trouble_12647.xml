@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　必要な現場措置が実施されていなかった原因を特定するため、事実関係（関係者への聞き取り含む）を整理した。
+　また、本事象は複数の関係者が関わったにも関わらず現場措置の不備に気付くことが出来なかったことから、組織的要因について根本原因分析を実施した。]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[2]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[区分2]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12647</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2018/12/04 15:13:16]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[2016年10月12日の午前11時から午後3時の間、照射された燃料に係る作業を実施しており、その時間帯は、機能が要求される状態であったにも係らず非常用ガス処理系が実際には適切な状態ではなく、運転上の制限を満足しているとはいえない状態であった。]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>78630</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/05/09 11:33:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20170420]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[＜直接原因①に対する対策方針＞
+必要な現場措置が確実に実施されるよう、作業内容の明確化（ルールを社内規定に反映）および系統状態を管理する仕組みを改善する。
+
+＜直接原因②に対する対策方針＞
+必要な現場措置が確実に実施されるよう、作業内容の明確化（ルールを社内規定に反映）を実施する。
+
+＜直接原因③に対する対策方針＞
+正確な系統構成把握のため、図面修正実施時期の適正化および工程表での管理を実施する。
+
+
+＜根本原因①に対する対策方針＞
+是正処置の実施責任者は、原子力本部の各々の組織における活動（保守、運転等の各業務プロセス）について、業務プロセスの計画の段階、監視および測定の段階などにおいて、業務を取り巻く環境や状況の変化（以下、業務環境の変化）に対する業務への影響を捉え対処することができるよう、プロセスの改善を図る（プロアクティブな対応およびリアクティブな対応）。
+
+＜根本原因②に対する対策方針＞
+是正処置の実施責任者は、アイソレ管理に係るマネジメントに関し、プロセスおよび実施状況の全体像について再確認を行い、役割・責任（発電－保修側／管理職－担当）および遵守すべき事項など、不十分な点について洗い出し、それらを明確化するとともに、新たなバリア【※1】 を構築する／既存のバリアを強化するなど、アイソレ管理に係る保守管理プロセスの改善を図る。
+（【※1】 バリアとはエラーを防ぐための障壁であり、例えば、定めた手順から逸脱する場合はシステム上ブロックするなど定めたことを確実に実施するまで次のステップに進むことができないシステム構築や、チェックする観点を定めるなどのチェックの強化などがある。）
+
+＜根本原因③に対する対策方針＞
+是正処置の実施責任者は、ＣＡＰ会合について、通常と異なる状態を早期に見出し対処するなど異常への進展を防ぐ管理が不足している項目を洗い出した上で、ＣＡＰ会合において安全上重要な問題に焦点を当てて有効な解決策の道筋をつけられるよう、不適合管理および是正処置プロセスの改善【※2】を図る。
+また、ＣＡＰ会合について、発電所長が表明している期待事項に沿った議論ができているか、発電所長がオブザベーションを行い、実施状況を確認・評価する。さらに、発電所長は、プラント停止中といえども安全に対する意識を低下させることのないよう、ＣＡＰメンバーおよび所員全般を対象に意識付けを行う。
+（【※2】例えば、上程すべき案件、深掘りするための論点、状況確認のための問いかけ、ＣＡＰフォロー案件の選定およびフォロー内容を明確化する仕組みの構築などがある。）]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2018/12/04 15:13:16]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　施設定期検査中の浜岡原子力発電所4号機において、安全性向上対策工事で設置したフィルタベント設備の耐圧試験をおこなうために、耐圧試験をおこなう系統と非常用ガス処理系（注1）の境界部分の弁を2016年9月1日から取り外していた。弁を取り外しているにも係らず、本来実施すべき非常用ガス処理ファンの停止などの必要な現場措置（注2）が実施されていなかったため、非常用ガス処理系が適切な状態であると誤認識してしまう状態が継続していたことを2017年4月20日に確認した。
+
+　このため、当該期間の中で、非常用ガス処理系の機能が要求される状態（注3）の有無を確認したところ、2016年10月12日の午前11時から午後3時の間、照射された燃料に係る作業を実施しており、その時間帯は、機能が要求される状態であったにも係らず非常用ガス処理系が実際には適切な状態ではなく、運転上の制限（注4）を満足しているとはいえない状態であったことが判明した。
+　本来、非常用ガス処理系の機能が要求される状態となる前までに、取り外していた弁を復旧し当該弁を閉止しておく必要があった。現在、当該系統は取り外していた弁を復旧および閉止し通常の状態に戻している。
+　境界弁を取り外していた期間における安全上の影響について評価した結果、運転上の制限を満足しているとはいえない状態であった期間においても、原子炉建屋は適切に負圧で維持されており、本事象による外部への放射性物質の漏えいがなかったことを確認した。また、非常用ガス処理系の外部への放射性物質の影響を低減するための機能も維持されており、安全上の影響がなかったことを確認した。
+
+（注1）非常用ガス処理系とは、事故時に原子炉建屋内の空気をフィルタに通して換気するための装置。
+（注2）必要な現場措置とは、点検・補修等の対象設備およびそれに関連する設備を弁類、開閉器類等にて電気的・機械的に隔離するなどの安全上必要な操作を講じることをいう。
+（注3）保安規定上、非常用ガス処理系の機能は、現在のプラント状態においては照射された燃料に係る作業を実施している期間にのみ要求される。
+（注4）運転上の制限とは、安全機能を確保するための、予備も含めた動作可能な機器（ポンプ等）の必要台数や、原子炉の状態ごとに遵守すべき温度や圧力の制限のこと。一時的にこれを満足しない状態を確認した場合、原子炉施設保安規定に従い、事業者は運転上の制限からの逸脱を判断し、状態の復旧等の措置を実施する必要がある。
+　ただし、今回の事象のように、確認した時点において運転上の制限を満足している状態、または適用されない状態であれば、要求される措置を実施する必要がないため、運転上の制限を満足していないとは判断する必要はなく、発電所駐在の保安検査官にその旨を連絡し、過去に運転上の制限を満足しているとはいえない状態があったことについて、不適合管理をおこなう。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-中部-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【直接原因】
+主な直接原因は以下のとおり。
+
+＜直接原因①＞
+作業をおこなう部署と現場措置をおこなう部署は、弁を取り外す作業をおこなうことに対し、必要な現場措置が十分に検討されていなかった。
+
+＜直接原因②＞
+作業をおこなう部署と現場措置をおこなう部署間のコミュニケーション不足により作業の詳細内容が正確に伝わっていなかった。
+
+＜直接原因③＞
+作業をおこなう部署から現場措置をおこなう部署へ、正確な系統構成を示した図面が提供されていなかった。
+
+【根本原因】
+主な根本原因は以下のとおり。
+
+＜根本原因①＞
+業務環境の変化に応じた業務の管理が不足していた。
+
+＜根本原因②＞
+アイソレ管理全般において、組織間の「役割と責任」および「遵守すべき事項」などに係る業務の管理が不足していた。
+
+＜根本原因③＞
+ＣＡＰ会合において、通常と異なる状態を早期に見出し対処するなど異常への進展を防ぐことに係る業務の管理が不足していた。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用ガス処理系において過去に運転上の制限を満足しているとはいえない状態があったことについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[事象確認日]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[【第12回原子力規制委員会（2017年5月31日）より】
+　2016年9月1日から2017年4月20日の期間において、隔離弁が取り外されていて非常用ガス処理系の系統が適正に機能できる状態にはなかったにも関わらず、非常用ガス処理系が待機状態にあると誤認していたことから、この期間において重要度分類指針におけるクラス１に分類される非常用ガス処理系が担保すべき安全機能の健全性を担保できなかったものと評価し、違反区分は「違反１又は２」に該当すると判定する。
+　また、保安規定において非常用ガス処理系が動作可能であることを要求していた期間は、照射された燃料に係る作業を実施していた2016年10月12日のみの短期間であり、使用済燃料集合体に係る事故等は発生することなく実際に非常用ガス処理系の安全機能を必要とする状況は発生しなかったことから、原子力安全に及ぼした影響の程度は軽度だったものと評価し、保安規定違反の区分は「違反２」とする。 ]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[4]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/05/09 11:37:14]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>4</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12647</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ガス処理系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[135]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[135]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[作業計画の不備]]></S_GENIN_NAME>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12647</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[08]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[換気空調設備]]></SETSUBI_NAME>
+		<SORT_NO>8</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

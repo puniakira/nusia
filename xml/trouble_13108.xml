@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13108</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/08/06 11:44:54]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2020/04/15 16:52:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202001221209]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/08/06 11:44:54]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象説明】
+■令和2年1月22日(水)11時37分頃，作業員が2号機制御建屋1階脱衣エリアに設置されている体表面ゲートモニタNo.4にて測定中に，隣接している体表面ゲートモニタNo.3の入口扉（管理区域側）開動作時の異音を聞いた。11時45分頃，当該作業員は放射線管理業務委託員にその旨を連絡した。
+
+■放射線管理業務委託員が現場を確認したところ，入口扉（管理区域側）が通常よりも開いた状態になっており，手動モードで閉操作を行ったが全閉できず，復旧できなかったため，11時46分頃，使用禁止の措置をとった。
+
+■その後，計測器管理業務委託員が手動で閉めようとしたが閉まらず，復旧できなかった。
+また，体表面ゲートモニタが本事象の状態においても測定が行われることを確認した。
+
+■本事象が発生したと推定される11時37分から11時50分＊までの間のＡＲＧ退域者は36名であり，このうちの一部（人数は不明）が当該モニタより退域した可能性がある。
+
+＊ＡＲＧの退域時刻より退域者の人数を抽出しているため，体表面ゲートモニタ通過後の水飲み，小物物品搬出確認票への記載を見込んだ時間
+
+【影響評価】
+■保安規定第96条第6項において，管理区域から退域する者または管理区域内で汚染のおそれのない管理区域に移動する者の身体および身体に着用している物の表面汚染密度が，法令に定める表面密度限度の10分の1を超えないような措置を講じることが要求されており，この措置についてはエリアの区域管理・被服の更衣や体表面ゲートモニタによる測定により実施している。
+本事象により体表面ゲートモニタ1台の測定効率が低下したものの，以下の状況により保安規定第96条への影響はないと考える。
+・当該モニタを使用し退域した可能性のある者の作業エリアはＢ－区域とＤ－区域であり，同日実施したＢ－区域内の汚染測定において汚染は検出されておらず，またＤ－区域作業＊においても作業エリア内で汚染が検出されていないことから，適切に管理されていた。
+・当該モニタ以外の体表面ゲートモニタは全て正常な状態であった。
+
+＊Ｄ／Ｗ　ＨＣＷ系点検
+
+■体表面ゲートモニタは，保安規定第103条において5台確保することが要求されており，さらに，ＱＭＳ文書「放射線計測器管理手順書」において5台の内訳として1・2号機で2台確保することを定めているが，1・2号機に設置している体表面ゲートモニタ10台のうち他の9台は正常であることから，保安規定第103条への影響はない。
+
+■本事象で測定効率が低下したのは背面のみであり，体表面汚染として，発生の可能性が高いと考えられる手や顔面も含め，背面以外については正常に測定できていたことから，当該モニタを使用し退域した者が法令に定める表面密度限度の10分の1を超えていた可能性は十分低いと考える。
+
+
+■別紙のとおり法令に定める表面密度限度の１０分の１を超えていなかったと判断することから，保安規定第９６条第６項への影響はないと考える。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-東北-S033]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川１・２号機　体表面ゲートモニタＮｏ.３の入口扉（管理区域側）故障]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/04/15 16:53:28]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

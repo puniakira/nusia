@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13011</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/09/17 17:54:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>85006</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/08/29 14:35:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201908280959]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/09/17 17:54:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２０１９年８月２８日９時５９分頃，女川原子力発電所２号機において，所内設備の電源切り替え準備作業（※）中に，燃料プールを冷却するポンプ（以下，「当該ポンプ」という。）の停止信号が発信され，自動的に停止した。
+　その後，停止信号を解除し，設備に異常がないことを確認したうえで，１０時１９分に当該ポンプを再起動し，復旧させた。
+　燃料プールの水温は約２８℃であり，当該ポンプの停止前後で変化はなく，燃料プールの冷却に影響はなかった。
+　また，排気筒モニタ，排水モニタ，モニタリングポストの値に異常はなく，本事象による環境への影響はなかった。 （２０１９年８月２８日お知らせ済み）
+
+
+（※）【事象発生に至った経緯】（別紙参照）
+　当該ポンプの起動・停止を制御する回路（以下，「当該回路」という。）は，通常，電源盤Ａから受電している。電源盤Ａは，２０１９年６月１３日より点検作業のため停止しており，その間，当該回路は電源盤Ｂから受電していた。
+　電源盤Ａの点検作業終了に伴い，２０１９年８月２８日，運転員２名は当該回路への電源を電源盤Ａからの受電に戻す準備作業を行っていた。
+　電源盤を切り替える際には，当該回路が瞬間的に停電し，当該ポンプの停止信号が自動的に発信されることから，これを防止するため，ジャンパ作業（※）を行うこととしていた。
+　同日９時５９分頃，運転員がジャンパ作業を実施するため，端子を固定している「ねじ」を緩めた際，ケーブルの接点が端子から一時的に離れた（当該回路が瞬間的に停電した）ことから，当該ポンプは，停止信号の自動発信により停止に至った。
+
+　（※）電線等を用いて、電気回路間の端子同士をつなぐ作業]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-東北-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所２号機燃料プール冷却浄化系ポンプの停止に係る原因と対策について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/08/29 14:36:49]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

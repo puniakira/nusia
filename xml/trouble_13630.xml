@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　当該装置の不具合について、以下の調査を実施した。
+
+（１）事象発生時の状況
+　燃料取出作業休憩後の燃料取出作業再開の準備として、現場作業員において、水中テレビカメラ位置調整およびアイリスの開閉操作等を実施した際、映像が暗いように感じた。
+　その後、燃料取出作業再開後に燃料集合体の外観を確認したところ、休憩前の燃料集合体外観確認時より映像が暗く、確認できない状況であった。
+
+（２）事象発生時の現地調査結果
+ａ．映像が暗くなった原因の現地調査
+（ａ）燃料検査ピット内および当該装置の照明の確認
+　燃料検査ピット内および当該装置の照明を、一旦すべて消灯させ、順次点灯させたところ、すべての照明が点灯し、照明の消灯により映像が暗くなったものではないことを確認した。
+
+（ｂ）通信状況およびテレビモニタの確認
+　当該装置からテレビモニタまでの通信異常や、テレビモニタの輝度低下が考えられたことから、当該装置の電源入切操作およびテレビモニタの輝度調整ボリュームを調整したが映像に変化はなかった。
+
+以上の確認の結果、アイリスの動作に何らかの不具合が生じた可能性が推測されたことから、アイリスの動作状況について調査を実施した。
+
+ｂ．アイリスの動作状況に関する現地調査結果
+（ａ）現地ケーブルの接続状況の確認
+　カメラコントロールユニット（※４）、制御盤周辺のケーブルコネクタのゆるみ、および中継端子盤内の端子台のねじのゆるみによる接触不良を想定し、ケーブルコネクタの増し締め、および端子台のねじの締め付け状態の確認を実施したが、映像は暗いままで変化はなかった。
+
+※４　カメラコントロールユニット
+　水中テレビカメラの電源ＯＮ／ＯＦＦ、水中テレビカメラレンズの動作を制御するためのユニット。
+
+（ｂ）アイリス動作制御の設定確認
+　アイリスは、カメラコントロールユニットからの操作信号によりアイリスモータを動作させ、一定の回転角度、回転速度でレンズに光が入る開口部の開閉を行っている。
+　アイリスの動作を制御する基板には「モータ供給電流値ボリュームスイッチ（※５）」（以下、「電流スイッチ」という。）および「モータ励磁方式設定スイッチ（※６）」（以下、「励磁スイッチ」という。）があり、各設定の確認をしたところ、電流スイッチは「１」、励磁スイッチは「１／１６」であった。
+
+※５　モータ供給電流値ボリュームスイッチ
+　アイリスモータへ供給する電流値を調整するためのスイッチ。
+　電流値の低い側から高い側へ「０」～「９」、「Ａ」～「Ｆ」まで１６段階の設定ができ、当該装置では、カメラメーカ推奨により設定を「０」～「２」の３段階のいずれかに設定することとしている。なお、電流値は小さいほどモータの経年劣化を抑えることができる。
+
+※６　モータ励磁方式設定スイッチ
+　１回のアイリス開閉操作におけるアイリスモータの回転角度を制御する電流の入力時間を「１／１」、「１／２」、「１／４」および「１／１６」の４段階に調整するためのスイッチ。
+　「１／１６」が最も小さな回転角度でアイリスモータを制御できるが、回転させる力は小さくなる。「１／１」は最も大きな回転角度でアイリスモータを制御でき、回転させる力が大きくなる。
+
+（ｃ）アイリス動作制御の設定変更
+　アイリスモータへの供給電流不足により動作不安定となっていることを想定し、電流スイッチの設定を「１」から「２」（カメラメーカ推奨値の最大値）に変更し、アイリスの動作確認を実施したところ、アイリスは正常に動作し、当該装置の映像が確認できる状態になった。
+
+（３）工場調査結果
+　当該装置は、燃料装荷作業時にも使用する可能性があったことから、事象発生から燃料装荷作業までの間、メーカ工場において、同型の水中テレビカメラを使用し、詳細調査を行ったところ、アイリスの開度が小さい位置において、シャッター摺動部の抵抗が大きくなる箇所が存在することがわかった。
+　電流スイッチが「１」、励磁スイッチが「１／１６」の設定では、アイリスの開度が小さい位置で動作が鈍くなったり、停止した場合には動作しなくなったりなど、アイリスの動作が安定しないことを確認した。
+　また、カメラメーカが推奨する電流スイッチ「０」～「２」のうち、アイリスが安定して動作可能な設定の組み合わせを調査し、電流スイッチが「１」の場合は、励磁スイッチを「１／２」または「１／１」、電流スイッチが「２」の場合は、全ての組み合わせにおいて、アイリスの開度が小さい位置でも、動作が鈍くなることなく、開度が小さい位置で停止した場合でも動作が可能であり、安定してアイリスが動作することを確認した。
+　以上のことから、アイリスの開度が小さい位置で停止した場合、再始動には大きな力が必要になり、電流スイッチが「１」、励磁スイッチが「１／１６」の設定ではアイリスモータに供給する電流値が低く、アイリスモータを回転させる力が不足し、アイリスが動作しなくなると推定した。
+
+（４）工場調査を踏まえた現地調査
+　当該装置について、燃料検査ピット内において、事象発生時の設定（電流スイッチ「１」、励磁スイッチ「１／１６」）で動作確認を実施した。その結果、事象発生時や工場調査と同様に、アイリスの開度が小さい位置で停止した場合には動作しなくなるなどの再現性が見られた。また、工場調査で得られた安定して動作する設定では、工場調査と同様に、アイリスが安定して動作することを確認した。
+　また、燃料検査ピットから当該装置を吊り上げ、装置の分解を行い、水中カメラレンズを取出し、水中カメラレンズの外観に異常がないこと、アイリスの動作状況に異常がないこと、装置の内部に異物が混入していないこと、アイリスモータのコイルの抵抗値を測定し、コイルに断線や短絡が生じていないことを確認し、当該装置に異常がないことを確認した。
+
+（５）保守状況の調査
+　当該装置は、３号機第１６回定期事業者検査にあたり従来の水中テレビカメラから一式取替を実施しており、当該装置の納入前に、メーカ工場において、現地を模擬した動作確認を実施している。
+　納入前の動作確認では、アイリスを細かく調整できるように励磁スイッチを「１／１６」、アイリスモータの経年劣化を可能な限り抑えるために電流スイッチを「１」に設定し、アイリスを全閉から全開、または全開から全閉まで動作させ、正常に動作することを確認した。また、令和５年３月初めに実施した燃料検査前動作確認でも、納入前の動作確認と同様の確認を実施し、アイリスの動作に異常が無いことを確認していた。しかし、いずれの確認においても、アイリスの開度を小さい位置で停止させた状態からの動作確認は実施していなかった。
+　なお、メーカでは、同型の装置を他事業者へ納入した実績はあるが、これまでアイリスが動作しなくなるという事象は発生していなかったことから、納入前、および現地据付時の確認においては、アイリスを全閉から全開、または全開から全閉までの動作確認のみを実施していたため、アイリスの開度が小さい位置においてシャッター摺動部の抵抗が大きくなる当該装置の状況を、事前に把握できなかった。
+
+（６）類似機器の調査
+　当該装置は、３号機の燃料集合体外観確認に使用する専用の機器であり、類似機器はない。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[221]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13630</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[207]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード６]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2023/07/19 09:49:31]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[水中テレビカメラ]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2023/03/16 17:32:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202303150350]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）今後、安定してアイリスが動作する電流スイッチおよび励磁スイッチの設定の範囲で運用することとして、作業要領書に反映する。
+
+（２）当該装置の納入メーカに対して、今回の事象を踏まえ、過去に不具合が生じていない製品に対しても、実際の使用状況を十分に考慮したうえで、納入前の工場試験で動作確認を実施するなどの対策に努め、同様な事象の未然防止に努めるよう要請する。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/07/19 09:49:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所３号機は、定期事業者検査中のところ、令和５年３月１５日３時５０分、原子炉容器から使用済燃料ピットへの燃料取出作業中、燃料検査ピット（※１）に設置する水中テレビカメラ（※２）（以下、「当該装置」という。）にて実施している燃料集合体の外観確認において、当該装置の映像が暗く、燃料集合体の外観が確認できなくなったことから、燃料取出作業を中断した。
+　その後の調査の結果、当該装置に入る光量を調整する装置（以下、「アイリス（※３）」という。）の開閉操作をした際、光量が絞られた状態で動作しなくなり、映像が暗くなっていることを確認したことから、アイリスの電流値を調整したところ、同日６時００分、正常に動作するようになり、映像が確認できる状態になった。
+　本事象によるプラントへの影響および周辺環境への放射能の影響はなかった。
+
+※１ 燃料検査ピット
+　燃料集合体の検査を実施するための貯槽（プール）。燃料取出作業中は、連絡部（水路）を介して、原子炉容器や使用済燃料ピットと接続している。
+　原子炉容器から取出した燃料集合体は、原子炉格納容器から連絡部（水路）を介して燃料検査ピットへ移動し、外観確認を実施したのち、使用済燃料ピットに保管する。
+
+※２ 水中テレビカメラ
+　燃料集合体の外観を撮影し、燃料検査室に設置するテレビモニタにて映像を確認するため、定期事業者検査中燃料検査ピットの水中に設置するカメラ。
+
+※３ アイリス
+　当該装置に入る光量をその開度により調整する装置であり、「絞り」とも呼ばれる機構。具体的には、モータ（以下、「アイリスモータ」という。）を動力として、ギヤを介してシャッターを開閉させ、レンズに入る光を調整する部品を指す。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-四国-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　事象発生時、アイリス制御基板の電流スイッチを「１」、励磁スイッチを「１／１６」に設定していたことで、電流値が低く、モータを回転させる力が小さい状態であり、かつ、アイリスの開度が小さく、シャッター摺動部の抵抗が大きくなる位置に停止させたため、アイリスの開度が小さい状態で動作しなくなり、当該設備の映像が暗くなったものと推定した。
+　また、メーカにおいても、これまでアイリスが動作しなくなるという事象を　経験していなかったため、納入前、および現地据付時において、十分な動作確認ができていなかったことも原因として考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　燃料検査ピットにおける水中テレビカメラの不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>117064</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/03/16 17:33:27]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[水中テレビカメラ]]></S_KIKI_NAME>
+			<TROUBLE_ID>13630</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[アイリス]]></S_BUHIN_NAME>
+					<TROUBLE_ID>13630</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[燃料取扱装置]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[221]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[電流値の設定不良]]></S_GENIN_NAME>
+			<TROUBLE_ID>13630</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13630</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13630</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[298]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[06]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[燃料設備]]></SETSUBI_NAME>
+		<SORT_NO>6</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

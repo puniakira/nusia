@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>7908</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/08/28 17:42:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3329</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/10/04 15:08:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20050928]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/08/28 17:42:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 定格熱出力一定運転中の４号機において、９月２４日、タービン建屋地下１階（放射線管理区域）の廃油槽（※１）に約４０リットルの油が溜まっていることをパトロール中の運転員が確認した。
+ その後、流入経路の調査を行った結果、２５日にタービン第８軸受（※２）の振動計（※３）取付け部より、タービン軸受の潤滑油が僅かに（約５０ｃｃ／分）漏れ出て、廃油槽へ流入していることを確認した。
+ このため、潤滑油系統の圧力調整を行った結果、漏れは約１０ｃｃ／分まで減少し、さらに漏えい箇所に漏えい防止材を充填したことにより、漏えいは止まったが、念のため、当該部を監視することとした。
+ 本事象による振動計への影響はなく、プラントの運転に影響はない。
+ また、漏れた潤滑油に放射能は含まれておらず、外部への放射能の影響はない。
+
+　定期検査において点検したところ、振動計の機能やタービン設備に問題はなかったが、タービンの運転に伴い、振動計内部へ流れ込む潤滑油の量が、当初想定していた量を超えたため、排油穴（※４）より適切に排出できずに、外部へ漏れ出たものと推定する。
+
+　定期検査において、当該振動計を含めた全てのタービン軸振動計の軸振動計ガイドに排油穴を追加し、調整運転開始後の定格熱出力一定運転状態において漏えいのないことを確認した。
+　なお、その他の号機については、至近の定期検査において、同様の対策を実施する。
+
+※１　廃油槽は、タービン潤滑油が漏えいした際に回収する設備。
+※２　タービン軸受は、タービンの軸を支え、強制的に潤滑油を供給することで、潤滑および摩擦熱の除去を行う。タービン軸受は第１軸受から第８軸受まで合計８個ある。
+※３　振動計はタービンの運転状態を監視するために設置している。
+※４　振動計は構造上、内部にタービンの潤滑油が入りやすくなっているため、振動計および振動計を固定するガイドの途中に排油穴を設け、軸受内部に排出することで外部へ油が漏れないようにしている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-中部-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[浜岡４号機　タービン軸振動計取付け部の監視措置について]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/10/05 13:51:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

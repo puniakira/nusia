@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>13663</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2024/01/26 09:52:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>121519</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/06/20 14:06:47]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202306131433]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2024/01/26 09:52:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（２０２３年　６月１４日公開）
+　２０２３年　６月１３日，定期検査中の泊発電所３号機において，B－非常用ディーゼル発電機の定期試験を実施していたところ，運転員の操作誤りにより，当該ディーゼル発電機に通常より大きい電流が流れる状態となり，同日１４時３３分，保護機能が働き自動停止した。
+　その後，設備に異常がないことを点検し，本定期試験に係る注意事項や体制についてあらためて確認を行った上で，　６月１４日に定期試験を再開し，当該ディーゼル発電機が正常に動作することを確認した。
+
+　本事象が発生している状況においても，Ａ－非常用ディーゼル発電機に加え，代替非常用発電機等が動作可能であったことから，保安規定の要求事項を満たしており，必要とされる安全機能および発電所の運営に影響はない。
+　なお，環境への放射能の影響はない。
+
+（２０２４年　１月２６日公開）
+【事象の原因】
+　当該ディーゼル発電機の並列後，力率を改善するために運転員は電圧調節器を「減」側へ操作すべきところ，誤って「増」側へ操作したことで，過電流となったことから，過電流保護が動作し，当該ディーゼル発電機は自動停止した。
+　当該ディーゼル発電機の力率調整に係る運転操作を誤った原因について関係者からの聞き取り結果等に基づき，分析し，事象の原因について特定した。
+＜原因１＞
+・泊発電所３号機　非常用ディーゼル発電機の力率調整に係る運転操作に関する運転要領への記載が不足していた。
+＜原因２＞
+・アナログ式プラントである泊発電所１，２号機の運転資格があった当該運転員が総合デジタルである３号機の運転資格を取得する際に実施した号機間互換教育の内容が不足しており，３号機のディーゼル発電機の力率調整に係る知識（デジタル操作器による運転操作）が十分でなかった。（添付２参照）
+＜原因３＞
+・操作した結果に疑問が生じ，何をすべきか不確かな状況において立ち止まれなかった。
+＜原因４＞
+・力率調整の逆操作による当該ディーゼル発電機電流の増加に気付けなかった。
+＜原因５＞
+・並列後にディーゼル発電機室の運転員から受けた連絡事項が非常に聞き取り難く，ストレスを抱えたまま，集中出来ていない状況で当該操作を実施した。
+
+【再発防止対策】
+＜原因１の対策＞
+・運転要領に「非常用ディーゼル発電機の力率操作イメージ図および電流値に対する注意事項」を追記し，力率調整の運転操作方法を具体化する。
+＜原因２の対策＞
+・力率調整に係る運転操作に関する知識の確実な醸成を図るため，以下を実施する。
+ａ．教育対象者が号機間互換教育中は定められた期間当直に配置することとし，当該号機の教育訓練に集中できる環境を整える。
+ｂ．非常用ディーゼル発電機の力率調整に係る教育資料を新規に作成し，号機間互換教育資料に含める。
+　なお，当該資料に基づく教育は反復教育とする。
+・管理者は教育対象者の号機間互換教育の履修状況から教育内容の充足度を確認する。また，認定試験項目に非常用ディーゼル発電機の定期試験（負荷試験）を追加し，力率調整に係る運転操作の習熟度を認定試験により確認する。
+・上記に加え，当直の副長に昇格する前までに実施する教育内容（号機間互換教育を含む。）を充実させ，管理者がその履修状況を確認する。
+＜原因３の対策＞
+・運転員のためのヒューマン・パフォーマンス・ツールに「不確かであれば止める」を追記し，事例教育を実施する。
+＜原因４の対策＞
+・非常用ディーゼル発電機の電流値および力率に適切なプレアラームを設定し，不測の事態が生じた際に速やかに気付けるようにする。
+＜原因５の対策＞
+・ディーゼル発電機室ではノイズキャンセリングイヤホンマイクを使用することで，現場からの通話音がより鮮明となるように改善し，中央制御室の運転員が余計なストレスを受けずに操作に集中できる環境とする。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-北海道-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所３号機　Ｂ－非常用ディーゼル発電機定期試験における自動停止]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/06/20 14:10:05]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

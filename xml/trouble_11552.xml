@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11552</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/07/20 12:01:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>30999</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2012/07/20 12:00:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201207061400]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所破砕帯追加調査の一環として実施している構内のボーリング作業において、７月６日　１４時頃、地下に埋設された２号機循環水※１配管を損傷させる事象が発生した。
+　２号機は現在第１８回定期検査中であり、当該系統は停止中で水抜きされているため、損傷箇所からの海水等の流出はなく、また、当該系統に放射能は含まれておらず、本事象による周辺環境への影響はない。
+　原因調査の結果、以下のとおりであることを確認した。
+○請負会社は、当社から提示された埋設配管が適切に示された図面により、ボーリング位置と埋設物の位置を示す図面（以下「位置図」という。）を作成する際、２本が並んで埋設されている循環水配管の中心だけを破線で表記したため、２本の破線を１本の配管の幅と誤解し、ボーリング位置と循環水配管とは干渉しないと判断した。
+〇当社は、請負会社が作成した位置図の提示を求めず、循環水配管の位置が正確に反映されているかの確認をしなかった。
+　上記原因により、誤った位置でボーリングを実施し、循環水配管を損傷させたと推定した。
+　対策として、請負会社はボーリング位置を決める計画の段階で、埋設物等確認チェックシートを作成し、埋設物の位置や幅を正確に記入した位置図を作成の上、埋設物と干渉しないことの確認を行い、当社もその位置図を確認する。
+　上記の埋設物等確認チェックシートにて確認が完了したものから、ボーリング作業を再開する。
+　なお、損傷した循環水配管は、内部の点検等を行っており、今後、補修を行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-原電-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[敦賀発電所２号機　循環水配管の損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/07/20 12:01:44]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

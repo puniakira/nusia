@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地点検結果
+（１）小型ＴＶカメラにて点検したところ、信号指示のあった伝熱管３本の間の管板上面に板状の異物が確認された。取出し後の異物は、全体に均一な黒色の付着物に覆われており、伝熱管と接触していたと推定される箇所に光沢が認められた。大きさは約４０ｍｍ×５０ｍｍ、厚さは約１ｍｍ程度であった。
+（２）当該伝熱管３本の外表面は、異物が接触していたと推定される箇所に摩耗痕が認められた。また、異物取出し後に異物取出しルート周辺管を含めて再ＥＣＴを実施した結果、当該伝熱管３本を除いて異常は認められなかった。
+２．分析調査結果
+（１）外観観察等の結果、異物は皿状で中央部にやや厚みのある形状をしており、表面は黒色の付着物で覆われ、伝熱管及び管板と接触していた４カ所に摩耗痕と思われる金属光沢が認められた。寸法は４１．６ｍｍ×５３．８ｍｍ、板厚は０．３１ｍｍ～１．９９ｍｍで、重量は９．６５ｇであった。また、異物摩耗部（凸側中央）の形状は、ほぼ平坦であった。
+（２）走査型電子顕微鏡（以下「ＳＥＭ」という）による異物摩耗部拡大観察の結果、凸側中央では直線状の傷やくぼみが認められた。また、凸側中央部下方に、球状及び不定形の物質が認められた。
+（３）異物の断面ミクロ観察の結果、酸化物（灰色）中に多数の空洞（黒色）及び球状や不定形の母材（白色）が認められた。母材の金属組織は、主としてマルテンサイト相であった。
+（４）異物中の球状、不定形の母材及び酸化物の硬さは、ビッカース硬さ（ＨＶ）で３１０～３８０程度であり、伝熱管硬さ（１９０程度）よりかなり硬いことが確認された。
+（５）異物の化学成分分析の結果、マルテンサイト相と判断された金属組織は、炭素鋼と同等の成分であるＦｅが９８ｗｔ％、その他微量成分としてＭｎ、Ｓｉ、Ｃｒに加え、通常の炭素鋼で認められる０．０１～０．０２ｗｔ％より多い約０．３ｗｔ％のＣｕが検出された。
+（６）ＳＥＭによる異物の表面観察の結果、表面に数μｍ～約５０μｍ程度の粒子の付着物が認められた。付着物の化学成分分析の結果、約８０～９０ｗｔ％のＦｅが認められ、その他成分として５～１８ｗｔ％のＣｕ、また２ｗｔ％以下の微量成分（Ａｌ、Ｓｉ、Ｓ、Ｃｌ、Ｋ、Ｃａ、Ｃｒ、Ｍｎ、Ｎｉ、Ｚｎ）が認められた。
+　以上のことから、回収した異物は、組織性状、成分からみて、機器の構成部品・工具類ではないと判断される。また、異物はその特徴から、一旦溶融した金属が再固化したものであると考えられることから、電極にＣｕコーティングしたものを使用した溶断（以下「アークエアガウジング法」という）により発生する２次生成物（ノロ）の可能性があると推定された。
+３．蒸気発生器伝熱管損傷に係る原因の調査
+　ＥＣＴの信号指示から、１次側からの損傷ではなかった。また、２次側からの損傷については、水質、応力、信号波形等の評価結果から、粒界腐食割れ、孔食、デンティング、流体振動による疲労、エロージョン、リン酸減肉、器内構造物との接触による摩耗減肉により発生する可能性はないと考えられる。今回、ＥＣＴで減肉指示が認められた位置に異物が確認されたこと、異物表面の摩耗痕と伝熱管の摩耗位置・形状が類似していたこと等から、異物による摩耗減肉であると判断される。
+４．異物混入に係る原因調査
+　異物がアークエアガウジング法により発生する２次生成物と考えられたことから、その混入時期として、取替用Ｓ／Ｇ製作時、Ｓ／Ｇ取替工事時及びＳ／Ｇ取替以降の改造工事等に分けて調査を行った。
+（１）取替用Ｓ／Ｇ製作段階では、アークエアガウジング法により溶接部の裏はつり等を行っているが、溶接後ブラスト処理による付着物除去等を実施しており、２次生成物が残留する可能性は低い。また、取替用Ｓ／Ｇ母材等にはＮｉが含まれているが、異物に認められなかったことから、取替用Ｓ／Ｇ製作時の溶断作業による２次生成物である可能性は低い。
+（２）Ｓ／Ｇ取替工事時についても、異物混入の可能性について調査したが、アークエアガウジング法による溶断作業を実施していないこと等から、異物が混入した可能性は低い。
+（３）Ｓ／Ｇ取替以降の改造工事等における、アークエアガウジング法による溶断作業を調査した結果、前回（第１７回）定期検査での主給水制御弁全数（３台）取替工事でアークエアガウジング法による溶断作業を行っていることが判明した。このため、主給水制御弁取替工事について詳細調査を行ったところ、溶断作業時の火花の養生材（耐火クロス、鉄板）に溶断作業時に飛散した２次生成物が付着し異物が発生する可能性が確認された。
+　また、工事実施中においては、主給水配管に２次生成物が混入しないよう開口部の養生や異物確認を実施していることを確認したが、さらに異物混入の可能性について作業手順の調査を行った結果、以下のことがわかった。
+・作業場所の開口部と通路等の区画養生がなされていない。
+・溶断時の２次生成物は養生材に飛散・固化し、溶断作業後、養生材に残留したまま片付けられている。
+・養生材を片付ける際には、作業員が配管開口部上部の仮足場板を通って、廃材置場に運んでおり、その際に異物が残存した可能性は否定できない。
+・最終の異物確認後、新制御弁・短管を開先合わせ位置に移動するまでの間は、開口部に対する連続的な監視ができていない。
+５．異物発生の再現試験等
+　主給水制御弁取替工事におけるアークエアガウジング法で配管切断作業を模擬し、異物発生の再現試験を行ったところ、回収した異物と金属組織、化学成分等がほぼ同等の２次生成物が確認できた。
+　また、異物の落下力と抗力等を評価した結果、主給水配管内に混入したと考えられる異物が、Ｓ／Ｇ内へ移動し、Ｓ／Ｇ管板上部まで移動する可能性があることを確認した。さらに、異物によるＳ／Ｇ伝熱管摩耗の進行や伝熱管摩耗量を再現試験等により評価したところ、伝熱管の減肉は異物が流れにより振動し、伝熱管と接触したことから摩耗が進行したこと、及び当該伝熱管の摩耗量に至る時間は、約３３０～４００日と評価されたため、当該異物は、前回定期検査時に持ち込まれたと考えられる。
+６．蒸気発生器等の健全性確認
+　高圧給水加熱器からＳ／Ｇまでの主給水系統設備及びＡ～Ｃ－Ｓ／Ｇ２次側器内のうち、異物滞留の可能性がある箇所について、小型ＴＶカメラ等により点検を実施し、異物の残留や破損等の異常がないことを確認した。また、念のため、Ｂ・Ｃ－Ｓ／Ｇについても伝熱管全数（３，３８２本／基）のＥＣＴを実施した結果、有意な信号指示は認められなかった。
+　また、異物の流入過程等にある構成機器に対する影響評価を行ない、異物衝突等による強度上の影響はないことを確認した。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>213</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/08/25 00:00:00]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>421</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20000901]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．伝熱管の減肉は、前回定期検査時に実施した主給水制御弁取替工事に係る主給水配管溶断作業において発生した２次生成物が、主給水系統に混入し、Ｓ／Ｇ管板上に滞留したことにより、伝熱管の摩耗減肉が発生したものと考えられることから、ＥＣＴにより有意な信号指示の認められた伝熱管３本について施栓を実施する。
+２．作業時における異物混入防止対策として、以下の事項を当社社員及び各協力会社に徹底を図るとともに、社内標準に反映する。
+（１）機器の開放作業においては、開口部と通路等異物混入の要因となり得る箇所との区画を確実に実施し、異物の混入を防止する。
+（２）最終の異物確認に際しては、作業対象機器の異物確認のみでなく、開口部周辺の不要資材、廃材などの撤去等、清掃が確実になされていることを十分に確認する。
+（３）異物確認後は、開口部閉止まで連続して作業を行い、不必要な開口部をつくらないこととする。
+（４）異物管理責任者は、最終の異物確認以降、開口部が完全に閉止するまで連続的に監視する。
+　さらに、定期検査開始前の事前説明会等を活用し、今回の事例及び異物管理の重要性について周知徹底する。]]></SB_TAISAKU_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜３号機は、平成１２年７月２８日から第１８回定期検査中であり、Ａ－蒸気発生器（以下「Ｓ／Ｇ」という）伝熱管＊の健全性を確認するため、伝熱管全数（３，３８２本）の渦流探傷検査（以下「ＥＣＴ」という）を実施した結果、３本の伝熱管に有意な信号指示（外面減肉）が認められた。信号指示のあった伝熱管が、近接していたこと及び信号指示が管板直上部での外面減肉指示であったことから、信号指示のあった伝熱管近傍を小型ＴＶカメラにて点検したところ、管板上面（信号指示のあった伝熱管３本の間）に板状の異物が確認された。
+　なお、本事象による環境への放射能の影響はなかった。　　＊今回定期検査の検査対象]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2000-関西-T013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　伝熱管外面が減肉した原因は、前回定期検査時の主給水制御弁取替工事における溶断作業時で発生した２次生成物が主給水管から混入しＳ／Ｇ２次側器内に流入後、当該伝熱管に接触し、流体振動により摩耗が生じたものと推定される。
+　また、２次生成物は、前回定期検査時の主給水制御弁取替工事で発生し、最終異物確認から新制御弁・短管移動までの開口部が連続監視されていなかった間に、主給水配管に混入したものと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ａ－蒸気発生器伝熱管の損傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[伝熱管*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>213</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[301]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[蒸気発生器]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[300]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[300]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[熱交換器・冷却器装置]]></KIKI_NAME>
+					<SORT_NO>18</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[一次冷却系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[203]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[203]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>213</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[02]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉冷却系統設備]]></SETSUBI_NAME>
+		<SORT_NO>2</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

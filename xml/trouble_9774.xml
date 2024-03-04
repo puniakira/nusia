@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>9774</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/03/19 09:12:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>28454</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/05/20 17:45:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200805191250]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/03/19 09:12:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（事象の発生状況）
+当所７号機は定期検査中において、平成20年５月19日午後０時50分頃、７号機軽油タンク＊（Ｂ）の出口弁の下部に油（軽油）のにじみ跡があることを、パトロール中の当直員が発見した。
+
+（原因）
+軽油タンク（Ｂ）の出口弁については、事象発生当日には分解点検を行う予定はなかったが、５月19日午前10時30分頃、分解点検の事前作業のため、誤って協力企業作業員が分解点検のため当該弁をわずかに開けた。
+点検のために弁を分解する際にはある程度残油が発生するため、養生シートを設置して作業を開始した。しかし、当該弁は点検対象外であったため、油が漏れることを防ぐ措置を事前に行っておらず、油が養生シートに漏れ続けた。このため、分解作業を中断し当該弁を閉め、元の状態に復旧し、油漏れが止まったことを確認した。その後、養生シート内に漏れた少量の油がシートから防油堤内にこぼれたものと推定した。
+
+（安全性、外部への影響）
+　防油提に漏れた油の量は約250ccで、放射性物質は含まれていないため、外部への放射能の影響はない。
+　
+＊　軽油タンク
+所内電源喪失時に非常用母線へ電源を供給するディーゼルエンジン駆動の非常用発電機へ軽油を供給するタンク（１週間連続運転分　容量：５６５ｋL）。
+
+（対応状況）
+危険物を取り扱っている系統の弁を分解点検する際には、作業指示書の確認を徹底するなど、作業指示を確実に伝えることとした。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東京-S008]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[軽油タンク（Ｂ）における油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[7]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/05/23 11:10:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

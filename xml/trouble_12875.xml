@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>2</KOKAI_REV_NBR>
+	<TROUBLE_ID>12875</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/08/07 13:02:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2018/10/16 17:05:40]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201809060330]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/08/07 13:02:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成３０年９月６日（木）３時０８分に発生した北海道胆振東部地震の影響により、３時２５分に泊発電所の外部電源が喪失した。
+　これにより、３時３０分にテレメータ伝送装置が停止し、泊発電所より北海道原子力環境センター（以下、「環境センター」という。）に伝送しているテレメータ送信装置が停止し、環境センターに伝送している午前３時３０分以降の全てのデータ伝送が出来なくなった。
+　なお、発電所では、自動起動した非常用ディーゼル発電機等の電源が供給され、モニタリングポストおよびモニタリングステーション、排気筒モニタ、気象観測所等のデータ監視は出来ていた。
+　その後、５時５０分頃、テレメータ送信装置の電源を常用電源から非常用電源に手動切替を行い、環境センターへのデータ伝送を再開したが、一部のデータ（※１、※２）については、現場計測装置またはテレメータ送信装置までの中間機器の電源が復旧しなかったため、環境センターへのデータ伝送を再開できなかった。
+　同日１６時３０分、外部電源復旧後、現場計測装置および中間機器の電源復旧を行い、環境センターへの全てのデータ伝送を再開した。
+
+　※１　現場計測装置の電源が復旧しなかった対象データ
+　　　取水口・放水口モニタ（１／２号機）、放水口ポスト（１／２号機）
+　※２　中間機器の電源が復旧しなかった対象データ
+　　　排気筒モニタ、気象観測設備
+
+（参　考）発電所からのデータ伝送について
+　泊発電所では、モニタリングステーションやモニタリングポストでの環境放射線などのデータをリアルタイムで環境センターに伝送している。
+　さらに、これらのデータは、環境センターから岩宇４町村などへ伝送され公開されているほか、北海道および当社のホームページでも公開している。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-北海道-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[テレメータ伝送データの欠測]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2018/10/16 17:06:04]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

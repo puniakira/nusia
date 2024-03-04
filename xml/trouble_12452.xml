@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12452</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/06/30 20:51:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>62330</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/06/29 16:07:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201606260815]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　6月26日午前8時15分頃、Ｇ６タンクエリアにおいて、Ｂ１タンク（フランジ型）側面のフランジ部から水がタンク側面を伝って滴下していることをパトロール中の協力企業作業員が発見。滴下した水は、1秒に5～6滴程度滴下し、内堰内に留まっており、外部への流出はなし。なお、当該タンクへ貯留している水はストロンチウム処理水。
+
+　その後、午前10時、堰内に滴下している水を受ける養生を設置。今後、当該タンク内の水位を低下させる等の処置を実施予定。6月25日午後10時頃のタンクパトロールにおいて、滴下がないことを確認しており、それ以降に滴下が発生したものと仮定し、養生が完了した6月26日午前10時までの滴下量を算出した結果、最大で約72Lと推定。
+
+　また、当該タンク側面フランジ部からの滴下水およびＧ６タンクエリア内の堰内水の分析結果は以下のとおり。
+
+　<当該タンク側面フランジ部からの滴下水>
+　　・全ベータ   ：96,000Bq/L
+　　・セシウム134：110Bq/L
+　　・セシウム137：590Bq/L
+　<Ｇ６タンクエリア内堰内水>
+　　・全ベータ   ：4,100Bq/L
+　　・セシウム134：検出限界値未満(検出限界値:6.8Bq/L)
+　　・セシウム137：17Bq/L
+
+　その後、午後8時25分に仮設ポンプにより、当該タンクからＧ６タンクエリアＣ８タンクへの水移送を開始。移送開始後、漏えい等の異常がないことを確認。
+
+　6月27日午前0時40分に仮設ポンプによる移送を終了した。移送量は約380 m3。移送終了と同時に当該タンク側面フランジ部からの滴下がないことを確認。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東京-S010]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所G6タンクエリアのB1タンクフランジ部からの水滴下について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/06/30 20:51:57]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

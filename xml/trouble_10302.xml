@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10302</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2009/04/17 16:43:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4432</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/04/13 13:52:09]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20090326]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、定格熱出力一定運転中のところ、３月２６日６時２５分頃、中央制御室にて、運転員がＡタービン動主給水ポンプ※（以下、｢当該ポンプ｣という。）の回転数と全給水流量の指示値が一時的に変動していることに気づき、現場にて当該ポンプの運転状態を確認したが、異常は認められなかった。
+　その後、これらの指示値は通常値で安定していたが、同日１０時０３分、中央制御室にて「Ａ－ＦＷＰＴ（Ａ－タービン動給水ポンプ） ＥＨガバナ制御盤入出力注意」警報が発報した。
+　点検の結果、駆動用タービンに使用する蒸気の量を調整している弁の開度指令信号が６時２０分頃に通常値（約４３％）から低下（約２８％）し、その後もわずかに変動しながら低下する傾向が続き、１０時０３分にこの開度指令信号と弁の実開度信号（約４３％）との差が２０％を超えたため警報が発報したと判明した。
+　原因調査のため、当該ポンプを停止し制御系の点検を行うこととし、同日２１時４５分に当該ポンプを停止し、電動主給水ポンプ（２台）での給水に切り替えた。　
+　なお、この期間、原子炉出力を約２％低下させた。
+　詳細点検の結果、弁の開度を制御する開度制御カード（２回路）のうち、一つの出力に異常が認められたことから、この不良により開度指令信号と実開度信号に差が生じ、その差が徐々に大きくなり、警報発報に至ったものと推定された。
+　このため、当該カードを新品に取替え、健全性を確認した後、電動主給水ポンプから当該ポンプへの切替えを行い、３月３１日１８時４０分に通常状態に復旧した。
+　なお、この期間中、蒸気発生器への給水は十分確保されており、プラントの運転状態および周辺環境への影響はなかった。
+
+※タービン動主給水ポンプ（全２台）は、蒸気発生器で発生した蒸気の一部を使って駆動用タービンを回転させ、その力でポンプ（羽根車）を動かし、蒸気発生器に水を給水している。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-原電-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[Ａタービン動主給水ポンプ制御系の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/04/17 16:43:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

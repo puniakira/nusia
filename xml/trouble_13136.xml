@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13136</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/09/15 15:41:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>91950</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/06/26 17:15:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202006181134]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/09/15 15:41:52]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[■発生状況
+　2020年6月18日午前11時20分頃、大湊側補助ボイラー建屋1階ブロータンクポンプエリア（＊1）（非管理区域)にある補助ボイラー建屋サンプピット（＊2）の「水位高」警報が発生した。
+　当社社員が現場を確認したところ、サンプピットから非放射性の水が床に約270リットル漏れていることを確認した。
+サンプピットに溜まる水を排水するためのポンプが不調となったことが原因と推定。
+　本事象による外部への放射能の影響はなし。
+　その後、別の仮設ポンプにて排水をしたことにより水漏れは停止。
+　応急処置として水漏れ後に設置した仮設ポンプは継続して使用できるようにしており、排水能力は満足している。その後、既設ポンプ１台を復旧させた。
+＊1：ブロータンクポンプエリア
+　ボイラー運転等に際して発生する余剰水を受けるタンクやその移送用ポンプ、今回水漏れが発生したサンプピット等の設備があるエリア
+＊2：サンプピット
+　補助ボイラー建屋で発生する排水を受ける貯水槽
+
+■原因
+　不調となった仮設ポンプの詳細調査を行ったところ、ポンプのインペラ（＊3）に経年使用による劣化（腐食）が見られた。これにより、ポンプの排水能力が低下したことから、サンプピットへの流入量に対するポンプの排水量が不足し、水漏れに至ったと推定。
+＊3：インペラ
+　回転させることで流体（水）を動かす羽根車
+
+■対策
+　既設ポンプ2台については、今後取替えを実施予定。
+　なお、応急処置として設置している当該仮設ポンプについては、既設ポンプへの取替えを実施するまでの間、経年使用による劣化を念頭に置いた管理を実施。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-東京-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[大湊側補助ボイラー建屋（非管理区域）における水漏れについて]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/06/26 17:15:44]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

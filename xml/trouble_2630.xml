@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2630</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2004/12/07 16:00:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/11/16 17:02:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200410042040]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成１６年１０月４日午後８時４０分、定期点検中の４号機タービン建屋地下１階雑固体廃棄物置場（放射線管理区域内）において漏えいを示す警報が点灯した。
+直ちに運転員が現場を確認したところ、当該エリア床面、同階（放射線管理区域外）のタービン機器冷却海水系渦流ストレーナ（Ａ）（※）付近及びタービン建屋１階（放射線管理区域外）のタービン機器冷却水熱交換器（Ａ）（※）付近に水溜まり（総量：約１８ｍ3　）があり、タービン機器冷却海水系の水抜き弁及び空気抜き弁からつながる海水集水枡より海水が漏えいしていることを確認した。
+海水の漏えいは、当該系統への熱交換器バイパス弁を閉めることにより、止まった。
+
+漏れた水は海水であり、放射能を含んでいることは考えられないが、念のため放射線管理区域内で漏えいした海水の分析を実施した結果、放射能は検出されなかった。また、外部への放射能の影響はない。
+
+海水が漏れた原因は、タービン機器冷却海水系（Ａ）系統の機器の点検のため、水抜き弁及び空気抜き弁が開弁中であったにもかかわらず、熱交換器バイパス弁を開けたため、この系統へ送水されたことにより、水抜き弁及び空気抜き弁から海水集水桝へ海水が排出され、海水集水桝から海水があふれ出たもの。点検中の機器を含んだ系統の切替操作手順の確認方法等について、見直しを実施した。
+
+
+※　タービン系統の機器の冷却は、タービン系統の各種機器を直接冷却する淡水の系統（タービン機器冷却水系統）と、この淡水を冷却するための海水の系統（タービン機器冷却海水系統）がある。各種機器の冷却により暖められたタービン機器冷却水系統は、２台のタービン機器冷却水熱交換器を介して、タービン機器冷却海水系統により冷却される。
+タービン機器冷却海水系渦流ストレーナは、タービン機器冷却水熱交換器に流入する海水中の貝及び塵芥類を除去し、熱交換器伝熱管等の損傷と閉塞を防止するための装置であり、熱交換器の数と同じく２個ある。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-中部-S021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋地下１階及び１階における水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/12/07 16:00:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

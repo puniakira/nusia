@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査
+（１）シースのひびの状況
+　シースのひびは、いずれも制御棒上部（シース全長約3.7ｍのうち上側約1.1ｍまでの部分）で発生していた。シースのひびはコマ溶接部、スポット溶接部（シースとタイロッドとの溶接部）、冷却孔付近で多く確認され、ほとんどが水平方向に進展しており、シース面に段差を生じさせていた。シースのひびの中にはシース面１面分を横断し、曲げ加工部を通過して反対面のシースに横断しているものも確認された。
+　また、シースのひびのほとんどは制御棒上側から１段目と２段目のコマ溶接部の間、３段目と４段目のコマ溶接部の間で確認され、２段目と３段目のコマ溶接部の間（１枚目と２枚目のハフニウム板の間）等、その他の部位に確認されたものは少数であった。
+（２）タイロッドのひびの状況
+　シースのひびが確認された制御棒９本のすべてでタイロッドのひびも確認された。タイロッドのひびはそれぞれの制御棒で１箇所～３箇所確認され、制御棒上部のシースとタイロッドのスポット溶接部近傍に発生していた。これらタイロッドのひびの発生箇所はいずれもシースのひびが発生した箇所であった。
+　なお、これらのひびの中にはタイロッドを貫通しているものが確認された。
+（３）シースに欠損部が確認された制御棒の状況
+　当該制御棒の１面では、幅最大約8cm、軸方向最大約11cmの大きさでシースが欠損していた。シースの破損部については、破損部周辺のシースの一部がめくれあがっていたが、ハフニウム板の表面にクラッドの堆積は確認されなかった。
+　また、シースの欠損部は原子炉内の当該制御棒近傍の燃料支持金具上部より回収した。
+
+　シースの一部が欠損していたことに鑑み、シースの欠損部が原子炉内に残留した場合の健全性評価を実施した結果、今回のように比較的大きいシースの欠損部は炉心支持板上または制御棒案内管内部に滞留することから、制御棒や燃料集合体、他の炉内構造物、各機器に対して影響を及ぼすものではないことを確認した。
+　また、福島第一原子力発電所３号機でシースの欠損部に２箇所の未回収部分があり、未回収部分については合理的に可能な範囲で原子炉内およびその周辺を探索したが発見には至らなかったことから、比較的小さいシースの欠損部が制御棒と燃料集合体の隙間を上昇し、原子炉内を浮遊した場合の健全性評価も実施した結果、浮遊するシースの欠損部は質量が極めて小さいことから、制御棒や燃料集合体、他の炉内構造物、各機器に対して影響を及ぼすものではないことを確認した。
+
+・他プラントにおける同型制御棒の点検結果（平成18年５月15日現在）
+　ハフニウム板型制御棒については、平成元年より当社原子力発電所で使用しており、これまで１３プラントで合計３７８本（原子炉内で使用しているものを含む）の使用実績がある。
+　しかしながら、タイロッドおよびシースのひびが確認された事を踏まえ、他プラントで使用しているハフニウム板型制御棒について、使用済燃料プール内に保管されている全ての使用済制御棒（今回の事象発生前にすでに点検済みの制御棒を除く）および停止中プラントで原子炉内に装荷されている制御棒１３プラントで合計２４９本）の外観点検を実施した結果、５プラントで合計４６本の制御棒で同様にタイロッドおよびシースのひびが確認された。
+　タイロッドおよびシースのひびは熱中性子照射量4.4×10^21n/cm^2以上のものの一部で確認された。
+
+２．原因調査
+　原因調査の結果、以下の知見を得た。
+（１）タイロッドおよびシースのひびは熱中性子照射量4.4×10^21n/cm^2以上の制御棒にのみ確認された。
+（２）タイロッドおよびシースのひびの大半は、タイプＡのハフニウム板を使用している制御棒で発生した。
+（３）タイプＡのハフニウムの照射成長率は、タイプＢに比べて３～４倍程度大きかった。なお、タイプＡのハフニウム板には、照射成長増大の原因となりうるセル構造が確認された。また、ハフニウム板の水素吸収はほとんどなかった。
+（４）照射量が増大すると、シースとハフニウム板の間の摺動抵抗が増加して（３）のハフニウム板の照射成長による引張応力がタイロッドおよびシースに加わる状況となっていることが確認された。
+（５）シースとハフニウム板の間のギャップには、コマ周辺を中心に腐食生成物が蓄積しており、これがシースとハフニウム板の間の摺動抵抗を増大させた可能性がある。腐食生成物中に原子炉水中の不純物であるシリコン（Ｓｉ）が確認されたことから、シースとハフニウム板の間で沸騰により腐食生成物の蓄積が促進されたと考えられる。
+（６）タイロッドおよびシースのひびは、粒界破面を呈していること、照射誘起偏析によるクロム　（Ｃｒ）の欠乏が確認されたこと等から、照射誘起型応力腐食割れ（ＩＡＳＣＣ）により進展したものと考えられる。
+（７）タイロッドおよびシースのひびの破面は粒界破面であったこと、タイロッドのひびの破面上に高温で生成する酸化物が確認されたこと等から、タイロッドおよびシースのひびはプラント運転中に進展したものと考えられる。
+（８）照射後試験施設における調査において、コマ溶接部およびスポット溶接部近傍のひびが確認された。また、コマ溶接部およびスポット溶接部には、ＩＡＳＣＣによってコマ溶接部およびスポット溶接部近傍のひびを発生させるのに十分な溶接残留応力が確認された。
+（９）シースのひびの進展解析の結果では、（４）の応力により（８）の初期亀裂は短期間に進展してシースのひびとなりうる。
+（10）シース破損部には、破断面に延性破面が確認されたことから、制御棒操作時にチャンネルボックス等に接触したことにより外力が加わり、延性的に一部が脱落したものと推定された。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[1]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[あり]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8068</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2013/04/11 10:56:36]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3408</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/01/15 17:44:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200602011345]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[1．短期的対策
+（１）ハフニウム板型制御棒の取替基準を熱中性子照射量4.0×10^21n/cm^2とし、次サイクル運転期間中に熱中性子照射量が4.0×10^21n/cm^2を超えると予想されるハフニウム板型制御棒は定期検査時に交換する。
+（２）現在運転中のプラントにおいて、熱中性子照射量が4.0×10^21n/cm^2を超えたハフニウム板型制御棒は、全挿入位置とする。熱中性子照射量が4.0×10^21n/cm^2以下のハフニウム板型制御棒については、4.0×10^21n/cm^2を超える前に全引抜位置として4.0×10^21n/cm^2を超えないようにするが、炉心状況により4.0×10^21n/cm^2を超える可能性のある場合には、4.0×10^21n/cm^2を超える前に全挿入位置とする。
+（３）ハフニウム板型制御棒の健全性を確認するため、継続装荷するハフニウム板型制御棒について、定期検査時に外観点検を実施する。また、交換するハフニウム板型制御棒についても、念のため外観点検を実施する。
+
+2．中長期的対策タイロッドおよびシースのひびの発生原因が、ハフニウム板の照射成長とシースとハフニウム板の間の摺動抵抗増加が組み合わさったものであることを踏まえ、以下のような設計変更を検討する。
+（１）摺動抵抗の増加の原因である沸騰濃縮の発生を抑制すること
+（２）ハフニウムの照射成長を抑制すること
+（３）ハフニウムが照射成長してもシースに応力が加わらないようにすること加えてハフニウムについては、今回の事象の要因となった照射成長等の知見が少ないことから、ハフニウムの照射成長等のデータについて知見の拡充をはかっていく。
+　
+　また、他のタイプの制御棒についても計画的に外観点検を実施して制御棒に関する知見の拡充をはかっていくこととする。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/04/11 10:56:36]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第１９回定期検査のためプラント停止中の福島第一原子力発電所６号機において、平成17年12月21日に制御棒の動作確認を実施した際、ハフニウム板型制御棒１本の連続挿入時に途中で挿入動作が停止したことから、手順書で定められた範囲内で制御棒駆動水差圧を調整し、再度挿入したところ全挿入されたが動作は緩慢であった。
+　このため、定期検査中の平成18年１月９日に当該制御棒の動作を確認するための準備作業を実施していたところ、当該制御棒のシース表面にひびらしきものが確認された。
+　その後、当該制御棒および原子炉内の同型制御棒について、全数を使用済燃料プールに移動し、水中ＴＶカメラを用いて外観点検を実施したところ、当該制御棒を含む制御棒９本のタイロッドおよびシースにひびが確認され、また、当該制御棒についてはシースの一部が破損し、欠損部があることが確認された。また、ひび等が確認された制御棒の熱中性子照射量は約4.4×10^21n/cm^２以上であった。
+　今回ひび等が確認された制御棒９本は継続使用を予定していたため、発電用原子力設備に関する技術基準を定める省令への適合性を検討した結果、制御棒の構造部材であるタイロッドおよびシースにこれまでの知見を超えるひび（以下、「タイロッドのひび」、「シースのひび」、または「タイロッドおよびシースのひび」という）が確認されたことから、現時点で継続使用ができない状況にあり、平成18年２月１日13時45分、技術基準で物理的性質として要求されている寸法安定性を保持していないと判断した。
+　なお、本事象による外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-T052]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．推定原因
+・タイロッドおよびシースのひびの発生原因
+（１）ＳＵＳ３１６Ｌ材は、高速中性子照射量1×10^21n/cm^2程度でＩＡＳＣＣ感受性を有するようになること、及び、シースとハフニウム板の間のギャップにおいて腐食生成物が堆積してすき間環境となりやすいことから、シース裏面には粒界腐食が生じやすくなる。この結果、コマ溶接部近傍ならびにスポット溶接部近傍については、溶接残留応力により微少なひびが生じる可能性がある。また、すき間部については、ひびの起点となりうる粒界腐食も発生する。
+（２）一方、シースとハフニウム板の間のギャップにおいては、冷却材の沸騰による原子炉水の濃縮ならびにシース、ハフニウム板の腐食等により、腐食生成物が蓄積していく。このため、ある程度照射が進むとハフニウム板の摺動抵抗が増加し、その結果、ハフニウム板の照射成長に伴って、シースには制御棒の軸方向に引張応力が生ずる。
+（３）この結果、（１）において発生していたひびや粒界腐食が発生している箇所を起点として、ＩＡＳＣＣによりシースの水平方向に大きなひび（シースのひび）が進展した。
+（４）ハフニウム板の照射成長に伴いシースのひびが大きく進展すると、シースとタイロッドのスポット溶接部を介してタイロッドに引張応力が働くことになる。このとき、既にタイロッドには、シースとのすき間部にスポット溶接部の溶接残留応力に起因したＩＡＳＣＣによるひび、あるいは粒界腐食が発生していることから、タイロッドに働いた引張応力により、これを起点としてひびが進展し、タイロッドのひびを生じさせたものと考えられる。なお、粒界腐食については、スポット溶接部と関係なく存在することから、タイロッドに働く引張応力により進展するタイロッドのひびは、福島第一原子力発電所６号機の制御棒で確認されたようにスポット溶接部近傍で発生する他、福島第一原子力発電所３号機の制御棒で確認されたようにスポット溶接部近傍以外でも発生しうる。
+
+・シース破損の発生原因
+　シースが破損した部位において、破面上に延性破面が確認されたことから、シースの破損は粒界割れによって自然にはく離したものではなく、制御棒操作時にチャンネルボックス等の周囲の機器と接触したことにより外力が加わり、シースのひびがめくれて延性的に一部が脱落したものと推定された。
+
+２．健全性評価及び技術基準適合性を含む安全性評価
+・技術基準適合性について
+　今定検開始までの運転中においては、耐震性及び未臨界性の評価結果より、福島第一原子力発電所６号機および３号機の「反応度制御系統及び原子炉停止系統」は技術基準に適合しており、「原子炉施設の安全を確保するために必要な機能を有していた」と考えられる。
+　福島第一原子力発電所６号機でタイロッドおよびシースのひびが確認された制御棒９本並びに福島第一原子力発電所３号機でタイロッドおよびシースのひびが確認された制御棒１本については、原子炉内で使用されていた制御棒であったが、制御棒の構造部材であるタイロッドにひびが発生したものであり、これらの制御棒では、この結果シース面に段差を生じさせるようなひびが確認された。このことから、タイロッドおよびシースのひびが確認された制御棒は継続使用不可能な状況にあり、物理的性質として要求されている寸法安定性を保持してはいないと判断される。
+
+・タイロッドおよびシースのひびが確認された制御棒の構造健全性評価
+　制御棒のひびの状況を保守的に模擬するため、制御棒上部の２枚のハフニウム板について、１枚のハフニウム板を固定する２対のコマの間のシースならびにタイロッドが荷重伝達経路として機能しないと仮定し、地震時における構造健全性について評価を実施した。
+　この結果、福島第一原子力発電所６号機および３号機におけるハフニウム板型制御棒は、タイロッドおよびシースのひびが存在した状態であっても、コマを介してハフニウム板に荷重が伝達できることから、地震時においても構造健全性が確保できることを確認した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒のひび等について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[技術基準に適合していないと判断した時刻]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/03/20 19:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_DOYO_JIREI>
+		<KNT_DOYO_JIREI>
+			<DOYO_TROUBLE_ID>8149</DOYO_TROUBLE_ID>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+		</KNT_DOYO_JIREI>
+	</G_KNT_DOYO_JIREI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8068</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[タイロッド]]></S_BUHIN_NAME>
+					<TROUBLE_ID>8068</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[050]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8068</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

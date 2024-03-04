@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12163</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/02/17 09:34:48]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2015/01/16 13:49:13]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201412181930]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/02/17 09:34:48]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２６年１２月１８日（木）１９時３０分に堀株ステーション（以下、「ＥＭＳ－２」という。）の以下の測定データについて、北海道原子力環境センター（以下、「環境センター」という。）への伝送不良（欠測）が発生した。
+　原因調査のため、同日２０時４０分より環境センターへのテレメータ伝送を停止した。
+
+〔伝送不良データ〕
+　・低線量率、高線量率、感雨
+
+　その後の調査により、原因は泊発電所に設置されているテレメータ装置の親局（以下、「親局」という。）のモデム※１またはイーサネットモジュール（以下、「通信モジュール」※２という。）故障と推定し、親局のモデム、通信モジュールを予備品に交換し、平成２６年１２月２２日（月）２１時３０分に環境センターへのテレメータ伝送を再開した。
+　しかし、平成２６年１２月２３日（火）にＥＭＳ－２において、伝送不良の兆候がみられたことから、再度、原因調査のため、同日１９時２０分より環境センターへのテレメータ伝送を停止した。
+　その後、所内回線に雑音が時折観測されたことから、所内回線を予備回線に振り替える等の対策を終了し、平成２７年１月２１日（水）１８時００分より環境センターへのテレメータ伝送を再開した。
+
+※１：モデム
+　デジタル信号をアナログ回路にて伝送するために変調（デジタル→アナログ）、復調（アナログ→デジタル）する装置。（ＥＭＳ－２と親局間のデータはアナログ信号で行われている）
+
+※２：通信モジュール：
+　モデムとデジタル信号でデータ通信を行う装置であり、親局とＥＭＳ－２間のデータ通信を制御する装置に取り付けられている。
+
+（参　考）発電所からのデータ伝送について
+　泊発電所では、モニタリングステーションやモニタリングポストでの環境放射線や沖合モニタや取水・放水口モニタでの海水温度などのデータをリアルタイムで北海道原子力環境センターに伝送している。
+　さらに、これらのデータは、北海道原子力環境センターから地元自治体の役場などへ伝送され公開されているほか、北海道および当社のホームページでも公開している。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2014-北海道-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[堀株ステーション（ＥＭＳ－２）のデータ伝送不良について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/01/16 13:51:04]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

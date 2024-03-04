@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2359</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/07/26 13:31:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>2895</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/04/14 20:36:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200403290230]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/07/26 13:31:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　６号機は運転中のところ、平成16年３月29日午前２時30分頃、制御棒操作監視系の不具合を示す警報が発生し、関連する制御棒８本の操作系が一時的に動作できなくなった。
+　このため運転員は制御盤の確認等を行った後、定められた操作手順に従って、二重化されている制御装置のうち、警報の発生原因となった一方の制御装置を切り離したことにより、約１時間後に警報はクリアし、制御棒の操作系は正常に復帰した。
+　当該警報が発生した際には制御棒の操作はしておらず、また、制御棒の緊急挿入機能は確保されていたことから、プラントの安全上の問題はなかった。
+　なお、不具合のおそれのある制御装置については、同７時過ぎに装置内にある基板の交換を行った。
+
+（１）原因調査
+　平成16年３月29日午前２時30分頃、制御棒操作監視系の不具合を示す警報（ＲＣ＆ＩＳ重故障）が発生した。中央制御室の制御棒操作監視盤（H11-P615-1）のＦＤ（フラットディスプレイ）表示にて、現場伝送盤（H21-P009-12S）のＦＣＭ（Ａ）系異常表示を確認した。そのため、ＦＣＭ（Ａ）系のバイパス操作を実施し、「ＲＣ＆ＩＳ重故障」警報をクリア（制御棒駆動系を正常に復帰）させた。
+　その後、現場伝送盤を調査したところ、ＦＣＭ（Ａ）系の伝送制御基板について、正常時点灯しているべき「ＲＵＮ」ＬＥＤが消灯していることを確認し、当該基板に不具合が発生しているものと判断した。当該基板を予備基板と交換し、ＦＣＭ（Ａ）系バイパスを解除することにより通常状態に復旧した。
+　　（注）ＲＣ＆ＩＳ（Rod Control & Information System ; 制御棒操作監視系）
+　　　　　ＦＣＭ（File Control Module ; ファイルコントロールモジュール）
+（２）不具合基板の調査
+　取り替えた基板について調査した結果、当該基板に使用している素子（タンタルコンデンサ）の不良（抵抗値が通常値に比べて低下していた）が原因と判明した。この素子は伝送制御基板内のマイクロプロセッサのリセット回路に使用しており、今回の不具合は素子の不良によりマイクロプロセッサがリセット状態になり、マイクロプロセッサが正常に動作しなかったものである。
+　なお、当該素子（タンタルコンデンサ）を交換し、基板単体試験を実施し基板が正常に動作することを確認した。
+
+　一般に当該素子の故障モードは短絡故障であり今回の不具合と一致すること、及び製造メーカから製造不良の報告もないことから、偶発故障と判断された。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S102]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒操作監視系の警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/04/15 18:10:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

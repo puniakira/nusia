@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）現場調査
+a.事象発生直後の状況 
+制御棒動作前に制御棒駆動回路健全性確認のため、制御棒運転モード選択スイッチ（以下「モード選択スイッチ」と記載）を操作していたところ、「制御棒駆動回路ロック」警報が発信した。このため制御棒駆動回路を確認したところ、操作対象でない制御棒のリフトコイルに電流が流れていることを示す「グループ選択エラーランプ」がパワーキャビネット１ＢＤリフトコイル制御回路に点灯していた。
+その後警報リセット操作により当該警報はリセットした。また「グループ選択エラーランプ」も消灯した。
+また事象発生当時、制御棒駆動回路付近において他の作業は実施していなかった。
+
+b.再現性確認
+リセット操作により警報がリセットしたことから、再現性確認のためモード選択スイッチを再度操作したところ、警報発信とランプ点灯が再現した。さらにリセット操作によって警報はリセットし、ランプは消灯した。
+
+c.不具合箇所の調査
+上記警報の発信元であるパワーキャビネット１ＢＤリフトコイル制御回路について以下の調査を実施した。
+(a) 整流用サイリスタ制御回路
+整流用サイリスタ制御回路は、ロジックキャビネットからの電流発生命令信号からサイリスタに流す電流を適切に調整することによって、引抜・挿入できるリフトコイル電流をつくる機能を有している。当該回路を点検したところ、異常は見られなかった。
+(b)グループ選択制御回路
+グループ選択制御回路は、ロジックキャビネットからのグループ選択信号から、電流を流すべきグループの制御棒に電流を切り換える機能を有している。当該回路を点検したところ、異常は見られなかった。
+(c)リフトコイル電流
+リフトコイル電流値を測定したところ、制御棒が動作していないときは０Ａであるべきところ、４.９Ａを示していた。
+(d)電源電圧、波形
+パワーキャビネット１ＢＤリフトコイル制御回路に供給される電源電圧（Ａ，Ｂ，Ｃ相）を測定したところ、３相とも異常は見られなかった。
+次に電源波形を測定したところ、Ａ，Ｂ，Ｃ各相とも波形について異常はなかったものの、位相が３相とも同じであった。（正常時は１２０度ずつずれた位相となる）
+
+以上の調査結果から、制御回路には異常が認められないのに、電源波形が３相とも同じ位相であるため、電源回路に何らかの異常が発生している可能性が高いと判断し、サージアブソーバとヒューズについて詳細な調査を行うこととした。
+
+(e) サージアブソーバ調査
+パワーキャビネット１ＢＤリフトコイル制御回路内のサージアブソーバについて外観点検を実施したところ、表面塗装のはがれやサージアブソーバ周辺部に焦げたような変色が見られた。このことから、大電流が一時的に流れた可能性が考えられるため、盤から取り外して点検したところ、３相ともアノード（陽極）－カソード（陰極）間はほぼ短絡状態であり、本来のダイオード特性（アノードに－、カソードに＋を印加しても電流はほとんど流れない特性）を有していなかった。（添付資料－２）
+次にパワーキャビネット１ＢＤリフトコイル制御回路以外（パワーキャビネット１ＡＣ，２ＡＣ）のサージアブソーバについて外観点検を実施したところ、異常は見られなかった。
+(f) ヒューズの健全性調査
+ヒューズについて外観点検・導通チェックを実施したところ、外観に異常は無かったが、Ａ相およびＢ相のヒューズについて断線が見られた。Ｃ相のヒューズについては、断線はなかった。
+
+（２）サージアブソーバの故障原因調査（添付資料－２）
+a.サージアブソーバの詳細調査
+故障したサージアブソーバについて詳細な点検を実施した。
+当該サージアブソーバはＡ,Ｂ,Ｃ各相のダイオードが一体となった構造であるが、Ａ相の損傷が最も激しかったことから、最初にＡ相に短絡が起こり、短絡による熱が他の相にも伝達された結果、Ｂ,Ｃ相についても損傷し短絡状態となったと考えられる。
+なお、Ａ相が短絡した原因については、損傷が激しく詳細に調査することができなかった。
+ｂ. サージアブソーバの寿命評価
+当該型式のサージアブソーバの平均寿命は、素子温度６０℃の状態で３０年以上使用可能であることが知られているが、実際の素子温度は４０℃未満であることから、実力的な寿命は３０年よりもかなり長い（正確な寿命評価は困難だが、寿命計算式を用いた単純計算では１００年を超える）と考えられる。また、当該サージアブソーバは通電開始から３１年経過して故障したが、これまで他社を含めて故障した実績はないことから、当該サージアブソーバは予想される寿命よりもかなり早い段階で故障しており、製造時の不具合等により寿命が通常のものより短かいものであったため故障したと考えられる。
+ｃ. サージアブソーバ短絡故障の原因
+当該サージアブソーバは、他のサージアブソーバよりも寿命が短いものであったことから、これまでの通電により漏れ電流＊５が上昇して温度が高くなり、さらに温度上昇により劣化が加速度的に進み、ついには短絡故障したと考えられる。
+
+ ＊５　通常ダイオードのアノード（陽極）に－、カソード（陰極）に＋を印加しても電流はほとんど流れないが、このときわずかに流れる電流を「漏れ電流」という
+
+（３）保修状況の調査
+ a.　当該サージアブソーバについて過去の点検にかかる履歴および記録を調査したところ、毎定検盤内外観点検および盤通電試験を実施しており、これまで異常はなかった。なお、当該サージアブソーバは運転開始以来取り替えた実績はない。
+ｂ.　ヒューズについても過去の点検にかかる履歴および記録を調査したところ、２定検に１回ヒューズの取替を実施しており、前回は２３回定検（平成１８年２月～４月）で取替を実施していた。
+
+（４）他号機の状況
+２号機・・・１号機と同型式のサージアブソーバを使用しており、これまで約２７年間通電している
+３号機・・・１号機とは異なる型式のサージアブソーバを使用しており、これまで約１４年間通電している
+なお、定検においてサージアブソーバ特性試験により健全性を確認している。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>9695</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/04/16 21:23:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4179</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/04/11 22:42:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200802011341]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）短絡故障したサージアブソーバとヒューズ（Ａ,Ｂ,Ｃ相とも）を代替品に取り替えるとともに、各部のデータ測定等により制御棒駆動回路の健全性を確認した。
+
+（２）１,２号機制御棒駆動回路に使用している全てのサージアブソーバについて温度測定（可能なものは漏れ電流測定）を実施し、有意な温度上昇や漏れ電流増大のないことを確認した。
+
+（３）１,２号機制御棒駆動回路に使用している全てのサージアブソーバについて予備品を常備する。
+
+（４）１,２号機制御棒駆動回路に使用している全てのサージアブソーバについて、至近定検で取替を行うとともに今後は定期的な取替を行う。
+サージアブソーバ取替までの間は、今回と同様の事象の兆候を早期に発見できるよう、プラント運転中における全てのサージアブソーバについて定期的に温度測定を実施する。
+
+（５）１,２号機サージアブソーバ取替後は、サージアブソーバ特性試験を定期的に行うこととする。これらの内容を作業要領書に反映するとともに、関係者に周知する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方発電所第１号機は、通常運転時定期的に行う制御棒動作試験を実施していたところ、平成２０年２月１日１３時４１分、中央制御室に制御棒駆動回路＊１の異常を示す警報が発信した。
+この原因を調査した結果、制御棒駆動回路パワーキャビネット１ＢＤリフトコイル＊２制御回路内にあるサージアブソーバ＊３が故障するとともに、当該制御回路の電源ヒューズが断となっていたため、これらを取替するとともに、機能確認試験により、制御回路が健全となったことを確認した。
+さらに、制御棒動作試験を実施し、制御棒が正常に作動することを確認した。
+本事象による制御棒緊急挿入機能＊４への影響、プラント運転への影響および周辺環境への放射能の影響はなかった。（添付資料－１）
+
+＊１制御棒を動作（引抜・挿入）させるための制御棒駆動コイル電流を制御する回路
+＊２制御棒駆動コイルのうち、可動つかみ部を上下させるためのコイルで、制御棒引抜・挿入時にだけ励磁する
+＊３電源回路に発生する高電圧ノイズによる影響を防止し、他の素子を保護するための部品
+＊４原子炉停止信号により、制御棒駆動回路の電源を遮断することで、制御棒が自重で落下（挿入）する機能
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-四国-M013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[今回の事象は、当該サージアブソーバが他のサージアブソーバよりも寿命が短いものであったために、これまでの通電によって漏れ電流が上昇して温度が高くなった結果、短絡故障した。このためパワーキャビネット１ＢＤリフトコイル制御回路の３相電源回路が相間短絡状態となり、過大な電流が流れた結果、ヒューズが断線したものと推定される。
+さらには、リフトコイル制御回路内の電圧・電流が正常な状態ではなくなった結果、制御棒動作試験時に制御棒駆動回路ロック警報が発信したものと考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒動作試験中の不具合について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>577</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/16 21:22:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>9695</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[217]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>9695</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9695</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>9695</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>9695</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

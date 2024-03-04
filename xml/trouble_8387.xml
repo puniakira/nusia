@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8387</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/08/14 18:15:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3559</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/08/14 16:13:42]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200606120830]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　伊方発電所第１号機は点検停止中のところ、平成１８年６月１２日０５時０１分頃発生した地震による巡視点検の結果、原子炉内の制御棒の位置を中央制御室で示している制御棒位置指示計の停止用制御棒位置の指示値が制御棒が動いていないにもかかわらず揺らいでいるのが確認された。
+　詳細点検において、制御棒位置指示装置（以下、ＲＰＩ）の信号処理回路にある入出力切り換えスイッチ（以下、スイッチ）を操作したところ、指示値が正常に復帰したことから、回路内のカードの不具合により指示値の揺らぎが発生し、その後、スイッチの操作で不具合が解消し指示値が正常に復帰したものと推定された。
+　このため、当該回路内信号処理カードの取替を行い、１６時３０分、ＲＰＩ指示値が正常であることを確認して、通常状態に復旧した。
+　なお、現地や工場における詳細点検において実施したタッピングにより出力信号が変化しなかったことおよびカードの構造上振動により不具合を起こす部品がないことから、今回の不具合は地震との因果関係はないものと推定する。
+ 本事象によるプラント運転への影響および周辺環境への放射能の影響はなく、１号機は点検停止中であるため、運転上の制限外への移行もない。
+
+［停止用制御棒］
+制御棒には、通常運転中の出力、温度などの運転条件の変化に合わせて原子炉の反応度を制御する制御用の制御棒と、原子炉の自動停止等の際に制御用の制御棒と共に挿入する停止用の制御棒がある。
+伊方１号機には、制御用が２１本、停止用が１２本設置されている。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-四国-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[制御棒位置指示装置の不具合]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/08/14 18:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

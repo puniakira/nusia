@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．原子炉トリップ機能喪失時の原子炉の安全性について
+　今回の運転上の制限の逸脱により使用できなかった１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低による原子炉トリップ信号の発信は、１次冷却材流量の低下事象に対して求められる。敦賀発電所２号機では、１次冷却材流量の低下事象に対応するため、１次冷却材ポンプ電源電圧低、１次冷却材ポンプ電源周波数低及び１次冷却材流量低の３つの原子炉トリップ信号が設けられている。これらの原子炉トリップ信号のうち１次冷却材流量低による原子炉トリップについては、今回の１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低による原子炉トリップ信号の発信できない間においても正常に作動し、原子炉を停止できる状態であった。
+そこで、設置許可申請書添付書類十の原子炉冷却材流量の喪失事象のトリップ信号である１次冷却材ポンプ電源電圧低を１次冷却材流量低に変更し評価を実施した。その結果、１次冷却材ポンプ電源電圧低の場合に比べて原子炉トリップは遅れるものの１次冷却材流量低の信号により原子炉は安全に停止し、設置許可申請書添付書類十の判断基準を満足することが確認された。
+以上のことから、運転管理上の問題により、１次冷却材流量の低下事象に対する３つの原子炉トリップ信号のうち２つの原子炉トリップ信号の発信機能が失われていたものの、残り１つは健全であったことから、原子炉安全への影響の程度は高くないものと考える。
+  
+２．保護継電器の設計について
+　１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の保護継電器回路の設計について、発電用軽水型原子炉施設に関する安全設計審査指針及び発電用原子力設備に関する技術基準を定める省令に適合することを確認した。
+　保護継電器回路は非常用の直流電源に接続しており、当該電源系は非常用低圧母線から充電器（整流器）を介して電源供給されるとともに、非常用の蓄電池を備えた構成としていることから極めて信頼性が高いものである。また、当該電源系の故障（地絡、電圧異常）を検出した場合には中央制御室に警報を発報する設計としている。
+　このため、保護継電器回路については、運転管理において各1次冷却材ポンプ母線計測盤用のＮＦＢが「入」状態であることが適切に管理されている限りにおいては電源喪失を考慮する必要のない設計としている。
+しかしながら、運転管理において各ＮＦＢの状態又は、保護継電器の動作表示（以下、「ＲＵＮ」表示という。）の確認が抜けていたことから、当該ＮＦＢが「切」状態であることを発見できなかったため、保護継電器回路が使用できない状態であった。このため、巡視点検において保護継電器の「ＲＵＮ」表示を確認するとともに、次回定期検査において、より適切な回路設計とする必要があると評価した。
+
+３．復旧操作
+　１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢについては、トリップ位置ではなく、「切」位置であり、また、異音・異臭等の異常もないことから、同日１９時５８分より復旧操作を開始し、１２５Ｖ補助建屋直流分電盤の１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢを「入」とした。
+その後、原子炉保護系計装である１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数が満足していることを確認し、同日２１時２７分に運転上の制限内に復帰した。
+
+４．計測及び制御設備に係る制御電源の確認
+　保安規定第９９条「計測及び制御設備」で定める原子炉保護系計装の１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の機能に供給している制御電源が「切」となっていたことから、「計測及び制御設備」で要求されている各機能に供給している全ての制御電源について確認を行った結果、「入」となっていることを確認した。
+　また、１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低以外の原子炉保護系計装の各機能については、制御電源が「切」となった場合には、原子炉トリップ信号を発信するとともに、中央制御室に警報を発報する設計となっていることを確認した。
+
+５．原因調査
+　１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢが「切」となっていた原因及び「切」状態が発見できなかった原因について調査を実施した。
+
+５－１．１次冷却材ポンプ母線計測盤ＮＦＢ「切」原因調査
+（１）１２５Ｖ補助建屋直流分電盤　ＮＦＢ確認・操作履歴・作業状況調査
+　１２５Ｖ補助建屋直流分電盤　ＮＦＢの確認履歴、操作履歴、作業状況の調査を行った結果は以下のとおりであった。
+１）１２５Ｖ補助建屋直流分電盤　ＮＦＢ確認履歴
+ａ．第１６回定期検査時における原子炉起動前チェックにおいて当該ＮＦＢが「入」状態
+であることが確認された（平成２０年６月３０日）。
+ｂ．原子炉起動前チェックを担当した発電室員に聞き取りにて確認した結果、確実に当該ＮＦＢが「入」状態であることを確認後、原子炉起動前チェックリストを記載しているとのことであった。
+ｃ．第１６回定期検査の調整運転中における高圧タービン車室からの蒸気漏れに伴う原子炉手動停止時には、１次冷却材ポンプに係る保守点検作業が行われなかったことから、原子炉起動前チェックは実施していない。
+
+２）１２５Ｖ補助建屋直流分電盤　ＮＦＢ操作履歴
+ａ．当該ＮＦＢが「入」状態であることが確認された（平成２０年６月３０日）以降の操作履歴を調査した結果、定期事業者検査（総合インターロック検査）の準備において、当該ＮＦＢ「切」のアイソレーション（安全処置）が発効（平成２０年７月１１日）され、同日に復旧されていることを作業票にて確認した。（当該作業票で要求した機器（全１５５項目）について通常状態に復帰されていることを平成２１年１２月２日に再確認した）また、それ以降、当該ＮＦＢについてアイソレーション（安全処置）は発効されていないことを確認した。
+ｂ．定期事業者検査（総合インターロック検査）の準備・復旧時に当該検査のアイソレーション（安全処置）に関った発電室員に聞き取りにて確認を実施した結果、検査準備によりアイソレーション（安全処置）を担当した発電室員及び検査開始前に試験条件の確認で当該ＮＦＢを確認した発電室員は特定された。
+ｃ．検査終了後のアイソレーション（安全処置）復旧は発電室員５名で実施された。復旧の分担は、検査時に現場に配置された発電室員によって分担し実施されたが、安全系インバータ室については、検査時に発電室員の配置がなく、復旧作業を担当した発電室員を特定することはできなかった。また、検査当日、検査に係る多数のアイソレーション（安全処置）の復旧を行っており、当該ＮＦＢの復旧を行ったという特別な記憶が残っている発電室員はおらず、確実に復旧したかは確認できなかった。
+
+３）１２５Ｖ補助建屋直流分電盤作業状況調査
+ａ．安全系インバータ室入口扉の鍵借用実績を調査した結果、原子炉起動前チェック（平成２０年６月３０日）以降、鍵の貸し出しは１３３回行われていた。これらについて作業要領書・記録又は作業責任者への聞き取りにて確認した結果、１２５Ｖ補助建屋直流分電盤の扉を開放した作業は１８回行われており、１８回の作業の内訳として３件の作業件名が抽出された。
+　・２次系起動前系統確認
+　・電気計測制御設備日常点検保守工事（電気分）
+　・第１７回大型修繕工事に伴う現場調査
+ｂ．これら３件の作業は、いずれも当社社員や作業監督者、作業責任者を含めた複数で安全系インバータ室に入室しており、作業要領書・記録及び聞き取りにより作業内容を確認した結果、当該ＮＦＢが「切」となる可能性のある作業は行っていないことを確認した。また、作業に伴い誤接触する可能性もないことを確認した。
+
+（２）１２５Ｖ補助建屋直流分電盤の鍵管理状況調査
+１２５Ｖ補助建屋直流分電盤の鍵管理の状況を調査した結果は以下のとおりであった。
+１）当該ＮＦＢは原子炉補助建屋１階安全系インバータ室内（Ａ，Ｂ系２室）の１２５Ｖ補助建屋直流分電盤内に設置されている。安全系インバータ室入口扉は施錠管理を行っているが、１２５Ｖ補助建屋直流分電盤の施錠管理は行っていなかった。
+ 
+５－２．１次冷却材ポンプ母線計測盤ＮＦＢ「切」状態が発見できなかった原因調査
+（１）巡視点検状況調査
+巡視点検時における１２５Ｖ補助建屋直流分電盤の点検状況は以下のとおりであった。
+１）１２５Ｖ補助建屋直流分電盤の巡視点検は、１回／日外観上の異常の有無及び異音・異臭の有無を確認しているが、扉を開け盤内の個々のＮＦＢの状態は確認していなかった。
+２）１次冷却材ポンプ母線計測盤の保護継電器の不足電圧及び不足周波数の動作表示は確認することとなっていたが、待機状態を示す「ＲＵＮ」表示は確認することにはなっていなかった。
+
+（２）ＮＦＢの状態確認調査
+原子炉起動前チェックでは当該ＮＦＢの状態を確認することとなっていたが、機能が要求される運転モード移行時にＮＦＢの状態を確認することになっていなかった。
+
+（３）設備変更に伴う運転手順書への反映状況調査
+設備変更に伴う運転手順書への反映※１状況を調査した結果は以下のとおりであった。
+１）１次冷却材ポンプ母線計測盤の保護継電器は、アナログ型保護継電器の生産中止に伴い、平成１７年にデジタル型保護継電器に更新を実施した。設備変更に伴い運転手順書への反映状況を確認した結果、追設された警報に対し警報処置手順書は改正されたが、保護継電器の待機状態を示す「ＲＵＮ」表示を確認することを巡視点検手順書に反映していなかった。
+２）手順書改正を担当した発電室員に聞き取りにて確認した結果、改正手順書（案）の作成段階で、アナログ型保護継電器からデジタル型保護継電器に変更されただけであり巡視点検手順書の改正が必要ないと考えた。
+３）警報処置手順書の改正内容については発電室長指示にて、また、保護継電器の設備変更の内容については発電長指示にて発電室員へ周知が行われていたが、「ＲＵＮ」表示を確認することは周知されていなかった。
+
+※１：設備変更時の運転手順書改正の流れ
+設備変更が行われた場合、作業担当室から発電室へ工事概要や運転方法等について文書が提出され、発電室において、必要な運転手順書の改正を実施する。その後、運転手順書検討部会や原子炉施設保安運営委員会で改正した手順書の内容について審議が行われ運転手順書が改正される。
+
+６．調査結果のまとめ
+　調査結果から以下の事項が確認された。
+（１）１２５Ｖ補助建屋直流分電盤　ＮＦＢ確認・操作履歴・作業状況調査より、以下のことが確認された。
+１）原子炉起動前チェックにて確実に当該ＮＦＢが「入」状態であることを確認した（平成　２０年６月３０日）
+２）定期事業者検査（総合インターロック検査）の準備・復旧で当該ＮＦＢの操作を実施した（平成２０年７月１１日）以降、検査や作業に伴うアイソレーション（安全処置）を実施していないことを確認した。
+３）定期事業者検査（総合インターロック検査）終了後のアイソレーション（安全処置）復旧において、復旧を行った発電室員を特定することはできなかった。また、検査当日、検査に係る多数のアイソレーション（安全処置）の復旧を行っており、当該ＮＦＢの復旧を行ったという特別な記憶が残っている発電室員はおらず、確実に復旧したかは確認できなかった。
+４）原子炉起動前チェック（平成２０年６月３０日）以降、安全系インバータ室入口扉の鍵を借用し、１２５Ｖ補助建屋直流分電盤の扉を開放した作業が確認されたが、いずれも作業監督者や作業責任者の元、作業が行われており、当該ＮＦＢが「切」となる可能性がある作業は行っていないこと及び作業に伴う誤接触の可能性がないことを確認した。
+ 
+（２）１２５Ｖ補助建屋直流分電盤の鍵管理状況調査より、安全系インバータ室入口扉は施錠管理を行っているが、１２５Ｖ補助建屋直流分電盤の施錠管理は行っていなかった。
+
+（３）巡視点検状況調査より、巡視点検において１次冷却材ポンプ母線計測盤の保護継電器の待機状態を示す「ＲＵＮ」表示は確認することにはなっていなかった。
+
+（４）原子炉起動前チェックでは当該ＮＦＢの状態を確認することとなっていたが、機能が要求される運転モード移行時にＮＦＢの状態を確認することになっていなかった。
+
+（５）設備変更に伴う運転手順書への反映状況調査より、発電室において、警報処置手順書の改正は実施されたが、「ＲＵＮ」表示については、アナログ型保護継電器からデジタル型保護継電器計器に変更されただけであり巡視点検手順書に反映する必要はないと考え、巡視点検手順書の改正は実施しなかった。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10723</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/04/11 11:45:49]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　１２月２日１７時２０分保安規定第９９条「計測及び制御設備」で定める原子炉保護系計装の１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数（それぞれ１母線あたり３チャンネル）を満足していないことから、運転上の制限を逸脱していると判断した。
+　なお、この運転上の制限の逸脱については保安規定第９９条第３項で定める、１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数を満足できない場合の措置について、いずれの条件にも該当しないことから、保安規定第１５２条「運転上の制限を満足しない場合」第５項を適用することとした。
+　１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢについては、トリップ位置ではなく、「切」位置であり、また、異音・異臭等の異常もないことから、同日１９時５８分より復旧操作を開始し、１２５Ｖ補助建屋直流分電盤の１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢを「入」とした。
+　その後、原子炉保護系計装である１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数が満足していることを確認し、同日２１時２７分に運転上の制限内に復帰した。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4627</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/12/08 12:32:26]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200912021640]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．対　策
+（１）次回定期検査における設備改造までの対応
+１）設備改造を行うまでの間、１２５Ｖ補助建屋直流分電盤内の１次冷却材ポンプ母線計測盤の電源について、1回／月の頻度で「入」となっていることの確認を平成２１年１２月１８日から開始した。
+２）当該ＮＦＢが「切」の状態で運転を行っていたことに対する対応
+ａ．１次冷却材ポンプ母線計測盤の保護継電器の表示が中央制御室にて監視できるよう監視カメラを設置し、１回／１時間の頻度で「ＲＵＮ」表示の状態を確認することを平成２１年１２月４日から開始した。
+ｂ．１次冷却材ポンプ母線計測盤の保護継電器の「ＲＵＮ」表示の状態を１回／日の頻度で巡視により確認することを平成２１年１２月２日から開始した。
+
+（２）１次冷却材ポンプ母線計測盤ＮＦＢ「切」となっていたことに対する対策
+１）アイソレーション（安全処置）を復旧する際は、その都度操作禁止札（正）と（控）を照合して復旧することとしているが、その際に操作禁止札（正）に復旧状態、担当者名を記載することで再確認を行うこと、及び操作禁止札（正）への復旧状態の記載を発電長が確認することとし、その旨を社内規程（作業票に伴うアイソレーション基準）に反映する。
+　また、アイソレーション（安全処置）の隔離・復旧を実施した担当者名を安全処置事項リストに記載することとし、その旨を社内規程（作業票運用要領）に反映する。
+ 
+２）保安規定第９９条「計測及び制御設備」で要求される原子炉保護系計装、工学的安全施設作動計装等に係る系統においては、原子炉起動前チェック終了後から原子炉起動までに作業票によるアイソレーション（安全処置）を実施した場合、復旧を確実に行うため、復旧状態を２名にて確認することとし、その旨を社内規程（運転手引書）に反映する。
+３）１次冷却材ポンプ母線計測盤ＮＦＢ等の制御電源投入時は、電源盤等にて表示灯の点灯を確認することとし、その旨を社内規程（運転手引書）に反映する。
+
+（３）１次冷却材ポンプ母線計測盤ＮＦＢ「切」が発見できなかったことに対する対策
+巡視点検手順書の点検項目に１次冷却材ポンプ母線計測盤の保護継電器の「ＲＵＮ」表示の状態確認を追加し、巡視点検において確認を行うことを明確にする。
+
+（４）保護継電器回路の変更
+次回定期検査において、他の原子炉保護系計装チャンネルと設計統一を図り、１次冷却材ポンプ母線計測盤の制御電源が喪失した場合には、１次冷却材ポンプ電源電圧低（ＵＶ）／電源周波数低（ＵＦ）に係る原子炉トリップ信号を発信する回路構成への変更（Fail Safe化）を行う。
+さらに、１次冷却材ポンプ母線計測盤ＮＦＢ「切」が発見できなかったことから、１次冷却材ポンプ母線計測盤の制御電源の喪失を検知する警報の設置を行う。
+
+（５）事象の周知
+今回の事象について、事象の重大性の認識を高め再発防止に努めるため、所員全員へ事象の周知、及び作業票の取り扱いに関する社内規程について再確認を実施した。
+
+２．更なる改善
+　今回の事象を踏まえ、更なる改善として以下を実施する。
+（１）原子炉保護系計装等の制御電源に対する改善
+１２５Ｖ補助建屋直流分電盤を含め、保安規定第９９条「計測及び制御設備」で要求される原子炉保護系計装、工学的安全施設作動計装等の制御電源盤のＮＦＢについて通常状態が明確に確認できるよう識別標示を取付ける（次回定期検査において実施）。
+
+（２）原子炉保護系計装等の制御電源の状態確認に対する改善
+原子炉起動前チェックに加え、運転モードが適用される前に保安規定第９９条「計測及び制御設備」で定める原子炉保護系計装、工学的安全施設作動計装等の制御電源について、ＮＦＢの状態を再確認することとし社内規程（敦賀発電所２号機プラント起動・停止時点検取扱書）に反映した。
+
+（３）設備変更に伴う運転手順書への反映に対する対策
+設備変更等に伴い各運転手順書改正の要否についてチェックシートを作成し確認を行うことを社内規程（運転手順書管理基準）に反映する。
+
+（４）原子炉保護系計装等の制御電源盤に対する施錠管理の改善
+当該ＮＦＢが収納されている１２５Ｖ補助建屋直流分電盤の扉について施錠管理を実施した。また、合わせて保安規定第９９条「計測及び制御設備」で要求される原子炉保護系計装、工学的安全施設作動計装等の制御電源盤について施錠管理を実施した。なお、制御電源盤に対する施錠管理について社内規程（鍵・扉管理手引書）に反映した。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/04/11 11:45:49]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 敦賀発電所２号機は、定格熱出力一定運転中の平成２１年１２月２日１６時４０分頃、第１７回定期検査の準備のため電源盤の現場確認調査を実施していた保修室員が、原子炉補助建屋１階に設置されている１２５Ｖ補助建屋直流分電盤２Ａ２（ＡＤＰ－２Ａ２）内の１次冷却材ポンプ母線計測盤Ｃ用の制御電源スイッチ（以下、「ＮＦＢ」という。）が「切」位置となっていることを確認したことから中央制御室へ連絡を行った。
+ その後、連絡を受けた運転員が、現場状況の確認を行い、１次冷却材ポンプ母線計測盤Ｃ用のＮＦＢが「切」位置となっていること及び１次冷却材ポンプ母線計測盤Ａ、Ｂ、Ｄ用のＮＦＢについても「切」位置となっていることを確認した。
+このため、１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低がそれぞれ　１２チャンネル（ポンプ４台の全てのチャンネル）で動作不能となっており、原子炉トリップ信号が発信しない状態であった。
+同日１７時２０分保安規定第９９条「計測及び制御設備」で定める原子炉保護系計装の１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数（それぞれ１母線あたり３チャンネル）を満足していないことから、運転上の制限を逸脱していると判断した。
+ なお、この運転上の制限の逸脱については保安規定第９９条第３項で定める、１次冷却材ポンプ電源電圧低及び１次冷却材ポンプ電源周波数低の所要チャンネル・系統数を満足できない場合の措置について、いずれの条件にも該当しないことから、保安規定第１５２条「運転上の制限を満足しない場合」第５項を適用することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　原子炉起動前チェック以降、安全系インバータ室の作業において当該ＮＦＢを「切」にした可能性はないこと及び定期事業者検査（総合インターロック検査）において当該ＮＦＢの操作が行われていたことから、検査終了後の当該ＮＦＢの復旧において、正常な状態に復帰されなかった可能性が考えられる。
+それ以降、巡視点検において１次冷却材ポンプ母線計測盤の保護継電器の不足電圧及び不足周波数の動作表示は確認していたが、待機状態を示す「ＲＵＮ」表示を確認することが巡視点検手順書に反映されていなかったことから、巡視において発見されず動作不能の状態が継続したものである。
+　これらのことから、原子炉運転中（モード１）において保安規定第９９条「計測及び制御設備」で定める原子炉保護系計装の「１次冷却材ポンプ電源電圧低」及び「１次冷却材ポンプ電源周波数低」の機能が、それぞれ１母線あたり３チャンネル動作可能であることが運転上の制限として要求されるが、原子炉運転中にもかかわらず、平成２１年１２月２日に当該ＮＦＢを「入」に復旧するまで機能が全て動作不能であったと判断される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[１次冷却材ポンプ電源系における運転上の制限逸脱について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[　保安規定第９９条（計測及び制御設備）において、ポンプ電源電圧低および電源周波数低の低下を監視するための所要チャンネル（ポンプ１台につき３チャンネル）が動作可能であることが要求されている。今回の事象においては、１次冷却材ポンプ母線計測盤Ａ～ＤのＮＦＢが「切」位置になっていたことにより、ポンプ電源電圧低および電源周波数低がそれぞれ１２チャンネル（ポンプ４台全てのチャンネル）で動作不能状態となっていたことから、これにより原子炉自動停止信号が発信しない状態であった。この状態が１２月２日の運転上の制限を満足しないと判断した時刻以前においても継続しており、保安規定に定める要求事項が満足されていなかったことから、保安規定違反と判断された。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1193</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/12/09 09:43:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[263]]></KIKI_CODE>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[盤*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10723</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[電気回路*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10723</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[263]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[分電盤]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[260]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[260]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[盤装置]]></KIKI_NAME>
+					<SORT_NO>17</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉保護系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[214]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10723</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

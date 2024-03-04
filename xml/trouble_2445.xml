@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　Ｃ－主給水ポンプ増速機の歯車にて認められたＰＴ指示について、次のとおり原因調査を実施した。
+１．過負荷
+　前回分解点検後の起動時及び今回起動確認運転時、また、至近の運転中の電流値を確認した結果、過負荷状態ではなかった。
+
+２．歯当り不良　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+(1)歯当り点検　　　　　　　　　　　　　　　　　　　　　　　　　　
+　大・小歯車の歯当りを確認した結果、大歯車のポンプ側・モータ側の歯は一部を除いて歯当り目標値の60％以上を下回っており、モータに近い側で片当りし、歯当りが少なかった。
+(2)ＰＴ指示部の破面観察　　　　　　　　　　　　　　　　　　　　
+　ＰＴ指示部の一部を開放し破面観察を実施した結果、き裂の起点部に欠陥は認められなかった。破面は疲労破壊の特徴である平坦な破面であり、一部の破面にはストライエーション状の模様が認められたことから、繰り返し応力による疲労破壊であると考えられる。
+　また、磁粉探傷検査を実施した結果、ＰＴ指示部以外に指示は認められなかったが、破面観察のためにＰＴ指示部を削除した後、裏面のＰＴ検査を実施した結果、表面ＰＴ指示部のき裂から伝ぱしたと考えられるき裂（ＰＴ指示）が認められた。
+
+３．バックラッシュ不良
+(1)バックラッシュ量測定
+　大歯車と小歯車のバックラッシュ量（歯車の噛み合わせスキマ）を測定した結果、0.25～0.41mmであり、全て計画値（0.2～0.61mm）以内で異常はなかった。
+ｂ．大小歯車軸の水平レベル、歯底スキマ（大・小歯車軸間寸法）測定
+　大・小歯車軸の水平レベルは、大歯車軸のモータ側がポンプ側に比べて0.19mmと若干低かった。小歯車軸はモータ側・ポンプ側は同レベルであった。また、歯底スキマ（大・小歯車軸間寸法）は、モータ側がポンプ側に比べ若干大きかったことから、歯車軸間の位置関係は、モータ側がポンプ側に比べ若干広くなっていた。
+
+４．製造不良
+(1)歯形形状、型取り測定（歯底Ｒ）
+　大歯車の歯先部で最大50ミクロン程度の摩耗は認められたが、歯面としては顕著な摩耗は認められなかった。また、歯底Ｒ寸法は最小で1.57Ｒであり、図面指示値（1.43R）より大きいことから、歯底に応力が集中する形状ではなかった。
+(2)歯面型取り、粗さ測定
+　大歯車の歯面粗さは最大で6.26ミクロンであり、図面指示値（6.3ミクロン）より小さかった。また、き裂発生部と他箇所で有意な差はなく、き裂発生部に面荒れもなかった。　　
+
+５．材料不良
+　ミルシートを確認した結果、化学的成分・機械的強度はともにＪＩＳ規格値を満足しており材料不良はなかった。
+
+６．潤滑不良
+(1)潤滑油分析　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　酸化安定度は100分であり、取替え目安値50分を上回っていることから潤滑油は正常であった。
+(2)油量、給油管の形状・詰まり等
+　給油量は、今回の確認運転時の油圧が130～150kPaの正常値を示していたことから、歯車への適切な給油量が確保されていた。また、点検時に給油管の向き・形状を目視し異常のないことを確認した。更に、エアー通気により油配管に詰まりがないことを確認した。
+(3)増速機内部・ストレーナの異物確認、歯面目視点検
+　増速機内部及び油系統のストレーナに異物は認められなかった。また、歯面に異物接触の傷等も認められなかった。
+
+７．組立不良　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+(1)分解時のボルト緩みチェック
+　簡単にボルトが緩まなかったことから、歯車箱及び軸受箱の取付ボルトの締付けに問題はなかった。
+(2)軸受スキマ測定　　　　　　　　　　　　　　　　　　　　　　　　　
+　大・小歯車の各軸受スキマは、大歯車：最大0.31mm、小歯車：最大0.26mmであり、
+全て許容値内（大歯車：0.435mm以内、小歯車：0.30mm以内）であった。
+　また、主軸の外形寸法・振れは、大歯車：外形寸法199.82mm、振れ最大0.02mm、　小歯車：144.73mm、振れ最大0.01mmであり、許容値内（主軸外形　大歯車：199.82　±0.01mm、小歯車：144.73±0.01mm、振れ　大・小歯車：0.05mm以内）であった。
+(3)歯車箱の合わせ面歪測定　　　　　　　　　　　　　　　　　　　　　
+　最高で0.12mmのスキマが認められた。スキマは小歯車のモータ側が他の箇所に比べて大きい状況であった。従って、ケーシングボルト締付けにより、小歯車のモータ側の据付位置が僅かに変化する可能性があると考えられる。
+(4)軸受のメタル・背面の当りチェック
+　メタル及び背面の当りは90～100％であり、ともに基準値（70％以上）を満足していた。
+
+８．設計不良
+　当該材料ＳＮＣ２（ＳＮＣ６３１）の許容曲げ応力（23.4kg/mm2）・許容面圧（61.9kgf/mm2）に対して発生応力（9.1kg/mm2）・面圧（43.4kgf/mm2）は低く設計不良はなかった。
+
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2445</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/07/06 18:18:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2944</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/06/28 15:14:17]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200405261600]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．応急対策　　　　　　　　　　　　　　　　　　　　　　　　　　
+　Ｃ－主給水ポンプ増速機の大歯車ポンプ側歯車のＰＴ指示箇所を周方向に全周削除するとともに、モータ側歯車もポンプ側歯車と同範囲を削除した。また、小歯車についても大歯車の削除範囲（小歯車に噛み合う範囲）をポンプ・モータ側ともに削除加工して復旧し、試運転を実施した上で、次回定検までの間予備機として自動待機とした。
+
+２．恒久対策
+　Ｃ－主給水ポンプの増速機は、次回定検（第21回定検）において取替を実施する。
+　なお、Ａ・Ｂ－主給水ポンプ増速機については、次回定検において増速機の詳細点検（目視点検、歯面の当り確認）を実施する。
+　また、今後、分解点検を実施した場合は、歯面の当り確認を実施することを作業手順書に反映する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜３号機は、定格熱出力一定運転中、平成１６年４月２８日に３台ある主給水ポンプのうち、予備機として待機中のＣ－主給水ポンプについて、起動確認運転を実施したところ、同ポンプの増速機に僅かな異音が確認されたことから、念のため５月２５日から異音が確認された当該増速機を分解点検したところ、５月２６日に大歯車の２０５枚ある歯のうち、ポンプ側の歯車の一部（５歯の山・谷と側面）に複数の浸透探傷検査（ＰＴ）指示が認められ、同指示箇所の目視点検にて線状の傷を確認した。
+　その他の歯や大歯車と噛み合っている小歯車においては、歯の欠落や摩耗等の異常は認められなかった。
+　なお、稼動中のＡ・Ｂ－主給水ポンプに異常はなく、プラントの安定運転状態に影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　運転に伴う大・小歯車軸位置の僅かな変化により、大・小歯車の歯当り状況が経年的に変化し、歯当りの幅が減少したために当り面積が小さくなっていったことから、歯当り箇所に作用する応力が増加した。この増加した応力が疲労限界を超えて歯当り箇所に繰り返し作用し、き裂の発生・進展に至ったものと推定される。
+　なお、大・小歯車軸の水平レベルの若干の違い、歯車箱合わせ面の僅かな歪（スキマ）や歯車軸受スキマが、大・小歯車軸の据付状態に微小な変化を与え、大・小歯車の当り状況に影響を与えたことも考えられる。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[Ｃ－主給水ポンプ増速機の点検結果について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[浸透探傷検査指示確認]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>849</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/07/06 18:18:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2445</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>2</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[増速機]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2445</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動ポンプ本体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[給水系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[253]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[253]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2445</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

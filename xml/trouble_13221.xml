@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13221</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2021/04/12 08:56:38]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>97339</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2021/01/15 16:49:28]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[202101090320]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/04/12 08:56:38]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　廃止措置中の1号機において、1月9日午前3時20分、中央制御室にタービン建屋内での漏えいの可能性を示す警報が点灯したため、協力会社社員が現場を確認したところ、タービン建屋地下1階の床面に水の漏えいを確認した。その後、詳細に現場を確認したところ、漏えいは用水系(注1)配管と弁の継手部からであることを確認したため、用水ポンプの停止および供給元弁の閉弁等をおこなうとともに、漏えい箇所である配管継手部の補修をおこない、漏えいは停止した。
+また、同日午前3時46分、同号機の原子炉建屋内でも漏えいの可能性を示す警報が点灯したことから、当社社員が現場を確認したところ、1号機原子炉建屋地下2階床面への水の漏えいを確認した。原子炉建屋地下2階床面で確認した水は、タービン建屋地下1階で漏えいした用水が、液体廃棄物処理設備を介し、原子炉建屋地下2階にて溢水したものと推定した。
+
+　各建屋の床面への漏えい量は以下のとおり。
+・タービン建屋地下1階床面の漏えい量：約4 m3
+・原子炉建屋地下2階床面の漏えい量：約11 m3
+
+　その他、液体廃棄物処理タンクへ流入した水の量（約95 m3）から、タービン建屋地下1階用水系配管継手部から漏えいした水の総量は、約110 m3であると推定した。
+床面に漏えいした水の放射能量を評価した結果、タービン建屋地下1階床面で漏えいした水は検出限界値未満であること、原子炉建屋地下2階で漏えいした水は国への報告基準である370万ベクレル（注2）を下回っていることを確認した。
+
+　なお、本事象による外部への放射能の影響はなかった。
+
+　漏えいが発生した原因を調査した結果、当該配管継手部に使用されていたパッキンの経年劣化に加え、配管継手部がパッキンの動きを拘束しにくい構造であったことから、長時間の内圧により徐々にパッキンのずれが進行し、漏えいが発生したものと推定した。
+
+　対策として、パッキンのずれを防止するため、同構造の配管継手部に使用しているパッキンを変形しにくい仕様のパッキンへ取り替えるとともに、経年劣化への対応として、パッキンの定期取替を計画する。
+
+(注1) 用水とは、作業、消火等で使用する水で、放射性物質を含まない水。
+(注2) 国への報告基準である370万ベクレルとは、管理区域内の放射線管理の観点からは非常に低い数値であり、通常の管理区域内の作業状況からはこの放射能量で有意な被ばくが発生するとは考えられないが、管理区域内でも極力被ばくを低減させることが望ましいとの観点から定められた基準。（「実用発電用原子炉の設置、運転等に関する規則第134条及び研究開発段階発電用原子炉の設置、運転等に関する規則第129条の運用について（訓令）」より）
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-中部-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋および原子炉建屋における水の漏えい]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2021/01/15 16:49:53]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

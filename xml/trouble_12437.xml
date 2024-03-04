@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12437</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/06/23 16:11:41]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>62135</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/05/15 06:43:19]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201604281846]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/06/23 16:11:41]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事　象　
+４月２８日１４時１９分頃、緊急時対策所(EL.32m)にある通信連絡設備の無停電電源装置（以下、「ＵＰＳ」という。）の機能確認を行っていたところ、総合事務所に「システム重故障」の信号が発信し、原子力規制庁の緊急時対策支援システム※（以下、「ＥＲＳＳ」という。）へのデータ伝送が一時的に停止した。
+その後、１４時２１分頃、本設電源に切り戻し、データ伝送は復旧した。
+また、その他の通信連絡設備の機能確認は同日１８時４６分に終了した。
+
+※緊急時対策支援システム
+原子力発電所で、事故が起こった場合に、事故状態の確認・判断、今後の事故進展を解析・予測するための国のシステム。これらの情報（プラント情報）は原子力発電所から原子力規制委員会へ送られ共有されている。
+
+○原　因
+ＵＰＳの機能確認において、本設電源からの遮断器を「切」とし、蓄電池への電源切替えを行った際に、電源供給機器の一つであるファックスに特殊な電流が流れたため、ＵＰＳの保護回路が動作したことから、機器の電源が途絶え、ＥＲＳＳの伝送が停止したものと推定した。
+なお、ファックスに特殊な電流が流れることについて、取扱説明書に記載がなかったことからＵＰＳの接続制限に該当するかどうか事前確認ができていなかった。
+
+○対　策
+・ＵＰＳとファックスの間に電流安定器を設置することでファックスにより生じる特殊な電流の影響を阻止し、ＵＰＳからの給電時にも安定して運転できるよう対策した。
+・ＵＰＳの接続制限に該当する機器がある場合は、機器の取扱説明書の確認だけでなく、機器メーカに対して、ＵＰＳの接続制限に該当するかどうか確認する。
+・ＵＰＳの接続制限に該当するかどうか確認できない場合は、動作試験によりＵＰＳに影響のないことを確認する。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-四国-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所における緊急時対策支援システムの伝送停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2,3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/05/15 06:44:13]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

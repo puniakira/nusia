@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2304</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/05/12 14:15:09]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2004/03/10 16:43:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200403050900]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/05/12 14:15:09]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[調整運転中の３号機は、平成16年３月５日午前９時00分頃、残留熱除去系蒸気凝縮配管（Ａ）の圧力が上昇していることを確認された。同配管の分岐部手動仕切弁のシート部からの微小な蒸気の漏えいが考えられることから、増し締め作業を実施したが、その後も圧力の上昇が認められたことから、監視・調査を実施することとした。
+その後、監視を継続していたところ、３月５日に実施した配管内の水分の抜き出し操作以降、配管内の圧力は徐々に安定してきており、３月７日現在、圧力上昇は止まっている。
+このことから現時点においては、当該配管の圧力上昇は、弁シート部からの蒸気漏えいによる可能性は低く、当該弁下流側の配管内に溜まっていた水分の蒸発により、生じたものと推定される。
+ＲＨＲ蒸気凝縮ライン止め弁（Ｅ１２－Ｆ０８４Ａ）の下流側圧力の上昇は、
+　・当該弁下流側の温度上昇に伴う配管内の水分の蒸発による昇圧
+　・当該弁のシートリーク
+の２つの要因が考えられるが、上記の原因調査結果から、次のことが推定される。
+　・当該弁は前サイクルにシートリークしておらず、また設置後に点検や作動操作を実施していないことから、シートの状態は設置時とほとんど変化していないものと考えられる。
+・１回目と２回目のベント操作実施による温度と圧力の変化度合いは、ほぼ同じような傾向であるが、３回目のベントとドレンを実施したあとの変化は明らかに、ベントだけの場合と異なる。
+・仮にシートリークであった場合には、圧力も温度も１．２回目のベント操作と３回目のベントとドレン操作後の傾向は同じくなるものと考えられる。
+
+以上のことから、当該手動弁下流側の圧力が上昇した原因は、当該弁のシートリークではなく、当該弁の下流側の水分量が多かったために、当該弁の温度上昇によりこの水分が蒸発し、当該弁下流側の圧力が上昇したものと推定される。
+このため、ベント操作だけの場合には圧力が再度０．５ＭＰａまで上昇したが、ドレン操作を行った場合には当該弁の下流側の水分量が排出され減少したために蒸発量が少なくなって、０．２５ＭＰａまでの上昇におさまったものと考えられる。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S093]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[残留熱除去系蒸気凝縮配管（Ａ）の圧力上昇について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/03/10 21:29:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

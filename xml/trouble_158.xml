@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地調査
+ａ．電気系統設備点検
+　制御棒駆動装置（以下ＣＲＤＭ）関係の電気設備の点検を実施し、正常であることを確認した。
+ｂ．制御棒動作試験他（温態停止状態～冷態停止状態）
+　新たに４本の制御棒について動作不良が認められ、動作不良が発生した制御棒を含む一部の制御棒のリフト機構の動きが正常なものに比べて遅れていることが確認された。
+ｃ．再ヒートアップでの試験、検査
+　全体的に一次冷却材系統の温度が高くなるとリフト動作時間は長くなる傾向が認められたが、事象発生後ほど顕著ではなかった。
+ｄ．製造記録等の調査
+　ＣＲＤＭ工場製作時の検査記録および現地での組立記録を確認し、問題ないことを確認した。なお、一貫して動作の正常であったＫ－２、Ｐ－６については、工場製作時に還元性雰囲気での高温動作試験を実施していた。
+ｅ．ＣＲＤＭラッチアセンブリの分解調査
+　制御棒動作が正常であったＫ－２、動作不良が発生したＨ－８、Ｐ－１０、Ｍ－１２及びリフト動作時間遅れの大きかったＢ－４、Ｆ－８の計６本のＣＲＤＭハウジングの分解調査を実施した。
+　ラッチアセンブリ組立状態で、リフト機構の摺動抗力測定を実施した結果、動作不良があったＦ－８は２．１～８．９ｋｇｆ、動作が正常であったＫ－２は０．３～５．７ｋｇｆであり、Ｋ－２の方が小さな値であった。
+　ラッチアセンブリ分解状態での調査を実施した結果、動作不良及び動作が緩慢であったものについては、可動ラッチ支持管に茶褐色の付着物が認められが、正常なものは黒褐色であり傾向が異なっていた。
+　動作不良及び動作が緩慢であったものの摺動部には摺動痕が認められたが、正常なものの摺動痕は他の５本に比べ軽微であった。
+　部品の寸法、曲がり等を調査し、問題のないことを確認した。
+ｆ．駆動軸の外観調査
+　動作不良の発生した６本の制御棒駆動軸を点検した結果、５本に駆動軸山部にラッチ爪が接触したと考えられる当り痕が確認された。
+ｇ．保管状況の調査
+　取替用新上部ふたは、平成１０年１１月３０日に発生した余熱除去ポンプ出口ドレン管台からの漏えい事象発生に伴い、１１月２８日から１２月３日まで原子炉容器上部に仮置きされ、さらにその後再燃料取出し、余熱除去ポンプ出口ドレン弁管台修理及び燃料再装荷の間格納容器内仮置き台上に仮置きしていた。また、１２月２８日から平成１１年１月５日までの間原子炉容器上部に仮置きしていた。その後、一次冷却材系統水張り実施までさらに１０日間かかっていた。
+　原子炉容器上部に仮置きしていた期間の一次冷却材系統の温度は２４～２７℃であった。
+２．工場調査
+ａ．要素試験
+　クロムメッキ摺動試験による剥離等の異常は無かったが、マグネタイトを混入させると摩擦係数が増加し、また、上昇方向の方が下降方向に比べて摩擦係数は大きく方向性があることが判明した。
+　また、ダッシュポット効果要素試験を実施した結果、隙間の縮小や可動ラッチ支持管を傾けた場合並びに異物の増加による混濁液の粘性が増加した場合にダッシュポット部の抗力が増加すること、また、固定つかみ磁極を磁化させた場合は、マグネタイトのダッシュポット入口部へ集積する状況が確認され、抗力も増加することが判明した。
+　なお、ＳＵＳ４１０とＣｒメッキ（ＳＵＳ３０４）との隙間試験片をほう酸水中に浸漬し腐食の有無を確認した結果、素材状態で腐食の発生が認められたが、事前に還元性雰囲気にて保護被膜を形成したものについては腐食は認められなかった。
+　実機での上部ふた保管状況を模擬した試験装置で確認したところ、ＣＲＤＭラッチハウジング内のはさみ板等の隙間部にも結露することを確認した。
+ｂ．実機モデル試験
+　ダッシュポット部隙間寸法の狭い固定つかみ磁極を加速条件下で強制的に腐食させたものを使用し試験したところ、動作時間に大幅な遅れが認められ動作不良が発生した。
+　また、実機を模擬した湿潤環境下にラッチアセンブリ全体を放置したものを用いて試験した結果、本事象発生時と同等のリフト動作時間遅れが再現された。
+　試験後に分解点検を実施した結果、実機と同様の摺動痕、腐食、マグネタイトの付着物が認められた。
+ｃ．ホットラボでの調査
+　炉心位置Ｂ－４、Ｆ－８の可動ラッチ支持管ダッシュポット部外面に茶褐色の付着物、固定つかみ磁極ダッシュポット底面に腐食ピットが認められたが、Ｋ－２については黒色を呈し腐食ピットは認められなかった。
+　また、断面のミクロ観察を実施したところ、Ｂ－４、Ｆ－８の固定つかみ磁極ダッシュポット部に約１μｍ、はさみ板に約１０μｍの腐食が認められた。一方Ｋ－２についてはそれぞれ１μｍ以下、約２μｍであり腐食が軽微であった。
+　Ｋ－２の案内管と可動ラッチ支持管との摺動部は、Ｂ－４、Ｆ－８に比べて摺動痕が軽微であり、クロムメッキの最大磨耗深さはＢ－４は約３μｍ、Ｆ－８は約２μｍ、Ｋ－２は約１μｍであった。固定つかみ磁極ダッシュポット部表面の付着物は、Ｋ－２はマグネタイトが全面に付着していたが、Ｂ－４、Ｆ－８はマグネタイトと一部ほう酸鉄が認められた。
+３．他プラント調査
+ａ．高浜１号機実機温度、動作時間調査結果
+　温度分布測定を実施した結果、ＣＲＤＭハウジング中間部の周方向温度差は１０～２５℃で大飯２号機と同程度であり、制御棒動作に問題は無かった。
+ｂ．大飯１号機用原子炉容器新上部ふたラッチアセンブリ分解調査結果
+　製作中の原子炉容器新上部ふたのＣＲＤＭ２本（炉心位置Ｍ－２、Ｊ－１３）を切断しラッチアセンブリの分解調査をした結果、全般的に金属光沢が認められ清浄な状態であり、工場保管方法に問題は無かった。
+ｃ．高浜１号機原子炉容器上部ふた取替時に旧ラッチアセンブリの分解記録等調査結果
+　腐食および付着物等の異常は認められていなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>158</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2003/10/01 11:34:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>4051</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>312</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199901291700]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）ＣＲＤＭラッチアセンブリを全数新品に取り替える。
+　なお、念のため、今回取り替えるＣＲＤＭラッチアセンブリについては、工場にて還元性雰囲気の高温水中に浸漬し、あらかじめ表面に保護被膜を形成させる。
+（２）ＣＲＤＭラッチアセンブリを取り替える際の、原子炉容器組立時の上部ふた保管管理要領の充実を図る。
+]]></SB_TAISAKU_TXT>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　大飯発電所２号機は、第１４回定期検査の調整運転中のところ、出力上昇のため制御棒（制御棒制御バンク（以下ＣＢ）－Ｄ）を引き抜き操作中、平成１１年１月２９日１４時２２分（出力約３８％）「制御棒１本炉底位置」「ＲＰＩ重故障」「ＲＯＤ偏差／ＰＲラジアルチルト大コンピュータＳＥＱ注意」警報が発信し、制御棒位置指示装置（以下ＲＰＩ）の表示がＣＢ－Ｄに属する制御棒１本（炉心位置Ｈ－８）について炉底位置となっていることを確認したため、出力上昇を中断した。
+　制御棒１本の落下を確認すべく炉内出力分布測定を行い、制御棒１本が炉底位置であること及びこの状態で炉心の安全性に問題のないことを確認した。
+　その後、１５時５５分制御棒１本の落下原因調査のためプラントを停止して詳細点検することを決定し、同日１７時００分から出力降下を開始し、同日２０時００分に発電機を解列した。
+　２０時０５分にタービンを手動停止後、原子炉停止のため制御棒を挿入中の２０時２１分原子炉出力約０％にて、「ＲＯＤ偏差／ＰＲラジアルチルト大コンピュータＳＥＱ注意」警報が発信したが、即時リセットして制御棒挿入を再開したところ、再度同警報が発信し、制御棒１本（ＣＢ－Ｃ炉心位置Ｆ－６）がスリップし、他の同一グループの制御棒とは異なり、ステップカウンタ指示（１９７ステップ）とＲＰＩ表示（１８６ステップ）に不揃いが生じていることが確認された。
+　このため、安全側の措置として２０時４２分に原子炉トリップスイッチを操作し、原子炉を停止した。
+　なお、本事象に伴う環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1998-関西-T013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（１）原子炉容器上部ふたは、燃料装荷後の余熱除去ポンプ出口ドレン弁管台からの漏えい事象により、長期間原子炉容器本体上に仮置きされたため、一次冷却材からの飽和蒸気がＣＲＤＭラッチアセンブリ部で結露し、長期にわたり湿潤な環境下にさらされた間に、ラッチアセンブリの狭隘な隙間部のＳＵＳ４１０材表面に腐食生成物（オキシ水酸化鉄）が発生したと考えられる。
+（２）発生したオキシ水酸化鉄の一部がＣＲＤＭラッチアセンブリ内に残留し、プラント起動時の高温、還元性雰囲気の中で、ヘマタイトさらにはマグネタイトへと変態した。
+（３）生成されたマグネタイトがＣＲＤＭラッチアセンブリ案内管と可動ラッチ支持管の摺動部に入り込み、摩擦係数の増加を引き起こして摺動抗力を増加させた。
+　更に、コイル励磁によりダッシュポット入口部へマグネタイトが集積し、ダッシュポット隙間が減少したことによる流体抗力増加が重畳し、リフト動作時間遅れが発生したものと推定される。
+（４）ＣＲＤＭリフト動作時間遅れに伴い、ラッチアセンブリの固定ラッチが駆動軸を不完全な状態で保持した状態となり、可動ラッチがシーケンスに従い開放されたことにより制御棒の落下、スリップが発生したものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒落下に伴う原子炉手動停止について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（出力降下開始）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[217]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[217]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>158</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>158</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

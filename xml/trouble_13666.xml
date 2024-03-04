@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13666</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2023/12/21 10:08:02]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>120761</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2023/07/04 09:45:06]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20230619]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/12/21 10:08:02]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（２０２３年　７月　４日公開）
+　２０２３年　６月２０日，定期検査中の泊発電所１号機　Ｂ－非常用ディーゼル発電機室にて作業予定の保修課員から当該ディーゼル発電機の補機の起動状態が通常と異なる旨の連絡を受けた。このため，運転員が改めて現場を確認したところ，当該ディーゼル発電機の待機中に本来，起動しているべき補機のうち，温水循環ポンプ（注１）および潤滑油プライミングポンプ（注２）が停止していることを確認した。
+
+　当該補機の停止信号は当該ディーゼル発電機の機関の回転速度が一定値を上回ったときに発信するものであるが，現場の制御回路にて実際に停止信号が発信されていることを確認した。
+
+　今回の事象は，前日の　６月１９日に当該ディーゼル発電機の定期試験（起動試験）（注３）において，機関停止後の「エアラン」（注４）操作に伴う機関の回転速度上昇によって，当該補機の停止信号が出力され，その状態が継続していたものである。
+　このため，　６月１９日の試験終了から発見されるまでの間，当該ディーゼル発電機は通常時の待機状態とは異なる状態にあった。
+
+　上記状態においても，当該ディーゼル発電機の起動に支障はないものと考えられるが，仮に当該ディーゼル発電機の動作に期待できなかった場合においても，Ａ－非常用ディーゼル発電機に加え，代替非常用発電機等が動作可能であったことから，保安規定の要求事項を満たしており，必要とされる安全機能および発電所の運営に影響はない。
+
+　その後，当該補機を通常時の運転状態へ復帰させ，　６月２６日に起動確認を実施し，正常に動作することを確認した。
+　なお，環境への放射能の影響はない。
+
+（注１）温水循環ポンプ
+　自動待機中のディーゼル機関を暖機するための温水を機関付ポンプの代替として循環するポンプ
+（注２）潤滑油プライミングポンプ
+　自動待機中のディーゼル機関に潤滑油を機関付ポンプの代替として供給するためのポンプ
+（注３）起動試験
+　ディーゼル発電機を待機状態から起動し，定められた性能が発揮できることを定期的に確認する試験
+（注４）エアラン
+　圧縮空気により強制的にディーゼル機関を回転させ，シリンダ内に残留した未燃焼ガスを系外に排出すことを目的とした操作]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2023-北海道-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所１号機　Ｂ－非常用ディーゼル発電機の補機停止]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2023/07/04 09:50:19]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

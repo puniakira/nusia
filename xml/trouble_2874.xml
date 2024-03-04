@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>2874</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/02/24 13:31:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>21220</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/28 15:23:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200503211851]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/02/24 13:31:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中の福島第一５号機において、平成17年３月21日午後６時51分、原子炉冷却材浄化系ポンプ(*1)（Ａ）の電源装置ならびに原子炉冷却材浄化系に関する警報が発生するとともに、原子炉冷却材浄化系ポンプ２台が停止した。
+　その後の調査において、原子炉冷却材浄化系ポンプ（Ａ）の電動機(*2)および電源ケーブルの絶縁抵抗を測定したところ、絶縁抵抗が低下していることが確認された。
+　なお、原子炉冷却材浄化系ポンプ（Ｂ）については、当該ポンプ（Ａ）の停止にともない、原子炉冷却材浄化系ポンプ（Ｂ）の流量が増加したことにより停止したものと推定し、同日午後８時55分頃、原子炉冷却材浄化系ポンプ（Ｂ）を起動し、原子炉水の浄化を再開した。
+　
+　原因を調査した結果、当該ポンプ（Ａ）は電源装置の過電流継電器(*3)が動作しポンプが停止したことが分かった。
+　過電流継電器が動作した原因は、当該ポンプ電動機の分解点検により軸受部の部品に擦れ痕および摩耗が確認されたことから、電動機軸受部の摩擦抵抗が増したことで電動機に負荷がかかり、運転中の電動機の電流値が高くなったためと推定した。
+　なお、軸受部の擦れ痕および摩耗は、今定期検査の点検時に、電動機を水を抜いた状態で保管していたことにより、内部に発生した錆がポンプの運転中に軸受部に混入したためと推定した。
+　また、電源装置を調査したところ、過電流継電器の動作設定値が低めになっていたことから、ポンプが停止しやすい状況であった。
+　今回の対応として、擦れ痕および摩耗が確認された軸受部の部品を取り替えるとともに、過電流継電器の動作設定値を是正した。
+　今後、電動機内部に錆が発生しないようにポンプ点検時には電動機内部を満水状態で保管するとともに、電動機組み込み時に洗浄作業を行うこととした。
+
+　なお、絶縁抵抗の低下については、調査の結果、当該ポンプの停止の要因（電源ケーブルの異常）ではなく、今定期検査の点検において、ローター（軸）の引き抜きあるいは挿入の際に、固定子巻線(*4)と接触し発生した傷によるものと考えられるため、固定子巻線の巻き替えを行った。今後は電動機の分解点検時にローターを引き抜きおよび挿入する際、固定子巻線の端部をゴムシートにて保護することとした。
+
+
+＊１　原子炉冷却材浄化系ポンプ
+　　原子炉水中の不純物を除去し、水質を維持するための浄化装置循環ポンプ。また、原子炉起動・停止および定期検査中において、余剰水を排出して原子炉の水位を制御するためにも用いている。
+＊２　電動機
+　　当該ポンプはポンプ外部への原子炉水の漏えいを防ぐ目的で、ポンプおよび電動機が一つの容器に収納された構造となっており、運転中に電動機内部は満水状態になっている。
+＊３　過電流継電器
+　　電動機に過電流が流れ損傷することを防ぐため、設定値以上の電流が流れた場合に、電源の供給をしゃ断する装置。
+＊４　固定子巻線
+　　電動機を回転させるために電流を流す巻線。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S131]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉冷却材浄化系ポンプの停止]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/29 14:06:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

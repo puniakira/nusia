@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2779</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/03/01 13:30:27]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3125</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/02/18 09:03:22]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200411181200]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/03/01 13:30:27]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成１６年１１月１８日午後０時、定格出力にて調整運転中の福島第一原子力発電所６号機において、「原子炉建屋機器ドレンサンプピット（※１）水位高」の警報が発生した。当社社員が現場を確認したところ、原子炉建屋地下２階の機器ドレンサンプピットより水が溢れていたことから、ただちにサンプポンプを起動し、水漏れは停止した。
+
+　水漏れの状況について調査した結果、同日、残留熱除去系蒸気凝縮配管撤去工事（※２）にともなう使用前検査のため、原子炉隔離時冷却系ポンプ（※３）を運転しており、その運転終了後に付属装置の復水ポンプが起動、同ポンプの出口弁が自動で開き、冷却水が当該サンプピットに流入したが、サンプピット点検で当該サンプポンプの自動起動運転を停止していたことから、サンプピット周辺および原子炉隔離時冷却系ポンプ付近の排水口から冷却水が溢れたことが分かった。
+　なお、漏れた水は堰内にとどまっており、漏えい量は約３１リットル、放射能量は約５.３×１０＾３ベクレルであった。
+
+　水漏れの原因について調査した結果、サンプピット点検時には流入水を仮設ポンプで排出することとしていたが、仮設ポンプを使用可能な状態にしていなかったことや、使用前検査に際して事前にサンプピットの水位が低いことを確認し、これまでの経験から使用前検査を実施しても問題はないと考えたが、予想よりも流入量が多めであったため、冷却水が溢れたことが分かった。
+　また、サンプピットの点検に際して、点検時期や作業準備工程に関する作業関係者間での事前調整が不足していたことが分かった。
+
+　対策として、原子炉隔離時冷却系ポンプの運転時には、当該サンプが使用可能であることの確認を手順書に記載するとともに、本事象の事例検討会等を通じて、サンプピット点検時期ならびに点検時にはサンプポンプの自動起動運転の停止にあわせて仮設ポンプを使用可能な状態にすること等、作業関係者間の事前調整を十分に行うよう周知徹底することとした。
+
+
+※１　機器ドレンサンプピット
+各建屋内の機器（ポンプ・配管等）からの排水・漏えい水などを処理するために一時貯蔵する槽。
+
+※２　残留熱除去系蒸気凝縮配管撤去工事
+残留熱除去系の機能の一つである蒸気凝縮モードは原子炉隔離時の高温待機運転又は原子炉の減圧を目的として設置されたものであったが、他の手段によっても原子炉の冷却と水位制御は可能であることから、蒸気凝縮モード配管を撤去した。
+
+※３　原子炉隔離時冷却系ポンプ
+原子炉が隔離状態となり復水器が使用できなくなった場合などに、原子炉の蒸気でタービン駆動ポンプを回し、冷却水を原子炉に注水する設備。燃料の崩壊熱を除去し減圧する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-S077]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉建屋内における水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/21 12:10:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

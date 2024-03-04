@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10792</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/02/22 08:39:12]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4649</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/01/22 19:25:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201001211400]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/02/22 08:39:12]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+平成22年１月21日午後２時頃、定期検査中の福島第二原子力発電所３号機原子炉建屋２階の主蒸気配管室（管理区域）において、原子炉に給水する系統の弁の点検準備作業を行っていた協力企業作業員1名が、グレーチング（常設足場）から仮設足場への移動で配管の上に左足をかけた際、左足首を捻って負傷したため、業務車で病院へ搬送した。
+診察の結果、「左足関節外果骨折」（くるぶしの骨折）と診断された。
+
+２．調査結果
+調査の結果、以下のことがわかった。
+・グレーチング（常設足場）から約0.9ｍ下の仮設足場に降りるための手摺りや踏み台等の昇降設備がなく、現場に昇降時の注意喚起表示もなかったこと。
+・当該作業員は、弁の点検準備作業中、グレーチング（常設足場）から約0.4ｍ下にある当該配管に足をかけ、グレーチング（常設足場）と仮設足場の間を何回も昇降していたこと。
+・当該配管の表面が養生シートで覆われており、配管表面の段差の有無や配管および弁に設置されている保温材の境界が確認しにくい状態であったこと。
+・当該作業員は、作業開始当初、グレーチング（常設足場）や点検対象弁に手を添えながら仮設足場に降りていたが、被災時には配管に足をかける際に手を添えていなかったこと。
+・当該作業員が被災した際に左足をかけた配管の箇所は、硬さの異なる保温材の境界（柔らかい弁保温材と硬い配管保温材の境界）であったこと。
+
+３．推定原因
+当該作業員は、被災時、周囲に手を添えずに当該配管に足をかけてグレーチング（常設足場）から仮設足場に降りようとしたこと、さらに、当該配管の表面が養生シートで覆われていたため、配管表面の段差等を確認できなかったことから、 硬さの異なる保温材の境界に足をかけた際、柔らかい弁保温材が沈んでバランスを崩し、左足首を捻って負傷したものと推定した。
+
+４．対策
+今後、当該点検作業や類似の点検作業において、以下の対策を実施する。
+・グレーチング（常設足場）と仮設足場の昇降用に手摺り・踏み台を設置するとともに、昇降時の注意事項を現場に掲示する。
+・作業現場にある段差や突起物を養生シートで覆う場合は、手元・足元の注意喚起として、養生シート上に注意表示を行う。
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S042]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所３号機　協力企業作業員の負傷について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/01/25 19:38:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

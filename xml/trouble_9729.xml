@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9729</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/04/28 15:04:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/04/28 14:05:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200803251500]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．概要
+排ガス予熱器について，仕様を変更して取替工事を行うため，工事計画を届出済みのところ，工事計画届出書の添付書類に記載している寸法公差の一部について，記載を変更する必要があることが判明した。
+
+＜寸法公差の変更＞
+部位 管側 管台外径（排ガス入口）
+変更前
+公称値  267.4 　  　　　　　  　　　
+公差 　 ＋2.0
+         0
+変更後
+公称値　267.4
+公差　　＋1.2
+　　　　－0.6
+
+部位　管側 管台外径（排ガス出口）
+変更前
+公称値  267.4 　  　　　　　  　　　
+公差 　 ＋2.0
+         0
+変更後
+公称値　267.4
+公差　　＋1.2
+　　　　－0.6
+
+２．記載の変更が生じた理由
+　管台の製作においては，鍛造材からの機械加工による製作を選択したため，切削加工代及び管台厚さを確保する管理の容易さを考慮して，外径は＋側公差を設定した。
+　このとき設定した公差を工事計画書の添付書類の「工事計画書記載の公称値の許容範囲」に記載している。
+　一方，当該管台と現地で溶接する配管（調整管）のバタリング部はＪＩＳ公差で製作されており，突合せ溶接による継手面の食違い量をＪＳＭＥ溶接規格に規程された量に抑えることで現地工事における工数を抑えるため，管台外径を配管の公差に合わせることが望ましいと考えた。
+　また，管台については配管よりも剛性を高くするため，製作の狙い目を＋側にシフトさせることが望ましいと考えた。
+　したがって＋側公差と－側公差を各々設定することが適切であると判断しており，その結果，工事計画書の添付書類記載値と製作公差が相違することとなった。（添付表１参照）
+
+　以上のように，取合部との施工性・管台強度の向上まで確認せずに，工事計画書を作成してしまったために適切でない公差を記載してしまった。これは使用前検査受検の準備段階で判明したことから，使用前検査申請の段階においても適切な公差に変更することができなかった。
+　今後は工事計画書に記載する寸法関係の数値（公称値および公差）については、工事計画書作成の段階で施工性まで含めた検討を実施したうえで決定する。
+　また，製造図の当該部寸法公差指示が工事計画書に記載された公差と相違していることが判明している。一方で，当社が確認する構造図（以下，「確認返却図書」という）には公差の記載がなく，当社は使用前検査の受検段階にならないと工事計画書に記載された公差のとおりであるかどうかを確認できない状況にあることから，今後当該受注者に工事計画に関係する工事を発注した場合は，対策として以下を行うこととする。
+１）工事計画書に記載される寸法値（公称値および公差）については，工事計画書申請・届出前に当社に提出される確認返却図書に全て記載させるよう発注仕様書に明記し，確認返却図書に確実に反映されていることを確認する。
+２）受注者が行う製造図のチェック項目に「工事計画書本文および添付書類の記載寸法とあっているか」と明記させる。これらの受注者の改善については，当社は実施状況の報告を受けるとともに，その定着状況について，適切な時期に監査等を通じて確認する。
+
+３．工事計画届出書への影響について
+　管台外径の公差変更による工事計画届出書の添付書類「強度に関する説明書」への影響について検討し，影響がないことを確認した。
+　当該寸法は容器の管台の計算にて使用されるが，公称値による入力であるため影響がない。
+　なお，公差は＋側の方が評価結果が厳しくなるため，＋側公差で評価した結果でも最小厚さは必要厚さに対して充分に余裕がある。（添付表２参照）
+
+４．寸法公差の扱い
+　今回の寸法公差の記載変更については，使用前検査の判定基準に係るものの，工事計画届出書本文記載事項への影響はなく，電気事業法第４７条第２項（工事の計画の変更）に該当せず，本書に示す変更後の寸法公差にて使用前検査を受検する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-S009]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[排ガス予熱器(A)(B)管台外径寸法の許容公差割れ]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/28 14:15:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

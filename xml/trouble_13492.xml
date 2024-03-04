@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（２０２２年　６月１５日公開）
+　原因調査は次の項目について実施した。
+・泊発電所１号機建設時
+・泊発電所３号建設工認（２００６年認可）時
+・定期事業者検査・プログラム管理要則制定時
+・Ｔ．Ｐ．３９ｍ緊急時対策所建設時]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>5</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SL_HANTEIKEKKA_TXT><![CDATA[（２０２２年　６月１０日公開）
+　２０２２年　５月１８日の原子力規制委員会において，令和３年度（第４四半期）原子力規制検査結果が原子力規制庁より報告され，その後，原子力規制委員会より，令和３年度（第４四半期）原子力規制検査結果が事業者に通知された。
+　その結果，以下の内容が「安全重要度評価：緑／深刻度レベル評価：ＳＬⅣ（通知なし）」と判断された。
+
+【指摘事項】
+・泊発電所代替緊急時対策所の換気設備の一部である非常用循環フィルタユニットについては，泊発電所３号機の第８回工事計画認可申請書に記載し，同申請書が認可された２００６年　４月２８日以降は，泊発電所原子炉施設保安規定第１１８条（施設管理計画）の「６．保全計画の策定」に基づき，設備の点検計画を策定し，必要な機能が維持できるように管理を行うことが必要だった。
+　しかしながら，フィルタユニット内に組み込まれているよう素フィルタの定期的な交換および性能検査の計画が策定されず，その結果，当該よう素フィルタの性能検査を実施していなかった。
+・このことは，泊発電所原子炉施設保安規定第１１８条（施設管理計画）の「６．保全計画の策定」を満足していないことからパフォーマンス劣化，検査指摘事項に該当し，「安全重要度評価：緑／深刻度レベル評価：ＳＬⅣ（通知なし）」と判断された。
+]]></SL_HANTEIKEKKA_TXT>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<S_SETSUBI_NAME><![CDATA[代替緊急時対策所]]></S_SETSUBI_NAME>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13492</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[99]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[その他]]></HAKKEN_HOHO_CODE_NAME>
+	<SL_HANTEIKEKKA_CODE><![CDATA[4]]></SL_HANTEIKEKKA_CODE>
+	<SL_HANTEIKEKKA_CODE_NAME><![CDATA[SLⅣ]]></SL_HANTEIKEKKA_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<S_HAKKEN_HOHO><![CDATA[原子力規制検査]]></S_HAKKEN_HOHO>
+	<UPDATE_DATE><![CDATA[2023/03/23 11:28:11]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2022/04/28 18:25:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20220422]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（２０２２年　６月１５日公開）
+　再発防止は次のとおりである。
+＜原因①③の処置＞
+　本来の目的を見失った業務とならないよう，構成管理活動を着実に継続するために，「自らの業務に関連する設備の目的を確認する意識」，「問いかける姿勢」，「問題提起する姿勢」等の不足している意識を改善するために本事象を題材とした教育を継続的に実施する。
+＜原因②の処置＞
+　構成管理活動については，保修要領・保全プログラム管理要則等で明確になっているが，工事を伴わない場合，既設設備に対して要求事項が追加された場合等，誤った解釈により構成管理活動が正しく機能しない可能性があることから，あらゆる設備に適用することが分かるよう，関係箇所と協議の上，関係規定類の記載を明確にする。
+＜原因④の処置＞
+　フィルタ交換および旧品（２０１５年設置）に対する性能検査の結果を踏まえて，よう素フィルタの１回／年の性能試験計画を定め，「建築設備等施設管理細則」の改正を行う。]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[1]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[あり]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2023/03/23 11:28:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（２０２２年　４月２２日公開）
+　２０２２年　４月２２日，原子力規制庁より，令和３年度第４四半期における泊発電所の原子力規制検査（注１）の状況として，原子力規制検査報告書（案）が公表された。
+　同報告書（案）にて示された内容に係る経緯および評価結果は以下のとおりである。
+　なお，同報告書（案）については，今後，事業者からの意見聴取プロセスを経て，後日，開催される原子力規制委員会へ報告され，内容が確定となる。
+
+【経　緯】
+・２０２１年　７月の他社の原子力規制検査結果の報告において，緊急時対策室の緊急用のフィルタユニットに関する指摘があったことから，当社が行う泊発電所の改善措置活動として，フィルタユニットの点検計画の策定状況を確認した。
+・その結果，代替緊急時対策所（注２）の換気設備の一部である非常用循環フィルタユニットの「外観点検」や「差圧確認」の点検計画については定めていたものの，フィルタユニット内に組み込まれているよう素フィルタ（注３）の交換頻度は定めていなかったことを確認した。
+・このフィルタユニットについては，泊発電所３号機の第８回工事計画認可申請書に記載し，同申請書が認可された２００６年　４月２８日以降は，同申請書の添付資料の評価に用いた性能を維持するために定期的な交換および性能検査を実施する必要があった。
+　また，泊発電所原子炉施設保安規定第１１８条（施設管理計画）の「６．保全計画の策定」では，設備の点検計画を策定し，必要な機能が維持できるように管理を行うこととしていたが，当該よう素フィルタの定期的な交換および性能検査の計画を策定していなかった。
+
+【原子力規制検査報告書（案）における評価結果】
+・安全重要度評価　　：　緑（注４）
+・深刻度レベル評価　：　ＳＬⅣ（通知なし）（注５）
+
+　当該よう素フィルタについては，性能を確認済の新品に既に交換を行っている。
+　また，今回の事象に対する原因究明および対策については，引き続き，当社の改善措置活動の中で適切に対処していく。
+
+　注１）原子力規制検査
+　原子力規制庁の検査官が事業者の保安活動全般を対象に,必要とする情報や場所に常時自由にアクセスできる環境下で監視・監督するもの。
+　注２）代替緊急時対策所
+　泊発電所で重大事故等が起こっても円滑に対処できるよう高台に設置した緊急時対策所が使用できない場合に備えた代替の施設。
+　注３）よう素フィルタ
+　放射性よう素を吸着するためのフィルタ。
+　注４）安全重要度評価「緑」
+　「安全重要度」は，原子力施設の安全確保に対する劣化程度の高い方から「赤」，「黄」，「白」，「緑」の順に区分される。安全重要度「緑」は，安全確保の機能または性能への影響があるが，限定的かつ極めて小さなものであり，事業者の改善措置活動により改善が見込める水準であるものに適用される。
+　注５）深刻度レベル評価「ＳＬⅣ」（ＳＬ：Severity Level）
+　「深刻度レベル」は，検査指摘事項等の深刻度に応じて「ＳＬⅠ」，「ＳＬⅡ」，「ＳＬⅢ」，「ＳＬⅣ」の順に区分される。深刻度「ＳＬⅣ」は，原子力安全上または核物質防護上の影響が限定的であるもの，またはそうした状況になり得たものに適用される。「通知なし」は，原子力規制庁による規制対応措置が不要であると判定されたもの。
+
+（２０２２年　６月１０日公開）
+・２０２２年　５月１８日の原子力規制委員会において，令和３年度（第４四半期）原子力規制検査結果が原子力規制庁より報告され，その後，原子力規制委員会より，令和３年度（第４四半期）原子力規制検査結果が事業者に通知された。
+　その結果，「安全重要度評価：緑／深刻度レベル評価：ＳＬⅣ（通知なし）」と判断された。
+・当該よう素フィルタについて，性能を確認済の新品に ２月 ３日交換を行っているとともに，よう素フィルタの交換および性能検査の点検計画を ５月１２日に策定した。
+　今後は，点検計画に基づくよう素フィルタの性能検査を実施していく。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2022-北海道-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[（２０２２年　６月１５日公開）
+　事象の原因は次のとおりである。
+＜①泊発電所１号建設時＞
+　代替緊急時対策所の非常用循環フィルタユニット内のよう素フィルタは工認対象ではなく，数値的な要求がなかったため，１回／月の運転確認（外観，差圧等）で十分と判断し，よう素フィルタの設置目的を踏まえた点検計画を定めるには至らなかった。
+＜②泊発電所３号建設工認（２００６年認可）時＞
+　工認添付資料の補足説明資料によう素フィルタの性能が明記された（被ばく評価においてよう素除去効率９５％にて評価）が，新設設備ではなく，既設設備を共用設備として申請したものであることから，従前より保守管理は適切に行われているものとして，工認担当者（原子力部設計グループ）から保守側（土木建築課）に特段の措置は行わなかった。
+　また，使用前検査対象設備でなかったことから，工認添付資料の補足説明資料に記載された内容を確認する機会がなく，よう素除去率９５％以上を満足していることの確認・定期的な性能検査が必要という認識には至らなかった。
+＜③定期事業者検査・プログラム管理要則制定時＞
+　保全プログラム管理要則制定（２００９年）前に，保全活動における技術基準適合維持と定期事業者検査の関係について整理されたが，代替緊急時対策所は定期事業者検査対象外であり，かつ，代替緊急時対策所は「原子力事業者防災業務計画」に基づいて点検を行うことと整理され，具体的な検査が明記されなかったことから，性能検査が必要という認識には至らなかった。
+＜④Ｔ．Ｐ．３９ｍ緊急時対策所建設時＞
+　新規制基準対応のためのＴ．Ｐ．３９ｍ緊急時対策所設置の過程にて，代替緊急時対策所の非常用循環フィルタユニット内のよう素フィルタを確認したところ，要求性能としてよう素除去率９５％が求められていることを認識したが，要求性能を満足しているか不明確であったことから，２０１５年に交換を実施した。既にＴ．Ｐ．３９ｍの緊急時対策所が設置されており，フィルタのメーカー交換推奨５年以内に代替緊急時対策所の運用が終了すると考え，定期的な性能試験を定めていなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所代替緊急時対策所非常用循環フィルタユニットの点検不備（令和３年度第４四半期原子力規制検査結果）]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[定期検査中]]></S_UNTEN_MODE>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<S_KEITO_NAME><![CDATA[換気空調]]></S_KEITO_NAME>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2022/04/28 18:27:36]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13492</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[319]]></KIKI_CODE>
+			<TROUBLE_ID>13492</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13492</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[031]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[フィルタ・ストレーナ]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>21</SORT_NO>
+						<BUHIN_CODE><![CDATA[031]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[319]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明のフィルタ・ストレーナ]]></KIKI_NAME>
+				<SORT_NO>3</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[310]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[310]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[フィルタ・ストレーナ装置]]></KIKI_NAME>
+					<SORT_NO>20</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13492</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[保守プログラムの不備によるもの（管理不良を含む実作業・工事に関連する不備は施工不良に含める）
+（例、点検計画や点検頻度が不適切、運転経験を点検プログラムに反映せず不具合が発生、機器重要度が誤っており予防保全が適切に実施されない、状態監視の評価が不十分 等）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1200]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守・施工不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[120]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13492</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13492</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

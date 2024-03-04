@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8589</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/01/10 13:47:45]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3643</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/01/05 10:28:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200611201450]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．発生時の状況
+　午後２時５０分頃、タービン建屋地下１階復水器室（放射線管理区域）で協力会社社員が水たまりを発見した。（約２千リットル　約20m×約10m×約1cm）
+　現場の状況を確認したところ、同室内の復水器洗浄装置（停止中）の排水が流れ込む排水升から、海水があふれていることを確認した。
+　排水升上流側の弁が閉弁状態であったにもかかわらず、排水升への流れがあったことから、弁の増し締めを実施した。その結果、排水量が減少し、排水升からの溢水が停止した。
+　なお、本事象による外部への放射能の影響はなかった。
+
+２．推定原因
+　増し締め後も排水があったことから、当該弁にシートリークが発生したこと、および、流れ込んだ排水を処理できていないことから排水升から排水収集槽へつながる排水配管が流れにくくなっていたことが原因と推定された。
+
+３．推定原因に基づく調査結果
+　推定原因に基づき、当該弁の分解点検を実施したところ、内部に多くの塩の結晶が見られた。
+　この塩の結晶が、復水器洗浄装置の水張りで当該弁を閉弁した際に、弁体と弁座に挟まり、その後、徐々に溶けてシートリークが発生したと推定した。
+　当該弁内部に塩の結晶が蓄積されたのは、弁の排水配管が排水升に向かって上り勾配となっていたため、海水が排水されず、当該配管内部に滞留・凝縮したためと推定した。
+　また、排水升からの溢水は、海水に含まれる砂等の異物が、排水升および排水升から排水収集槽につながる配管内部に一時的に堆積したことにより、排水能力が低下し、発生したと推定された。
+
+４．再発防止対策
+・当該弁を新品に取り替えた。
+・弁の排水配管を、海水が滞留しないよう、排水升に向かって下り勾配となるよう変更する。
+・排水升および排水升から排水収集槽につながる配管内部の清掃を実施した。
+・排水を行う場合は、排水升に砂等の異物がないことを確認し、必要に応じて清掃する。
+　なお、長期停止中である１号機及び２号機について、海水を扱い、当該系統と同様に水抜き保管している他の排水配管について調査し、排水升に向かって上り勾配となっている配管がないことを確認した。
+
+
+
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-中部-S017]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[１号機　タービン建屋地下１階における海水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/01/10 13:47:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

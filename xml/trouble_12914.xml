@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12914</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2019/03/11 13:42:43]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>81173</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/01/22 08:42:50]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201901181020]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/03/11 13:42:43]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事象
+１月１８日８時００分、伊方発電所構内の敷地造成工事現場で、クレーン付きトラックが転倒した。
+転倒したクレーン付きトラックについては、当日（１月１８日）にワイヤーで固定し斜面への転落防止措置を行い、安全かつ確実に復旧作業（クレーン付きトラックを起こす作業）が行えるよう作業手順の作成やクレーン付きトラックの復旧実績の豊富な業者の手配などを行い、１月２９日に復旧し、１月３０日に発電所構外（協力会社（下請）社有地）へ搬出した。
+なお、本事象による作業員の負傷等はなく、プラント運転への影響および周辺環境への放射能の影響もなかった。
+
+
+○原因
+クレーン操作者の安全作業に対する意識が欠けていたため、クレーンのブームを最大に伸ばした状態での計画外作業を試み、吊り荷重量を確認することなく、定格荷重を超える重量の段取り鉄筋を吊り上げた状態でブームを回転させたことから、クレーン付きトラックのバランスが崩れ転倒に至った。
+また、クレーン付きトラックでの段取り鉄筋の荷降ろし作業について、作業責任者および他の作業員は、作業指示書に記載がなく、作業前ミーティング時に周知がなかったことから、また、協力会社（元請）職員は、作業指示書に記載がなかったことから、作業内容を把握しておらず、クレーン操作者の計画外作業を止めることができなかった。
+なお、クレーン付きトラックについて、定期自主検査を実施していなかったことについては、法令遵守、設備管理上問題があるが、使用前検査で異常の無いことを確認しており、今回の事象の原因ではないと推定する。
+
+
+○対策
+（１）今回のクレーン付きトラックの転倒原因である「定格荷重を超える荷重をかけてクレーンを使用する行為を禁止する」ことを作業要領書＊1に反映されるよう「伊方発電所作業要領書作成手引き」＊2を改定し改正内容を関係者に周知する。なお、クレーン付きトラックについて、「定期自主検査などの法令に基づく検査を実施し、異常がないことを確認したうえで使用する」ことを作業要領書に反映されるよう「伊方発電所作業要領書作成手引き」を改定し改正内容を関係者に周知する。
+（２）クレーン付きトラックで過負荷防止装置＊3を具備しないクレーンを使用する場合は、転倒防止のため、クレーン操作者および荷受け者（玉掛合図者）は下記を遵守するよう「構内安全統一ルール＊4」に記載する。
+　・吊り荷の仕様表または目測により、吊り荷の重量を確実に把握する。
+　・吊り上げ時に、荷重計により吊り荷の重量を再確認する。
+　・荷重指示計によりブームの傾斜角及び長さに応じた定格荷重を把握し、吊り荷の重量が定格荷重を超えていないことを確認して作業する。
+
+（３）防災課長より、発電所所員および協力会社（元請）に対して計画外作業の禁止を周知・徹底した。なお、協力会社（下請）については、協力会社（元請）より周知・徹底を行った。
+
+（４）協力会社（元請）や作業責任者、作業員が、準備作業を含めたすべての移動式クレーン作業について認識するため、作業指示書に上記作業を記載するよう｢標準発注仕様書*5｣を改定し改正内容を関係者に周知する。
+
+（５）１月２５日に社長が伊方発電所に出向き、所員および協力会社に基本的ルールの遵守などの訓示を行い、また本事象に関係する協力会社においても、２月２日に協力会社（元請）の経営層より作業員に対して、作業安全に関する訓話を行った。
+
+＊１ 作業要領書
+　作業の実施にあたり、基本的な作業の流れおよび具体的な作業手順を記載したもので、協力会社（元請）および協力会社（下請）が作成し、当社が確認、受領して、作業実施前に当社と協力会社（元請）で読み合わせを行う
+
+＊２「伊方発電所作業要領書作成手引き」
+　伊方発電所において実施する工事に関して、受注者が行う作業要領書作成時の反映すべき事項を示すとともに、当社の行う審査（承認）のチェックポイントを明確にして、適切な作業要領書を作成し運用することを目的とするもの
+
+＊３　過負荷防止装置
+　ブームの長さ、ブームの傾斜角および吊り荷の質量を計測し総合負荷を演算して、コンピューターに記憶させてある定格値と比較することで定格荷重に近づくと警報を発してクレーン操作者に注意を喚起するか、または定格荷重を超えると自動的にクレーンの作動を停止させる装置
+
+＊４「構内安全統一ルール」
+　伊方発電所における安全管理を円滑に推進するため、作業安全、交通安全に関する共通のルールを定めたものであり、内容について協力会社（下請）まで教育する
+
+
+＊５「標準発注仕様書」
+　伊方発電所の安全確保に必要な製品および役務の調達（委託も含む）に関する発注仕様書の作成について定めたもので作業指示書の作成についても定めている。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2018-四国-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所におけるクレーン付きトラックの転倒について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/01/22 08:43:01]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

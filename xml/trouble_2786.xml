@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査結果
+（１）仮設スイッチ作業の概要
+核計装系点検作業（平成16年11月15日から12月20日）では，平均出力領域モニタ（ＡＰＲＭ）及び制御棒引抜監視装置（ＲＢＭ）の設定値の確認及び警報の発生確認を実施している。
+ＡＰＲＭ及びＲＢＭの制御棒引抜阻止警報確認を実施するためには，原子炉モードスイッチの「運転位置」を模擬しなければならないため，平成16年12月8日に仮設スイッチを取り付けた。
+その後，当該仮設スイッチは平成17年1月27・28日に行われた核計装の設定値確認検査で使用し，燃料装荷完了後の2月16日の原子炉停止余裕検査まで取り付けられたままであった。
+
+ａ．仮設スイッチの設置理由
+仮設スイッチは，核計装系の点検及び設定値確認検査のため，本設の原子炉モードスイッチの回路から制御棒手動操作系(以下，「ＲＭＣＳ」という。)の配線を切り離して，各モード（運転・運転以外）におけるＲＭＣＳの論理回路（制御棒引抜阻止）の確認等を行うために設置するものである。　　　　　　　　　　　　　　　　　　　　　　　　
+仮設スイッチを使用する理由は以下のとおり。
+本設の原子炉モードスイッチにてモード切替（起動･運転）を実施する場合は，制御棒引抜インターロック以外のインターロック（原子炉保護系等）も「起動・運転」状態となるため，仮設スイッチを使用した場合に比べ，安全保護系の論理作動防止措置などの安全処置が多岐（原子炉保護系，主蒸気隔離弁閉論理，原子炉格納容器隔離系論理等）に及ぶため，ヒューマンエラー（感電，地絡・短絡など）のリスクが高くなることから，設備損傷及び人身事故の防止を目的として使用するものである。　　　
+
+（２）聞き取り調査結果
+事象の経緯について関係者からの聞き取り調査により，以下のことが確認された。
+
+ａ．作業主管グループからの聞き取り調査結果
+（ａ）12月8日に核計装系の警報確認の試験前準備として，「運転位置」模擬用の仮設スイッチ取り付けのため，「作業許可書（以下，ＰＴＷという。）調整用紙」にて当直に申請し，仮設スイッチの取り付けを行った。
+　なお，当該「ＰＴＷ調整用紙」には「ＬＣＯに係るインターロック除外作業」としての記載事項がなかった。また，仮設スイッチ設置の目的・使用条件等の情報について記載していなかった。
+（ｂ）１月28日(金)に核計装の設定値確認検査を終了し，仮設スイッチの位置について１本制御棒引抜インターロック確保の観点から「燃料交換」位置に戻した。この時点で仮設スイッチの必要性はなくなったが，工事担当者は検査終了が20時と遅かったこと，関連設備であるＲＭＣＳの電源をＯＦＦさせて行う作業は時間を要することから，翌週に取外しを行うよう計画し，2月1日に核計装の設定値確認検査のＰＴＷについてはキャンセルしたが，核計装系点検作業のＰＴＷはキャンセルしなかった。
+（ｃ）工事担当者は，2月2日に仮設スイッチを取外していないことに気付いたが，制御棒ベント作業中及びダブルブレードガイド移動に伴う燃料交換機使用中であり，ＲＭＣＳ電源がＯＦＦできないため仮設スイッチの取外し時期を燃料装荷作業後に実施するよう調整した。
+　その時点で，核計装系の点検工程を変更したことを当該グループの工程取り纏め者へ連絡しなかったため，系統別工程表へ工程変更情報が反映されなかった。
+（ｄ）2月15日の燃料装荷後に仮設スイッチを取外す予定であったが，2月16日の停止余裕検査で制御棒の２本目が選択出来ない事象が発生したとの連絡を受けるまで，仮設スイッチが取り付けられたままであることを失念していた。
+
+ｂ．当直員からの聞き取り調査結果
+（ａ）12月8日に作業主管グループより，「ＰＴＷ調整用紙」にて追加安全処置（仮設スイッチ設置）の実施依頼を受け承認したが，「ＬＣＯに係るインターロック除外作業」の情報がなかったので「ＬＣＯに係るインターロック除外許可書」に反映されなかった。
+（ｂ）2月6日の燃料装荷前に「原子力プラント停止時の安全管理要領」に基づき「燃料移動遵守状況確認シート」にて"当該設備に係る作業の安全処置が実施されていないこと"のチェックを実施したが，仮設スイッチの存在について気付かなかった。
+
+２．問題点の抽出
+状況調査の結果から，核計装系点検後も仮設スイッチが取り付けたままであったことの問題点が，以下のとおり抽出された。
+（１）作業主管グループは，仮設スイッチの設置について「ＰＴＷ調整用紙」に「ＬＣＯに係るインターロック除外作業」と記載しなかった。
+（２）作業主管グループは，系統別工程表にて１月末に計画されていた核計装系点検の安全処置の復旧（仮設スイッチの取外し）を実施しなかった。
+（３）作業主管グループは，核計装系点検の作業期間を燃料装荷後に変更することを工程連絡会議に諮らなかった。 
+（４）当直長は，三次マニュアル「原子力プラント停止時の安全管理要領」に基づき，燃料装荷前及び装荷中に「燃料移動遵守状況確認シート」にて"当該設備に係る作業の安全処置が実施されていないこと"のチェックを実施したが，仮設スイッチの存在について気付かなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2786</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/12/22 13:40:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3128</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/02/24 11:22:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20050216]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）業務の管理
+ａ．ＬＣＯ逸脱に係る仮設スイッチの設置を伴うＰＴＷについて洗出しを行い，取付け取外しが「ＬＣＯに係わるインターロック除外処置」に該当することを明確化する。（各発電所の三次マニュアルに反映する。）
+ｂ．定期検査の作業工程の中で，安全管理上重要なホールドポイントを抽出し，これらのホールドポイントにおいては以下の運用を行う。（二次マニュアル「状態管理マニュアル」に反映する。）
+（ａ）安全管理上重要なホールドポイントにおいては，次ステップに移行する前に，必要なＰＴＷキャンセルが実施されていることを当直長が確認し，確認できない場合は次ステップに移行しない運用とする。　
+（ｂ）安全管理上重要なホールドポイントにおいて，作業主管グループ及び当直が確認すべき具体的項目（保安規定の適用状態となりＬＣＯインターロックに抵触する作業がないか）をチェックし，双方のチェックが完了したことを当直長が確認した上で次ステップへの移行を許可する。
+ｃ．前項のホールドポイントを工程管理の中で確実に管理できるよう以下を実施する。なお，本内容は，各発電所の三次マニュアルに反映する。
+（ａ）工程へのホールドポイントの明確化。
+（ｂ）定期検査における安全管理上重要な作業の工程立案及び変更に対する責任の明確化。
+（ｃ）工程上ホールドポイントが変更になった場合も含むホールドポイントにおける工程管理箇所，安全管理箇所，作業主管箇所による安全管理事項の確認。
+
+（２）識別
+原子炉モードスイッチに対する管理の厳格化を目的に以下を実施する。なお，本内容については，三次マニュアルへ反映する。
+ａ．仮設スイッチは鍵管理が可能なものとする。
+ｂ．仮設スイッチの鍵は当直長管理とする。　
+ｃ．中央制御室主盤近傍へ仮設スイッチを設置する。
+ｄ．原子炉モードスイッチへ仮設スイッチが取り付けられている旨をTagで表示する。また，ＬＣＯに係るインターロックが除外されていることを示す表示札（注意喚起シート）を設け管理する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成16年9月29日より第17回定期検査期間中の福島第二原子力発電所１号機において，原子炉停止余裕検査中の制御棒の選択時に2本目の制御棒が選択できない不適合事象が発生したことから原因を調査したところ，核計装系点検のため取り付けていた仮設の原子炉モードスイッチ（以下，「仮設スイッチ」という。）が，点検後も取り付けられたままであったことにより発生したものであった。
+　この調査の過程で，平成17年2月6日から2月15日までに行われた燃料装荷作業において，当直長は保安規定第84条に基づき原子炉モードスイッチが「燃料交換」位置で施錠されていることを毎日1回確認していたが，前述のように仮設スイッチが取り付けられたままであったために，仮設スイッチ側に一部の機能が切り替わっていたにもかかわらず，本設スイッチのみを確認していたことが2月18日に判明したもので，保安規定で要求される確認事項の実施において，不適合があったものと考えている。
+　当該仮設スイッチは，燃料装荷作業において「燃料交換」位置にしてこの状態のまま中央制御室内の原子炉制御盤正面内部に収納されており，さらに，全制御棒が全挿入され，且つ制御棒が引抜きできない措置を施していたことにより，安全上の問題はなかった。
+　なお，当該仮設スイッチは燃料装荷作業後の2月16日に取外しを行った。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M060]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[抽出された問題点について原因を追及した結果，仮設スイッチが核計装系点検後（燃料装荷中）も取り付けたままであったことの要因を，以下の通り分析した。
+
+（１）業務の管理に関する要因
+ａ．三次マニュアル「作業依頼票及び作業票運用要領」においては，「ＬＣＯに係るインターロック除外作業」として直接的なインターロックの除外のみ考慮しており，試験検査の条件に係わる仮設スイッチについては，考慮していなかった。
+ｂ．三次マニュアル「原子力プラント停止時の安全管理要領」には，当直長が燃料装荷前に"当該設備に係る作業の安全処置が実施されていないこと"の確認を行う行為について，明確に関連するＰＴＷを用いてチェックを行うことの記載がなかったため，ホールドポイントとしての確認行為が，機能しなかった。
+ｃ．三次マニュアル「原子力プラント停止時の安全管理要領」には，作業主管グループが燃料装荷前に"当該設備に係る作業の安全処置が実施されていないこと"を確認し,当直へ通知するルールがなかった。
+ｄ．工程変更をかける際のルールが不明確であった。
+
+（２）識別に関する要因
+原子炉モードスイッチに仮設スイッチが取り付けられていることを示す表示（Tag等）が無かった。また，仮設スイッチは中央制御室の制御盤内に設置されており，仮設スイッチの存在が外観上分からない状態であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[燃料装荷作業に係る不適合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[確認]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[１．違反条項
+　保安規定第３条（品質保証計画）７．５．１（業務の管理）
+　保安規定第８４条（燃料の移動）
+２．保安規定違反の認められた事実
+　保安規定第３条７．５．１では、組織は、業務の計画に基づき業務を管理された状態で実施する旨規定しているが、仮設原子炉モードスイッチを用いた点検作業を計画どおりに終了せず、状態を適切に復旧しなかった。
+　また、この結果として、保安規定第８４条で規定する燃料移動時の原子炉モードスイッチの施錠確認が適切に実施されなかった。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/12/22 13:40:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2786</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2786</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2786</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2786</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

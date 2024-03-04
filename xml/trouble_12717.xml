@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12717</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/09/19 09:51:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>70979</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2017/09/06 23:11:38]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201708161414]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　8月16日午後2時14分頃、福島第一原子力発電所構内の既設多核種除去設備Ａ系において、水が滴下しているとの連絡が緊急時対策本部に入った。
+
+発生状況は以下のとおり。
+　発見時刻　　　：午後2時10分頃
+　発生場所　　　：発電所構内　既設多核種除去設備Ａ系
+　滴下箇所　　　：既設多核種除去設備Ａ系　循環ポンプ１Ａ出口ラインドレン弁
+　発見者　　　　：協力企業作業員
+　漏えい範囲　　：約10cm×50cm×深さ1mm
+　滴下継続の有無：あり（１分に１滴程度で滴下が継続している）
+　外部への影響　：なし。漏えいした水は堰内に留まっており外部への流出はない。
+
+　当該部分について、一部保温材を取り外し調査したが、漏えい箇所は確認できず。午後4時30分に循環ポンプを起動し、系統に圧力をかけて再度確認したが、午後5時20分までに漏えい箇所の特定できず。
+　滴下した水については、午後4時20分に拭き取りを完了。当該部分については、養生し、滴下水の拡大防止を実施。
+
+　8月17日、当該弁上流の配管の保温材を外し確認したところ、配管からにじみがあることを確認。にじみ箇所については、止水テープを巻き、養生を実施。引き続き、にじみの原因について調査を実施。
+
+　＜にじみが確認された配管内の水の放射能濃度＞[採取日8月17日]
+　　　全ベータ　　　：2.2×10７ Bq/L
+　　　セシウム-134　：1.9×10４ Bq/L
+　　　セシウム-137　：1.2×10５ Bq/L
+　　　コバルト-60 　：2.0×10４ Bq/L
+　　　アンチモン-125：6.5×10５ Bq/L]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-東京-S021]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　多核種除去設備A系における水の滴下について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/09/19 09:51:46]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

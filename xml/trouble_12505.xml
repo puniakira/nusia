@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12505</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2016/10/12 21:23:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>63980</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/10/12 21:21:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201607271905]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成２８年７月２７日１９時５分頃、女川原子力発電所３号機中央制御室に設置されている火災用緊急連絡装置※１（以下、「当該装置」という。）から、実際に発電所において火災が発生していないにもかかわらず、国および関係自治体等の関係者に対し、火災発生の情報が誤って発信される事象が発生しました。
+　本事象は、当該装置の定期的な時刻調整を実施しようとしたところ、ディスプレイの画面が表示されなかったことからディスプレイの交換作業を行っていましたが、その際に火災発生の情報が誤って発信されたものです。
+
+【事象発生の原因】（別紙参照）
+　調査の結果、ディスプレイを交換する際、火災発生の情報を発信する画面（タッチパネル式）上のボタンには直接触れなかったものの、画面の縁に両手で複数回触れたことが確認されました。
+その結果、タッチパネル機能の特性※２により、火災発生の情報が誤って発信されたものと推定しました。
+
+【再発防止対策】
+　当該装置の点検に際しては、電源を予め切ることや、当該装置の改造（カードキーによる認証機能の追加、画面内のボタン位置の変更等）を実施することとしております。
+　なお、今回誤って発信された火災情報については、火災の発生場所や状況等が不明確であったことから、今後、発信情報の内容を改善することとしております。
+
+※１　火災が発生した際、タッチパネル式のディスプレイの画面を操作することにより、国および関係自治体等の関係者に対し、火災に係る情報を連絡する装置。
+※２　当該ディスプレイに採用しているタッチパネルは、画面の２箇所を同時に触れた場合、２箇所を結んだ直線上にあるボタンが作動することがある。
+
+以上]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-東北-S027]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所における火災発生情報の誤発信事象に係る原因と対策について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/10/12 21:23:56]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10512</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/01/14 11:19:10]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/08/11 21:14:51]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908101030]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/01/14 11:19:10]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（発生状況）
+　平成21年８月10日午前10時30分頃、定期検査中の４号機において、原子炉建屋地下１階の非常用ディーゼル発電機（Ｂ）室（非管理区域）で、点検のため取り外してあった潤滑油配管の端部に施した養生の下の床面に、潤滑油が漏れていることをパトロール中の当社社員が発見した。
+　潤滑油の漏えいは停止しており、床面に漏れた潤滑油は約720ccだった。
+　なお、漏れた潤滑油には放射性物質は含まれておらず、本事象による外部へ放射能の影響はない。
+
+（対応状況）
+　床面に漏れた潤滑油については、拭き取りによる清掃を実施した。
+　床面に潤滑油が漏れた原因は、点検のために取り外した潤滑油配管の端部に施した油受け養生の固定が不十分であったため、溜まった潤滑油の重みで油受け養生が落下し、あらかじめ養生の下部に設置していた受け皿に潤滑油が回収されず、床面に漏れたものと推定した。
+　その後、取り外してあった潤滑油配管を仮復旧するとともに油受けを設置した。
+　今後、油系統（配管・機器）の既設部分を取り外す場合は、原則閉止板を取り付ける、または取り外し当日中の復旧を実施することとした。構造的に閉止板の取り付けが困難な箇所については、ビニール袋による養生を強固に実施するとともに、万が一の袋養生等の落下を想定して油受け（パン）の設置や床シート養生を実施することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-東京-S024]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所４号機　原子炉建屋（非管理区域）における潤滑油漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[4]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/08/13 19:39:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

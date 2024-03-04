@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．減速機、電動機点検
+　平成２０年４月２２日に５号機の別の制御棒駆動機構（座標３８－２７）で、同様の一時的な動作不良事象が発生している。当該制御棒駆動機構について、本定期検査で点検した結果、減速機の内部に水の侵入によるものと思われる錆が確認され、これにより、動作不良が生じたものと推定していた。
+　本件についても同様の事象が懸念されたことから、減速機、電動機を取り外して内部の分解点検を行った。
+　点検の結果、減速機の取り付けフランジ面に僅かな発錆は確認されたものの、その他、内部に発錆等の異常はなく、動作に影響を及ぼす異常は確認されなかった。
+
+２．駆動機構点検結果
+　駆動機構を分解し、駆動機構内を点検したところ、ボールねじのねじ部に傷が認められるとともに、金属片と思われる異物が複数確認された。
+　なお、その他の部位に異常は認められなかった。
+（１）ボールネジ
+　円周状に傷が認められた。傷の様相は、表面が荒れた程度であった。
+　なお、傷の位置は、制御棒全引抜時に、ボールナットが覆っている範囲であり、３個あるボールベアリングの内、真ん中にあるベアリングが接触するあたりに相当する。
+（２）異物の確認
+　駆動機構内に異物が確認された。
+　約１ｍｍ×約０．５ｍｍ（１個）
+　約３ｍｍ×約１．５ｍｍ（１個）
+　約３ｍｍ×約２ｍｍ（２個）
+　約２ｍｍ×約１．５ｍｍ（３個）
+　約１ｍｍ×約１．５ｍｍ（２個）
+（３）異物の成分分析
+　ＥＤＸ（エネルギー分散型蛍光Ｘ線分析装置）にて、確認された異物の成分分析を行ったところ、いずれも鉄、ニッケル、クロムにピークが見られた。
+　一方、コバルトは確認されなかった。
+　これより、回収された異物はステンレス鋼である可能性が高いと推定した。
+　系統内の主要材料は、オーステナイト系ステンレス鋼のＳＵＳ３１６系であるが、モリブデンにピークが見られていないことから、系統内の材料である可能性は少ない。
+
+３．図面等による調査結果
+　ボールネジに傷が認められたこと、ならびに金属性の異物が確認されたことから、異物がボールナット内に浸入したことにより、摺動抵抗が増して、一時的な動作不良が発生したと推定した。このため、図面等により異物の進入経路について調査を行った。
+（１）中空ピストンとボールナットのクリアランス
+　通常状態においては、中空ピストンはボールナット上面に着座していることから、間隙はほぼゼロである。
+　過引抜状態においては、ボールナットと中空ピストンが分離するため、２８ｍｍのクリアランスができる。
+　なお、過引抜以外にボールナットと中空ピストンが分離するのは、フリクション試験時およびスクラム時である。
+（２）ボールネジ内部のクリアランス
+　ボールネジとボールナットの間隙は約１．５mmであった。
+（３）制御棒駆動機構内の水の流れ
+　制御棒駆動機構内は、パージ水（５０μｍの駆動水フィルタを通ったもの）が流れており、ラビリンスシールを通じて、制御棒駆動機構から炉内への水の流れが形成されている。このパージ水により、炉側からの異物浸入防止を図っている。
+　なお、ラビリンスシールの最小クリアランスは０．５mmである。
+
+４．制御棒駆動機構内部で確認された異物の侵入経路についての調査
+（１）制御棒駆動機構下流側（原子炉）からの侵入の可能性
+　制御棒駆動機構内部はラビリンス構造となっているため、炉内からの異物は侵入しにくい構造となっている。
+　また、異物の成分にコバルト-60が含まれなかったため、原子炉側からの侵入した可能性は無い。
+（２）制御棒駆動機構上流側からの侵入の可能性
+　ａ．フィルタ上流
+　制御棒駆動水圧系統には、３種類のフィルタが設置されており、そのフィルタのろ過性能は、２５～７０μｍであり、今回発見された異物はその大きさから、フィルタを通過しないため、フィルタより上流側からの侵入の可能性は無い。
+　ｂ．フィルタ下流
+　フィルタ下流から制御棒駆動機構系統内、今回の事象に係わる系統（制御棒３８－１１）は、運転開始以降の分解開放の実績はなく、点検による異物の侵入の可能性はない。
+　建設時には、当該系統を含み系統フラッシングを行っているものの、他の制御棒の系統内で、点検時に同様な異物が確認されている事から、当該制御棒駆動水圧系統を含み、建設時の系統フラッシングは不十分であったものと考えられる。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10046</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2008/11/19 09:45:50]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4344</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/11/07 14:26:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20081026]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　建設時の制御棒駆動水圧系統内のフラッシングが十分ではなく、運転開始以降、点検実績の無い制御棒駆動機構について、同様な事象が発生することは否定できない。
+　しかし、異物が噛みこむ可能性があるのは、ボールナットと中空ピストンにクリアランスができる場合であり、これはフリクション試験時、スクラム時およびカップリングチェックをしたときである。これ以外はクリアランスが小さいため、異物が噛みこむ可能性は非常に小さいと考える。また、通常運転中にカップリングチェックを実施することはないことなどから、異物が噛みこむ機会は非常に少ないものと考えられる。
+　一方、当該制御棒においては、起動前のカップリングチェックにあわせて、制御棒駆動機構機能検査を行うことから、この検査判定をもって、同駆動機構の健全性を確認することができる。
+　この他の制御棒２０４個については、フリクション試験、スクラム検査を実施した後、カップリングチェックにあわせて実施した制御棒駆動機構機能検査で、制御棒を全挿入位置まで挿入できており、全ストロークにおいて駆動できることを確認している。
+　次回定検時以降も同様な事象が発生することは否定できないが、計画的な点検や定検の都度行う機能検査にて、同様な事象を原子炉起動前に発見し、適切な対応を継続して行くことにより、駆動機構の健全性は確保できる。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　第３回定期検査中の５号機において、平成２０年１０月２６日、２０５体ある制御棒駆動機構の「通常動作」の状態確認検査を実施していたところ、１体の制御棒駆動機構（座標３８－１１）について、全引抜位置から挿入操作を実施した際に、動作しないことを示す警報が点灯した。
+　その後、当該制御棒駆動機構の挿入操作を再度実施したところ動作可能となり、全引抜位置から全挿入位置まで正常に動作することを確認した。
+　全ての制御棒について「緊急挿入（スクラム）動作」機能は確保されており、原子炉を安全に停止する機能は確保されていたものの、原子炉の出力を調整するための重要な機器に一時的な動作不良が発生したことから、当該制御棒駆動機構の点検を実施することとした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中部-M020]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　事象発生時の状況（カップリングチェック後の制御棒挿入操作時に当該事象が発生したこと）、および点検結果から、以下のメカニズムで題記事象が発生したと推定した。
+
+・当該制御棒のカップリングチェックで過引抜操作を実施した際に、ボールナットと中空ピストンにクリアランスができ、異物が流れ込んだ。 
+・過引抜後の挿入操作で、上記の異物がボールネジとボールナットに噛みこみ、これにより摺動抵抗が増して、動かなくなった。 
+
+　なお、異物は建設時の系統フラッシングが不十分であったため、運転開始以前より系統内に存在していたものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒駆動機構の追加点検について（制御棒駆動機構１体の動作不良について）]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/11/19 09:45:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+			<TROUBLE_ID>10046</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[060]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[制御棒駆動機構]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[702]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[702]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[制御棒・制御棒駆動装置]]></KIKI_NAME>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10046</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10046</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10046</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

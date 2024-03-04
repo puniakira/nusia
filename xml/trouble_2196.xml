@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[(1) 機能検査時に始動用空気の流動音が認められなかったことから、始動用空気系統の不調と判断し、ＦＴ図に基づき調査を実施した。
+
+a. コンプレッサ異常
+(a) コンプレッサ電源系故障
+(b) コンプレッサ内部故障
+(c) 自動運転圧力スイッチ不良
+　上記３項はエアラン後の始動用空気だめ圧力低下時に、正常に自動起動したことで異常のないことを確認した。
+b. 始動用空気系統漏えい
+　空気だめの圧力低下がないことから、空気系統からの漏えいがないことを確認した。
+
+c. 始動用空気系統閉塞
+(a) 空気だめ出口弁閉
+　空気だめ出口弁が開放されており、問題ないことを確認した。
+(b) 異物混入による閉塞
+　空気系統をエアブローにより洗浄し、閉塞がないことを確認した。
+
+d. 主始動弁の動作不良
+　手動操作にて正常に動作したことを確認した。
+
+e. 始動用電磁弁作動不良
+(a) 制御回路部の不良
+イ． リレーの動作不良
+　起動用制御回路への模擬入力により、リレーが正常に動作していることを確認した。
+ロ． 配線の断線
+　回路の電圧確認により、異常のないことを確認した。
+ハ． ターニングギアリミットスイッチの動作不良
+　リミットスイッチが正常に動作していることを確認した。
+
+(b) 電磁弁本体の不良
+イ．コイルの断線
+ロ．弁固着等
+　上記２項は起動用制御回路への模擬入力により、電磁弁が正常に動作していることを確認した。
+
+f. ターニング装置異常
+(a) ターニング装置のギア勘合状態、レバー位置確認により、ギアが「脱」位置にあり正常であることを確認した。
+(b) インターロック弁の動作不良
+　分解点検を実施し、異常がないことを確認した。
+
+g. 始動空気管制弁の動作不良
+　始動空気管制弁全６台を取り外し、圧縮空気にて始動空気管制弁ピストンが正常に動作することを確認した。
+　始動空気管制弁６台を分解点検したところ、No.１２シリンダ用始動空気管制弁内（弁箱下部内面）に微小な異物（長さ約７ｍｍ、幅約０．４ｍｍ、厚さ約０．０３ｍｍの光沢のある銅系材料の金属片）を確認した。
+
+h. 機関付始動弁の動作不良
+　動作確認を実施し、正常に動作することを確認した。
+
+(2) 異物混入の可能性調査
+　始動空気管制弁に異物が混入していたことから、当該弁およびその上流側系統内への異物混入の可能性の有無を、点検手入れを実施する区画毎に調査した。
+a. Ｄ／Ｇ室の調査
+　Ｄ／Ｇ室内における点検手入れ工程を調査した結果、全ての工程において適切な異物管理を施した上で作業を行っており、異物混入の可能性はないことが確認された。
+
+b.　ローテーションパーツ点検組立工場の調査
+　ローテーションパーツ点検組立工場の作業環境、部品受け入れから出荷までの各作業工程を調査した結果、極めて稀な異物混入ルートがあることが確認された。
+(a)  実施場所
+　分解点検・洗浄、組立およびその過程における保管を、全て同じ建物の比較的近い作業区画で実施していることから、作業の過程で発生した異物が混入する可能性は否定できない。
+(b)  手入れ・洗浄工程
+　始動空気管制弁と機関付始動弁は、それぞれを手入れ前と手入れ後用の保管棚（高さ約９０ｃｍの２段の棚）の上部に仮置き保管しているが、手入れ前と手入れ後用の保管棚が近接していた。
+分解作業工程は、(1)手入れ前保管棚からバイス台に運搬して分解し(2)手入れ前保管棚に仮保管(3)ベニヤ板上で手入れを行い、洗浄後にエア吹かし作業を実施していた。
+　また、始動空気管制弁用の手入れ後用の保管棚は、機器洗浄後のエア吹かし作業場所から近い場所にあった。
+(c) 組立後の養生
+　始動空気管制弁上部の空気供給口および排出口については養生されているが、下部の空気逃がし口（直径6mm×９個）の養生がされていないため、手入れ後用の保管棚への仮置状態において、近傍で実施した洗浄後のエア吹かし作業時に微細な異物が始動空気管制弁空気逃がし口から弁箱下部に異物が混入する可能性があることが確認された。
+　なお、機関付始動弁については、全ての開口部を養生しており、異物混入の可能性がないことを確認した。
+(d) 作業手順書
+　作業要領書に基づき作業は的確に行われているが、組立作業後にすべての開口部を確実に養生する旨の注意事項が記載されていなかった。
+
+(3) 異物の調査
+　回収された異物の材料分析を実施した結果、銅成分が９７％程度であることがわかった。このため、始動用空気系統機器で、同成分を使用しているものを調査した結果、始動用空気系統内配管フランジ、および配管継手部に使用されている銅パッキンとほぼ同じであることが確認された。
+
+(4) 銅パッキンからの異物発生の可能性調査
+a. 今回の事象発生後、始動空気管制弁を分解点検した際に取り外した銅パッキンを点検した結果、銅パッキンの締め付けに伴い発生する「ばり」が変形部に確認され、その一部に今回確認された異物と類似の形状のものが認められた。
+
+b. 始動空気管制弁はローテーションパーツとして運用しており、前回定期検査時に取り外し、発電所構外にある協力会社のローテーションパーツ点検組立工場において分解・点検・組立したものを今回の定期検査時に取り付けている。
+
+c. 始動空気管制弁の分解作業において、銅パッキンを取り外す際に発生する「ばり」の一部がパッキンから離れ異物となる可能性があることが確認された。
+なお、発電所Ｄ／Ｇ室内においては当該銅パッキンを取り外す作業はない。
+
+d. 始動空気管制弁内に混入した異物が、下流側の機関付始動弁に流入する可能性について調査したが、始動空気管制弁からの空気は機関付始動弁側で密閉された状態であるため、流れがほとんどないこと、また、機関付始動弁は、始動空気管制弁より約１ｍ上方に設置されていることから、異物が機関付始動弁まで流入することは考えられない。
+
+(5) クランクシャフト回転角度と回転トルクの関係
+　クランクシャフト回転角度を確認した結果、始動用空気はＮｏ．８シリンダとＮｏ．１２シリンダへ供給されるタイミング（シャフト回転角度）であった。
+　始動用空気による回転トルクは、クランクシャフト回転角度が９０°方向で最大となるが、Ｎｏ．８シリンダでは回転角度が８°方向であり、最大トルク発生前の比較的小さなトルクであった。一方、Ｎｏ．１２シリンダは回転角度が１２８°方向であり、最大トルク発生後の比較的大きなトルクであった。
+
+(6) A－Ｄ／Ｇエアラン
+　Ｎｏ．１２シリンダ用始動空気管制弁内の微小な異物を取り除き、かつ他は異常が認められなかったことから、始動用空気系統は正常な状態に復帰したものと判断し、再度エアランを実施したところ機関は正常に回転した。
+
+(7) Ａ－Ｄ／Ｇ負荷試験
+　負荷試験により機関が正常に起動したことを確認した。
+
+(8) 非常用予備発電装置機能検査の再検査
+　Ａ・Ｂ－Ｄ／Ｇは正常に起動し、再検査を終了した。
+
+(9) 再検査後のＡ－Ｄ／Ｇ機関付始動弁健全性確認
+　回収された異物はローテーションパーツ点検組立工場で発生した銅パッキンの一部が始動空気管制弁に混入したものと考えられるため、念のため始動空気管制弁下流にある機関付始動弁案内筒内の管制ピストン頂部を極細（４ｍｍ）のファイバースコープにより可能な範囲で目視点検を実施した結果、異物は確認されず、健全であることを確認した。
+
+(10)Ａ－Ｄ／Ｇ負荷試験
+　機関付始動弁点検により健全性を確認後、負荷試験により正常に起動できたことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2196</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[206]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード５]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/06/01 18:07:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2814</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/01/14 11:40:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200310161050]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[(1) Ａ－Ｄ／Ｇ始動空気管制弁６台をすべて分解して他に異物がないことを確認し、さらに機関付始動弁の管制ピストン上面についてファイバースコープによる内部目視点検により異物がないことを確認した後、Ａ－Ｄ／Ｇの正常な起動を確認した。
+
+(2) ローテーションパーツ点検組立工場における始動空気管制弁の作業計画書に異物管理に関する注意事項を記載するとともに、徹底した。
+a. 組立作業は、分解・手入れ作業建屋と別建屋の清浄なエリアで実施する。
+b. 組立作業後は開口部に確実な異物混入防止のための養生を実施する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/06/01 18:07:25]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所２号機（定格電気出力８２万６千ｋＷ）は、平成１５年８月１日から第２１回定期検査中の平成１５年１０月１６日、非常用予備発電装置機能検査において検査のために安全注入信号（以下「ＳＩ信号」という）を入力したところ、Ａ、Ｂ非常用ディーゼル発電機（以下「Ｄ／Ｇ」という）が自動起動すべきところ、Ａ－Ｄ／Ｇが自動起動しなかった。Ｂ－Ｄ／Ｇは正常に自動起動した。
+　本事象に伴う環境への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-関西-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[(1) Ａ－Ｄ／Ｇが起動しなかった原因
+　Ｎｏ．１２シリンダ用始動空気管制弁内の微小な異物を取り除いた後、Ａ－Ｄ／Ｇが正常に起動できたことから、Ｎｏ．８シリンダの機関起動に必要な回転トルクが小さい状態においてＮｏ．１２シリンダ用始動空気管制弁内に混入していた異物により当該弁が動作せず、Ｎｏ．１２シリンダへの始動空気が供給されなかったため、機関起動に必要な回転トルクが得られず、Ａ－Ｄ／Ｇが起動しなかったと推定される。
+
+(2) 異物が混入した原因
+　異物は銅パッキンの「ばり」と類似した形状・成分であることから、銅パッキンの「ばり」であると考えられる。
+　ローテーションパーツ点検組立工場内の分解作業時に発生した「ばり」が、手入れ前用保管棚へ仮保管する際に落下し、機器洗浄後のエア吹かし作業時に、近接する始動空気管制弁手入れ後用の保管棚に飛散し、そこに仮置きしていた組立済み始動空気管制弁の異物混入防止養生がされていない空気逃がし口(直径6mm×９個)より混入した極めて稀な事象であったと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[非常用予備発電装置検査中の不具合について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/01/15 13:27:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[弁*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2196</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[509]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他または不明の弁]]></KIKI_NAME>
+				<SORT_NO>17</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[非常用ディーゼル発電機系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[260]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[260]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[保守不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>4</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0210]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2196</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

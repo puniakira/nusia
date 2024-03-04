@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．冷却材脱塩塔の切替操作実績調査
+冷却材脱塩塔の切替操作時に原子炉熱出力が上昇していることを踏まえ、冷却材脱塩塔切替操作の実績調査を行った結果、切替操作にあたっては、機器操作指令票に基づき実施しており、切替操作に問題はなかった。また、冷却材脱塩塔の切替操作時には、新たに通水するＡ－冷却材脱塩塔の新樹脂が１次冷却材中のほう素を吸着してプラント出力に影響を与えることを防止するため、Ａ－冷却材脱塩塔出口ラインを冷却材貯蔵タンク側に切替え、冷却材脱塩塔の洗浄を実施するとともに、冷却材貯蔵タンクへ排水される１次冷却材を補給する操作を合わせて実施していた。
+
+（１）Ａ－冷却材脱塩塔の洗浄について
+３号機定期検査期間中の１１月４日、１次冷却材の硫酸イオン濃度が標準値を超過していることを確認したことから、当日にＡ－冷却材脱塩塔からＢ－冷却材脱塩塔への切替えを行った。なお、Ａ－冷却材脱塩塔の樹脂取替えについては、当時、３号機、４号機ともに定期検査期間中であったため、同作業を所管する発電室において十分な体制を確保したうえで実施できるよう、３号機及び４号機が起動した後の１２月１７日、１８日に実施する計画とした。その後、１次冷却材の硫酸イオン濃度等の標準値に問題はないが、Ｂ－冷却材脱塩塔出口水のコバルト６０濃度に上昇傾向が認められたため、１２月１２日に同脱塩塔の性能が低下傾向にあると判断し、Ａ－冷却材脱塩塔に切替えることとし、Ａ－冷却材脱塩塔における新樹脂への取替えが１２月１７、１８日に計画されていたこと、年末年始の休日には冷却材脱塩塔の切替えに伴う１次冷却材中のリチウム濃度調整作業が必要となることなどを考慮して、年明け後すみやかに実施することとした。なお、その間、Ｂ－冷却材脱塩塔出口水のコバルト６０の濃度は若干上昇するものの、被ばく線量等環境への影響が生じるものでなく、また系統の健全性にも問題はない。１月５日に実施したＢ－冷却材脱塩塔からＡ－冷却材脱塩塔への切替えにあたり、放射線管理課から発電室に対し、水処理依頼票にて冷却材脱塩塔の切替えを実施すること及び切替え時にはＡ－冷却材脱塩塔の洗浄を３０分以上実施することを依頼していたが、洗浄後にサンプリングを行い、ほう素の吸着がなくなったことを確認することまでは実施していなかった。Ａ－冷却材脱塩塔の洗浄時間は、放射線管理課において１次冷却材系統（以下、「ＲＣＳ」という。）からの抽出流量が通常運転時は約３０ｍ３／ｈであることを前提に、３０分以上実施することで確実にほう素の吸着がなくなることを評価した上で発電室に操作を依頼していたが、発電室における機器操作指令票においては冷却材脱塩塔の洗浄中のＲＣＳへの補給流量が勘案され、抽出水流量を約１７ｍ３／ｈにしていた。ＲＣＳの抽出水流量を約１７ｍ３／ｈとした場合の洗浄時間について評価した結果、確実にほう素の吸着がなくなるには約５０分以上の洗浄が必要であることが判明した。
+
+（２）冷却材脱塩塔切替操作時のＲＣＳへの手動補給操作について
+冷却材脱塩塔切替操作におけるＡ－冷却材脱塩塔の洗浄に伴うＲＣＳへの補給操作にあたっては、運転操作所則に基づき当日朝に実施したＲＣＳのサンプリングによるほう素濃度を基準とし、ほう酸補給水流量を算出して実施した。なお、ＲＣＳへの補給は、ＲＣＳへの補給流量及び算出して求めたほう酸補給水流量を各制御器に設定した上で実施し、補給操作時にはＲＣＳへの補給流量及びほう酸補給水流量を随時確認して適切に実施されており問題はなかった。また、純水、ほう酸補給流量積算実績の濃度計算結果は、ＲＣＳのほう素濃度サンプリング結果とほぼ同じであり、Ａ－冷却材脱塩塔洗浄中のほう酸手動補給中は、１次冷却材平均温度が変動していないことから、各流量計、各制御器の不良による１次冷却材のほう素濃度調整不良は考えられず、ほう酸補給水流量も適切に算出され、手動補給が問題なく実施されていたことを確認した。
+
+２．ＲＣＳへの純水の漏れ込み
+化学体積制御系統のほう酸補給系の各ラインの洗浄水弁の操作は実施しておらず、ＲＣＳへの純水の漏れ込みによる希釈は考えられない。また、Ａ－冷却材脱塩塔まわりの各洗浄水弁は閉止を確認しており、シート漏れによるＲＣＳへの純水の漏れ込みは考えられない。Ｂ－冷却材脱塩塔まわりについては、冷却材脱塩塔の切替操作前のＢ－冷却材脱塩塔使用中には原子炉熱出力の上昇は認められておらず、各洗浄水の操作も実施していないことから、Ｂ－冷却材脱塩塔まわりの洗浄水弁からのＲＣＳへの純水の漏れ込みは考えられない。なお、体積制御タンクの異常な水位上昇も認められていないことから、純水の漏れ込みは考えられない。
+
+３．制御棒の引き抜き
+原子炉熱出力上昇時には、制御棒の手動引き抜き操作は実施しておらず、また、２次系（タービン第１段圧力）の出力変化に伴う制御棒の自動引き抜きもないことを確認した。
+
+４．他の運転操作調査
+原子炉熱出力が上昇した際の運転操作等を調査したところ、冷却材脱塩塔の切替操作前後に原子炉熱出力に影響を及ぼすような操作は実施しておらず、警報の発信もなかった。
+
+５．原子炉の安全性
+Ｂ－冷却材脱塩塔からＡ－冷却材脱塩塔への切替操作実施中、原子炉は自動制御から手動制御にしていたが、事象中の最大熱出力は１時間平均値約３４３３．３ＭＷｔ　（１００．３％）、瞬時値（１分値）３４５９．９ＭＷｔ（１０１．１％）であり、また、出力領域中性子束指示値は制限値（トリップ設定値）１０９％を下回っていることから、原子炉の安全性は担保されていた。また、制御棒動作機能、制御棒の挿入限界、制御棒位置指示、軸方向中性子束出力偏差、１／４炉心出力偏差、ＤＮＢ比ともに運転上の制限を満足していた。このことから、直ちに原子炉の安全性に影響を与えることはなかった。また、念のため、１月５日２０時５０分から２２時４０分にかけて炉内出力分布測定を行った結果、炉内の出力分布にひずみは認められず、前回の測定値との比較からも大きな変化はなく、炉心の健全性に問題のないことを確認した。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10126</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/21 18:56:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[事象発生時の状況のとおり
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4396</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/01/14 18:05:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200901051905]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．洗浄運転完了時のサンプリングによるほう素濃度確認
+プラント運転中に冷却材脱塩塔の洗浄を行う場合は、ほう素の吸着がなくなったことをサンプリングにより確認することとした。
+
+２．発電室と放射線管理課とのコミュニケーション強化
+水処理依頼票により放射線管理課から発電室に冷却材脱塩塔切替の運転操作を依頼する場合、記載内容の充実を図り、発電室と放射線管理課との対面連絡による確実なコミュニケーションを実施した上で操作を依頼することとした。
+
+３．運転操作マニュアル（運転操作所則）の充実
+冷却材脱塩塔切替操作については、機器操作指令票を運転操作所則として充実し、制定した。
+
+４．保安規定で定める運転上の制限の逸脱判断
+保安規定で定める運転上の制限の逸脱の判断は、瞬時値を確認した時点で行う必要があることから、速やかに逸脱を判断するよう再度周知した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/21 18:56:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[大飯発電所３号機は定格熱出力一定運転中のところ、平成２１年１月５日１９時の原子炉熱出力の１時間平均値が３４３３．３ＭＷｔとなり、保安規定に定める運転上の制限である３４２３ＭＷｔを約０．３％超えていることから、１９時０５分に保安規定の運転上の制限を満足していないと判断した。３号機は、当日の１７時３４分よりＢ－冷却材脱塩塔からＡ－冷却材脱塩塔への切替操作を実施しており、１８時１０分に冷却材平均温度の上昇を確認したため、同時刻から制御用制御棒Ｄバンクを２１０ステップから１９７ステップまで挿入し、１８時２２分より１次冷却材系統へのほう酸注入を行い、原子炉熱出力の抑制操作を実施した。その後、原子炉熱出力は、２０時の１時間平均値で３３９９．６ＭＷｔとなり、保安規定で定める運転上の制限である３４２３ＭＷｔ以下であることを確認したことから、２０時０５分に保安規定の運転上の制限を満足したものと判断した。なお、１８時２０分頃から瞬時値（１分値）が制限値である３４２３ＭＷｔを超えていることを認識しており、他のパラメータも勘案した上で速やかに保安規定で定める運転上の制限の逸脱判断を行うことも可能であったが、原子炉出力を速やかに下げる操作を優先した。その後、１９時の原子炉熱出力の１時間平均値が運転上の制限を超過したことを確認したため、保安規定で定める運転上の制限の逸脱と判断した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-関西-M013]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[Ａ－冷却材脱塩塔の洗浄時間の評価において、冷却材脱塩塔切替操作時は抽出水流量を約３０ｍ３／ｈから約１７ｍ３／ｈに変更することが、放射線管理課における洗浄時間の評価において考慮されていなかったことから、Ａ－冷却材脱塩塔の洗浄時間が短く、洗浄が不十分な状態となった。この状態でＡ－冷却材脱塩塔へ切替えたことにより、１次冷却材中のほう素が冷却材脱塩塔で吸着されて炉心に正の反応度が添加されたことから、原子炉熱出力が一時的に上昇したものと考えられる。また、反応度に影響する冷却材脱塩塔の切替操作にもかかわらず、運転操作所則がなく、機器操作指令票にて操作を実施していた。なお、冷却材脱塩塔切替操作後の冷却材脱塩塔出口の正確なほう素濃度を把握していなかったことから、過剰な原子炉熱出力の上昇を想定した適切な対応を取ることが出来なかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉熱出力の運転上の制限の逸脱について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1198</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/01/21 18:14:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>10126</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[その他*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10126</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[化学体積制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[209]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10126</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10126</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10126</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10126</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

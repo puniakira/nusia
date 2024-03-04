@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10663</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2010/02/23 16:57:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2009/11/04 17:15:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20091028]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/02/23 16:57:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生時の状況】
+３号機第１６回定期点検における定期事業者検査中において、技術評価書（※１）の妥当性および各定期事業者検査へ評価結果の内容が確実に反映されていることを確認するため、必要となる資料を社内で再確認した結果、技術評価対象計器３２５台のうち、３台に技術評価書と計器仕様表（※２）に不整合があることを確認した。
+
+＜対象計器＞
+・主油ポンプ入口圧力スイッチ（１台）
+・軸受給油圧力スイッチ（２台）
+
+＜技術評価書との不整合のあった資料＞
+・計器仕様表
+
+＜技術評価書との不整合の箇所＞
+・計器単体精度
+　技術評価書記載値：±３．９２ｋＰａ
+　計器仕様表記載値：±４ｋＰａ
+
+※１　技術評価書：電気事業法施行規則第５１条に基づき「定期事業者検査の判定における一定の期間の設定」に係る妥当性を示すことを目的とした評価書
+※２　計器仕様表：原子力発電所内に設置されている計測機器の詳細な仕様が記載された図書
+
+【原因調査の概要】
+技術評価書（計器ドリフト評価表）作成時の計器精度の確認において、計器仕様表に記載された値を確認するとともに、計器試験成績書（※３）の設定値（以下、「設定値」という。）を確認した。その結果、小数点以下の桁数が整合しておらず、計器仕様表記載の値に訂正が必要と判断したが、計器仕様表が改訂される前に技術評価書が作成された。
+　その際、計器仕様書に計器精度±４ｋＰａと記載されていたが、設定値の桁数と合わせることとしていたため、技術評価書では設定値±３．９２ｋＰａで評価書を作成した。
+
+※３　計器試験成績書：定期点検における計器単体点検結果を記した成績書
+
+【原因】
+計器仕様表の計器精度と設定値における小数点以下の桁数不整合については、ＳＩ単位系へ移行の際、計器精度の詳細な換算方法及び記載方法が決められておらず、小数点以下の桁数の統一が図られていなかったためである。
+＜参考＞
+工学単位０．０４ｋｇ／ｃｍ２から国際単位（ＳＩ）へ換算時する際、±３．９２ｋＰａとするべきところを、±４ｋＰａとした。
+
+【再発防止対策】
+ＳＩ単位系への移行により改訂した計器仕様表について、計器精度換算後の数値記載に不整合（設定値との桁数の違い）がないことを確認する。不整合が確認された場合は、計器仕様表の改訂手続きを行う。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-中部-S014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ＳＩ単位系への移行時の計器仕様表の不備について]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/11/09 17:29:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

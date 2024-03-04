@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．漏えい部位の特定
+当該配管の保温材を取り外し、目視点検を実施した結果、当該溶接部に変色（添付資料参照）があることを確認した。
+その後、浸透探傷検査にて、当該溶接部の外側表面に約５mm程度の傷を確認した。また、放射線透過検査にて、その傷が貫通していることを確認した。
+
+２．原因調査
+漏えいした原因について、要因分析に基づき以下の調査を実施した。
+（１）溶接部非破壊検査
+漏えい箇所の詳細状況及び溶接不良の有無を確認するため、浸透探傷検査及び放射線透過検査を実施した結果、当該溶接部に貫通割れを確認した。
+なお、減肉等の著しい変化は確認されなかった。
+（２）材質調査
+当該配管の建設当時の施工記録（材料証明書）が残っていないことから、当該配管、管台部及び溶接金属の材質を確認するため、材質検査器にて材質を調査した結果、すべて炭素鋼であることを確認した。
+（３）金属調査
+損傷原因を推定するため、当該配管切断後の外観観察、浸透探傷検査、断面観察、破面観察及び硬さ測定を実施した結果、以下のことを確認した。
+ａ．半割り切断後の外表面の外観観察及び浸透探傷検査
+半割り切断後の外表面の外観観察及び浸透探傷検査を実施した結果、管台側溶接止端部に平行に沿って、約５mmの線状指示（貫通欠陥）を確認した。
+ｂ．半割り切断後の内表面の外観観察及び浸透探傷検査
+半割り切断後の内表面の外観観察及び浸透探傷検査を実施した結果、配管内表面には、傷、変形などの異常は確認されなかった。
+ｃ．断面観察
+外表面に確認された約５mmの線状指示があった部位について、断面マクロ観察及び光学顕微鏡による断面ミクロ観察を実施した結果、管台と配管の溶接部のルート部に小さな溶け込み不良を確認した。傷は、溶け込み不良部近傍から進展していることを確認した。
+また、当該溶接部の傷は、管台側溶接金属部を貫通していることを確認した。
+ｄ．破面観察
+破面の外観観察を実施した結果、内表面側に破面の段差を数カ所確認した。
+また、外表面側に向かって疲労に特徴的なビーチマークがあることを確認した。
+ｅ．硬さ測定
+断面観察面における硬さ測定を実施した結果、配管、管台及び溶接金属ともに、特に異常な硬さではないことを確認した。
+上記の結果から、当該溶接部の貫通割れは、繰り返し応力に起因した疲労により、内表面側を起点として発生した傷が、溶接金属部に沿って進展して貫通割れに至ったものと推測した。
+（４）配管強度計算
+当該配管の強度計算を行い、当該配管の肉厚を確認した結果、当該配管の肉厚は「発電用火力設備に関する技術基準の解釈について」に定める設計要求上の最小必要肉厚を満足していることを確認した。
+（５）配管移動量測定
+据付不良による配管拘束応力過大が要因となるか分析するため、切断した当該配管の配管移動量を測定し、当該溶接部に発生していた拘束応力を計算した結果、配管拘束応力が小さいことを確認した。
+（６）運転記録調査
+当該配管使用時のプラント運転状態に異常がなかったことを確認するため、当該配管の改造（当該配管下流側へ空気作動弁追設）を行った第４回定検以降の原子炉圧力及び原子炉冷却材温度を調査した結果、第４回定検以降、当該配管使用時における運転記録に異常がないことから、当該配管を流れる流体の圧力及び温度に異常がなかったと評価した。
+（７）施工記録確認
+当該配管の建設当時の施工記録を調査した結果、建設当時、当該配管は溶接検査対象外であり、施工図及び溶接記録は残っていなかった。
+また、第２回定検時に、当該配管の排出先をドレンファンネルから復水器へ変更した際、排水弁の弁箱は再利用との記録はあったが、当該溶接部に関する記録はなかったことから、当該溶接部は建設時に施工された以降、再溶接は実施していないものと考えられる。
+なお、配管支持の点検履歴を調査したが、点検実績は残っていなかった。
+（８）疲労評価
+破面観察の結果、ビーチマークが確認されたことから疲労評価を実施した。なお、第一配管支持に緩みが確認されていることから、第一配管支持の支持機能を外したモデルにより当該配管の発生応力、疲労強度、疲労限等を計算した結果、当該配管の発生応力は疲労限（平均値）を下回っていたが、評価に用いた疲労曲線の下限値は上回っており、疲労割れが発生する可能性があることを確認した。
+（９）配管支持点検結果
+配管支持不良による振動疲労が要因となるか分析するため、配管支持隙間測定及び配管支持、第一配管支持固定部の外観点検を実施した結果、当該配管の配管支持の１箇所にナットの緩み、当該配管及び類似配管箇所の配管支持の一部にナットの脱落、摺動痕等があることを確認したが、溶接部のはずれ、割れ等の異常は確認されなかったとともに、第一配管支持のナットの緩みについては、配管支持機能を損なうものではないことを確認した。
+また、当該配管の第一配管支持固定部の１箇所にナットの緩みがあり、配管支持固定部用ナットと固定部に廻り止め溶接が施工されていないことを確認した。
+以上の結果から、当該配管の第一配管支持固定部の緩みにより第一配管支持の拘束力が低下したため、当該配管運転時の振動抑制効果が低下していたと推定した。
+（10）配管外観点検
+外力（過大応力）が要因となるか分析するため、溶接部及び配管支持部の外観点検を実施した結果、当該溶接部以外の配管、弁溶接部に有意な変形、傷等はなく、過大な外力が作用した痕跡は確認されなかった。
+（11）当該配管部位周辺の肉厚測定結果
+当該配管近傍部の上流側１個所、下流側２個所について、過去の定検にて実施した減肉測定データを確認した結果、当該配管部位周辺に減肉傾向は確認されなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[直ちに運転に影響を及ぼすものではないが、点検および原因調査のため原子炉を手動停止した。
+]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[150]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2665</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/06/02 18:45:14]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3071</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/12/14 12:03:12]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200412081050]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．当該溶接部については、溶接形状を疲労強度の高い突合せ溶接へ変更する。（他の湿分分離器から湿分分離器排水タンクにつながる排水配管から分岐している復水器逃がし配管の取出座溶接部（３箇所）についても同様の対策を実施する）
+２．緩みの確認された当該配管の第一配管支持固定部については、ボルトと固定部及びナットと固定部の廻り止め溶接を行う。（他の湿分分離器から湿分分離器排水タンクにつながる排水配管から分岐している復水器逃がし配管の第一配管支持固定部（３箇所）についても同様の対策を実施する）
+３．水平展開フローから選定された配管支持については、配管支持点検を実施し、緩み等がなく、異常のないことを確認した。
+４．今後の支持構造物の取り外し・取付け作業時、ボルト・ナットに対し、廻り止め処置が適切になされているかどうかの確認項目を社内書類に反映する。
+５．他プラントへの水平展開として、停止中のプラントは起動までに、水平展開フローから選定された類似配管支持について点検を実施する。
+また、運転中のプラントは、次回定検時に同様の点検を実施する。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/06/02 18:45:14]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　福島第一原子力発電所２号機は、定格出力にて運転中のところ、平成16年12月８日午前10時50分頃、タービン建屋地下１階の給水加熱器室内にあるNo.3湿分分離器からNo.2湿分分離器排水タンクにつながる排水配管付近より水が滴下し、床面に水たまり（約50cm×約50cm）があることを、巡視点検中の当社社員が発見した。
+その後も、微少な漏えい（約３秒に１滴）が継続しており、仮設容器にて漏えい水を受けていたが、運転中では漏えい箇所の特定等、調査・点検を行うにあたり、当該区域が高線量区域であることから、プラントを停止した。これにより、当該系統への水の流入がなくなり、漏えいは停止した。
+漏えい箇所を特定するため、現場確認を行ったところ、No.3湿分分離器からNo.2湿分分離器排水タンクにつながる排水配管から分岐している復水器逃がし配管付近からの漏えいであることが判明した。
+漏えい量は、床面に溜まった量、約0.8リットルであり、分析の結果、漏えい水の全放射能量は約3.6×10^4ベクレルと評価した。
+　なお、これによる外部への放射能の影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M050]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査の結果から、当該配管の第一配管支持固定部の緩みにより配管の拘束力が低下したため、振動抑制効果が低下したとともに、当該溶接部近傍に設置されている排水弁（ベローシール弁）の偏心重量※が発生応力を増大させて疲労限程度となり、高サイクル疲労割れを発生したものと推定した。
+第一配管支持固定部の緩みについては、本来、配管支持固定部用ナットと固定部に廻り止め溶接が施工されるべきところ、その廻り止め溶接がナット側ではなく、ボルト頭部に溶接されていたため、ナットが緩んだものと推定した。
+また、当該溶接部については、施工時に出来た溶け込み不良部があり、これが疲労強度を減少させる要因となった。
+
+※偏心重量とは、弁の付根から弁の重心までの距離（偏心距離）により付根にかかる力を考慮した重量を言い、偏心重量が大きいほど、振動が発生した場合に弁の付根にかかる力が大きくなる。
+
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[湿分分離器ドレンタンク配管付近の水漏れに伴う原子炉手動停止]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃　発見]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>784</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/12/15 20:16:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[e]]></DISP_NO>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[主タービン]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[150]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[150]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[施工不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0120]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2665</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

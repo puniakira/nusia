@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8908</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/06/12 13:51:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3829</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/06/07 21:13:27]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[19970701]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[  平成１８年１１月の原子力安全・保安院の指示「発電設備に係る点検について」に基づき、発電設備について、データ改ざん、必要な手続きの不備、その他同様な問題がないかを評価・検討するための調査の中で、以下の事象が確認された。
+　敦賀発電所２号機の第８回定期検査時(平成９年度)の原子炉格納容器全体漏えい率検査において、漏えい率検査圧力到達後の圧力静定中に漏えい率が従来に比べて高めであることが判明し、原子炉格納容器地下1階の通常用エアロックの内側均圧弁から漏えいがあることを確認したことから、当該均圧弁の出口に閉止板を取付け、漏えい率検査を受検した可能性がある。
+　なお、当時検査を担当した機械保修課の検査体制では課長，副長，主任が現場との連絡を行っており、指示したものは特定できなかったものの、閉止板取付けは検査体制の中で行われたものと推定される。
+検査後、原子炉起動前に第7回定期検査時及び取替前に漏えいのないことが確認された均圧弁と取替えた。その後、JEAC4203に基づき約半年後の運転中に当該エアロックの局部漏えい率検査を実施し、結果「良」であることを確認した。
+　当時の保安規定では、「第４９条:原子炉格納容器の漏えい率」の中で「定期的な検査により原子炉格納容器漏えい率が別表第１７に定める値であることを確認し、その結果を発電長に通知する。」としている。
+機械保修課長から発電長への通知（平成９年７月９日付け）(現在の保存期限は、５年間)は、漏えい率検査の成績書を添付するが、検査要領書と異なる条件で検査を行ったことは、保安規定に抵触していた可能性がある。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1997-原電-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[格納容器漏えい率検査における均圧弁に係る不正操作について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/06/12 13:51:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

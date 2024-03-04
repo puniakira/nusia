@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11752</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/09/19 18:44:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/07/24 16:08:16]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201307081148]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2013/09/19 18:44:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[（発生状況）
+２号機において、平成25年７月４日より、使用済燃料プール内にある使用済燃料貯蔵ラックの点検作業を行っていたところ、７月８日午前11時48分頃、使用済燃料上部にＳ字状の異物らしきもの（大きさ約30mm）があることを当社社員が確認した。
+
+当該のＳ字状の異物らしきものについて、７月11日午前10時頃回収し、午後１時10分、Ｓ字状の金属（ステンレス製、大きさ約26mm、太さ約1.5mm）（以下、「異物」）であることを確認した。
+
+（調査結果）
+・異物が確認された燃料の過去の定期検査時（燃料取替に伴う確認作業時）の映像記録（３回分、平成５年の第７回定期検査、平成６年の第８回定期検査、平成15 年の第15 回定期検査）を確認したところ、平成５年には同様の異物らしきものは確認されなかったが、平成６年ならびに平成15 年には同様の異物らしきものが確認された。
+・当該の異物は、定期検査の作業等で使用する設備（天井クレーン、燃料取替機、作業台車）には使用していない。
+・過去に行われた定期検査の作業等で使用した資機材として異物が持ち込まれた可能性はあるが、特定できない。
+なお、使用済燃料プールについては、平成16 年４月以降、異物混入防止対策(※)を強化している。
+
+（推定原因）
+混入時期は、過去の燃料取替に伴う確認作業時の映像記録を確認した結果、異物混入防止対策を強化した平成16 年４月より以前の平成５年の定期検査から平成６年の定期検査の間に使用済燃料プールへ混入したものと推定した。
+また、混入経路については、定期検査の作業等で使用する設備に当該異物のような金属は使用しておらず、特定できないが、過去の定期検査の作業等で使用した資機材として持ち込まれた可能性があり、使用済燃料プール上部から混入したものと推定した。
+
+（対策）
+継続して、異物混入防止対策を徹底する。
+
+※ 異物混入防止対策
+持込物品の制限や員数管理を行うとともに、専任監視員を配置するなどして、原子炉等への異物混入を防止する取り組み。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S023]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第二原子力発電所２号機使用済燃料プールにおける異物の確認について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/07/24 16:08:40]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

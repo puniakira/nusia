@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　保安規定に定める局所的な出力分布の確認は、運転中毎月、炉内核計装装置による出力（中性子束）分布測定データと各運転サイクル毎の設計値をもとに評価して行っている。
+　今回、局所的な出力の評価値が、１箇所で保安規定に定める制限値を超過したことについて、以下の通り要因の調査を行った。
+（１）プラント設備に関する要因
+　制限値を超過した位置が制御棒の挿入されている炉心上部であったことから、制御棒位置について調査した結果、制御棒位置は正常であり、出力分布に影響する要因は認められなかった。
+（２）プラント運転状態に関する要因
+　平成１４年４月より３号機は定格熱出力一定運転を行っており、従来９８％程度であった原子炉熱出力に対しほぼ定格出力で運転しているが、その差は２％程度であり、出力評価値については変化はなく、定格熱出力一定運転の出力分布への影響はなかった。
+（３）検出器データに関する要因
+　炉内出力分布測定は、炉内核計装装置を使用して可動型の検出器を炉心内に挿入し、その検出器データを基に評価を行うことから、検出器データの異常の有無について調査した。
+　検出器のデータは、測定前、測定中を通じて安定しており、検出器動作に問題のなかったことを確認した。　　　　　
+　さらに、炉心上部の検出器データについて検討した。
+　一般に、中性子の量は燃料端部に向かって減少していくが、炉心の上下端部周辺では、中性子を反射させる特性を持つ水（減速材）により炉心領域から漏れ出た中性子が炉心方向に反射されて中性子のピーク（山）が形成される。このような傾向は燃料の燃焼が進むにつれてより顕著に見られるものである。
+　今回の測定でも、各測定箇所でこの傾向が見られており、その影響により燃料上下端部での中性子量の増加が見られることを確認した。
+（４）評価方法に関する要因
+　出力分布は、検出器による測定データをもとに、炉心計算による設計値を考慮して検出器の入っていない燃料の出力分布を評価している。
+　炉心上部（制御棒Dバンク挿入領域）の出力分布の評価方法について調査した結果、運転期間初期の設計値に固定して使用していたことが確認された。運転期間初期の設計値で出力分布を評価したことにより、燃焼が進むにつれて上部の燃料の出力は低下傾向になるところを高めに評価したことから、測定時点の出力分布との差が大きくなったものと考えられる。この傾向は、運転期間の経過に従い大きくなる。
+　このことから、炉心上部の設計値を、事象発生時の運転期間に応じた設計値に替えて再評価した結果、制限値を十分下回ることが確認された（制限値：1.505に対し、出力評価値：1.401。再評価前の値1.522に対し、約8％低下）。
+　なお、炉心上部を除く部分については、運転期間の経過に応じた設計値を使用していた。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[平成15年８月６日
+　１８時３２分　　負荷降下開始
+　１８時３７分　  負荷降下終了（約２％）
+平成15年８月８日　
+　　０時１０分　　負荷上昇開始
+　　１時０５分　　負荷上昇終了（約２％）
+]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[201]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>308</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/06/02 10:11:06]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[（保安規定第29条）
+　炉内出力分布測定（１回／月）において、熱流束熱水路係数（ＦＱ(Z)）が運転上の制限を満足していないと判断したため、保安規定第29条第３項に基づき以下の措置を実施した。
+　平成15年８月６日　18時25分　 運転上の制限を満足していないと判断（ＦＱ(Z)制限値1.505，測定値1.522）
+　平成15年８月６日　18時37分　 原子炉熱出力を２％下げる（完了時間　要求15分，実績12分）
+　平成15年８月６日　21時54分　 軸方向中性子束出力偏差の許容運転制限範囲を２％下げる（完了時間　要求4時間，実績3時間29分）
+　平成15年８月６日　23時 5 分　 出力領域中性子束高トリップ設定値を２％下げる（完了時間　要求8時間，実績4時間40分）
+　平成15年８月６日  23時27分　 過出力ΔＴトリップ設定値を２％下げる（完了時間　要求72時間，実績5時間2分）
+
+（保安規定88条第1項適用）
+　原子炉熱出力上昇に伴う出力領域中性子束高トリップ設定値の変更にあたり、出力領域中性子束高トリップ機能の１チャンネルをバイパスして作業を実施するため、保安規定第８８条第１項を適用して、以下のとおり作業を実施した。
+　平成15年８月７日　22時52分　 出力領域中性子束トリップ設定値の変更開始
+　平成15年８月７日　23時18分　 出力領域中性子束トリップ設定値の変更終了（完了時間　要求6時間，実績22分）
+
+（保安規定第29条第3項）
+　原子炉熱出力を上昇するため、原子炉熱出力上昇前に炉内出力分布測定を以下のとおり実施した。
+　平成15年８月７日  14時08分　 炉内出力分布測定開始
+　平成15年８月７日  20時30分　 炉内出力分布測定終了（ＦＱ(Z)制限値1.541，測定値1.411）
+
+（熱出力上昇）
+　原子炉熱出力上昇に伴い以下の作業を実施した。
+　平成15年８月７日  23時40分　 過出力ΔＴトリップ設定値を２％上げる
+　平成15年８月８日　0時4分　 　軸方向中性子束出力偏差の許容運転制限範囲を２％上げる
+　平成15年８月８日　1時5分　 　原子炉熱出力を復帰（２％上げる）
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>566</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/10/06 15:35:54]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200308061825]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）出力分布評価方法について調査し、出力分布評価に使用する炉心上部の設計値を燃料の燃焼の進み具合に応じた設計値に替えて再評価した結果、制限値を下回っていることを確認し、復旧した。
+（２）今後、出力分布の評価にあたっては、評価に使用する炉心上部の設計値を、運転期間初期の設計値に固定して使用するのではなく、燃料の燃焼の進み具合に応じた設計値を使用することとし、作業要領書に、燃料の燃焼を考慮した設計値が設定されていることを確認する記載を追加した。
+　　　また、伊方１、２号機についても同様の対策を実施した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/06/02 10:11:06]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の概要
+　伊方発電所第３号機は通常運転中のところ、平成１５年８月６日１８時２５分、定期的に実施している炉内出力分布測定において、燃料１体の最上部で燃料の局所的な出力の評価値（ＦＱ(z)）が、伊方発電所原子炉施設保安規定（以下、「保安規定」という）に定められた制限値を約１％超えていることが確認された（制限値：1.505に対し、出力評価値：1.522）。このため、保安規定に基づき、原子炉出力を２％降下した上で、必要な運転関係の制限値、設定値の変更を実施した。
+　出力分布評価方法について調査し、出力分布評価に使用する炉心上部の設計値を運転期間に応じたより適切な値に替えて再評価した結果、制限値を下回っていることを確認した。
+　その後、炉内出力分布測定を再度行い、出力を復帰させても制限値を超えないことを確認した上で、８月８日１時５分原子炉出力を復帰した。　
+　なお、保安規定に定める局所的な出力の制限は、一次冷却材喪失事故が起きた場合において、炉心の冷却可能な形状を維持しうるように設けられているものであり、制限を超えたとしても通常運転状態で燃料の健全性上問題となるものではない。
+　また、本事象による周辺環境への放射能の影響はなかった。
+
+２．事象の時系列
+８月６日
+　　９時２９分　　出力分布測定開始
+　１１時４９分　　出力分布測定終了
+　１１時４９分 ～ １８時２５分　　出力分布測定データの評価
+　１８時２５分　　出力分布測定の結果、出力評価値が制限値を約１％超えていることを確認
+　１８時３２分　　負荷降下開始
+　１８時３７分　  負荷降下終了（約２％）
+　２１時１０分 ～ ２３時２７分　　運転関係の制限値、設定値変更実施
+　　・軸方向中性子束出力偏差の許容運転制限範囲変更（２％下げる）
+　　・出力領域中性子束トリップ設定値変更（２％下げる）
+　　・過出力△Ｔトリップ設定値変更（２％下げる）
+８月７日　
+　１２時００分　　出力分布評価方法の調査及び再評価の結果、制限値を下回っていることを確認
+　１４時０８分　　出力分布再測定開始
+　１７時５５分　　出力分布再測定終了
+　１７時５５分 ～ ２０時３０分　　出力分布測定データの評価
+　２０時３０分　  出力分布評価の結果、出力評価値が制限値を超えておらず、元の負荷に戻した場合でも問題ないことを確認
+　２２時５１分 ～ ８月８日　０時０４分　　運転関係の制限値、設定値復旧実施
+８月８日　
+　　０時１０分　　負荷上昇開始
+　　１時０５分　　負荷上昇終了（約２％）
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-四国-M004]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　炉内出力分布測定における制限値超過の原因は、炉心上下端部周辺の中性子ピークの影響が大きくなる傾向の運転期間末期時点での出力分布評価において、運転期間初期の設計値を用いて出力分布を評価していたことにある。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[炉内出力分布測定における制限値超過について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[（確認）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>929</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/15 17:17:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[600]]></KIKI_CODE>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[燃料要素*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>308</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[600]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[燃料集合体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[719]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[719]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[原子燃料]]></KIKI_NAME>
+					<SORT_NO>36</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[燃料]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[201]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>308</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[21]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力抑制]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>308</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[01]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉本体]]></SETSUBI_NAME>
+		<SORT_NO>1</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

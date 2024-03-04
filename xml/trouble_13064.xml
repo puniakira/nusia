@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[【原　因】（２０２０年２月１２日発表）
+　原因と再発防止対策を策定した。
+
+【根本原因分析】（２０２０年９月２日発表）
+　２０２０年２月１２日の原因と再発防止対策を踏まえ，より確実に再発防止を図る観点で根本原因分析を実施し，分析結果および再発防止対策を取りまとめた。
+]]></CHOSA_GAIYO_TXT>
+	<KITEI_IHAN_CODE><![CDATA[4]]></KITEI_IHAN_CODE>
+	<KITEI_IHAN_CODE_NAME><![CDATA[監視]]></KITEI_IHAN_CODE_NAME>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>8</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>13064</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2021/12/13 13:08:23]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>91401</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/12/27 14:32:18]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20191224]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[【再発防止対策】（２０２０年２月１２日発表）
+
+１．設計時の対策
+（１）放射線管理システムの計算プログラムに希釈を考慮した補正係数２．５を取り入れる。
+　　 放射線管理システムなどの放射線安全に関わる評価を行うシステムを設計（改造，更新）する際には，系統構成などの関連する設備や運用に関する情報を確認するよう社内規程類に定める。
+（２）当時の社内規程類には，設備設計において，運用管理に影響を及ぼさないことを事前に確認する旨を定めていなかったが，現行の社内規程類には，その旨を既に定めており，対策済である。
+
+２．建設時の対策
+（１）当該社内規程類に放出量などの計算式に希釈を考慮した補正係数２．５を取り入れる。
+　　 当該社内規程類に計算式や判定方法などを規定する際の注意事項として系統構成などの関連する設備や運用に関する情報を確認することを定める。
+（２）設備の設計や改造を行う際には，設計・工事を行う部門は，運転・監視を行う部門だけではなく当該設備の運用上関連する全ての部門に情報を引き継ぐ仕組みを構築する。
+
+３．建設時および運用開始時の対策
+　　発電所所員に今回の事例を踏まえ，策定した原因および再発防止対策の周知を徹底するとともに，算定方法の妥当性の確認などの際には，所掌外の業務や設備にも踏み込んで確認するなど問いかける姿勢を醸成する活動を実施する。
+
+４．運用開始後の対策
+　　社内規程類を再確認する際に計算式や判定方法などが，系統構成など実際の設備や運用と整合が取れているか確認することを社内規程類に定める。
+
+５．設計時建設時および運用開始後の対策
+　　放射性廃棄物管理部門に放出量などの算定方法が，系統構成などといった関連する設備や運用に影響を受けることを教育する。
+　　また，発電所所員に所掌範囲外の業務や設備であっても自らの業務に関連する設備や運用に関する情報に意識を向けるよう教育を行う。
+
+【再発防止対策】（２０２０年９月２日公表）
+
+【直接要因】　
+　
+　問題点①および問題点②から抽出された直接要因①および直接要因②に対して再発防止対策①を示す。
+＜再発防止対策①＞
+　「設計管理要領」および「設計管理マニュアル」において設計要求事項として検討すべき事項を明確にするとともに，運用管理についても検討すべき事項とし，設計と運用とのインターフェースを明確にするよう「設計管理要領」および「設計管理マニュアル」に記載する。
+
+ 部門員が共通的に使用する品質保証に係る規程類の教育として設計時における運用管理の検討や関係課間のインターフェースの重要性に対する内容を品質保証に係る要領類の教育資料（設計管理）に反映し，全部門員に対して定期的な教育を継続する。
+　
+　問題点③から抽出された直接要因③に対して再発防止対策案②を示す。
+＜再発防止対策②＞
+　「設計管理要領」および「設計管理マニュアル」の設計管理対象として基本設計から設計の妥当性確認に至るまでを対象とすることを明確にするとともに，妥当性確認段階において，納入される設備が仕様書の設計要求事項を満足していることを計画した試験および検査等により確認するよう「設計管理要領」および「設計管理マニュアル」に記載する。
+
+　試験検査の着眼点について記載の充実の観点から，以下の項目を追記する。
+・試験内容が設備の設置目的を踏まえた試験項目となっているか。
+・試験結果に影響ある設備情報が最新のものか。
+
+　問題点④，問題点⑧および問題点⑨から抽出された直接要因④／⑧／⑨に対して再発防止対策③－１および再発防止対策③－２を示す。
+＜再発防止対策③－１＞
+　「教育訓練管理要領」に基づく安全管理課教育訓練ＫＳＡカタログ（※７）に以下の教育を行うための項目を取り込む。
+　また，具体的な教育内容は教育テキストとして２０２０年度に整備する。
+　なお，教育テキストは本店で放出放射能量の評価を行っている原子力リスク管理グループのレビューを受ける。
+・放射能量の評価という目的を達成するために確認すべき事項（放射能量評価に関わる系統および設備の考え方，試料採取方法，測定方法，評価方法等）に関する教育
+・現場における系統および設備の確認方法
+
+＜再発防止対策③－２＞
+　上記の新たな教育項目を取り込んだ安全管理課教育訓練ＫＳＡカタログにて継続的な教育を行う。
+
+　問題点⑤，問題点⑥，問題点⑦および問題点⑩から抽出された直接要因⑤／⑦，直接要因⑥および直接要因⑩に対して再発防止対策④－１および再発防止対策④－２を示す。
+＜再発防止対策④－１＞
+　社内規程類作成時に作成者，審査者それぞれが同一の観点で規定内容をチェックするために以下の視点を「文書管理要則」および「文書管理マニュアル」に定める。
+・設備仕様とその仕様に対する設備運用に不整合がないか
+・規定されている手順等は，業務目的を達成するために具体的かつ十分か
+・読み手によらず分かりやすく，誤解を生じさせない記載となっているか
+　レビューにおいては，作成以降の時間経過による陳腐化を防止するため，以下の視点をさらに追加する。
+・レビュー実施時点での最新の状況と合致しているか
+
+＜再発防止対策④－２＞
+　改正した「文書管理要則」および「文書管理マニュアル」を用いて社内関係者に教育を行う。
+
+【組織要因①】
+
+＜組織要因対策①－１＞
+　業務プロセスを社内規程として文書化する際の要件や手順を定める「文書管理要領」および「文書管理マニュアル」に個々の業務プロセスが達成すべき業務目的に対し，適切かつ十分なものとなるよう，以下の観点を記載する。
+・規定した業務プロセスにより得られる結果が，業務の本来の目的にかなっているか。
+・規定した業務プロセスが理解しやすい記載となっているか。
+・業務の所掌および各業務プロセスのインターフェースが明確で抜けがなく，それぞれの業務に対する責任と権限が適切に割り振られているか。
+
+＜組織要因対策①－２＞
+　改正した「文書管理要領」および「文書管理マニュアル」を用いて社内関係者に教育を行う。
+
+＜組織要因対策①－３＞
+　業務プロセスに本来の業務目的からの乖離やインターフェースの不整合が発生しないよう，設計要件・施設構成情報・物理的構成の均衡を維持・管理する活動を強化する。
+
+＜組織要因対策①－４＞
+　設計要件・施設構成情報・物理的構成の均衡を維持・管理する活動について定期的な教育を行う。
+
+【組織要因②】
+
+＜組織要因対策②＞
+　体系的教育訓練（以下，「ＳＡＴ」という。）手法により業務遂行に必要な知識・技能等を分析，抽出し，これらを習得させるための教育訓練プログラムを開発，実施し，その後の評価，改善を行う一連のプロセスを定着させ，要員の力量確保を確実なものとする。
+
+【組織要因③】
+
+＜組織要因対策③－１＞
+　安全文化の育成・維持において，他課所掌の設備や業務を含めて自らの業務に関連するプロセスの全体像を把握する姿勢，業務の本来の目的を追及する姿勢および現状のマニュアルや業務が万全とは限らないことなどの潜在的リスクや技術的，人的，組織的な要因の相互作用を常に意識し，自らの業務に少しでも疑問を持ったらそのままにせず，必要ならば周囲を巻き込み改善を加えていく姿勢を育成，維持させるため，本事象を題材とした意識改善活動を実施する。
+
+＜組織要因対策③－２＞
+　外部の目による疑問や指摘を積極的に受け入ることは，自らの業務に潜む潜在リスクを発見する契機に成り得ることや潜在リスクに対する自らの感度を向上することができることから，オーバーサイト（社内独立，ラインオーバーサイト，電力間オーバーサイト）活動やＷＡＮＯ，ＪＡＮＳＩの外部レビューを活用する。
+
+※７：ＫＳＡはＫｎｏｗｌｅｄｇｅ　Ｓｋｉｌｌ　Ａｔｔｉｔｕｄｅの略であり，業務を遂行する上で必要となる知識，技能，態度を習得するために実施する教育・訓練項目をリスト化したもの。
+]]></SB_TAISAKU_TXT>
+	<SL_HANTEIKEKKA_UMU_CODE><![CDATA[2]]></SL_HANTEIKEKKA_UMU_CODE>
+	<SL_HANTEIKEKKA_UMU_CODE_NAME><![CDATA[なし]]></SL_HANTEIKEKKA_UMU_CODE_NAME>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2021/12/13 13:08:23]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　泊発電所の放射性廃棄物処理建屋（以下，「本建屋」という。）から放出している気体廃棄物の放出量について，国・北海道・岩宇４町村（※１）および後志管内１６市町村（※２）への報告値ならびに当社ホームページで公表している値に算定誤りがあった（詳細については添付資料参照）。
+
+　泊発電所から放出している気体廃棄物は各号機の排気筒ならびに本建屋排気口および焼却炉煙突から放出している。
+　放出に際しては，フィルタ等の処理装置を通して放射性物質を十分低減したうえで、放射線モニタや試料採取装置を用いて保安規定（※３）で定める放出管理目標値（※４）を十分に下回るよう管理しながら大気中に放出している。
+
+　本建屋は，放射線管理区域で発生した紙，布等の可燃物の焼却や防護服等の衣類の洗濯排水等の廃液処理等の作業を行う施設である。
+　本建屋からの放出経路は２つあり，本建屋排気口の放出量と焼却炉煙突の放出量との合計値で報告しているが，今回の誤りは，焼却炉煙突の放出量を１９８８年１０月の泊発電所１号機の試運転開始時から誤って算定したものである。
+　焼却炉煙突から試料を採取する際には，配管等の腐食防止の観点から放射性物質を含まない空気で希釈しているが，報告値を算定する際にこの希釈効果を補正していなかった。
+　試料を空気で半分程度に希釈していることから，過去に遡って暫定的に希釈効果を補正して本建屋の放出量を算定し，発電所全体の放出量を確認したところ，いずれの項目も，周辺公衆への影響がないように定めた放出管理目標値の概ね数万～数百万分の一程度と，十分に下回っている。
+
+　今後，算定誤りを発生させたことおよびその誤りが長期間継続していたこと等について，原因究明・再発防止対策を速やかに取りまとめる。
+
+※１：泊村，共和町，岩内町，神恵内村
+※２：小樽市，島牧村，寿都町，黒松内町，蘭越町，ニセコ町，真狩村，留寿都村，喜茂別町，京極町，倶知安町，積丹町，古平町，仁木町，余市町，赤井川村
+※３：「核原料物質，核燃料物質及び原子炉の規制に関する法律」に基づき，泊発電所原子炉施設の運転に関し，保安のために遵守すべき事項を事業者が定め，原子力規制委員会が認可したもの。
+※４：国が定める「発電用軽水型原子炉施設周辺の線量目標値に関する指針」により，周辺公衆が受ける線量を低く保つための目標値（線量目標値）として，年間０．０５ミリシーベルトと定められており，この値を十分下回るよう定めた年間放出量の管理値のこと。
+　　　保安規定では１，２，３号機の排気筒に対して設定されているが泊発電所では発電所合計値に対しても管理している。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-北海道-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[【原　因】（２０２０年２月１２日発表）
+１．設計時の原因
+（１）放射性廃棄物管理部門は，放射線管理システム（※５）の設計時に系統構成などの放出量の算定に用いる前提条件を確認していなかったため，国の指針（※６）に定める計算式をそのまま適用した。
+（２）設備設計部門が，焼却炉排ガスから試料を採取する系統に乾燥空気を送り込む設備の設計方針書に放出量の算定を行う際に希釈による補正が必要であることを記載しなかったため，放射性廃棄物管理部門は希釈による補正の必要性を認識できなかった。
+
+２．建設時の原因
+（１）放出量の算定に関する社内規程類の策定において，放射性廃棄物管理部門は，系統構成などの放出量の算定に用いる前提条件を確認しなかったため，国の指針（※６）に定める計算式をそのまま適用した。
+（２）社内規程類に設備設計部門および工事部門から放射性廃棄物管理部門に対し，設備に関する情報を引継ぐ仕組み（ルール）がなかった。
+
+３．建設時および運用開始時の原因
+　　放射性廃棄物管理部門は，放出量の算定方法の妥当性に関して設備の系統構成まで踏み込んで確認するなど問いかける姿勢が足りなかった。
+
+４．運用開始後の原因
+　　放射性廃棄物管理部門は，放出量の算定方法が系統構成など実際の設備と整合しているかという観点で社内規程類を再確認できていなかった。
+
+５．設計時建設時および運用開始後の原因
+　　放射性廃棄物管理部門は，自らの担務である放射能測定や放出量の算定に特化した教育を実施していたために関連する設備設計の情報を確認する意識が不足していた。
+
+※５：個人被ばく管理や施設内・環境中の放射線量などの収集，集計，記録作成などを行う電子計算機
+※６：「発電用軽水型原子炉施設における放出放射性物質の測定に関する指針」
+
+【根本原因分析】（２０２０年９月２日発表）
+
+＜問題点①＞［原子力設計課　設備担当および課長］
+　原子力設計課の設備担当および課長は，希釈ライン設置の設計方針書において，「空気混合ラインを設置すること」および「被測定ガスを希釈（２倍）しているものの，指針で要求されている測定限界下限濃度についても満足できること」について記載したが，「放射能量の評価において希釈を考慮した補正が必要になる」という運用管理に関する事項について記載しなかった。
+
+＜問題点②＞［原子力安全課　放射線管理システム担当者］
+　原子力設計課にて焼却炉排気ガスサンプル系統に希釈ラインを設置することについて検討･決定した後，放射線管理システム担当者が希釈ライン設置を認識した際，放射線管理システム担当者は放射線管理システムの仕様変更（希釈ライン設置に伴う補正係数の設定）をしなかった。
+
+＜問題点③＞［安全管理課　放射線管理システム担当者］　
+　放射線管理システム担当者は，放射線管理システムが必要な機能を発揮できているか確認するための性能確認試験において，焼却炉排気ガスサンプル系統への希釈の効果が考慮されていないことに気がつかなかった。
+
+＜問題点④＞［安全管理課　計算シート作成担当者］
+　安全管理課計算シート作成担当者は，放射能量の評価を行うために必要な計算式等を纏めた「計算シート」を作成する際，最新の焼却炉排ガスモニタリング設備に関する系統図を確認しなかった。
+
+＜問題点⑤＞［安全管理課　副長］
+　安全管理課副長は，放射能量の評価を行うために必要な計算式等を纏めた「計算シート」の審査の際，焼却炉排ガスの放出放射能量を算出する計算式について妥当性確認を行わなかった。
+
+＜問題点⑥＞［安全管理課　細則作成担当者］
+　安全管理課細則作成担当は，気体廃棄物の試料採取，測定に関する詳細な手順，測定記録の作成に関する事項を定める「泊発電所所内放射線等測定細則」および放射性廃棄物中の放射能量等の集計方法について定めた「泊発電所放射性廃棄物集計細則」を作成する際，「計算シート」の計算式が誤っていることに気付かずに細則に取り込んだ。
+
+＜問題点⑦＞［安全管理課　副長］
+　安全管理課副長は，「泊発電所所内放射線等測定細則」および「泊発電所放射性廃棄物集計細則」制定時の審査の際，焼却炉排ガスの放出放射能量を算出する計算式について妥当性確認を行わなかった。
+
+＜問題点⑧＞［安全管理課］
+　安全管理課は，安全管理課員に対する放射能量の評価に関する教育において，試料採取装置より上流の系統構成から把握する必要があるという指導をしていなかった。
+
+＜問題点⑨＞［安全管理課］
+　安全管理課は，安全管理課員に対する放射能量の評価に関する教育において，試料採取装置より上流の系統構成について教えなかった。
+
+＜問題点⑩＞［安全管理課　課員・副長］
+　安全管理課は，「泊発電所所内放射線等測定細則」および「泊発電所放射性廃棄物集計細則」改正時のレビューにおいて，放射能量の計算式が焼却炉煙突排気ガスの放射能量を測定するという評価の目的に照らして適当であるか，問題がないか，という観点でレビューを実施しなかった。
+
+【直接要因】
+　抽出された問題点①～⑩に対する直接要因を検討した結果について以下に示す。
+
+＜直接要因①＞［規程類］
+　泊発電所１，２号機設計・建設当時の「設計管理要領」における設計時の検討範囲が，設備設計に係わる事項のみとなっており，設備を用いた運用管理が適用範囲外であった。
+
+＜直接要因②＞［原子力安全課　原子力設計課］
+　希釈ライン設置に関して，放出放射能量を評価するという業務全体に対して原子力設計課と原子力安全課のそれぞれが確認・検討すべき事項に関する責任と権限が不明瞭であり，関係課間のインターフェースが不十分であった。
+
+＜直接要因③＞［規程類］
+　泊発電所１，２号機設計・建設当時の「設計管理要領」における設計管理項目に設計の妥当性確認段階で検討すべき事項が定められていなかった。
+
+＜直接要因④／⑧／⑨＞［安全管理課］
+　排ガスの放射能量を評価するという目的を踏まえて一連の業務プロセスを把握するために必要な教育項目が定められていなかった。
+
+＜直接要因⑤／⑦＞
+　要領等の社内文書作成時の審査に関して社内規程に審査の視点が記載されていたものの，記載内容が具体的ではなく分かりづらい記載となっていた。
+
+＜直接要因⑥＞
+　要領等の社内文書作成に関して社内規程に作成時の視点が記載されていたものの，記載内容が具体的ではなく分かりづらい記載となっていた。
+
+＜直接要因⑩＞
+　レビューの観点に関する社内規程の記載内容が十分でなく分かり難かった。
+
+【組織要因】
+　直接要因の分析および背後要因分析図より，組織要因を検討した結果について以下に示す。
+
+＜組織要因①＞
+　各主管箇所において，個々の業務プロセスが達成すべき業務目的に対して適切なものとなっているかどうかを深く意識し，確認するための仕組みが不足していた。
+
+＜組織要因②＞
+　教育において，業務遂行に必要な力量を明確にするとともに，その力量を習得するための具体的な教育内容を体系立てて設定し，教育する仕組みが不十分だった。
+
+＜組織要因③＞
+　他課所掌の設備や業務を含めて自らの業務に関連するプロセスの全体像を把握する姿勢，業務の本来の目的を追及する姿勢および現状のマニュアルや業務が万全とは限らないことなどの潜在的リスクを常に意識し，自らの業務に少しでも疑問を持ったらそのままにせず，必要ならば周囲を巻き込み改善を加えていく姿勢が不足していた。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[泊発電所放射性廃棄物処理建屋から放出している気体廃棄物の放出量の報告値誤り]]></TITLE_NAME>
+	<S_UNTEN_MODE><![CDATA[定検中（モード外）]]></S_UNTEN_MODE>
+	<IHAN_SHOSAI_TXT><![CDATA[【令和元年度（第４回）保安検査結果】（２０２０年５月１３日発表）
+
+　２０２０年５月１３日に開催された原子力規制委員会において，令和年度（第４回）保安検査（※８）結果が以下のように報告された。　
+　保安規定第１００条には，本建屋焼却炉煙突から放出する放射性気体廃棄物（よう素１３１濃度，粒子状物質濃度）を１週間に１回の頻度で測定することを定めている。
+当社は，この規定に基づき測定を実施していたが，放出量の算定にあたり１９８８年１０月から放射性物質を含まない空気での希釈効果を補正しておらず適切な評価が行われていなかった。
+保安検査での総合評価では，本建屋焼却炉煙突からの放出放射能量について保守的な補正係数で評価しても泊発電所全体の放出管理目標値に影響を及ぼすものではないこと，更に，異常な放出がないことをじんあいモニタ・排気ガスモニタにおいて連続監視し，警報発報の事例もないことから，原子力安全に及ぼした影響は軽微であり「保安規定違反（監視）」と判断された。
+
+※８：２０２０年４月以降は「原子力規制検査」として行われている。
+
+【通報連絡及び公表基準　月次連絡（更新）（令和２年５月分】（２０２０年９月７日公表）
+　本件に関する原因と再発防止対策を踏まえ，より確実に再発防止を図る観点で根本原因分析を実施し，根本原因分析に基づく再発防止対策を策定した。
+]]></IHAN_SHOSAI_TXT>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/12/27 14:32:53]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[泊]]></PLANT_RYAKU_NAME>
+		<SORT_NO>1</SORT_NO>
+		<PLANT_CODE><![CDATA[hkdto]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[泊発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>13064</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[なし]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[998]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[放射性廃棄物管理不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[放射性廃棄物管理業務に関する同上の問題]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[管理不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[140]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<BUNRUI_TEIGI><![CDATA[（注）設計・製作業務、保守・施工業務、運転・操作業務に関する管理不良は、各々の不良に含める。]]></BUNRUI_TEIGI>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>13064</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[98]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[なし]]></SETSUBI_NAME>
+		<SORT_NO>17</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[北海道電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[北海道]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[北海道電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[hkd]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>10</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

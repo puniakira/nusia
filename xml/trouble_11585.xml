@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[２．点検調査結果
+2-1.調査結果
+（１）漏えい箇所調査結果
+差圧スイッチ（Ａ）からの漏えい箇所を特定するため，差圧スイッチ（Ａ）導入口より窒素ガスにて加圧し，発泡材を吹き付け確認した結果，差圧スイッチ（Ａ）内部の低圧側（Ｌ側）ブルドン管に漏えいがあることが認められた。
+（２）点検履歴の調査結果
+ＥＨＣラインフィルタ差圧スイッチの点検履歴を調査した結果，差圧スイッチ（Ａ）／（Ｂ）は今定検（第10 回）時にベローズ式（旧型式）からブルドン管式（新型式）に交換していた。差圧スイッチ（Ａ）／（Ｂ）交換後の耐圧漏えい試験において窒素ガスにて加圧（15MPa）し15 分間保持しているが，このとき異常は認められなかった。
+また，差圧スイッチ（Ａ）は平成24 年8 月24 日に使用状態としてから事象発生まで3 週間が経過していた。一方，差圧スイッチ（Ｂ）（N32-DPS-001B）は平成24 年7 月30 日に使用状態としてから1 週間程度経過していたが，外観点検上異常は認められなかった。
+なお，差圧スイッチ（Ａ）／（Ｂ）の型式変更に伴って設計変更管理は行っていたものの，高圧制御油圧の脈動を緩和するダンプナ等が設置されていないことが確認された。
+2-2．工場での調査結果
+差圧スイッチ（Ａ）から漏えいに至った原因を究明するため，要因分析表に基づき点検調査を実施した結果，以下のことが確認された。
+（１）仕様確認
+型式，レンジ等，製作時に誤りがないか記録にて確認した結果，仕様のとおり製作されており，問題は認められなかった。
+（２）内部確認
+内部構成品に損傷，汚れ，締結ビス等のゆるみ，脱落がないか確認した結果，異常は認められなかった。また，ブルドン管に伸び，変形，傷，腐食痕がないか確認した結果，異常は認められなかった。
+なお，マイクロスイッチプランジャとプランジャ接触部分の確認した結果，摩耗粉と思われる付着物，微小な摩耗が確認された。
+（３）漏えい確認
+空気にて高圧側（Ｈ側）／低圧側（Ｌ側）ブルドン管を加圧し，発砲材により漏えい箇所を確認した結果，Ｌ側ブルドン管の先端付近から気泡の発生が認められた。またブルドン管をケースから取り外し，Ｌ側ブルドン管の漏えい箇所を確認した結果，管先端溶接部先端から約17mm 離れた箇所で約10mm のき裂が認められた。
+（４）ブルドン管断面確認
+ブルドン管き裂部分をカットし，破断面をＳＥＭ（走査型電子顕微鏡）にて確認した結果，破断面には疲労割れ特有のストライエーション模様（縞模様）が認められた。
+2-3.破面等詳細調査結果
+き裂が生じたＬ側ブルドン管のサンプルについて，破面マクロ観察，破面および配管内面ミクロ観察，配管内面ＳＥＭ観察，成分分析，硬さ測定を実施した結果，以下のことが確認された。
+（１）破面マクロ観察
+破面は巨視的には平滑であり，き裂進展方向を示唆する筋状模様やビーチマークといった明確な特徴は認められなかった。一方，管内面近傍については，光の反射具合が他の箇所と明確に異なる箇所（光沢部）が認められた。
+（２）破面および配管内面ミクロ観察
+光沢部近傍には，破面が潰された様相と，無特徴に平滑な様相，また多数の縞状模様が混在している状況が認められた。
+（３）配管内面ＳＥＭ観察
+配管内面は，ステンレス管の酸洗時に発生したと考えられる粒界腐食が認められた。内面に過渡な粒界腐食が発生した場合，疲労破壊等の起点になる可能性も考えられることから，破損したブルドン管および，同等の別サンプルで断面観察を行い，粒界腐食深さの評価を行った。その結果，粒界腐食の最大深さは10μm 以下であり，他のブルドン管と比較して，疲労き裂発生を大幅に加速し得るものではなかった。
+（４）成分分析
+SUS316 のようなオーステナイト系ステンレス鋼においても，表面近傍に存在する介在物を起点として疲労き裂が発生する場合があることから，光沢部近傍でＥＤＸ（エネルギー分散型Ｘ線分析）による成分分析を行い，特異的な元素が検出されるか確認した結果，SUS316 の成分元素と異なる元素は認められなかった。
+（５）ビッカース硬さ測定
+き裂が発生したブルドン管，及び同等の別サンプル断面において，ビッカース硬さ測定を実施した結果，き裂発生部である断面長軸端内面の硬さはそれぞれでＨv345 およびＨv366 であり，破損サンプルの硬化度合いに特異性は認められなかった。
+なお，ビッカース硬さと機械的特性の関係よりビッカース硬さＨv350 と同等の冷間加工を受けた材料の耐力および引張り強さはそれぞれ1000MPa，1100MPa 程度となり，ミルシート値（285MPa，590MPa）と比較すると，顕著な加工硬化が生じていることが認められた。
+2-4.応力評価
+（１）作用応力の評価
+現場にて当該差圧スイッチ導入配管内圧力及び当該ブルドン管の振動圧力を測定した結果，当該ブルドン管内部にはＥＨＣ高圧油ポンプにより最大12.4MPa，最小11.2MPa，周波数140Hz 程度の圧力脈動が作用していたことが確認された。
+本測定結果と破面の形状寸法よりブルドン管への作用応力を算出した結果，作用応力は最大602MPa，最小544MPa，応力振幅は58MPa と評価された。
+（２）疲労の評価
+一般的に，材料の疲労限度σw と引張り強さσB の間には概ね直線関係があり曲げ応力による疲労の場合にはσw/σB＝0.35～0.64 となる。
+2-3（５）のビッカース硬さから推定した引張り強さ（σＢ）は1100MPa 程度であることから，き裂発生箇所近傍の局所的な疲労限度σw は概ね385MPa～704MPa 程度と評価された。
+さらに，ブルドン管内の圧力の脈動により繰返し応力が作用する場合には，平均応力が存在する場合として疲労限度が評価される。修正Goodman 線図を用いて評価すると，疲労限度となる応力振幅（σａ）は184～337MPa 程度と評価された。
+上記より，実測された圧力脈動による応力振幅の評価値58MPa は，疲労限度の推定値184～337MPa に比較して小さいが，ブルドン管内面の加工時のしわや，粒界腐食に起因する応力集中部が存在すれば，特異的な材料特性や初期欠陥がない場合にも，疲労き裂が発生・進展する可能性は否定できない。
+2-5.メーカーによる聞き取り調査結果
+ブルドン管を使用する際の脈動環境について計器メーカーに聞き取りを行った結果，脈動圧力及び振動等の設置環境は，その疲労度合いに大きな影響を及ぼす因子の１つであり，製造メーカによる各種試験を実施したデータの結果に当てはめた場合，今回き裂が発生したブルドン管は，圧力振幅8%F.S（±4%F.S），繰り返し回数は3 週間で約26×1000 万回（21(日)×24(h)×3600(s)×142.9(Hz)）と計算され，試験データでは，圧力振幅±4%F.S の場合，ブルドン管の使用限界回数は30×1000 万回であり，若干の差異はあるものの，ほぼ一致した結果となった。
+以上より，今回確認された現場の脈動及び振動であっても，ブルドン管の疲労限度を超える可能性は否定できないとの見解であった。
+
+３．計器型式変更に伴う設計変更管理
+事象発生後の調査において，差圧スイッチ（Ａ）／（Ｂ）に圧力脈動を緩和するダンプナ等が設置されていないことが確認された。
+差圧スイッチ（Ａ）／（Ｂ）をベローズ式（旧型式）からブルドン管式（新型式）に変更するにあたっては，使用実績，環境等を考慮した計器を選定することとしており，振動に対する影響についても評価は実施していたが，高圧油ポンプより発生する圧力脈動に対しては評価が必要であることに気づかず，圧力脈動を緩和するダンプナ等を設置していないことが確認された。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11585</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[104]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[冷温停止]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[S]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価対象外]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2014/11/26 10:49:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>41684</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2012/09/18 16:10:01]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201209162330]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[当該差圧スイッチは新品と交換する。
+また，当該差圧スイッチブルドン管に作用する脈動を緩和するため，ダンプナ等を設置すると共に，今後，計器を交換する場合には，系統の圧力脈動を考慮した計器選定（ダンプナ等の設置）が行えるよう，当社設計標準仕様に当該内容を反映する。
+なお，圧力計，差圧計の型式がブルドン管タイプのものについて，圧力脈動の影響を考慮していない箇所が他にないか調査した結果，当該差圧スイッチ以外はダンプナ等の脈動緩和装置が設置されていたことを確認した。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/11/26 10:49:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の４号機において，平成24 年9 月16 日23 時30 分頃，パトロール中の当直員が，ＥＨＣ室内で油漏えいを発見した。また，ＥＨＣラインフィルタ（Ａ）差圧スイッチ（N32-DPS-001A）（以下，差圧スイッチ（Ａ）という。）の低圧側及び高圧側導入口の繋ぎ部から，主タービン制御に使用する高圧制御油が外部に漏えいしていることを確認した。
+直ちに当直員は，高圧油ポンプを停止するとともに差圧スイッチ（Ａ）の計器元弁の隔離操作を行い，漏えいを停止した。また，平成24 年9 月17 日5 時34分頃，計測制御Ｇにて当該計器を取り外し，閉止プラグにより漏えい防止措置を施した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2012-東京-M032]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[以上の調査結果から，原因は以下のとおり推定した。
+・差圧スイッチ（Ａ）の型式変更にあたり，圧力脈動に対する影響評価が行われず，圧力脈動を緩和するダンプナ等を設置しなかった。
+・この結果，周波数が高い圧力脈動が差圧スイッチ（Ａ）ブルドン管に作用した。
+・また，定常運転中の内圧（12.4MPa）がブルドン管の許容圧力に比較して高く，平均応力として作用する定常時の作用応力が高かったことから，1.2MPa 程度の圧力脈動であっても，2-4，2-5 の結果から疲労き裂が短期間のうちに発生・進展し，ブルドン管より高圧制御油が漏えいしたと推定される。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所４号機　タービン建屋（管理区域）における油漏れについて]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[事象発生時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/09/19 10:50:30]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[404]]></KIKI_CODE>
+			<TROUBLE_ID>11585</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[ブルドン管]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11585</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[404]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[圧力検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[タービン制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[151]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11585</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[2010]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[疲労割れ]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[高サイクル熱、高サイクル振動、熱膨張、腐食、フレッティングによる疲労割れ]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[2010]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[時間依存性のある劣化]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[200]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[2]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11585</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11585</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11585</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[12]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[タービン設備]]></SETSUBI_NAME>
+		<SORT_NO>12</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

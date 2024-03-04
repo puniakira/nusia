@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>2801</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/03/08 20:12:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3132</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/03/01 14:27:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502221550]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査中、平成１７年２月２２日１５時５０分頃、原子炉補助建屋地下１階にあるほう酸回収装置※1の試運転を実施していたところ、ほう酸回収装置コンデンサ※2（復水器：円筒形横置）のラプチャディスク※3が動作（設定値：約0.1MPa）し、コンデンサ内の水が飛散（約６ﾘｯﾄﾙ）した。このため、飛散した一部の水が同室内にいた作業員２名の作業服にかかった。
+　今回の試運転では、放射能を含まない水（１次系純水）を使用していたが、通常、同装置は放射能を含んだほう酸水を処理していることから、飛散した水の分析を実施した結果、放射能濃度は検出限界値未満であることを確認した。
+　また、水がかかった作業員２名についても、汚染や被ばくはなっかた。
+　試運転中の状況を確認した結果、コンデンサ内の水位が上昇したにもかかわらず、蒸りゅう液ポンプが起動しなかったことが判明した。このため、コンデンサ内が満水状態となり、ラプチャディスクが動作したものと推定した。
+　また、蒸りゅう液ポンプが起動しなかった原因について調査したところ、試運転開始前、電源盤の点検に伴い、同装置の電源供給が瞬時停電した際に、同装置の制御回路で同ポンプを起動させないインターロック信号が発信し、その状態が試運転開始時にも継続していたためであることが判明した。
+　なお、同装置は監視画面等によりインターロック信号発信の有無が確認できないことから、同信号が発信していることを考慮し起動前に同信号の解除操作が必要となるが、運転操作マニュアルには解除操作を行うことの記載がなかった。
+
+　対策として、当該ラプチャディスクを新しいものに取り替えるとともに、今後、　同装置を起動する際には、同ポンプを起動させないインターロック信号を解除する操作を行った上で起動することとし、信号を解除する操作を運転操作マニュアルに追記することとした。
+
+※ １ ほう酸回収装置：
+ ほう酸を含む１次冷却水を濃縮処理し、ほう酸溶液と蒸りゅう液に分離する装置。分離した液体のうち、ほう酸溶液はほう酸タンクへ、蒸りゅう液は１次系純水タンクへ回収して再使用している。
+※ ２ ほう酸回収装置コンデンサ：
+　ほう酸水を凝縮する工程において発生した蒸気を冷却し、水（蒸りゅう液）に戻す役割を担っている。コンデンサ内に溜った水は、蒸りゅう液ポンプにより排出する仕組みとなっている。
+※ ３ ラプチャディスク：
+機器（タンクや冷却器）の圧力が高くなった場合、機器を保護するために、ある設定以上の圧力になると圧力を逃がすために動作（瞬時に破れる）する薄い板。板の材質はテフロンやステンレス。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ほう酸回収装置のコンデンサのラプチャディスク動作について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/03/08 20:12:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

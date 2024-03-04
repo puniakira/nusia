@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11384</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2012/05/23 18:13:52]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2011/07/29 11:45:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20110311]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２３年３月１１日の地震・津波発生時に１２５Ｖ直流電源設備の地絡警報が発生した。このため、地絡警報が発生した負荷を確認した。地絡警報が発生した負荷は以下のとおりです。
+１．原子炉補機冷却水系／原子炉補機冷却海水系（Ｂ）制御回路
+２．非放射性ドレン移送系故障表示回路
+３．除塵装置制御回路
+４．放射性ドレン移送系サンプレベルスイッチ故障検出回路
+・上記負荷について、電気的に切り離しを行い、地絡警報は消灯したことから、プラントへの影響はありませんでした。
+・原子炉補機冷却水系／原子炉補機冷却海水系（Ｂ）制御回路の地絡は、電動弁が津波により水没したことが原因でした。
+・非放射性ドレン移送系故障表示回路の地絡は、サンプポンプ操作箱が津波により水没したことが原因でした。
+・除塵装置制御回路の地絡は、除塵装置制御盤が津波により水没したことが原因でした。
+・放射性ドレン移送系サンプレベルスイッチ故障検出回路の地絡は、故障検出回路の外観点検、絶縁抵抗測定を実施し、異常はなく、再現性もなかったため、一過性の事象と推定した。
+・原子炉補機冷却水系／原子炉補機冷却海水系（Ｂ）制御回路の地絡については、水没した電動弁の部品の取替えを行い、復旧した（平成２３年５月３０日）。
+・非放射性ドレン移送系故障表示の地絡については、水没したサンプポンプ操作箱の取替えを行い、復旧した（平成２４年１月２６日）。
+・除塵装置制御回路の地絡については、水没した制御盤の取替えを行い、復旧した（平成２４年２月７日）。
+・放射性ドレン系サンプレベルスイッチ故障検出回路の地絡については、故障検出回路の外観点検、絶縁抵抗測定にて異常がない事を確認し、復旧した（平成２４年３月１４日）。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東北-S073]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[【東日本大震災関連】１２５Ｖ直流主母線盤の地絡]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2012/05/23 18:13:52]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

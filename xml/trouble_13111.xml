@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>13111</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/05/15 17:36:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>89445</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2020/04/20 11:49:14]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20200413]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/05/15 17:36:44]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　玄海原子力発電所構内の３，４号機に係る屋外の土木関連作業において、大型クレーンにより吊荷（クレーン）の吊降ろし作業を実施していたところ、２０２０年４月１３日１６時過ぎ、吊りベルトが切れ、吊荷が落下した。
+　本事象による、作業員の負傷はない。
+　また、本事象による、発電所の施設及び玄海原子力発電所３，４号機の運転に影響はない。
+
+【原　因】
+・吊荷（25ｔクレーン）のアウトリガーの玉掛け部（角部）に当て物を使用していなかったため、吊りベルトが押し切られた。
+・大型クレーンの旋回停止時の慣性力により、一時的に４本の吊りベルトに均等な荷重がかからなくなり、特定の吊りベルトに想定より大きな荷重がかかった可能性がある。
+
+【再発防止対策】
+・吊りベルトで玉掛けする箇所の形状が「丸」以外の場合は、必ず当て物を使用するようルールの明確化を図る。
+・吊りベルトを使って４点４本吊りする場合は、均等な荷重がかからなくなる可能性を考慮し、原則として、３点３本吊りの条件で評価し、吊りベルトの選定を行うことで裕度を確保する。
+・クレーン作業に限らず、高所作業等の危険を伴う作業時における基本ルールの周知・徹底を図るとともに、各請負会社において教育を行う。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2020-九州-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[玄海原子力発電所構内におけるクレーン吊荷の落下]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2020/04/20 11:52:21]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[玄海]]></PLANT_RYAKU_NAME>
+		<SORT_NO>14</SORT_NO>
+		<PLANT_CODE><![CDATA[kyugk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[玄海発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

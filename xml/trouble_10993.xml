@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>10993</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/10/18 10:33:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>17895</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/06/14 14:24:35]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201006121815]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/10/18 10:33:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+　平成22年６月12日午後６時15分頃、定期検査で停止中の１号機において、原子炉ウェル内の除染作業を実施していた協力企業作業員が原子炉ウェル内床面にボルト（長さ約３cm）、ナット（直径約２cm）および座金（直径約２cm）が外れているのを発見し、回収した。
+　その後、当該ボルトなどを発見したすぐ近傍のカバー（原子炉ウェルに設置されているべローズを保護するカバー）の止め金を押さえているボルト、ナットおよび座金が外れており、寸法が一致することから、発見されたボルト、ナットおよび座金は当該箇所から外れたものであることを確認した。
+
+２．調査結果
+　調査の結果、以下のことがわかった。
+・協力企業作業員が、原子炉ウェル床面に敷いていた養生シートを取り外す作業をしていた際、養生シートの下に止め金のボルト、ナットおよび座金が外れて落ちていることを発見したこと。
+・原子炉ウェル床面に養生シートを取り付ける際には、止め金のボルト、ナットおよび座金は落ちていなかったこと。
+・原子炉ウェル床面に養生シートを敷いた後に、養生シートを固定する押さえ治具（ジャッキ）等の取り付け、取り外し作業を行っていたこと。
+・発見した止め金のボルトには接触痕が認められたこと。
+・ナットと止め金を固定するために２点の溶接付けがなされているが、発見したナットは２点の溶接付けが外れていたこと。
+
+３．推定原因
+　今回の定期検査において、原子炉ウェル床面に敷いた養生シートを固定する押さえ治具（ジャッキ）等の取り付け、取り外し作業を行った際、押さえ治具（ジャッキ）等が養生シートの下にあった止め金のボルトに接触し、その衝撃でナットと止め金の２点の溶接付けが外れたことで、止め金のボルト、ナットおよび座金一組が原子炉ウェル床面に落下したものと推定した。
+
+４．対策
+　以下の対策を行うこととした。
+・原子炉ウェル床面に養生シートを敷いた後、止め金のボルト等の位置について、養生シートに印を付けて明確にすることを作業要領書に明記する。
+・養生シートを固定する押さえ治具（ジャッキ）等の取り付け、取り外し作業の前後に、止め金のボルト等や周辺の機器の状態を確認するとともに、作業時に押さえ治具（ジャッキ）等が止め金のボルト等や周辺の機器に接触しないよう十分に注意することを作業要領書に明記する。
+・ナットと止め金の溶接部の長さを長くすることで固定を強化する。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-東京-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１号機における原子炉ウェル内のボルト、ナットおよび座金の発見・回収について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/06/15 14:12:22]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

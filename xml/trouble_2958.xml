@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>2958</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/07/15 10:43:13]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>15574</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/05/16 13:29:10]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200505131252]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/07/15 10:43:13]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[○事　象
+　5月13日12時52分頃、通常運転中の伊方2号機で、一次系弁の期間外点検において、点検が終了した弁の健全性等を確認するため、ほう酸濃縮液ポンプＡを純水にて循環運転したところ、当該ポンプの軸封水部から少量の水(約4リットル)が漏れていることを運転員が確認した。
+　このため、当該ポンプを停止し、漏えいは停止した。なお、漏れた水からは放射能は検出されず、環境への影響はなかった。 
+○原　因
+　その後、当該ポンプの軸封水部を分解点検した結果、 
+・シールリングを押さえつけて漏れないように密封するバネが縮んだままの状態で、シールリングが軸スリーブに固着していた 
+・軸スリーブの表面に肌荒れが確認された 
+ことから、原因は、軸スリーブ表面が肌荒れしていたため、当該ポンプ内を純水で満たした際、純水を入れる圧力（約0.8メガパスカル）で軸スリーブとシールリングの間にＯリングが噛み込んで軸スリーブとシールリングが固着した状態となった。その後、循環運転のためポンプを起動したことにより羽根車が回転し、その推進力によって主軸、軸スリーブとシールリングが一体となってポンプ入口方向に動いたため、シール部に隙間ができ、水が漏れたものと推定される。
+　また、軸スリーブ表面の肌荒れは、隙間部の腐食と推定される。  
+
+○対　策
+・当該ポンプの軸スリーブ表面の手入れを行うとともに、軸封水部を新品に取り替え、漏えいのないことを確認したうえで通常状態に復旧した。 
+・軸封水部を有するポンプのうち、当該ポンプと類似するポンプの分解点検に当たっては、軸スリーブ表面の状態を確認し、必要に応じて手入れを行うよう作業要領書に追加した。
+
+詳細は添付資料の報告書一式を参照]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-四国-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[ほう酸濃縮液ポンプからの水漏れ]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/05/16 14:29:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

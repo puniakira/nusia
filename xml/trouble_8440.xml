@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>8440</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/11/20 16:28:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>3588</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/09/25 20:41:29]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200609241445]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2006/11/20 16:28:30]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　２号機は定期検査のところ、平成18年9月24日、所内の各機器へ電力を供給する電源盤取替作業を実施していたところ、午後2時45分、「Ｂ系原子炉自動スクラム」等の警報が発生したが、原子炉の状態に同警報を発生させるような変化はなかったことから、午後3時1分、同警報を解除した。
+　なお、同時刻に非常用ガス処理系Ｂ系が自動起動したが、午後3時8分、同系統を停止した。
+
+　事象発生時、原子炉内の燃料は全数取り出されている状態であることから、安全上問題はなかった。
+　これによる外部への放射能の影響はなかった。
+
+　調査の結果、以下のことがわかった。
+・取替作業中の電源盤２Ｂから受電していた機器は、事象発生時、電源盤２Ａより仮設ケーブルにて受電していた。
+・電源盤２Ａから受電していた原子炉建屋内機器用電源盤の仮設ケーブル（以下、当該仮設ケーブル）は、３本を一束にして絶縁シートで養生していたが、そのうち２本において、本設ケーブルと当該仮設ケーブルとの接続部に施した絶縁処理部に短絡の跡が確認された。
+・協力企業作業員は、作業エリアが狭いため、仮設ケーブルの干渉する作業時にはケーブルを移動させており、警報発生時も当該仮設ケーブルを移動させていた。その際、短絡時に発生したと思われる音と火花らしきものを確認した。
+
+　本事象が発生した原因は、当該仮設ケーブルを繰り返し動かしたため、本設ケーブルと当該仮設ケーブルとの接続部において、２本のケーブルが接触して絶縁処理部が傷つき、瞬時に短絡が発生したためと推定した。
+　事象発生のメカニズムは、以下の通り推定した。
+・当該仮設ケーブルの短絡により電源盤２Ａに電圧低下が発生したため、電源盤２Ａからタービン建屋内機器用電源盤を経由して受電していた原子炉保護系Ｂ系電源盤の電圧が低下し、当該警報が発生した。
+・また、原子炉保護系Ｂ系電源盤の電圧が低下し、その影響で非常用ガス処理系Ｂ系が起動した。
+
+　対策として、仮設ケーブルの接続部に外からの力が加わる場合には、絶縁処理部を保護するための養生を行うこととし、当社マニュアルおよび施工要領書に反映する。また、本対策を関係者へ周知する。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-S041]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[定期検査中における警報の発生について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/09/26 11:56:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

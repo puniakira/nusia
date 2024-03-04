@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．トリチウムの混入状況に関する調査結果
+　純水系へのトリチウムの混入経路について調査した結果、以下のことが確認された。
+（１）トリチウム混入経路の調査
+ａ．平成18年７月31日に、前日の純水補給水量積算計を確認したところ、純水補給水量積算値が純水系から供給先への補給水量積算値に比べて少なく、翌8月1日には、7月31日における純水補給水量がマイナスの値となっており、純水補給水量積算計が逆回転していた。
+ｂ．他系統より純水系へ水が流入している可能性も考えられたため、純水系と復水系の境界弁の開閉状態を確認していたところ、平成18年8月5日に当該弁が全開であり、復水系の配管側より水の流れる音がしていたが、当該弁を全閉したところ、水の流れる音はなくなり、純水補給水量積算計の逆回転も停止した。
+ｃ．他号機を含め、純水系と復水系の境界弁についても開閉状態を確認したが、当該弁以外に、他系統から復水系の水が流入する可能性のないことを確認した。
+　以上の状況から、当該弁を経由して復水系の水が純水系へ流入していた可能性が考えられた。なお、当該弁の下流側（復水系側）には除染槽純水入口逆止弁（以下、「当該逆止弁」という）が設置されており、通常、復水系の圧力（約1.2MPa）は純水系の圧力（約1.0MPa）よりも高いことから、当該逆止弁が正常であれば閉止し、復水系から純水系には水が流入しないが、上記の事実関係をふまえると、当該逆止弁がシートパスしていた可能性が考えられた。
+
+（２）トリチウムの混入時期
+　平成18年７月29日については、純水補給水量は０リットル、純水系の供給先の給水量も０リットルであり整合すること、所内蒸気系も停止中で、純水を使用する作業も実施していなかったこと、平成18年７月30日は、純水補給水量に対し、純水供給先の補給水量の方が多く、純水補給水量積算計の指示が逆回転していたこと、また７月29日以前は、復水系からの水の流入の徴候が認められなかったことから、復水系からトリチウムを含む水が純水系へ流入し始めたのは平成18年7月30日からであり、当該弁を全閉した8月5日まで発生していたと推定された。
+
+２．原因調査結果
+２－１．当該弁に関する調査結果
+（１）当該弁の開閉操作を伴う作業等の調査
+　当該弁の開閉操作、または当該配管から純水を使用する作業について調査したところ、超音波洗浄作業(ストレーナ等の清掃作業時に実施する作業)および金属材除染作業の２件の作業が行われていた。これらの作業に従事した作業員への聞き取り調査を行った結果、以下の証言を得た。
+ａ．事象発生前の平成18年７月28日（金）に、超音波洗浄作業を行っていた作業員が当該弁を開操作していたが、作業終了後に全閉操作した。
+ｂ．同日、金属材除染作業を行っていた作業員は当該弁の操作は行っていない。
+ｃ．平成18年７月29日（土）、30日（日）は休日であり、両作業とも実施しておらず当該弁に関わる操作はなかった。
+ｄ．平成18年７月31日（月）は金属材除染作業のみが実施されており、当該弁の操作は行われていなかったが、当該弁の上流（純水系側）にある除染純水入口元弁（通常全開）が閉まっていることを目視にて確認したため、作業員は中央操作室の当直員に連絡後、全開操作を実施した。
+　聞き取り調査の結果からは、当該弁が全開となった原因について直接は確認できなかった。ただし、当該弁ではなく隣接する除染純水入口元弁が全閉（通常全開）であったことから、７月28日の超音波洗浄作業終了後に当該弁を全閉すべきところ、誤って除染純水入口元弁を閉めた可能性は否定できない。しかしながら、上記の作業以外に、当該弁の開閉操作を伴う作業や当該配管から純水を使用する作業は行われていなかったことから、超音波洗浄作業後に誤って除染純水入口元弁を全閉したため、当該弁が全開のままになったと推定された。
+
+（２）操作対象弁の誤りに関する要因分析
+　当該弁ではなく除染純水入口元弁を誤って操作した要因について調査を行った結果、作業管理面について以下の点に問題があったと考えられた。
+ａ．弁の操作について
+　安全上の境界となるもの、および境界になっている弁（以下、境界弁）については、放射性物質の閉じこめの観点から、協力企業による弁操作が禁止されている。当該弁については境界弁と考えられるため、当社当直員が操作する必要があったが、当社作業主管グループは、超音波洗浄作業は十分に実績があり、これまでも問題はなかったこと、４号機以外では境界弁の操作を伴わないことから、境界弁を操作するとの認識に至らなかったため、境界弁を協力企業が操作できる状況としてしまった。
+ｂ．タグ管理について
+　ストレーナ清掃作業に実施する超音波洗浄作業は作業内容が定型化されていること、ストレーナの目詰まり時に速やかに対応する観点から、「ストレーナ清掃作業管理の手引き」（以下、「当該手引き」という）に基づきタグ札を発行し管理を行っているが、当該手引きには、超音波洗浄作業における弁操作の内容については記載されておらず、タグ札が発行されていなかった。
+　超音波洗浄作業は、設備から取り外したストレーナを洗浄する作業であり、設備の運転状態に影響せず、従来と同じ作業方法でこれまでも問題はなかったことから、当該手引きに超音波洗浄作業における弁操作の内容について記載がなく、記載内容の見直しに至らなかったため、タグ札による管理が行われていなかった。
+ｃ．作業手順の確認について
+　超音波洗浄作業において、作業員が使用したチェックシートには、当該弁の名称、弁番号については記載されていなかった。
+　これは、当社作業主管グループは協力企業より提出された施工要領書（チェックシートを含む）を確認していたが、超音波洗浄作業は設備から取り外したストレーナを洗浄する作業であり、設備の運転に影響するものではないこと、また従来と同じ作業方法でこれまでも問題はなく、十分な実績を有していたため、チェックシート等の確認が十分でなかった。
+
+２－２．当該逆止弁に関する調査結果
+（１）当該逆止弁の分解点検
+　当該逆止弁の分解点検を行った結果、弁座(シート) 内周部に微量の水垢の付着があり、また弁座（シート）（弁箱側）の当たりが外周部のみに確認され、当たり具合が不安定であった。
+（２）当該逆止弁動作の可能性の調査
+　毎日定例的に行われている主復水器の逆洗操作時に復水系から主復水器側へ水が補給される際、復水系の圧力が一時的に低下し、純水系の圧力よりも低くなることから、当該逆止弁は開動作する可能性はあると考えられた。
+　以上の調査結果から、主復水器逆洗時に復水系の圧力が低下し、一時的に当該逆止弁が開閉した際、シート面の当たり具合が変わり、シートパスが発生した可能性があると考えられた。
+
+２－３．調査結果の考察
+　調査結果から、平成18年７月28日の超音波洗浄作業において作業員は誤って除染純水入口元弁を閉めたものと推定されたが、７月30日の主復水器逆洗時に当該逆止弁が開閉した際、当たり具合が変わり、シートパスが発生し、復水系から純水系への流入が始まったと推定されることから、除染純水入口元弁は完全に閉まった状態ではなく、微開状態であったと推定した。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[172]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8401</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[06]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[机上検討・記録評価]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/04/10 15:21:05]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3570</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2006/08/23 10:17:53]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200608111450]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）本事象において復水系から純水系への流入経路となった当該配管は、洗浄作業時に水を使用する際、純水系、復水系いずれの系統からも供給できるように復水系と純水系を配管で接続したものであるが、洗浄作業にあたっては純水系の水のみを使用する運用としても支障がないことから、当該配管については分離することとし、また、配管を分離することから当該逆止弁は撤去する。
+
+（２）超音波洗浄作業において弁操作を確実に行うため、ストレーナ清掃作業の手引きに、超音波洗浄作業における弁の操作内容について明記し、弁操作にあたってはタグ管理する旨を明記する。また、超音波洗浄作業で作業員が使用するチェックシートに、操作する弁の名称および番号を明記する。
+
+（３）本事象の概要について、超音波洗浄作業に関わる当社作業主管グループおよび協力企業に対し事例検討会を行い周知する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/04/10 15:21:05]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象発生時の状況
+　福島第一原子力発電所４号機は、定格電気出力（784ＭＷe）にて運転中のところ、平成18年7月31日に、前日の純水補給水系（以下、「純水系」という）の使用量とその供給先の使用量に不整合が確認されたことから、原因を調査していたところ、平成18年8月5日に、復水補給水系（以下、「復水系」という）と純水系の境界となる除染純水入口弁（以下、「当該弁」という）が全開（通常は全閉）となっていることを確認し、直ちに当該弁を全閉状態とした。
+　このため、復水系の水が純水系へ流入した可能性が考えられたことから、純水系の水を採取し放射能濃度を測定したところ、平成18年8月6日、通常、検出限界値未満(以下、「ＮＤ」という)であるトリチウムが海水中に含まれる濃度(約5×10^-4Bq/cm^3)よりも高い値（最大で約1.3×10^2Bq/cm^3）で検出された。なお、γ線放出核種はＮＤであった。
+　また、純水系の水の排出先である非放射性廃液処理系(以下、「ストームドレン系」という)および純水系の水を使用している所内蒸気系等についてもトリチウムが検出された。
+　このため、所内蒸気系の大気放出操作の禁止やストームドレン系の水を液体廃棄物処理系にて処理する等の処置を講じた。
+　その後、詳細に評価した結果、平成18年8月11日、総量約4.7×10^10Bqのトリチウムが管理区域外に放出されたものと評価された。
+　このうち、大気への気体状のトリチウムの放出は所内蒸気系から廃棄物処理施設を経由せず、管理されない状態で放出されたことから、同日14時50分に本事象は「実用発電用原子炉の設置、運転等に関する規則」に基づく報告対象に該当するものと判断した。
+
+２．事象発生後の対応状況
+　本事象により一般公衆が受ける放射線量は2.8×10-7mSv/年であり、法令の線量限度(１mSv/年)の約350万分の１であった。
+　そのうち、所内蒸気系からの気体状のトリチウムの大気放出による放射線量は2.8×10-7mSv/年で、年間のトリチウム放出量に対して約20分の1（平成17年度実績と比較）であり、ストームドレン系等からの液体状のトリチウムの放水口への放出による放射線量は7.4×10-10mSv/年で、保安規定に定める年間のトリチウム放出管理の基準値に対して約１万分の1であった。
+　また、ストームドレン系等から放水口へ放出したトリチウム濃度は、放出時に主復水器を冷却した海水で希釈され、約1.7×10-3Bq/cm３になるため、法令で定める濃度限度(３ヶ月平均60Bq/cm3)に対して十分低い値であった。
+　以上のことから、周辺環境への放射能の影響はなかった。
+　なお、トリチウムが混入した純水系および供給先の系統については、水の入れ替えおよびフラッシングを行うとともに、トリチウムを含む水については液体廃棄物処理系にて処理を行うこととした。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2006-東京-T022]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．推定原因
+　トリチウムを含む復水系の水が純水系へ混入し、純水系等から主排気筒および液体廃棄物処理系を経由せずに管理区域外へ放出した原因は以下のとおりと推定された。
+
+（１）管理区域外へのトリチウムの放出について
+ａ．平成18年7月28日の超音波洗浄作業において、作業後に当該弁を全閉にすべきところ、誤って除染純水入口元弁を閉操作したため、当該弁が「開」の状態のままとなった。また、除染純水入口元弁は「閉」操作したものの、「微開」状態であった。
+
+ｂ．平成18年7月30日の主復水器逆洗操作時に当該逆止弁が開閉した際、当該逆止弁にシートパスが発生し、復水系から純水系への流入が始まった。
+
+ｃ．平成18年７月31日に金属材除染作業を実施するにあたり、通常開となっている除染純水入口元弁が閉状態となっていたことから、「開」操作をしたため、復水系から純水系への流入がさらに増加した。
+
+ｄ．純水系から所内蒸気系にトリチウムを含んだ純水が供給され、所内蒸気系の大気放出ライン等から大気中へトリチウムを含んだ蒸気が放出された。
+
+ｅ．各号機の純水系等からストームドレン系にトリチウムを含んだ水が排水されており、ストームドレン系から放水口へ排水された。また、５号機において、主復水器水室の洗浄に使用した純水が放水口へ放出された。
+
+（２）操作対象弁の誤りについて
+ａ．超音波洗浄作業において操作する弁を誤った原因として、当該弁の操作にあたりタグ管理が行われていなかったこと、チェックシートに弁名称、弁番号が明記されていなかったことに起因するものと推定された。
+
+ｂ．超音波洗浄作業は、設備から取り外したストレーナを洗浄する作業であり、設備の運転状態に影響しないこと、また従来と同じ作業方法でこれまでも問題はなく十分実績を有していたことから、当該手引きには超音波洗浄作業に必要な処置について記載がなかったため、タグ管理が行われなかった。
+
+ｃ．作業員が使用したチェックシートについても、超音波洗浄作業は設備から取り外したストレーナを洗浄する作業であり、設備の運転状態に影響するものではないこと、また従来と同じ作業方法でこれまでも問題はなく、十分な実績を有していたことから、当社作業主管グループの確認が不十分となり、弁名称等が明記されないチェックシートが使用された。
+
+（３）当該逆止弁のシートパスについて
+　当該逆止弁のシート面の当たりは全面ではなく外周部のみであったため、当たり具合が不安定な状態であったこと、また主復水器逆洗時に復水系の圧力が純水系よりも低くなるため、一時的に当該逆止弁が開動作する状態になることから、当該逆止弁は主復水器逆洗時に開閉した際、当たり具合が変わり、シートパスが発生したものと推定された。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[所内蒸気系から管理区域外へのトリチウムの放出について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[管理区域外へ放出されたと判断した時刻]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>784</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/08/23 16:58:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[690]]></KIKI_CODE>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[690]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[煙突]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[724]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[724]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[排気塔・煙突]]></KIKI_NAME>
+					<SORT_NO>41</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[所内蒸気系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[172]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>2</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>3</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8401</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<HOKOKU_KONKYO_INPUT><![CDATA[9]]></HOKOKU_KONKYO_INPUT>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[15]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[発電所補助設備]]></SETSUBI_NAME>
+		<SORT_NO>15</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

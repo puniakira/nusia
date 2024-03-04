@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．現地調査
+（１）外観目視点検結果、曲げ管の背側中心部近傍表面に約７ｍｍの直線状のき裂が認められ、その方向は管軸方向に対して約４５°の傾きで曲げ管背側からみて中心線より約８ｍｍ左へずれた位置であった。なお、Ｃ／Ｖ内点検の結果、当該部以外での漏えいは認められなかった。
+（２）振動測定のため、加速度測定及びタッピング試験を行った結果、異常は認められなかった。
+（３）スミヤ測定結果、当該箇所以外の曲げ管部での塩化物付着量に異常は認められなかった。
+（４）超音波探傷試験（ＵＴ）結果、当該箇所以外の曲げ管部については、有意な指示は認められなかった。
+（５）放射線透過試験（ＲＴ）結果、当該箇所において、フィルム上で約１０ｍｍの斜め方向の欠陥が認められた。
+（６）サポート部の健全性および配管移動量調査結果、サポートの変形及び配管の異常な拘束はなかった。
+（７）配管切断後、ファイバースコープによる配管内面調査を実施した結果、配管上部は黒色を呈し、配管曲がり部に茶褐色の線状模様が認められ、さらにその下部は茶色を呈していることが観察された。
+２．ホットラボ調査結果
+（１）外観観察結果、現地での外観調査結果と同様、漏えい部を除き他にき裂等は認められなかった。
+　配管内面を観察した結果、外面と同様の位置に管軸方向に対して時計方向に約４５°傾斜した長さ約２４ｍｍ、その管軸対称位置に反時計方向に約４５°傾斜した長さ約１４．５ｍｍのき裂及び、その近傍に微少なき裂数本が認められた。また、曲げ管の背側内面に曲げ加工時の加工治具跡が確認された。なお、現地のファイバースコープ調査により確認された茶褐色の線状の模様の幅は、約８ｍｍであった。
+（２）寸法測定結果、当該曲げ部の扁平率は、最大約４％であり問題となるものはなかった。
+（３）スミヤ測定結果、当該箇所の配管外面の塩化物付着量に異常はなかった。
+（４）当該箇所のマクロ破面観察（ＳＥＭ）の結果、破面は平坦であり疲労破面特有の半楕円状のビーチマークが３本認められた。ビーチマークは、内面側から外面側に拡がっていた。また、電子顕微鏡による観察結果、破面にはストライエーション状模様が認められた。
+　き裂の起点は、管内面の曲げ加工時の加工治具跡の領域内であることが確認された。
+（５）付着物分析結果（ＥＰＭＡ、Ｘ線回折）、配管内面の黒色の付着物は、茶褐色の付着物よりも、Ｆｅ、Ｎｉ、Ｏの含有率が高く、Ｃｒ、Ｍｎ、Ｍｏについては含有率が低い傾向が見られた。さらに、当該スケールはスピネル化合物（母材の腐食生成物または炉水中のクラッド）であると同定された。なお、内面の色の変化から、茶褐色部において熱成層の境界面が生成したと推定された。
+（６）断面ミクロ観察結果、材料組織はオーステナイトステンレス鋼に通常よく見られるものであった。なお、内面には曲げ加工によって生じる滑り面が多く観察された。
+（７）粗さ、硬さ測定結果、加工治具跡部の最大粗さは管軸方向で１３μｍであった。また、起点部近傍の硬さはＨＶ３５０程度であり、曲げ加工時の加工治具跡と合致していた。
+（８）材料分析結果、規格値内であった。
+３．原因調査
+（１）損傷モードによる評価
+ａ．材料不良について調査した結果、化学成分、機械的性質とも規格値の範囲内であったが、背側内面の加工治具跡には、比較的高い軸方向の引っ張り残留応力のあることが確認された。
+Ｂ．腐食について調査した結果、当該箇所における塩化物の付着は少量であり、応力腐食割れは認められなかった。
+Ｃ．延性破壊について調査した結果、当該箇所及びサポートに変形等の異常は認められず、また、延性破壊破面は認められなかった。
+Ｄ．熱疲労について調査した結果、き裂部近傍に茶褐色の線状の模様が認められたこと、また、破面にビーチマーク及びストライエーション状模様が認められたことから、当該曲げ管部において高温水と低温水の境界面（熱成層）が変動し、繰り返し応力が生じたため割れが発生した可能性が考えられる。
+Ｅ．機械的疲労について調査した結果、現地での振動測定及び解析の結果、振動による発生応力は十分に低く、また、余剰抽出水系統取出配管の１次冷却材配管との共振発生の要因は認められなかった。
+（２）実機模擬試験による熱成層評価
+　実機模擬試験の結果、熱成層の発生する位置が今回の母管形状においては従来知見より浅いことが確認された。これは、当該余剰抽出系配管が比較的流況変動等の大きいクロスオーバーレグからの分岐管であるためと推定された。また、実機模擬試験を実施した結果、この熱成層は周期的（１００秒程度）に変動し、当該部内面に約１００℃程度と推定される温度差が生じることが確認された。
+（３）き裂発生・進展評価
+　有限要素法解析の結果、当該部の熱成層による主応力振幅は、約１５０ＭＰａ（約１５．３ｋｇ／ｍｍ＾２）（軸方向応力は約１２３ＭＰａ（約１２．５ｋｇ／ｍｍ＾２））と推定された。また、曲げ加工時の残留応力に、熱成層の変動による応力が繰り返し作用すると、当該曲げ管中央近傍の背側内面からき裂が発生し、その後、き裂が進展・貫通することが確認された。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>178</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[01]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[巡回点検]]></HAKKEN_HOHO_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[M0]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[０－]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2012/09/21 19:13:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<TEISHI_UMU_CODE><![CDATA[1]]></TEISHI_UMU_CODE>
+	<TEISHI_UMU_CODE_NAME><![CDATA[あり]]></TEISHI_UMU_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>6</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>351</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2003/08/25 00:00:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[199904301330]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）当該配管については、１次冷却材配管管台との接続部から下流側の当該曲げ管を含む点検調査のため切断した曲げ管までの範囲を取り替えた。なお、当該曲げ部は熱成層の影響がない位置に変更するとともに、残留応力の低い部材を使用した。
+（２）念のため、プラント立ち上げ時に当該曲げ部近傍について温度測定を実施し、熱成層の発生状況を把握し、対策の妥当性を確認する。
+（３）今回の事象に鑑み、熱成層による影響が想定される部位については、曲げ部等の取付位置や、使用する部材の残留応力に関する影響等を設計基準に反映する。
+]]></SB_TAISAKU_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2012/09/21 19:13:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　美浜発電所２号機は、復水器水質変動要因調査のため出力抑制し６５％出力運転中のところ、平成１１年４月２９日の格納容器（Ｃ／Ｖ）サンプ水位上昇率が通常値に比べて有意な増加が認められたため、４月３０日０時頃から関連パラメータの監視を強化するとともに、Ｃ／Ｖ内監視カメラによる点検を実施したところ、４月３０日１１時頃にＢループの余剰抽出水系統取出配管部付近からわずかな水漏れを発見した。なお、本事象による周辺環境への影響はなかった。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>16</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[1999-関西-T003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該部の損傷は、熱成層の変動による疲労損傷と推定される。
+　損傷の原因は、１次冷却材配管からの高温水の侵入深さが従来知見より浅かったことから、当該曲げ管加工により配管内面に付加された残留応力の存在下において、高温水と低温水の境界面が変動し、繰り返し応力が作用することによりき裂が発生し、その後も繰り返し応力の作用によりき裂が進展、貫通に至ったものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[格納容器サンプ水位上昇に伴う原子炉手動停止について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2003/10/01 00:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[美浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>9</SORT_NO>
+		<PLANT_CODE><![CDATA[knsmh]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[美浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>3</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[511]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[配管（計装配管・オリフィス本体除く）]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[化学体積制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[209]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[001]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[電気関係報告規則3条]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>178</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[002]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則24条2項]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>2</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[12]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[手動停止]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>178</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

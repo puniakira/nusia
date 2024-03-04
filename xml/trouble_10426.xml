@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）系統内圧力変動の発生
+１）系統内の自然循環
+自然循環が実際に発生しているかを確認するため、ＦＣＳ（Ｂ）を待機除外とした後、再循環ループの電動弁（ＦＶ－２Ｂ）を閉止してループ構成を遮断してＦＩＣ－２Ｂ指示値を確認した結果、指示に変化が見られないことから系統内で流量計指示する程度（３７Ｎｍ３／ｈ）の自然循環が発生している可能性は低いと判断した。
+
+２）格納容器からの圧力回り込み
+格納容器内に封入されている窒素（約１０３～１０６ｋＰａ）がＦＣＳ系統内に回り込むことで圧力変動を生じている可能性が考えられたため、系統構成の確認を実施した。
+その結果、弁の開閉状態は正規の位置にあり、問題の無いことを確認した。
+また、格納容器圧力に有意な変化が発生していないことを確認した。
+以上より、格納容器からの回り込みの可能性は低いと判断した。
+
+（２）ＦＴ－２Ｂ、ＦＩＣ－２Ｂ指示ループの異常
+１）ＦＴ－２Ｂのゼロ点ドリフト
+ＦＴ－２Ｂのゼロ点ドリフトによりＦＩＣ－２Ｂの指示値が変動している可能性が考えられたため、計器の均圧操作を実施した結果、計器の指示値が０Ｎｍ３／ｈとなったことから、ＦＴ－２Ｂのゼロ点がドリフトしていないことを確認した。
+
+２）ＦＴ－２Ｂ出力特性の不良
+ＦＴ－２Ｂの出力特性が変化している可能性が考えられたため、計器単体試験を実施した結果、ＦＴ－２Ｂの特性に問題のないことを確認した。
+
+３）ＦＩＣ－２Ｂ出力特性の不良
+ＦＩＣ－２Ｂ出力特性が変化している可能性が考えられたため、計器ループ試験を実施した結果、ＦＩＣ－２Ｂの特性に問題のないことを確認した。
+（３）ＦＴ－２Ｂ計装配管ラインの異常
+１）ＦＴ－２Ｂラック内継ぎ手、ドレン弁の漏れ
+ＦＴ－２Ｂラック内の継ぎ手部からの漏れ、ドレン弁シートからの漏れにより検出圧力が変化し、指示値が変動している可能性が考えられたため、漏えい確認を実施した結果、継ぎ手部からの漏れ、ドレン弁シートからの漏れがないことを確認した。
+２）ＦＴ－２Ｂ計装配管内への異物、水分の混入
+　ａ．異物等による閉塞
+ＦＴ－２Ｂ計装配管内が異物又は水により閉塞することで、検出圧力が変化し、指示値が変動した可能性が考えられたため、ＦＴ－２Ｂの検出配管を母管取り出し第一弁（以下、「計装元弁」という）下流の継ぎ手部で取り外し、そこから計器側に向かって窒素ガスで加圧、計器ドレン弁を開放し排出口先端から排出されるガスをビニル袋に受け、ガス中に異物又は水分の混入が無いか目視により確認を実施した。
+その結果、計器各ドレン弁（Ｈｉ側、Ｌｏ側）からの排出ガス中に異物や水滴を確認することは出来なかった。
+なお、この操作において、ＰＴ－２Ｂの指示値に以下の変化があった。
+・検出配管を取り外した際に、１０３．２ｋＰａから１０１．２ｋＰａ（大気圧相当）に変化した。
+・配管フラッシング後に計器を復旧したところ、１０１．４ｋＰａとなった。ＦＩＣ－２Ｂ指示値は０Ｎｍ３／ｈであった。
+また、計装元弁から母管取り出し部に至る間をファイバースコープで目視確認したところ、Ｈｉ側、Ｌｏ側共に弁箱内、配管内に異物は無かったものの、母管内面に水滴の付着及び錆が確認された。
+なお、弁箱内のシート面に荒れ、僅かな錆が観察されたが、計装元弁は常時開状態であり、隔離機能要求がないことから、安全上問題になるものではない。
+母管内の錆については、表面に酸化皮膜としての赤錆と黒錆の部分が混在していたが、構造強度に影響を及ぼす浮き上がり、錆コブあるいは剥がれのような有意な腐食状態ではなく、錆の脱落も考えにくいことから、運転に支障はないと判断する。
+　ｂ．水分による差圧変動の可能性
+ＦＣＳ系統内は、定期試験（１ヶ月に１回）による運転において、再結合器を通過したガス（約８０℃）を冷却するためにウォータースプレイが行われる。
+冷却されたガスは気水分離器により水分と分離され再循環される。このことから、系統内のガスは湿り気を帯びた状態でＦＴ－２Ｂを通過し、ブロワにより再循環される。
+従って、配管内のガス温度より配管内面温度が低いところではガス中の水分は凝縮し配管内面に付着することとなる。このため、計装配管には勾配を持たせることで配管内面に付着した水滴はドレンされるよう設計配慮がなされているが、ＦＴ－２Ｂ計装配管内が水膜で閉塞された場合には、その水頭圧によりＦＴ－２Ｂの指示を変動させることとなる。
+
+（４）その他
+１）環境調査
+これまでに同様の事象が確認されていないことから、ＦＣＳ（Ｂ）の設置されている環境に、著しい温度変化を与えるような物品が置かれていないかを確認したが、特に問題となる点は見出せなかった。
+
+２）運転履歴調査
+ＦＣＳ（Ｂ）の定期試験等の運転状態に変化がなかったかを今サイクル分と前サイクル分で確認したが、トレンドデータに大きな変化は見られず、特に問題となる点は見出せなかった。
+なお、平成２１年６月１１日に実施した点検復旧後の試運転において、運転パラメータは全て基準値内であり、また、運転状態にも有意な異常は確認されていない。
+また、試運転後においてＦＴ－２Ｂ出力信号を監視したが、有意な上昇は見られていない。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[146]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10426</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/10/26 10:51:33]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[発電長はＦＴ－２Ｂ（ＦＣＳ（Ｂ）系）にドリフトが発生している可能性が否定できないと判断したことから、保安規定第４７条（可燃性ガス濃度制御系）表４７－１で定める「２系列が動作可能であること」を満足していないと判断した。
+
+平成２１年６月　８日　１２時０８分　運転上の制限を満足しないと判断（運転上の制限逸脱を宣言）
+平成２１年６月１２日　２１時０２分　運転上の制限逸脱解除を宣言
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4501</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/06/30 18:50:37]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200906081208]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[今回の再循環流量指示値の変動事象に対しては、現状どおりの監視を継続する。
+仮に、再発した場合には、流量指示計の許容誤差を超えないように、保安規定第７４条第１項に基づき水柱の除去を行う。
+なお、再発防止対策として、計装配管の設備改造要否について検討していく。
+また、今回確認された錆等の事象については、今後、配管の点検計画の中で対応方針を検討していく。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/10/26 10:51:33]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成２１年６月５日６：００頃、中央制御室内に設置されている可燃性ガス濃度制御系（以下、「ＦＣＳ」という）（Ｂ）の再循環流量計（計器番号：ＦＩＣ－２Ｂ。以下、「ＦＩＣ－２Ｂ」という）の指示が変化（０⇔３７Ｎｍ３／ｈ）＊１していることを中央制御室監視にて確認した。
+発電長は、同流量計の指示変化に加えて、再循環流量変換器（トランスミッタ）（計器番号：ＦＴ－２Ｂ。以下、「ＦＴ－２Ｂ」という）高圧（Ｈｉ）側入口圧力指示値（計器番号：ＰＴ－２Ｂ。以下、「ＰＴ－２Ｂ」という）に微小な変動（１０３．３～１０３．４ｋＰａ）が見られたことから、ＦＣＳ（Ｂ）の再循環系統内で対流（以下、「自然循環」という）が発生しているものと考え、各部の温度測定を関係箇所に依頼した。
+同日午後、所内関係者で測定データを確認した結果、ＦＣＳ（Ａ）系統の再循環ラインにて測定した温度差１．１℃に対して（Ｂ）の温度差が１．９℃と高かったこと等から、ＦＩＣ－２Ｂの計器ローカット値（１％）付近での差圧に相当する自然循環が発生している可能性が高いと判断、発電長の判断に対する裏付けが取れたものとして、監視を継続した。
+その後、平成２１年６月７日１８：００以降、温度変動が少ないにも係わらず、ＦＩＣ－２Ｂの指示変化が３９～４１Ｎｍ３／ｈと微増していることから、発電長はＦＴ－２Ｂにドリフトが発生している可能性が否定できないと判断し、平成２１年６月８日１２：０８、　　ＦＣＳ（Ｂ）が運転上の制限を満足しないことを宣言した。
+直ちに、保安規定第４７条第３項に基づき、ＦＣＳ（Ａ）の健全性確認試験を実施し、問題のないことを確認した後、点検に着手した。
+その後、点検が終了したことから、健全性確認試験の結果に問題が無かったことを確認の上、発電長は平成２１年６月１２日２１時０２分、ＦＣＳ（Ｂ）が運転上の制限逸脱から復帰したことを宣言した。
+
+＊１：３７Ｎｍ３／ｈの指示値は、トランスミッタ差圧で０．０７ｋＰａであり、約１％
+（ローカットフィルタ設定値）に相当する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１）指示値が変化したメカニズム
+a．ＦＣＳ定期試験のためにブロワが運転され、主配管内の流体移動により計装配管（内径：８．７ｍｍ）内が負圧となる。また、ガス冷却のためのウォータースプレイにより、主配管内は湿潤環境となる。
+
+b．ＦＣＳ定期試験後のブロワ停止により、主配管内は一旦、格納容器内の圧力（約１０３～１０６ｋＰａ）となり、計装配管（Ｈｉ、Ｌｏ）内に湿潤な気体が入り込む。
+
+c．Ｈｉ側の計装配管内（配管の最も高い部分～ドレン配管分岐）で凝縮した水がドレンラインの傾斜で落下する過程において水膜を形成し、配管を閉塞した。（通常は、配管内に生じた凝縮水は傾斜を落下して移動するために、配管を閉塞させることはない）なお、Ｌｏ側配管には主配管内の圧力が継続してかかる。
+
+d．配管内温度と配管壁面の温度差により、計装配管内に入り込んだ気体、さらに新たに温度差による呼吸作用により入り込んだ気体から凝縮水の発生が継続し、発生した凝縮水は配管の傾斜を流れ落ちて水膜に吸収されることで水膜が水柱となって成長を継続する。
+
+e．計装配管の計器側はＦＴ－２Ｂ入力点で行き止まりとなっているため、水柱の成長に伴い、計器のＨｉ側入力圧力が上昇していく。
+
+f．水柱の高さが７ｍｍとなった時点でＦＴ－２Ｂが検出する差圧は０．０７ｋＰａとなるため、ＦＩＣ－２Ｂに３７Ｎｍ３／ｈ相当の信号を送る。これによりＦＩＣ－２Ｂはローカットレベルである１％を超えたことを検知し、指示計器に表示を出す。
+
+g．ローカットレベル付近では温度や気圧の変化により１％を超えたり、割ったりすることから、指示計器の値が０⇔３７Ｎｍ３／ｈの表示を繰返したが、水柱の成長が継続したことで１％を超えた状態となり、指示計器の値は３９～４１Ｎｍ３／ｈで連続表示となった。
+
+２）計装配管内から水分が回収できなかったメカニズム
+a．ＦＴ－２Ｂ均圧弁開により、ΔＰは０ｋＰａとなるため、流量は０Ｎｍ３／ｈとなる。
+しかし、ＦＴ－２Ｂ計器入口弁は閉の状態であるため、Ｈｉ側計装ラインの圧力には変化を生じない。
+●ＰＴ－２Ｂ指示値：１０３．２ｋＰａ（均圧弁操作前）
+　　　　　　　　　　記録なし（均圧弁操作後）
+
+b．Ｈｉ側計装配管内の圧力に大きな変動が無いことから、水柱は維持され、均圧弁閉、計器入口弁開により、ＦＴ－２Ｂが見る差圧は均圧弁開前と同じ状態となる。
+●ＰＴ－２Ｂ指示値：１０３．２ｋＰａ
+
+c．フラッシングのためのＦＴ－２Ｂ用Ｈｉ側計装配管継ぎ手（スウェジロック）取り外しにてナットを緩めたところで水柱より主配管側の計装配管内圧力が開放され大気圧となる。この結果、水柱は計器側の圧力の方が高くなるため計装配管を逆流して配管の最も高い部分を乗り越え、その後は水柱の自重も加わって配管内を落下して、スウェジロックをパス、弁内部に到達したところで水柱が崩れ母管内に落下した。
+●ＰＴ－２Ｂ指示値＝１０１．２ｋＰａ
+
+d．スウェジロックを切り離したが、水柱は既に母管内に落下しており凝縮水の回収はできなかった。
+
+以上のとおり、今回の事象は凝縮水が検出配管内を閉塞させたことが原因と推測されることから、再発を完全に否定できるものではない。しかしながら、仮に本事象が再発したとしても、ＦＣＳ待機中に発生する流量指示が７５Ｎｍ３／ｈ以内であれば、ＦＣＳ定格運転時における計器指示誤差は、判定基準値（±８Ｎｍ３／ｈ）内であり、機能に問題は無いものと考える。
+また、ＦＣＳ流量の安全解析に対する感度解析において、系統内流量の若干の変動では、格納容器内水素・酸素ガス濃度が添付十の評価結果とほぼ同じであることが確認されている。
+今回、再循環流量が仮に判定基準値を僅かに外れ、吸い込み流量への影響が発生したとしても、安全解析上の性能に影響を与える状況には至らないと言える。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[可燃性ガス濃度制御系（Ｂ）の運転上の制限からの逸脱について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[運転上の制限を逸脱していると判断]]></HASSEI_DATE_HOSOKU>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1125</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/07/01 09:00:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+			<TROUBLE_ID>10426</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[512]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[計装配管]]></KIKI_NAME>
+				<SORT_NO>2</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[510]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[510]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[配管装置]]></KIKI_NAME>
+					<SORT_NO>31</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[可燃性ガス濃度制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[146]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[146]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10426</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10426</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10426</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10426</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

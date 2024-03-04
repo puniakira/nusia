@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．水位計（ＬＴ－１９０）の水抜き作業実施状況　　　　　　　　　
+（１）１２月２４日の水抜き作業状況
+１２月２４日の１４時３８分から１４時４２分にかけて、ドレン配管に水抜き用のビニールチューブとビニール袋（容量５０リットル）を取り付けた後、ＬＴ－１９０低圧側ドレン弁を開く操作を行った。プラント排気筒ガスモニタ（以下、「Ｒ－２８」という。）の指示値は、１４時４６分から上昇傾向が見られ、１４時４７分頃、水抜き作業の現場に設置していた可搬型仮設モニタの指示値が急激に上昇したことから、直ちに各弁を閉止した。　
+
+（２）ＬＴ－１９０の検出配管内の水抜き作業
+今回指示不良となったＬＴ－１９０は、体積制御タンク上部のガスベントラインと接続しており、指示不良は１２月１８日から発生していた。このため、１２月２１日に今回と同じ方法で水抜き作業を行って約７００ccの水を回収し、その直後は指示値が回復したように見えたが、指示不良が引き続き発生していたことから、水の回収が不十分であったと判断し、再度水抜き作業を行うこととした。１２月２４日に２回目の水抜き作業としてＬＴ－１９０低圧側ドレン弁を僅かに開き、水が間欠的に噴出する状況を監視していたところ、現場の可搬型仮設モニタの指示値が上昇したため、直ちにＬＴ－１９０低圧側ドレン弁を閉止した。この作業で回収された水は約１０ccであり、その後、ＬＴ－１９０の指示は正常な状態に復旧した。
+　　　　　　　　　　　　　　　　　　　　
+２．Ｒ－２８の一時的な指示値上昇原因調査　　　　　　　　　
+１２月２４日のＲ－２８指示値上昇に至った原因について、要因分析図に基づき調査を行った。
+
+（１）放射性ガスの実放出
+ａ．作業実施による系統内の放射性ガスの放出
+当日、１号機管理区域内で作業が１０件実施されており、そのうち汚染を伴う作業は３件、系統開放作業は２件実施されていた。　これらの作業について、事象発生時間帯の作業内容を確認した結果、放射性ガスが放出されるような作業として、計測制御装置恒常点検工事においてＬＴ－１９０の点検作業が実施されていた。他の９件については、当該時間帯において放射性ガスが放出される作業を実施していなかったことを確認した。
+
+ｂ．運転操作による放射性ガスの放出
+事象発生時間の運転操作を確認した結果、放射性ガスが放出されるような運転操作は実施されていなかった。
+
+ｃ．水素再結合装置ガス分析器の自動サンプリング・校正時の系外放射性ガス放出
+水素再結合装置ガス分析器の自動サンプリング・校正時の校正ガスが排気筒側へ放出されないよう、排気筒側出口電磁弁を取外し端栓を取付けているため、モニタ指示上昇の原因ではない。
+
+ｄ．その他のガスの放出
+その他のガスとして放射性同位元素（ＲＩ）の漏えいが考えられるが、非密封ＲＩを所有していないため、モニタ指示上昇の原因ではない。
+
+（２）モニタの故障
+Ｒ－２８の指示値は、上昇・低下した以降、通常のバックグランド値付近で揺らぎながら推移していることから、現状モニタの指示値は正常と考える。なお、指示値上昇時には当該ガスモニタの点検は実施していないため、点検に伴う指示値上昇ではない。
+
+（３）溶接等ノイズの影響
+当該モニタの検出器・盤・配線・電線管の近傍位置で溶接機やグラインダ等回転機器を使用した場合、モニタに影響を及ぼすことから当日の溶接作業等を調査した結果、近傍での溶接作業等は実施されていなかった。
+
+（４）高線量物品等の影響
+ａ．高線量物品の影響による指示値上昇
+高線量物品がモニタ検出器周辺に仮置きされた場合、モニタの指示値上昇につながるが、仮置き等の実績はなく、高線量物品の影響とは考えられない。
+
+ｂ．放射線源の取扱い作業（ＲＴ作業）の影響による指示値上昇
+放射線源の取扱い作業（ＲＴ作業）が実施された場合、モニタの指示値上昇につながるが、当日は線源取扱い作業の実績はなく、線源取扱い作業（ＲＴ作業）の影響とは考えられない。
+
+以上の結果から、ＬＴ－１９０の点検作業時にプラント排気筒からの実放出があったものと判断した。
+
+３．ＬＴ－１９０の点検作業に関わる諸手続き　　　　　　　　　
+（１）放射性気体廃棄物処理手続き
+今回のＬＴ－１９０の作業に先立ち、社内手続きとして、放射性気体廃棄物を放出する可能性がある作業および操作を行う際に作成が必要である「放射性気体廃棄物処理伝票」を発行し、開放する系統の放射性ガスが全て放出された場合の放出量を、６．３９Ｅ８Ｂｑと評価した上で、保安規定で定める放出管理目標値(３．９Ｅ１５Ｂｑ／年)以下であることを確認しており、定められたルールに従って作業が行われていることを確認した。
+
+４．ＬＴ－１９０点検作業時におけるＲ－２８指示値上昇に係る原因調査
+ＬＴ－１９０点検作業時におけるＲ－２８指示値上昇の原因について、要因分析図に基づき調査を行った。
+（１） ベンティング用の仮設設備からの漏えい
+ａ．ビニール袋からの漏えい
+当該品のビニール袋の外観確認では、傷、破れ等の異常は認められず、ビニール袋を圧縮した結果、空気の漏えいは確認されなかった。
+
+ｂ．ビニール袋とビニールチューブの接続箇所からの漏えい
+当該品のビニール袋とビニールチューブの接続箇所の外観確認では、ビニールテープと固定バンドでしっかり固定されており、エアー通気による漏えい確認でも、漏えいは確認されなかった。
+
+ｃ．ビニールチューブからの漏えい
+当該品のビニールチューブの外観確認では、有意な傷等はなく、エアー通気による漏えい確認でも漏えいは確認されなかった。
+
+ｄ．ビニールチューブとワンタッチ管継手の接続箇所からの漏えい
+ビニールチューブとワンタッチ管継手の接続箇所の外観確認では特に異常は認められなかったが、エアー通気による発泡液を用いた漏えい確認の結果、ワンタッチ管継手へのビニールチューブ挿入部付近からの漏えいが確認された。このため、ビニールチューブに現状の差込位置のマーキングを行った後に一旦チューブを引き抜き、再度ビニールチューブをしっかりと差込んだところ、マーキング位置よりも約５ｍｍ程深く差込まれることが確認され、この状態でエアー通気による漏えい確認を行ったところ、漏えいは確認されなかった。また、漏えい量を測定するために、体積制御タンク気相部の圧力である約１４０ｋＰａで加圧したところ、３５Ｌ／分であった。さらに当該品と同等のビニールチューブとワンタッチ管継手を使用した再現試験でも、差込不足の場合には漏えいが発生する事を確認した。
+
+ｅ．ワンタッチ管継手とドレン配管との接続部からの漏えい
+当該品のワンタッチ管継手とドレン配管との接続箇所の外観確認では、スウェジロックの施工不良や継ぎ手の傷等の異常は認められず、エアー通気による発泡液を用いた漏えい確認でも、漏えいは確認されなかった。
+
+（２）計器の本設ラインからの漏えい
+ａ．受圧フランジ廻りなどＬＴ－１９０の本設ラインからの漏えい
+計器のベンティング作業を実施する前の計器使用状態においてＲ－２８の指示上昇は認められておらず、ＬＴ－１９０低圧側ドレン弁を開放しベンティングをした以降にモニタの指示が上昇し、ＬＴ－１９０低圧側ドレン弁を閉止した以降はモニタの指示が低下していることから、計器の本設ラインからの漏えいとは考えられない。
+
+（３）ベンティング作業の作業手順誤り等による漏えい
+ａ．ベンティング作業時の弁操作や仮設設備の作業手順誤り等による漏えい仮設設備のセッティングが完了した後の、計器元弁、ＬＴ－１９０低圧側ドレン弁を開放しベンティング作業を実施している状況でＲ－２８の指示値が上昇しており、ベンティング作業時の弁操作や仮設設備の作業手順誤り等により漏えいしたものとは考えられない。
+
+以上の結果から、漏えい箇所はワンタッチ管継手とビニールチューブの接続部であり、ビニールチューブ差込不足により漏えいした可能性が考えられる。
+
+５．聞き取り調査
+ワンタッチ管継手にビニールチューブを差込んだ作業員に実施状況を確認したところ、ビニールチューブをワンタッチ管継手に奥まで差込んだ後、引っ張ってみて抜けないことを確認しているが、ビニールチューブの差込量を定量的に管理する手順になっていなかったため、差込不足となった可能性があることがわかった。なお、今回の作業員は同種作業の経験を有しており、ワンタッチ管継手とビニールチューブの接続作業の経験も十分あることを確認した。
+
+６．ワンタッチ管継手の機構調査　　　　　　　　　　　　　　　
+（１）シール機構
+ワンタッチ管継手は、内部にビニールチューブ外径より小さい内径のパッキンがあり、このパッキンによりシールされている。
+
+（２）引き抜き防止（保持）機構
+ワンタッチ管継手の内部には、ビニールチューブ引き抜き（保持）機構としてチャック、コレット、リリースブッシュがあり、ビニールチューブが差込まれるとチャックがビニールチューブに食い込み、コレットにより保持力を増大することにより、引き抜き防止を図っている。引き抜く際は、リリースブッシュを押し込むことにより、ビニールチューブがチャックの食い込みから開放され、引き抜くことが出来るようになる。なお、この機構はパッキンより差込口の手前側に存在している。
+
+（３）ビニールチューブ挿入長
+ワンタッチ管継手の構造図から、挿入長（図面上のビニールチューブ最大差込量）は１７ｍｍである。
+
+《放出の推定メカニズム》
+以上の調査結果から、今回の放出事象は以下により発生したものと推定される。
+１）作業のために、ワンタッチ管継手に水抜き用ビニールチューブを差込んだ際に、差込量が不足していた。（当該品を確認した結果は約１２ｍｍ、最大差込量は１６．９ｍｍ）
+
+２）差込んだ作業員は、十分差込まれていることをビニールチューブが引き抜けないことだけで確認した。
+
+３）この状態では、ビニールチューブ引き抜き防止（保持）機構により引っ張っても引き抜けないが、パッキンのシール機構が機能せず、水抜き作業のために各弁を開放した際に、ワンタッチ管継手部から放射性ガスが漏えいした。
+
+７．放射性ガス放出量の推定によるメカニズム妥当性の評価　　　
+当該品の漏えい量試験によるワンタッチ管継手部からの推定漏えい量により算出した体積制御タンク気相部の放射性ガス濃度と１次冷却材中の放射性ガス濃度の比（約５倍）と、大飯２号機の燃料漏えい疑い時における体積制御タンク気相部の放射性ガス濃度実測値による１次冷却材中の放射性ガス濃度の比（約５．８倍）より、ワンタッチ管継手部から漏えいしたことの妥当性を評価した結果、両者はほぼ一致したため、ワンタッチ管継手部からの漏えい推定メカニズムは妥当であると評価した。
+
+（１）当該品の漏えい量試験結果からの放出放射能濃度算出
+当該品の漏えい量試験結果は３５Ｌ／分であり、これに弁開閉時間（約５分）とガス組成（水素約８０％、窒素約２０％）の補正（体積比で約４倍）をすると、放出量（体積）は約７００Ｌとなった。この値とＲ－２８の指示値上昇量から求めた放出放射能量(４．５Ｅ８Bq)により放射性ガスの濃度を試算した結果、６.４０Ｅ２Ｂｑ/ｃｃとなった。また、その値から、当該作業後の至近の１次冷却材中の放射性ガス放射能濃度（１２月２５日:１.２８Ｅ２Ｂｑ/ｃｃ）との濃度比は約５倍となった。
+
+（２）放出放射性ガスの体積
+大飯２号機の燃料漏えいの疑い事象時に、体積制御タンク気相部の放射能濃度を実測しており、その値から１次冷却材中の放射性ガス放射能濃度との比率は約５．８倍であった。
+
+８．ＬＴ－１９０検出配管内への水流入メカニズム調査　　　　　
+（１）流入ルート調査
+ＬＴ－１９０の検出配管への水流入ルートを調査した結果、ＬＴ－１９０の低圧側（体積制御タンク気相部側）検出配管が接続されている体積制御タンクパージラインには、充てん高圧注入ポンプ（以下「ＣＨ／ＳＩポンプ」という。）のガスベントライン配管も接続されていることが分かった。このガスベントライン配管は、ＣＨ／ＳＩポンプ入口配管内に滞留するガスをベントする目的で、ＣＨ／ＳＩポンプ入口側と体積制御タンクパージラインに接続されており、通常は体積制御タンクの水位と同じ高さまでが液相部で、それより上部は気相部となっている。ガスベントライン配管内の水位が上昇し、体積制御タンクパージラインまで到達すれば、ＬＴ－１９０の低圧側（体積制御タンク気相部側）検出配管に水が流入する可能性があることが分かった。
+
+（２）運転操作実績調査
+ＬＴ－１９０の指示値低下の前後で実施した運転操作を調査した結果、指示値低下の直前に、化学体積制御系統の抽出流量を起動時の浄化流量を確保するための２７ｍ３／ｈから、通常運転中の流量である１７ｍ３／ｈに変更し、この変更に伴いＣＨ／ＳＩポンプのミニマムフローライン弁を開放していたことが判明した。この操作により、ＣＨ／ＳＩポンプの入口側にミニマムフローラインの水が流入し、充てん流量の調整（２７⇒１７ｍ３／ｈ）が完了するまでの間、ガスベントライン配管の水位を上昇させた可能性があることが分かった。
+
+（３）ミニマムフローライン弁操作に係る調査
+抽出流量の変更（２７⇒１７ｍ３／ｈ）に伴い、ＣＨ／ＳＩポンプのミニマムフローライン弁を開放操作する運用について調査した結果、平成１８年頃に、ＣＨ／ＳＩポンプの充てん容量に余裕を持たせるために、抽出流量２７ｍ３／ｈ時において、ミニマムフローライン弁を閉止する運用に変更したことが分かった。このため、抽出流量を２７から１７ｍ３／ｈに変更する操作実施時には、ミニマムフローライン弁の開放操作が必要となり、一時的にガスベントライン配管の水位を上昇させる要因となったことが分かった。
+
+（４）過去の運転操作調査
+抽出流量２７ｍ３／ｈ時においてミニマムフローライン弁を閉止する運用に変更した平成１８年以降の４サイクルで、抽出流量の変更（２７⇒１７ｍ３／ｈ）操作は１２回実施しており、その中で水位計の指示不良は、今回の事象を含めて２回発生している。事象発生時の共通点は、体積制御タンクの連続パージ中にミニマムフローライン弁を開放していることである。
+
+《ＬＴ－１９０検出配管内への水流入推定メカニズム》
+以上の調査結果から、ＬＴ－１９０検出配管内への水流入は以下により発生したものと推定される。
+１）１次冷却材系統の水質を安定させる操作がほぼ終了したため抽出流量を約２７ｍ３/ｈから１７ｍ３/ｈに変更
+
+２）ＣＨ／ＳＩポンプのミニマムフローライン弁を開放
+
+３）ガスベントライン配管へ水が流入（圧力が上昇）
+
+４）体積制御タンクと同じ水位の状態に、ガスベントライン配管へ水が流入（圧力が上昇）したことにより、水が上方へ押し上げられる
+
+５）ガスベントライン配管からＬＴ－１９０検出配管内に水が流入し滞留
+
+６）ＬＴ－１９０の指示不良が発生（約６０％→約４０％）
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10824</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2010/08/16 15:54:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>16291</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/02/10 19:43:04]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200912241450]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．ＬＴ－１９０検出配管に水が流入したことの対策
+起動時の抽出流量を１７ｍ３／ｈ一定で運用することとした。ただし、抽出流量を２７ｍ３／ｈにする必要が生じた場合で、その後１７ｍ３／ｈに変更する際に実施するＣＨ／ＳＩポンプミニマムフローライン弁開放時においては、ガスベントラインに設置されている２台の隔離弁（電動弁）を閉止し、流量変更に伴う変動が落ち着いた後に隔離弁を開放する運用に変更した。（平成２２年１月１３日実施）なお、上記の運用変更でも現在のプラント運転上は問題ないことから、次回定検までは上記運用変更で対応し、次回定検時に、ＬＴ－１９０の検出配管部に水が滞留しない構造に配管を改善する。（１号機第２４回定期検査に実施予定）
+
+２．ワンタッチ管継手部から放射性ガスが漏えいしたことの対策
+ワンタッチ管継手部を用いて放射性ガスを取り扱う作業において、ワンタッチ管継手にチューブを差込む際は、ワンタッチ管継手の奥まで差し込んだ後にマーキングを行い、一旦チューブを引き抜き、マーキング位置が図面上の最大差込量と比較して同等であることを確認した上で、再度差込むことにより、ビニールチューブの差込不足とならないようにする。さらに、継手部をラップ、ビニールテープ等で養生し、系統内のガスが漏れ出すことを防止する。
+
+３．上記２の内容について、今後同様の作業を実施する際の作業計画書に反映するよう周知した。（平成２２年１月８日実施）
+
+４．今回の事象を協力会社作業員に周知し、再発防止対策を徹底した。（平成２２年１月７日実施）
+
+５．今回作業における問題点と改善点および過去事例を教訓とした取り組みの観点からの評価を踏まえた改善
+
+（１）仮設密閉容器を用いて放射性ガスを回収する作業においては、仮設密閉容器を使用する前に漏えい確認を実施する関係者に周知した。（平成２２年１月８日実施）
+
+（２）放射性ガスの漏えいの恐れのある作業に使用するワンタッチ管継手については、ビニールチューブの差込長が規定値となる様にマーキングによる管理を行うよう関係者に周知した。（平成２２年１月８日実施）
+
+（３）放射性ガスの漏えいの恐れがある作業を実施する際のモニタリングについては、現場の放射線管理員が作業期間中を通じて可搬型仮設ガスモニタの指示を専任で連続監視できる体制とする。（平成２２年１月１５日実施）
+
+（４）放射性ガスが高濃度であり、封じ込める必要のある作業でのモニタリングについては、リークが懸念される箇所をビニール袋で覆い、その中に可搬型仮設ガスモニタのサンプルチューブを挿入しモニタリングする方法で、早期検知と漏えい防止を図る。（平成２２年１月１５日実施）
+
+６．過去事例を教訓とした取り組みの観点からの評価を踏まえた改善
+（１）今後、仮設密閉容器を用いて放射性ガスを取り扱う作業については、作業の計画段階で、作業体制や監視方法等について多角的なリスク評価を行うための検討会を開催し、放射性ガスの予期せぬ放出を徹底的に防止する。（平成２２年１月１５日実施）
+
+（２）請負会社について、安全衛生協議会の下部組織である放射線管理部会において、今回の事例を含む「放射性ガス」の危険性に対する感受性を高める教育を実施した。また、放射性ガス取扱い作業における今後の対応について、徹底する旨を関係者に周知した。（平成２２年１月１８日実施）
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/08/16 15:54:18]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 大飯発電所１号機は第２３回定期検査中（定格熱出力一定で調整運転中）のところ、平成２１年１２月２４日１４時４６分から１５時０３分にかけて、プラント排気筒ガスモニタ※１の指示値が僅かに上昇（最大値は約１１６４cpm※２（１９．４cps）、通常値は約８７０cpm（約１４．５cps））していることを確認した。プラント排気筒ガスモニタの指示値が上昇する同じ時間帯で、体積制御タンク水位計（ＬＴ－１９０）の点検作業が行われていることが判明した。※３この作業は体積制御タンク水位計の検出配管内に溜まった水を抜くために行っていたもので、水位計につながるドレン配管の先端にビニール袋を取り付け、ドレン弁を開き、水とともに系統内の放射性ガスの回収を実施していた。１４時４２分にドレン弁を開いた直後に、現場に設置した仮設モニタの指示値が上昇したため、直ちにドレン弁を閉じた。今回、プラント排気筒から放出された放射性気体廃棄物の放出量を評価した結果、約４．５Ｅ８Ｂｑと評価されたが、保安規定に基づく放出管理目標（３．９Ｅ１５Ｂｑ／年）に比べ十分低く、周辺環境への影響はない。※４
+
+※１　運転に伴って発生する気体放射性廃棄物（希ガス）を監視するモニタ。大飯１号機ではプラント排気筒で原子炉格納容器および補助建屋からの排気を監視している。
+
+※２　１分間に測った放射線の数を表す単位。（ｃｐｓは１秒間に測った放射線の数を表す単位）
+
+※３　体積制御タンクは原子炉容器や配管内の一次冷却材の量を調整するためのタンク。点検の結果、体積制御タンク水位計の指示値が通常より低いことから、計器内に水が滞留している可能性があると判断し、計器内の水抜きを実施することとした。
+
+※４　大飯１号機の放射性気体廃棄物（希ガス）の年度放出実績は、平成１８年度は２．６Ｅ９Ｂｑ、平成１９年度は１．６Ｅ９Ｂｑ、平成２０年度は７．２Ｅ８Ｂｑ。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-関西-M006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[１．Ｒ－２８の指示値が上昇した原因
+ＬＴ－１９０の検出配管に水が溜まり指示値が低下していたことから、検出配管内の水をドレン配管から抜く作業を行った際、ドレン配管につないだワンタッチ管継手部へのビニールチューブの差し込み量が少ない状態でＬＴ－１９０低圧側ドレン弁を開放したことにより、体積制御タンクの気相部の放射性ガスが室内に漏れて、建屋の排気ダクトからプラント排気筒に放出されたため、Ｒ－２８の指示値が上昇したものと推定される。
+
+２．ワンタッチ管継手部から放射性ガスが漏えいした原因
+当該作業を実施するために、ＬＴ－１９０低圧側ドレン配管に接続するワンタッチ管継手に水抜き用ビニールチューブを差込む際に、定量的に差込量を管理する手順になっていなかったために、完全に差込まれない状態で水抜き作業を実施したため、ワンタッチ管継手とビニールチューブのシール部の隙間から漏えいしたものと推定される。
+
+３．ＬＴ－１９０検出配管に水が流入した原因
+ＬＴ－１９０の検出配管内に水が溜まり、指示不良となる原因について調査したところ、同様の指示不良が、前回の定期検査後の原子炉起動時に発生していたが、それ以前には発生していないことがわかった。このため、原子炉起動時の運転操作を分析したところ、指示不良が発生する直前の操作として、１次冷却材の一部を化学体積制御系統に抽出して行っていた水質を安定させる操作がほぼ終了したことから、この抽出流量を２７ｍ３／ｈから１７ｍ３／ｈに下げる操作と同時に、抽出した１次冷却材を系統に戻すため、ＣＨ／ＳＩポンプ出口にあるミニマムフローライン弁を開く操作を行っていた。この操作は、平成１８年に実施した定期検査後から実施していた。また、前回と今回の定期検査後は、この操作を行った際に体積制御タンクの連続パージを行っていた。この弁の操作を行うと、ＣＨ／ＳＩポンプの入口側にミニマムフローラインからの水が流入し、その圧力上昇により、ＣＨ／ＳＩポンプの入口側に設置しているガスベントラインの水が押し上げられ、当該配管の先にあるＬＴ－１９０の検出配管が接続されているドレン配管に多くの水が流れ込んだ。ドレン配管に多くの水が流れ込むと、検出配管にも水が流入し、配管の位置関係から水が滞留する。この水により体積制御タンク気相部の圧力がＬＴ－１９０の圧力伝送器に正確に伝えられず、指示不良に至ったものと推定した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[プラント排気筒ガスモニタの一時的な指示値の上昇について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1183</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>16290</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/02/17 13:21:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[大飯]]></PLANT_RYAKU_NAME>
+		<SORT_NO>10</SORT_NO>
+		<PLANT_CODE><![CDATA[knsoi]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[大飯発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[406]]></KIKI_CODE>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>10824</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[628]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[コネクタ・接続部]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>111</SORT_NO>
+						<BUHIN_CODE><![CDATA[628]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[406]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[レベル検出器・トランスミッタ]]></KIKI_NAME>
+				<SORT_NO>4</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[400]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[400]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[計測装置]]></KIKI_NAME>
+					<SORT_NO>26</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[化学体積制御系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[209]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[209]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[運転・操作不良]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[プラント運転員の監視・判断・機器操作の誤りによるもの（管理不良を含むクレーン等保守作業に関連する操作ミスは施工不良に含める）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1300]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[運転・操作不良]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[130]]></GENIN_DAI_CODE>
+					<SORT_NO>3</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10824</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[04]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉補助設備]]></SETSUBI_NAME>
+		<SORT_NO>4</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

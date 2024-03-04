@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>7951</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2005/10/31 16:22:56]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/10/31 11:47:07]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200510281252]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成17年10月27日午後０時52分頃、当所４号機中央操作室において、排風機建屋＊１の火災警報が発生したため、当直員が現場に急行したところ、同建屋１階の排気筒モニタ付近（非管理区域）に設置した仮設の電工ドラムからの発煙を確認した。ただちに当該電工ドラムのケーブルをコンセントから外し、発煙は停止した。
+　午後１時６分、当所社員より消防署に連絡し、消防署員による現場確認を受けた結果、午後２時22分、消火の必要のある燃焼現象に至っていないことから、当事象は火災ではないと判断さた。
+
+　調査の結果、当所社員は、２号機および４号機のタービン建屋排気筒モニタ＊２のバックグラウンド計数値＊３の測定を２台の測定装置（仮設）を用いて実施していたが、１台の電工ドラムに２台の測定装置をつないだために電工ドラムに過大な電流が流れたこと、およびケーブルを電工ドラムに巻いた状態で使用していたことから、ケーブルの被覆が発熱により溶融し、発煙に至ったものと推定した。また、当該電工ドラムはケーブル過熱時に電源が遮断される機能がついていなかった。
+　対策として、当所社員が電工ドラムを使用する際には負荷容量を確認し、また、過熱時に電源が遮断されない電工ドラムを使用する際には、ケーブルを全て引き出すことを当所社員に再周知するとともに、チェックシートで確認する。さらに、当所所有の電工ドラムについては、過熱時に電源が遮断される電工ドラムに順次交換をしてまいります。なお、本事象について協力企業に紹介し、再発防止に努めていく。
+　本事象による外部への放射能の影響、ならびにプラント運転への影響はなかった。
+
+＊１　排風機建屋
+　　　　タービン建屋用排気ファンを設置している建屋で、４号機の南側にある。
+＊２　２・４号機タービン建屋換気系排気筒モニタ
+　　　　タービン建屋内の空気を環境へ放出する際、排気中の放射線を測定する装置。
+＊３　バックグラウンド計数値
+　　　　自然の放射線などによる計数値。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2005-東京-S067]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所排風機建屋における発煙について]]></TITLE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/10/31 16:22:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

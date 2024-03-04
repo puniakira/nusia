@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[　状況確認を実施した結果、事象の原因は以下のとおり。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>3</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12638</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2017/12/07 11:59:24]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[平成２９年４月２日１６時２４分 運転上の制限外へ移行、同日２１時１２分 通常状態へ復帰
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/04/11 17:39:24]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201704021624]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．外部電源の確保に係るＬＣＯ逸脱に至った運用上の原因の対応
+
+（１）南九州系統給電制御所、川内火力において、以下の対応が実施されたことを確認する。
+　ａ．南九州系統給電制御所
+　　　川内原子力発電所外部電源に係る系統運用業務を定める「南九州系統給電制御所川内原子力発電所
+　　外部電源の健全性確認等に関する業務の手引き（業務標準）」に以下の内容を定める。
+　　・保安規定で定める外部電源の独立性の確保に係る手段として、設置許可申請書及び工事計画認可申
+　　　請書で新鹿児島線２号線から新鹿児島変電所を経由した給電ラインは認められていないこと。
+　　・人吉変電所から川内原子力支線へ給電するライン及び南九州変電所から川内原子力発電所へ給電す
+　　　るラインの遮断器操作を実施する際は、原則、保安規定への影響の有無を川内原子力発電所へ確認
+　　　し、確認後操作を実施すること。
+
+　ｂ．川内火力
+　　　川内火力の運転操作を定める「川内火力運転管理マニュアル」に以下の内容を定める。
+　　・川内火力の２０－５０、２０－６０、２０－ ７０及び２０－８０の遮断器操作を実施する際は、
+　　　保安規定への影響の有無を、系統運用部門を通じて川内原子力発電所へ確認すること。
+
+（２）川内原子力発電所において、以下の対応を規定類に定める。
+　　・「川内原子力発電所運転基準」に、外部電源に係る操作を実施する旨の連絡を操作指令箇所から
+　　　受けた場合は、保安規定への影響の有無の確認を行うとともに、当該操作の緊急性に応じて可能
+　　　であれば、保安規定への影響の有無の確認が完了するまでは、当該操作を実施しないよう操作指
+　　　令箇所へ要請することを定める。
+
+２．ＬＣＯ逸脱の取り消しに至った原因の対応
+（１）－ａ 川内原子力発電所において、以下の対応を行う。
+　　・ＬＣＯ逸脱の判断基準及び宣言する手順に、今回と同様の事象を引き起こすような不明確な記載
+　　　がないか、関連規定類を確認する。
+
+（１）－ｂ 川内原子力発電所において、以下の対応を規定類に定める。
+　　・「川内原子力発電所 発電課運転上の制限に係る判断要領」に、外部電源の独立性の確保に係る
+　　　手段として、設置許可申請書及び工事計画認可申請書で新鹿児島線２号線から新鹿児島変電所を
+　　　経由した給電ラインは認められていないことを定める。
+
+（２）川内原子力発電所において、以下の対応を規定類に定める。
+　　・「川内原子力発電所技術基準」に、新鹿児島線１号線の作業等により新鹿児島線２号線から新鹿
+　　　児島変電所を経由して川内原子力支線へ給電する作業が計画されている場合は、保安規定第８７
+　　　条に基づく「予防保全を目的とした点検・保修」（青旗作業）としての作業となり、事前に原子
+　　　力規制庁への説明が必要となることを定める。
+　　・「異常時通報連絡処置要領」に、ＬＣＯ逸脱宣言後、ＬＣＯ逸脱判断の訂正を行う場合は、当該
+　　　逸脱に係る保安規定で定める措置を継続した上で、速やかに原子力規制庁及び原子力保安検査官
+　　　へ連絡を取り、状況を説明の上、訂正を行うことを定める。
+
+３．その他の対応
+　　外部電源の更なる安全性・信頼性向上の観点から電力供給が可能なルートの充実を図るため、以下
+　を「工事計画認可申請書」「保安規定変更認可申請書」に明確に記載し、申請を行った。
+　　・南九州変電所が停止した場合でも電力供給が可能な霧島変電所、新鹿児島変電所を経由するルー
+　　　トを追加し、独立性を有する受電系統の充実を図った。
+　　　（工事計画認可申請：平成２９年３月１５日、保安規定変更認可申請：平成２９年３月２８日）
+
+　　上記申請について、霧島変電所から新鹿児島変電所及び川内火力を経由した川内原子力支線への給
+　電ライン並びに人吉変電所から出水変電所、川内火力及び新鹿児島変電所を経由した川内原子力支線
+　への給電ラインの運用を明確化するために、以下の補正申請を行う。
+　　・南九州変電所が停止した場合は、川内火力発電所の開閉所又は新鹿児島変電所を経由したルート
+　　　から受電可能な設計とする。
+　　　（工事計画認可申請書の一部補正）
+　　・１つの変電所又は開閉所のルートにより供給している場合であっても、設備構成として、別ルー
+　　　ト（川内火力発電所の開閉所又は新鹿児島変電所を経由した受電可能なルート）での連系が可能
+　　　な状態であれば、独立性を有しているとみなすことができる。
+　　　（保安規定変更認可申請書の補正）]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/12/07 11:59:24]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　川内原子力発電所１，２号機（加圧水型軽水炉、定格電気出力８９万キロワット）は、通常運転中の
+ところ、平成２９年４月２日１６時２４分、川内原子力線（外部電源２回線）に対し、独立性を有して
+いる人吉変電所から川内火力発電所（以下「川内火力」という。）を経由する外部電源１回線による受
+電ができなくなったことから、保安規定に定める外部電源の確保に係る運転上の制限（ＬＣＯ）逸脱と
+判断し、国と関係自治体へ通報連絡を行った。
+
+　その後、状況の確認作業を継続するなか、この人吉変電所からの外部電源１回線は新鹿児島変電所を
+経由することにより受電できていることを確認したことから、ＬＣＯを逸脱していないと判断し、同日
+１９時１５分にＬＣＯ逸脱を訂正（取り消し）した。
+　なお、人吉変電所からの外部電源系統については、同日２１時１２分に通常状態に復帰した。
+
+　この当社の判断について、４月３日に原子力規制庁に改めて確認したところ、人吉変電所から新鹿児
+島変電所を経由し受電する系統は、原子炉設置変更許可や工事計画認可の記載では読み取れないことか
+ら、結果的に４月２日１６時２４分から２１時１２分までの間は、ＬＣＯを逸脱している状態であった
+可能性があるとの見解が示された。
+
+　当社は、４月４日１時１５分に改めてＬＣＯ逸脱であったと判断し、国と関係自治体へ通報連絡を行
+った。
+
+【保安規定に定める外部電源に係る運転上の制限】
+　（１）３回線以上が動作可能であること
+　（２）（１）の外部電源のうち、１回線以上は他の回線に対して独立性を有していること]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2017-九州-M001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　外部電源の確保に係るＬＣＯを逸脱した原因は、川内火力が、川内火力の母線ＰＴヒューズが断線した
+ことを調査するため、川内火力のしゃ断器２０－５０を「切」としたことである。
+　本事象における運用上の原因は以下のとおり。
+
+１．外部電源の確保に係るＬＣＯ逸脱に至った運用上の原因
+（１）系統運用部門及び川内火力は、川内火力の２０－５０「切」操作に伴う保安規定上の影響について、
+　　新鹿児島２号線から新鹿児島変電所を経由して川内原子力支線へ給電できる系統構成となっているこ
+　　とから問題ないと考え、川内原子力発電所に問い合わせをしなかった。
+（２）川内原子力発電所は、系統運用部門から川内火力の２０－５０「切」操作を実施する旨の連絡を受
+　　けた時点で、保安規定上の影響の有無に関する事項について系統運用部門及び川内火力と協議・調整
+　　をしなかった。
+
+２．ＬＣＯ逸脱の取り消しに至った原因
+（１）川内原子力発電所の「発電課運転上の制限に係る判断要領」のうち、外部電源の独立性について判
+　　断する手順に、不明確な記載があり解釈の余地があった。
+（２）これまでの保安規定第８７条に基づく「予防保全を目的とした点検・保修」（青旗作業）の実施前
+　　の原子力規制庁への事前説明において、当該給電ラインでの電源供給が認められているとの認識であ
+　　ったことを踏まえて、取り消し判断時に原子力規制庁に問い合わせをしなかった。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[川内原子力発電所の保安規定に定める外部電源に係る運転上の制限の逸脱について]]></TITLE_NAME>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>957</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>70798</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/04/11 17:40:12]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[川内]]></PLANT_RYAKU_NAME>
+		<SORT_NO>15</SORT_NO>
+		<PLANT_CODE><![CDATA[kyusd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[川内発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<TROUBLE_ID>12638</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[なし]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>149</SORT_NO>
+						<BUHIN_CODE><![CDATA[998]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[998]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[なし]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[726]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[726]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[なし（機器に該当しない)]]></KIKI_NAME>
+					<SORT_NO>43</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[送受電系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[264]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[264]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[外部設備の故障及び運用の不備]]></S_GENIN_NAME>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12638</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[九州電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[九州]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[九州電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kyu]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>90</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9371</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/10/16 13:21:30]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4012</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/10/11 18:18:11]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20071010]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　原子力発電所内の排気筒および排気口から排気される気体廃棄物については放射能濃度の定例測定を行っているが、平成19年８月分の福島第一原子力発電所１・２号機共用排気筒から採取したフィルタの定例測定において、平成19年10月10日、粒子状物質のストロンチウム89が確認された。
+
+　今回確認された粒子状物質について、測定データをもとに周辺監視区域外における濃度の評価を行ったところ、空気中の濃度限度（告示濃度）に比べ十分低い値だった。また、今回確認された粒子状物質から受ける放射線量は、自然界から１年間に受ける放射線量2.4ミリシーベルトと比べても十分に低い値であり、胸のエックス線検診（１回）で受ける放射線量（0.05ミリシーベルト）の約17億分の１である。
+　なお、１・２号機共用排気筒モニタおよび敷地境界近傍に設置されているダストモニタに有意な変動はなかった。
+
+今回の放出による線量	約0.00000000003ミリシーベルト
+自然界から受ける線量（年間）	2.4ミリシーベルト
+参考：胸のエックス線検診（１回）	0.05ミリシーベルト
+
+　１号機と２号機の高圧タービン軸封部には、原子炉で発生した蒸気を使用しており、運転時は軸封部に使用した蒸気の多くは気体廃棄物処理系で処理されるが、一部は気体廃棄物処理系を介さずに共用排気筒へ導く設備となっていることから、当該排気筒において実施している放射能濃度の定例測定において粒子状物質が検出されたものと推定している。
+　なお、１号機および２号機における平成19年８月の作業実績から、粒子状物質の発生をともなう作業がなかったことを確認した。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東京-S074]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所１・２号機共用排気筒における放射性気体廃棄物の定例測定の結果について
+]]></TITLE_NAME>
+	<UNITS><![CDATA[1,2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/10/16 13:21:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

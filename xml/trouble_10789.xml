@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[（１）当該盤の損傷状況調査 
+当該盤の外観調査の結果、内部に設置されている断路器のＲ相、Ｓ相が開放状態で接触子の一部が激しいアークの影響によると思われる溶融ならびに操作ロッド※２の損傷を確認した。 
+Ｔ相は投入状態が保持され操作ロッドは健全ならびにアークの影響によると思われる一部の溶融を確認した。 
+また、盤の扉の変形・脱落、盤筐体内面各部への煤状物質の付着等を確認した。 
+ 
+※２：断路器の駆動機構の一部であり、操作力を各相の可動接触子に伝達するための絶縁性の部品。 
+
+（２）６．９ｋＶ２Ａ－２自動開放要因調査 
+６．９ｋＶ２Ａ－２盤内キュービクル※３番号１０しゃ断器が自動開放した要因を、同キュービクル内継電器のターゲット※４により確認した結果、短絡事故を保護するための過電流継電器（機器番号：５０－５１、Ｒ相とＴ相に設置）のうち、Ｒ相の短絡保護が動作したことを示す、「５０ターゲット」が動作していることを確認した。 
+ 
+※３：ユニット単位のしゃ断器盤を列盤として構成しており、１つのユニットをキュービクルと称している。 
+※４：継電器が動作したことを継電器表面から確認可能な動作表示器。 
+ 
+（３）発電所内各機器の状況調査 
+所内電源の電圧変動に伴い、燃料プール冷却浄化系ポンプの自動停止、原子炉建屋換気空調系の自動停止、非常用ガス処理系の自動起動、原子炉保護系ロジック動作（Ｂ系チャンネルのハーフスクラム）等が発生したが、いずれの機器も停止状態、運転状態に異常は無かった。また、所内電源系は定検作業のため計画的に停電している母線以外は正常に受電しており、当該盤以外に損傷等は発生していないことを確認した。 
+（４）所内電源系統に係る作業内容調査 
+事象発生前の所内６．９ｋＶ電源系統に関する作業内容を確認した結果、「６．９ｋＶメタクラ※５取替工事」にて、当該盤内の母線導体（銅製の板状のもの）の改造作業が実施されていた。この作業は、当該盤の受電系統変更の事前準備として、ケーブル接続作業を安全に遂行することを目的に、一時的に水平母線導体について、２台の断路器間を１相あたり１本で渡していたものを、断路器間の分離が可能な構造に変更するためのものであった。 
+母線導体寸法は現品寸法実測により合せたが、その際に２相分（Ｓ相およびＴ相）の寸法が同一（３７０ｍｍ）であったことから、残りのＲ相についても３７０ｍｍで作製、取付けを実施した。その際、Ｒ相の寸法が不足していることに気付き、現品寸法を測定した結果、４００ｍｍの長さが必要であることを確認したが、碍子部分の位置を調整すれば取付けが可能であると考え、作業を継続したことを聞き取りにより確認した。
+
+※５：メタルクラッド・スイッチギア（装甲開閉装置）の略称。 
+
+（５）水平母線導体寸法不足による断路器への影響調査 
+当該盤内に設置されている健全な断路器を用い、実寸より３０ｍｍ短い母線導体を接続して投入試験を行った結果、可動接触子と固定接触子が片当り（接触不良）となること、投入操作後に操作ロッドが３相全て、損傷したことを確認した。 
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10789</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2011/04/08 10:44:11]]></UPDATE_DATE>
+	<S_KIKI_NAME><![CDATA[電源切替盤]]></S_KIKI_NAME>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>20129</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/01/21 18:16:56]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200910230622]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[本事象は寸法不良の母線導体を接続したことから、断路器の投入不良を生じて火花等を発生させたものと考える。
+このため、今回の施工不良の経緯を調査した結果、本作業が当初の計画にはない作業であったにも関わらず、要領書が改正されず作業手順・試験項目が整備されなかったこと、及び本作業が盤の設計・製作と同等の管理が必要な作業であったにも関わらず、盤の設計・製作部署が関与していなかったことが判明した。
+このため、対策として以下を実施する。
+１）工事要領書作成手引書に、工事着手後に作業内容が変更となった際の管理項目を追加し、確実に要領書の改正版を提出させる。
+２）本設設備を改造する作業を実施する場合は、作業計画・試験計画の立案に当該設備の設計・製造部署を関与させるための要求事項を工事仕様書の特記事項に追加する。
+３）本設設備を改造する作業を実施する場合に、作業手順、試験・検査項目が当該設備の設計・製造部署の検証を受けて計画されているか確認するためのチェック項目を工事要領書チェックシートに追加する。
+
+なお、不具合の発生した当該盤は新品に取り替えた。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/04/08 10:44:11]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[第２４回定期検査中の平成２１年１０月２３日６時２２分頃、所内電源系統に係る作業後の復旧操作として、６．９ｋＶ２Ａ－２系統の負荷である「非常用変電所３．３ｋＶ２号配電盤」用しゃ断器を投入したところ、所内電源系の電圧変動、同しゃ断器の自動開放事象が発生した。 
+その際、複合建屋※１電気室（以下、「ＣＳ電気室」という）に設置の電源盤（６．９ｋＶ２Ａ－２～非常用変電所３．３ｋＶ２号配電盤間にある「非常用変電所３．３ｋＶ２号配電盤電源切替中継盤」（以下、「当該盤」という））付近からの火花と発煙、火災報知機の鳴動を操作に当たっていた運転員が確認し、継続的な発煙、火花はない旨を中央制御室に連絡した。 
+発電長はこれを受け、消火活動は不要であるアーク事象が発生したものと判断し、所内関係者を招集するための通報を行うとともに、発電所内各機器の運転状況確認を継続した。 
+その後、発電所に招集した所内関係者は、収集された情報から消防署に報告しておくべき事象であると判断したことから、７時０７分、公設消防へ連絡した。 
+７時４０分より現場確認が行われ、８時５０分に「本事象は過電流による破裂事故であり、火災ではない」との判断を受けた。 
+また、所内電源電圧変動に伴い、燃料プール冷却浄化系の停止、建屋換気系の停止、非常用ガス処理系（以下、「ＳＧＴＳ」という。）の自動起動、原子炉保護系ロジック動作等が発生したが、その後の復旧操作にて、通常状態へ復帰した。 
+なお、本事象にて原子炉建屋換気系が停止し、ＳＧＴＳが起動したことから、ＳＧＴＳ排気筒モニタを確認したところ、指示値変化は見られず、モニタリングポストの指示値変化は見られないことから、環境への影響はないことを確認した。また、人身災害も発生しなかった。 
+ 
+※１：原子炉建屋と周辺建屋の複合構造。電気室は周辺建屋側に位置する。 
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M018]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[これまでの調査状況から、当該盤内で短絡等の不具合が発生したメカニズムを、以下のとおり推定した。
+＜推定メカニズム＞
+１）当該盤内のＲ相母線導体を本来、４００ｍｍで作製すべきところを３７０ｍｍで作製、取付けを行った。 
+
+２）母線導体が短かったことから、断路器の可動接触子と固定接触子の位置関係にずれを生じた。 
+
+３）作業後の復旧において断路器を投入した際に、Ｒ相が不完全投入状態となった。また、駆動機構部に想定外の力が加わり、操作ロッドが損傷した。
+
+４）メタクラしゃ断器投入により通電が開始された際に、不完全投入状態にあったＲ相の可動接触子と固定接触子との間でアークが発生、断路器周辺の空気が急速にイオン化することでアークが成長した。 
+
+５）アークの成長がＲ相からＳ相に及び、２相短絡状態となった。この際、アーク発生の衝撃により、盤内各機器を破裂的に損傷させるとともに、アークの熱により機器が過熱、発煙を生じた。また、相間短絡に伴い各相電圧が急激に低下、所内電圧が低下した。 
+
+６）アークは更に成長を続け、Ｔ相へも波及、３相短絡状態となった。
+
+７）過電流継電器が動作することでメタクラしゃ断器が自動開放したため通電が停止となり、アークが消滅、所内電圧も回復した。 
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[所内電源操作中における電源盤損傷の発生について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃発生]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<PRESS_ATTACH_ID>22949</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/01/22 13:05:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<S_KIKI_NAME><![CDATA[電源切替盤]]></S_KIKI_NAME>
+			<TROUBLE_ID>10789</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[断路器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>10789</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[ＡＣ所内電源系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[165]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[165]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10789</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[製作不完全]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+				<SORT_NO>1</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0110]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[設備不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[010]]></GENIN_DAI_CODE>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10789</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10789</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10789</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[14]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[電気設備]]></SETSUBI_NAME>
+		<SORT_NO>14</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

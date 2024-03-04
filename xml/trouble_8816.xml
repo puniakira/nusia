@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[ 本事象の関係者からの聴き取り調査を行い、時系列に整理し、問題点を分析した。
+ また、設備的な問題点についても洗い出しを行った。
+
+（１）聴き取り調査
+ １）準備段階（平成１９年４月９日）
+ ４月９日に事前打合せを行い、操作手順、ベンティング操作工程、ホース脱着時の留意点等を確認したが、この打合せは、中央制御室に配置される２名の運転員１と現場にて操作を行う運転員Ａの３名のみで行っており、運転員ＢとＣは参加していなかった。
+ このため、運転員ＢとＣは、電磁弁ＥとＧを挿入側ベント管に、電磁弁ＦとＨを引抜き側ベント管に接続することを認識していなかった。
+ ２）操作段階（平成１９年４月１０日）
+　ａ．各ベント管へのホース接続時
+ 運転員Ｃが当該駆動機構の各ベント管にホースを接続したが、このとき、ホースの下流側に設置されている電磁弁との組合せ確認を行わなかったことから、各ベント管と電磁弁の組合せがあらかじめ決めた状態と異なっていることに気付かなかった。
+　ｂ．各ベント管に接続された電磁弁との組合せ確認後
+　（ａ）各ベント管に接続された電磁弁との組合せが既にベンティング操作を終えた２体とは逆の組合せになっていると認識した運転員Ａは、ホースの付替えを運転員Ｂに指示したが、このとき、当該駆動機構の挿入側ベント弁及び引抜き側ベント弁を閉弁するよう指示しなかった。
+　（ｂ）携帯式所内電話でのグループ通話において、運転員ＡとＤの会話を聞いた運転員Ｂは、その会話の雰囲気から、操作担当の自分が誤った操作を行ったかのごとく強く意識し、速やかな是正が必要と思い込んだ。
+  ｃ．ホース付替え時
+ 運転員Ｂが挿入側ベント管に接続されていたホースの接続口を緩めたが、事前に当該駆動機構の挿入側及び引抜き側のベント弁を閉弁していなかった。
+
+（２）設備的な問題点
+ ７３体の制御棒駆動機構の挿入側及び引抜き側に設置されているベント管は、原子炉建屋１階の２箇所に３７体分と３６体分に分けられている。
+ ベンティング操作を行う際は、空気抜きタンクにつながるホースを挿入側及び引抜き側のベント管に接続するが、このホースは、１箇所に４本しかなく、このため、ベンティング操作に合わせて順次脱着する必要がある。
+ ４本のホースはいずれも黒色の同一形状であり、さらに、ホースの接続先を示す表示等もないため、ホースの接続間違いによるベント管と電磁弁の組合せ不良が起こり易い状況であった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>8816</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[03]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転操作]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2007/11/06 11:01:25]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3763</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2007/05/14 18:03:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20070410]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）操作等に伴う事前前打合せにて確認された内容、注意事項等は、当該操作等に係るすべての運転員に周知することとし、その旨を運転員全員に徹底させる。
+（２）ベンティング操作に使用するホースの接続先を固定するとともに、ベント管と電磁弁の組合せを固定し、運転手順書に明記した。
+（３）各ベント管と電磁弁の組合せ間違いが発生しないようにするため、ホースに接続先を明記した表示を取付けた。
+ また、ベント弁にホースを接続する際、挿入側と引抜き側を間違えないようにするため、色分けを行った。
+（４）各ベント管に接続されているホースを取外す際は、挿入側及び引抜き側のベント弁が閉弁していることを確認する旨の表示を取付けた。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/11/06 11:01:25]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[ 敦賀発電所１号機は、第３１回定期検査中の平成１９年４月１０日、前日より開始した制御棒駆動機構の空気抜き（以下、「ベンティング」という。）※１を行うため、現場に運転員１（以下、「運転員Ａ」という。）１名と本年４月に訓練運転員から昇格した運転員２（以下、「運転員Ｂ」という。）１名を、また、中央制御室に２名の運転員１を配置し、操作にあたっていたところ、制御棒駆動機構２６－２３（以下、「当該駆動機構」という。）のベンティング操作開始前の同日９時２４分頃に、運転員Ｂが挿入側ベント管に接続された空気抜き用のホース（以下、「ホース」という。）の接続口を緩めたことから、接続口から水が飛散し被水した。
+ このため、運転員Ｂは、直ちにホースを接続し、水の飛散を止めた。
+ ホースの接続口から飛散した水の量は約２リットルと推定され、すべてドレン受けにより回収された。
+ なお、制御棒駆動機構の冷却水の水源である復水貯蔵タンク水の放射能濃度を測定したところ、検出限界値（６．３×１０－3Ｂｑ／ｃｍ３：６０Ｃｏ）未満であった。
+ また、被水した運転員Ｂの身体に汚染はなかったが、念のため、ホールボディカウンタによる測定を行い異常のないことを確認した。
+
+※１　ベンティング：通常、ベンティングは、制御棒駆動機構の分解点検を実施したもの等に対し行うが、今定期検査では、原子炉再循環ポンプＣ入口弁の分解点検に伴い、原子炉圧力容器内の全水抜きを行っていることから、制御棒駆動機構７３体（全数）について、ベンティングを実施する。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-原電-M002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[ 本事象は、運転員Ｂがホースの付替えを行う際、事前に当該駆動機構の挿入側及び引抜き側のベント弁を閉弁しなかったことが直接の原因であるが、その根底には、以下の要因が関係している。
+（１）事前打合せの不備
+ ４月９日に行った事前打合せに運転員ＢとＣが参加していなかったため、ベント管にホースを接続する際は、ホースの下流側に設置されている電磁弁を基準とし、電磁弁ＥとＧを挿入側ベント管に、電磁弁ＦとＨを引抜き側ベント管に接続する旨が連絡されなかった。
+ この連絡は、その後も運転員Ｃには行われなかった。
+（２）操作後の確認不足
+ 運転員Ｃが当該駆動機構の各ベント管にホースを接続した後、ベント管と電磁弁の組合せ確認を行わなかったため、ベンティング操作を開始する直前まで組合せの間違いに気付かなかった。
+（３）操作指示の不足
+ 運転員Ａがホースの付替えを運転員Ｂに指示した際、挿入側及び引抜き側ベント弁を閉弁するよう指示しなかった。
+ また、運転員Ｂも各ベント弁の閉操作を実施しなかった。
+ なお、運転員Ｂは、携帯式所内電話での会話の雰囲気から、操作担当の自分が誤った操作を行ったかのごとく強く意識し、速やかな是正が必要と思い込んでいた。
+（４）設備上の不備
+ ベンティング操作に使用する４本のホースは、いずれも黒色の同一形状で、ホースの接続先を示す表示等もないため、ホースの接続間違いによるベント管と電磁弁の組合せ不良が起こり易い状況であった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒駆動機構空気抜き作業中の被水について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/05/18 09:20:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>8816</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>8816</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

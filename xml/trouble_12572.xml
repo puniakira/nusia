@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12572</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2017/03/14 11:27:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2017/01/13 14:19:39]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201701071854]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2017/03/14 11:27:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．状況
+　東海第二発電所は第２５回施設定期検査中の平成２９年１月７日１８時５４分頃、中央制御室の警報盤に４８０Ｖ電源系２Ｂ－１母線の地絡警報が発報するとともに、廃棄物処理棟制御室の警報盤に撹拌空気供給用送風機の電源喪失警報が発報したことから、発電長は直ちに運転員を現場（廃棄物処理棟４階撹拌空気供給用送風機室）に向かわせたところ、１９時０１分撹拌空気供給用送風機モータ（以下「当該モータ」という）近傍から白煙が発生（炎は無し）していることを確認した。
+　このため、発電長は１９時０９分公設消防に１１９番通報を実施した。公設消防は１９時３０分頃消防車３台（サイレン鳴動、赤色灯点灯）で発電所に到着し、自衛消防隊と共に現場の確認へ向かった。
+　１９時５１分には運転員により白煙の発生は収束傾向にあることを確認しており、その後、公設消防による確認の結果、２０時３１分に「本事象は火災ではない」との判断を受けた。
+　なお、本事象に伴う外部環境への影響はなかった。
+
+２．点検調査
+　当該モータに白煙が発生した原因調査のため、当該モータを分解し内部の状況を確認した。結果は、以下のとおり。
+(1) モータ負荷側の軸受部品に変形・位置ズレ及び変色を確認。
+(2) 軸受内輪摺動面に圧痕及び摩耗を確認。
+(3) 負荷側固定子鉄心（巻線含む）に回転子との接触痕及び変色が観察されたが、絶縁ワニス（エポキシ樹脂）の溶融の形跡は認められなかった。
+
+　また、当該モータの点検履歴等を調査した結果、軸受部へのグリスアップについて手順では「異音時および依頼時」と不定期で実施することになっており、平成２４年４月以降に補給した実績がないことを確認した。
+
+３．原因
+　点検調査の結果から発煙の発生原因は、当該モータについては定期的なグリスアップをしていない（異音発生時等の場合にグリスアップを実施する手順となっていた）ため、負荷側軸受の潤滑不良（グリス枯渇）により、金属どうしの接触による異常過熱で発煙したものと推定した。
+　また、負荷側軸受の損傷により、固定子鉄心と回転子の隙間が無くなり、接触したことで固定子巻線の損傷に至り、地絡が発生したものと考えられる。
+
+４．対策及び水平展開
+(1) 対策
+① 当該モータの取替。（来年度予定の送風機一式取替計画に合わせて実施）
+② 当該モータを含む定期グリスアップ対象外機器（全42台）について、グリスアップを定期的に実施する手順とする。
+(2) 水平展開
+① 定期グリスアップ対象外機器で、現在運転中の機器についてはグリスアップを実施した。
+② 停止中の機器については、今後、運転機器切替等で起動した際にグリスアップを実施する予定。
+
+以　上
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-原電-S003]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[廃棄物処理棟４階撹拌空気供給用送風機室（管理区域）における白煙の確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2017/01/13 14:19:56]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

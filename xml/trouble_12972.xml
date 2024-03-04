@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>12972</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2020/03/10 07:56:19]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>87987</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2019/06/28 17:09:03]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201906231430]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2020/03/10 07:56:19]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　2019年6月23日、14時30分頃、協力会社社員が床ドレン系(注1)のタンクレベルが上昇していることを確認した。（約4.5 m3の上昇）
+　このため、現場調査をおこなったところ、同日17時00分頃、当社社員が1号機 復水ろ過脱塩装置建屋（以下「CFD建屋」という） 地下1階の配管トレンチ室(放射線管理区域内)の床面に、約4.5m3の水溜まりがあることを確認した。
+
+　原因調査の結果、CFD建屋に隣接するサブドレンピットA,Bの2つのうち電気設備点検に伴う停電により、設置深さが浅いサブドレンピットBに設置されているサブドレンポンプが停電していた。また、設置深さが深いサブドレンピットAに設置されているポンプは通電状態であったが、故障（インペラ破損、配管詰まり）しており地下水の排水量が低下していたため、地下水位が上がって建屋エキスパンションジョイントから流入したことが判明した。
+
+　再発防止対策は以下のとおりである。
+①当該故障していたポンプの修繕を行った。
+②停電時においても、サブドレンピットに設置されているサブドレンポンプが運転可能となり地下水位が当該部屋の床レベルよりも低くなるように、仮設電源を設置することを停電対策書に反映した。
+③エキスパンションジョイントから、地下水等が建屋内に流入した場合に早期に検知し、排水できるように漏水検知器を設置し、中央制御室に警報を発報するようにした。また、本設の排水ポンプを設置し、液体廃棄物処理設備へ排水できるように設備改良を実施した。
+
+（注1）床ドレン系とは、放射線管理区域内の作業などで発生する廃液のうち、導電率の高い廃液。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2019-中部-S002]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[復水ろ過脱塩装置建屋地下1階への地下水の流入]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2019/06/28 17:09:55]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

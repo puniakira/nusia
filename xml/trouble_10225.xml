@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生の経緯
+
+（１）原子炉起動過程において制御棒を１ノッチ※１ずつ引き抜く操作を実施していたところ、２ノッチ引き抜ける事象が３本の制御棒に各１回発生した。（３月１９、２１日）
+
+（２）このため、同様の事象が再発することを防止する観点から、当該制御棒駆動水圧系の空気抜き作業を行っていたところ、当該制御棒が全引抜位置から全挿入する事象が発生した。（３月２３日）
+
+２．要因調査
+
+　本事象の要因分析を行い、当該事象発生時には担当課が当該制御棒駆動水圧系の空気抜き作業を実施しており、引抜側の空気抜き弁に接続されているベント装置※２の弁を開操作した際に挿入されることが分かった。
+
+３．事象発生の推定メカニズム
+
+　当該制御棒が全挿入したメカニズムは、当該制御棒駆動水圧系の引抜側の空気抜き弁およびベント装置の弁を開操作したことにより、制御棒駆動機構ピストン上面の圧力が低下し、ピストン下面の原子炉圧力との差圧が制御棒が動作する差圧より大きくなったことから、当該制御棒が全引抜位置から挿入方向に動き出し、全挿入されたものと推定した。
+
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<TROUBLE_ID>10225</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[101]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[運転]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[1]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[１]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2016/01/22 13:30:51]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[T]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[トラブル情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4420</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/03/26 08:36:00]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200903231128]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[５．再発防止対策
+
+（１）原子炉運転中における制御棒駆動水圧系の空気抜き作業の禁止
+　今後は原子炉運転中（原子炉起動時含む）における制御棒駆動水圧系（待機側の機器は除く）の空気抜き作業は実施しないこととする。
+
+（２）必要な技術的情報に基づく承認等の実施
+　初めて行う作業や計画外で行う作業に対しては、担当者は個別に作業手順書を作成し、担当課長が承認する。その個別手順書に基づき、担当課は所内関係者に作業内容の説明を行い、管理職および原子炉主任技術者は確認を行う。
+
+（３）作業手順書の改善
+　初めて行う作業や計画外で行う作業に対して新たな作業手順書を作成、もしくは既存の作業手順書の一部を抜粋・変更して個別の作業手順書として使用する場合、以下のとおりとする。 
+
+ａ．作業を行なうことができる原子炉運転状態（原子炉圧力、原子炉冷却材温度等）を作業手順書に明確に記載する。
+
+ｂ．手順書作成時には、「３Ｈチェック印」（初めて、変更、久しぶりに対する該当チェックと理由）を押印し、管理職および必要に応じて原子炉主任技術者は担当者と確認・対話を行う。
+
+（４）起動時健全性評価会の運営の改善
+　起動時に発生した不適合事象については、確実な検討を行うために、「不適合事象検討会」において処置方針または処置内容を検討し、その検討結果について、出力上昇への影響等の観点から処置の要否を「起動時健全性評価会」において審議する。
+　以上の内容を社内要領書に明記する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/01/22 13:30:51]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[女川原子力発電所１号機（平成２０年２月１４日より第１８回定期検査中）は、平成２１年３月１８日に原子炉を起動、同３月２３日に発電再開（調整運転中）し、発電機出力を上昇させていた。
+その中で、３月２３日午前１１時２８分頃、８９本ある制御棒のうちの１本が、意図せず全挿入する事象が発生した。
+このため、電気出力が１０万５千キロワットから１０万キロワットに低下した。
+現在、原因を調査中。
+本事象は法律に基づく報告事象。
+この事象による発電所周辺への放射能の影響はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東北-T015]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[４．原因
+
+　原因は、制御棒駆動水圧系の空気抜き作業を原子炉運転中に実施したことによるものです。
+　また、原子炉運転中に当該作業実施に至った原因は、以下のとおりです。
+
+（１）作業を承認・了解した管理職および原子炉主任技術者は、制御棒駆動機構は一定以上の差圧があると制御棒が挿入されること、およびアキュムレータ出口圧力が原子炉圧力より低下した場合においても原子炉圧力が制御棒駆動機構下部に印加され、確実に制御棒が挿入される構造になっていることを知っていたものの、説明時に今回の空気抜き作業の実施可否判断に必要な技術的情報がなく、自らも確認しなかったことから、原子炉運転状態で当該作業を実施すると、制御棒が挿入される可能性に気付くことができなかった。
+
+（２）今回の作業手順は、本来、原子炉停止中（大気圧状態）における空気抜き作業の手順であったが、適用範囲（運転状態等）が明記されていなかった。
+
+（３）原子炉起動過程の各段階で、プラントデータ、作業完了の状況およびパトロールの結果等について評価を行うために実施している「起動時健全性評価会」において、制御棒が２ノッチ引き抜ける事象については、情報提供が行われたものの、報告事項か審議事項かの位置付けが不明確であり出席者もその取り扱いについて確認しなかった。このため、２ノッチ引き抜ける事象への措置の要否については議論が行われなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[女川原子力発電所１号機発電機出力上昇過程における制御棒1本の全挿入について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[1]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[あり]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>105</DENKI_OUTPUT_NBR>
+	<PRESS_ATTACH_ID>4421</PRESS_ATTACH_ID>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/03/26 08:43:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[女川]]></PLANT_RYAKU_NAME>
+		<SORT_NO>2</SORT_NO>
+		<PLANT_CODE><![CDATA[thkon]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[女川発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10225</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10225</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10225</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[011]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[実用炉規則19条の17]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[20]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[出力低下]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>10225</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

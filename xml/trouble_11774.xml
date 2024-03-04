@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11774</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/03 16:24:31]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58566</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2013/08/05 02:19:31]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201307232103]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2015/12/03 16:24:31]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[７月23日午後９時３分、２号機にて建屋内の空気をフィルタを通して放射性物質を除去したうえで排気し、その際に排気設備出口側のダスト監視を行う設備（Ａ系、Ｂ系）のダスト放射線モニタＢ系において、吸引ポンプの機器異常警報が発生。本警報に伴い同設備のダスト監視Ｂ系が停止。また、ダスト放射線モニタＡ系は故障修理中であったため、ダスト放射線モニタはＡ系、Ｂ系ともに測定出来ない状態。ただし、排気については継続してフィルタを通して実施しており、プラントデータ（原子炉圧力容器底部温度、格納容器内温度等）の異常やモニタリングポスト指示値の有意な変動は確認されていない。その後、ダスト放射線モニタＢ系の現場確認を行ったところ、ダスト測定用のろ紙を挟んで固定する気密装置（モータ駆動）の位置検出器にずれがあることを確認。このずれにより機器異常の警報が発生しダスト吸引ポンプが停止したものと推定。その後、位置検出器のずれを調整し、同日午後11時43分にダスト放射線モニタＢ系吸引ポンプを再起動し、午後11時53分よりダストの測定を再開。
+７月24日午後０時頃、ダスト放射線モニタＢ系に機器異常（圧力異常）警報が発生し、吸引ポンプが再度停止。７月23日の同設備の停止時と同様に、ダスト放射線モニタＡ系は故障修理中のため、ダスト放射線モニタはＡ系、Ｂ系ともに測定できない状態。その後、現場確認を行ったところ、ろ紙送り装置のパッキン部がずれたことにより当該装置内の圧力異常が生じ、吸引ポンプが停止したものと推定。そのため、当該パッキン部のずれを修正した上で、同日午後２時16分にダスト放射線モニタＢ系吸引ポンプを再起動。その後、運転状態に異常は確認されていない。なお、ダスト放射線モニタの停止期間においても、当該原子炉建屋排気設備は運転を継続しており、原子炉建屋内の空気はフィルタを介して排気を継続。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S137]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所２号機原子炉建屋排気設備出口ダスト放射線モニタ異常について]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/08/06 11:21:23]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

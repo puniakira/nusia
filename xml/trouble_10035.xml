@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>10035</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/10/29 15:33:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4338</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/10/23 17:26:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20081007]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[【事象発生時の状況】
+　第３回定期検査中の５号機において、平成２０年１０月７日午後５時頃、非常用ディーゼル発電機（Ａ）潤滑油冷却器の分解点検を行っていたところ、同冷却器内部に異物があることを確認した。
+確認された異物は、長さ約２３cmのプラスチック製水平器１体で、３つに割れた状態であった。
+　また、後日実施した残留物の調査において、当該冷却器の上流側の弁の近傍配管内面に当該水平器の付属品と推定されるマグネット板が付着していることが確認された。（回収済み）
+　その他の残留物について確認はできなかった。また、残留している可能性がある部品の材質・寸法、および過去の運転実績から当該系統の機能に影響はないものと評価した。
+＜残留物＞
+１．気泡管１個（直径：10mm×長さ：25mm）
+２．マグネット板（ゴム状）（幅：約10mm×長さ：約15mm×厚さ：約1mm）
+３．プラスチック破損片２個（約10mm×約8mm×約3mm，約10mm×約5mm×約1.5mm）
+
+【原因】
+　水平器が系統内に持ち込まれた時期について特定はできなかったが、以下の理由により建設工事中に当該系統内に持ち込まれた可能性が高いと推定した。
+１．営業運転開始（以下「運開」という。）以降、当該系統設備の分解点検時に水平器は使用していない。
+２．水平器の破損状況（円弧状の歯形）から、弁の開閉により破損した可能性がある。
+　→マグネット板（後日発見された残留物）が付着していた場所から、当該冷却器上流側の弁の開閉時に破損した可能性がある。運開以降、当該弁を開閉した可能性は極めて低いが、建設時は当該弁の開閉実績がある。
+３．建設関係者に聞き取り調査した結果、当該水平器の使用実績を確認することはできなかったが、個人所有物の使用を禁止していなかったことから、当該水平器を使用した可能性は否定できない。
+
+【対策】
+　運開以降は、社内ルールに基づき異物管理が徹底されていることから、新たな対策は実施しない。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-中部-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[非常用ディーゼル発電機（Ａ）潤滑油冷却器内部での異物発見・回収について]]></TITLE_NAME>
+	<UNITS><![CDATA[5]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/10/29 15:33:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

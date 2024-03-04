@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11949</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2014/06/05 14:05:22]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>48062</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2014/03/12 19:59:44]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201403111222]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2014/06/05 14:05:22]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[平成26年３月11日、６号機残留熱除去系ポンプ吸込ライン（Ａ系、Ｂ系共通ライン）に設置されている安全弁の点検の準備作業として、配管内の水抜きを行っていたところ、同日午後０時22分頃、６号機原子炉建屋地下２階南西側サンプエリアで漏えい検知器が動作した。現場確認を行った結果、当該エリア床面に水たまりを発見した。
+同日午後０時28分頃に配管内の水を送っていたサンプから、同じエリアにある別のサンプへ水を送っていた仮設ポンプを停止したことにより、漏えいが停止したことを確認した。
+漏えいの原因については、仮設ポンプで水を送っていた移送ホースの先端がサンプから外れて床面に水が漏れたものと推定している。漏えい範囲は２箇所（約３ｍ×約２ｍ×深さ約５cm, 約1.5ｍ×約１ｍ×深さ約２cm）で、漏えい量については漏えい範囲から約330Ｌと推定した。また、漏えい水の分析結果は以下の通り。
+　・コバルト60　 ：2.4×10^4 Bq/L　
+　・マンガン54　 ：6.7×10^2 Bq/L
+  　(全ガンマ　  ：2.5×10^4 Bq/L)
+漏えい水の放射能量（ガンマ核種）は約8.3×10^6 Bq。
+漏えいに至った原因は、移送ホース固縛箇所が仮設ポンプ吐出ライン近傍の１箇所であり、機器サンプ差し込み口近傍に固縛をしていなかったことから、仮設ポンプ運転に伴う脈動、更には機器サンプの水面上昇によるホースの浮き上がりにより、機器サンプから徐々にホースが引き抜けたためであると実証試験により推定。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-東京-S092]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所６号機　Ｒ／Ｂ地下２階南西側サンプエリアでの水漏れについて]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2014/03/12 20:00:02]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

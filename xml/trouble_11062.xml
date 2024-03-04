@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11062</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2011/03/18 14:28:46]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>21974</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/08/21 15:27:33]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201006281425]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2011/03/18 14:28:46]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成22年6月28日（月）14時25分頃，定期検査中の島根原子力発電所2号機の原子炉建物地下1階（放射線管理区域外）において，当社社員が，2系統で構成される原子炉補機海水系※１の内，一方の系統のドレン配管からの水漏れを確認した。
+　水漏れは原子炉補機海水ポンプを停止したことにより止まった。
+　漏えいした水は床面の排水口に流れ込んでおり，床面に残った水溜り（約60リットル）は，紙ウェスにより拭き取り回収した。
+　調査の結果，原子炉補機海水系ドレン配管の接続部からの放射性物質が含まれていない海水の漏えいであることを確認した。
+　この事象による作業員のけが，被ばく，被水および外部への放射能による影響はなかった。
+　
+　原因調査の結果，当該配管接続部のゴム製パッキンが長期使用により割れ等の劣化が進んだ状態となっていたところに，原子炉補機海水ポンプの起動・停止に伴う配管内の圧力変動により，パッキンが破損し，海水が漏えいしたものと推定した。
+　原子炉補機海水系ドレン配管は，点検時に配管内の溜まり水を抜くために設置しており，運転中は使用しない配管であると共に，当該ドレン配管を使用しなくても水抜き作業が可能であることから，当該ドレン配管を撤去することとした。
+　また，海水系配管※２の内，ゴム製パッキンを使用している配管接続部について，今後，計画的に点検することとした。
+※１原子炉補機海水系
+原子炉建物内の機器（ポンプ等）の冷却水を冷やすための海水を循環させる設備。
+※２海水系配管
+原子炉補機海水系等に設置された，海水が流れる配管の総称。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-中国-S005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉補機海水系ドレン配管からの漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/10/13 11:18:16]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>70</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[cgk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[島根]]></PLANT_RYAKU_NAME>
+		<SORT_NO>12</SORT_NO>
+		<PLANT_CODE><![CDATA[cgksn]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[島根発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

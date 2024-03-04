@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9562</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/01/29 18:38:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>4125</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2008/01/28 15:56:49]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200801241444]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　
+　第１５回定期点検中の３号機において、平成２０年１月２４日午後２時４４分、協力会社社員がタービン建屋１階 低圧給水加熱器（※１）室（放射線管理区域）で、水溜りを発見した。
+　当社運転員が現場状況を調査したところ、３系統ある低圧第４給水加熱器の各々の水位計の排水弁が分解開放中であり、その内２系統の排水弁の開放部から漏水し、床面に水溜りがあることを確認した。
+　このため、運転員は当該排水弁の上流側の弁を閉弁し、午後２時５６分に水の漏えいは止まった。
+
+　水溜りは、建屋１階の排水弁近傍の床面の他、床面の配管貫通部を伝わったことにより地下１階でも確認され、漏えい量は合計で約１６０リットルであることを確認した。
+
+　漏水の放射能量は、分析結果から約４．０Ｅ＋０３Ｂｑで、国への報告基準である３．７Ｅ＋０６Ｂｑ（※２）の約９００分の１であった。
+　本事象による、外部への放射能の影響はなかった。
+
+【原因】
+　当該弁の分解開放時に必要な隔離措置（※３）を実施していなかったため。
+
+※１　低圧給水加熱器は、プラントの熱効率を向上させるため、原子炉への給水をタービンへ送る蒸気の一部（抽気）で加熱する機器である。第１段から第４段まであり、各段（Ａ系）～（Ｃ系）の３基、合計１２基ある。
+
+※２　報告基準である３．７Ｅ＋０６Ｂｑは、管理区域内の放射線管理の観点からは非常に低い数値であり、通常の管理区域内の作業状況からは、この放射能量で有意な被ばくが発生することは考えられないが、管理区域内でも極力被ばくを低減させることが望ましいとの観点から採用しているものである。
+出典：「平成19･06･08 原院第１号 実用発電用原子炉の設置、運転等に関する規則第１９条の１７及び研究開発段階にある発電の用に供する原子炉の設置、運転等に関する規則第４３条の１４の運用ついて（内規）」
+
+※３　分解開放されている弁に水が流れてこないようにする措置のこと。この場合は、流れの上流側の弁を閉弁しておくことを指す。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-中部-S016]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン建屋内における水の漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/01/29 18:38:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

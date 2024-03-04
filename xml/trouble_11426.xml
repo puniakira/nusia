@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．事象発生時および事象発生前後におけるスクラムパイロット弁の状況を確認した。
+
+（１）事象発生前
+○定期検査開始直後の９月３日に実施したスクラム試験において動作は良好であった。
+○９月９日に簡易点検（電気特性試験）を実施した。
+○10 月５日に実施したスクラムパイロット弁とスクラム弁の単体試験においても動作は良好であった。
+○９月９日から10 月５日の間には、IA（計装用圧縮空気）系のフィルタからスクラムパイロット弁までに設置されている機器（フィルタ、圧力調整弁、バックアップスクラム弁、ARI 電磁弁、圧力計、圧力変換器等）の交換作業を実施していた。
+○10 月５日から10 月８日の事象発生までの期間において、スクラム電磁弁電源ヒューズの復旧、IA（計装用圧縮空気）系の漏えい試験等の定期検査時における通常の作業は実施しているものの、スクラムパイロット弁の動作不良の要因となるような特殊な作業は実施していなかった。
+
+（２）事象発生時
+○当該のスクラムパイロット弁及びパイロットエアー配管について据付状態も含め外観確認をした結果、異常は確認されなかった。
+○A 系・B 系ソレノイド励磁状態からA 系→B 系の順に無励磁にし、スクラム試験を実施したところ、スクラム動作しなかった（十数秒後、リセット操作（両系ソレノイド励磁）まで事象継続）。また、パイロットポート部からエアー音が確認された。【条件Ⅰ（A 系→B 系）】
+○A 系・B 系ソレノイド励磁状態からB 系→A 系の順に無励磁にし、スクラム試験を実施したところ、正常にスクラム動作した。なお、パイロットポート部からのエアー音は確認されなかった。【条件Ⅱ（B 系→A 系）】
+○中操からのCOS 操作によるスクラム試験を実施したところ、スクラム動作しなかった（十数秒後、リセット操作（両系ソレノイド励磁）まで事象継続）。【条件Ⅲ】
+○単体作動確認実施前の両系ソレノイド励磁状態において、A 系ソレノイドからハム音が確認された。
+
+（３）事象発生後
+○当該弁不具合発生に伴う交換時に両系（A 系・B 系）ソレノイドを無励磁にしたところ、事象発生時同様にスクラム動作しなかったが、数分後に遅れてスクラム動作した。このことから、事象発生時においても当該弁は完全に不動作となったのではなく、動作が緩慢になっていたものと考えられる。
+
+２．工場調査結果
+現地では外観上の異常は確認されなかったため、工場調査を実施した。
+（１）外観点検
+スクラムパイロット弁の外観目視点検を実施したところ、異常は確認されなかった。
+（２）電気試験
+コイル電流抵抗測定、絶縁抵抗測定を実施したところ、異常は確認されなかった。
+（３）パイロットポートシート漏えい確認
+パイロットポート部におけるエアーの供給ポート及び排気ポートのシート漏えい確認を実施したところ、漏えいは確認されなかった。
+（４）ノイズ確認
+A 系・B 系ソレノイドが励磁状態において、A 系ソレノイドからハム音（うなり音）が確認されたものの、動作不良に至るような異音は確認されなかった。
+（５）パイロットポート部からのエアー音の再現性確認
+A 系・B 系ソレノイドが励磁の状態からA 系ソレノイドを無励磁にした（事象発生時の条件Ⅰを模擬した）ところ、パイロットポート部からのエアー音はなく、再現性は確認されなかった。
+（６）分解点検
+A 系ソレノイド側の動作部品（コア組立品A）のボンネット側および吸着面側の同位相に傷が確認された。
+○コア組立品A のボンネット側の傷は円周方向であり、黒色の痕跡であった。
+○コア組立品A の吸着面側の傷は動作方向であり、摺動痕であった。
+○ボンネット内面にはコア組立品A のボンネット側の黒色痕跡の転写痕が確認された。
+○ソルベース組立品A 内面にはコア組立品A の吸着面側に黒色の痕跡が確認された。
+その他の部品には傷は確認されず、スプリング荷重、部品寸法、組込の不良、バリも確認されなかった。なお、当該弁の内部から異物は確認されなかった。
+（７）分解点検で確認された傷および転写痕の分析
+分解点検で確認された傷および転写痕について、ミクロ観察を実施した。
+ａ．コア組立品A 吸着面側
+コア組立品A がソルベース組立品A 内面に片あたりしながら動作したことにより発生したものと思われる動作方向のすり傷が確認された。
+ｂ．コア組立品A ボンネット側
+コア組立品A がボンネット角部にあたり発生し、その後のスクラムパイロット弁のチャタリングにより摩耗・進展したと思われる円周方向の傷が確認された。
+ｃ．ボンネットの転写痕
+コア組立品A の傷（ボンネット側）と相対する位置に黒色のあたり痕が確認された（面取り部には変色や付着物なし）。
+
+３．スクラムパイロット弁が動作不良となった原因の調査結果
+（１）製作段階における不良
+当該弁は受入前に工場において部品寸法・動作確認も含め各種検査を実施しており、その結果に問題がないことを当社が記録確認を実施した上で受入を実施している。また、第8 回定検において交換・据付後の動作結果も良好であったことから、受入前の弁製作段階において動作不良に至る要因が存在していたとは考えられない。
+（２）施工時における不良
+当該のスクラムパイロット弁及びパイロットエアー配管について据付状態も含め外観確認をした結果、異常は確認されなかった。
+当該弁の点検履歴を確認した結果、第8 回定検（平成20 年）に交換を実施している。また、交換にあたっては熟練した作業員が実施しており、交換・据付後の動作結果も良好であったことから、交換作業は適切に行われていたことを確認した。
+なお、スクラムパイロット弁については定期交換品（1 回／５定検）であり分解点検を実施していない。前回第9 回定検、今回第10 回定検においては動作試験を実施しており試験結果は動作良好であった。
+以上のことから施工時に動作不良に至る要因が存在していたとは考えられない。
+（３）施工後における不良
+ａ．ダイアフラム組立品の作動不良
+分解点検においてダイアフラム組立品に異常は確認されず、またダイアフラム組立品の作動不良があれば条件Ⅰ（A 系→B 系）・Ⅱ（B 系→A 系）ともにスクラム動作しないが、今回の事象において条件Ⅱ（B 系→A 系）ではスクラム動作していることから要因とは考えられない。
+ｂ．エアー排気ポートの配管詰まり
+分解点検においてエアー排気ポートの配管に異常は確認されず、またエアー排気ポートの配管に詰まりがあれば条件Ⅰ（A 系→B 系）・Ⅱ（B 系→A 系）ともにスクラム動作しないが、今回の事象において条件Ⅱ（B 系→A 系）ではスクラム動作していることから要因とは考えられない。
+ｃ．パイロットポート部エアー供給ポート開閉部の「閉」不良
+分解点検においてパイロットエアー供給ポートの開閉に関わるA 系ソレノイド側の動作部品（コア組立品A）にチャタリングにより発生したものと思われる円周上の傷が確認されており、また条件Ⅰ（A 系→B 系）においてエアー音が確認されていることから、コア組立品A の傷に関連してパイロットポート部エアー供給ポートが完全に閉とならずエアーが供給され続けた結果、スクラムパイロット弁が動作しなかった可能性は否定できない。
+なお、条件Ⅱ（B 系→A 系）においては、B 系ソレノイドを先に無励磁にしたことによりホルダとコア組立品A の間に十分隙間が有る状態ではコア組立品B 側から受ける力も小さくなり、コア組立品A のバネ力が条件Ⅰの場合よりも十分に発揮されるため、パイロット部エアー供給ポートが確実に閉止し、スクラム動作したものと推定される（条件Ⅱ（B 系→A 系）の方が条件Ⅰ（A 系→B 系）よりもコア組立品A が供給ポートを閉止する際の瞬発力が大きい。通常であれば条件Ⅰ（A系→B 系）においてもパイロット部エアー供給ポートが閉止されるが、今回は完全に閉止ができなかったためエアー供給が継続し動作不良に至ったと考えられる。）
+ｄ．パイロットポート部エアー排気ポート開閉部の「開」不良
+分解点検においてパイロットポート部エアー排気ポートの開閉に関わるB 系ソレノイド側の動作部品（コア組立品B）に異常は確認されていないことから、要因とは考えられない。
+以上のことから、コア組立品A に傷が発生していた以外に当該弁において異常は確認されなかった。スクラムパイロット弁動作不良となった原因は、A 系ソレノイド側の動作部品（コア組立品A）がチャタリングにより円周上の傷が発生したことに関連するものと推定した。
+
+４．コア組立品A に傷が発生した原因の調査結果
+スクラムパイロット弁動作不良となった原因はコア組立品A に傷が発生したことに関連するものと推定されたことから、コア組立品A に傷が発生した原因について調査を行った。
+（１）使用前から傷が発生
+当該弁製作時の品質管理状況の確認を実施した結果、コア組立品A 組立時及びスクラムパイロット弁製作時に傷の有無を確認していることから要因とは考えられない。
+（２）使用中に傷が発生
+ａ．部品不良による影響
+当該弁の分解点検の結果、部品不良は確認されなかったことから、要因とは考えられない。
+ｂ．異物による影響
+（ａ）異物により直接的に傷が発生
+分解点検の結果、ボディ側に異物により直接傷ついた傷がなかったことから要因とは考えられない。
+（ｂ）異物により間接的に傷が発生
+過去に発生したスクラムパイロット弁に関する不具合の知見により、コア組立品A 吸着面側の側面端部から吸着面にかけて異物が付着すると、コア組立品A ボンネット側に今回と同様な円周方向の傷が発生することが確認されている。
+また、今回過去の知見と同様に新品のコア組立品A の吸着面側の側面端部から吸着面に異物を付着させてモックアップ試験を実施した結果、スクラムパイロット弁にチャタリングが発生し、当該品と同様の位置に円周方向に当該品と同等の深さの傷が発生することが確認されたことから、異物により間接的にコア組立品A に傷が発生した可能性は否定できない。
+
+５．コア組立品A への異物混入に関する原因調査
+コア組立品A に傷が発生した原因は、コア組立品A に異物が混入した可能性によるものであることが否定できないことから、コア組立品A に異物が混入した原因について調査を行った。
+（１）製作時に混入
+当該弁製作時の品質管理状況を確認したところ、当該弁製作前に部品の洗浄を実施していること、製作工程において異物混入防止対策に関するチェックシートを用いて管理していることから要因とは考えられない。
+（２）交換時に混入
+当該弁交換時には当該弁やエアー配管開口部の養生、エアーブローといった異物混入対策を適切に実施していることから、要因とは考えられない。
+（３）使用中にエアー配管から混入
+ａ．エアー配管フィルタ上流側の配管から混入
+スクラムパイロット弁のエアー配管上流側にはフィルタ（５μｍメッシュ）がA 系・B 系に一つずつ取り付けられており、毎定期検査時にA 系・B 系を交互に交換しフィルタに有意な異物が付着していないことを確認している。また、フィルタのメッシュは金属製であり破損の恐れもなく交換後の取付け状態も外観上問題なかったことから、エアー配管フィルタの上流側から異物が混入するとは考えにくい。
+ｂ．エアー配管フィルタ下流側からスクラムパイロット弁に至る配管から混入
+エアー配管フィルタ下流側からスクラムパイロット弁までの配管に設置さている機器（フィルタ・圧力調整弁・バックアップスクラム弁・ARI 電磁弁・圧力計・スクラムパイロット弁）の分解点検時には異物混入対策を実施しているものの、接続部においてシールテープや液状パッキンなどを使用している箇所もあることから、これらの欠片がエアー配管に混入して残存していた可能性は完全には否定できない。
+また、スクラムパイロット弁に関する作業内容を確認した結果、スクラムパイロット弁の交換時のみエアーブローを実施していたことから、スクラムパイロット弁の交換後に上流側で機器の交換をしてエアー配管に異物が混入してしまった場合には、異物が排出されない可能性が存在することがわかった。
+なお、エアー配管内の異物の有無を確認するためにスクラムパイロット弁全数についてエアーブローを実施したところ、当該弁からは異物は確認されなかったが、その他の弁から若干の異物（19 試料）が確認された（これらの異物については分析の結果、物品の特定までには至らなかったものの一部について現地使用品と類似性が確認された）。
+
+６．スクラムパイロット弁動作不良とコア組立品A の傷と異物混入の因果関係確認
+スクラムパイロット弁動作不良とコア組立品A の傷と異物混入の因果関係を確認するため、以下の試験を実施した。
+（１）傷の有無による応答試験
+コア組立品A の傷の有無によるスクラムパイロット弁動作への影響を確認するため、傷のある当該品のコア組立品A と新品のコア組立品A を用いて応答試験を実施したところ、コア組立品A に傷があっても動作不良は発生しなかった（事象再現せず）。
+従って、コア組立品A の傷のみが原因でスクラムパイロット弁の動作不良には至らなかった。
+（２）再現モックアップ試験
+コア組立品A の傷のみではスクラムパイロット弁の動作不良に至らなかったことから、傷の発生要因と推定される異物の混入も含めた状態で再現モックアップ試験を実施した。再現モックアップ試験にあたっては、コア組立品A（3 種類：新品、チャタリングにより傷を発生させたもの、人工的に傷をつけたもの）と作業により混入されると思われる異物（2 種類：シールテープ、樹脂異物）、大きさを組み合わせて試験を実施した。
+再現モックアップ試験を実施した結果、完全には今回の事象の再現はできなかったものの、以下の状態において今回の事象に最も近いケースが確認された。
+＜今回の事象に最も近いケース＞
+人工的に今回の事象よりもやや深い傷をつけたコア組立品A を用い、コア組立品A の吸着面側に4×3mm、厚さ0.3mm のシールテープ、コア組立品A とホルダ脚部に厚さ0.3mm のシールテープを貼り付けた場合。
+条件Ⅰ（A 系無励磁→B 系無励磁）：動作不良
+条件Ⅱ（B 系無励磁→A 系無励磁）：異常なし
+条件Ⅲ（A 系・B 系同時に無励磁）：新品に比べて動作時間遅れ発生
+従って、完全には事象の再現はできなかったものの、異物によりコア組立品A に傷が発生した状態において異物がコア組立品A の側面（吸着面側）に入り込みコア組立品A の摺動抵抗が増大し、異物によって動作不良に至った可能性は否定できない。
+（３）異物排出試験
+異物がスクラムパイロット弁の動作不良に至るようなコア組立品A の側面の0.4mm の隙間に入る頻度とそのまま排気ポートから排出される頻度を確認するため、強制的に供給ポートから異物を（試験1：片状の樹脂異物6 個、金属片12 個、糸状
+の繊維6 個の計24 個、試験2：シールテープ5 個）を混入させた状態で、約50 回（5 定検サイクルにおけるスクラム動作回数を想定）の動作試験を行った（新品のコア組立品A を用いて実施）。
+その結果、以下のことがわかった。
+○異物が混入しても弁内に滞留せず排出されるものがある。今回の試験においては最大で4mm×3mm 程度で厚さ0.3mm のシールテープが排出された。
+○糸状の繊維や片状の樹脂の異物、シールテープは排気ポートから排出されやすい傾向にある。
+○金属異物はソレノイド部やボンネットオリフィス側に流入せず、メイン側のダイアフラム上部に滞留していた。
+○今回混入させた異物において、異物混入の条件だけではいずれも動作不良は発生しなかった。
+以上のことから、異物が混入した状態でスクラムパイロット弁が動作した際に、異物が弁内にとどまらず、外部に排出された可能性は否定できない。]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>11426</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[04]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[作業・点検]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2016/01/04 20:14:44]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>59344</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2011/10/13 03:57:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201110081930]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．再発防止策
+（１）異物混入の更なる防止
+○これまでは異物混入対策として交換対象のスクラムパイロット弁のみエアーブローを実施していたが、上流で作業を実施する事を踏まえ、今後は新たに点検終了後に全てのスクラムパイロット弁のエアー配管についてエアーブローを実施するよう作業要領書に反映し、更なる異物混入の防止に努める。
+○異物混入によって本事象が発生する可能性があることを紹介する資料を作成し関係者に周知し、注意を促す。
+
+（２）傷の進展防止
+今回の事象に至るような傷が発生する過程においては、チャタリングが発生することにより傷が発生・進展することから、チャタリングの有無についてパトロール時や定例試験時に確認する。
+
+
+２．現在使用中のスクラムパイロット弁の評価
+パイロットエアー供給配管は各スクラムパイロット弁に共通であることから、現在使用中のスクラムパイロット弁の継続使用について評価するため、今定検で取り外した17 台のスクラムパイロット弁の点検を実施した。
+17 台の内訳は
+第5 回より使用開始：13 台
+第6 回より使用開始：3 台
+第7 回より使用開始：1 台
+であり、いずれも当該品より長期間使用しているものであった（当該品：第8 回より使用開始）。
+（１）17 台の点検結果
+○17 台全ての弁の動作は正常であった。
+○動作不良に至るような異物は確認されなかった（1 台のコア組立品B 側に長さ1mm程度、厚さ0.1mm 以下の異物（ステンレス）が確認されたが、動作は正常だった）。
+なお、コア組立品B 側は排気ポート側であること、排気ポートは無励磁状態において「開」であることから、当該異物については撤去後の保管中に排気ポートから混入した可能性も否定できない）。
+○全17 台についてコア組立品A に動作不良に至るような円周方向の傷は確認されなかった。円周方向の傷が確認されたものについては、いずれも当該弁のコア組立品A の傷より浅かった。
+なお、CRD 機能検査後にハム音が確認されているスクラムパイロット弁があるが、これまでの知見（ハム音が13 ヶ月発生し続けたとしても動作に影響はなかった）より、ハム音は動作に影響しないことが検証されている。今回確認した17 台の
+弁に関して、運転中および工場返送時にハム音が確認されたスクラムパイロット弁においても動作は正常であったことから、ハム音が動作に影響しないことを改めて確認した。
+第8 サイクルでハム音が確認されたもの（その他の期間ハム音なし）：1 台
+第9 サイクルでハム音が確認されたもの（その他の期間ハム音なし）：1 台
+第10 サイクルおよび工場返送時ハム音が確認されたもの ：1 台
+（２）異物混入対策に関する今定検の特異性の有無
+異物混入防止対策の実施状況を確認したところ、異物混入防止対策の管理方法を変えた事実は確認されず、今定検においても今までと同様に異物混入防止対策を行っていることから、これまでの定検と異なり今定検（17 台撤去後）だけ多くの異物を混入させたという可能性はない。]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2016/01/04 20:14:44]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中の柏崎刈羽原子力発電所7 号機において、平成23年10月8日にスクラムパイロット弁の単体作動確認を実施したところ、スクラムパイロット弁全103 体のうち１体（ロケーション：58-31／54-11、以下「当該弁」という）に動作不良が確認された。
+なお，当該座標以外の102 体の動作については正常であった。
+その後、動作不良が確認された当該弁については、10 月12 日に予備品と交換・単体作動確認を実施し、動作が正常であることを確認した。
+事象発生当時、７号機は、全ての燃料を原子炉から取り出しており、保安規定等によりスクラム機能は求められていないことから、プラントの安全性に問題はなかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2011-東京-M007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[原因調査及び確認試験の結果から、本事象の発生に至った原因は明確には特定できていないものの、以下のようなメカニズムによって本事象が発生したと推定した。
+（１）異物混入対策は実施していたものの、フィルタからスクラムパイロット弁までの機器の点検時に使用するシールテープ等の異物がエアー配管内に混入した（異物の大きさは0.4mm の厚さ以内で、4mm×3mm 程度を想定）。
+（２）エアー配管に混入した異物が当該弁のスクラムパイロット弁のコア組立品A の側面（吸着面側）に移動したことにより、スクラムパイロット弁のチャタリングが発生した。
+（３）チャタリングが継続することによってコア組立品A に円周上の傷が発生し、傷が進展した。
+（４）傷の進展及び異物がかみ込むことでコア組立品A 動作時の摺動抵抗が増大し、異物がコア組立品A とホルダ脚部にかみ込んだことにより、コア組立品A の動作時にパイロットポート部エアー供給ポートが完全に閉とならずエアーが供給され続けた結果、スクラムパイロット弁が動作しなかった。
+（５）混入した異物については、当該弁交換時に数分後に遅れてスクラム動作した際に排気ポートから排出された。]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[柏崎刈羽原子力発電所７号機　定期検査中における制御棒の水圧制御ユニット（スクラムパイロット弁）に関する不具合について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[不具合を確認した時間]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[7]]></UNITS>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2011/10/13 22:00:25]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[柏崎刈羽]]></PLANT_RYAKU_NAME>
+		<SORT_NO>6</SORT_NO>
+		<PLANT_CODE><![CDATA[tyokk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[柏崎刈羽発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>5</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[c]]></DISP_NO>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>6</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[コア組立品]]></S_BUHIN_NAME>
+					<TROUBLE_ID>11426</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[503]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電磁弁]]></KIKI_NAME>
+				<SORT_NO>6</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[500]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[500]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[弁装置]]></KIKI_NAME>
+					<SORT_NO>30</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[制御棒及び制御棒駆動系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[122]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[122]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[異物混入（保守・施工時の異物混入は除く）]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+				<SORT_NO>2</SORT_NO>
+				<BUNRUI_TEIGI><![CDATA[運転中トラブルによる部品脱落等による異物混入（保守・施工不良による異物混入は除く）]]></BUNRUI_TEIGI>
+				<GENIN_SHO_CODE><![CDATA[1610]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[偶発的要因]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[160]]></GENIN_DAI_CODE>
+					<SORT_NO>6</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>11426</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[05]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[計測制御系統設備]]></SETSUBI_NAME>
+		<SORT_NO>5</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

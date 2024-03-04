@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>11770</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2013/12/20 15:04:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2013/09/19 09:54:25]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20130603]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．事象の発生状況
+廃止措置中の浜岡原子力発電所2号機において，平成25年6月3日，2号機から5号機への使用済燃料運搬作業にあたり，使用済燃料輸送容器（以下「キャスク」という。）に使用済燃料を装荷した状態で気密漏えい検査（＊１）を実施したところ，ドレンバルブ部の漏えい量が基準値を満足しなかった（基準値（＊２）：3.0×10E-2 ref cm3/s，ドレンバルブ漏えい率測定値：1.037×10E-1 ref cm3/s)。
+
+平成25年6月4日，キャスクのドレンバルブと気密漏えい検査装置とを接続する検出プラグ内のOリングや検出プラグ本体を予備品に取替え，再度，気密漏えい検査を実施したが基準値を満足しなかった。このため，測定系からの漏えいではないと判断し，ドレンバルブを点検することとした。
+
+平成25年6月28日，当該ドレンバルブを取外し，外観を確認したところ，当該ドレンバルブのOリング部にビニールの切れ端（大きさ：1cm×0.5cm，色：透明）が付着していることを確認した。ドレンバルブの清掃を実施し，当該Oリングを交換したのち，キャスクに再度取付け，気密漏えい検査を実施したところ，基準値を満足した。
+
+２．推定原因
+　気密漏えい検査の基準値を満足しなかった原因は，当該ドレンバルブのOリング部にビニールが付着したことによるものと推定した。
+付着したビニールは，キャスクの定期保守時あるいは取扱い時において混入したと考えられるが，当該異物が混入した経路や時期を特定するまでには至らなかった。
+
+
+３．対策
+キャスクの定期保守時および取扱い時における異物混入防止対策を徹底するとともに，本事象について，電事連バックエンド輸送検討WG(平成25年7月19日開催)にて情報共有した。
+
+
+＊１：気密漏えい検査とは，使用済燃料を収納したキャスクの密封性能が保持されていることを確認するため，キャスクの密封境界（蓋Oリング部，水位調整用加圧バルブ部，ベント・水位調整バルブ部，ドレンバルブ部）を気体で加圧し検査前後の圧力および温度を測定することにより漏えい率を算出する検査のこと。
+＊２：蓋Oリング，水位調整用加圧バルブ，ベント・水位調整バルブ，ドレンバルブの４箇所合計の基準値。ref cm3/sとは，標準状態（大気圧，25℃）での体積漏えい率を示す単位のこと。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2013-中部-S006]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料輸送容器ドレンバルブ内の異物確認について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[2]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[なし]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2013/12/20 15:04:18]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[中部電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[中部]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[中部電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>40</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[chb]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[浜岡]]></PLANT_RYAKU_NAME>
+		<SORT_NO>7</SORT_NO>
+		<PLANT_CODE><![CDATA[chbhm]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[浜岡発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9248</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2007/11/29 13:59:26]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2007/08/30 20:38:55]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200704032053]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2007/11/29 13:59:26]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[タービン建屋地下２階にあるタービン駆動原子炉給水ポンプ（Ａ）の吐出逆止弁の蓋の隙間から水が漏れ出ているのを，水張りに伴う漏えい確認を行っていた当社保修担当者および作業員が発見した。なお，漏えい箇所の隔離操作等を行い，漏えいが停止したことを確認した。
+　漏れた水の量は約３リットルで，放射能は確認されなかった。排気筒モニタ、排水モニタ、モニタリングポストに異常な変化はなく，発電所周辺への放射能の影響はなかった。
+漏えいが発生した原因として，当該弁の蓋部分は，蓋をボルトで引き上げてリング状の部品（ガスケットリング）を締め付けて密閉性を保つ構造となっているが，定期検査において弁の分解点検を行うため，蓋上面をハンマーで叩いて蓋を下げようとした際に，リテーナーと蓋が接触し容易に下がらず蓋を繰り返し叩いたため，蓋上部の一部が膨らんだものと推定された。
+このため，組立時，蓋をボルトで引き上げた際，リテーナーと蓋上部の膨らみ部分が接触してリテーナー内面に肌荒れが生じ，この肌荒れによる抵抗により蓋が十分引き上がらず，ガスケットリングの締め付けが不十分となり，密閉性が保たれなくなったため水が漏れ出したものと判断した。
+このため，当該弁の蓋上部の膨らみを補修した後，蓋の外径およびリテーナーの内径が適切な寸法であることを確認した。さらに，ガスケットリング等を装着しない状態で仮組みすることにより蓋が円滑に持ち上がり，また蓋およびリテーナーに傷が発生しないことを確認した後，本組立てを行い復旧した。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2007-東北-S001]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[タービン駆動原子炉給水ポンプ吐出逆止弁からの漏えいについて]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2007/10/30 15:03:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東通]]></PLANT_RYAKU_NAME>
+		<SORT_NO>3</SORT_NO>
+		<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東通発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

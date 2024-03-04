@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．工場における単体点検結果
+　Ｎｏ．１エアロックから取外した均圧弁について、工場にて漏えいに係る以下の点検及び調査を行った。
+（１）外観目視検査
+分解前の状態にて外観目視検査を行い、損傷部の有無を確認した結果、割れ、変形、傷、ボルトの破損は確認されなかった。
+（２）漏えい確認試験
+均圧弁単体での漏えい試験を行い、漏えい箇所を確認した結果、弁閉状態では漏えいのないことを確認した。
+所定の閉位置から弁体（ボール）の回転角度が９°以上となった場合、弁が開き始めることより２次側から漏えいすることが確認できた。
+（３）ボルト、ナット締付トルク及び隙間確認
+グランド部を締結している２本のボルトの締め付けトルク値は０N・mであった。また、隙間値は、規定トルクでの締付け後と比較して広くなっていた。
+本体フランジ部のボルトの締付けトルク値は、規定トルク値での締付け後と比較して緩みが認められたが、漏えい確認試験の結果、本体フランジからの漏えいは確認されていないため、問題となるものではない。
+（４）分解点検
+弁を分解し、目視により構成部品の外観検査を行った結果、ボールとステムの接触面に接触痕が確認された。また、回転方向に遊びがあることが確認された。
+なお、その他の部位については、漏えいに繋がるような異常は確認されなかった。
+
+２．グランドパッキン押えボルトが緩むメカニズムに関する考察
+　当該弁使用前の弁メーカー工場点検時の弁組立作業におけるグランドパッキン押えボルト、フランジ固定ボルトのトルク確認についての調査を行ったところ、規定トルクにて締め付けを行う手順になっていることから、均圧弁の組立時点においてはグランドパッキン押えボルトは適切に締付けられていたと考えられる。
+したがって、グランドパッキン押えボルトの緩みは、エアロックに取付けられたあとに発生したものと推定される。弁開閉動作においては、リンク機構からステムの回転力だけではなく、ステムを傾ける力が作用する。この場合、グランド押さえにはグランドパッキン押えボルトを緩ませる方向に力が作用するため、弁の開閉動作の繰返しによりグランドパッキン押えボルトが緩んだ可能性が考えられる。
+
+３．漏えいの可能性に関する考察
+　工場における漏えい確認試験の結果、弁体（ボール）が９°以上となると、弁が開き始めることにより二次側から漏えいが発生することから、均圧弁のエアロックへの取付け状態において回転方向に９°ずれる可能性について考察した。
+（１）均圧弁取付作業における回転誤差
+均圧弁取付作業における取付手順について聴き取り調査を行った結果、リンク機構への取付時には弁が閉位置であることを確認しているが、ステム先端の切欠線が水平状態となっていることを目視にて確認しているのみであることを確認した。
+水平状態の確認は基準がなく、作業員の目視にて行っていることから、閉位置が若干ずれていた可能性は否定できない。
+（２）グランドパッキン押えボルトの緩みによる回転誤差
+グランドパッキン押えボルトの締め付けが緩んでいた場合、ステムを固定する機能が損なわれ、開閉動作時にステムに傾く方向の力が作用するため、ステムとボールの接触面にガタつきが生じることが確認された。この場合、回転方向に遊びが出来るとともに、ステムの傾きにより実際の回転角度は若干小さくなると考えられる。
+
+４．調査のまとめ
+（１）漏えい確認試験の結果、弁閉状態では漏えいはないが、所定の閉位置から回転方向に９°以上になった場合は、弁が開き始めることにより２次側から漏えいすることが確認された。
+（２）グランド部を締結している２本のボルトは完全に緩んだ状態であった。
+（３）ボールとステムの接触面に接触痕があり、ステムの回転方向に遊びがあることが確認された。
+（４）グランドパッキン押えボルトは工場分解点検時には規定トルクにて締め付けを行う手順になっているため、エアロックに取付けられ際には、適切に締付けられていたものと考えられる。
+（５）均圧弁交換作業手順の聴き取り調査の結果、均圧弁取付時に、閉位置が若干ずれていた可能性は否定できない。
+（６）エアロックへの取付状態においては、リンク機構からの作動力により、グランドパッキン押えボルトが緩む可能性があることを確認した。この場合、ステムとボールの接触面にガタが生じるとともに、ステムが傾くことにより、実際の回転角度は若干小さくなると推定された。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[238]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>10531</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[05]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[試験・検査]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[201]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[モード１]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2009/11/05 11:31:17]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[　原子炉施設保安規定　第１２１条「原子炉格納容器」において原子炉格納容器の機能が健全であること及びエアロックが動作可能であることが運転上の制限となっている。
+当初、エアロックについては、以下の状況であることから運転上の制限を満足すると判断した。
+（１）エアロックのインターロック機構に異常はないこと。
+（２）内側扉、外側扉、外側扉均圧弁については、石鹸水等により漏えい確認を行った結果、漏えいは確認されておらず、バウンダリー機能が確保されている。
+（３）Ｎｏ.１エアロック外側扉を一時的に開放する場合であっても、ＪＥＡＣに基づく原子炉格納容器の漏えい率試験の一環であり、ドアが健全で、直ちに閉止可能な状況であること。
+
+　その後、Ｎｏ.１エアロック内側扉均圧弁にシートリークが判明した状態で開放防止装置（以下「ギャグ」という。）を取り外すため、８月７日１４時００分～１４時３０分にかけてＮｏ.１エアロックの外側扉を開放した。これは、前述のエアロックが動作可能であるとの判断に基づくものであった。
+　８月１０日に、この作業を実施していた期間について運転上の制限について規制当局に確認を行ったところ、作業の一環であっても運転上の制限の逸脱を宣言後に実施すべきとの判断がなされたことから、作業を実施していた期間については、運転上の制限を満足していなかったものと８月１０日１７時３０分に判断した。
+　
+　８月１１日、内側扉均圧弁取替後、漏えい率検査準備としてギャグ取り付けに伴う外側扉開放時は、均圧弁の健全性が確認されておらず、「エアロックが動作可能であること」（エアロックが閉止可能（閉止状態であることを含む）であることをいう）の確認ができていないことから、本作業に先立ち保守的に原子炉施設保安規定　第１２１条「原子炉格納容器」の運転上の制限からの逸脱を宣言し、ギャグ取り付け作業終了後、外側扉を閉とした時点で運転上の制限内への復帰を宣言した。
+その後、Ｎｏ.１エアロック漏えい率に異常がないことからＮｏ.１エアロックは、健全であったと判断した。よって運転上の制限からの逸脱はなかったと判断し８月１１日１６時３０分「運転上の制限逸脱判断の訂正」を行った。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>4543</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2009/08/20 19:11:32]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200908071700]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[　内側扉均圧弁の予備品への取替え及び、漏えい率検査を以下のとおり実施した。
+（１）漏えいが確認された内側扉均圧弁を予備の均圧弁に取替えを行った。取替えにあたっては、Ｎｏ.２エアロックより立ち入り作業を行った。なお、予備の均圧弁について単体リーク確認を行い異常のないことを確認後、取り付けを行った。
+（２）内側扉均圧弁を予備の均圧弁に取替えた後、漏えい率検査を行った。
+　
+　Ｎｏ．１、Ｎｏ．２エアロック均圧弁に対し以下の対策を実施する。
+（１）初期のバルブ閉位置の基準位置に合わせるためのストッパーにより全閉位置の設定を行う。また当該点検要領書へ全閉位置の設定方法を明記する。
+（２）グランドパッキン押さえボルトについて、規定トルクで締め付け後に回り止め対策を行う。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2009/11/05 11:31:17]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　敦賀発電所２号機は、定格熱出力一定運転中において、８月６日に、原子炉格納容器Ｎｏ．１エアロック※１（以下「エアロック」という。）について原子炉格納容器の漏えい率試験規程（ＪＥＡＣ　４２０３－２００８）に基づき６ヶ月毎の原子炉格納容器エアロック漏えい率検査（以下「漏えい率検査」という。）を行うため、エアロック内側扉と外側扉間を空気にて加圧したところエアロック間圧力に降下が認められた。
+なお、前回（平成２０年１２月２５日）の漏えい率検査において異常は認められなかった。
+　その後、８月７日に再度、漏えい率検査を行うためエアロック内側扉と外側扉間を加圧したが、圧力に降下が認められたことからＮｏ．２エアロックより格納容器内に立ち入り、状況を確認したところ、閉状態であるＮｏ．１エアロック内側扉均圧弁※２より僅かなシートリークが確認された。
+　なお、エアロック内側扉、外側扉、外側扉均圧弁について、石鹸水等により漏えい確認を行った結果、漏えいは確認されなかった。また、８月７日に外側扉については開放を禁止する措置を行うとともに漏えいが確認されたＮｏ．１エアロック内側扉均圧弁については、８月８日に均圧弁入口側に閉止板を取り付けた。
+８月１１日に均圧弁を予備品へ取替えを行い、その後漏えい率検査において異常がないことを確認した。
+※１原子炉格納容器エアロック：原子炉格納容器への出入口として通常用エアロック（Ｎｏ．２エアロック）、非常用エアロック（Ｎｏ．１エアロック）及び機器搬入口の３つを設け、いずれも気密構造としている。エアロックは二重扉式で両方の扉が同時に開かないようインターロックを設けている。
+※２均圧弁：均圧弁はタイミングギヤ部からレバーとロッドによるリンク機構で駆動され、エアロック内外の空気圧をバランスさせドアの急激な開放を防ぐために設けられている。ドアの開放操作では、均圧弁が開き、その後エアロック扉が開放される。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2009-原電-M011]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　調査結果より、以下の要因が重なり弁開閉時の弁体（ボール）の回転角度の減少が生じたため、弁が閉状態とならず漏えいしたものと推定される。
+（１）均圧弁のリンク機構への取付け時は閉位置であることを目視にて確認しているのみであったため、閉位置の設定が基準位置よりずれていた。
+（２）グランドパッキン押さえボルトの緩みにより、ステムとボールの接触部にガタが生じ、ステムが傾くことにより、弁の実回転角度が減少した。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[敦賀発電所２号機
+原子炉格納容器Ｎｏ．１エアロック内側扉均圧弁シートリークについて
+]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[2]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>1186</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2009/09/02 17:13:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[敦賀]]></PLANT_RYAKU_NAME>
+		<SORT_NO>18</SORT_NO>
+		<PLANT_CODE><![CDATA[gentu]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[敦賀発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[b]]></DISP_NO>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>2</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[原子炉格納容器]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[238]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[自然劣化]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0220]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[保守不備]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[020]]></GENIN_DAI_CODE>
+					<SORT_NO>2</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>10531</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[10]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[原子炉格納施設]]></SETSUBI_NAME>
+		<SORT_NO>10</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

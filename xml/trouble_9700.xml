@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>9700</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2008/04/21 09:28:18]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2008/04/14 21:13:48]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200804111647]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[定期検査中、ＴＩＰ索引装置＊１分解点検に係る作業環境の放射線測定業務に従事していた協力会社放射線管理員（以下「放管員」という）が、作業終了後、管理区域から退域する際、体表面ゲートモニタで身体サーベイを実施した結果、右ひざの側面に、放射性物質の付着を確認しました。
+　その後、直ちに付着していた放射性物質を除去しました。
+　また、放管員が立ち入ったルートの床面等については、スミヤ法＊２により汚染がないことを確認しました。
+
+事象発生の原因は、以下のとおりと推定しました。
+１．索引装置を切り離し一時的に他の場所へ移動するにあたって、放管員が当該機器の放射性物質の付着状況確認のためのスミヤ法によるサンプル採取の際、索引装置に付着していた放射性物質が２重に装着していた外側のゴム手袋に付着、その後外側のゴム手袋を取り外す際に、放射性物質が被服等に付着した。
+２．その後、管理区域退出時の被服の脱衣の際に、被服等に付着した放射性物質が右ひざの側面に付着した。
+
+今後の対策としては、放射能量のレベルが低い区域であっても放射性物質の付着の可能性がある機器の切り離し作業を行う際には、スミヤ法によるサンプル採取が終了するまで、2重に装着したゴム手袋の内側のゴム手袋についてはテープにより端部の固定を行います。また、被服等に付着した放射性物質が脱衣時に身体に付着することを防止するため､作業終了時には脱衣前に現場にて事前にサーベイを行います。
+協力会社も含め、上記対策を徹底するとともに、放射線管理の重要性について再度周知いたします。
+
+＊１．ＴＩＰ索引装置とは、ＴＩＰ（移動式炉心内計装装置：原子炉内の出力分布を測定し出力領域モニタの校正をするための装置）により校正を行う出力領域モニタの位置を選択する装置
+＊２．スミヤ法とは、スミヤろ紙と呼ばれるふき取り専用のろ紙を用いて物品などの表面をふき取り、放射性物質を間接的に測定する方法
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2008-東北-S007]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[作業員への放射性物質の付着について]]></TITLE_NAME>
+	<UNITS><![CDATA[1]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2008/04/21 09:28:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東北電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東北]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東北電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>20</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[thk]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東通]]></PLANT_RYAKU_NAME>
+		<SORT_NO>3</SORT_NO>
+		<PLANT_CODE><![CDATA[thkhd]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東通発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

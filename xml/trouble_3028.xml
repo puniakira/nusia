@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>3028</TROUBLE_ID>
+	<UPDATE_DATE><![CDATA[2006/02/07 00:03:37]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<CREATE_DATE><![CDATA[2005/06/17 09:56:34]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200312212130]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　定期検査実施中（平成15年9月30日開始）に、制御棒駆動機構ハウジングスタブチューブ(*)の応力改善作業を実施していたが、平成15年12月20日応力改善装置が停止したため、12月21日より点検調査を実施したところ、当該装置先端駆動部に60～62個封入されているボールベアリング鋼球（直径0.7mm）のうち27～29個が脱落したことが分かり、12月25日までに原子炉圧力容器底部および原子炉圧力容器外より計９個を回収した。
+
+　ボールベアリング鋼球が脱落した原因を調査した結果、応力改善装置を制御するプログラム上の問題により、当該装置の一部が制御棒駆動機構ハウジングスタブチューブおよび原子炉圧力容器底部に接触し、直ちに装置が停止しなかったことによりベアリングケースが変形したためと分かった。
+
+　再発防止対策として、当該装置を制御するプログラム上の問題を改良するとともに、万一当該装置が炉内構造物と接触した場合はこれを検知し、直ちに当該装置が自動停止するよう改良することとした。
+
+　未回収の落下したボールベアリング鋼球については、落下したと思われる探索可能な炉内全域および当該装置周辺の回収作業を実施しており、今後とも応力改善作業に併せて原子炉圧力容器底部全体の吸引清掃、炉底部確認を実施する。
+　なお、仮に当該ボールベアリング鋼球が炉内に残存していたとしても、鋼球は小さく軽量（0.0014g）であるため、原子炉の安全性に影響を及ぼすものではないと評価した。
+
+＊制御棒駆動機構ハウジングスタブチューブ
+　制御棒駆動機構が納められている筒（ハウジング）を原子炉圧力容器に固定するための継手
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2003-東京-S050]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[原子炉圧力容器内への応力改善装置部品の脱落について]]></TITLE_NAME>
+	<UNITS><![CDATA[6]]></UNITS>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2006/02/07 00:03:00]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

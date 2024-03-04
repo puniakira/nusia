@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<TROUBLE_ID>12366</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2015/12/27 13:20:39]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>58807</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2015/12/19 14:32:23]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[20151203]]></HASSEI_NJ>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　各建屋に接続しているトレンチ・ダクト内の滞留水状況調査の一環として、適宜滞留水の放射能濃度の確認を行っているが、12月3日に採取した廃棄物処理建屋間連絡ダクトの滞留水の分析結果が、以下の値であることを確認。
+
+＜12月3日採取分＞
+　・セシウム－134：9.2×10(4乗) Bq/L
+　・セシウム－137：3.9×10(5乗) Bq/L
+　・全ベータ　　 ：5.0×10(5乗) Bq/L 
+　・トリチウム　 ：6.7×10(3乗)　Bq/L 
+
+＜参考（2014年12月11日採取分）＞
+　・セシウム－134：2.7×10(1乗) Bq/L
+　・セシウム－137：9.4×10(1乗) Bq/L
+　・全ベータ　　 ：1.2×10(2乗) Bq/L 
+　・トリチウム　 ：3.1×10(2乗) Bq/L
+
+　当該ダクトの水位は、当該ダクト周辺のサブドレン水位より低い位置にあること、また、当該ダクト近傍のサブドレン水分析結果に有意な変動がないことから、当該ダクトの滞留水が外部へ流出することはないと考えている。
+　また、当該ダクトの水位は、プロセス主建屋の水位よりも高い位置にあることから、現時点においては、プロセス主建屋から当該ダクトへの流入はないと考えている。
+　なお、当該ダクトが接続している補助建屋には、床面に開口部があるため雨水が流入する可能性があるが、地下階がなく連通性はない。
+]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2015-東京-S039]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[福島第一原子力発電所　廃棄物処理建屋間連絡ダクトの滞留水分析結果について]]></TITLE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2015/12/27 13:20:39]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第一]]></PLANT_RYAKU_NAME>
+		<SORT_NO>4</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo1f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第一発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>

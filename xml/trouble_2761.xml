@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[１．状況調査結果
+
+（１）移動作業の概要
+（ａ）浜岡1号機のトラブル水平展開として原子力安全・保安院の指示（平成14年5月13日）に基づき，108体の制御棒駆動機構ハウジングスタブチューブ下部溶接部の点検を2月中旬から約1ヶ月の予定で計画していた。
+（ｂ）この準備作業として，原子炉内から110体のCR/FS/GTを取出し，その内，54体を蒸気乾燥器及び気水分離器仮置ピット（以下，「DSP」という。）内に設置した仮設ラックへ移動した後，残りの56体をSFP内の燃料貯蔵区域上を経由してSFP内のキャスク専用プール内に設置した仮設ラックへ移動する作業を原子炉建屋6階の燃料取替機につかみ具を取付け実施していた。
+（ｃ）DSP側への移動作業実施にあたっては，高線量当量率物品の移動作業となるため保安規定の除外規定に従い2月8日23時40分頃，プロセス放射線モニタからの信号を発信させないようジャンパーを実施した。
+　ジャンパーの実施は，CR/FS/GTをDSP側へ移動に際して，CR/FS/GT上端部が水面に近い状態で移動することになるため，当該モニタの動作設定値を上回る可能性があったことによるものである。
+　当該モニタが動作した場合には，原子炉建屋換気空調系が全停し非常用ガス処理系が自動起動すること，更には中央制御室非常用換気空調系が自動起動することになる。
+　これらの設備が運転状態にあることは，原子炉建屋内において換気容量が少なくなるため，当該移動作業を含む定検作業を実施する上で作業環境上好ましくないことから，ジャンパーの必要があると判断した。
+（ｄ）その後，2月9日1時30分頃からDSP側への移動作業を開始し，移動終了後の2月10日2時13分からSFP側へ移動作業を開始した。
+
+（２）聞き取り調査結果
+事象の経緯について関係者に対し聞き取り調査を実施した結果，以下のことが確認された。
+ａ．作業主管グループからの聞き取り調査結果
+（ａ）原子炉プロジェクトグループは，定検グループに「PTW調整用紙」にてCR/FS/GTをDSP側へ移動する時にはプロセス放射線モニタのジャンパーを実施し，SFP側へ移動する時には当該モニタのジャンパーを復旧するよう依頼した。
+（ｂ）原子炉プロジェクトグループは，CR/FS/GTの移動にあたり，燃料取替機へCR/FS/GTを一括で移動するためのつかみ具を取付けた。
+（ｃ）その際，取付け作業をSFP側で実施するため照射された燃料に係る作業に該当すると判断し，その旨を定検グループへ連絡した。
+（ｄ）原子炉プロジェクトグループは，原子炉ウェルの水張り作業完了後，DSP側への移動を開始するので当該モニタをジャンパーするよう当直に依頼し，ジャンパーを実施した翌日（2月9日）の1時30分頃からCR/FS/GTをDSP側への移動作業を開始した。
+（ｅ）原子炉プロジェクトグループは，2月9日16時頃，定検グループに「SFP側への移動が2月10日の午前中になること」，「作業の進捗状況によっては早まる可能性もあり得ること」，並びに「SFP側への移動が開始する際には事前に中操へ連絡すること」を連絡した。
+　また，協力企業の監督にSFP側への開始前には当直へ連絡することを，指示した。
+（ｆ）DSP側への移動が終了した2月10日2時13分頃，協力企業の監督は，当直へSFP側への作業を開始する旨，連絡した。
+ｂ．当直員からの聞き取り調査結果
+（ａ）定検グループは，原子炉プロジェクトグループからの「PTW調整用紙」を受付した後，「LCOに係るインターロック除外許可書」を作成し，「PTW調整用紙」とともに当直長まで上覧した。
+（ｂ）定検グループは，原子炉プロジェクトグループから連絡を受け，燃料取替機へのつかみ具取付けにあたって「原子炉建屋原子炉棟内で照射された燃料に係る作業時の遵守状況確認シート」を作成し，当直長まで上覧した後，原子炉プロジェクトグループへ連絡した。
+（ｃ）定検グループは，2月8日の23時40分頃，DSP側への移動作業に伴うプロセス放射線モニタの信号を発信させないようジャンパーを実施し，「LCOに係るインターロックを除外した場合の注意喚起シート」を中操主盤に表示し，3直の当直主任へ報告した。
+（ｄ）定検グループは，原子炉プロジェクトグループから「SFP側への移動開始が2月10日の午前中になること」，「作業の進捗状況によっては早まる可能性もあり得る」との連絡を受けた。
+　この際，SFP側への移動に伴うジャンパーの復旧は，翌日出社後の通常勤務時間帯に定検グループで実施できると思い，3直へSFP側への移動開始時に必要となる当該ジャンパー復旧や注意事項等の具体的な作業内容の引継ぎは不要と考え実施しなかった。
+（ｅ）このため，定検グループは，SFP側への移動開始が2月10日の午前中になることを当直員引継日誌に記載し，2月9日17時頃，2直の当直主任へ引継ぎを行った。
+（ｆ）このことから，2月9日21時頃，2直の当直員と引継ぎを行った3直の当直長，当直副長は，自分の3直勤務時間中にジャンパーの復旧が必要との認識がなかった。
+（ｇ）その後，2月10日2時13分頃，協力企業の工事監督者から「DSP側からSFP側への移動開始」の連絡を受けた3直の当直主任は，作業の内容は知っていたものの当該モニタをジャンパーしていることを気づかず，特に重要な連絡ではないと考えてしまった。
+　また，当直主任は照射された燃料に係る作業と認識していたが，「原子炉建屋原子炉棟内で照射された燃料に係る作業時の遵守状況確認シート」は既に作成されており，当直主任は一連の作業であると考え作成しなかった。
+（ｈ）2月10日，3直の当直員と引継ぎを行った1/2直の当直長，当直副長，当直主任及び定検グループは，引継ぎ時に当直員引継日誌の記載事項の説明を受けた際，当該モニタのジャンパー実施の是非について検討を実施した結果，当直長は，同日の8時49分，LCOを満足していない可能性があると判断し，定検グループへ当該モニタのジャンパーを復旧するよう指示し，当該処置を解除した。
+（ｉ）当直長は，2月10日の2時13分から8時49分までの間，保安規定第27条のLCOを満足している事の確認がされていなかったと判断した。
+
+２．問題点の抽出
+
+　状況調査の結果から，CR/FS/GTをSFP側へ移動する際にプロセス放射線モニタのインターロックが除外されていたことの問題点を次のように抽出した。
+
+（１）SFP作業の連絡を受けた際に当直主任は，プロセス放射線モニタのジャンパーを解除しなかった。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[1]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[あり]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[1]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[あり]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[1]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[あり]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2761</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2005/12/28 19:18:34]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[保安規定第27条について、２月10日午前２時13分から午前８時49分までは、運転上の制限を満足していなかった。
+]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>3119</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2005/02/16 11:19:46]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200502100849]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[（１）業務の計画
+原子炉建屋原子炉棟内で照射された燃料に係る作業に関する安全管理上のホールドポイントの時期（同一作業の中におけるホールドポイントの時期も含む）を明確にする。
+（各原子力発電所の三次マニュアルに反映）
+
+（２）識別
+当直長は、引継ぎ時に、LCOに係るインターロックが除外されていることを示す表示札（注意喚起シート）が掲示されていることを確認し，LCOに係るインターロックが除外中であることをミーティングにて全員に周知する。
+（二次マニュアル「運転員の引継マニュアル」に反映）
+
+　原子炉建屋原子炉棟内で照射された燃料に係る作業については、上記二つの対策を確実に実施することにより、定検グループ、当直（保安直）、保全部等、関係者間のコミュニケーション向上を図る。
+
+　なお，その他の要因について，以下のとおり再発防止対策を実施する。
+
+（１）業務の管理
+定検グループは、LCOに係るインターロックの除外状況を確実に当直（保安直）に引継ぐ。
+（二次マニュアル「運転員の引継マニュアル」に反映）
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2005/12/28 19:18:34]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　平成16年12月2日より第13回定期検査中の当所3号機において，制御棒駆動機構ハウジングスタブチューブ下部溶接部の点検のため，平成17年2月10日2時13分から制御棒／燃料支持金具／制御棒案内管（以下，「CR/FS/GT」という。）を原子炉内から使用済燃料プール（以下，「SFP」という。）に移動する作業を実施していたところ，原子炉建屋換気系排気放射線モニタおよび燃料取替エリア排気放射線モニタ（以下，「プロセス放射線モニタ」という。）からの信号を発信させない処置（ジャンパー）を実施したままであることに引継ぎを受けた運転員が気付き，同日8時49分，当直長は保安規定に定める「運転上の制限」（以下，「LCO」という。）を満足していない可能性があると判断し，当該処置を解除した。
+　尚，移動作業は，燃料取替機にCR/FS/GTが落下しないような構造・機能を有しているつかみ具を取付け実施していた。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-東京-M059]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　抽出された問題点について原因を追及した結果，2月10日2時13分に，照射燃料に係る作業を開始した時，プロセス放射線モニタのインターロックが除外されていた主要因は以下の通りと分析した。
+
+（１）主要因
+ａ．業務の計画に対する要因
+原子炉建屋原子炉棟内で照射された燃料に係る作業に関する安全管理上のホールドポイントの時期（「原子炉建屋原子炉棟内で照射された燃料に係る作業時の遵守状況確認シート」の作成時期）が明確でなかったため，確認（当該シートの作成）をしなかった。
+ｂ．識別に対する要因
+引継ぎ時に、LCOに係るインターロックが除外されていることを，明確に周知される運用ではなかった。
+
+（２）その他の要因
+ａ．業務の管理に対する要因
+LCOに係るインターロックを除外した場合の引継ぎが明確でなかった。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[制御棒案内管等の移動作業中における不適合について]]></TITLE_NAME>
+	<IHAN_SHOSAI_TXT><![CDATA[１．違反条項
+　保安規定第２７条（計測及び制御設備）
+
+２．保安規定違反の認められた事実
+　保安規定第２７条では、照射された燃料に係る作業時には、原子炉建屋換気系排気放射能及び燃料取替エリア排気放射能に係る計測及び制御設備が動作可能であることを運転上の制限としているが、原子炉建屋換気系排気放射線モニタ及び燃料取替エリア排気放射線モニタから信号を発信させない処置を施した状態で照射された燃料に係る作業を実施した。
+]]></IHAN_SHOSAI_TXT>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2005/02/18 13:09:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[福島第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>5</SORT_NO>
+		<PLANT_CODE><![CDATA[tyo2f]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[福島第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2761</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[作業者の過失]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+				<SORT_NO>16</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0410]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[故意・過失]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[040]]></GENIN_DAI_CODE>
+					<SORT_NO>4</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2761</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2761</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2761</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<G_KNT_PLANT_EIKYO>
+		<KNT_PLANT_EIKYO>
+			<PLANT_EIKYO_CODE><![CDATA[99]]></PLANT_EIKYO_CODE>
+			<PLANT_EIKYO_CODE_NAME><![CDATA[その他]]></PLANT_EIKYO_CODE_NAME>
+			<TROUBLE_ID>2761</TROUBLE_ID>
+		</KNT_PLANT_EIKYO>
+	</G_KNT_PLANT_EIKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[東京電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[東京]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[東京電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[tyo]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>30</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

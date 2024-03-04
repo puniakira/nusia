@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[1.原因調査
+(1) 流入経路調査
+  モニタ指示上昇が認められたタービンサンプ、湧水サンプ、およびサンプリングで放射能濃度の上昇が観察された中間建屋サンプの流入源について、事象発生当時の系統構成を元に調査を行った。
+ａ．Ａタービンサンプ
+　・非管理区域であるタービン建屋内の機器ドレン、床ドレン
+　・Ｂタービンサンプからの仮設ポンプによる移送水
+　・Ｃタービンサンプからの仮設ポンプによる移送水
+　・Ｒ－５８モニタポンプの戻り水
+ｂ．Ｂタービンサンプ
+　・非管理区域であるタービン建屋内の機器ドレン、床ドレン
+ｃ．Ｃタービンサンプ
+　・非管理区域であるタービン建屋内の機器ドレン、床ドレン
+　・中間建屋サンプからの本設ポンプによる移送水
+ｄ．湧水サンプ
+　・１次系建屋基礎湧水
+　・中間建屋サンプからの仮設ポンプによる移送水
+ｅ．中間建屋サンプ
+　・非管理区域である中間建屋内の機器ドレン、床ドレン
+　・管理区域である補助建屋内の原子炉補機冷却水ドレン
+
+(2) 各サンプの移送ポンプ・モニタポンプの運転状況
+　事象発生時の各サンプの移送ポンプ、モニタポンプの運転状況は以下のとおり。
+　　　　　　　　　　（移送ライン）　　　　　　　（ポンプ種類）　（運転状況）
+　Ｂ・Ｃタービンサンプ　→　Ａタービンサンプ　　　モニタポンプ　　連続運転中
+　Ｃタービンサンプ　　　→　Ａタービンサンプ　　　仮設ポンプ　　　自動運転中
+　Ｂタービンサンプ　　　→　Ａタービンサンプ　　　仮設ポンプ　　　停止中
+　中間建屋サンプ　　　　→　Ｃタービンサンプ　　　本設ポンプ　　　自動運転中
+　中間建屋サンプ　　　　→　湧水サンプ　　　　　　仮設ポンプ　　　連続運転中
+　Ａタービンサンプ　　　→　３号Ｂタービンサンプ　仮設ポンプ　　　停止中
+これらのことから、何らかの原因で中間建屋サンプに流入した放射性物質が、移送ラインを通じてＣタービンサンプ、および湧水サンプに流入し、さらにＣタービンサンプからＡタービンサンプの移送ライン、およびＲ－５８モニタポンプの戻りラインを通じてＡタービンサンプに流入した可能性が考えられる。
+
+(3) 中間建屋サンプへの流入経路
+　Ｃタービンサンプ、湧水サンプの流入源である中間建屋サンプについて、流入経路を調査した。
+ａ．本設設備を通じての流入
+(a) 原子炉補機冷却水のドレン系統からの流入
+　補助建屋に設置され、中間建屋サンプに連絡している原子炉補機冷却水（以下「ＣＣＷ」という）をブローするための機器ドレン排水用接続口（以下「スタンドパイプ」という）内面のスミア測定を実施した結果、汚染は確認されなかった。
+　また、今回点検のためにＣＣＷをブローしたＢ－余熱除去（以下「ＲＨＲ」という）クーラ、Ｂ－使用済燃料ピットクーラ、Ｂ－格納容器スプレイクーラについて、ブロー水をサンプリングした結果、Ｂ－使用済燃料ピットクーラ、Ｂ－格納容器スプレイクーラについては、放射性物質は検出されなかったが、Ｂ－ＲＨＲクーラについてはCo-58が検出された。
+(b) 中間建屋ドレン系統からの流入
+　中間建屋の各フロアに設置されている目皿部のスミア測定を実施した結果、汚染は確認されなかった。
+　また、Ｂ－ＣＣＷ系統のブローのため、Ｄ－ＣＣＷクーラのブローをしており、そのブロー水をサンプリングした結果、放射性物質は検出されなかった。
+
+ｂ．仮設設備を通じて流入
+(a) 管理区域からの流入
+　仮設設備を経由し、管理区域から流入した可能性について検討した結果、管理区域からＡ，Ｃタービンサンプ、中間建屋サンプ、湧水サンプへ流入する仮設設備がないことから、流入はなかった。
+(b) 仮設ポンプ使用による流入
+　Ａ，Ｂ，Ｃタービンサンプ、中間建屋サンプに設置した仮設ポンプ４台については、８月９日から事象発生までの間に何度も使用しているが、2次系で使用するポンプであり、また事象発生前までにＲ－５８、Ｒ－５９の指示上昇等の異常は認められなかった。
+(c) 汚染したホースを使用したことによる流入
+　今回、中間建屋サンプ行きスタンドパイプを利用し、ブローした際に用いたブローホースは全て新品であった。
+
+ｃ．誤って汚染した排水をブローしたことによる流入
+　当日の保修作業内容を再確認した結果、誤って汚染した排水をブローするような作業はなかった。
+
+(4) Ｂ－ＲＨＲクーラの調査
+　Ｂ－ＲＨＲクーラＣＣＷ側から放射性物質が流れ出た要因について、次のとおり調査した。
+ａ．クーラ本体（１次側）
+　プラント停止以降のＲＨＲ系統圧力とＣＣＷ系統圧力の経時比較を行ったところ、ＲＨＲ側の圧力が高かったのは、ＲＨＲポンプの運転を開始した８月１１日から同ポンプを停止した８月１９日までの間であった。
+一方、タービンサンプ水モニタの警報が発信したのは８月３０日であった。また、この間のＣＣＷモニタ（Ｒ－５６）の指示に、変化は見られなかった。
+
+ｂ．ベント・ブローホースの点検
+(a) ベントホース
+　ベントホースの汚染状況を確認するために、接続箇所の先端部内面の分析を実施したところ、新品のホースを使用していたにもかかわらず、Co-58等の核種が検出された。また、ベント管やスタンドパイプ接続部の内面の汚染状況を確認したところ、汚染していることが認められた。
+(b) ブローホース
+　ブローホースの汚染状況を確認したが、汚染は認められなかった。
+
+ｃ．ベント・ブローホースの接続状況
+(a) ベントホース
+　Ｂ－ＲＨＲクーラＣＣＷ側のベントホースは、良水質廃液貯蔵タンク行きのスタンドパイプに接続されテープによりシールされていた。
+(b) ブローホース
+　Ｂ－ＲＨＲクーラＣＣＷ側のブローホースは、中間建屋行きのスタンドパイプに接続され、テープによりシールされていた。
+
+ｄ．ベントホースが接続されているスタンドパイプ周りの調査
+(a) 他配管等の接続状況
+　当該スタンドパイプには、差込口より約１４cm下に枝管があり、その枝管には、事前にブローを実施したＢ－ＲＨＲクーラ１次側（放射性廃液）ドレン配管が接続されていた。
+(b) Ｂ－ＲＨＲクーラ１次側ドレン配管残留水調査
+　・当該配管を分解し、残留水を８０cc回収した。
+　・残留水を分析したところ、全放射能濃度は3.7×10E2Bq/cc(Co-58:1.910E2Bq/cc)であった。
+　・ドレン配管の配置、形状を調査した結果、当該配管内にはドレンが残留する構造となっていた。
+　・類似のＡ－ＲＨＲクーラ１次側ドレン配管について調査した結果、同様にドレンが残留する構造となっており７３０ｃｃの残留水を回収した。
+　・Ｂ－ＲＨＲクーラ１次側（放射性廃液）のドレン配管の残留水から検出された核種と、タービンサンプ水から検出された核種を比較したところ、核種およびその構成比がほぼ一致していた。
+
+(5) ベント･ブローホースの運用調査
+　本事象について、関係者から聞き取り調査を実施し、時系列にまとめたところ、Ｂ－ＲＨＲクーラのベントホースとブローホースの接続先が異なっていた経緯は次のとおりであることが判明した。
+＜経緯＞
+　当日１０時３５分に、定検班から廃液処理の観点より「Ｂ－格納容器スプレイクーラ及びＢ－ＲＨＲクーラのベントホースとブローホースを、中間建屋サンプ行きスタンドパイプにつなぎ替えるよう」原子炉保修課に依頼があり、まず、Ｂ－格納容器スプレイクーラ用のベント・ブローホースをつなぎ替えようとしたが、当該ベントホースを中間建屋サンプサンプ行きスタンドパイプへ接続するには、ホースが短く接続できなかったこと、および新しいホースを再度接続するのには、高所のため不安全であり、時間的にも裕度が少ないことから、定検班との調整のうえ、ベントホースは現状のままとした。
+　引き続き、Ｂ－ＲＨＲクーラのベント・ブローホースの付け替え作業に着手したが、原子炉保修課員はＢ－格納容器スプレイクーラと同様、ベントホースはそのままで良いと判断し、ブローホースだけを中間建屋サンプ行きスタンドパイプに接続したため、Ｂ－格納容器スプレイとＢ－ＲＨＲクーラのベントホースとブローホースは、別々のスタンドパイプに接続されることになった。
+
+　このような系統隔離ブロー時の仮設ベント・ブローホースの取付け・取外しについての規定について調査した結果、「高浜発電所３・４号機　定期検査業務マニュアル」に、取付対象弁に関しては定められているが、ベント接続先に関しては明記されておらず、社内におけるマニュアルや、協力会社の運用の枠組みの中で実施されていた。
+　以上の事項と時系列から、問題点を以下のとおり抽出した。
+
+ａ．ベント、ブローの運用に係る基本的事項（接続可否判断基準）が取り決められていない。
+ｂ．個別機器毎のベント、ブロー先が検討、指示されていない。
+ｃ．非放射性機器のベントを１次系に接続することの問題意識と危機意識が欠如。
+ｄ．ベント、ブローホース接続に関する目的意識が希薄。
+ｅ．事前検討不足による直前の変更を担当者間で実施。
+
+２．放射性廃液の混入推定メカニズム
+(1) Ｂ－ＲＨＲクーラＣＣＷ側ベントホースが良水質廃液貯蔵タンク行きのスタンドパイプに接続され、テープによりシールされていた。
+(2) 同スタンドパイプにはＢ－ＲＨＲクーラ１次側（放射性廃液）のドレン配管が接続されており、ドレンが残留する配管構造となっていた。
+(3) 当該ドレン配管の残留水を調査した結果、Ｂ－ＲＨＲクーラ側では８０ｃｃであったが、Ａ－ＲＨＲクーラ側では７３０ｃｃ回収された。配管形状的にはＡに比べＢ－ＲＨＲクーラ側の方が多く残留する構造となっていた。
+(4) 通常、ベント、ブローホースをスタンドパイプに差し込む場合は、ブローホースを３０ｃｍ位の深さとし、ベントホースはドレンの吸い込み防止のため、ブローホース差し込み量の約半分程度の差し込み量としている。
+(5) このような状況で、１７時３０分頃Ｂ－ＲＨＲクーラＣＣＷ側のベント弁を開放し、１７時５０分頃にＢ－ＲＨＲクーラＣＣＷ側のドレン弁を開放した。
+(6) Ｂ－ＲＨＲクーラＣＣＷ側のブローを開始した時点からＢ－ＲＨＲクーラＣＣＷ側が負圧になり、ベントホースから空気の吸い込みが開始された。
+(7) ベントホースからの空気の吸い込みに伴ない、ホース先端部近くのＢ－ＲＨＲクーラ１次側（放射性廃液）のドレン配管に残留するドレンが吸引され、Ｂ－ＲＨＲクーラのＣＣＷ側に流入したものと推定される。
+]]></CHOSA_GAIYO_TXT>
+	<PLANT_EIKYO_TXT><![CDATA[]]></PLANT_EIKYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>0</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+	<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>2518</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[299]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[その他]]></UNTEN_MODE_CODE_NAME>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2004/10/04 14:26:47]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<SEIGENGAI_TXT><![CDATA[]]></SEIGENGAI_TXT>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[1]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>2995</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2004/08/31 16:41:02]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[200408301920]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[１．恒久対策
+　非放射性系統への放射性物質の持ち込み防止、ならびに非管理区域への放射性物質の漏えい防止を図る観点から、今後、管理区域に設置されている機器の非放射性の排水を取り扱う作業におけるベント・ブローホースの運用に関する基本的事項を次のとおり改善する。
+(1) ベントホースとブローホースの接続先が、それぞれ１次系(２次系)スタンドパイプと２次系(１次系)スタンドパイプになるような、１次系と２次系をまたぐ接続をしない。
+(2) ベントホースの接続先管理
+ａ．ブローホースを１次系のスタンドパイプに接続する場合、ベントホースは仮設タンクに接続する。
+ｂ．ブローホースを２次系のスタンドパイプに接続する場合、ベントホースは２次系のスタンドパイプ、または仮設タンクに接続する。
+２次系のスタンドパイプに接続する場合、水抜き時にベントホースからの空気取入口を確保する。
+上記(1)、(2)項については、「高浜発電所３･４号機定期検査業務マニュアル」および「一次系一般弁定期検査工事別冊作業要領書」に反映すると共に、関係する発電所所員に徹底を図る。
+(3) ホースの識別管理
+　ホースの両端を、汚染系統、非汚染系統、海水系統で色分けすることにより識別管理する。
+
+２．関係者の意識改革
+　関係する発電所員および協力会社員に対し、以下の観点で意識改革を実施する。
+(1) １次系・２次系接続に伴う問題意識と危機意識の付与
+(2) ベント、ブローホース接続に関する目的意識の付与
+(3) 当初計画からの変更に伴う影響の検討
+
+３．サンプ洗浄とサンプ水処理実績
+　Ｂタービンサンプを除く各サンプのサンプ水で、人工核種であるCo-58が検出されたことから、以下のとおりサンプの洗浄を実施した。
+(1) Ａ，Ｃタービンサンプ、中間建屋サンプ
+　サンプ水を洗浄排水モニタタンクに回収した後、サンプ内面を洗浄したうえで、放射性物質濃度が検出限界未満であることを確認し、通常の運用に戻した。
+(2) 湧水サンプ
+　サンプ水を仮設タンクに移送した後、サンプ内面を洗浄したうえで、放射性物質濃度が検出限界未満であることを確認し、通常の運用に戻した。
+
+また、各サンプ水については、人工核種であるCo-58が検出されたことから、放射性液体廃棄物として取り扱い、法令に従い廃棄物処理設備で処理した。なお、仮設タンクに移送した湧水サンプ水については、１次系にて処理した。
+
+４． Ｂ－ＲＨＲクーラの対応
+(1) クーラ伝熱管健全性確認
+　伝熱管の健全性を確認するため、ヘリウム（Ｈｅ）リークテストを実施し、健全性を確認した。
+(2) 汚染範囲の洗浄結果
+　汚染した可能性のある範囲についてブロックごとに汚染状況を確認するとともに、汚染部位について洗浄を行い、健全性を確認した。
+
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<SONOTA_TXT><![CDATA[]]></SONOTA_TXT>
+	<KOKAI_UPDATE_DATE><![CDATA[2004/10/04 14:26:47]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[　高浜発電所４号機は、平成１６年８月１０日から第１５回定期検査を実施中、平成１６年８月３０日、１８時４６分に「プロセスモニタ放射線注意」（タービンサンプ水モニタ注意（以下Ｒ－５８）：設定値1,500cpm）の警報が発信した。
+　確認したところ、Ｒ－５８の指示が通常約450cpmのところ１８時３５分頃から上昇し、１８時４６分に注意警報が発信、その後、１９時００分頃に約2,000cpmに達し、１９時５０分頃から指示が低下し、２１時０３分に運転員により警報をリセットした。なお、指示は８月３０日２０時２０分頃に約1,000cpm、８月３１日３時３０分頃に約700cpmで安定している。
+
+　また、１次系建屋基礎湧水サンプ＊１モニタ（Ｒ－５９）についても通常約550cpmから約950cpm（注意警報：1,900cpm）に上昇していることを確認した。このため、同日１９時０７分および３２分にタービンサンプポンプおよび１次系建屋基礎湧水サンプポンプを停止し、放水口への各サンプ水の放出を停止した。Ｒ－５８の警報発信後、１９時２０分頃にＣタービンサンプ水の分析を実施した結果、放射能濃度は2.9×10E-2Bq/cc（コバルト５８：1.7×10E-2Bq/cc）で、１９時４０分頃に１次系建屋基礎湧水サンプ水を測定した結果2.6×10E-2Bq/cc（コバルト５８：8.9×10E－3Bq/cc）であった。
+　なお、８月３１日８時３０分頃の分析結果Ｃタービンサンプ水の放射能は検出限界未満で、１次系建屋基礎湧水サンプは約1.7×10E-2Bq/ccに低下している。
+
+　当日、１次系機器の冷却水（放射能濃度は全て検出限界未満）を中間建屋サンプに排水後、Ｃタービンサンプおよび１次系建屋基礎湧水サンプへ送っており、その関連等の調査を行なった。
+　なお、この事象によりごく微量（約3×10E5Bq＊2）の放射性物質が放水口に放出されたが、保安規定に定める値に比べ十分低く、また放水口モニタ（Ｒ－９９）の指示値に変動のないことから、周辺環境への放射能の影響はない。
+
+＊１　１次系建屋基礎湧水サンプ
+　　　　１次系建屋の基礎部分から湧き出る水を集めるサンプ　
+
+＊２　高浜発電所の保安規定に定められた液体廃棄物の放出管理目標値は、年間1.4×10E11Bq(ﾍﾞｸﾚﾙ)であり、今回の放出量約3×10E5Bq(ﾍﾞｸﾚﾙ)は、その値の約５０万分の１である。
+]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2004-関西-M014]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　 Ｂ－ＲＨＲクーラのＣＣＷ側ベントホースが、Ｂ－ＲＨＲクーラ１次側（放射性廃液）のドレン配管が接続されているスタンドパイプに接続されていた。また、Ｂ－ＲＨＲクーラＣＣＷ側はブローを開始した時点から負圧になり、ベント弁を開放したことによりベントホースから空気の吸い込みが始まり、この際ドレン配管に残留していた放射性廃液をＢ－ＲＨＲクーラのＣＣＷ側に吸引したものと推定される。
+　その後、Ｂ－ＲＨＲクーラのＣＣＷ側に流入した放射性廃液は、ＣＣＷ側ブロー水と共にブロー先である中間建屋サンプに放出され、さらに移送ポンプによりＡ，Ｃタービンサンプ、湧水サンプに移送されたものと推定される。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<HOSHANO_EIKYO_TXT><![CDATA[]]></HOSHANO_EIKYO_TXT>
+	<TITLE_NAME><![CDATA[タービンサンプ水モニタ指示値の上昇について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[頃（タービンサンプ水の分析完了時刻）]]></HASSEI_DATE_HOSOKU>
+	<UNITS><![CDATA[4]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2004/08/31 19:30:00]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[高浜]]></PLANT_RYAKU_NAME>
+		<SORT_NO>11</SORT_NO>
+		<PLANT_CODE><![CDATA[knsth]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[高浜発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_SUIHEI>
+		<KNT_SUIHEI>
+			<DISP_NO><![CDATA[a]]></DISP_NO>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<SUIHEI_SEQ_NBR>1</SUIHEI_SEQ_NBR>
+		</KNT_SUIHEI>
+	</G_KNT_SUIHEI>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[側溝・ピット*]]></S_BUHIN_NAME>
+					<TROUBLE_ID>2518</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[999]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[727]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[727]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[その他]]></KIKI_NAME>
+					<SORT_NO>44</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[その他]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<KEITO_CODE><![CDATA[999]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+				<SORT_NO>35</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[0999]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[O]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[旧区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[099]]></GENIN_DAI_CODE>
+					<SORT_NO>10</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のない事象（偶発事象を含む）]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>2518</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[99]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[その他]]></SETSUBI_NAME>
+		<SORT_NO>18</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[関西電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[関西]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[関西電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[kns]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>60</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

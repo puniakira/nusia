@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<CHOSA_GAIYO_TXT><![CDATA[点検調査
+　上述のとおり，ＳＦＰ導電率上昇はＲＨＲＳ（Ａ系）と熱交換するＲＨＲ（Ａ系）熱交換器またはＲＨＲ（Ａ系）ポンプメカニカルシール冷却器の不具合と推定できたことから，系統水抜き等の準備を行ったのち各部の点検を開始し，１１月１８日に調査が完了した。
+（１）ＲＨＲ（Ａ系）熱交換器
+　熱交換器水室を開放し，水室管板面の外観点検を行った結果，管板と伝熱管の取付部について変形，割れ等の異常は見られなかった。また，渦流探傷試験による伝熱管の健全性確認を実施した結果，伝熱管点検対象本数１，１７１本すべてに必要肉厚を下回る減肉等の異常は見られなかった。なお，これまでの渦流探傷試験結果からわずかな減肉の傾向が見られていた伝熱管約３０本については，前回点検（平成２７年１２月）から有意な変化がないことを確認している。
+（２）ＲＨＲ（Ａ系）ポンプメカニカルシール冷却器
+　当該メカニカルシール冷却器の開放点検結果，ＳＦＰ水（今回の運転では，ＲＨＲ系統水）が流れるコイル状の伝熱管（以下「当該伝熱管」という。）外面のうち，海水が流入する入口配管の直下の部位に減肉を確認した。
+　また，開放した当該メカニカルシール冷却器に対して，耐圧試験として水張りを実施したところ，減肉部からの漏えいを確認したため，試験を中断し減肉部の観察を行った結果，直径約０．２ｍｍの開孔を確認した。
+（３）海水漏えい量の評価
+①ＲＨＲポンプメカニカルシール冷却器の圧力バランス
+　点検調査にて確認された当該伝熱管の開孔について，ＲＨＲ系統圧力とＲＨＲＳ系統圧力の圧力差を確認した。
+　・ＲＨＲ系統圧力　：ＲＨＲポンプの吸込圧力は０．４４ＭＰａであり，吐出圧力は２．１９ＭＰａとなる。この吐出圧力にメカニカルシール系統圧力損失を考慮すると，当該メカニカルシール冷却器入口圧力は０．４５ＭＰａと算出できる。
+　・ＲＨＲＳ系統圧力：ＲＨＲＳ系ポンプで取水された系統圧力は，メカニカルシール冷却器入口で１．５６ＭＰａである。
+　・差圧
+　　ＲＨＲＳ系統圧力－ＲＨＲ系統圧力＝１．５６－０．４５＝１．１１ＭＰａであり，ＲＨＲＳ系統圧力が高いことから，海水がＳＦＰ水に漏れこむことが分かった。
+②海水漏えい量の推定
+　ＳＦＰの塩素イオン濃度上昇から海水の漏えい量は，１時間あたり約６Ｌであり，導電率上昇時間（５時間）に換算すると約３０Ｌとなる。なお，その海水漏えい量と圧力バランスから開孔面積を逆算すると，直径約０．２４ｍｍとなり点検にて確認された開孔の状況（約０．２ｍｍ）とほぼ同一である。
+]]></CHOSA_GAIYO_TXT>
+	<SEIGENGAI_UMU_CODE><![CDATA[2]]></SEIGENGAI_UMU_CODE>
+	<SEIGENGAI_UMU_CODE_NAME><![CDATA[なし]]></SEIGENGAI_UMU_CODE_NAME>
+	<PLANT_EIKYO_UMU_CODE><![CDATA[2]]></PLANT_EIKYO_UMU_CODE>
+	<PLANT_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></PLANT_EIKYO_UMU_CODE_NAME>
+	<KOKAI_REV_NBR>4</KOKAI_REV_NBR>
+	<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+	<JIREI_UMU_CODE><![CDATA[2]]></JIREI_UMU_CODE>
+	<JIREI_UMU_CODE_NAME><![CDATA[なし]]></JIREI_UMU_CODE_NAME>
+	<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+	<KITEI_IHAN_UMU_CODE><![CDATA[2]]></KITEI_IHAN_UMU_CODE>
+	<KITEI_IHAN_UMU_CODE_NAME><![CDATA[なし]]></KITEI_IHAN_UMU_CODE_NAME>
+	<TROUBLE_ID>12557</TROUBLE_ID>
+	<HAKKEN_HOHO_CODE><![CDATA[02]]></HAKKEN_HOHO_CODE>
+	<HAKKEN_HOHO_CODE_NAME><![CDATA[運転監視]]></HAKKEN_HOHO_CODE_NAME>
+	<UNTEN_MODE_CODE><![CDATA[105]]></UNTEN_MODE_CODE>
+	<UNTEN_MODE_CODE_NAME><![CDATA[燃料交換]]></UNTEN_MODE_CODE_NAME>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<INES_CODE><![CDATA[N]]></INES_CODE>
+	<INES_CODE_NAME><![CDATA[評価不要]]></INES_CODE_NAME>
+	<UPDATE_DATE><![CDATA[2019/12/06 16:17:57]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[M]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[保全品質情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[B]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[BWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[2]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[不要]]></SUIHEI_KENTO_CODE_NAME>
+	<STOP_HOUR_NBR>0</STOP_HOUR_NBR>
+	<HOSHANO_EIKYO_UMU_CODE><![CDATA[2]]></HOSHANO_EIKYO_UMU_CODE>
+	<HOSHANO_EIKYO_UMU_CODE_NAME><![CDATA[なし]]></HOSHANO_EIKYO_UMU_CODE_NAME>
+	<ATTACH_ID>68711</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2016/12/28 10:48:58]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201610271500]]></HASSEI_NJ>
+	<SB_TAISAKU_TXT><![CDATA[処置及び対策
+　当該メカニカルシール冷却器は，シール水の温度上昇を抑制することを目的とし，メカニカルシール長寿命化のために設置されている補助機器であることから，使用不可能な場合においても，メカニカルシールの封水機能が喪失するものではない。
+（１）対策完了までの処置
+　ＲＨＲ（Ａ系）については，メカニカルシール冷却器をバイパスしてシール水を流すことで，１月２３日に運転可能なことを確認した。
+また，当該メカニカルシール冷却器と同様の機器を有するポンプ（４基）についても，海水系を隔離することで運転可能なことを確認した。
+（２）再発防止対策
+　当該メカニカルシール冷却器について，電気的な絶縁によるマクロセル腐食が原因であることから，当該メカニカルシール冷却器と同様の機器を有するポンプ（４台）を，今後計画的に，対策品（メカニカルシール冷却器内に犠牲電極や伝熱管保護部品の追加等）に交換する。
+]]></SB_TAISAKU_TXT>
+	<AUTO_ANZEN_UMU_CODE><![CDATA[2]]></AUTO_ANZEN_UMU_CODE>
+	<AUTO_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></AUTO_ANZEN_UMU_CODE_NAME>
+	<KOKAI_UPDATE_DATE><![CDATA[2019/12/06 16:17:57]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[１．経緯
+　東海第二発電所は第２５回施設定期検査中のところ，平成２８年１０月２７日１５時００分に中央制御室警報「FPC F/D INLET CONDUCTIVITY HIGH（警報設定値１．５μＳ/㎝）」が発報した。このため，中央制御室内に設置してある燃料プール冷却浄化系（以下「ＦＰＣ」という。）のろ過脱塩器入口導電率記録計の指示を確認したところ，１２時００分頃より通常値（０．８５μＳ/㎝）から徐々に上昇していることを確認した。また，計器の健全性確認も含めＦＰＣろ過脱塩器入口水をサンプリングして手分析を実施したところ，１５時４０分時点で１．８９μＳ/㎝であることを確認した。
+　その後も記録計指示値の上昇が継続していることから，使用済燃料貯蔵プール（以下「ＳＦＰ」という。）に関連する系統確認を実施したところ，ＦＰＣ系統（ポンプ（Ａ）＋ろ過脱塩器（Ｂ））は水質浄化運転中で，ＳＦＰの冷却は残留熱除去系（以下「ＲＨＲ」という。）（Ａ系）にて冷却中であった。
+
+２．対応状況
+　ＳＦＰ導電率上昇の原因として，ＦＰＣ系統ろ過脱塩器の性能劣化又はＲＨＲ（Ａ系）からの海水漏えいが考えられたため，原因調査としてＳＦＰ冷却に用いていたＲＨＲ（Ａ系）系統水のサンプリング分析を実施した結果，微量の塩素が検出された。
+　このことから，海水混入によるＳＦＰ導電率上昇の可能性が高まり，さらなる導電率上昇を抑制するため，ＲＨＲ（Ａ系），残留熱除去系海水系（以下，「ＲＨＲＳ」という。）（Ａ系）の停止及びＳＦＰ水と海水が熱交換される熱交換器・ポンプメカシール冷却器の隔離措置を実施し，１７時５６分に完了した。
+　その結果，ＳＦＰ水導電率の低下（最大値２７日１７時３０分の２．０８μＳ／ｃｍが２８日８時００分時点で１．３２μＳ／ｃｍ）を確認した。
+　また，ＳＦＰの冷却系が停止していることから，温度の監視強化を開始するとともに，ＦＰＣの冷却源であり，点検停止中であった補機海水系及び原子炉補機冷却水系の復旧操作を実施し，２８日２０時５４分にＳＦＰ冷却を開始，ＳＦＰ温度が低下したことを確認した。
+　なお，ＳＦＰ最高温度は２８日２３時００分で約３１．２℃であり，あらかじめ評価を行っていた温度上昇率（約５℃／日）とほぼ等しかった。]]></HASSEIJI_JOKYO_TXT>
+	<TEISHI_CHU_FLG><![CDATA[0]]></TEISHI_CHU_FLG>
+	<STOP_MIN_NBR>0</STOP_MIN_NBR>
+	<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2016-原電-M005]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+	<JISHO_GENIN_TXT><![CDATA[　当該メカニカルシール冷却器の当該伝熱管外面の一部に開孔を確認したことから，その原因について以下のとおり点検・調査を実施した。
+（１）当該伝熱管の状況
+　当該伝熱管を切断し減肉部と健全部の外面状況を点検した結果，開孔部近傍の減肉はエロージョン・コロージョンの特徴がみられた。なお，健全部には開孔部近傍で観察された減肉は確認されなかった。
+（２）当該メカニカルシール冷却器の点検履歴調査
+　当該メカニカルシール冷却器の点検履歴を調査したところ，平成１４年に微生物腐食対策の一環として，海水出入口配管内面をポリエチレンライニング配管（炭素鋼のライニング配管）にするとともに，フランジ接続のためのボルトを絶縁ボルトに変更した。
+　これらの点検・調査の結果より，平成１４年以前は当該伝熱管（銅-Ｎｉ合金）と海水出入口配管（ステンレス（ＳＵＳ３１６Ｌ））が導通し，当該伝熱管表面は安定した酸化被膜が形成され伝熱管の腐食は抑制されていた。しかし，平成１４年に海水出入口配管のポリエチレンライニング化に伴い，電気的に絶縁された状態になり，当該メカニカルシール冷却器内部でマクロセル腐食※１が発生し，酸化被膜が形成されなくなり，流れの影響を受けやすい当該伝熱管減肉部が集中的に腐食・減肉したと考えられる。
+　※１：金属表面の離れた部位でそれぞれプラスとマイナスの電位を帯び、両者が大きな電池を構成することで、安定した酸化被膜が形成されずに進行していく腐食。
+]]></JISHO_GENIN_TXT>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[使用済燃料貯蔵プール水導電率の上昇について]]></TITLE_NAME>
+	<HASSEI_DATE_HOSOKU><![CDATA[警報が発報した時刻]]></HASSEI_DATE_HOSOKU>
+	<PRESS_UMU_CODE><![CDATA[2]]></PRESS_UMU_CODE>
+	<PRESS_UMU_CODE_NAME><![CDATA[なし]]></PRESS_UMU_CODE_NAME>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<DENKI_OUTPUT_NBR>0</DENKI_OUTPUT_NBR>
+	<INES_ZANTEI_FLG><![CDATA[0]]></INES_ZANTEI_FLG>
+	<MANUAL_ANZEN_UMU_CODE><![CDATA[2]]></MANUAL_ANZEN_UMU_CODE>
+	<MANUAL_ANZEN_UMU_CODE_NAME><![CDATA[なし]]></MANUAL_ANZEN_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2016/12/28 10:49:21]]></FIRST_KOKAI_DATE>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[東海第二]]></PLANT_RYAKU_NAME>
+		<SORT_NO>17</SORT_NO>
+		<PLANT_CODE><![CDATA[gentk]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[東海第二発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+	<G_KNT_KIKI>
+		<KNT_KIKI>
+			<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+			<TROUBLE_ID>12557</TROUBLE_ID>
+			<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+			<G_KNT_KIKI_BUHIN>
+				<KNT_KIKI_BUHIN>
+					<BUHIN_SEQ_NBR>1</BUHIN_SEQ_NBR>
+					<S_BUHIN_NAME><![CDATA[メカニカルシール冷却器]]></S_BUHIN_NAME>
+					<TROUBLE_ID>12557</TROUBLE_ID>
+					<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+					<KIKI_SEQ_NBR>1</KIKI_SEQ_NBR>
+					<KNM_BUHIN>
+						<BUHIN_NAME><![CDATA[その他]]></BUHIN_NAME>
+						<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+						<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+						<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+						<SORT_NO>150</SORT_NO>
+						<BUHIN_CODE><![CDATA[999]]></BUHIN_CODE>
+						<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+					</KNM_BUHIN>
+				</KNT_KIKI_BUHIN>
+			</G_KNT_KIKI_BUHIN>
+			<KNM_KIKI>
+				<KIKI_CODE><![CDATA[011]]></KIKI_CODE>
+				<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<KIKI_NAME><![CDATA[電動ポンプ本体]]></KIKI_NAME>
+				<SORT_NO>1</SORT_NO>
+				<OYA_KIKI_CODE><![CDATA[010]]></OYA_KIKI_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_KIKI>
+					<KIKI_CODE><![CDATA[010]]></KIKI_CODE>
+					<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+					<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<KIKI_NAME><![CDATA[ポンプ装置]]></KIKI_NAME>
+					<SORT_NO>1</SORT_NO>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_KIKI>
+			</KNM_KIKI>
+		</KNT_KIKI>
+	</G_KNT_KIKI>
+	<KNM_KEITO>
+		<KEITO_NAME><![CDATA[残留熱除去系]]></KEITO_NAME>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<HYOJUN_KEITO_CODE><![CDATA[106]]></HYOJUN_KEITO_CODE>
+		<KEITO_CODE><![CDATA[106]]></KEITO_CODE>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_KEITO>
+	<G_KNT_GENIN>
+		<KNT_GENIN>
+			<S_GENIN_NAME><![CDATA[検討不足]]></S_GENIN_NAME>
+			<TROUBLE_ID>12557</TROUBLE_ID>
+			<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+			<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+			<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+			<SEQ_NBR>1</SEQ_NBR>
+			<KNM_GENIN_SHO>
+				<GENIN_SHO_NAME><![CDATA[その他]]></GENIN_SHO_NAME>
+				<INPUT_TYPE_CODE><![CDATA[1]]></INPUT_TYPE_CODE>
+				<INPUT_TYPE_CODE_NAME><![CDATA[その他]]></INPUT_TYPE_CODE_NAME>
+				<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+				<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+				<SORT_NO>5</SORT_NO>
+				<GENIN_SHO_CODE><![CDATA[1940]]></GENIN_SHO_CODE>
+				<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				<KNM_GENIN_DAI>
+					<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+					<OLD_NEW_KUBUN_CODE><![CDATA[N]]></OLD_NEW_KUBUN_CODE>
+					<OLD_NEW_KUBUN_CODE_NAME><![CDATA[新区分]]></OLD_NEW_KUBUN_CODE_NAME>
+					<GENIN_DAI_NAME><![CDATA[その他]]></GENIN_DAI_NAME>
+					<GENIN_DAI_CODE><![CDATA[190]]></GENIN_DAI_CODE>
+					<SORT_NO>7</SORT_NO>
+					<GENIN_DAI_GR_CODE><![CDATA[1]]></GENIN_DAI_GR_CODE>
+					<GENIN_DAI_GR_CODE_NAME><![CDATA[その他事象（偶発事象を含む）]]></GENIN_DAI_GR_CODE_NAME>
+					<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+				</KNM_GENIN_DAI>
+			</KNM_GENIN_SHO>
+		</KNT_GENIN>
+	</G_KNT_GENIN>
+	<G_KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12557</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[AGING]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[時間依存性]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[1]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[時間依存性のある劣化事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+		<KNT_GENIN_SHUBETSU>
+			<TROUBLE_ID>12557</TROUBLE_ID>
+			<GENIN_SHUBETSU_CODE><![CDATA[FIRE]]></GENIN_SHUBETSU_CODE>
+			<GENIN_SHUBETSU_CODE_NAME><![CDATA[火災]]></GENIN_SHUBETSU_CODE_NAME>
+			<GENIN_SHUBETSU_UMU_CODE><![CDATA[2]]></GENIN_SHUBETSU_UMU_CODE>
+			<GENIN_SHUBETSU_UMU_CODE_NAME><![CDATA[火災に該当しない事象]]></GENIN_SHUBETSU_UMU_CODE_NAME>
+		</KNT_GENIN_SHUBETSU>
+	</G_KNT_GENIN_SHUBETSU>
+	<G_KNT_HOKOKU_KONKYO>
+		<KNT_HOKOKU_KONKYO>
+			<TROUBLE_ID>12557</TROUBLE_ID>
+			<HOKOKU_KONKYO_CODE><![CDATA[198]]></HOKOKU_KONKYO_CODE>
+			<HOKOKU_KONKYO_CODE_NAME><![CDATA[なし]]></HOKOKU_KONKYO_CODE_NAME>
+			<SEQ_NBR>1</SEQ_NBR>
+		</KNT_HOKOKU_KONKYO>
+	</G_KNT_HOKOKU_KONKYO>
+	<KNM_SETSUBI>
+		<SETSUBI_CODE><![CDATA[03]]></SETSUBI_CODE>
+		<INPUT_TYPE_CODE><![CDATA[0]]></INPUT_TYPE_CODE>
+		<INPUT_TYPE_CODE_NAME><![CDATA[その他/不明不選択]]></INPUT_TYPE_CODE_NAME>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SETSUBI_NAME><![CDATA[非常用炉心冷却設備]]></SETSUBI_NAME>
+		<SORT_NO>3</SORT_NO>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_SETSUBI>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[日本原子力発電]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[原電]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[日本原子力発電株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[gen]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>100</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[B]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+</KNT_TROUBLE>

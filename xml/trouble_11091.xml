@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KNT_TROUBLE>
+	<KOKAI_REV_NBR>1</KOKAI_REV_NBR>
+	<TROUBLE_ID>11091</TROUBLE_ID>
+	<KANRYO_FLG><![CDATA[0]]></KANRYO_FLG>
+	<UPDATE_DATE><![CDATA[2010/11/12 16:02:29]]></UPDATE_DATE>
+	<JOHO_KUBUN_CODE><![CDATA[S]]></JOHO_KUBUN_CODE>
+	<JOHO_KUBUN_CODE_NAME><![CDATA[その他情報]]></JOHO_KUBUN_CODE_NAME>
+	<RO_TYPE_CODE><![CDATA[P]]></RO_TYPE_CODE>
+	<RO_TYPE_CODE_NAME><![CDATA[PWR]]></RO_TYPE_CODE_NAME>
+	<SUIHEI_KENTO_CODE><![CDATA[X]]></SUIHEI_KENTO_CODE>
+	<SUIHEI_KENTO_CODE_NAME><![CDATA[対象外]]></SUIHEI_KENTO_CODE_NAME>
+	<ATTACH_ID>18637</ATTACH_ID>
+	<CREATE_DATE><![CDATA[2010/09/13 11:03:08]]></CREATE_DATE>
+	<HASSEI_NJ><![CDATA[201008051734]]></HASSEI_NJ>
+	<KOKAI_UPDATE_DATE><![CDATA[2010/11/12 16:02:29]]></KOKAI_UPDATE_DATE>
+	<HASSEIJI_JOKYO_TXT><![CDATA[伊方３号機は通常運転中のところ、平成２２年８月５日１７時３４分、主変圧器の火災を示す信号が発信し水噴霧消火装置が作動した。
+現場を確認した結果、火災の痕跡がないことおよび主変圧器の油温度に上昇の傾向が認められないことから、火災は発生しておらず主変圧器の火災を示す信号が誤発信したものと判断し、その旨消防署に連絡した。
+その後、消防署の現地確認の結果、１８時２９分、「火災でない」との判断を得た。
+
+調査の結果、主変圧器周辺に設置している火災感知器（＊１）２０個のうち１個に不具合があり、誤動作により水噴霧消火装置が作動したことを確認した。
+このため、当該火災感知器を予備品と取り替えて、火災感知器の動作確認（＊２）を行い正常に動作することを確認し、８月９日１４時５５分、通常状態に復旧した。
+なお、この間、監視人等により監視強化を行い、主変圧器廻りに問題はなかった。
+本事象によるプラント運転への影響および環境への放射能の影響はなかった。
+＊1 ステンレス製の外筒（高膨張）の中に接点を有したストラット（低膨張）を取り付けており、周囲の温度上昇による外筒の伸びがストラットの伸びより大きくなることで、接点を閉じ、火災を感知・動作する構造となっている。なお、当該火災感知器の設定温度は７０℃としている。
+＊２ 設定温度の１５０％（１０５℃）の温度での動作時間測定。（メーカが推奨する火災感知器の点検方法）
+
+詳細は添付の報告書参照。]]></HASSEIJI_JOKYO_TXT>
+	<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+	<REPORT_NO><![CDATA[2010-四国-S012]]></REPORT_NO>
+	<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+	<HOKOKUSHO_JOTAI_CODE><![CDATA[02]]></HOKOKUSHO_JOTAI_CODE>
+	<HOKOKUSHO_JOTAI_CODE_NAME><![CDATA[最終報告]]></HOKOKUSHO_JOTAI_CODE_NAME>
+	<TITLE_NAME><![CDATA[伊方発電所３号機　主変圧器火災警報の発信]]></TITLE_NAME>
+	<UNITS><![CDATA[3]]></UNITS>
+	<ATTACH_UMU_CODE><![CDATA[1]]></ATTACH_UMU_CODE>
+	<ATTACH_UMU_CODE_NAME><![CDATA[あり]]></ATTACH_UMU_CODE_NAME>
+	<KOKAI_FLG><![CDATA[1]]></KOKAI_FLG>
+	<FIRST_KOKAI_DATE><![CDATA[2010/09/13 11:03:51]]></FIRST_KOKAI_DATE>
+	<COM_COMPANY>
+		<COMPANY_NAME><![CDATA[四国電力]]></COMPANY_NAME>
+		<COMPANY_SHORT_NAME><![CDATA[四国]]></COMPANY_SHORT_NAME>
+		<COMPANY_FULL_NAME><![CDATA[四国電力株式会社]]></COMPANY_FULL_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<SORT_NO>80</SORT_NO>
+		<SYSTEM_CODE><![CDATA[KN]]></SYSTEM_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+	</COM_COMPANY>
+	<KNM_PLANT>
+		<COMPANY_CODE><![CDATA[yon]]></COMPANY_CODE>
+		<CREATE_USER_CODE><![CDATA[mainte01]]></CREATE_USER_CODE>
+		<PLANT_RYAKU_NAME><![CDATA[伊方]]></PLANT_RYAKU_NAME>
+		<SORT_NO>13</SORT_NO>
+		<PLANT_CODE><![CDATA[yonik]]></PLANT_CODE>
+		<D_RO_TYPE_CODE><![CDATA[P]]></D_RO_TYPE_CODE>
+		<PLANT_NAME><![CDATA[伊方発電所]]></PLANT_NAME>
+		<CREATE_DATE><![CDATA[2010/05/31 00:00:00]]></CREATE_DATE>
+	</KNM_PLANT>
+</KNT_TROUBLE>
