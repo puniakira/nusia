@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import xml.etree.ElementTree as ET
+import re  # 正規表現モジュールをインポート
 from sentence_transformers import SentenceTransformer, util
 
 # XMLファイルから特定の要素のテキスト内容を取得する関数
@@ -65,9 +66,17 @@ def main():
         if keyword:
             results = search_similar_documents(keyword)
             for filename, score, text in results:
-                st.write(f"{filename}: Score = {score:.4f}")
-                # 検索結果表示のテキストボックスの高さを調整
-                st.text_area("", text, height=300)
+                # ファイル名から数字を抽出
+                match = re.search(r'\d+', filename)
+                if match:
+                    trouble_id = match.group()
+                    # 指定されたURLに数字を組み込む
+                    url = f"http://www.nucia.jp/nucia/kn/KnTroubleView.do?troubleId={trouble_id}"
+                    st.markdown(f"[{filename}: Score = {score:.4f}]({url})")
+                    st.text_area("", text, height=300)
+                else:
+                    st.write(f"{filename}: Score = {score:.4f} (No ID found)")
+                    st.text_area("", text, height=300)
         else:
             st.error("Please enter a keyword.")
     
@@ -76,9 +85,16 @@ def main():
         if keyword:
             results = search_documents_by_content(keyword)
             for filename, text in results:
-                st.write(f"{filename}")
-                # 検索結果表示のテキストボックスの高さを調整
-                st.text_area("", text, height=300)
+                # ファイル名から数字を抽出し、リンクを生成
+                match = re.search(r'\d+', filename)
+                if match:
+                    trouble_id = match.group()
+                    url = f"http://www.nucia.jp/nucia/kn/KnTroubleView.do?troubleId={trouble_id}"
+                    st.markdown(f"[{filename}]({url})")
+                    st.text_area("", text, height=300)
+                else:
+                    st.write(f"{filename} (No ID found)")
+                    st.text_area("", text, height=300)
         else:
             st.error("Please enter a keyword.")
 
