@@ -1,8 +1,7 @@
 import streamlit as st
 import os
 import xml.etree.ElementTree as ET
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import linear_kernel
+from sentence_transformers import SentenceTransformer, util
 
 # XMLファイルから特定の要素のテキスト内容を取得する関数
 def get_xml_text_content(xml_file, element_name='HASSEIJI_JOKYO_TXT'):
@@ -14,8 +13,9 @@ def get_xml_text_content(xml_file, element_name='HASSEIJI_JOKYO_TXT'):
     except Exception as e:
         return ""
 
-# XMLファイルとの類似度検索
+# SentenceTransformersを使用した類似度検索
 def search_similar_documents(keyword, xml_directory='./xml'):
+    model = SentenceTransformer('paraphrase-xlm-r-multilingual-v1')
     xml_texts = []
     xml_files = []
 
@@ -29,17 +29,20 @@ def search_similar_documents(keyword, xml_directory='./xml'):
 
     results = []
     if xml_texts:
-        vectorizer = TfidfVectorizer()
-        tfidf_matrix = vectorizer.fit_transform([keyword] + xml_texts)
-        cosine_similarities = linear_kernel(tfidf_matrix[0:1], tfidf_matrix).flatten()
-        similarity_scores = list(enumerate(cosine_similarities[1:], start=1))
+        # キーワードとXML文書の埋め込みを計算
+        keyword_embedding = model.encode([keyword], convert_to_tensor=True)
+        doc_embeddings = model.encode(xml_texts, convert_to_tensor=True)
+        # コサイン類似度の計算
+        cosine_scores = util.pytorch_cos_sim(keyword_embedding, doc_embeddings)[0]
+
+        similarity_scores = list(enumerate(cosine_scores.tolist()))
         sorted_scores = sorted(similarity_scores, key=lambda x: x[1], reverse=True)[:10]
         for idx, score in sorted_scores:
-            results.append((xml_files[idx-1], score, xml_texts[idx-1]))
+            results.append((xml_files[idx], score, xml_texts[idx]))
 
     return results
 
-# 部分一致検索機能
+# 部分一致検索機能は変更なし
 def search_documents_by_content(keyword, xml_directory='./xml'):
     results = []
     for filename in os.listdir(xml_directory):
