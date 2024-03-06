@@ -66,7 +66,8 @@ def main():
             results = search_similar_documents(keyword)
             for filename, score, text in results:
                 st.write(f"{filename}: Score = {score:.4f}")
-                st.text(text)
+                # 検索結果表示のテキストボックスの高さを調整
+                st.text_area("", text, height=300)
         else:
             st.error("Please enter a keyword.")
     
@@ -76,7 +77,8 @@ def main():
             results = search_documents_by_content(keyword)
             for filename, text in results:
                 st.write(f"{filename}")
-                st.text(text)
+                # 検索結果表示のテキストボックスの高さを調整
+                st.text_area("", text, height=300)
         else:
             st.error("Please enter a keyword.")
 
